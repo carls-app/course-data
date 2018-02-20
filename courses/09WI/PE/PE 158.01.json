@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 158.01",
+	"instructors": [
+		"Kurt M Ramler"
+	],
+	"number": "158.01",
+	"offerings": {
+		"locations": [
+			"Recreation Center WALL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "20778",
+	"tags": [],
+	"title": "Rock Climbing"
+}

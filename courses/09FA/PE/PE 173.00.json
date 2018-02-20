@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 173.00",
+	"instructors": [
+		"Brooke M Plotz"
+	],
+	"number": "173.00",
+	"offerings": {
+		"locations": [
+			"Cowling 012"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "Th",
+				"end": "11:50am",
+				"start": "10:45am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Novice to intermediate swim. Introduction to basic swim skills and technique.",
+	"synonym": "23843",
+	"tags": [],
+	"title": "Swimming, Instructional"
+}

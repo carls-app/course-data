@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 229.00",
+	"instructors": [
+		"Jack Bryce"
+	],
+	"number": "229.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 30,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21790",
+	"tags": [
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		}
+	],
+	"title": "Later Rmn Empire,Byzant&Islam"
+}

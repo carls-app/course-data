@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"$40 class and $50 Buki weapon fees will be auto-charged to tuition"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 102.00",
+	"instructors": [
+		"",
+		"Linda K Luedke"
+	],
+	"number": "102.00",
+	"offerings": {
+		"locations": [
+			"West Gym WRES"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:35pm",
+				"start": "8:45pm"
+			},
+			{
+				"day": "We",
+				"end": "9:35pm",
+				"start": "8:45pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22456",
+	"tags": [],
+	"title": "Aikido, Intermediate"
+}

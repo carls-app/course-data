@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Group III"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 239.00",
+	"instructors": [
+		"Peter J Balaam"
+	],
+	"number": "239.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "21009",
+	"tags": [
+		{
+			"code": "ENGLHE2",
+			"name": "ENGL Hist Era 2"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		}
+	],
+	"title": "American Best Sellers"
+}

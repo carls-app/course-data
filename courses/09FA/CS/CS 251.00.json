@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 251.00",
+	"instructors": [
+		"David R Musicant"
+	],
+	"number": "251.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What makes a programming language like \"Python\" or like \"Java?\" This course will look past superficial properties (like indentation) and into the soul of programming languages. We will explore a variety of topics in programming language construction and design: syntax and semantics, mechanisms for parameter passing, typing, scoping, and control structures. Students will expand their programming experience to include other programming paradigms, including functional languages like Scheme and ML.",
+	"synonym": "22903",
+	"tags": [],
+	"title": "Programming Languages: Design and Implementation"
+}

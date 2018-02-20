@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 340.00",
+	"instructors": [
+		"Shawn VanCour"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Scoville 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21629",
+	"tags": [
+		{
+			"code": "CAMS300THEORY",
+			"name": "CAMS 300-Level Theroy"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "Media Thry:Objects & Methods"
+}

@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 237.00",
+	"instructors": [
+		"Tun Myint"
+	],
+	"number": "237.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20655",
+	"tags": [
+		{
+			"code": "POSICOMPRTV",
+			"name": "Polisci/Ir Comparative Systems"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "Southeast Asian Politics"
+}

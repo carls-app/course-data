@@ -1,0 +1,65 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 330.00",
+	"instructors": [
+		"Greg Marfleet"
+	],
+	"number": "330.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22177",
+	"tags": [
+		{
+			"code": "POSISECFRGNPOL",
+			"name": "Polisci/Ir Security/Foreign PO"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		}
+	],
+	"title": "The Complexity of Politics"
+}

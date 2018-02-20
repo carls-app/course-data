@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 264.00",
+	"instructors": [
+		"Christopher R Heurlin"
+	],
+	"number": "264.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 251"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the political, social and economic transformation of China over the past thirty years. Students will explore the transformation of the countryside from a primarily agricultural society into the factory of the world. Particular emphasis will be placed on economic development and how this has changed state-society relations at the grassroots. The class will explore these changes among farmers, the working class and the emerging middle class. Students will also explore how the Chinese Communist Party has survived and even thrived while many other Communist regimes have fallen and assess the relationship between economic development and democratization.",
+	"synonym": "24016",
+	"tags": [
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		}
+	],
+	"title": "Politics of Contemporary China"
+}

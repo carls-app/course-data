@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 315.00",
+	"instructors": [
+		"Laura M Chihara"
+	],
+	"number": "315.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22172",
+	"tags": [],
+	"title": "Probability and Statistics"
+}

@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 151.00",
+	"instructors": [
+		"Asuka Sango"
+	],
+	"number": "151.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21701",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		}
+	],
+	"title": "Relgs in Chinese Culture"
+}

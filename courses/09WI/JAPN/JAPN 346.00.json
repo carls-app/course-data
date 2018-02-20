@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "JAPN",
+	"id": "JAPN 346.00",
+	"instructors": [
+		"Kathryn W Sparling"
+	],
+	"number": "346.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21878",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		}
+	],
+	"title": "AdvRdngModnJapnLit:Poetry&Dram"
+}

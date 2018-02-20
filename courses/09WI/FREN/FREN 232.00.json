@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"See desc X-list HIST 232"
+	],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 232.00",
+	"instructors": [
+		"Victoria Morse",
+		"Cathy Yandell"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21836",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "FRSTHIST",
+			"name": "FRST History Major"
+		},
+		{
+			"code": "FRSTSUPP",
+			"name": "FRST Supporting Major"
+		}
+	],
+	"title": "Renais Worlds France & Italy"
+}

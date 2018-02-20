@@ -1,0 +1,93 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 234.00",
+	"instructors": [
+		"Jay Levi"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21556",
+	"tags": [
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSENVPERS",
+			"name": "ENTS Environ Perspective"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSINTL",
+			"name": "ENTS International Perspective"
+		},
+		{
+			"code": "ENTSSP",
+			"name": "ENTS Society and Policy"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "POSINTLPOLECON",
+			"name": "Polisci/Ir Intl Political Econ"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "LTAMSOCSCI",
+			"name": "LTAM Social Science"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		}
+	],
+	"title": "Economy, Ecology, Culture"
+}

@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 150.00",
+	"instructors": [
+		"Shana L Sippy"
+	],
+	"number": "150.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A survey of the origins and classical development of the major religious traditions of the Indian subcontinent. Primary attention will be given to the Hindu and Buddhist communities, but Islam and the Jain and Sikh traditions also are considered. Readings are drawn mainly from Indian sources in English translation.",
+	"synonym": "24693",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		}
+	],
+	"title": "Religions of South Asia"
+}

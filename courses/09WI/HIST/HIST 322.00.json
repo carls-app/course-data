@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 322.00",
+	"instructors": [
+		"Harry M Williams"
+	],
+	"number": "322.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21168",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		}
+	],
+	"title": "Civil Rights Movement"
+}

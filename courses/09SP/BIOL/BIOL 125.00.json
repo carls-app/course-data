@@ -1,0 +1,63 @@
+{
+	"comments": [
+		"BIOL 125L required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 125.00",
+	"instructors": [
+		"Debby R Walser-Kuntz",
+		"Jennifer M Wolff"
+	],
+	"number": "125.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21105",
+	"tags": [
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		}
+	],
+	"title": "Genes & Evolution,w prob solv"
+}

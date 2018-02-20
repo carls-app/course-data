@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 244.00",
+	"instructors": [
+		"Stephen F Kennedy"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Euclidean geometry from an advanced perspective; projective, hyperbolic, inversive, and/or other geometries. Recommended for prospective secondary school teachers.",
+	"synonym": "23227",
+	"tags": [],
+	"title": "Geometries"
+}

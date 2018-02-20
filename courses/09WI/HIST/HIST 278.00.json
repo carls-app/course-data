@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 278.00",
+	"instructors": [
+		"Andrew B Fisher"
+	],
+	"number": "278.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21164",
+	"tags": [
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "HISTLTAM",
+			"name": "HIST Latin America"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "RELGPERT",
+			"name": "RELG Pertinent Course"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "Relg & Identity in Ltam Hist"
+}

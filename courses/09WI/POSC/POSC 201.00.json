@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Not open to first years."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 201.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "201.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20642",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		}
+	],
+	"title": "National Policymaking"
+}

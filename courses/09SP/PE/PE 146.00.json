@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 146.00",
+	"instructors": [
+		"Andy Clark"
+	],
+	"number": "146.00",
+	"offerings": {
+		"locations": [
+			"West Gym POOL"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "20850",
+	"tags": [],
+	"title": "Life Guard Training"
+}

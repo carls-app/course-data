@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"BIOL 241 required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 240.00",
+	"instructors": [
+		"Susan R Singer"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 36,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21087",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Genetics"
+}

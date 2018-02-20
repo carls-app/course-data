@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"PHYS 131L required First 5-week Class of 2012 only"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 131.00",
+	"instructors": [
+		"Steve Parker"
+	],
+	"number": "131.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20908",
+	"tags": [],
+	"title": "Newtonian Mechanics"
+}

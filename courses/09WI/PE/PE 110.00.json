@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 110.00",
+	"instructors": [
+		"Aaron D Rushing"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center FIEL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 4,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22321",
+	"tags": [],
+	"title": "Fundamentals of Baseball"
+}

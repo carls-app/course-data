@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 310.00",
+	"instructors": [
+		"Carol Donelan"
+	],
+	"number": "310.00",
+	"offerings": {
+		"locations": [
+			"Scoville 106"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22870",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		}
+	],
+	"title": "Moviegoing and Film Exhibition in America"
+}

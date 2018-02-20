@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 395.02",
+	"instructors": [
+		"Aaron M Swoboda"
+	],
+	"number": "395.02",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "24383",
+	"tags": [
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		}
+	],
+	"title": "Adv Topic-Environment Econ"
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 230.00",
+	"instructors": [
+		"Dev Gupta"
+	],
+	"number": "230.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20679",
+	"tags": [
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		}
+	],
+	"title": "Methods of Political Research"
+}

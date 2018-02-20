@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 109.00",
+	"instructors": [
+		"George G Shuffelton"
+	],
+	"number": "109.00",
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "21024",
+	"tags": [],
+	"title": "Writing Seminar I"
+}

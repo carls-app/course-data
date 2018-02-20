@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 275.00",
+	"instructors": [
+		"John Schott"
+	],
+	"number": "275.00",
+	"offerings": {
+		"locations": [
+			"Scoville 101"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21620",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		}
+	],
+	"title": "Audio Workshop"
+}
