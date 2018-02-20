@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 395.00",
+	"instructors": [
+		"Jim Fisher"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "14417",
+	"tags": [
+		{
+			"code": "CCSTSRSEM",
+			"name": "CCST Senior Seminar"
+		}
+	],
+	"title": "Capstone Seminar"
+}

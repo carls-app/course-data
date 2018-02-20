@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"1st five weeks $20 fee"
+	],
+	"credits": 1.0,
+	"department": "PE",
+	"id": "PE 310.00",
+	"instructors": [
+		"Dave Ricks"
+	],
+	"number": "310.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 225"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 10,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "14582",
+	"tags": [],
+	"title": "First Aid and CPR"
+}

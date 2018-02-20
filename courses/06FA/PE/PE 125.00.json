@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 125.00",
+	"instructors": [
+		"Staff",
+		"Guy A Kalland",
+		"Mikki Showers"
+	],
+	"number": "125.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			},
+			{
+				"day": "Th",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16201",
+	"tags": [],
+	"title": "Folk Dance"
+}

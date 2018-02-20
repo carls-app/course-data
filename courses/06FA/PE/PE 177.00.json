@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 177.00",
+	"instructors": [
+		"Staff",
+		"Guy A Kalland",
+		"Mikki Showers"
+	],
+	"number": "177.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 116"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "7:40pm",
+				"start": "6:30pm"
+			},
+			{
+				"day": "We",
+				"end": "7:40pm",
+				"start": "6:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 24,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16465",
+	"tags": [],
+	"title": "Swing Dance"
+}

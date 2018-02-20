@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 395.01",
+	"instructors": [
+		"David J MacCallum"
+	],
+	"number": "395.01",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "13725",
+	"tags": [
+		{
+			"code": "CGSTELECTIVE",
+			"name": "CGST Elective Course"
+		}
+	],
+	"title": "Android Epistemology"
+}

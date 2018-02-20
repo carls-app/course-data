@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 3.0,
+	"department": "CAMS",
+	"id": "CAMS 222.00",
+	"instructors": [
+		"John Schott",
+		"Paul Hager"
+	],
+	"number": "222.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:00pm",
+				"start": "3:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "14331",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "News Story Workshop"
+}

@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 178.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "178.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:30pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:30pm",
+				"start": "7:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "12915",
+	"tags": [],
+	"title": "Tae Kwon Do"
+}

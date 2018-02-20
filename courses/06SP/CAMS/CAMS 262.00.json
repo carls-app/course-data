@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Second 5-wk"
+	],
+	"credits": 3.0,
+	"department": "CAMS",
+	"id": "CAMS 262.00",
+	"instructors": [
+		"Paul Hager"
+	],
+	"number": "262.00",
+	"offerings": {
+		"locations": [
+			"Scoville 106"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "13488",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		}
+	],
+	"title": "Advanced Editing Techniques"
+}

@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"Fee applies - email instructor for details"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 159.00",
+	"instructors": [
+		"John E Campion",
+		"Mikki Showers"
+	],
+	"number": "159.00",
+	"offerings": {
+		"locations": [
+			"West Gym POOL"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "10:30pm",
+				"start": "5:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 7,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16215",
+	"tags": [],
+	"title": "Scuba"
+}

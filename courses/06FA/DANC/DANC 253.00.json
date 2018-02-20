@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "DANC",
+	"id": "DANC 253.00",
+	"instructors": [
+		"Jane Shockley"
+	],
+	"number": "253.00",
+	"offerings": {
+		"locations": [
+			"Arena Theater THEA"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16524",
+	"tags": [],
+	"title": "Movement for the Performer"
+}

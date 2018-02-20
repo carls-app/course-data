@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"$30 class fee will be auto-charged to tuition"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 103.00",
+	"instructors": [
+		""
+	],
+	"number": "103.00",
+	"offerings": {
+		"locations": [
+			"West Gym WRES"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "7:25pm",
+				"start": "6:15pm"
+			},
+			{
+				"day": "We",
+				"end": "7:25pm",
+				"start": "6:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 13,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "12845",
+	"tags": [],
+	"title": "Aikido, Beginning"
+}

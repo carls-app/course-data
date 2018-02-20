@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 101.00",
+	"instructors": [
+		"Alison M Kettering",
+		"Baird E Jarman"
+	],
+	"number": "101.00",
+	"offerings": {
+		"locations": [
+			"Boliou 104",
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 37,
+		"total": 60,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "15363",
+	"tags": [
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Introduction to Art History I"
+}

@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Must have completed GERM 345 05/FA See desc, Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 346.00",
+	"instructors": [
+		"Anne C Ulmer"
+	],
+	"number": "346.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "13520",
+	"tags": [
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "Viennese Culture on Site"
+}

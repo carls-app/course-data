@@ -1,0 +1,71 @@
+{
+	"comments": [
+		"See desc, Extra time req",
+		"Cross-listed with HIST 130.01"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 130.02",
+	"instructors": [
+		"William L North"
+	],
+	"number": "130.02",
+	"offerings": {
+		"locations": [
+			"Leighton 402",
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "9:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "12400",
+	"tags": [
+		{
+			"code": "RELGPERT",
+			"name": "RELG Pertinent Course"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		}
+	],
+	"title": "Early Christian Thought"
+}
