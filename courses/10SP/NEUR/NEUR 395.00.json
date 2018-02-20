@@ -1,0 +1,50 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 3.0,
+	"department": "NEUR",
+	"id": "NEUR 395.00",
+	"instructors": [
+		"Julie J Neiworth",
+		"Matt Rand",
+		"Jennifer M Wolff",
+		""
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 13,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This capstone seminar will cover current approaches and techniques in the field of neuroscience. Guest speakers and Carleton faculty in neuroscience and related areas will present their research.",
+	"synonym": "24792",
+	"tags": [
+		{
+			"code": "NEURCAP",
+			"name": "NEUR Capstone"
+		}
+	],
+	"title": "Neuroscience Capstone Seminar"
+}

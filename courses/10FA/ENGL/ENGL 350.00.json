@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 350.00",
+	"instructors": [
+		"Arnab Chakladar"
+	],
+	"number": "350.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: One English foundations course and one other 6 credit English course",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Authors from the colonies and ex-colonies of England have complicated understandings of the locations, forms and indeed the language of the contemporary English novel. This course will examine these questions and the theoretical and interpretive frames in which these writers have often been placed, and probe their place in the global marketplace (and awards stage). We will read writers such as Chinua Achebe, V.S Naipaul, Ngugi wa Thiong'o, Salman Rushdie, Nuruddin Farah, Arundhati Roy and Zadie Smith as well as some of the central works of postcolonial literary criticism.",
+	"synonym": "25784",
+	"tags": [
+		{
+			"code": "ENGLT3",
+			"name": "ENGL Tradition 3"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "AFAMLITARTANLYS",
+			"name": "AFAM Literary & Artistic Anly"
+		}
+	],
+	"title": "The Postcolonial Novel: Forms and Contexts"
+}

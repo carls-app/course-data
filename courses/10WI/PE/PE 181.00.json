@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 181.00",
+	"instructors": [
+		"Kurt M Ramler"
+	],
+	"number": "181.00",
+	"offerings": {
+		"locations": [
+			"West Gym GYM"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 10,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the basics of table tennis.",
+	"synonym": "23905",
+	"tags": [],
+	"title": "Table Tennis"
+}

@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 110.00",
+	"instructors": [
+		"Diane M Nemec Ignashev"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is an introduction to the ways in which gender structures our world, and to the ways feminists challenge established intellectual frameworks. However, because gender is not a homogeneous category but is differentiated by class, race, sexualities, ethnicity, and culture, we also consider the ways differences in social location intersect with gender.",
+	"synonym": "26595",
+	"tags": [
+		{
+			"code": "WGSTINTRO",
+			"name": "WGST Introductory"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Introduction to Women's and Gender Studies"
+}

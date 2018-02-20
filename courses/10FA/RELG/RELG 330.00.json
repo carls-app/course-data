@@ -1,0 +1,86 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 330.00",
+	"instructors": [
+		"Terrance Wiley"
+	],
+	"number": "330.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This advanced seminar will explore the emergence of pacifism as a modern tradition and the development of pacifist thinking and activism from the Mexican-American War to the War on Terror. Students will endeavor to understand the religious beliefs, ethical commitments, and ontological assumptions that inform pacifist criticism(s) of modern social order. And consider how pacifism relates to other modern social theories, including Marxism, anarchism, and feminism. Emphasis will be given to the writings of American pacifists, including William Garrison, Adin Ballou, Jessie Hughan, Jane Addams, Dorothy Day, and Martin Luther King Jr., and to the histories and philosophies of major peace organizations.",
+	"synonym": "27567",
+	"tags": [
+		{
+			"code": "SPECINTLEGAL",
+			"name": "Legal Studies"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "RELGAMERTRAD",
+			"name": "RELG Traditions in Americas"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHLVDRELCLT",
+			"name": "RELG Lived Relg & Culture"
+		},
+		{
+			"code": "RELGTHSOCLPWR",
+			"name": "RELG Religion & Social Power"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		}
+	],
+	"title": "Radical Pacifism"
+}

@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"GEOL 360L required Extra time"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 360.00",
+	"instructors": [
+		"Clint Cowan"
+	],
+	"number": "360.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Three 200-level Geology courses.; GEOL 360L",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is based on field examination of outcrops of Lower Paleozoic sedimentary rock. We will interpret the processes involved in the creation, movement, and deposition of these ancient sediments, and try to determine their paleoenvironments. Also of interest are the transformation of these sediments into rock and the analysis and correlation of strata. Weekly laboratories, one overnight trip, and one Saturday trip are required. Please note the late laboratory times. Both paleobiology and geomorphology prepare students for work in sedimentology. This course is intended for upperclass Geology majors, and much of the work is done in teams.",
+	"synonym": "25921",
+	"tags": [],
+	"title": "Sedimentology and Stratigraphy"
+}

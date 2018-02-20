@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 120.00",
+	"instructors": [
+		"John W Weiss"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 42,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22828",
+	"tags": [
+		{
+			"code": "SPECINTPHILSCI",
+			"name": "Philosophy of Science"
+		}
+	],
+	"title": "Revolutions in Physics"
+}

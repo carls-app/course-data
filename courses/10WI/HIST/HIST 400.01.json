@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 400.01",
+	"instructors": [
+		"Clifford E Clark"
+	],
+	"number": "400.01",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Required of all seniors majoring in history. Registration in this course is contingent upon prior approval of a research proposal.",
+	"synonym": "24144",
+	"tags": [],
+	"title": "Integrative Exercise"
+}

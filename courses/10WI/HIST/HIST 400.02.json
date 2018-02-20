@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 400.02",
+	"instructors": [
+		"Victoria Morse"
+	],
+	"number": "400.02",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Required of all seniors majoring in history. Registration in this course is contingent upon prior approval of a research proposal.",
+	"synonym": "24145",
+	"tags": [],
+	"title": "Integrative Exercise"
+}

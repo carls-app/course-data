@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 218.00",
+	"instructors": [
+		"Donna Ricks"
+	],
+	"number": "218.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center FIEL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:30pm",
+				"start": "3:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "5:30pm",
+				"start": "3:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "5:30pm",
+				"start": "3:45pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PEI"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 20,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "26332",
+	"tags": [],
+	"title": "Cross Country Intercollegiate, Women"
+}

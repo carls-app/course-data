@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 252.00",
+	"instructors": [
+		"Arnab Chakladar"
+	],
+	"number": "252.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will examine Anglophone fiction in the Caribbean from the late colonial period through our contemporary moment. We will examine major developments in form and language as well as the writing of identity, personal and (trans)national. We will read works by canonical writers such as V.S Naipaul, George Lamming and Jamaica Kincaid, as well as by lesser known contemporary writers.",
+	"synonym": "23040",
+	"tags": [
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "ENGLT3",
+			"name": "ENGL Tradition 3"
+		},
+		{
+			"code": "AFAMLITARTANLYS",
+			"name": "AFAM Literary & Artistic Anly"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		}
+	],
+	"title": "Caribbean Fiction"
+}

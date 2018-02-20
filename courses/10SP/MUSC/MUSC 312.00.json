@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 312.00",
+	"instructors": [
+		"Lawrence Archbold"
+	],
+	"number": "312.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Music 110 or 200 or instructor permission",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An examination of western art music of the nineteenth and twentieth centuries, including Schubert, Berlioz, Brahms, and Wagner.",
+	"synonym": "23598",
+	"tags": [
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Romantic Music"
+}

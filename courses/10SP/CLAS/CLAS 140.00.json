@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"See desc Extra time"
+	],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 140.00",
+	"instructors": [
+		"Akira V Yatsuhashi"
+	],
+	"number": "140.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 345",
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "24290",
+	"tags": [
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "Ancient Text & Modn Cinema"
+}

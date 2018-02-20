@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 283.00",
+	"instructors": [
+		"John Schott"
+	],
+	"number": "283.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Cinema and Media Studies 110 and 111 or instructor permission",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 14,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Video and photography are coming off the screen, out of the gallery, finding their way into the world through site-specific, installation-style projects. We will take visual projects out of the studio using projection and print techniques that speak and respond to particular locations. Imagine a multi-track movie playing on ten laptops in the Arb; or a film projected on the side of a mobile home with viewers in folding chairs. We will explore VJ software and produce live multi-track visuals to accompany a band performance at the end of the class. This class should be attractive to videographers, musicians, photographers, dancers and others with a speculative, experimental bent.",
+	"synonym": "26813",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		}
+	],
+	"title": "Site-Specific Media: Out and About"
+}

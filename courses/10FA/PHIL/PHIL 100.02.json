@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Held for 2014 Dyad BIOl 125-01 required and BIOL 125L-54 or 59 required"
+	],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 100.02",
+	"instructors": [
+		"Roy Elveton"
+	],
+	"number": "100.02",
+	"offerings": {
+		"locations": [
+			"Scoville 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "26900",
+	"tags": [
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		}
+	],
+	"title": "Evolution and Mind"
+}

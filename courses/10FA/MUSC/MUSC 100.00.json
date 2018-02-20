@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Held for 2014"
+	],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 100.00",
+	"instructors": [
+		"Melinda Russell"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 107"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "26793",
+	"tags": [],
+	"title": "Degenerate Music"
+}

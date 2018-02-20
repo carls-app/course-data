@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"BIOL 353 required."
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 352.00",
+	"instructors": [
+		"Mark McKone"
+	],
+	"number": "352.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis.; Concurrent registration in Biology 353",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An investigation of the properties of populations and communities. Topics include population growth and regulation, life tables, interspecific and intraspecific competition, predation, parasitism, mutualism, the nature of communities, and biogeography.",
+	"synonym": "24230",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		},
+		{
+			"code": "ENTSCDES",
+			"name": "ENTS Consv Dev Env Sci"
+		}
+	],
+	"title": "Population Ecology"
+}

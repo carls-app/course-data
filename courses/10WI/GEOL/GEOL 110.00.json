@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Sophomore Priority.  Extra time for weekend field trips. Note: Movement between sections is not possible, if sections fill during registration, seats that open are filled from that waitlist first."
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 110.00",
+	"instructors": [
+		"Cameron Davidson"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Not open to students who have taken Geology 100 or 120.; GEOL 110L",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the study of earth systems, physical processes operating on the earth, and the history of the earth. Field trips, including an all-day trip, and laboratories included.",
+	"synonym": "25174",
+	"tags": [],
+	"title": "Introduction to Geology"
+}

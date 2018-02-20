@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"PHYS 261L required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 261.00",
+	"instructors": [
+		"Nelson L Christensen"
+	],
+	"number": "261.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Physics 151, 152, 153, or 165",
+	"requirements": [
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The course covers the basic concepts of medical physics. Particular attention is paid to electromagnetism, mechanics and nuclear physics when applied to medical and biological phenomena. Topics include medical imaging techniques, nuclear medicine radiation protection, dosimetry, and physics in biology. Students will visit medical imaging facilities. Note that this course is not appropriate for pre-medical, pre-dental or pre-veterinary requirements.",
+	"synonym": "25994",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Medical Physics"
+}

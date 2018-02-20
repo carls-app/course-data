@@ -1,0 +1,86 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 258.00",
+	"instructors": [
+		"Nancy J Cho"
+	],
+	"number": "258.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines a diverse selection of plays from the 1960s to the present, exploring how different theatrical contexts, from Broadway to regional theater to Off-Off Broadway, frame the staging of ethnic identity. Playwrights and performers to be studied include Amiri Baraka, Alice Childress, Ntozake Shange, George C. Wolfe, Luis Valdez, David Henry Hwang, August Wilson, Philip Gotanda, Maria Irene Fornes, Suzan-Lori Parks, and Anna Deavere Smith. There will be occasional out-of-class film screenings, and attendance at live theater performances when possible.",
+	"synonym": "27163",
+	"tags": [
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "THEAPERT",
+			"name": "THEA Pertinent Course"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "AFAMLITARTANLYS",
+			"name": "AFAM Literary & Artistic Anly"
+		}
+	],
+	"title": "Contemporary American Playwrights of Color"
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 236.00",
+	"instructors": [
+		"Susan R Singer"
+	],
+	"number": "236.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How do plants work? This course is framed in the context of advances in evolution and genomics, which offer insight into physiological, developmental, morphological, and anatomical adaptations to diverse environments. Emphasis is placed on experimental approaches to the study of plants. The biology behind current issues related to food and agriculture, including genetically modified organisms, will be investigated.",
+	"synonym": "24222",
+	"tags": [
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSFAES",
+			"name": "ENTS Food AG Env Sci"
+		}
+	],
+	"title": "Plant Biology"
+}
