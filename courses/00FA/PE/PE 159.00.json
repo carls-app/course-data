@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"$425 lab fees automatically charged to tuition bill"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 159.00",
+	"instructors": [
+		"John E Campion"
+	],
+	"number": "159.00",
+	"offerings": {
+		"locations": [
+			"West Gym POOL"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "6:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 13,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "906",
+	"tags": [],
+	"title": "Scuba"
+}

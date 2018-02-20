@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Lab registration required"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 265.00",
+	"instructors": [
+		"Annia K Fayon"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "592",
+	"tags": [],
+	"title": "Structural Geology"
+}

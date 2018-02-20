@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 125.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "125.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			},
+			{
+				"day": "Th",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3357",
+	"tags": [],
+	"title": "Folk Dance"
+}

@@ -1,0 +1,46 @@
+{
+	"comments": [
+		"BIOL 252 required"
+	],
+	"credits": 2.0,
+	"department": "BIOL",
+	"id": "BIOL 253.00",
+	"instructors": [
+		"Gary E Wagenbach"
+	],
+	"number": "253.00",
+	"offerings": {
+		"locations": [
+			"Hulings 115"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2546",
+	"tags": [
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		}
+	],
+	"title": "Aquatic Biology Laboratory"
+}

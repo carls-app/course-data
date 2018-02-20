@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 327.00",
+	"instructors": [
+		"Susan Jaret McKinstry"
+	],
+	"number": "327.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:15pm",
+				"start": "10:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:15pm",
+				"start": "10:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1970",
+	"tags": [
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "Nineteenth-Century Fiction"
+}

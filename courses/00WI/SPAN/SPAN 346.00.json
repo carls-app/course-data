@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"X-List EDUC 346, FREN 346, GERM 347, RUSS 346",
+		"Cross-listed with EDUC 346.00"
+	],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 346.00",
+	"instructors": [
+		"Nadja D Kramer"
+	],
+	"number": "346.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2286",
+	"tags": [],
+	"title": "Methods-Tch Modrn World Langs"
+}

@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"X-List AMST 220, HIST 220",
+		"Cross-listed with HIST 220.00"
+	],
+	"credits": 6.0,
+	"department": "AFAM",
+	"id": "AFAM 220.00",
+	"instructors": [
+		"Harry M Williams"
+	],
+	"number": "220.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3521",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "AMSTSURVEY2",
+			"name": "AMST 2 Term Survey"
+		},
+		{
+			"code": "AFAMSURVEY",
+			"name": "AFAM Survey Course"
+		}
+	],
+	"title": "African American History I"
+}

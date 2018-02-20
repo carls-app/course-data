@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"Lab registration required See Desc"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 260.00",
+	"instructors": [
+		"Clint Cowan"
+	],
+	"number": "260.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:15pm",
+				"start": "10:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:15pm",
+				"start": "10:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "585",
+	"tags": [],
+	"title": "Sedimentology & Stratigraphy"
+}

@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"X-List HIST 190, ENTS 190",
+		"Cross-listed with HIST 190.00"
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 190.00",
+	"instructors": [
+		"Kirk Jeffrey"
+	],
+	"number": "190.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:15pm",
+				"start": "10:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:15pm",
+				"start": "10:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1488",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "Technology in American History"
+}

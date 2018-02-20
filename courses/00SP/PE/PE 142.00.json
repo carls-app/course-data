@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"$20 fee automatically charged to tuition bill."
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 142.00",
+	"instructors": [
+		""
+	],
+	"number": "142.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 116"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "9:00pm",
+				"start": "7:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3436",
+	"tags": [],
+	"title": "Karate"
+}

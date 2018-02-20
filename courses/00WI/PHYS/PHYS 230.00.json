@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"2nd 5 weeks"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 230.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "230.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2430",
+	"tags": [],
+	"title": "Computational Mechanics"
+}

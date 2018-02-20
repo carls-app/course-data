@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"X-List ENTS 130, LTAM 130"
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 130.00",
+	"instructors": [
+		"Beverly Y Nagel"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 36,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "747",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "ENTSSP",
+			"name": "ENTS Society and Policy"
+		}
+	],
+	"title": "Population&Food in Global Syst"
+}

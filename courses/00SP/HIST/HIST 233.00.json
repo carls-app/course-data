@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 233.00",
+	"instructors": [
+		"William L North"
+	],
+	"number": "233.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 253"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3560",
+	"tags": [
+		{
+			"code": "HISTEUR1450",
+			"name": "HIST Europe to 1450"
+		},
+		{
+			"code": "HISTISLAM",
+			"name": "HIST Islamic History"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		}
+	],
+	"title": "Byzantium:850-1453"
+}

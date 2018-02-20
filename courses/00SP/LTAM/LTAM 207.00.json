@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Cross-listed with SPAN 207.00"
+	],
+	"credits": 6.0,
+	"department": "LTAM",
+	"id": "LTAM 207.00",
+	"instructors": [
+		"Maria E Cueto-Asin"
+	],
+	"number": "207.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 251"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4051",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "SPAN205-209",
+			"name": "Spanish 205-209 Sequence"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "Exploring Hispanic Culture"
+}

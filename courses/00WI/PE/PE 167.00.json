@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 167.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "167.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			},
+			{
+				"day": "We",
+				"end": "5:20pm",
+				"start": "4:25pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 28,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3383",
+	"tags": [],
+	"title": "Social Dance I"
+}

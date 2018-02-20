@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"X-List BIOL 190",
+		"Cross-listed with BIOL 190.00"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 189.00",
+	"instructors": [
+		"Philip Camill"
+	],
+	"number": "189.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 38,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3575",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		}
+	],
+	"title": "Global Change Biology"
+}
