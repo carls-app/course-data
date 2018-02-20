@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"X-list SPAN 334",
+		"Cross-listed with SPAN 334.00"
+	],
+	"credits": 6.0,
+	"department": "LTAM",
+	"id": "LTAM 334.00",
+	"instructors": [
+		"Silvia López"
+	],
+	"number": "334.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "7754",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAM300LIT",
+			"name": "LTAM 300 Level Lit Courses"
+		}
+	],
+	"title": "Texts & Nations: 19th C Ltam"
+}

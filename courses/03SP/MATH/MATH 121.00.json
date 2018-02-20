@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 121.00",
+	"instructors": [
+		"Deanna Haunsperger"
+	],
+	"number": "121.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3885",
+	"tags": [],
+	"title": "Calculus II"
+}

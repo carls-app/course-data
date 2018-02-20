@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"X-list LTAM 227"
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 227.00",
+	"instructors": [
+		"Frank Reilly"
+	],
+	"number": "227.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8556",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Liberation Theologies"
+}

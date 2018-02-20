@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Upperclass only"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 289.00",
+	"instructors": [
+		"Dale W Jamieson",
+		"Tsegaye H Nega"
+	],
+	"number": "289.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 253"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4750",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSINTL",
+			"name": "ENTS International Perspective"
+		},
+		{
+			"code": "ENTSSP",
+			"name": "ENTS Society and Policy"
+		}
+	],
+	"title": "Climate & Society"
+}

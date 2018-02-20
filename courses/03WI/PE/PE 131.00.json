@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"First 6 Weeks."
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 131.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "131.00",
+	"offerings": {
+		"locations": [
+			"Skating Rink RINK"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "5151",
+	"tags": [],
+	"title": "Ice Hockey"
+}

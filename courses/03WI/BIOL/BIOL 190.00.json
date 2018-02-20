@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"X-list ENTS 189"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 190.00",
+	"instructors": [
+		"Karen A Wilson"
+	],
+	"number": "190.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 48,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "3390",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		}
+	],
+	"title": "Global Change Biology"
+}

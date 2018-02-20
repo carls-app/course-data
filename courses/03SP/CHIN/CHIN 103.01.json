@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 103.01",
+	"instructors": [
+		"Mark Hansell"
+	],
+	"number": "103.01",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4764",
+	"tags": [
+		{
+			"code": "ASSTLANG",
+			"name": "Asian Studies Language"
+		}
+	],
+	"title": "Elementary Chinese"
+}

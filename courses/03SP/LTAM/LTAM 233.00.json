@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"X-list POSC 233",
+		"Cross-listed with POSC 233.00"
+	],
+	"credits": 6.0,
+	"department": "LTAM",
+	"id": "LTAM 233.00",
+	"instructors": [
+		"Paul Dosh"
+	],
+	"number": "233.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4251",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "Global Resurgence of Democracy"
+}

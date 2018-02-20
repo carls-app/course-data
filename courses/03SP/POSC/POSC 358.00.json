@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"X-list ENTS 358"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 358.00",
+	"instructors": [
+		"Kelly L Kollman"
+	],
+	"number": "358.00",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4264",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		}
+	],
+	"title": "Comparative Social Movements"
+}

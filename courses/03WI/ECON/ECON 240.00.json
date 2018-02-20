@@ -1,0 +1,75 @@
+{
+	"comments": [
+		"X-list LTAM 240"
+	],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 240.00",
+	"instructors": [
+		"Tamar Khitarishvili"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "5494",
+	"tags": [
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "ASSTCENT",
+			"name": "Asian Studies Central Asia"
+		}
+	],
+	"title": "Econ of Developing Countries"
+}

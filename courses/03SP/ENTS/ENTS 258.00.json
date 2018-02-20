@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"ENTS 258L required X-List GEOL 258",
+		"Cross-listed with GEOL 258.00"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 258.00",
+	"instructors": [
+		"Bill Christner"
+	],
+	"number": "258.00",
+	"offerings": {
+		"locations": [
+			"Mudd 75"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3943",
+	"tags": [
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		}
+	],
+	"title": "Geology of Soils"
+}

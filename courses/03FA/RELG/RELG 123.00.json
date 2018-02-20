@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 123.00",
+	"instructors": [
+		"Shahzad Bashir"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "7571",
+	"tags": [
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTCENT",
+			"name": "Asian Studies Central Asia"
+		}
+	],
+	"title": "Muhammad & Quran"
+}

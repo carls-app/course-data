@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 260.00",
+	"instructors": [
+		"Adeeb Khalid"
+	],
+	"number": "260.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8011",
+	"tags": [
+		{
+			"code": "HISTISLAM",
+			"name": "HIST Islamic History"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSICOMPRTV",
+			"name": "Polisci/Ir Comparative Systems"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Making of Modern Middle East"
+}

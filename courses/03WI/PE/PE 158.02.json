@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 158.02",
+	"instructors": [
+		"Sarah E Hurst"
+	],
+	"number": "158.02",
+	"offerings": {
+		"locations": [
+			"Recreation Center WALL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "5165",
+	"tags": [],
+	"title": "Rock Climbing"
+}

@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"X-List WGST 344, LTAM 344"
+	],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 344.00",
+	"instructors": [
+		"Becky Boling"
+	],
+	"number": "344.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 345"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4301",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "Women Writers in LatAm:Challe"
+}

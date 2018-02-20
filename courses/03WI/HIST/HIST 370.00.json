@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"X-List EDUC 336",
+		"Cross-listed with EDUC 336.00"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 370.00",
+	"instructors": [
+		"John G Ramsay"
+	],
+	"number": "370.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4944",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "Hist of African American Educ"
+}

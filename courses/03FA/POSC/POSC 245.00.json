@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"X-list ENTS 245 See desc"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 245.00",
+	"instructors": [
+		"Kelly L Kollman"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8092",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSSP",
+			"name": "ENTS Society and Policy"
+		},
+		{
+			"code": "POSICOMPRTV",
+			"name": "Polisci/Ir Comparative Systems"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Compar Environ Pol & Policy"
+}

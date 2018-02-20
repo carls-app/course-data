@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 230.00",
+	"instructors": [
+		"Greg Marfleet"
+	],
+	"number": "230.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4213",
+	"tags": [
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		}
+	],
+	"title": "Methods of Political Research"
+}

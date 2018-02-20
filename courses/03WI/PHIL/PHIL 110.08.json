@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 110.08",
+	"instructors": [
+		"Lilli K Alanen"
+	],
+	"number": "110.08",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6137",
+	"tags": [
+		{
+			"code": "CGSTELECTIVE",
+			"name": "CGST Elective Course"
+		}
+	],
+	"title": "Cartesian Meditations"
+}

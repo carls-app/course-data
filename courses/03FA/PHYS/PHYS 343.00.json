@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"PHYS 343L required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 343.00",
+	"instructors": [
+		"Rich Noer"
+	],
+	"number": "343.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6443",
+	"tags": [],
+	"title": "Electronics"
+}

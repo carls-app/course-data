@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 341.00",
+	"instructors": [
+		"Gregory G Hewett"
+	],
+	"number": "341.00",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4021",
+	"tags": [
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "Contemporary Poetry"
+}

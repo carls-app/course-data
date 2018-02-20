@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 215.00",
+	"instructors": [
+		"Laurie A Zaring"
+	],
+	"number": "215.00",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4724",
+	"tags": [
+		{
+			"code": "CGSTELECTIVE",
+			"name": "CGST Elective Course"
+		}
+	],
+	"title": "Syntax of an Unfamiliar Lang"
+}

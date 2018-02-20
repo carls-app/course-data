@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"soph prio X-list ENTS 195"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 195.00",
+	"instructors": [
+		"Robert E Bonner"
+	],
+	"number": "195.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "6250",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		}
+	],
+	"title": "American Environmental Hist"
+}

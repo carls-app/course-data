@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"See desc Formerly HIST 326"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 279.00",
+	"instructors": [
+		"Clifford E Clark"
+	],
+	"number": "279.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4668",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		}
+	],
+	"title": "American Intellectual History"
+}

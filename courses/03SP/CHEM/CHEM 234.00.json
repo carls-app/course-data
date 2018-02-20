@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"CHEM 234L required Soph prio"
+	],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 234.00",
+	"instructors": [
+		"Jerry R Mohrig"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 43,
+		"total": 44,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3574",
+	"tags": [],
+	"title": "Organic Chemistry II"
+}

@@ -1,0 +1,59 @@
+{
+	"comments": [
+		"X-List WGST 222"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 222.00",
+	"instructors": [
+		"Annette Igra"
+	],
+	"number": "222.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4204",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTSURVEY2",
+			"name": "AMST 2 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "U.S. Women to 1877"
+}

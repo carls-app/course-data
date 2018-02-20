@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"WR"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 112.02",
+	"instructors": [
+		"Sarah A Wadsworth"
+	],
+	"number": "112.02",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4039",
+	"tags": [
+		{
+			"code": "AMSTSURVEY1",
+			"name": "AMST 1 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "American Literature"
+}

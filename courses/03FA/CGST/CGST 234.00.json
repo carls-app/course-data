@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"X-list PSYC 234",
+		"Cross-listed with PSYC 234.00"
+	],
+	"credits": 6.0,
+	"department": "CGST",
+	"id": "CGST 234.00",
+	"instructors": [
+		"Mija M Van Der Wege"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6674",
+	"tags": [],
+	"title": "Psychology of Language"
+}

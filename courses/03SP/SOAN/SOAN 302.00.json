@@ -1,0 +1,63 @@
+{
+	"comments": [
+		"X-list LTAM 302"
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 302.00",
+	"instructors": [
+		"Jay Levi"
+	],
+	"number": "302.00",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4363",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAM300SOCSCI",
+			"name": "LTAM 300 Soc Science"
+		}
+	],
+	"title": "Anthro & Indigenous Rights"
+}

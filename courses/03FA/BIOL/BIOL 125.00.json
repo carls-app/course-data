@@ -1,0 +1,58 @@
+{
+	"comments": [
+		"BIOL 125L required See desc, meets 5X a week, with problem solving see http://www.acad.carleton.edu/curricular/biol"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 125.00",
+	"instructors": [
+		"Debby R Walser-Kuntz",
+		"Susan R Singer"
+	],
+	"number": "125.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 50,
+		"total": 60,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6412",
+	"tags": [],
+	"title": "IntI:Genes&Evol w/Prob Solve"
+}

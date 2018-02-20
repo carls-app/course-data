@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"X-list LTAM 170"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 170.00",
+	"instructors": [
+		"Jeane H DeLaney"
+	],
+	"number": "170.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4416",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "HISTLTAM",
+			"name": "HIST Latin America"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "Modern Latin America"
+}
