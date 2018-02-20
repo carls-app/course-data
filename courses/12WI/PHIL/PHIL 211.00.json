@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 211.00",
+	"instructors": [
+		"Anna Moltchanova"
+	],
+	"number": "211.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: 100-level Philosophy course or instructor permission",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The aim of metaphysics has traditionally been to identify the nature and structure of reality. The topics of this course are the topology of time, identity of things and individuals, causality, free will, and the referents of general terms. We will read a variety of classic and contemporary texts, which are organized topically.",
+	"synonym": "30090",
+	"tags": [
+		{
+			"code": "PHILTHEORY",
+			"name": "Philosophy Theoretical Area"
+		}
+	],
+	"title": "Being, Time and Identity"
+}

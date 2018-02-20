@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 240.00",
+	"instructors": [
+		"Elizabeth McKinsey"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The history of American culture has always been shaped by a dialectic between the local and the universal, the regional and the national. The particular geography and history of the Midwest (the prairie, the plains, the old Northwest, Native Americans and white adventurers, settlers and immigrants) have shaped its livelihoods, its identities, its meanings. Focusing on the late nineteenth and early twentieth centuries, this course will explore literature, art history, and the social and cultural history of the Midwest.",
+	"synonym": "29657",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		}
+	],
+	"title": "The Midwest and the American Imagination"
+}

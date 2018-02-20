@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 284.00",
+	"instructors": [
+		"John Schott"
+	],
+	"number": "284.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235",
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Students should have their own digital camera; software is provided.",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This edition of the workshop will focus on photographic portraiture. Students will begin reading on the history and theory of portraiture and representation in photography, art, and cinema. With this grounding, they will undertake multiple creative portrait assignments in a wide variety of styles, including street styles, studio set-ups and lighting, editorial/fashion, documentary portraiture, and conceptual projects. This class will take advantage of the CAMS studios in The Weitz Center for Creativity.",
+	"synonym": "29681",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		}
+	],
+	"title": "Digital Photography Workshop"
+}

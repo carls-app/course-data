@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 151.00",
+	"instructors": [
+		"Asuka Sango"
+	],
+	"number": "151.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the major religious traditions of China, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining charactersistics of, and interactions among, various religious traditions, including Buddhism, Daoism, and the Confuciansim, as well as Christianity and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
+	"synonym": "30447",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		}
+	],
+	"title": "Religions in Chinese Culture"
+}

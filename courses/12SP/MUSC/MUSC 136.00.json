@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 136.00",
+	"instructors": [
+		"Andy Flory"
+	],
+	"number": "136.00",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL05"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 31,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A survey of rock and roll from its beginnings to the present day, focusing on the performers, composers and the music industry. A one-credit trailing course, Ethics and Digital Ownership, PHIL 199, is available to interested students.",
+	"synonym": "30676",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		}
+	],
+	"title": "History of Rock"
+}

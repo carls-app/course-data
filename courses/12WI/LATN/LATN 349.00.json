@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 349.00",
+	"instructors": [
+		"Chris Polt"
+	],
+	"number": "349.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Latin 204 or the equivalent",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Reading Ovid's",
+	"synonym": "29806",
+	"tags": [],
+	"title": "Ovid's"
+}

@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 161.00",
+	"instructors": [
+		"Amna Khalid"
+	],
+	"number": "161.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A survey of the modern history of the Indian sub-continent from the establishment of the Mughal Court in North India (1525 AD) until the formation of the Republic of India (1947 AD), including the regional states, the British East India Company, British colonial rule and the rise of nationalism. Students will be asked to consider the differences between the early modern and colonial periods, and the empires of the subcontinent.",
+	"synonym": "30280",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "History of Modern India, c. 1700-1047"
+}

@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Applies to the Music Major (Ethnomusicology)"
+	],
+	"credits": 6.0,
+	"department": "MELA",
+	"id": "MELA 241.00",
+	"instructors": [
+		"Maureen B Jackson"
+	],
+	"number": "241.00",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 2,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "31387",
+	"tags": [
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "MUSCPERT",
+			"name": "Music Pertinent"
+		}
+	],
+	"title": "Ottoman-Turkish History Through Music"
+}

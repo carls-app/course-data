@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"BIOL 353 required."
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 352.00",
+	"instructors": [
+		"Annie Bosacker"
+	],
+	"number": "352.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis.; Concurrent registration in Biology 353",
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An investigation of the properties of populations and communities. Topics include population growth and regulation, life tables, interspecific and intraspecific competition, predation, parasitism, mutualism, the nature of communities, and biogeography.",
+	"synonym": "28739",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSCDES",
+			"name": "ENTS Consv Dev Env Sci"
+		}
+	],
+	"title": "Population Ecology"
+}

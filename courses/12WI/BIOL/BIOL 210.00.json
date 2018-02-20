@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 210.00",
+	"instructors": [
+		"Daniel L Hernández"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: One introductory science lab course (Biology 125, 126, Chemistry 123, 128, Geology 110, 115 or 120)",
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 36,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Environmental problems are caused by a complex mix of physical, biological, social, economic, political, and technological factors. This course explores how these environmental problems affect life on Earth by examining the biological processes underlying natural ecological systems and the effects of global environmental changes such as resources consumption and overharvesting, land-use change, climate warming, pollution, extinction and biodiversity loss, and invasive species.",
+	"synonym": "28704",
+	"tags": [
+		{
+			"code": "ENTSCORE",
+			"name": "ENTS Core Course"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		}
+	],
+	"title": "Global Change Biology"
+}

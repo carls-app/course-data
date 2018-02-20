@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 340.00",
+	"instructors": [
+		"Noah Salomon"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will explore the intellectual origins and contemporary manifestations of movements of Islamic renewal. First, by reading the classical texts which undergird the theology and social action of revivalist trends while simultaneously examining how such texts attain new meaning in the present moment, we will problematize the oft-stated dichotomy between tradition and modernity. Next, through exploring ethnographic and sociological accounts of contemporary Islamic piety movements (of Sufi and Salafi varieties, and the unaffiliated) we will explore the relevance of religion to current debates about ethics, politics, gender, and the arts in the Islamic world and beyond.",
+	"synonym": "30443",
+	"tags": [
+		{
+			"code": "RELGISLAMICTRAD",
+			"name": "RELG Islamic Traditions"
+		},
+		{
+			"code": "RELGTHLVDRELCLT",
+			"name": "RELG Lived Relg & Culture"
+		},
+		{
+			"code": "RELGTHSOCLPWR",
+			"name": "RELG Religion & Social Power"
+		}
+	],
+	"title": "Contemporary Islamic Renewal"
+}

@@ -1,0 +1,76 @@
+{
+	"comments": [
+		"Cross-listed with POSC 349."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 259.00",
+	"instructors": [
+		"Laurence D Cooper"
+	],
+	"number": "259.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "30408",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-PLI2",
+			"name": "Philosophic & Legal Inq 2"
+		}
+	],
+	"title": "Justice Among Nations"
+}

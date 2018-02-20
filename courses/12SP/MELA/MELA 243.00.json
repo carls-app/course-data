@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MELA",
+	"id": "MELA 243.00",
+	"instructors": [
+		"Maureen B Jackson"
+	],
+	"number": "243.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "30347",
+	"tags": [
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Jews in a Multiethnic Empire"
+}

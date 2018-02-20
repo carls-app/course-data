@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"RELG 222, 11/FA required Instr perm"
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 223.00",
+	"instructors": [
+		"Louis E Newman"
+	],
+	"number": "223.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Hebrew 222 or Religion 222",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is the second part of a two-term sequence beginning with Religion 222 and will give students an opportunity to develop a research project on a topic of their choice on the state of Judaism in Israel. It is anticipated that research projects will be shared in a public symposium at the end of the term.",
+	"synonym": "30438",
+	"tags": [
+		{
+			"code": "JDSTPERT",
+			"name": "Judiac Studies Pertinent"
+		}
+	],
+	"title": "Research on Israel"
+}

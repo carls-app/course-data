@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GRK",
+	"id": "GRK 245.00",
+	"instructors": [
+		"Chris Polt"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Greek 204 or the equivalent",
+	"requirements": [
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we will read and examine selections from Herodotus's",
+	"synonym": "29799",
+	"tags": [],
+	"title": "Herodotus's Histories"
+}

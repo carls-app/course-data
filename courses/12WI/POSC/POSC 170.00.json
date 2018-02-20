@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 170.00",
+	"instructors": [
+		"Roy Grow"
+	],
+	"number": "170.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 40,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
+	"synonym": "30367",
+	"tags": [
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "POECLOWER",
+			"name": "Political Economy Lower Level"
+		}
+	],
+	"title": "International Relations and World Politics"
+}

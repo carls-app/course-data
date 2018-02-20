@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 261.00",
+	"instructors": [
+		"Stephen Strand"
+	],
+	"number": "261.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Economics 110 and 111",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "30233",
+	"tags": [],
+	"title": "Managerial Economics II"
+}

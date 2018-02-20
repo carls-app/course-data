@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"X-list ASTR 232",
+		"Cross-listed with ASTR 232.00"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 232.00",
+	"instructors": [
+		"Cindy Blaha"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "30574",
+	"tags": [],
+	"title": "Astrophysics I"
+}

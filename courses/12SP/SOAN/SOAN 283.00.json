@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 283.00",
+	"instructors": [
+		"Daniel Williams"
+	],
+	"number": "283.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Immigration has always been a defining feature of American society, yet in European countries it has also been raising a number of questions about national identity, citizenship, belonging and rights. Who are contemporary immigrants in the United States and Europe? How are they received in host societies? How do they participate in and become incorporated into the host society? What ties do they maintain to their countries of origin? How do policies respond to and shape immigrants and immigration? In this course, we will consider these questions and more from the perspectives of immigrants as well as host societies.",
+	"synonym": "31382",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		}
+	],
+	"title": "Immigration and Immigrants in Europe and the United States"
+}

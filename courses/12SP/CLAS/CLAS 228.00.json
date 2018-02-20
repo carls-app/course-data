@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 228.00",
+	"instructors": [
+		"Kathryn L Steed"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Introduction to Rome's political and social history from the Etruscan period to the end of the Republic. Topics include Roman political culture, the acquisition of empire, the role of the army, the psychology of Rome, and interpretation of historical evidence. Based largely on primary source readings.",
+	"synonym": "29791",
+	"tags": [
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		}
+	],
+	"title": "The Roman Republic"
+}

@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 350.00",
+	"instructors": [
+		"Qiguang Zhao"
+	],
+	"number": "350.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Introduction to traditional and modern Chinese poems and short stories. The most beautiful poems ever written by the Chinese language help students to experience beauty, inspiration, and emotional purification. Selected stories read and discussed in detail will advance students' proficiency in oral and written Chinese.",
+	"synonym": "29760",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Advanced Chinese: Poems and Stories"
+}

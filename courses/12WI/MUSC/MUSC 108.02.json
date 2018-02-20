@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 108.02",
+	"instructors": [
+		"John Ellinger"
+	],
+	"number": "108.02",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "7:15pm",
+				"start": "5:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "7:15pm",
+				"start": "5:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 14,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A course in using the computer to make meaningful interventions into our practices as musicians. We'll explore a number of approaches to composing, producing, and hearing music, among them coding, visual programming, and working in a digital audio workstation. Students will ultimately combine and hybridize these different methods in order to create unique, individual systems, using them to make new work. Open to all interested students; no prior experience with music, programming, or production required.",
+	"synonym": "31192",
+	"tags": [],
+	"title": "Introduction to Music Technology"
+}

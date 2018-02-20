@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 121.01",
+	"instructors": [
+		"Jack Goldfeather"
+	],
+	"number": "121.01",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 101, 111 or placement via Calculus Placement Exam # 2",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Integration techniques, improper integrals, the calculus of the logarithmic, exponential and inverse trigonometric functions, applications, Taylor polynomials and infinite series.",
+	"synonym": "28988",
+	"tags": [],
+	"title": "Calculus II"
+}

@@ -1,0 +1,99 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 150.00",
+	"instructors": [
+		"Kristin C Bloomer"
+	],
+	"number": "150.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A survey of the origins and classical development of the major religious traditions of the Indian subcontinent. Primary attention will be given to the Hindu and Buddhist communities, but Islam and the Jain and Sikh traditions also are considered. Readings are drawn mainly from Indian sources in English translation.",
+	"synonym": "30446",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		},
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		},
+		{
+			"code": "RELGHINDUTRAD",
+			"name": "RELG Hindu Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHLVDRELCLT",
+			"name": "RELG Lived Relg & Culture"
+		},
+		{
+			"code": "RELGTHSOCLPWR",
+			"name": "RELG Religion & Social Power"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "Religions of South Asia"
+}

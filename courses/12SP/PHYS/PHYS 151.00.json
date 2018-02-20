@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"PHYS 151L required Second 5-week"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 151.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "151.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 121 (completion or concurrent regisration) and Physics 131 (completion or concurrent registration) or 132, 141 or 142; Concurrent registration in Physics 151L",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to principles of physics in the domain of the very small and very fast. Topics include the special theory of relativity, and selected applications to atomic, nuclear, and particle physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
+	"synonym": "28808",
+	"tags": [],
+	"title": "Introduction to Physics: Relativity and Particles"
+}

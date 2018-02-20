@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 219.00",
+	"instructors": [
+		"Kai Herklotz"
+	],
+	"number": "219.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 231"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course offers an introduction to German culture after 1945 through the lens of film. We will treat films over a broad range of topics, with a special emphasis on (1) the shifting angles from which filmmakers remember the Holocaust and World War II, (2) migration and multiculturalism, especially German-Turkish relations, and (3) reflections on the GDR past and on life in post-reunification Germany. The careful analysis of each film will be framed by a discussion of its socio-historical context, in order to reflect the unique manner in which cinema engages with historical, cultural and political debates. Taught in English.",
+	"synonym": "29955",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "\"Good Bye, Lenin!\" German Post War Culture, History and Politics through Film"
+}
