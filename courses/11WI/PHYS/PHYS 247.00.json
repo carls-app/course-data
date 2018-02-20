@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"PHYS 247L required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 247.00",
+	"instructors": [
+		"Liz McDowell"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 208",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A study of the digital electronics involved in computers, ranging from basic logic circuits to microprocessors. Weekly lab. Each student will complete a term paper that will involve projections about future developments in computer electronics, and a lab project that will involve circuit design.",
+	"synonym": "26019",
+	"tags": [
+		{
+			"code": "CSELECT",
+			"name": "CS Elective"
+		}
+	],
+	"title": "Digital Electronics"
+}

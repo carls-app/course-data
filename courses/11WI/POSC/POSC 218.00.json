@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Not open to first year students."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 218.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "218.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Sophomore Standing",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What can scholarship tell us about educational strategies to reduce achievement gaps and economic opportunity? Do the policies promoted at the city, state and federal levels reflect that knowledge? How are these policies made? What is the relationship between schools and the economic class, racial composition and housing stock of their neighborhoods?",
+	"synonym": "27023",
+	"tags": [],
+	"title": "Schools, Scholarship and Policy in the United States"
+}

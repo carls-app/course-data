@@ -1,0 +1,69 @@
+{
+	"comments": [
+		"Sept 19, 2011 to Sept 30, 2011 Drop/add deadline: 9/20/11, 4:30p.m."
+	],
+	"credits": 1.0,
+	"department": "ECON",
+	"id": "ECON 247.00",
+	"instructors": [
+		"Gavin Wright"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 6,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "30216",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		}
+	],
+	"title": "Economics of the Civil Rights Revolution"
+}

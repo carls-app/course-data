@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 210.00",
+	"instructors": [
+		"Roger R Jackson",
+		"Van Dusenbery"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How do global processes affect local cultures (and vice versa)? How do transnational movements of people, goods, capital, images and ideas affect identities? Is it really possible to translate, compare, and converse across cultures? Such questions animate this course, which aims to expose CCST concentrators, as well as interested students in related majors and concentrations, to theories and methods in the interdisciplinary field variously called global studies or cross-cultural studies. To model interdisciplinary conversation and methods of inquiry, the course incorporates co-instructors and guest presenters from the humanities and social sciences and includes readings drawn from multiple disciplines.",
+	"synonym": "25876",
+	"tags": [
+		{
+			"code": "CCSTCORE",
+			"name": "CCST Core Courses"
+		},
+		{
+			"code": "SOANPERT",
+			"name": "SOAN Pertinent Course"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Global/Local Perspectives"
+}

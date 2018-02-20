@@ -1,0 +1,62 @@
+{
+	"comments": [
+		"Held for 2015 Extra time, W 7-10pm"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 100.04",
+	"instructors": [
+		"Pierre Hecker"
+	],
+	"number": "100.04",
+	"offerings": {
+		"locations": [
+			"Laird 205",
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "We",
+				"end": "10:00pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "30017",
+	"tags": [
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "Imagining a Self"
+}

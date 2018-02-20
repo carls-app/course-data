@@ -1,0 +1,93 @@
+{
+	"comments": [
+		"In Translation"
+	],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 235.00",
+	"instructors": [
+		"Cherif Keïta"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		},
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "26499",
+	"tags": [
+		{
+			"code": "FRSTELECAL",
+			"name": "FRST Elec AL Track"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "CCSTBINARY",
+			"name": "CCST Binary Comparison"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "FRSTSUPP",
+			"name": "FRST Supporting Major"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		},
+		{
+			"code": "AFAMLITARTANLYS",
+			"name": "AFAM Literary & Artistic Anly"
+		}
+	],
+	"title": "Francophone Lit/Afr&Caribbean"
+}

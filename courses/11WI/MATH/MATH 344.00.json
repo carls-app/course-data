@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 344.00",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "344.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or permission of the instructor.",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Local and global theory of curves, Frenet formulas. Local theory of surfaces, normal curvature, geodesics, Gaussian and mean curvatures, Theorema Egregium.",
+	"synonym": "26561",
+	"tags": [],
+	"title": "Differential Geometry"
+}

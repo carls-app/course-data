@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 244.00",
+	"instructors": [
+		"Frank A Farris"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Euclidean geometry from an advanced perspective; projective, hyperbolic, inversive, and/or other geometries. Recommended for prospective secondary school teachers.",
+	"synonym": "28979",
+	"tags": [],
+	"title": "Geometries"
+}

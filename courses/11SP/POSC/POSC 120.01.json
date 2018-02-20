@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 120.01",
+	"instructors": [
+		"Dev Gupta"
+	],
+	"number": "120.01",
+	"offerings": {
+		"locations": [
+			"Boliou 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the fundamentals of government and the variety of ways politics is practiced in different countries. Capitalist democracies, transitional states and developing nations are compared.",
+	"synonym": "27052",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Comparative Political Regimes"
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Held for 2015"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 100.01",
+	"instructors": [
+		"Susannah R Ottaway"
+	],
+	"number": "100.01",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "30259",
+	"tags": [],
+	"title": "Medicine and Disease in the Making of the Modern World"
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 213.00",
+	"instructors": [
+		"Daniel M Groll"
+	],
+	"number": "213.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "How should we live? This is the fundamental question for the study of ethics. This course looks at classic and contemporary answers to the fundamental question from Socrates to Kant to modern day thinkers. Along the way, we consider slightly (but only slightly) more tractable questions such as: What reason is there to be moral? Is there such a thing as moral knowledge (and if so, how do we get it)? What are the fundamental principles of right and wrong (if there are any at all)? Is morality objective?",
+	"synonym": "30086",
+	"tags": [
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "PHILCORE",
+			"name": "Philosophy Core Courses"
+		}
+	],
+	"title": "Ethics"
+}

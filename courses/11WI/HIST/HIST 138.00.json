@@ -1,0 +1,87 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 138.00",
+	"instructors": [
+		"Victoria Morse"
+	],
+	"number": "138.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the complex and sometimes contradictory roles of crusade and mission in the gradual expansion of Europe (eleventh -fifteenth century) into the eastern Mediterranean, the Iberian peninsula, the Baltic, and even Central Asia. We will examine questions like: What did \"crusade\" or \"mission\" mean? How did people respond to, resist, or co-opt these enterprises? Did crusade and mission expand Europeans' knowledge of other cultures? In addition to critical analysis of primary sources and current scholarship, the course will offer opportunities to share knowledge with a broader public.",
+	"synonym": "27631",
+	"tags": [
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Crusades, Mission, and the Expansion of Europe"
+}

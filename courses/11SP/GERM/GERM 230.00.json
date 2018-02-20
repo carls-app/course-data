@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 230.00",
+	"instructors": [
+		"Roger Paas"
+	],
+	"number": "230.00",
+	"offerings": {
+		"locations": [
+			"Library 170"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:00pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "5:00pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Gutenberg's invention of printing with movable type has had a far-reaching impact on the political, social, and intellectual development in the Western World. A similarly profound revolution is taking place today with the use of computers. This course focuses on the major developments in printing since 1450 against the relevant historical and social background. In addition to lectures and discussions there is a weekly \"lab,\" in which students will gain first-hand knowledge of such techniques as woodcutting, engraving, etching, lithography, bookbinding, and papermaking. In English translation.",
+	"synonym": "28201",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		}
+	],
+	"title": "From Gutenberg to Gates: The History and Practice of Printing"
+}

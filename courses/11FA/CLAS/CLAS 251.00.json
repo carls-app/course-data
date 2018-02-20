@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Open to students proficient in any lang"
+	],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 251.00",
+	"instructors": [
+		"Chris Polt"
+	],
+	"number": "251.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Competence in any language other than English beyond four terms of study, or permission of the instructor.",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We live in a world permeated by different languages at every level--from literary texts to multilingual instruction manuals, from newspapers and books to songs and films--and we all translate every day, whether we know it or not. This course aims to examine major issues related to translation, including its history, theory, and practice, as well as what ideological and ethical concerns translation poses today. We will also explore translation's relationship to issues of literature, religion, culture, race and ethnicity, and sex and gender.",
+	"synonym": "29783",
+	"tags": [
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		}
+	],
+	"title": "Translation Theory and Practice"
+}

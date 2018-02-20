@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 254.00",
+	"instructors": [
+		"Seungjoo Yoon"
+	],
+	"number": "254.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course explores the colonialisms in East Asia, both internal and external. Students examine Chinese, Inner Asian, Japanese, and European colonialisms from the seventeenth century to the present. Geographically, students cover borderlands of East Asian empires (Tibet, Xinjiang, Mongolia, Manchuria, Fujian, Yunnan, Canton, Vietnam, Taiwan, Korea, Okinawa, and Hokkaido). Methodologically, students eschew power-politics and historical studies of \"frontier\" regions in order to analyze everyday aspects of colonial arrangements and communities in different historical moments from the bottom up. Topics include ethnic identities, racial discourses, colonial settlements, opium regimes, violence and memory (e.g. Nanjing massacre), and forced labor migrations (e.g. comfort women).",
+	"synonym": "26238",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTCENT",
+			"name": "Asian Studies Central Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "Colonialism in East Asia"
+}

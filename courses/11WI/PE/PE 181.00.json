@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 181.00",
+	"instructors": [
+		"Kurt M Ramler"
+	],
+	"number": "181.00",
+	"offerings": {
+		"locations": [
+			"LAST PE"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the basics of table tennis.",
+	"synonym": "26383",
+	"tags": [],
+	"title": "Table Tennis"
+}

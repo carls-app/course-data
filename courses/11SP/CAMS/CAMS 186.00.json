@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 186.00",
+	"instructors": [
+		"Carol Donelan"
+	],
+	"number": "186.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "In this course we survey four or more genres, including but not limited to the Western, the musical, the horror film, the comedy, and the science-fiction film. What criteria are used to place a film in a particular genre? What role do audiences and studios play in the creation and definition of film genres? Where do genres come from? How do genres change over time? What roles do genres play in the viewing experience? What are hybrid genres and subgenres? What can genres teach us about society? Assignments aim to develop skills in critical analysis, research and writing.",
+	"synonym": "28331",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "Film Genres"
+}

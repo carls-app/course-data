@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "THEA",
+	"id": "THEA 312.00",
+	"instructors": [
+		"Ruth Weiner"
+	],
+	"number": "312.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 172"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Theater 110 or 211.",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 14,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Problems in Acting will focus on text analysis and questions of method, style and (acting) theory in the performance of scenes selected from plays of different periods and genres. Students will collaborate in the presentation of scenes and monologues taken from a broad variety of works.",
+	"synonym": "30183",
+	"tags": [],
+	"title": "Problems in Acting"
+}

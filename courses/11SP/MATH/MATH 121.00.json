@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 121.00",
+	"instructors": [
+		"Stephen F Kennedy",
+		"Jon Armel"
+	],
+	"number": "121.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 101, 111 or placement via Calculus Placement Exam # 2",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Integration techniques, improper integrals, the calculus of the logarithmic, exponential and inverse trigonometric functions, applications, Taylor polynomials and infinite series.",
+	"synonym": "26571",
+	"tags": [],
+	"title": "Calculus II"
+}

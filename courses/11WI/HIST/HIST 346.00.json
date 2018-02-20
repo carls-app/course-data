@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 346.00",
+	"instructors": [
+		"David G Tompkins"
+	],
+	"number": "346.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will grapple with the difficult and complicated phenomenon of the genocide of the Jews of Europe. We will explore anti-Semitism in its historical context, both in the German-speaking lands as well as in Europe as a whole. The experience of Jews in Nazi Germany will be an area of focus, but this class will look at European Jews more broadly, both before and during the Second World War. The question of responsibility and guilt will be applied to Germans as well as to other European societies, and an exploration of victims will extend to other affected groups.",
+	"synonym": "26243",
+	"tags": [
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "The Holocaust"
+}

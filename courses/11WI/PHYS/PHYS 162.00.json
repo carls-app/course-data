@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"First 5-week PHYS 162L required"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 162.00",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "162.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 47,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "26013",
+	"tags": [],
+	"title": "Light and Optics"
+}

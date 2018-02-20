@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GRK",
+	"id": "GRK 304.00",
+	"instructors": [
+		"Chris Polt"
+	],
+	"number": "304.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 242"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Greek 204",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 2,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Intensive study of one play in the original and the remaining plays in translation. Offered simultaneously with Greek 204, with additional assignments for the advanced students.",
+	"synonym": "25710",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Greek Tragedy for Advanced Students"
+}

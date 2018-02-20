@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 258.00",
+	"instructors": [
+		"Laurence D Cooper"
+	],
+	"number": "258.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Is personal ambition a threat to peace and the public good or is it a prod to nobility and heroism? Does it exemplify the opposition between self and society or does it represent their intersection and mutual support­--or both? Drawing on literary, philosophical, and historical works this course will take up these and other questions as part of a broad examination of the role of ambition in politics.",
+	"synonym": "27064",
+	"tags": [
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Politics and Ambition"
+}

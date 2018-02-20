@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"CHEM 123L required"
+	],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 123.00",
+	"instructors": [
+		"Steven M Drew"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Evaluation (Chemistry Home Page) or Chemistry 122.; CHEM 123L",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 41,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to chemistry for students who have taken high school chemistry or Chemistry 122. Topics include the electronic structure of atoms, periodicity, molecular geometry, thermodynamics, bonding, equilibrium, reaction kinetics, and acids and bases. Substantial independent project work is included in the lab. Each offering will also focus on a special topic(s) selected by the instructor. Students cannot receive credit for both Chemistry 123 and 128.",
+	"synonym": "28544",
+	"tags": [
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		}
+	],
+	"title": "Principles of Chemistry"
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 282.00",
+	"instructors": [
+		"Pavel S Kapinos"
+	],
+	"number": "282.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Economics 110 and 111",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 31,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The main objective of this course is to investigate various aspects of modern portfolio theory and develop basic techniques for applying this theoretical framework to real-world data. Topics covered include portfolio and asset pricing theories, and derivatives with the primary focus on option pricing. The class will develop and actively use univariate calculus for theory-building and statistical techniques for data analysis.",
+	"synonym": "30220",
+	"tags": [
+		{
+			"code": "POECAPP",
+			"name": "Politi Econ Amer Public Policy"
+		},
+		{
+			"code": "POECUPAPP",
+			"name": "POEC Amer Pub Pol Upper Lvl"
+		}
+	],
+	"title": "The Theory of Investment Finance"
+}

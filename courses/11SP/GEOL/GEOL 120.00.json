@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Soph prio GEOL 120L required Extra time"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 120.00",
+	"instructors": [
+		"Isaac J Larsen"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Not open to students who have taken another Geology 100-level course.; GEOL 120L",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to geology emphasizing environmental health and humankind's use and abuse of soil, water, fuels, and other resources. Field trips and laboratories included.",
+	"synonym": "25952",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		}
+	],
+	"title": "Introduction to Environmental Geology"
+}

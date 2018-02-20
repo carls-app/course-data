@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 231.00",
+	"instructors": [
+		"Lori K Pearson"
+	],
+	"number": "231.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Martin Luther and the Reformation have often been understood as crucial factors in the rise of \"modernity.\" Yet, the Reformation was also a medieval event, and Luther was certainly a product of the late Middle Ages. This class focuses on the theology of the Protestant Reformation, and traces its legacy in the modern world. We read Luther, Calvin, and Anabaptists, exploring debates over politics, church authority, scripture, faith, and salvation. We then trace the appropriation of these ideas by modern thinkers, who draw upon the perceived individualism of the Reformers in their interpretations of religious experience, despair, freedom, and secularization.",
+	"synonym": "27579",
+	"tags": [
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		}
+	],
+	"title": "From Luther to Kierkegaard"
+}

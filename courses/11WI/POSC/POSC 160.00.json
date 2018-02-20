@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 160.00",
+	"instructors": [
+		"Mihaela Czobor-Lupp"
+	],
+	"number": "160.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Introduction to ancient and modern political philosophy. We will investigate several fundamentally different approaches to the basic questions of politics--questions concerning the character of political life, the possibilities and limits of politics, justice, and the good society--and the philosophic presuppositions (concerning human nature and human flourishing) that underlie these, and all, political questions.",
+	"synonym": "27020",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Political Philosophy"
+}

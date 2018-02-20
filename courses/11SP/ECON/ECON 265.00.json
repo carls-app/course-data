@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 265.00",
+	"instructors": [
+		"Melissa K Whitler"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Economics 110 and 111",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Game theory is the study of purposeful behavior in strategic situations. It serves as a framework for analysis that can be applied to everyday decisions, such as working with a study group and cleaning your room, as well as to a variety of economic issues, including contract negotiations and firms' output decisions. In this class, modern game theoretic tools will be primarily applied to economic situations, but we will also draw on examples from other realms.",
+	"synonym": "26975",
+	"tags": [],
+	"title": "Game Theory and Economic Applications"
+}

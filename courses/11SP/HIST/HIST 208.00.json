@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 208.00",
+	"instructors": [
+		"Serena R Zabin"
+	],
+	"number": "208.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In the late fifteenth century, the Atlantic ocean became a vast highway linking Spain, France, Britain, and the Netherlands to the Americas and Africa. This course will examine the lives of the men and women who inhabited this new world from the time of Columbus to the eighteenth-century revolutions in Haiti and North America. We will focus on the links between continents rather than the geographic segments. Topics will include the destruction and reconfiguration of indigenous societies; slavery and other forms of servitude; religion; war; and the construction of ideas of empire. Students considering a concentration in Atlantic History are particularly encouraged to enroll. Emphasis on primary sources.",
+	"synonym": "27744",
+	"tags": [
+		{
+			"code": "HISTLTAM",
+			"name": "HIST Latin America"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		}
+	],
+	"title": "The Atlantic World: Columbus to the Age of Revolutions, 1492-1792"
+}

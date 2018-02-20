@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 352.00",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "352.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Physics 235, Mathematics 341 strongly recommended",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The classical theory of fields and waves. Electromagnetic theory including Maxwell's equations, radiation and relativity.",
+	"synonym": "26051",
+	"tags": [],
+	"title": "Advanced Electricity and Magnetism"
+}

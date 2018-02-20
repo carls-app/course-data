@@ -1,0 +1,49 @@
+{
+	"comments": [
+		"CHEM 351 required"
+	],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 352.01",
+	"instructors": [
+		"Marion E Cass",
+		"Gretchen E Hofmeister"
+	],
+	"number": "352.01",
+	"offerings": {
+		"locations": [
+			"Mudd 269",
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 351; Chemistry 234 and 344",
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Synthesis, purification and spectroscopic characterization of transition-metal complexes with an emphasis on methods for preparing and handling air-sensitive compounds. One laboratory per week. Corequisite: Chemistry 351.",
+	"synonym": "25674",
+	"tags": [],
+	"title": "Laboratory in Advanced Inorganic Chemistry"
+}

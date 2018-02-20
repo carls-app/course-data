@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 160.02",
+	"instructors": [
+		"Mihaela Czobor-Lupp"
+	],
+	"number": "160.02",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Introduction to ancient and modern political philosophy. We will investigate several fundamentally different approaches to the basic questions of politics--questions concerning the character of political life, the possibilities and limits of politics, justice, and the good society--and the philosophic presuppositions (concerning human nature and human flourishing) that underlie these, and all, political questions.",
+	"synonym": "28097",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Political Philosophy"
+}
