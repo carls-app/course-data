@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"BIOL 126L required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 126.00",
+	"instructors": [
+		"John L Tymoczko",
+		"Fernán Jaramillo"
+	],
+	"number": "126.00",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 61,
+		"total": 60,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "15085",
+	"tags": [],
+	"title": "Energy Flow Biol System"
+}

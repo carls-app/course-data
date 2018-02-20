@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 178.00",
+	"instructors": [
+		"Guy A Kalland",
+		"Mikki Showers"
+	],
+	"number": "178.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC",
+			"Cowling 121"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:30pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "7:00pm",
+				"start": "5:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16264",
+	"tags": [],
+	"title": "Tae Kwon Do"
+}

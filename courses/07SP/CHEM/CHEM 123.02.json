@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"CHEM 123L-64 req"
+	],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 123.02",
+	"instructors": [
+		"Daniela L Kohen"
+	],
+	"number": "123.02",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "15148",
+	"tags": [],
+	"title": "Principles of Chem-Prob Solvng"
+}

@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"PHYS 235L required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 235.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 34,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "15263",
+	"tags": [],
+	"title": "Electricity & Magnetism"
+}

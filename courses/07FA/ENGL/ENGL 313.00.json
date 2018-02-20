@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"First 5-week"
+	],
+	"credits": 3.0,
+	"department": "ENGL",
+	"id": "ENGL 313.00",
+	"instructors": [
+		"Timothy Raylor"
+	],
+	"number": "313.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18701",
+	"tags": [
+		{
+			"code": "ENGL2",
+			"name": "ENGL Group II"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "ENGLHE1",
+			"name": "ENGL Hist Era 1"
+		}
+	],
+	"title": "The Faerie Queene"
+}

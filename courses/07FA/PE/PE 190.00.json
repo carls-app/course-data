@@ -1,0 +1,46 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 190.00",
+	"instructors": [
+		"Gerald L Young",
+		"Linda K Luedke"
+	],
+	"number": "190.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center FIEL"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 20,
+		"total": 26,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18819",
+	"tags": [],
+	"title": "Volleyball, Co-ed"
+}

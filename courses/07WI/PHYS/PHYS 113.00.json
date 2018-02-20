@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Frosh only PHYS 113L required First 5-week"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 113.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "113.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "15222",
+	"tags": [],
+	"title": "Newtonian Mechanics"
+}

@@ -1,0 +1,46 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 177.00",
+	"instructors": [
+		"Guy A Kalland",
+		"Mikki Showers"
+	],
+	"number": "177.00",
+	"offerings": {
+		"locations": [
+			"Cowling 121"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 27,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "16469",
+	"tags": [],
+	"title": "Swing Dance"
+}

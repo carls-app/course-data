@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"Formerly CAMS 230"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 277.00",
+	"instructors": [
+		"Melody S Gilbert"
+	],
+	"number": "277.00",
+	"offerings": {
+		"locations": [
+			"Scoville 105"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "19051",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		}
+	],
+	"title": "Studio Prod: Carleton Show"
+}

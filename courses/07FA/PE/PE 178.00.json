@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 178.00",
+	"instructors": [
+		"Gerald L Young",
+		"Linda K Luedke"
+	],
+	"number": "178.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC",
+			"Cowling 121"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:30pm",
+				"start": "6:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "6:45pm",
+				"start": "5:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 11,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18816",
+	"tags": [],
+	"title": "Tae Kwon Do"
+}
