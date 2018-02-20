@@ -33,7 +33,7 @@ Each course in `courses/` looks like this:
 			}
 		]
 	},
-	"prerequisites": "None",
+	"prerequisites": null,
 	"requirements": [
 		{
 			"code": "SI",
