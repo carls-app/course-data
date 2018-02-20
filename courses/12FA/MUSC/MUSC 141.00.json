@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 141.00",
+	"instructors": [
+		"Melinda Russell"
+	],
+	"number": "141.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "31947",
+	"tags": [
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "Global Popular Music"
+}

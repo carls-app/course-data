@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 206.00",
+	"instructors": [
+		"Cherif Ke\u00efta"
+	],
+	"number": "206.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       French 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course aims to improve knowledge of France and the Francophone world and written and oral expression. Through an analysis of texts written by novelist and sociologist Azouz Begag, journalist Fran\u00e7oise Laborde and novelist Maryse Cond\u00e9, we will discuss various aspects of national, racial and family identity in France.",
+	"synonym": "42020",
+	"tags": [
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Contemporary Francophone Culture"
+}

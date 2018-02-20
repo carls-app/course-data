@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 389.00",
+	"instructors": [
+		"Andrea K Kalis"
+	],
+	"number": "389.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One of the following: Biology 240, 242, 280, 342, or 350\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "32870",
+	"tags": [],
+	"title": "Evo-Devo: Evolutionary Developmental Biology"
+}

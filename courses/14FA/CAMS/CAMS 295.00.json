@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"Winter Break Program. CAMS 296 15/WI is required. extra time., Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 295.00",
+	"instructors": [
+		"Jay S Beck"
+	],
+	"number": "295.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Cinema and Media Studies 296 required winter term\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Through an examination of fiction and documentary films, this course offers a broad historical and cultural overview of Chile and Argentina. The course examines significant political events, cultural developments, and cinema movements including the rise and decline of the politically-engaged New Latin American Cinema movement of the late 1960s, the cinematic diaspora of the 1970s and 1980s, the cultural and artistic responses after the return to democracy, the commercial consolidation of each country's film industry and cultural production in the 1990s, and recent attempts to create a local audiovisual language with an international appeal. This course is part of an off-campus winter break program involving two linked courses in fall and winter terms. Students who take Cinema and Media Studies 295 must also enroll in Cinema and Media Studies 296 in the winter term.",
+	"synonym": "38136",
+	"tags": [
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		}
+	],
+	"title": "Cinema in Chile and Argentina: Representing and Reimagining Identity"
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GRK",
+	"id": "GRK 204.00",
+	"instructors": [
+		"Clara S Hardy"
+	],
+	"number": "204.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Greek 103 with a grade of at least C-\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48338",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Intermediate Greek Prose and Poetry"
+}

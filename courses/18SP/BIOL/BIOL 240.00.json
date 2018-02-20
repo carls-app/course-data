@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 240.00",
+	"instructors": [
+		"Stephan G Zweifel"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 and 126 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 1,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47742",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "PPOLPH",
+			"name": "Pub Pol Public Health"
+		}
+	],
+	"title": "Genetics"
+}

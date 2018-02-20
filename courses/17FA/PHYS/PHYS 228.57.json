@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 228.57",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "228.57",
+	"offerings": {
+		"locations": [
+			"Olin 141",
+			"Olin 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 143, 144 or 151\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49084",
+	"tags": [],
+	"title": "Atomic and Nuclear Physics & Lab"
+}

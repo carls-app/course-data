@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 248.00",
+	"instructors": [
+		"Jay Levi"
+	],
+	"number": "248.00",
+	"offerings": {
+		"locations": [
+			"Boliou 140"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "46819",
+	"tags": [
+		{
+			"code": "CCSTC",
+			"name": "CCST Comparative"
+		},
+		{
+			"code": "PPOLFP",
+			"name": "Pub Pol Forgn Pol & Security"
+		}
+	],
+	"title": "Genocide: An Anthropological Perspective"
+}

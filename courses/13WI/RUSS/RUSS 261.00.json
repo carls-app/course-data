@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"No prereq, 1st 5 week"
+	],
+	"credits": 3.0,
+	"department": "RUSS",
+	"id": "RUSS 261.00",
+	"instructors": [
+		"Diane M Nemec Ignashev"
+	],
+	"number": "261.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Rejected by every major publisher to which the author submitted it, first published in France in 1955 by a press known for pornographic trash, Vladimir Nabokov's scandalous novel of a middle-aged college professor obsessed with a twelve-year-old girl continues to feed controversy as well as to challenge and delight readers with its labyrinthian narrative, endless wordplay, innumerable meta-artistic allusions, and troublesome eroticism. Thus warned, you are invited to join the jury in deliberating the designs and delights of this twentieth-century literary classic. Conducted in English.",
+	"synonym": "33143",
+	"tags": [
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "Lolita"
+}

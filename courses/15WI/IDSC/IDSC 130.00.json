@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "IDSC",
+	"id": "IDSC 130.00",
+	"instructors": [
+		"Austin P Mason"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The digital world is infiltrating the academy and profoundly disrupting the humanities, posing fundamental challenges to traditional models of university education, scholarly research, and academic publication. This course introduces the key concepts, debates and technologies that are shaping the Digital Humanities (DH) revolution, including text encoding, digital mapping (GIS), network analysis, data visualization, and the basic programming languages that power them all. Students in this class will learn to hack the humanities by making a collaborative, publishable DH project, while acquiring the skills and confidence necessary to actively participate in the digital world, both at the university and beyond.",
+	"synonym": "40401",
+	"tags": [],
+	"title": "Hacking the Humanities"
+}

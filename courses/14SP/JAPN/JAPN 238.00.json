@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "JAPN",
+	"id": "JAPN 238.00",
+	"instructors": [
+		"Ellen C Tilton-Cantrell"
+	],
+	"number": "238.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "37282",
+	"tags": [
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "Ind&Fam Modn Jpn Lit In Trans"
+}

@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 236.00",
+	"instructors": [
+		"Jessica F Keating"
+	],
+	"number": "236.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "44752",
+	"tags": [
+		{
+			"code": "FFSTHISARTH",
+			"name": "FFST Hist & Art Hist Conc"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Baroque Art"
+}

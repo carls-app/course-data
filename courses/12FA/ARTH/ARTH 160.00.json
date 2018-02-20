@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 160.00",
+	"instructors": [
+		"Baird E Jarman"
+	],
+	"number": "160.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Concentration on painting of the colonial period (especially portraiture) and nineteenth century (especially landscape and scenes of everyday life) with an introduction to the modernism of the early twentieth century. The course will include analysis of the ways art shapes and reflects cultural attitudes such as those concerning race and gender.",
+	"synonym": "31902",
+	"tags": [
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "AMSTSURVEY1",
+			"name": "AMST 1 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		}
+	],
+	"title": "American Art to 1940"
+}

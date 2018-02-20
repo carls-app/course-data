@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "EUST",
+	"id": "EUST 159.00",
+	"instructors": [
+		"Paul Petzschmann"
+	],
+	"number": "159.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "\"Ideology\" is perhaps one of the most-used (and overused) terms of modern political life. This course will introduce students to important political ideologies and traditions of modern Europe and their role in the development of political systems and institutional practices from the mid-nineteenth century to the present. We will read central texts by conservatives, liberals, socialists, anarchists and nationalists while also considering ideological outliers such as Fascism and Green Political Thought. In addition the course will introduce students to the different ways in which ideas can be studied systematically and the methodologies available.",
+	"synonym": "41288",
+	"tags": [
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		}
+	],
+	"title": "\"The Age of Isms\" - Ideals, Ideas and Ideologies in Modern Europe"
+}

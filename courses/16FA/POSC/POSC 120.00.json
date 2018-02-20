@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 120.00",
+	"instructors": [
+		"Bryan R Daves"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the array of different democratic and authoritarian political institutions in both developing and developed countries. We will also explore key issues in contemporary politics in countries around the world, such as nationalism and independence movements, revolution, regime change, state-making, and social movements.",
+	"synonym": "45317",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Democracy and Dictatorship"
+}

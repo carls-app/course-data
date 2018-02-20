@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"Held for Class of 20"
+	],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 100.02",
+	"instructors": [
+		"Stacy N Beckwith"
+	],
+	"number": "100.02",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "45373",
+	"tags": [
+		{
+			"code": "JDSTPERT",
+			"name": "Judiac Studies Pertinent"
+		},
+		{
+			"code": "MDLEPERT",
+			"name": "Middle East Studies Pertinent"
+		},
+		{
+			"code": "MELAPERT",
+			"name": "Middle Eastern Lang Pertinent"
+		}
+	],
+	"title": "Cross Cultural Perspectives on Israeli and Palestinian Identity"
+}

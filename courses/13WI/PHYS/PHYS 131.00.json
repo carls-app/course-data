@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"1st 5 week, PHYS 131L required Held for Class of 2016"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 131.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "131.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 111, not open to students who have completed Physics 132, 141, or 142 at Carleton; Concurrent registration in Physics 131L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to classical mechanics using the Newtonian worldview. The kinematics and dynamics of some simple systems including objects in free fall, simple harmonic motion, planetary motion, and the motion of charged particles in electromagnetic fields are investigated using Newton's laws, vector analysis, and the conservation laws of linear momentum, angular momentum, and energy. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
+	"synonym": "33528",
+	"tags": [],
+	"title": "Introduction to Physics: Newtonian Mechanics"
+}

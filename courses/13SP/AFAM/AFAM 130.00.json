@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AFAM",
+	"id": "AFAM 130.00",
+	"instructors": [
+		"Daniel Williams"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Social movements have played a critical role in African American communities, as both struggles for freedom and liberation as well as struggles for identity and recognition. This course examines several specific social movements, including the Civil Rights Movement, Black Power movement, and Black Feminism, among others, from multiple disciplinary perspectives. We will examine these movements comparatively through the disciplinary lenses of history, sociology, political science, and communication studies, and consider their trajectory through the contexts within which they emerge and develop. We will also evaluate these movements in terms of participants' social identities as well as movements' varying ideologies.",
+	"synonym": "34178",
+	"tags": [
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "AFAMINTERDISC",
+			"name": "AFAM Interdisciplinary Course"
+		}
+	],
+	"title": "African American Social Movements"
+}

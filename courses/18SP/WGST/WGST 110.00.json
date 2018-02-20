@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 110.00",
+	"instructors": [
+		"Meera Sehgal"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is an introduction to the ways in which gender structures our world, and to the ways feminists challenge established intellectual frameworks. However, because gender is not a homogeneous category but is differentiated by class, race, sexualities, ethnicity, and culture, we also consider the ways differences in social location intersect with gender.",
+	"synonym": "49273",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "WGSTINTRO",
+			"name": "WGST Introductory"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		}
+	],
+	"title": "Introduction to Women's and Gender Studies"
+}

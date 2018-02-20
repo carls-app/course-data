@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 228.00",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 143, 144 or 151; Concurrent registration in Physics 228L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 34,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An elementary but analytical introduction to the physics of atoms and nuclei. Topics include the particle aspects of electromagnetic radiation, an introduction to quantum mechanics, the wave aspects of material particles, the structure of atoms, X-ray and optical spectra, instruments of nuclear and particle physics, nuclear structure and elementary particles. One laboratory per week.",
+	"synonym": "45758",
+	"tags": [],
+	"title": "Atomic and Nuclear Physics"
+}

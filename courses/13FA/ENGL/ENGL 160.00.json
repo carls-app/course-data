@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 160.00",
+	"instructors": [
+		"Susan Jaret McKinstry"
+	],
+	"number": "160.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course offers training in the writing and revision of poetry and prose fiction, supplemented by examples from published writers and some essays on the creative process. Discussion of each participant's writing is the central mode of instruction.",
+	"synonym": "35293",
+	"tags": [
+		{
+			"code": "ENGLCREATVWRTG",
+			"name": "English Creative Writing"
+		}
+	],
+	"title": "Introduction to Creative Writing"
+}

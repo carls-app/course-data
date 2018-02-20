@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Held for Class of 20, Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 100.00",
+	"instructors": [
+		"Arjendu K Pattanayak"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The acquisition of enough energy to power our lives will be one of the key scientific and technological issues of the twenty-first century and beyond. This course provides an overview of the physics of energy harvesting at an introductory level. We also consider the technological and socio-economic constraints as well as the environmental and sociological impact of different energy sources, and go on field trips to see real-world applications. There will be a major group project.",
+	"synonym": "39196",
+	"tags": [
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		}
+	],
+	"title": "Powering the Future: Renewable Energy in Context"
+}

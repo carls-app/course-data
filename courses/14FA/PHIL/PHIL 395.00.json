@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 395.00",
+	"instructors": [
+		"Anna Moltchanova"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Are our actions entirely determined by our biological make-up and social circumstances or are they, at least sometimes, free? Do collectives have a life of their own? When can we hold agents responsible for their actions? What about collective actions, like waging a war? Are group intentions just aggregates of individual intentions? These and other questions concerning the constitution and actions of agents will be discussed in the context of classic readings on agency and free will and contemporary debates in social ontology.",
+	"synonym": "38517",
+	"tags": [
+		{
+			"code": "PHILADV",
+			"name": "Philosophy Advanced"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "PHILTHEORY",
+			"name": "Philosophy Theoretical Area"
+		}
+	],
+	"title": "Freedom and Responsibility"
+}

@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 235.00",
+	"instructors": [
+		"Nancy J Cho"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course is an introduction to major works and authors of fiction, drama, and poetry from about 1900 to the present. We will trace the development of Asian American literary traditions while exploring the rich diversity of recent voices in the field. Authors to be read include Carlos Bulosan, Sui Sin Far, Philip Kan Gotanda, Maxine Hong Kingston, Jhumpa Lahiri, Milton Murayama, Chang-rae Lee, Li-young Lee, and John Okada.",
+	"synonym": "35339",
+	"tags": [
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		}
+	],
+	"title": "Asian American Literature"
+}

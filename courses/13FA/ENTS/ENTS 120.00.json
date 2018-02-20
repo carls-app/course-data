@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore Priority, ENTS 120L required"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 120.00",
+	"instructors": [
+		"Tsegaye H Nega"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"CMC 110"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Concurrent registration in ENTS 120L\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Spatial data analysis using Geographic Information Systems (GIS), remote sensing, global positioning, and related technologies are increasingly important for understanding and analyzing a wide range of biophysical, social, and economic phenomena. This course serves as an overview and introduction to the concepts, algorithms, issues, and methods in describing, analyzing, and modeling geospatial data over a range of application areas.",
+	"synonym": "35358",
+	"tags": [
+		{
+			"code": "ENTSQUANTV",
+			"name": "ENTS Quantitative Methods"
+		}
+	],
+	"title": "Introduction to Geospatial Analysis"
+}

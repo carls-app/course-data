@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RUSS",
+	"id": "RUSS 345.00",
+	"instructors": [
+		"Anna M Dotlibova"
+	],
+	"number": "345.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "36173",
+	"tags": [
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "19th C Russian Cultural Idioms"
+}

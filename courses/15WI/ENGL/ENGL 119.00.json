@@ -1,0 +1,78 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 119.00",
+	"instructors": [
+		"Adriana Estill"
+	],
+	"number": "119.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We will begin by examining the forefathers and mothers of Latino/a literature: the nineteenth century texts of exile, struggles for Latin American independence, and southwestern resistance and accommodation. The early twentieth century offers new genres: immigrant novels and popular poetry that reveal the nascent Latino identities rooted in (or formed in opposition to) U.S. ethics and ideals. Finally we will read a sampling of the many excellent contemporary authors who are transforming the face of American literature.",
+	"synonym": "37925",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		}
+	],
+	"title": "Introduction to U.S. Latino/a Literature"
+}

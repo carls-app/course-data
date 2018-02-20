@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "MUSC",
+	"id": "MUSC 342.00",
+	"instructors": [
+		"Hector L Valdivia"
+	],
+	"number": "342.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center M104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One term of 2 credit juried lessons on any instrument/voice or permission of instructor\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49358",
+	"tags": [],
+	"title": "Creative Music Performance Seminar"
+}

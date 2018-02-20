@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"First year students cannot register"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 219.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "219.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48629",
+	"tags": [
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "POECUPAPP",
+			"name": "POEC Amer Pub Pol Upper Lvl"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "POECMIDAPP",
+			"name": "POEC Amer Pub Pol Mid Div"
+		}
+	],
+	"title": "Poverty and Public Policy in the U.S."
+}

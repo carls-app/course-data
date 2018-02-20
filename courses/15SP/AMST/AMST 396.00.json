@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 396.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "396.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       American Studies 115 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Beyond white flight and suburbanization, the U.S. has witnessed the \"secession of the successful\" in fortified, gated communities. The spatial concentration of poverty in slums has simultaneously occurred. Gates and favelas or shantytowns have appeared in Brazil, India, China, South Africa and other neoliberal economies. We will examine the diffusion of these placed identities and debate whether they are symbiotic or antithetical.",
+	"synonym": "39466",
+	"tags": [
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Gated Communities and Slums: Globalizing the American City"
+}

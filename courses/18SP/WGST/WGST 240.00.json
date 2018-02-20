@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 240.00",
+	"instructors": [
+		"Meera Sehgal"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49453",
+	"tags": [
+		{
+			"code": "POSI-LPS2",
+			"name": "Leadership, Peace, Security 2"
+		},
+		{
+			"code": "SOANPERT",
+			"name": "SOAN Pertinent Course"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		}
+	],
+	"title": "Gender, Globalization and War"
+}

@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 244.00",
+	"instructors": [
+		"Deanna Haunsperger"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 236\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Euclidean geometry from an advanced perspective; projective, hyperbolic, inversive, and/or other geometries. Recommended for prospective secondary school teachers.",
+	"synonym": "41501",
+	"tags": [
+		{
+			"code": "ELECSTAT",
+			"name": "Elective Stats"
+		}
+	],
+	"title": "Geometries"
+}

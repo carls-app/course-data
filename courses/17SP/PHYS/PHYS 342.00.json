@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 342.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "342.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 228 and 235 and 1-300 level Physics course\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A study of experimental techniques and apparatus basic to the measurements which underlie and validate contemporary theories in physics. Topics include electrical measurements, data analysis and statistics, optical and laser techniques, particle detectors, and time coincidence techniques. Applications are made to experiments such as magnetic resonance, Mossbauer and nuclear spectroscopy and laser optics. Class time is devoted to studying the measurement techniques and considering phenomenological models of the effects observed in the laboratory. One laboratory per week.",
+	"synonym": "45832",
+	"tags": [],
+	"title": "Contemporary Experimental Physics"
+}

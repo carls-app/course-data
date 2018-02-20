@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 240.00",
+	"instructors": [
+		"Meera Sehgal"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course examines the relationship between globalization, gender and militarism to understand how globalization and militarism are gendered, and processes through which gender becomes globalized and militarized. We will focus on the field of transnational feminist theorizing which both \"genders the international\" and \"internationalizes gender.\" We will take up the different theoretical and disciplinary approaches to this project, as well as the perspectives and methods put forth for studying gender, race and class transnationally. We will explore how economic development, human rights, and the politics of resistance (particularly in the NGO sector) are gendered.",
+	"synonym": "39623",
+	"tags": [
+		{
+			"code": "POSI-LPS2",
+			"name": "Leadership, Peace, Security 2"
+		},
+		{
+			"code": "SOANPERT",
+			"name": "SOAN Pertinent Course"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Gender, Globalization and War"
+}

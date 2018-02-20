@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 209.00",
+	"instructors": [
+		"Pat Cavanaugh"
+	],
+	"number": "209.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Citizen mobilization often centers around environmental problems or other controversies about the shape of community landscapes. We will explore concepts of democracy, power, identity, and sense of place as we examine cases of citizen mobilization. The class will research a current case study of an environmental controversy that gave rise to citizen mobilization. When and why do people in a community mobilize? What are the obstacles to community-based political action? How do local communities mobilize to meet the challenge of broader issues, such as climate change? Are the Occupy protests similar to community-based mobilization?",
+	"synonym": "36276",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Place, Politics, and Citizen Mobilization"
+}

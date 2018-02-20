@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 111.00",
+	"instructors": [
+		"Andrew R Gainer-Dewar"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Requires placement via the Calculus Placement Exam 1, see Mathematics web page. Not open to students who have received credit for Mathematics 101.\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the differential and integral calculus. Derivatives, antiderivatives, the definite integral, applications, and the fundamental theorem of calculus.",
+	"synonym": "31765",
+	"tags": [],
+	"title": "Introduction to Calculus"
+}

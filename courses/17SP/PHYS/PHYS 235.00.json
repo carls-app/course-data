@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 235.00",
+	"instructors": [
+		"Andr\u00e9s Aragoneses"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 143, 144, 151, 161, or 165, and Mathematics 211 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45821",
+	"tags": [],
+	"title": "Electricity and Magnetism"
+}

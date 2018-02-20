@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 232.00",
+	"instructors": [
+		"Anna Moltchanova"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We will study several prominent late twentieth century philosophers writing about social and political justice and representing a variety of views, such as liberalism, socialism, libertarianism, communitarianism, feminism and post-modernism. The following are some of the authors we will read: John Rawls, Gerald Cohen, Robert Nozick, Charles Taylor, Iris Marion Young, Seyla Benhabib, Jurgen Habermas, Jean-Francois Lyotard.",
+	"synonym": "45486",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "PHILPRACVAL",
+			"name": "Philosophy Prac/Value Theory"
+		},
+		{
+			"code": "PPOLSP",
+			"name": "Pub Pol Social Policy & Welfar"
+		}
+	],
+	"title": "Social and Political Philosophy"
+}

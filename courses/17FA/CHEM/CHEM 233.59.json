@@ -1,0 +1,65 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 233.59",
+	"instructors": [
+		"Alexei V Novikov"
+	],
+	"number": "233.59",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 118"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistry 123 or 128\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49030",
+	"tags": [
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		}
+	],
+	"title": "Organic Chemistry I & Lab"
+}

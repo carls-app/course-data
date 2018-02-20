@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 108.00",
+	"instructors": [
+		"David Liben-Nowell"
+	],
+	"number": "108.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Students may not simultaneously enroll in Computer Science 108 and Computer Science 111 in the same term, and students who have received credit for Computer Science 111 or above are not eligible to enroll in Computer Science 108\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course investigates how the social, technological, and natural worlds are connected, and how the study of networks sheds light on these connections. A network is a collection of entities linked by some relationship: people connected by friendships (e.g., Facebook); web pages connected by hyperlinks; species connected by the who-preys-on-whom relationship. We will explore mathematical properties of networks while emphasizing the efficient processing and analysis of network data drawn from a variety of fields. Topics include: how Google works; \"six degrees of separation\"; the spread of fads through society. No background in computer science or programming is required or expected.",
+	"synonym": "35007",
+	"tags": [],
+	"title": "Life in the Age of Networks"
+}

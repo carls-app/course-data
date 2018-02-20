@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 338.00",
+	"instructors": [
+		"Rika E Anderson"
+	],
+	"number": "338.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 and 126 and one of these upper level courses: Biology 240, Biology 321 or Biology 350 and concurrent registration in Biology 339\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45000",
+	"tags": [
+		{
+			"code": "PPOLPH",
+			"name": "Pub Pol Public Health"
+		},
+		{
+			"code": "PPOLEP",
+			"name": "Pub Pol Env Pol & Sustainablty"
+		}
+	],
+	"title": "Genomics and Bioinformatics"
+}

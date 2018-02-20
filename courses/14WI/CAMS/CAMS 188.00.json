@@ -1,0 +1,69 @@
+{
+	"comments": [
+		"Extra Time Required, evening screenings"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 188.00",
+	"instructors": [
+		"Jay S Beck"
+	],
+	"number": "188.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course is designed to explore the intersection between rock music and cinema. Taking a historical view of the evolution of the \"rock film,\" this class examines the impact of rock music on the structural and formal aspects of narrative, documentary, and experimental films and videos. The scope of the class will run from the earliest rock films of the mid-1950s through contemporary examples in ten weekly subunits.",
+	"synonym": "35900",
+	"tags": [
+		{
+			"code": "AMMUGROUP2",
+			"name": "Amer Music Soundtracks of Amer"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		}
+	],
+	"title": "Rock 'n' Roll in Cinema"
+}

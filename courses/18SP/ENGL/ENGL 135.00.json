@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 135.00",
+	"instructors": [
+		"Arnab Chakladar"
+	],
+	"number": "135.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Indiana Jones has a pedigree. In this class we will encounter some of his ancestors in stories, novels and comic books from the early decades of the twentieth century. The wilds of Afghanistan, the African forest, a prehistoric world in Patagonia, the opium dens of mysterious exotic London--these will be but some of our stops as we examine the structure and ideology and lasting legacy of the imperial adventure tale. Authors we will read include Arthur Conan Doyle, Edgar Rice Burroughs, Rudyard Kipling and H. Rider Haggard.",
+	"synonym": "48554",
+	"tags": [
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		}
+	],
+	"title": "Imperial Adventures"
+}

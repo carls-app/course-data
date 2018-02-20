@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"BIOL 352 required."
+	],
+	"credits": 2.0,
+	"department": "BIOL",
+	"id": "BIOL 353.00",
+	"instructors": [
+		"Mark McKone"
+	],
+	"number": "353.00",
+	"offerings": {
+		"locations": [
+			"Hulings 115",
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:30pm",
+				"start": "12:45pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 &amp; 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis; Concurrent registration in Biology 352\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "38541",
+	"tags": [],
+	"title": "Population Ecology Laboratory"
+}

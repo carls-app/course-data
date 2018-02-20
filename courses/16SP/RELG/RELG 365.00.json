@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 365.00",
+	"instructors": [
+		"Roger R Jackson"
+	],
+	"number": "365.00",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Drawing from selected traditional texts and modern analyses, we will investigate the human encounter with ultimate reality. Questions we will consider include: What is the definition and typology of mysticism? Is mystical experience truly ineffable? What are its modes of expression? Do all mystics experience the same reality? Is unmediated experience possible? Do mystical experiences show us the truth? Is there a place for reason on a mystical path? What is the role of the body and brain in mystical practice? Does mystical experience make us good? Does it free us? Are mystics critics of institutional religion or social injustice?",
+	"synonym": "41940",
+	"tags": [
+		{
+			"code": "RELGJEWISHTRAD",
+			"name": "RELG Jewish Traditions"
+		},
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHETHCLWPOL",
+			"name": "RELG Theme Ethics, Law & Pol"
+		},
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		}
+	],
+	"title": "Mysticism"
+}

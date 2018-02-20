@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 258.00",
+	"instructors": [
+		"Chico Zimmerman"
+	],
+	"number": "258.00",
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Selection from Horace's",
+	"synonym": "36115",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Seminar: Horace"
+}

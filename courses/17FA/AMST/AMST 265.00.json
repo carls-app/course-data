@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 265.00",
+	"instructors": [
+		"Christopher M Elias"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49555",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		}
+	],
+	"title": "Scandal!: Gossip and Misinformation in American Politics from Yellow Journalism to Fake News"
+}

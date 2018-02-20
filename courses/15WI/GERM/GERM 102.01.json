@@ -1,0 +1,58 @@
+{
+	"comments": [
+		"Students with course conflicts and a 5 day German language course, it is possible to register for MWF section 01 and TTh secton 02 German language courses. Contact jschicker@carleton.edu"
+	],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 102.01",
+	"instructors": [
+		"Roger Paas"
+	],
+	"number": "102.01",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302",
+			"Language & Dining Center 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       German 101 or equivalent\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 17,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Further study of the basic structural patterns of the German language.",
+	"synonym": "39432",
+	"tags": [],
+	"title": "Elementary German"
+}

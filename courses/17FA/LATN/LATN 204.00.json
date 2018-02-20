@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 204.00",
+	"instructors": [
+		"Chico Zimmerman",
+		"Clara S Hardy"
+	],
+	"number": "204.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 103 with a grade of at least C- or placement\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48396",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Intermediate Latin Prose and Poetry"
+}

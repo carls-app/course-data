@@ -1,0 +1,95 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 228.00",
+	"instructors": [
+		"Harry M Williams"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45276",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "AFSTHI",
+			"name": "Africana Studies Humanistic in"
+		}
+	],
+	"title": "Civil Rights and Black Power"
+}

@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 303.00",
+	"instructors": [
+		"Alex Freeman"
+	],
+	"number": "303.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 107"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Music 201 or 204\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course, required for the music major, is both an overall survey of the Western art music of the twentieth century, and an analysis class designed to equip the major with analytical techniques in non-formal music from Schoenberg to the avant-garde.",
+	"synonym": "33983",
+	"tags": [],
+	"title": "Music Since 1900"
+}

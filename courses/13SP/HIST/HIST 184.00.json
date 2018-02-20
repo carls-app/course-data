@@ -1,0 +1,90 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 184.00",
+	"instructors": [
+		"Thabiti Willis"
+	],
+	"number": "184.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course surveys the history of West Africa during the colonial period, 1860-1960. It offers an introduction to the roles that Islam and Christianity played in establishing and maintaining colonial rule. It looks at the role of colonialism in shaping African ethnic identities and introducing new gender roles. In addition, we will examine the transition from slave labor to wage labor, and its role in exacerbating gender, generation, and class divisions among West Africans. The course also highlights some of the ritual traditions and cultural movements that flourished in response to colonial rule.",
+	"synonym": "32726",
+	"tags": [
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRSTELECAL",
+			"name": "FRST Elec AL Track"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "AFAMSURVEY",
+			"name": "AFAM Survey Course"
+		},
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "FFSTHISARTH",
+			"name": "FFST Hist & Art Hist Conc"
+		}
+	],
+	"title": "Colonial West Africa"
+}

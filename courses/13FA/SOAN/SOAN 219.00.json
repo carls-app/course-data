@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 219.00",
+	"instructors": [
+		"Nader Sohrabi"
+	],
+	"number": "219.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Emergence of national states has been one of the most consequential developments in the modern world in the last two centuries. How did national identities gain such an importance? How do nationalisms differ and on what basis do nations reconstruct their pasts differently? The course begins by considering influential theories of nationalism (and state formation). Extensive case studies from Western and Eastern Europe, Africa, India, and the Middle East advance our theoretical understanding, and examine our theories in context.",
+	"synonym": "37050",
+	"tags": [
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Nations and Nationalism"
+}

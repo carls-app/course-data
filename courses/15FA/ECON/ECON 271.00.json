@@ -1,0 +1,87 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 271.00",
+	"instructors": [
+		"Aaron M Swoboda"
+	],
+	"number": "271.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Economics 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course focuses on environmental economics, energy economics, and the relationship between them. Economic incentives for pollution abatement, the industrial organization of energy production, optimal depletion rates of energy sources, and the environmental and economic consequences of alternate energy sources are analyzed.",
+	"synonym": "41049",
+	"tags": [
+		{
+			"code": "ENTSCORE",
+			"name": "ENTS Core Course"
+		},
+		{
+			"code": "POECMIDWTD",
+			"name": "POEC Wrld Trade&Dev Mid Div"
+		},
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "POECUPWTD",
+			"name": "POEC Wrld Trade&dev Upper Lvl"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		}
+	],
+	"title": "Economics of Natural Resources and the Environment"
+}

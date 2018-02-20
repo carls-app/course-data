@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 346.00",
+	"instructors": [
+		"Arjendu K Pattanayak"
+	],
+	"number": "346.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 228\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The fundamentals of classical thermodynamics and statistical mechanics. Topics include the laws of thermodynamics; heat engines and refrigerators; the Maxwell-Boltzmann distribution; the various canonical distributions; the statistical concepts of temperature and entropy; Fermi-Dirac, and Bose-Einstein distributions with applications to black-body radiation, phonons, and electrons in solids; the Ising model; and an introduction to critical phenomena.",
+	"synonym": "49087",
+	"tags": [],
+	"title": "Thermodynamics and Statistical Mechanics"
+}

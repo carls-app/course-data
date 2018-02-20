@@ -1,0 +1,65 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 341.53",
+	"instructors": [
+		"Andy Flory"
+	],
+	"number": "341.53",
+	"offerings": {
+		"locations": [
+			"Weitz Center 231",
+			"Weitz Center M038"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			},
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49361",
+	"tags": [
+		{
+			"code": "AMMUGROUP2",
+			"name": "Amer Music Soundtracks of Amer"
+		}
+	],
+	"title": "Rock Lab and Lab"
+}

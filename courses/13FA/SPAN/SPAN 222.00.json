@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"In Translation"
+	],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 222.00",
+	"instructors": [
+		"Becky Boling"
+	],
+	"number": "222.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       In translation\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Considered one of the greatest writers of the twentieth century, Gabriel Garc\u00eda M\u00e1rquez defines magical realism. His works record the reality of his native Colombia, embedding it within the mythic patterns of Latin American cultures and histories. Like Garc\u00eda M\u00e1rquez, Laura Restrepo began her writing career as a journalist, but her lens remains firmly anchored in the reality of Colombia's encounters with political violence and drug cartels. In what she calls \"report style,\" Restrepo, too, tells the story of Colombia. The course focuses on selected works by these two authors, a study of contexts, themes, and styles. In translation.",
+	"synonym": "36369",
+	"tags": [
+		{
+			"code": "SPAN220-290",
+			"name": "Spanish 220-290"
+		},
+		{
+			"code": "SPECINTBOOKSTD",
+			"name": "Book Studies"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		}
+	],
+	"title": "Two Voices: Gabriel Garc\u00eda M\u00e1rquez and Laura Restrepo"
+}

@@ -1,0 +1,87 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 266.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "266.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "City revenue is increasingly dependent on tourism. Cities manufacture identity and entertainment, whether we think of Las Vegas or Jerusalem, Berlin or Bilbao, the ethnoscapes of Copenhagen or the red light district of Amsterdam. As cities compete in the global economy to become playgrounds for a transnational tourist class, what is the role of urban residents? Who governs? Who benefits? Short essays or exams will be required.",
+	"synonym": "42160",
+	"tags": [
+		{
+			"code": "POECUPAPP",
+			"name": "POEC Amer Pub Pol Upper Lvl"
+		},
+		{
+			"code": "POECAPP",
+			"name": "Politi Econ Amer Public Policy"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "AFAMDISTROSS",
+			"name": "AFAM Distro Social Sciences"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		},
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POECMIDWTD",
+			"name": "POEC Wrld Trade&Dev Mid Div"
+		}
+	],
+	"title": "Urban Political Economy"
+}

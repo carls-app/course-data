@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 111.02",
+	"instructors": [
+		"Rita B Thompson"
+	],
+	"number": "111.02",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Requires placement via the Calculus Placement Exam 1, see Mathematics web page. Not open to students who have received credit for Mathematics 101.\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the differential and integral calculus. Derivatives, antiderivatives, the definite integral, applications, and the fundamental theorem of calculus.",
+	"synonym": "48785",
+	"tags": [
+		{
+			"code": "MATHCALC",
+			"name": "Calculus for Cs Majors"
+		}
+	],
+	"title": "Introduction to Calculus"
+}

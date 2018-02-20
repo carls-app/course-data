@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 295.01",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "295.01",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 236 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Differential Forms provide a modern approach to a classical topic: Vector Calculus. They find applications in such diverse fields as geometry, algebra, engineering, electricity and magnetism, and general relativity. This course will rigorously develop differential forms then apply them to classical topics including divergence, gradient, and curl. A primary focus of the course will be the proof of the generalized Stokes' Theorem which is a general n-dimensional form of the familiar Fundamental Theorem of Calculus. Modern treatments of other topics from advanced calculus will be considered as time permits.",
+	"synonym": "39970",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Differential Forms and Vector Calculus"
+}

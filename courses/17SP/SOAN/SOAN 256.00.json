@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 256.00",
+	"instructors": [
+		"Pamela Feldman-Savelsberg"
+	],
+	"number": "256.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Pairing classics in Africanist anthropology with contemporary re-studies, we explore changes in African societies and in the questions anthropologists have posed about them. We address issues of representation and self-presentation in written ethnographies as well as in African portrait photography. We then turn from the visual to the invisible realm of African witchcraft. Initiation rituals, war, and migration place selfhood and belonging back in this-world contexts. In-depth case studies include, among others: the Cameroon Grassfields, the Bemba of Zambia, and the Nuer of South Sudan.",
+	"synonym": "45610",
+	"tags": [
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "FFSTSOCSCI",
+			"name": "FFST Social Sci Conc"
+		},
+		{
+			"code": "AFSTSI",
+			"name": "Africana Stds Social Inquiry"
+		}
+	],
+	"title": "Africa: Representation and Conflict"
+}

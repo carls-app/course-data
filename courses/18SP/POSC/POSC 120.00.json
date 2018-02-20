@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 120.00",
+	"instructors": [
+		"Dev Gupta"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 1,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the array of different democratic and authoritarian political institutions in both developing and developed countries. We will also explore key issues in contemporary politics in countries around the world, such as nationalism and independence movements, revolution, regime change, state-making, and social movements.",
+	"synonym": "48614",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "POECLOWER",
+			"name": "Political Economy Lower Level"
+		}
+	],
+	"title": "Democracy and Dictatorship"
+}

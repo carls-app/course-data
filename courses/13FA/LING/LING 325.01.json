@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 325.01",
+	"instructors": [
+		"Catherine R Fortin"
+	],
+	"number": "325.01",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Linguistics 216\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we examine, with the help of a native speaker consultant, the syntax of a language deliberately chosen for its being unfamiliar to all the participants. Our goals will be to construct a coherent and theoretically respectable account of principles of the grammar of this language, and to understand what our account reveals about the structure of human language generally. Each student will investigate some aspect of the syntax of the language in depth, culminating in a class presentation and research report.",
+	"synonym": "37074",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		}
+	],
+	"title": "Syntax of an Unfamiliar Language"
+}

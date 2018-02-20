@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 356.00",
+	"instructors": [
+		"Jorge Brioso"
+	],
+	"number": "356.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Spanish 205 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45268",
+	"tags": [
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "LTAM300LIT",
+			"name": "LTAM 300 Level Lit Courses"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "The Political and Cultural History of the Cuban Revolution"
+}

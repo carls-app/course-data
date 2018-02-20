@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 371.00",
+	"instructors": [
+		"Silvia L\u00f3pez"
+	],
+	"number": "371.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Spanish 205 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45269",
+	"tags": [
+		{
+			"code": "LTAM300LIT",
+			"name": "LTAM 300 Level Lit Courses"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		}
+	],
+	"title": "Yours Truly: The Body of the Letter"
+}

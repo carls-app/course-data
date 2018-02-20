@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 275.00",
+	"instructors": [
+		"Katie St. Clair"
+	],
+	"number": "275.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 265\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
+	"synonym": "31781",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Introduction to Statistical Inference"
+}

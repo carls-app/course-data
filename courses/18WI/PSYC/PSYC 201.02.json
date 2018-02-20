@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"PSYC 200 required."
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 201.02",
+	"instructors": [
+		"Mija M Van Der Wege"
+	],
+	"number": "201.02",
+	"offerings": {
+		"locations": [
+			"Olin 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Concurrent registration in Psychology 200; Psychology 110\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 14,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This lab course accompanies the lecture course, Psychology 200, and must be taken during the same term. The lab will provide an opportunity to explore lecture topics more deeply, and in particular emphasize data collection and computational skills.",
+	"synonym": "48749",
+	"tags": [
+		{
+			"code": "PSYCMETHODS",
+			"name": "Psychology Methods"
+		}
+	],
+	"title": "Measurement and Data Analysis Lab"
+}

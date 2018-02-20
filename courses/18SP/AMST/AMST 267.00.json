@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 267.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "267.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       American Studies 115 or sophomore standing\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49894",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		}
+	],
+	"title": "Utopia, Dystopia, and Myopia: Suburbia in Fiction and Scholarship"
+}

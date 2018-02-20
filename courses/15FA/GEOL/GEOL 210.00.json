@@ -1,0 +1,81 @@
+{
+	"comments": [
+		"GEOL 210L required."
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 210.00",
+	"instructors": [
+		"Mary E Savina"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100 level Geology course or instructor permission; Concurrent registraiton in Geology 210L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Study of the geological processes and factors which influence the origin and development of the surficial features of the earth, with an emphasis on some or all of the processes in Minnesota. Laboratories and field trips included.",
+	"synonym": "41297",
+	"tags": [
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "ENTSWRES",
+			"name": "ENTS Water Res Env Sci"
+		},
+		{
+			"code": "ENTSLPES",
+			"name": "ENTS Land Percp Env Sci"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Geomorphology"
+}

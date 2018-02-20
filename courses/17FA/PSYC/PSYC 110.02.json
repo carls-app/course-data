@@ -1,0 +1,56 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 110.02",
+	"instructors": [
+		"Neil S Lutsky",
+		"Adam L Putnam"
+	],
+	"number": "110.02",
+	"offerings": {
+		"locations": [
+			"Boliou 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 55,
+		"total": 70,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course surveys major topics in psychology. We consider the approaches different psychologists take to describe and explain behavior. We will consider a broad range of topics, including how animals learn and remember contexts and behaviors, how personality develops and influences functioning, how the nervous system is structured and how it supports mental events, how knowledge of the nervous system may inform an understanding of conditions such as schizophrenia, how people acquire, remember and process information, how psychopathology is diagnosed, explained, and treated, how infants and children develop, and how people behave in groups and think about their social environment.",
+	"synonym": "48731",
+	"tags": [
+		{
+			"code": "PSYCINTRO",
+			"name": "Psychology Introdcutory"
+		}
+	],
+	"title": "Principles of Psychology"
+}

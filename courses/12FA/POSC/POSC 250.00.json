@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"X-list with POSC 350",
+		"Cross-listed with POSC 350.00"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 250.00",
+	"instructors": [
+		"Laurence D Cooper"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "32993",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		}
+	],
+	"title": "Ancient Political Philosophy"
+}

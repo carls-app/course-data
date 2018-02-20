@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 102.00",
+	"instructors": [
+		"Alex R Knodell"
+	],
+	"number": "102.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Th",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 101 with a grade of at least C- or placement\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Continuation of essential forms and grammar.",
+	"synonym": "41830",
+	"tags": [],
+	"title": "Intermediate Latin"
+}

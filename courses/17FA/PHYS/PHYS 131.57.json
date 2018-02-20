@@ -1,0 +1,62 @@
+{
+	"comments": [
+		"1st 5 Week"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 131.57",
+	"instructors": [
+		"Andr\u00e9s Aragoneses"
+	],
+	"number": "131.57",
+	"offerings": {
+		"locations": [
+			"Olin 141",
+			"Olin 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 101 or 111, not open to students who have  completed Physics 142, 143, 144 or 145 at Carleton\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48494",
+	"tags": [],
+	"title": "Introduction to Physics: Newtonian Mechanics & Lab"
+}

@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 128.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "128.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Exam (Chemistry Home Page) or Chemistry 122.; CHEM 128L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The core topics of chemistry (i.e. thermodynamics, kinetics, equilibrium, and bonding) are central to understanding major environmental topics such as greenhouse warming, ozone depletion, acid-rain deposition, and general chemical contamination in air, water, and soil. These topics and the chemical principles behind them are addressed through an emphasis on the earth's atmosphere. One four-hour laboratory per week. Because this course covers the major topics of Chemistry 123 (but with an environmental emphasis), students cannot receive credit for both Chemistry 123 and 128.",
+	"synonym": "38359",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		}
+	],
+	"title": "Principles of Environmental Chemistry"
+}

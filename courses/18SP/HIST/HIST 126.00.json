@@ -1,0 +1,78 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 126.00",
+	"instructors": [
+		"Clarence E Walker"
+	],
+	"number": "126.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49907",
+	"tags": [
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		},
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "AMSTSURVEY2",
+			"name": "AMST 2 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "AFSTSURV",
+			"name": "Africana Studies Survey Course"
+		}
+	],
+	"title": "African American History II"
+}

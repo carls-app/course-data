@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 205.00",
+	"instructors": [
+		"Meera Sehgal"
+	],
+	"number": "205.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Women's and Gender Studies 110\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "43673",
+	"tags": [
+		{
+			"code": "SOANPERT",
+			"name": "SOAN Pertinent Course"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "The Politics of Women's Health"
+}

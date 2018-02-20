@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 124.00",
+	"instructors": [
+		"Alex R Knodell"
+	],
+	"number": "124.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "46062",
+	"tags": [
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		},
+		{
+			"code": "ARTHPERT",
+			"name": "Art History Pertinent"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		}
+	],
+	"title": "Roman Archaeology and Art"
+}

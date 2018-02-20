@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 372.00",
+	"instructors": [
+		"Mikaela L Schmitt-Harsh"
+	],
+	"number": "372.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course presents an overview of the environmental, social and economic dimensions of coffee production, commercialization and consumption. Specifically, we will cover the following topics: 1) How coffee is produced and the challenges and opportunities that affect the livelihoods of coffee producers; 2) How coffee is marketed in the global economy, including a comparison of conventional and alternative markets (fair trade, organic, shade grown, etc.); 3) The opportunities and challenges to integrate coffee production with environmental conservation initiatives. The course will be run as a seminar with regular discussions and presentations by students.",
+	"synonym": "35377",
+	"tags": [
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSTOPICAL",
+			"name": "ENTS Topical"
+		}
+	],
+	"title": "Coffee Ecologies and Livelihoods"
+}

@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"1st 5 weeks"
+	],
+	"credits": 3.0,
+	"department": "FREN",
+	"id": "FREN 340.00",
+	"instructors": [
+		"Scott D Carpenter"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One French course beyond French 204 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The rise of newspapers and magazines in the nineteenth century promotes a variety of short genres that will remain popular to the present day: short stories, prose poetry, vignettes, theatrical scenes. In this short course (first five weeks of the term) we'll study short works by such authors as Diderot, Sand, Balzac, M\u00e9rim\u00e9e, Flaubert, Allais, Tardieu, Le Cl\u00e9zio. Conducted in French.",
+	"synonym": "45718",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		},
+		{
+			"code": "FFSTLIT",
+			"name": "FFST Literature & Culture"
+		}
+	],
+	"title": "Arts of Brevity: Short Fiction"
+}

@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Held for Class of 20"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 100.00",
+	"instructors": [
+		"Frank T McNally"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 226"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "46058",
+	"tags": [
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		}
+	],
+	"title": "The Physics of Phitness"
+}

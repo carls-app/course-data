@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "MUSC",
+	"id": "MUSC 192.00",
+	"instructors": [
+		"Jay L Johnson"
+	],
+	"number": "192.00",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL05"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Music 199 and/or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The ensemble will use indigenous instruments and an African approach to musical training in order to learn and perform rhythms and songs from West Africa.",
+	"synonym": "35593",
+	"tags": [
+		{
+			"code": "AFAMARTSPRAC",
+			"name": "AFAM Arts Practice"
+		}
+	],
+	"title": "West African Drum Ensemble"
+}

@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"In translation"
+	],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 250.00",
+	"instructors": [
+		"Shaohua Guo"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course (taught in English) provides an overview of Chinese popular culture from 1949 to the contemporary era, including popular literature, film, posters, music, and blog entries. The course examines both old and new forms of popular culture in relation to social change, cultural spaces, new media technologies, the state, individual expressions, and gender politics. Throughout this course, special attention is paid to the alliance between popular literature and the booming entertainment industry, the making of celebrity culture, and the role digital media plays in shaping China's cultural landscape. The course requires no prior knowledge of Chinese language, literature, or culture.",
+	"synonym": "45688",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "Chinese Popular Culture"
+}

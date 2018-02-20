@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 267.00",
+	"instructors": [
+		"Greg Marfleet"
+	],
+	"number": "267.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Why do states act the way they do internationally? Why do some states act like \"rogues\" while others support the system? How do countries choose their allies or enemies? How do governments define their country's national interest and respond to global changes? Foreign policy is where internal politics and external politics intersect. Understanding any country's foreign policy requires that we pay attention to its position in the international system and its internal politics. In this course we will employ approaches from international relations and comparative politics to explore these questions across a range of countries.",
+	"synonym": "33052",
+	"tags": [
+		{
+			"code": "POSI-LPS2",
+			"name": "Leadership, Peace, Security 2"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POECUPWTD",
+			"name": "POEC Wrld Trade&dev Upper Lvl"
+		}
+	],
+	"title": "Comparative Foreign Policy"
+}

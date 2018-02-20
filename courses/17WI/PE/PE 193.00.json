@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"1st 5 weeks, $100 ski trip fee automatically charged to tuition"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 193.00",
+	"instructors": [
+		"Bob Carlson"
+	],
+	"number": "193.00",
+	"offerings": {
+		"locations": [
+			"Cowling 106"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course is designed to introduce students to winter sport and fitness activities. Nordic skiing, snowshoeing, skating, broomball, and all other sports will be included. Open to all looking for an enjoyable workout and athletic social interaction. Required $100 fee for ski trip to Welch Village fee will be automatically charged on tuition bill.",
+	"synonym": "43829",
+	"tags": [],
+	"title": "Winter Sport Fitness"
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 247.00",
+	"instructors": [
+		"Mikaela L Schmitt-Harsh"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will examine the principles and practices of tropical and temperate agroforestry systems. Focus will be given to the ecological structure and function of agroforests, the economic costs and benefits of agroforests, and the social context in which agroforests operate. Specific topics include plant/soil relationships, competition and complementarity, biogeochemical cycling, design principles, and the synergies and tradeoffs among economic, social, and ecological management goals.",
+	"synonym": "33929",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		}
+	],
+	"title": "Agroforestry Systems: Local and Global Perspectives"
+}

@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 110.53",
+	"instructors": [
+		"Sarah J Titus"
+	],
+	"number": "110.53",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL35"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Not open to students who have taken another 100-level Geology course\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47790",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Introduction to Geology & Lab"
+}

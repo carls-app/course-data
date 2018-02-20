@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"Instruction Permission. Waitlist Only."
+	],
+	"credits": 2.0,
+	"department": "IDSC",
+	"id": "IDSC 110.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Interdisciplinary Studies 099, Undergraduate Bridge Experience\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 17,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will enhance students' quantitative skills and provide opportunities to apply those skills to authentic problems. Topics covered will vary depending on students in the class; possible topics include unit conversions, significant figures and estimation, exponents, logarithms, algebra, geometry, probability, and statistics. We will explore how these skills are relevant in contexts ranging from making personal finance decisions to understanding medical research reports.",
+	"synonym": "44856",
+	"tags": [],
+	"title": "Thinking with Numbers: Using Math and Data in Context"
+}

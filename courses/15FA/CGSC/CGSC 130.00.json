@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CGSC",
+	"id": "CGSC 130.00",
+	"instructors": [
+		"Justin M London"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An interdisciplinary examination of issues concerning the mind and mental phenomena involved in the uniquely human activity of making and understanding music. The course will draw on psychology, neuroscience, linguistics, computer science, biology, and philosophy. Topics to be discussed include: the embodied cognition of rhythm; linguistic syntax and musical structure; mental representations of musical sound and action; musical learning and development; tone and beat deafness; and perfect pitch and neural plasticity.",
+	"synonym": "41943",
+	"tags": [
+		{
+			"code": "CGSCCORE",
+			"name": "CGSC Core"
+		}
+	],
+	"title": "The Musical Mind: An Introduction to Cognitive Science"
+}

@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 210.00",
+	"instructors": [
+		"Jason A Decker"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The study of formal logic has obvious and direct applicability to a wide variety of disciplines (including mathematics, computer science, linguistics, philosophy, cognitive science, and many others). Indeed, the study of formal logic helps us to develop the tools and know-how to think more clearly about arguments and logical relationships in general; and arguments and logical relationships form the backbone of any rational inquiry. In this course we will focus on propositional logic and predicate logic, and look at the relationship that these have to ordinary language and thought.",
+	"synonym": "32659",
+	"tags": [
+		{
+			"code": "CGSCCORE",
+			"name": "CGSC Core"
+		},
+		{
+			"code": "LINGPERT",
+			"name": "Linguistics Pertinent Course"
+		},
+		{
+			"code": "SPECINTPHILSCI",
+			"name": "Philosophy of Science"
+		},
+		{
+			"code": "PHILCORE",
+			"name": "Philosophy Core Courses"
+		}
+	],
+	"title": "Logic"
+}

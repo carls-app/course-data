@@ -1,0 +1,69 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 128.57",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "128.57",
+	"offerings": {
+		"locations": [
+			"Olin 141",
+			"Hulings 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Exam (Chemistry Home Page) or Chemistry 122.\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49058",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		}
+	],
+	"title": "Principles of Environmental Chemistry & Lab"
+}

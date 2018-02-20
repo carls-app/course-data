@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 203.00",
+	"instructors": [
+		"Constanza Ocampo-Raeder"
+	],
+	"number": "203.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       The department strongly recommends that Socilogy/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Is the environmental movement making progress? Do responsible products actually help local populations? Is international AID alleviating poverty and fostering development? Today there are thousands of programs with sustainable development goals yet their effectiveness is often contested at the local level. This course explores the impacts of sustainable development, conservation, and AID programs to look beyond the good intentions of those that implement them. In doing so we hope to uncover common pitfalls behind good intentions and the need for sound social analysis that recognizes, examines, and evaluates the role of cultural complexity found in populations targeted by these programs.",
+	"synonym": "35781",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "LTAMSOCSCI",
+			"name": "LTAM Social Science"
+		}
+	],
+	"title": "Anthropology of Good Intentions"
+}

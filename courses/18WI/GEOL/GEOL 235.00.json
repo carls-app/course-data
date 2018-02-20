@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"1st 5 weeks"
+	],
+	"credits": 3.0,
+	"department": "GEOL",
+	"id": "GEOL 235.00",
+	"instructors": [
+		"Mary E Savina"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL35"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       A previous geology course; Geology 210 recommended\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49140",
+	"tags": [],
+	"title": "Planetary Geomorphology & Lab"
+}

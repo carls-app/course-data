@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 331.00",
+	"instructors": [
+		"Gail S Nelson"
+	],
+	"number": "331.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       MATH 321 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Further topics in analysis such as measure theory, Lebesgue integration or Banach and Hilbert spaces.",
+	"synonym": "34973",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Real Analysis II"
+}

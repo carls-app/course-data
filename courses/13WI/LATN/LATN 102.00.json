@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 102.00",
+	"instructors": [
+		"Clara S Hardy"
+	],
+	"number": "102.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 101 with a grade of at least C- or placement\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Continuation of essential forms and grammar.",
+	"synonym": "33160",
+	"tags": [],
+	"title": "Intermediate Latin"
+}

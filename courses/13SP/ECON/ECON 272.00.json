@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 272.00",
+	"instructors": [
+		"Mark T Kanazawa"
+	],
+	"number": "272.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Economics 110 and 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the economic, historical, legal and institutional roots of the present-day environmental crisis, with the main, but not exclusive, focus on the United States. Topics covered include land and timber policy, minerals extraction, grazing rights, fisheries management, energy use and production, agriculture, wildlife management, endangered species protection, and rain forest preservation.",
+	"synonym": "32975",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "SPECINTLEGAL",
+			"name": "Legal Studies"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		}
+	],
+	"title": "Economics, Property and Institutions in Natural Resources"
+}

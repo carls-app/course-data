@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 140.00",
+	"instructors": [
+		"Max P Mueller"
+	],
+	"number": "140.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course explores the colorful, contested history of religion in American culture. While surveying the main contours of religion in the United States from the colonial era to the present, the course concentrates on a series of historical moments that reveal tensions between a quest for a (Protestant) American consensus and an abiding religious and cultural pluralism.",
+	"synonym": "36010",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "AMSTSURVEY1",
+			"name": "AMST 1 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "RELGAMERTRAD",
+			"name": "RELG Traditions in Americas"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		}
+	],
+	"title": "Religion and American Culture"
+}

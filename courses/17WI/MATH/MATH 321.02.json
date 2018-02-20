@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 321.02",
+	"instructors": [
+		"Helen M Wong"
+	],
+	"number": "321.02",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 236 or permission of the instructor\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A systematic study of concepts basic to calculus, such as topology of the real numbers, limits, differentiation, integration, convergence of sequences, and series of functions.",
+	"synonym": "46663",
+	"tags": [
+		{
+			"code": "ELECSTAT",
+			"name": "Elective Stats"
+		},
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Real Analysis I"
+}

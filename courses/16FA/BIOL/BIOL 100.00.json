@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Requires concurrent registraiton IN IDSC 198 Held for Class of 20"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 100.00",
+	"instructors": [
+		"Debby R Walser-Kuntz"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "44940",
+	"tags": [],
+	"title": "Viruses: Invisible Invaders"
+}

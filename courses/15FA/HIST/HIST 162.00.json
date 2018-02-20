@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 162.00",
+	"instructors": [
+		"Brendan P LaRocque"
+	],
+	"number": "162.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the intersection of politics and culture in the public sphere in South Asia. We will look at the impact of British colonial rule, social hierarchies and caste, gender and the public sphere, race, religion and secularism. We'll also examine movements for independence, including Gandhian nationalism, left- and right-wing movements, and religious nationalism. Lastly, we will\u00a0look at contemporary issues of popular culture, identity, gender, social justice, and militarism in the age of globalization. In addition to scholarly books and articles, course material includes music, poetry, journalism, popular Bollywood cinema and \"art films.\"",
+	"synonym": "41344",
+	"tags": [
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		}
+	],
+	"title": "Politics and Public Culture in Modern South Asia"
+}

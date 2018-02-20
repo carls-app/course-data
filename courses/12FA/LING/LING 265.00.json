@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 265.00",
+	"instructors": [
+		"Mike Flynn"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100-level Linguistics course\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Topics include: the history of the field, agrammatism, fluent aphasia, acquired dyslexias, the role of the non-dominant hemisphere, bilingualism, and subcortical structures.",
+	"synonym": "32171",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		}
+	],
+	"title": "Language and Brain"
+}

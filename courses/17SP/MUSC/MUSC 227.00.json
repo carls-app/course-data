@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"MUSC 228 required. A grade of C- or better must be earned in both MUSC 227 & 228 to staisfy the LS requirement."
+	],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 227.00",
+	"instructors": [
+		"Justin M London"
+	],
+	"number": "227.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       A previous course in Music or Psychology, or instructor permission; Concurrent registration in Music 228\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Covers basic issues in auditory perception and cognition with an emphasis on the perception of musical pitch, including sensory discrimination, categorical perception, roughness and dissonance, absolute pitch, and auditory streaming. Other topics to be covered include the processing of language and music, and emotional responses to music. A grade of C- or better must be earned in both Music 227 and 228 to satisfy the LS requirement.",
+	"synonym": "44680",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "PSYCCGST",
+			"name": "Psychology Cognitive Studies"
+		},
+		{
+			"code": "PSYCCORE",
+			"name": "Psychology Core"
+		}
+	],
+	"title": "Perception and Cognition of Music"
+}

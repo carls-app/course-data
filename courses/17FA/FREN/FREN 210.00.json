@@ -1,0 +1,46 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 2.0,
+	"department": "FREN",
+	"id": "FREN 210.00",
+	"instructors": [
+		"Cathy Yandell"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 345"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       French 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48348",
+	"tags": [],
+	"title": "Coffee and News"
+}

@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 274.00",
+	"instructors": [
+		"Kevin A Wolfe"
+	],
+	"number": "274.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we will examine some of the cultural, intellectual, and religious transformations occurring in the nineteenth century that have given the turn of the twentieth century the reputation of being \"the age of anxiety.\" We will engage Arthur Schopenhauer's philosophical pessimism, and wrestle with Friedrich Nietzsche's \"affirmation of existence.\" Grappling with questions such as \"Is life worth living?\" and \"If there is no God, is existence meaningless?\" we will also turn to the U.S. context, looking at the ways some of the classical pragmatists contend with the specter of pessimism.",
+	"synonym": "45439",
+	"tags": [
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHETHCLWPOL",
+			"name": "RELG Theme Ethics, Law & Pol"
+		}
+	],
+	"title": "Pessimism and the Affirmation of Existence"
+}

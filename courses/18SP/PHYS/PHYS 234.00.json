@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 234.00",
+	"instructors": [
+		"Frank T McNally"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Olin 302"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 131, 132, 141, 142, 143, or 144, or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The development of techniques to study complex physical systems from a probabilistic and numerical standpoint using",
+	"synonym": "49111",
+	"tags": [],
+	"title": "Computer Simulations in Complex Physical Systems"
+}

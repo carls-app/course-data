@@ -1,0 +1,95 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 139.00",
+	"instructors": [
+		"Susannah R Ottaway"
+	],
+	"number": "139.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A narrative and survey of the early modern period (fifteenth through eighteenth centuries). The course examines the Renaissance, Reformation, Contact with the Americas, the Scientific Revolution and Enlightenment. We compare the development of states and societies across Western Europe, with particularly close examination of the history of Spain.",
+	"synonym": "32699",
+	"tags": [
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		}
+	],
+	"title": "Foundations of Modern Europe"
+}

@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "DANC",
+	"id": "DANC 266.00",
+	"instructors": [
+		"Alessandra L Williams"
+	],
+	"number": "266.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 231"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "46902",
+	"tags": [
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		}
+	],
+	"title": "Reading The Dancing Body: Topics in Dance History"
+}

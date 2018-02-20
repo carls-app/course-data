@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"PSYC 238 required. A grade of C- or better must be earned in both PSYC 238 & 239 to satisfy the LS requirement."
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 239.02",
+	"instructors": [
+		"Adam L Putnam"
+	],
+	"number": "239.02",
+	"offerings": {
+		"locations": [
+			"Olin 11"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 and concurrent registration in Psychology 239\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "48769",
+	"tags": [
+		{
+			"code": "PSYCLAB",
+			"name": "Psyc Laboratory"
+		}
+	],
+	"title": "Memory Processes Lab"
+}

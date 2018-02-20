@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 204.00",
+	"instructors": [
+		"Brian W Fuller"
+	],
+	"number": "204.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Do you feel lost without your iPhone? Did you feel empty when Breaking Bad ended? Have Twitter and Instagram improved your life? In this course we critically examine the socio-cultural origins and impact of media technologies. Using perspectives from sociology, critical theory and cultural studies, we investigate the ways in which media of communication help shape ourselves and our social world. From mass media to social media, we focus on issues of power and inequality to understand and evaluate our media-saturated world.",
+	"synonym": "40127",
+	"tags": [
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "Media and Society"
+}

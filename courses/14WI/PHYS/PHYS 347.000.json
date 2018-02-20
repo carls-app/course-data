@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 347.000",
+	"instructors": [
+		"Nelson L Christensen"
+	],
+	"number": "347.000",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 230 and 235\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Einstein's theory of general relativity is developed from basic physical principles. Also presented is the mathematics of curved space time. Astrophysical applications of general relativity, including spherically symmetric objects, black holes, cosmology and the creation and detection of gravitational waves are given.",
+	"synonym": "34882",
+	"tags": [],
+	"title": "General Relativity"
+}

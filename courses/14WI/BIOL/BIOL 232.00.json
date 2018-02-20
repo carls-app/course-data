@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"BIOL 233 required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 232.00",
+	"instructors": [
+		"Amy H Moore"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235",
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 35,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "35231",
+	"tags": [
+		{
+			"code": "SPECINTHEALTH",
+			"name": "Health Issues"
+		},
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Human Physiology"
+}

@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 233.00",
+	"instructors": [
+		"Kathryn L Steed"
+	],
+	"number": "233.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we will explore the life, career, and defeat of L. Sergius Catilina as portrayed in Sallust's",
+	"synonym": "36113",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Catiline"
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "MUSC",
+	"id": "MUSC 198.00",
+	"instructors": [
+		"Issam Rafea"
+	],
+	"number": "198.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "6:00pm",
+				"start": "4:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "6:00pm",
+				"start": "4:30pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "46937",
+	"tags": [],
+	"title": "Middle Eastern Music Ensemble"
+}

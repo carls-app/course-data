@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 340.00",
+	"instructors": [
+		"Brian W Fuller"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Sociology/Anthropology 330 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Within sociology and social science generally, the term \"theory\" possesses a host of meanings. This seminar moves beyond conceptions of theory as explanation and generalization to explore the idea of theory as critique. Rather than examining the \"classical\" origins of social critique (Marx, Nietzsche, Freud), we'll choose a significant theme within current debates and explore it though a variety of contemporary critical perspectives. Possible themes include self and identity, equality and difference, class and power, ethics and justice. Schools of thought may include feminism, poststructuralism, postcolonialism, psychoanalysis, queer theory, Marxism. Key thinkers may include Seyla Benhabib, Pierre Bourdieu, Judith Butler, Michel Foucault, Jurgen Habermas, Donna Haraway, Axel Honneth, Julia Kristeva, Paul Ricoeur, Edward Said, Dorothy Smith.",
+	"synonym": "41901",
+	"tags": [
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "Topics in Critical Social Theory"
+}

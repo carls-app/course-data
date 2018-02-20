@@ -1,0 +1,87 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 239.00",
+	"instructors": [
+		"Susannah R Ottaway"
+	],
+	"number": "239.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Historians disagree about the timing, causes and effects of the Industrial Revolution, but no one disputes that there were massive changes in England's population, economy and society from the seventeenth to the nineteenth century. In this course, we examine those transformations with a focus on the ways that social and economic changes related to social welfare policies, the health of the people, and the environment.",
+	"synonym": "38773",
+	"tags": [
+		{
+			"code": "HISTENVIRHEALTH",
+			"name": "History Environment and Health"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "SPECINTHEALTH",
+			"name": "Health Issues"
+		}
+	],
+	"title": "Health and Welfare in Industrializing Britain"
+}

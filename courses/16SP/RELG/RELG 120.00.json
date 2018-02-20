@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 120.00",
+	"instructors": [
+		"Shana L Sippy"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How does a religious tradition evolve over time? This course provides an overview of the Judaic tradition as a whole, exploring its history, modes of expression, and characteristic polarities as they have emerged in various times and places. The contours of classical Jewish life and thought are explored, as well as the crises, challenges, and choices confronting Jews and Judaism today.",
+	"synonym": "41925",
+	"tags": [
+		{
+			"code": "JDSTPERT",
+			"name": "Judiac Studies Pertinent"
+		},
+		{
+			"code": "RELGJEWISHTRAD",
+			"name": "RELG Jewish Traditions"
+		}
+	],
+	"title": "Introduction to Judaism"
+}

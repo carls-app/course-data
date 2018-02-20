@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 170.00",
+	"instructors": [
+		"Catherine Licata"
+	],
+	"number": "170.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Cinema and Media Studies 111\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45053",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		}
+	],
+	"title": "Story Development Workshop"
+}

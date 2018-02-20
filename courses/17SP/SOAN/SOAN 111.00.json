@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 111.00",
+	"instructors": [
+		"Wes D Markofski"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to sociology, including analysis of the sociological perspective, culture, socialization, demography, and social class and caste institutions in modern industrial societies and cultures; stability and change in societies of the twentieth and twenty-first centuries. Pros and cons of various theoretical strategies will be emphasized.",
+	"synonym": "45581",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Introduction to Sociology"
+}

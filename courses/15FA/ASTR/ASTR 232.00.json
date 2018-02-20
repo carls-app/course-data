@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"Carleton/St. Olaf Course",
+		"Cross-listed with PHYS 232.00"
+	],
+	"credits": 6.0,
+	"department": "ASTR",
+	"id": "ASTR 232.00",
+	"instructors": [
+		"Joel M Weisberg"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "8:50pm",
+				"start": "7:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:50pm",
+				"start": "7:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 228, 229 &amp; 230 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 17,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A study of stellar structure and evolution with an emphasis on the physical principles underlying the observed phenomena. Topics include the birth, evolution, and death of stars, pulsars, black holes, and white dwarfs.",
+	"synonym": "40945",
+	"tags": [],
+	"title": "Astrophysics I"
+}

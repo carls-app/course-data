@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 115.00",
+	"instructors": [
+		"Nancy J Cho"
+	],
+	"number": "115.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is an introduction to the field of American Studies--its pleasures, challenges, and central questions--through the lens of immigration and migration. Using interdisciplinary readings and assignments, we will explore the richness and complexity of American culture by placing immigration and migration at the center of our investigations. Throughout the term, our study of diverse topics (Borders and Boundaries, World War II, and Sound) will model different ways of making connections and analyzing relationships between immigration, identity, and culture in the United States.",
+	"synonym": "40864",
+	"tags": [
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "Introduction to American Studies: Immigration and American Culture"
+}

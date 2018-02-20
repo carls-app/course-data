@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 130.00",
+	"instructors": [
+		"Michael D McNally"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course explores the history and contemporary practice of Native American religious traditions, especially as they have developed amid colonization and resistance. While surveying a broad variety of ways that Native American traditions imagine land, community, and the sacred, the course focuses on the local traditions of the Ojibwe and Lakota communities. Materials include traditional beliefs and practices, the history of missions, intertribal new religious movements, and contemporary issues of treaty rights, religious freedom, and the revitalization of language and culture.",
+	"synonym": "43040",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "RELGAMERTRAD",
+			"name": "RELG Traditions in Americas"
+		}
+	],
+	"title": "Native American Religions"
+}

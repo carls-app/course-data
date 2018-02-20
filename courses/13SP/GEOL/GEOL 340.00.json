@@ -1,0 +1,80 @@
+{
+	"comments": [
+		"GEOL 340L required"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 340.00",
+	"instructors": [
+		"Bob Tipping"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Geology 210 or junior/senior standing in one of the physical sciences.; GEOL 340L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 34,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A seminar on major principles of ground and surface water hydrology and their application to contemporary hydrologic problems. The course will draw considerably on student-directed investigation of critical areas of study in hydrology.",
+	"synonym": "32551",
+	"tags": [
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "ENTSWRES",
+			"name": "ENTS Water Res Env Sci"
+		},
+		{
+			"code": "ENTSFAES",
+			"name": "ENTS Food AG Env Sci"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "ENTSTOPICAL",
+			"name": "ENTS Topical"
+		}
+	],
+	"title": "Hydrology"
+}

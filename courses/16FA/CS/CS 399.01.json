@@ -1,0 +1,40 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "CS",
+	"id": "CS 399.01",
+	"instructors": [
+		"Anna N Rafferty"
+	],
+	"number": "399.01",
+	"offerings": {
+		"locations": [
+			"CMC 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Senior standing. Students are strongly encouraged to complete Computer Science 252 and either Computer Science 204 or 257 before starting Computer Science 399.\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45166",
+	"tags": [],
+	"title": "Senior Seminar"
+}

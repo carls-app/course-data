@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"PSYC 239 required. A grade of C- or better must be earned in both PSYC 238 & 239 to satisfy the LS requirement."
+	],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 238.00",
+	"instructors": [
+		"Adam L Putnam"
+	],
+	"number": "238.00",
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48767",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "PSYCCORE",
+			"name": "Psychology Core"
+		},
+		{
+			"code": "PSYCCGST",
+			"name": "Psychology Cognitive Studies"
+		}
+	],
+	"title": "Memory Processes"
+}

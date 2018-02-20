@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 220.00",
+	"instructors": [
+		"Kathleen M Ryor"
+	],
+	"number": "220.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One 100 level Art History course\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Pictures of the floating world, or",
+	"synonym": "40883",
+	"tags": [
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		}
+	],
+	"title": "The Origins of Manga: Japanese Prints"
+}

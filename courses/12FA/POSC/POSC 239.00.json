@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"2nd 5 week"
+	],
+	"credits": 3.0,
+	"department": "POSC",
+	"id": "POSC 239.00",
+	"instructors": [
+		"Burton Levin"
+	],
+	"number": "239.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Diplomacy is the means by which states find common ground and resolve differences. Former ambassador Burt Levin uses three cases studies from his career to evaluate the relationships between diplomacy and policy implementation.",
+	"synonym": "32992",
+	"tags": [
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "The Diplomat's Craft: Three Case Studies"
+}

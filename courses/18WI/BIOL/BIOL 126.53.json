@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 126.53",
+	"instructors": [
+		"Daniel L Hern\u00e1ndez",
+		"Rou-Jia Sung",
+		"Annie Bosacker"
+	],
+	"number": "126.53",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 115"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			},
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistry 123 or 128\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47712",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		},
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		}
+	],
+	"title": "Energy Flow in Biological Systems and Lab"
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 256.00",
+	"instructors": [
+		"Cathy Asher"
+	],
+	"number": "256.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47831",
+	"tags": [
+		{
+			"code": "MESTGRP2",
+			"name": "Middle East Support Group 2"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		}
+	],
+	"title": "Age of Empire: Ottomans of Turkey, Safavids of Iran and Mughals of India"
+}

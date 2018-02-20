@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"HIST 400 required."
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 398.01",
+	"instructors": [
+		"Annette Igra",
+		"Seungjoo Yoon"
+	],
+	"number": "398.01",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Concurrent registration in History 400\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is designed to support majors in developing advanced skills in historical research and writing. Through a combination of class discussion, small group work, and one-on-one interactions with the professor, majors learn the process of constructing sophisticated, well-documented, and well-written historical arguments within the context of an extended project of their own design. They also learn and practice strategies for engaging critically with contemporary scholarship and effective techniques of peer review and the oral presentation of research. Concurrent enrollment in History 400 required. By permission of the instructor only.",
+	"synonym": "35968",
+	"tags": [],
+	"title": "Advanced Historical Writing"
+}

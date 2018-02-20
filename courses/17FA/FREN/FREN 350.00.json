@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 350.00",
+	"instructors": [
+		"Sandra E Rousseau"
+	],
+	"number": "350.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One French course beyond French 204 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49342",
+	"tags": [
+		{
+			"code": "MESTGRP2",
+			"name": "Middle East Support Group 2"
+		},
+		{
+			"code": "FFSTSEM",
+			"name": "FFST Senior Sem Conc"
+		}
+	],
+	"title": "Middle East and French Connection"
+}

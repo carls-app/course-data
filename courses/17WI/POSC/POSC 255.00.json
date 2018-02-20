@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 255.00",
+	"instructors": [
+		"Mihaela Czobor-Lupp"
+	],
+	"number": "255.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The thought and practice of the modern age have been found irredeemably oppressive, alienating, dehumanizing, and/or exhausted by a number of leading philosophic thinkers in recent years. In this course we will explore the critiques and alternative visions offered by a variety of post-modern thinkers, including Nietzsche (in many ways the first post-modern), Heidegger, Foucault, and Derrida.",
+	"synonym": "45367",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "FFSTSOCSCI",
+			"name": "FFST Social Sci Conc"
+		},
+		{
+			"code": "POSI-PLI2",
+			"name": "Philosophic & Legal Inq 2"
+		}
+	],
+	"title": "Post-Modern Political Thought"
+}

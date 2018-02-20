@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 252.00",
+	"instructors": [
+		"Layla K Oesper"
+	],
+	"number": "252.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201 and either Computer Science 202 or Mathematics 236\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A course on techniques used in the design and analysis of efficient algorithms. We will cover several major algorithmic design paradigms (greedy algorithms, dynamic programming, divide and conquer, and network flow). Along the way, we will explore the application of these techniques to a variety of domains (natural language processing, economics, computational biology, and data mining, for example). As time permits, we will include supplementary topics like randomized algorithms, advanced data structures, and amortized analysis.",
+	"synonym": "45165",
+	"tags": [],
+	"title": "Algorithms"
+}

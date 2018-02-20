@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 236.00",
+	"instructors": [
+		"Deanna Haunsperger"
+	],
+	"number": "236.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 232 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Basic concepts and techniques used throughout mathematics. Topics include logic, mathematical induction and other methods of proof, problem solving, sets, cardinality, equivalence relations, functions and relations, and the axiom of choice. Other topics may include: algebraic structures, graph theory, and basic combinatorics.",
+	"synonym": "48794",
+	"tags": [],
+	"title": "Mathematical Structures"
+}

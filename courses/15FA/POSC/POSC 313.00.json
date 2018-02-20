@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"1st 5 Week."
+	],
+	"credits": 3.0,
+	"department": "POSC",
+	"id": "POSC 313.00",
+	"instructors": [
+		"Steven G Poskanzer"
+	],
+	"number": "313.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This seminar will explore pressing legal and policy issues facing American colleges and universities. The course will address the ways core academic values (e.g., academic freedom; the creation and maintenance of a community based on shared values) fit or conflict with legal rules and political dynamics that operate beyond the academy. Likely topics include how college admissions are shaped by legal principles, with particular emphasis on debates over affirmative action; on-campus speech; faculty tenure; intellectual property; student rights and student discipline (including discipline for sexual assault); and college and university relations with the outside world.",
+	"synonym": "42164",
+	"tags": [
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-PLI2",
+			"name": "Philosophic & Legal Inq 2"
+		},
+		{
+			"code": "PPOLEDUC",
+			"name": "Pub Pol Education Policy"
+		}
+	],
+	"title": "Legal Issues in Higher Education"
+}

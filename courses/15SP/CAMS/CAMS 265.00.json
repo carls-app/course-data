@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 265.00",
+	"instructors": [
+		"Jay S Beck"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course examines the theories and techniques of sound design for film and video. Students will learn the basics of audio recording, sound editing and multi-track sound design specifically for the moving image. The goal of the course is a greater understanding of the practices and concepts associated with soundtrack development through projects using recording equipment and the digital audio workstation for editing and mixing.",
+	"synonym": "38164",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		}
+	],
+	"title": "Sound Design"
+}

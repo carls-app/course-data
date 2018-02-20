@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 111.03",
+	"instructors": [
+		"Prathi Seneviratne"
+	],
+	"number": "111.03",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course gives the students a foundation in the general principles of economics as a basis for effective citizenship and, when combined with 110, as a preparation for all advanced study in economics. Topics include consumer choice theory; the formation of prices under competition, monopoly, and other market structures; the determination of wages, profits, and income from capital; the distribution of income; and an analysis of policy directed towards problems of public finance, pollution, natural resources, and public goods.",
+	"synonym": "41062",
+	"tags": [
+		{
+			"code": "POECLOWER",
+			"name": "Political Economy Lower Level"
+		}
+	],
+	"title": "Principles of Microeconomics"
+}

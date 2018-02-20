@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 250.00",
+	"instructors": [
+		"Arnab Chakladar"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we will follow the various paths that the novel in India has taken since the early twentieth century. Reading both works composed in English and some in translation we will probe in particular the ways in which questions of language and national/cultural identity are constructed and critiqued in the Indian novel. We will read some of the most celebrated Indian writers of the last 100 years as well as some who are not as well-known as they should be. The course will also introduce you to some fundamental concepts in postcolonial studies.",
+	"synonym": "48522",
+	"tags": [
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "ENGLT3",
+			"name": "ENGL Tradition 3"
+		}
+	],
+	"title": "Modern Indian Fiction"
+}

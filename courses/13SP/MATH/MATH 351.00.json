@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 351.00",
+	"instructors": [
+		"Stephen F Kennedy"
+	],
+	"number": "351.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 211.\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Cauchy-Riemann equations, analytic functions, complex integration, series, residues, applications.",
+	"synonym": "31805",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Functions of a Complex Variable"
+}

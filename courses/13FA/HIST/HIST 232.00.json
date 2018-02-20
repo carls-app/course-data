@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 232.00",
+	"instructors": [
+		"Victoria Morse"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Enthusiasm, artistry, invention, exploration.... How do these notions of Renaissance culture play out in sources from the period? Using a range of evidence (historical, literary, and visual) from Italy and France in the fourteenth-sixteenth centuries we will explore selected issues of the period, including debates about the meaning of being human and ideal forms of government and education; the nature of God and mankind's duties toward the divine; the family and gender roles; definitions of beauty and the goals of artistic achievement; accumulation of wealth; and exploration of new worlds and encounters with other peoples.",
+	"synonym": "35943",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Renaissance Worlds in France and Italy"
+}

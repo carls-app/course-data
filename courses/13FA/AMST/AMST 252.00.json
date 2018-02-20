@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 252.00",
+	"instructors": [
+		"Audrey S Russek"
+	],
+	"number": "252.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We explore the creation, exchange, and consumption of food in America, and the spaces in which it is produced, sold, shared, and eaten, focusing especially on food as a cultural artifact that is intricately tied to individual and group identification. We will study what Americans eat now, how American cuisine has changed, and how food is intertwined with ideas about cultural and national identity. We'll consider geography, home and community cooking, business and industry, and globalization in the formation and evolution of eating culture in the U.S. and ways in which food practices overlap with politics, power, and national identity.",
+	"synonym": "34538",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		}
+	],
+	"title": "Food Culture in the United States"
+}

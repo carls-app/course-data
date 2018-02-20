@@ -1,0 +1,89 @@
+{
+	"comments": [
+		"Extra Time required."
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 248.00",
+	"instructors": [
+		"Michael J Kowalewski"
+	],
+	"number": "248.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An interdisciplinary exploration of the ways in which California has been imagined in literature, art, film and popular culture from pre-contact to the present. We will explore the state both as a",
+	"synonym": "41232",
+	"tags": [
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "Visions of California"
+}

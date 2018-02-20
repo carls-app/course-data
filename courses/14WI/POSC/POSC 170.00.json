@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 170.00",
+	"instructors": [
+		"Tun Myint"
+	],
+	"number": "170.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 31,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
+	"synonym": "36256",
+	"tags": [
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "POECLOWER",
+			"name": "Political Economy Lower Level"
+		}
+	],
+	"title": "International Relations and World Politics"
+}

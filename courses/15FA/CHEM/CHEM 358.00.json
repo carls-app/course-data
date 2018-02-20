@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 358.00",
+	"instructors": [
+		"Matt Whited"
+	],
+	"number": "358.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistry 234\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course covers the bonding and reactivity of organometallic complexes in the context of their applications to industrial catalysis, the synthesis of complex organic molecules, and energy science. We will use simple yet powerful tools such as the eighteen-electron rule and isoelectronic arguments to rationalize and predict observed reactivity, and current literature will be extensively utilized.",
+	"synonym": "41111",
+	"tags": [],
+	"title": "Organometallic Chemistry"
+}

@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Held for Class of 2016"
+	],
+	"credits": 6.0,
+	"department": "IDSC",
+	"id": "IDSC 100.00",
+	"instructors": [
+		"Neil S Lutsky"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "33078",
+	"tags": [],
+	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues"
+}

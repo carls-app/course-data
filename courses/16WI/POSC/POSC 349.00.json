@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Cross-listed with POSC 259."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 349.00",
+	"instructors": [
+		"Laurence D Cooper"
+	],
+	"number": "349.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 230"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "42198",
+	"tags": [
+		{
+			"code": "POSI-PLI2",
+			"name": "Philosophic & Legal Inq 2"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		},
+		{
+			"code": "POSCADVSEM",
+			"name": "Polisci Advanced Seminar"
+		}
+	],
+	"title": "Justice Among Nations"
+}

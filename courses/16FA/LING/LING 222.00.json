@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 222.00",
+	"instructors": [
+		"Cherlon L Ussery"
+	],
+	"number": "222.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100-level linguistics course\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The form words take is, in part, governed by complex systems called \"case\" and \"agreement.\" In general, case refers to forms of nouns, and agreement refers to forms of verbs. We go beyond familiar case patterns in which subjects are Nominative and objects are Accusative and familiar agreement patterns in which verbs display the person, gender, and/or number of subjects. We discover that nouns can bear a variety of cases and that agreement comes in many forms. Using syntactic theory, we explore the interaction between how languages construct words and sentences. No familiarity with languages other than English is required.",
+	"synonym": "45625",
+	"tags": [
+		{
+			"code": "LINGELEC",
+			"name": "Linguistics Elective"
+		}
+	],
+	"title": "Case and Agreement"
+}

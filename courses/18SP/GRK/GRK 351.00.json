@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GRK",
+	"id": "GRK 351.00",
+	"instructors": [
+		"Chico Zimmerman"
+	],
+	"number": "351.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Intensive study of one or two plays in the original and of the remaining plays in translation.",
+	"synonym": "49423",
+	"tags": [],
+	"title": "Aristophanes"
+}

@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 121.00",
+	"instructors": [
+		"Sonja G Anderson"
+	],
+	"number": "121.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will trace the history of Christianity from its origins in the villages of Palestine, to its emergence as the official religion of the Roman Empire, and through its evolution and expansion as the world's largest religion. The course will focus on events, persons, and ideas that have had the greatest impact on the history of Christianity, and examine how this tradition has evolved in different ways in response to different needs, cultures, and tensions--political and otherwise--around the world. This is an introductory course. No familiarity with the Bible, Christianity, or the academic study of religion is presupposed.",
+	"synonym": "48957",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Introduction to Christianity"
+}

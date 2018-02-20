@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 298.00",
+	"instructors": [
+		"Adeeb Khalid"
+	],
+	"number": "298.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In the junior year, majors must take six-credit reading and discussion course taught each year by different members of the department faculty. The general purpose of History 298 is to help students reach a more sophisticated understanding of the nature of history as a discipline and of the approaches and methods of historians. A major who is considering off-campus study in the junior year should consult with their adviser on when to take History 298.",
+	"synonym": "35947",
+	"tags": [
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		}
+	],
+	"title": "Junior-year History Colloquium"
+}

@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 226.00",
+	"instructors": [
+		"Pamela Feldman-Savelsberg"
+	],
+	"number": "226.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines gender and gender relations from an anthropological perspective. We discuss such key concepts as gender, voice/mutedness, status, public and private spheres, and the gendered division of labor, and explore the intellectual history of these terms and how they have been used. The course focuses on two areas: 1) the role of sex, sexuality, and procreation in creating cultural notions of gender, and 2) the impacts of colonialism, globalization, and economic underdevelopment on Third World women. Readings include both theoretical articles and ethnographic case studies from around the world.",
+	"synonym": "45607",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		}
+	],
+	"title": "Anthropology of Gender"
+}

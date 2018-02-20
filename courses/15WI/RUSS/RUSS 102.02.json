@@ -1,0 +1,56 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RUSS",
+	"id": "RUSS 102.02",
+	"instructors": [
+		"Laura Goering",
+		"Anna M Dotlibova"
+	],
+	"number": "102.02",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 242"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Russian 101 or equivalent\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 2,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Continues Russian 101.",
+	"synonym": "39444",
+	"tags": [],
+	"title": "Elementary Russian"
+}

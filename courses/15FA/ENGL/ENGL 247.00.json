@@ -1,0 +1,89 @@
+{
+	"comments": [
+		"Extra Time Required, Evening Screening"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 247.00",
+	"instructors": [
+		"Michael J Kowalewski"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Wallace Stegner once described the West as \"the geography of hope\" in the American imagination. Despite various dystopian urban pressures, the region still conjures up images of wide vistas and sunburned optimism. We will explore this paradox by examining both popular mythic conceptions of the West (primarily in film) and more searching literary treatments of the same area. We will explore how writers such as Twain, Cather, Stegner and Cormac McCarthy have dealt with the geographical diversity and multi-ethnic history of the West. Weekly film showings will include",
+	"synonym": "41212",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		}
+	],
+	"title": "The American West"
+}

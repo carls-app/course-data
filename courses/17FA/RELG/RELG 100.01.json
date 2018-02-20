@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"Held for new first year students"
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 100.01",
+	"instructors": [
+		"Asuka Sango"
+	],
+	"number": "100.01",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We will study different conceptions of \"happiness,\" as well as the practices related to its pursuit, found in both Western and non-Western religions and philosophies, posing such questions as: Is \"happiness\" a universal concept, pursued in all cultures of all times? Does religion, as Marx argued, only provide \"illusory\" happiness? Can \"happiness\" be quantifiably measured? Is happiness a psychologically-, socially-, or genetically-determined condition? In probing these questions, we will analyze not only scholarly writings but also cartoons, novels, films, and TED talks, and critically examine our own definitions of \"happiness.\"",
+	"synonym": "48946",
+	"tags": [
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHETHCLWPOL",
+			"name": "RELG Theme Ethics, Law & Pol"
+		}
+	],
+	"title": "Global Pursuit of Happiness"
+}

@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 344.00",
+	"instructors": [
+		"Amy Csizmar Dalal"
+	],
+	"number": "344.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The field of human-computer interaction addresses two fundamental questions: how do people interact with technology, and how can technology enhance the human experience? In this course, we will explore technology through the lens of the end user: how can we design effective, aesthetically pleasing technology, particularly user interfaces, to satisfy user needs and improve the human condition? How do people react to technology and learn to use technology? What are the social, societal, health, and ethical implications of technology? The course will focus on design methodologies, techniques, and processes for developing, testing, and deploying user interfaces.",
+	"synonym": "38345",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		}
+	],
+	"title": "Human-Computer Interaction"
+}

@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 342.00",
+	"instructors": [
+		"Jeffrey R Ondich"
+	],
+	"number": "342.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 204 or 257\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Software used to stay on the desktop where you put it. Now, we carry multi-purpose computational devices in our pockets. Mobile computers raise a host of software design challenges, with constrained visual spaces, touch screens, GPS sensors, accelerometers, cellular access, and cameras all in one device. More challenges come from the idea of an \"app store,\" a five-year-old experiment that has changed the way developers and computer users think about software. In the context of a few app development projects, this course will focus on mobile computing's design patterns, user interface principles, software development methodologies, development tools, and cultural impact.",
+	"synonym": "38344",
+	"tags": [],
+	"title": "Mobile Application Development"
+}

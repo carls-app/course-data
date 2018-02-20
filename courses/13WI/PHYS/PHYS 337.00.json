@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Class of 2013 only, 2nd 5 week"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 337.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "337.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 336\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "33925",
+	"tags": [],
+	"title": "Quantum Mechanics II"
+}

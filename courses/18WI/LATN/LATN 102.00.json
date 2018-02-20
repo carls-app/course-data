@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 102.00",
+	"instructors": [
+		"Chico Zimmerman"
+	],
+	"number": "102.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 101 with a grade of at least C- or placement\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Continuation of essential forms and grammar.",
+	"synonym": "48397",
+	"tags": [],
+	"title": "Intermediate Latin"
+}

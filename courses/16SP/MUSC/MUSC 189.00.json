@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "MUSC",
+	"id": "MUSC 189.00",
+	"instructors": [
+		"Claire K Larson"
+	],
+	"number": "189.00",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL05"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:15pm",
+				"start": "3:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "5:00pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 100,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The Carleton Symphony Band performs music selected from the standard repertory, including compositions by Holst, Grainger, Nelybel, and Sousa. Regular sight-reading sessions. Admission by audition.",
+	"synonym": "42631",
+	"tags": [],
+	"title": "Carleton Symphony Band"
+}

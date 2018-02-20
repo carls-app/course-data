@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 308.00",
+	"instructors": [
+		"Cherif Ke\u00efta"
+	],
+	"number": "308.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course will look at the presence of France and its capital Paris in the imaginary landscape of a number of prominent African writers, filmmakers and musicians such as Bernard Dadi\u00e9 (C\u00f4te d' Ivoire), Ousmane Semb\u00e8ne (Senegal), Calixthe Beyala (Cameroun), Alain Mabanckou (Congo-Brazzaville), Salif Ke\u00efta (Mali) and others. The history of Franco-African relations will be used as a background for our analysis of these works. Conducted in French.",
+	"synonym": "33286",
+	"tags": [
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRSTLANGLIT",
+			"name": "FRST Lang & Lit Major"
+		},
+		{
+			"code": "AFAMLITARTANLYS",
+			"name": "AFAM Literary & Artistic Anly"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "FFSTLIT",
+			"name": "FFST Literature & Culture"
+		}
+	],
+	"title": "France and the African Imagination"
+}

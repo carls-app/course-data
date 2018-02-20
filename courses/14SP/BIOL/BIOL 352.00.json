@@ -1,0 +1,69 @@
+{
+	"comments": [
+		"BIOL 353 required."
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 352.00",
+	"instructors": [
+		"Mark McKone"
+	],
+	"number": "352.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis.; Concurrent registration in Biology 353\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An investigation of the properties of populations and communities. Topics include population growth and regulation, life tables, interspecific and intraspecific competition, predation, parasitism, mutualism, the nature of communities, and biogeography.",
+	"synonym": "35274",
+	"tags": [
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "ENTSCDES",
+			"name": "ENTS Consv Dev Env Sci"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		}
+	],
+	"title": "Population Ecology"
+}

@@ -1,0 +1,83 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 266.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "266.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "City revenue is increasingly dependent on tourism. Cities manufacture identity and entertainment, whether we think of Las Vegas or Jerusalem, Berlin or Bilbao, the ethnoscapes of Copenhagen or the red light district of Amsterdam. As cities compete in the global economy to become playgrounds for a transnational tourist class, what is the role of urban residents? Who governs? Who benefits? Short essays or exams will be required.",
+	"synonym": "49840",
+	"tags": [
+		{
+			"code": "POECUPAPP",
+			"name": "POEC Amer Pub Pol Upper Lvl"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POECMIDWTD",
+			"name": "POEC Wrld Trade&Dev Mid Div"
+		},
+		{
+			"code": "POECAPP",
+			"name": "Politi Econ Amer Public Policy"
+		},
+		{
+			"code": "AFSTSI",
+			"name": "Africana Stds Social Inquiry"
+		},
+		{
+			"code": "PPOLECON",
+			"name": "Pub Pol Econ Pol Makng & Devel"
+		}
+	],
+	"title": "Urban Political Economy"
+}

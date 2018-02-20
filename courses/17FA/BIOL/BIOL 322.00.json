@@ -1,0 +1,37 @@
+{
+	"comments": [
+		"BIOL 321 required."
+	],
+	"credits": 2.0,
+	"department": "BIOL",
+	"id": "BIOL 322.00",
+	"instructors": [
+		"Daniel L Hern\u00e1ndez"
+	],
+	"number": "322.00",
+	"offerings": {
+		"locations": [
+			"Hulings 115"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Requires concurrent registration in Biology 321.\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47682",
+	"tags": [],
+	"title": "Ecosystem Ecology Laboratory"
+}

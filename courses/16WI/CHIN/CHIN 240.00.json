@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Extra Time required."
+	],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 240.00",
+	"instructors": [
+		"Shaohua Guo"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course introduces to students the drastic transformation of Chinese society, culture, and politics over the past three decades through the camera lens. We will examine representative films from Mainland China, Hong Kong, and Taiwan. Particular attention will be paid to the entangled relationship between art, commerce, and politics, as well as the role digital technologies and international communities play in reshaping the contemporary cultural landscape in China. This class requires no prior knowledge of Chinese language, literature, or culture.",
+	"synonym": "41775",
+	"tags": [
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "Chinese Cinema in Translation"
+}

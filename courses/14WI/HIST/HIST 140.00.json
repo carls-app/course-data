@@ -1,0 +1,91 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 140.00",
+	"instructors": [
+		"David G Tompkins"
+	],
+	"number": "140.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course traces the evolution of Europe from the French Revolution to the outbreak of World War I, and examines some of the political, social, economic, intellectual, and cultural forces that have shaped and reshaped European society. We will cover the growth of modern nation-states, the industrial revolution and its effects on society, changes in the family and gender roles, and the evolution of modern consciousness in the arts, literature, and philosophy. The course will strive to look at both Western and Eastern Europe, and will conclude with a close examination of the causes of the First World War.",
+	"synonym": "35954",
+	"tags": [
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "FFSTHISARTH",
+			"name": "FFST Hist & Art Hist Conc"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "EUSTCORE",
+			"name": "EUST Core Course"
+		}
+	],
+	"title": "The Age of Revolutions: Modern Europe, 1789-1914"
+}

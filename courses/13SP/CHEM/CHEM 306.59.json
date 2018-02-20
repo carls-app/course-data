@@ -1,0 +1,56 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 306.59",
+	"instructors": [
+		"David G Alberg"
+	],
+	"number": "306.59",
+	"offerings": {
+		"locations": [
+			"Olin 02",
+			"Mudd 266"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistory 234 and 344 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This combined lecture and lab course teaches students how to use modern spectrometric techniques for the structural characterization of molecules. Lectures will cover topics and problems in the theory and practical applications associated with GC-Mass Spectrometry, ESI-Mass Spectrometry, Infrared, and Nuclear Magnetic Resonance Spectroscopy (1H,\u00a013C, and 2D experiments). Students will apply all of these techniques in the laboratory for the structural characterization of known and unknown molecules.",
+	"synonym": "32495",
+	"tags": [],
+	"title": "Spectrometric Characterization of Chemical Compounds"
+}

@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 271.00",
+	"instructors": [
+		"Aaron M Swoboda"
+	],
+	"number": "271.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "33074",
+	"tags": [
+		{
+			"code": "ENTSCORE",
+			"name": "ENTS Core Course"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		},
+		{
+			"code": "POECUPWTD",
+			"name": "POEC Wrld Trade&dev Upper Lvl"
+		}
+	],
+	"title": "Environmental Economics and Policy"
+}

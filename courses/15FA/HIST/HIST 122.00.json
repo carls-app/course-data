@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 122.00",
+	"instructors": [
+		"Annette Igra"
+	],
+	"number": "122.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Gender, race, and class shaped women's participation in the arenas of work, family life, culture, and politics in the United States from the colonial period to the late nineteenth century. We will examine diverse women's experiences of colonization, industrialization, slavery and Reconstruction, religion, sexuality and reproduction, and social reform. Readings will include both primary and secondary sources, as well as historiographic articles outlining major frameworks and debates in the field of women's history.",
+	"synonym": "41343",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTSURVEY2",
+			"name": "AMST 2 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "EDUCCLUSTER2",
+			"name": "EDUC Cluster 2 Soc & Culture"
+		}
+	],
+	"title": "U.S. Women's History to 1877"
+}

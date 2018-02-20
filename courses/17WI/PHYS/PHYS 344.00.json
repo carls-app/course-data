@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 344.00",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "344.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 235 and Mathematics 232\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A junior/senior level course in classical and quantum optics. Includes the phenomena of interference, diffraction and coherence and quantum optical applications, such as unique statistical states of light or the operation of a laser. Modern applications of these areas are studied through such topics as fiber optics telecommunication, optical data storage, or manipulation of atoms by light.",
+	"synonym": "45788",
+	"tags": [],
+	"title": "Classical and Quantum Optics"
+}

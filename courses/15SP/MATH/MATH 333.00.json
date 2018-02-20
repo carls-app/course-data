@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 333.00",
+	"instructors": [
+		"Mark Krusemeyer"
+	],
+	"number": "333.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 236 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The study of structures involving finite sets. Counting techniques, including generating functions, recurrence relations, and the inclusion-exclusion principle; existence criteria, including Ramsey's theorem and the pigeonhole principle. Some combinatorial identities and bijective proofs. Other topics may include graph and/or network theory, Hall's (\"marriage\") theorem, partitions, and hypergeometric series.",
+	"synonym": "38685",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Combinatorial Theory"
+}

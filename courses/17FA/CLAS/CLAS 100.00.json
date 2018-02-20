@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Held for first year students"
+	],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 100.00",
+	"instructors": [
+		"Chico Zimmerman"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "48702",
+	"tags": [],
+	"title": "Living Like a Stoic"
+}

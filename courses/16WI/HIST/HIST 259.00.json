@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 259.00",
+	"instructors": [
+		"Amna Khalid"
+	],
+	"number": "259.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The objective of this course is to survey the historical institutions, practices and traditions that defined the position of women in India. We will examine the laws and religious traditions related to women in South Asia including marriage, inheritance,",
+	"synonym": "41373",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		}
+	],
+	"title": "Women in South Asia: Histories, Narratives and Representation"
+}

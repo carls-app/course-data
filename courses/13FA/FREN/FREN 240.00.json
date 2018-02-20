@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 240.00",
+	"instructors": [
+		"Cathy Yandell"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "36141",
+	"tags": [
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FFSTLIT",
+			"name": "FFST Literature & Culture"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "FFSTCORE",
+			"name": "FFST Conc Core"
+		},
+		{
+			"code": "FRSTELECAL",
+			"name": "FRST Elec AL Track"
+		}
+	],
+	"title": "Sexuality & Sagacity"
+}

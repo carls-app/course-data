@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 265.00",
+	"instructors": [
+		"Jay S Beck"
+	],
+	"number": "265.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Cinema and Media Studies 111 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49187",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "CAMSSTUPROD",
+			"name": "CAMS Studio"
+		},
+		{
+			"code": "CAMSELECPROD",
+			"name": "CAMS Elective Production"
+		}
+	],
+	"title": "Sound Design"
+}

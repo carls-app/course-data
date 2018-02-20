@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"GEOL 365L required. Extra time"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 365.00",
+	"instructors": [
+		"Sarah J Titus"
+	],
+	"number": "365.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One introductory (100-level) Geology course, six credits of Physics numbered 131 and above is recommended.; GEOL 365L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course focuses on rock deformation at scales ranging from the collision of continents to the movement of individual atoms within crystals. We will examine structures that develop within different layers of the Earth's lithosphere and discuss how and why these structures form. Reading, discussion, and presentation of scientific literature is expected throughout the term as we focus on deformation and tectonics in a single region. Laboratories and one weekend field trip are included.",
+	"synonym": "38203",
+	"tags": [],
+	"title": "Structural Geology"
+}

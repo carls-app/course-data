@@ -1,0 +1,46 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 240.00",
+	"instructors": [
+		"Sarah J Titus",
+		"Bill Titus"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One Introductory 100-level Geology course and one Physics introductory course (131, 132, 141, 142) or consent of the instructors.\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This applied geophysics course focuses on understanding the near-surface structure of the Earth using a hand-on approach. Students will collect, process, model, and interpret geophysical data using gravitational, magnetic, and seismic methods. Weekly laboratories and one weekend field trip will be required.",
+	"synonym": "35105",
+	"tags": [],
+	"title": "Geophysics"
+}

@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "EDUC",
+	"id": "EDUC 338.00",
+	"instructors": [
+		"Anita P Chikkatur"
+	],
+	"number": "338.00",
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100 or 200-level Educational Studies course or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course focuses on the respect for human diversity, especially as these relate to various racial, cultural and economic groups, and to women. It includes lectures and discussions intended to aid students in relating to a wide variety of persons, cultures, and life styles.",
+	"synonym": "45870",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "AFAMDISTROSS",
+			"name": "AFAM Distro Social Sciences"
+		}
+	],
+	"title": "Multicultural Education"
+}

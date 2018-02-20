@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 257.00",
+	"instructors": [
+		"Jadrian J Miles"
+	],
+	"number": "257.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 37,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "It's easy to write a mediocre computer program, and lots of people do it. Good programs are quite a bit harder to write, and are correspondingly less common. In this course, we will study techniques, tools, and habits that will improve your chances of writing good software. While working on several medium-sized programming projects, we will investigate code construction techniques, debugging and profiling tools, testing methodologies, UML, principles of object-oriented design, design patterns, and user interface design.",
+	"synonym": "38343",
+	"tags": [],
+	"title": "Software Design"
+}

@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 251.00",
+	"instructors": [
+		"Jed C Yang"
+	],
+	"number": "251.00",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 30,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What makes a programming language like \"Python\" or like \"Java?\" This course will look past superficial properties (like indentation) and into the soul of programming languages. We will explore a variety of topics in programming language construction and design: syntax and semantics, mechanisms for parameter passing, typing, scoping, and control structures. Students will expand their programming experience to include other programming paradigms, including functional languages like Scheme and ML.",
+	"synonym": "48888",
+	"tags": [],
+	"title": "Programming Languages: Design and Implementation"
+}

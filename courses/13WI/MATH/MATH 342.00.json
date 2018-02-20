@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 342.00",
+	"instructors": [
+		"Mark Krusemeyer"
+	],
+	"number": "342.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 236 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 35,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Introduction to algebraic structures, including groups, rings, and fields. Homomorphisms and quotient structures, polynomials, unique factorization. Other topics may include applications such as Burnside's counting theorem, symmetry groups, polynomial equations, or geometric constructions.",
+	"synonym": "31783",
+	"tags": [
+		{
+			"code": "STATSUPPER",
+			"name": "Stats Upper-Level"
+		}
+	],
+	"title": "Abstract Algebra I"
+}

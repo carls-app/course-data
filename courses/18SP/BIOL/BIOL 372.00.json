@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 372.00",
+	"instructors": [
+		"Rou-Jia Sung"
+	],
+	"number": "372.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 106"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 and 126; and either Biology 280, Biology 380 or Chemistry 320\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49371",
+	"tags": [
+		{
+			"code": "BIOCELEC",
+			"name": "Biochemistry Elective"
+		}
+	],
+	"title": "Seminar: Structural Biology"
+}

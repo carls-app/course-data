@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 395.00",
+	"instructors": [
+		"Cherif Ke\u00efta"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       French 200-level course or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the main aspects of social change in the area formerly covered by the medieval empire of Mali, through anthropological texts, oral narratives, novels, films and both traditional and modern popular music. Some of the writers, film directors and musicians who will be studied are: Laye Camara, Amadou Hampat\u00e9 B\u00e2, Souleymane Ciss\u00e9, Cheick Oumar Sissoko, Salif Keita and others. Conducted in French. Evening films.",
+	"synonym": "39588",
+	"tags": [
+		{
+			"code": "CCSTBINARY",
+			"name": "CCST Binary Comparison"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "AFAMARTSPRAC",
+			"name": "AFAM Arts Practice"
+		},
+		{
+			"code": "FRSTELECAL",
+			"name": "FRST Elec AL Track"
+		}
+	],
+	"title": "The Mande of West Africa: A Tradition of Change"
+}

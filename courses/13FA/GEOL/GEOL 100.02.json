@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Held for 2017, Extra Time Required, weekend trips"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 100.02",
+	"instructors": [
+		"Clint Cowan"
+	],
+	"number": "100.02",
+	"offerings": {
+		"locations": [
+			"Mudd 66",
+			"Mudd 68"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "35068",
+	"tags": [],
+	"title": "Geology in the Field"
+}

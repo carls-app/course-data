@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 117.00",
+	"instructors": [
+		"Sarah R Jansen"
+	],
+	"number": "117.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What is knowledge, and can we know anything at all? What is the mind, and how is it related to the body? What is consciousness? Is there free will? Are there universal moral truths, or is morality subjective? In this introduction to perennial philosophical questions (as well as the goals and methods of philosophy) we will read contemporary and historical philosophical texts.",
+	"synonym": "38532",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		}
+	],
+	"title": "Philosophical Problems: Mind, Free Will and Morality"
+}

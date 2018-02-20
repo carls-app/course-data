@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"PSYC 216 required."
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 217.01",
+	"instructors": [
+		"Lawrence Wichlinski"
+	],
+	"number": "217.01",
+	"offerings": {
+		"locations": [
+			"Hulings B04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:00pm",
+				"start": "2:00pm"
+			},
+			{
+				"day": "We",
+				"end": "4:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The course provides instruction and experience in methods of behavioral neuroscience, the study of the inter-relation of the brain (and hormonal systems) and behavior. The focus of this laboratory will be on standard methods of inducing behavioral changes via neural and hormonal manipulations in mammals. Psychology 217 requires concurrent registration in Psychology 216. A grade of C- or better must be earned in both Psychology 216 and 217 to satisfy the LS requirement.",
+	"synonym": "45955",
+	"tags": [
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		},
+		{
+			"code": "PSYCLAB",
+			"name": "Psyc Laboratory"
+		}
+	],
+	"title": "Laboratory Research Methods in Behavioral Neuroscience"
+}

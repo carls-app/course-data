@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 229.00",
+	"instructors": [
+		"Peter J Balaam"
+	],
+	"number": "229.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Post-Civil War writers refashioned the cultural work of fiction to express the new taste for realism and the even more chastened mode of naturalism. The novels of this period have a documentary feel, as though charged with representing and re-envisioning the drama of real American lives in a disenchanted, industrialized, and rapidly consolidating world. Readings from Howells, James, Crane, Jewett, Gilman, Dreiser, Chesnutt, and Wharton.",
+	"synonym": "32598",
+	"tags": [
+		{
+			"code": "ENGLHE2",
+			"name": "ENGL Hist Era 2"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		}
+	],
+	"title": "The American Novel: Romance to Realism (1850 to 1910)"
+}

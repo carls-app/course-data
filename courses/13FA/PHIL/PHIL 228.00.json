@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 228.00",
+	"instructors": [
+		"Jason A Decker"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The ancient paradox of the heap (the--sorites--paradox) starts with innocent-looking claims about heaps and grains of sand--claims most of us are eager to accept--and propels us headlong into a blatant and shocking contradiction. A second ancient paradox invites us to comment on--liar sentences--such as \"this sentence is false.\" We quickly find that we have made liars out of--ourselves. Philosophical attempts to solve these puzzles have generated a vast wealth of independently interesting views in the philosophy of language, logic, and metaphysics. In this course, we will look at some of these theories.",
+	"synonym": "35758",
+	"tags": [
+		{
+			"code": "PHILTHEORY",
+			"name": "Philosophy Theoretical Area"
+		},
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		}
+	],
+	"title": "Heaps of Liars: Logic, Language, and Metaphysics"
+}

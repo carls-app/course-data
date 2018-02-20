@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 375.00",
+	"instructors": [
+		"Mija M Van Der Wege"
+	],
+	"number": "375.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology/Cognitive Science 232, 234, or 236.\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "In this course we will examine deception and persuasion in language use. We will take up three main issues. The first is what it means to deceive and how people deceive others through language. What methods do they use, and how do these methods work? The second issue is why people deceive. What purposes do their deceptions serve in court, in advertising, in bureaucracies, in business transactions, and in everyday face-to-face conversation? The third issue is the ethics of deception. Is it legitimate to deceive others, and if so, when and why?",
+	"synonym": "45965",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "LINGREL",
+			"name": "Linguistics Related Field"
+		},
+		{
+			"code": "PSYCSEMINAR",
+			"name": "Psyc Seminar"
+		},
+		{
+			"code": "PSYCUPPERLEVEL",
+			"name": "Psyc Upper Level"
+		}
+	],
+	"title": "Language and Deception"
+}

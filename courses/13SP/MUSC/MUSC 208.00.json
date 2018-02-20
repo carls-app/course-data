@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 208.00",
+	"instructors": [
+		"John Ellinger"
+	],
+	"number": "208.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will survey computer techniques for analyzing, synthesizing, manipulating and creating musical sounds. We'll study the basic components of digital sound: waveforms, oscillators, envelopes, delay lines, and filters. We'll analyze and modify sounds using the Fast Fourier Transform (FFT). We'll study several methods of sound synthesis and create and play original music using open source computer music languages. Course projects will include real-time performances on multiple computers using video game controllers.",
+	"synonym": "33828",
+	"tags": [],
+	"title": "Computer Music and Sound"
+}

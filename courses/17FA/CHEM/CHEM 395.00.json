@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"1st five weeks"
+	],
+	"credits": 3.0,
+	"department": "CHEM",
+	"id": "CHEM 395.00",
+	"instructors": [
+		"Sarah Deel"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 2,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49386",
+	"tags": [],
+	"title": "Research Experience Seminar in Chemistry"
+}

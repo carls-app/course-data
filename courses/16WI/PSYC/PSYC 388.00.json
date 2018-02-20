@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 388.00",
+	"instructors": [
+		"Sharon A Akimoto",
+		"Lawrence Wichlinski"
+	],
+	"number": "388.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 required, Psychology 216 and 256 or 258 recommended\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This upper level seminar will explore how the brain functions in social contexts. We will examine how brain events bias social behavior and cognition, as well as how social behavior and cognition influence brain functioning. Course readings will emphasize the primary literature in the field.",
+	"synonym": "43022",
+	"tags": [
+		{
+			"code": "PSYCSEMINAR",
+			"name": "Psyc Seminar"
+		},
+		{
+			"code": "PSYCUPPERLEVEL",
+			"name": "Psyc Upper Level"
+		}
+	],
+	"title": "Social Neuroscience"
+}

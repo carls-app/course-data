@@ -1,0 +1,64 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 248.00",
+	"instructors": [
+		"Melinda Russell"
+	],
+	"number": "248.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 231",
+			"Weitz Center M032"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course focuses on the classical Hindustani and Carnatic music traditions of North and South India, with briefer coverage of folk and popular traditions, including Bollywood/film music. We will consider the historical and cultural contexts of several genres, reading the work of scholars from various disciplines, and studying relevant audio and video. Students will learn rudimentary theory of Indian classical music, understand its twentieth and twenty-first century developments, and develop listening skills to enable recognition of major genres, styles, and artists. One day a week will be devoted to applied study of Indian vocal raga. No musical background required.",
+	"synonym": "48437",
+	"tags": [
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		}
+	],
+	"title": "Music of India"
+}

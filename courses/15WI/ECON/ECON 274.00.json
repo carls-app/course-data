@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 274.00",
+	"instructors": [
+		"Jenny Bourne"
+	],
+	"number": "274.00",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Economics 110 and 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Why do some people choose to work and others do not? Why are some people paid higher wages than others? What are the economic benefits of education for the individual and for society? How do government policies, such as subsidized child care, the Earned Income Tax Credit and the income tax influence whether people work and the number of hours they choose to work? These are some of the questions examined in labor economics. This course will focus on the labor supply and human capital decisions of individuals and households.",
+	"synonym": "39176",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		},
+		{
+			"code": "POECUPAPP",
+			"name": "POEC Amer Pub Pol Upper Lvl"
+		}
+	],
+	"title": "Labor Economics"
+}

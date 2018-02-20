@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Extra Time Required"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 289.00",
+	"instructors": [
+		"Deborah S Gross"
+	],
+	"number": "289.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One introductory course in Biology 125 or 126, Chemistry 123 or 128, any 100-level Geology, or Physics (two five-week courses or one ten week course from  131-165) and Math 111 or 215, or consent of the  instructor\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "47840",
+	"tags": [
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "PPOLEP",
+			"name": "Pub Pol Env Pol & Sustainablty"
+		}
+	],
+	"title": "Climate Change and Human Health"
+}

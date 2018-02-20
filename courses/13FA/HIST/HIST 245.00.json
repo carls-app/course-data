@@ -1,0 +1,87 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 245.00",
+	"instructors": [
+		"Susannah R Ottaway"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course explores the history of Ireland from Medieval times through the Great Famine, ending with a look at the Partition of Ireland in 1920. We examine themes of religious and cultural conflict and explore a series of English political and military interventions. Throughout the course, we will analyze views of the Irish landscape, landholding patterns, and health and welfare issues. Finally, we explore the contested nature of history and memory as the class discusses monuments and memory production in Irish public spaces.",
+	"synonym": "36958",
+	"tags": [
+		{
+			"code": "HISTENVIRHEALTH",
+			"name": "History Environment and Health"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Ireland: Land, Conflict and Memory"
+}

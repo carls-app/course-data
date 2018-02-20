@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 165.00",
+	"instructors": [
+		"Marty Baylor"
+	],
+	"number": "165.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 131, 132, 141 or 142, and Mathematics 121 ; Concurrent registration in Physics 165L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A study of the principles of electricity, magnetism, and optics with an emphasis on real-world applications including electronics, laser physics, astronomy, and medicine. Topics include electric and magnetic fields, electric potentials, DC and AC circuits, geometric and wave optics, and relevant properties of matter. Designed for science majors who want additional background in physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. One laboratory per week.",
+	"synonym": "42364",
+	"tags": [],
+	"title": "Introduction to Electricity, Magnetism, and Optics"
+}

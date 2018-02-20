@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 217.00",
+	"instructors": [
+		"Mike Flynn"
+	],
+	"number": "217.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100-level Linguistics course\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Although no two utterances are ever exactly the same, we humans don't function like tape recorders; we overlook distinctions to which mechanical recording devices are sensitive, and we \"hear\" contrasts which are objectively not there. What we (think we) hear is determined by the sound system of the language we speak. This course examines the sound systems of human languages, focusing on how speech sounds are produced and perceived, and how these units come to be organized into a systematic network in the minds of speakers of languages.",
+	"synonym": "48405",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "LINGCORE",
+			"name": "Linguistics Core Courses"
+		}
+	],
+	"title": "Phonetics and Phonology"
+}

@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "EDUC",
+	"id": "EDUC 250.00",
+	"instructors": [
+		"Jeff Snyder"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Educational Studies 110 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will survey current approaches to educational change. Students will explore the current systems and structures that constitute the policy framework, scrutinize the assumptions and ideological underpinnings of different political camps, and examine the dynamic interactions between and among those shaping American education. Additionally, they will look at various reform efforts and models, considering their use in the effort to transform schools.",
+	"synonym": "31932",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Fixing Schools: Politics and Policy in American Education"
+}

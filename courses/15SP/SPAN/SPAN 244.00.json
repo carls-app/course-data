@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 244.00",
+	"instructors": [
+		"Palmar M \u00c1lvarez-Blanco"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Spanish 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Since the death of Franco in 1975, Spain has undergone huge political, socio-economic, and cultural transformations. Changes in the traditional roles of women, the legalization of gay marriage, the decline of the Catholic church, the increase of immigrants, Catalan and Basque nationalisms, and the integration of Spain in the European Union, have all challenged the definition of a national identity. Through contemporary narrative and film, this course will examine some of these changes and how they contribute to the creation of what we call Spain today.",
+	"synonym": "39410",
+	"tags": [
+		{
+			"code": "PENINLIT",
+			"name": "Peninsular Literature"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "SPAN220-290",
+			"name": "Spanish 220-290"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "Spain Today: Recent Changes through Narrative and Film"
+}

@@ -1,0 +1,78 @@
+{
+	"comments": [
+		"Winter Break Program, CAMS 295 req'd 16/FA"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 296.00",
+	"instructors": [
+		"Jay S Beck",
+		"Cecilia M Cornejo"
+	],
+	"number": "296.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Cinema and Media Studies 295\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is the second part of a two-term sequence beginning with Cinema and Media Studies 295. In order to bring the students into contact with the cultural and social discourses examined in Cinema and Media Studies 295, this course begins with a study trip to Santiago and Buenos Aires during the first two weeks in December. Our time will be spent visiting filmmakers, producers, scholars, and cultural organizations that shape filmmaking practices and cultural production. The course meets once early in winter term and then involves individual meetings with the faculty during the first five weeks. The course then meets regularly during the second half of winter term, when students formally present their projects followed by a group discussion.",
+	"synonym": "43566",
+	"tags": [
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		}
+	],
+	"title": "Cinema and Cultural Change in Chile and Argentina"
+}

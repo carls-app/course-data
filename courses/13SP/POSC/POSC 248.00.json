@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"1st 5 week"
+	],
+	"credits": 3.0,
+	"department": "POSC",
+	"id": "POSC 248.00",
+	"instructors": [
+		"Burton Levin"
+	],
+	"number": "248.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course will examine the interaction between China and America from the inception in the late eighteenth century to the present, with greater emphasis on more recent events. The focus will be on evaluating the underlying and persisting factors which have made Sino-U.S. relations so special and difficult.",
+	"synonym": "34408",
+	"tags": [
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "POSI-LPS2",
+			"name": "Leadership, Peace, Security 2"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		}
+	],
+	"title": "The U.S.-China Relationship"
+}

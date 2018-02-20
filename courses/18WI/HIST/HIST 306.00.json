@@ -1,0 +1,100 @@
+{
+	"comments": [
+		"Spring Break OCS Program Course. HIST 307 required for Spring Term registration."
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 306.00",
+	"instructors": [
+		"George Vrtis"
+	],
+	"number": "306.00",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       History 205 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is part of the off-campus spring break program, involving two-linked courses in winter and spring. To many Americans, wild lands are among the nation's most treasured places. Yosemite, Yellowstone, the Grand Canyon, Joshua Tree--the names alone evoke a sense of awe, naturalness, beauty, even love. But, where do those ideas and feelings come from, and how have they both reflected and shaped American cultural, political and environmental history over the last four centuries? These are the central issues and questions that we will pursue in this seminar.",
+	"synonym": "46866",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSTOPICAL",
+			"name": "ENTS Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "HISTENVIRHEALTH",
+			"name": "History Environment and Health"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "PPOLEP",
+			"name": "Pub Pol Env Pol & Sustainablty"
+		}
+	],
+	"title": "American Wilderness"
+}

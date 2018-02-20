@@ -1,0 +1,40 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 345.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "345.00",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistry 343 and 344.\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Statistical mechanics is the field which bridges the gap between the modern microscopic world of quantum mechanics and the classical macroscopic world of thermodynamics. Starting with the allowed quantized energy levels for the different forms of molecular motion and then statistically averaging for a large collection of molecules, partition functions are developed which accurately predict thermodynamic properties such as free energy and entropy.",
+	"synonym": "40156",
+	"tags": [],
+	"title": "Statistical Thermodynamics"
+}

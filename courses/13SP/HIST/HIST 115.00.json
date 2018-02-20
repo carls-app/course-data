@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "HIST",
+	"id": "HIST 115.00",
+	"instructors": [
+		"Paul Petzschmann"
+	],
+	"number": "115.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "34504",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "Crltn Archives: Instit Memory"
+}

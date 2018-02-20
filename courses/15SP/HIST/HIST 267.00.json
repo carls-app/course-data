@@ -1,0 +1,115 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 267.00",
+	"instructors": [
+		"Adeeb Khalid"
+	],
+	"number": "267.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Through readings in primary sources in translation, we will discuss the major intellectual and cultural movements that have influenced Muslim thinkers from the nineteenth century on. Topics include modernism, nationalism, socialism, and fundamentalism.",
+	"synonym": "40616",
+	"tags": [
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "HISTISLAM",
+			"name": "HIST Islamic History"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "RELGPERT",
+			"name": "RELG Pertinent Course"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTCENT",
+			"name": "Asian Studies Central Asia"
+		},
+		{
+			"code": "RELGISLAMICTRAD",
+			"name": "RELG Islamic Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "RELGTHETHCLWPOL",
+			"name": "RELG Theme Ethics, Law & Pol"
+		},
+		{
+			"code": "RELGTHLVDRELCLT",
+			"name": "RELG Lived Relg & Culture"
+		},
+		{
+			"code": "MESTGRP2",
+			"name": "Middle East Support Group 2"
+		}
+	],
+	"title": "Muslims and Modernity"
+}

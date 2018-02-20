@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Required $5 book fee will be automatically charged on tuition  bill."
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 197.00",
+	"instructors": [
+		"Kris Layman"
+	],
+	"number": "197.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "Th",
+				"end": "10:35am",
+				"start": "9:30am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49491",
+	"tags": [],
+	"title": "Yoga, Beginning"
+}

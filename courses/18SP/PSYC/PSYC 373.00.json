@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 373.00",
+	"instructors": [
+		"Steven F Kozberg"
+	],
+	"number": "373.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 or permission of the instructor, Psychology 254 or Psychology 354\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49357",
+	"tags": [
+		{
+			"code": "PSYCUPPERLEVEL",
+			"name": "Psyc Upper Level"
+		},
+		{
+			"code": "PSYCSEMINAR",
+			"name": "Psyc Seminar"
+		}
+	],
+	"title": "Topics in Professional Psychology"
+}

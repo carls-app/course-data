@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 254.00",
+	"instructors": [
+		"Anna N Rafferty"
+	],
+	"number": "254.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 111 and either Computer Science 202 or Mathematics 236\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 36,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the theory of computation. What problems can and cannot be solved efficiently by computers? What problems cannot be solved by computers, period? Topics include formal models of computation, including finite-state automata, pushdown automata, and Turing machines; formal languages, including regular expressions and context-free grammars; computability and uncomputability; and computational complexity, particularly NP-completeness.",
+	"synonym": "42057",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "LINGPERT",
+			"name": "Linguistics Pertinent Course"
+		},
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Computability and Complexity"
+}

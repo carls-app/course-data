@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 254.00",
+	"instructors": [
+		"Asuka Sango"
+	],
+	"number": "254.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An exploration of the \"meditation\" school of East Asian Buddhism. We will trace Zen back to its purported origins in India, through its development in China, while focusing on its history in Japan. In addition to its philosophy and practice, we will study its influence on various aspects of Japanese culture--ink painting, calligraphy, Noh theater, tea ceremony, samurai ethics, and martial arts. We will also consider Zen's participation in Japan's nationalism and wartime aggression as well as its place in America, where it has influenced art, literature, and religion for over a century.",
+	"synonym": "48960",
+	"tags": [
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		}
+	],
+	"title": "Zen Buddhism"
+}

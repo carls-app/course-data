@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 241.00",
+	"instructors": [
+		"Rob Thompson"
+	],
+	"number": "241.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 232 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to ordinary differential equations, including techniques for finding solutions, conditions under which solutions exist, and some qualitative analysis.",
+	"synonym": "45797",
+	"tags": [
+		{
+			"code": "ELECSTAT",
+			"name": "Elective Stats"
+		}
+	],
+	"title": "Ordinary Differential Equations"
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 323.00",
+	"instructors": [
+		"Constanza Ocampo-Raeder"
+	],
+	"number": "323.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Why are so many sustainable development projects anchored around women's cooperatives? Why is poverty depicted as having a woman's face? Is the solution to the environmental crisis in the hands of women the nurturers? From overly romantic notions of stewardship to the feminization of poverty, this course aims to evaluate women's relationships with local environments and development initiatives. The course uses anthropological frameworks to evaluate case studies from around the world.",
+	"synonym": "39595",
+	"tags": [
+		{
+			"code": "LTAMSOCSCI",
+			"name": "LTAM Social Science"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "PPOLEP",
+			"name": "Pub Pol Env Pol & Sustainablty"
+		}
+	],
+	"title": "Mother Earth: Women, Development and the Environment"
+}

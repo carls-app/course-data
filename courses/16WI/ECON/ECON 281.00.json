@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 281.00",
+	"instructors": [
+		"Prathi Seneviratne"
+	],
+	"number": "281.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Economics 110 and 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course studies theories of the multi-faceted interaction between the balance of international payments and foreign exchange market and the general levels of domestic prices, employment and economic activity. Topics include the balance of payments, foreign exchange markets, adjustment mechanisms in international payments, macroeconomic policies for internal and external balance, and international monetary systems.",
+	"synonym": "41069",
+	"tags": [
+		{
+			"code": "POECUPWTD",
+			"name": "POEC Wrld Trade&dev Upper Lvl"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "POECMIDWTD",
+			"name": "POEC Wrld Trade&Dev Mid Div"
+		}
+	],
+	"title": "International Finance"
+}

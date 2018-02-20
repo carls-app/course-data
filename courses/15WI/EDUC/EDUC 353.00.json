@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "EDUC",
+	"id": "EDUC 353.00",
+	"instructors": [
+		"Anita P Chikkatur"
+	],
+	"number": "353.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       100 or 200-level Educational Studies course or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is concerned with both the role of schools in society and the impact of society on schools. It deals with race, ethnicity, sex, social class and other factors which influence school achievement, and also examines the widespread assumption that the expansion of schooling can increase equality of opportunity in society.",
+	"synonym": "39555",
+	"tags": [
+		{
+			"code": "EDUCCLUSTER3",
+			"name": "EDUC Cluster 3 Pub Pol&Reform"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "PPOLEDUC",
+			"name": "Pub Pol Education Policy"
+		}
+	],
+	"title": "Schooling and Opportunity in American Society"
+}

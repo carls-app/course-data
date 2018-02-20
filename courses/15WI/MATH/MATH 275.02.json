@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 275.02",
+	"instructors": [
+		"Dave Watson"
+	],
+	"number": "275.02",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 265\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
+	"synonym": "40256",
+	"tags": [],
+	"title": "Introduction to Statistical Inference"
+}

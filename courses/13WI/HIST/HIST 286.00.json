@@ -1,0 +1,88 @@
+{
+	"comments": [
+		"Winter Break Prog, HIST 280 in Fall term required"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 286.00",
+	"instructors": [
+		"Thabiti Willis"
+	],
+	"number": "286.00",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       History 280\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is the second part of a two-term sequence. It begins with a two-week December-break trip to Dubai, UAE, to visit museums, mosques, other heritage sites, universities, media outlets, and markets. It promotes dialogue with Afro-Arab women around the historical constructions of gender, race, and ethnicity in heritage sites, Islam, Arab media, academic institutions, and popular culture. Ultimately, students will ponder Afro-Arab women's voice and visibility beyond the home in this Arab society. Then upon return to Carleton, students will reflect upon their experiences in the UAE, analyze their data, and present it in oral, written, and visual formats.",
+	"synonym": "32709",
+	"tags": [
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "AFSTHI",
+			"name": "Africana Studies Humanistic in"
+		}
+	],
+	"title": "Africans in the Arab World: On Site and Revisited"
+}

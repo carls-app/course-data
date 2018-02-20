@@ -1,0 +1,85 @@
+{
+	"comments": [
+		"HIST 381 14/FA required"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 382.00",
+	"instructors": [
+		"Harry M Williams"
+	],
+	"number": "382.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       History 381\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 14,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The first part of the seminar is the winter break field trip to three regional capitals in Ghana. Fieldwork and experiential living starts in Accra, continues in Kumasi, and ends in Cape Coast. The seminar resumes on campus with weekly reflection meetings. Public poster sessions on fieldwork will be held in Spring term.",
+	"synonym": "38738",
+	"tags": [
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AFSTHI",
+			"name": "Africana Studies Humanistic in"
+		}
+	],
+	"title": "U.S. Relations with Ghana: The Field Trip and Beyond"
+}

@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"DANC 205 required."
+	],
+	"credits": 1.0,
+	"department": "DANC",
+	"id": "DANC 215.00",
+	"instructors": [
+		"Judith A Howard"
+	],
+	"number": "215.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 165"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "9:30pm",
+				"start": "9:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Dance 205\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 2,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "For students enrolled in Dance 205, supervised student choreography with two public showings.",
+	"synonym": "40849",
+	"tags": [],
+	"title": "Winter Dance, Student Choreography"
+}

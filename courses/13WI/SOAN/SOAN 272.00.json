@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 272.00",
+	"instructors": [
+		"Liz Raleigh"
+	],
+	"number": "272.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course considers the construction of race and ethnicity from a sociological perspective. We examine the changing boundaries of racial and ethnic identities, with a particular emphasis on whiteness and post-racial politics, as well as how immigration and multiracial identities complicate and potentially challenge the black/white paradigm. In addition, we will incorporate intersectional perspectives that show the importance of gender, class, and other differences in the construction of race. We will specifically examine these processes and constructions by focusing on inequality, identity, and racial discourse and politics. Finally, we will briefly consider race and ethnicity in various non-U.S. contexts.",
+	"synonym": "32812",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		}
+	],
+	"title": "Race and Ethnicity in the United States"
+}

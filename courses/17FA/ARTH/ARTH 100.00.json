@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Held for First Year Students"
+	],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 100.00",
+	"instructors": [
+		"Meghan Tierney"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Boliou 140"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48698",
+	"tags": [
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		}
+	],
+	"title": "A Visionary Aesthetic: Shamanism and the Arts of the Ancient Americas"
+}

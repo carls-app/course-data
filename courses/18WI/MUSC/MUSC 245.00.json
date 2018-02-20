@@ -1,0 +1,68 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 245.00",
+	"instructors": [
+		"Melinda Russell"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 230",
+			"Weitz Center M032"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "48428",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "AFSTLA",
+			"name": "Africana Stds Literary/Artisti"
+		},
+		{
+			"code": "AMMUGROUP2",
+			"name": "Amer Music Soundtracks of Amer"
+		}
+	],
+	"title": "Music of Africa"
+}

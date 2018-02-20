@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "EDUC",
+	"id": "EDUC 347.00",
+	"instructors": [
+		"Eric J Swan McDonald"
+	],
+	"number": "347.00",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Teaching Licensure Candidate or Instructor Permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will explore teaching methods for the life and physical sciences in grades 5-12. Curricular materials and active learning labs will be discussed and developed. In addition, time outside of class will be spent observing and teaching in local science classrooms. Will not count toward a biology major.",
+	"synonym": "39554",
+	"tags": [],
+	"title": "Methods of Teaching Science"
+}

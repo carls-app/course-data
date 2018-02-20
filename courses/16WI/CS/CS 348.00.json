@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 348.00",
+	"instructors": [
+		"David R Musicant"
+	],
+	"number": "348.00",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "As multi-core machines become more prevalent, different programming paradigms have emerged for harnessing extra processors for better performance. This course explores parallel computation (programs that run on more than one core) as well as the related problem of distributed computation (programs that run on more than one machine). In particular, we will explore the two major paradigms for parallel programming, shared-memory multi-threading and message-passing, and the advantages and disadvantages of each. Other possible topics include synchronization mechanisms, debugging concurrent programs, fork/join parallelism, the theory of parallelism and concurrency, parallel algorithms, cloud computing, Map/Reduce, GPU programming, transactional memory, and memory models.",
+	"synonym": "42071",
+	"tags": [],
+	"title": "Parallel and Distributed Computing"
+}

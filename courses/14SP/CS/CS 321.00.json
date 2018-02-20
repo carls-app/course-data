@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 321.00",
+	"instructors": [
+		"Andy Exley"
+	],
+	"number": "321.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Computer Science 201, additionally Computer Science 202 or Mathematics 236 are strongly recommended.\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 37,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "How can we design computer systems with behavior that seems \"intelligent?\" This course will examine a number of different approaches to this question, including intelligent search computer game playing, automated logic, machine learning (including neural networks), and reasoning with uncertainty. The coursework is a mix of problem solving and computer programming based on the ideas that we discuss.",
+	"synonym": "35048",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Artificial Intelligence"
+}

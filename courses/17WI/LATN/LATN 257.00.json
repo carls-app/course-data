@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LATN",
+	"id": "LATN 257.00",
+	"instructors": [
+		"Kathryn L Steed"
+	],
+	"number": "257.00",
+	"offerings": {
+		"locations": [
+			"Boliou 140"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Latin 204 or the equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will examine narratives of the early stages of the Roman Civil War through contemporary prose accounts of Caesar and Cicero and the poet Lucan's Neronian epic on the Civil War. Topics will include manipulation of public opinion and memory, historical reconstruction through text, the relationship between prose history and historical epic, and the literal and metaphorical dissolution of Rome through civil war, as well as stylistic and philosophical concerns specific to each author.",
+	"synonym": "45693",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		}
+	],
+	"title": "Caesar, Lucan, and Civil War"
+}

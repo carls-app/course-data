@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Held for 2017"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 100.04",
+	"instructors": [
+		"Clifford E Clark"
+	],
+	"number": "100.04",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "35934",
+	"tags": [
+		{
+			"code": "HISTENVIRHEALTH",
+			"name": "History Environment and Health"
+		}
+	],
+	"title": "Medicine and Disease in the Making of the Modern World"
+}

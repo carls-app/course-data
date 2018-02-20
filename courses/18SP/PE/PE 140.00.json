@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"First-year student priority"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 140.00",
+	"instructors": [
+		"Ray Hayward"
+	],
+	"number": "140.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48093",
+	"tags": [],
+	"title": "Introduction to Art & Science of Tai-Chi"
+}

@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 152.00",
+	"instructors": [
+		"Asuka Sango"
+	],
+	"number": "152.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the major religious traditions of Japan, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining characteristics of, and interactions among, various religious traditions, including worship of the kami (local deities), Buddhism, shamanistic practices, Christianity, and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
+	"synonym": "48950",
+	"tags": [
+		{
+			"code": "EASTCORE",
+			"name": "East Asian Core"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "RELGBUDDHSTTRAD",
+			"name": "RELG Buddhist Traditions"
+		}
+	],
+	"title": "Religions in Japanese Culture"
+}

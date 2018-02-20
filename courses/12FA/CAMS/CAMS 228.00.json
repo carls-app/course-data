@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Extra Time Required"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 228.00",
+	"instructors": [
+		"John Schott"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This class charts avant-garde film, photography and design from Salvador Dali's surrealist cinema in the 1920s to the flowering of Beat culture in the 1950s. Key monuments are read against the progression of the art historical styles and \"-isms\" that informed them. We will take an extended look at Beat Culture in the 1950s as a context for the emergence of the American avant-garde. Expect to view rare original prints at the Walker Art Center and make your own experimental film.",
+	"synonym": "32201",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Avant-Garde Film & Video from Dada to the Beats"
+}

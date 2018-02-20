@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 114.00",
+	"instructors": [
+		"Liz Raleigh"
+	],
+	"number": "114.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 27,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "What makes a family? How has the conception of kinship and the 'normal' family changed over the generations? In this introductory class, we examine these questions, drawing on a variety of course materials ranging from classic works in sociology to contemporary blogs on family life. The class focuses on diversity in family life, paying particular attention to the intersection between the family, race and ethnicity, and social class. We'll examine these issues at the micro and macro level, incorporating texts that focus on individuals' stories as well as demographics of the family.",
+	"synonym": "35798",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "Modern Families: An Introduction to the Sociology of the Family"
+}

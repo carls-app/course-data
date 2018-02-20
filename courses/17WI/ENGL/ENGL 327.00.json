@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 327.00",
+	"instructors": [
+		"Susan Jaret McKinstry"
+	],
+	"number": "327.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "We will study selected British novels of the nineteenth century (Eliot's",
+	"synonym": "45558",
+	"tags": [
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		},
+		{
+			"code": "ENGLHE2",
+			"name": "ENGL Hist Era 2"
+		},
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "Victorian Novel"
+}

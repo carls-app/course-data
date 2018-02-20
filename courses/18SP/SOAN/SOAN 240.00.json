@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 240.00",
+	"instructors": [
+		"Annette M Nierobisz"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Sociology/Anthropology 110 or 111; Sociology/Anthropology 239 or Mathematics 115 or 215\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 1,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The course is concerned with social scientific inquiry and explanation, particularly with reference to sociology and anthropology. Topics covered include research design, data collection, and analysis of data. Both quantitative and qualitative methods are considered. Student will demonstrate their knowledge by developing a research proposal that is implementable.",
+	"synonym": "49259",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Methods of Social Research"
+}

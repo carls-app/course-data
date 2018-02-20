@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 249.00",
+	"instructors": [
+		"Constance Walker"
+	],
+	"number": "249.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "We will read and discuss modern Irish poetry, fiction, and drama in the context of Irish politics and culture. Readings will include works by W. B. Yeats, James Joyce, Patrick Kavanaugh, Samuel Beckett, Brian Friel, Edna O'Brien, Seamus Heaney, Eavan Boland, and Ciaran Carson, among others.",
+	"synonym": "35319",
+	"tags": [
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		}
+	],
+	"title": "Irish Literature"
+}

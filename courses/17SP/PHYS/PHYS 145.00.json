@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Combined content of PHYS 131/153"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 145.00",
+	"instructors": [
+		"Jay D Tasson"
+	],
+	"number": "145.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 111. Not open to students who have completed Physics 131, 132, 141, 142, 143, or 144 at Carleton. Requires concurrent registration in PHYS 145L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 46,
+		"total": 49,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "45815",
+	"tags": [],
+	"title": "Mechanics and Waves"
+}

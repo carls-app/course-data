@@ -1,0 +1,71 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 250.00",
+	"instructors": [
+		"Kathleen M Galotti"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to the concept of development, examining both theoretical models and empirical evidence. Prenatal through late childhood is covered with some discussion of adolescence when time permits. Topics include the development of personality and identity, social behavior and knowledge, and cognition. In addition, attention is paid to current applications of theory to such topics as: day care, the role of the media, and parenting.",
+	"synonym": "45908",
+	"tags": [
+		{
+			"code": "EDUCCLUSTER1",
+			"name": "EDUC Cluster 1 Learn, Cogntn,"
+		},
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "PSYCCORE",
+			"name": "Psychology Core"
+		},
+		{
+			"code": "PSYCSDPCH",
+			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
+		}
+	],
+	"title": "Developmental Psychology"
+}

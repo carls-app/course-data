@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 210.00",
+	"instructors": [
+		"Kevin A Wolfe"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "In this course we examine the religious and philosophical roots of prophecy as a form of social criticism in American intellectual and religious history. We pay particular attention to a mode of public exhortation central to African American social criticism that emphasizes spiritual renewal called the Afro-American Jeremiad. Interrogating this tradition, along with differing conceptions of social criticism, we raise numerous questions, such as: Is the Jeremiad tradition still a viable mode of prophetic exhortation? And, with much of contemporary (Black) Christianity's allegiance to capitalism, can the Jeremiad continue to play a prophetic socio-critical role today? This course counts as an African/African American interdisciplinary course.",
+	"synonym": "43054",
+	"tags": [
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "AFAMINTERDISC",
+			"name": "AFAM Interdisciplinary Course"
+		},
+		{
+			"code": "RELGCHRISTNTRAD",
+			"name": "RELG Christian Traditions"
+		},
+		{
+			"code": "RELGTHTHGHTPHIL",
+			"name": "RELG Theme Thght & Phil"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "AFSTCORE",
+			"name": "Africana Studies Core"
+		},
+		{
+			"code": "AFSTHI",
+			"name": "Africana Studies Humanistic in"
+		}
+	],
+	"title": "Prophecy and Social Criticism in America"
+}

@@ -1,0 +1,78 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 316.00",
+	"instructors": [
+		"George Vrtis"
+	],
+	"number": "316.00",
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Previous History course or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 6,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "For the past two decades, historians have increasingly used digital tools to construct and deliver their research. This is particularly the case in public history, which aims to collaborate with public audiences in the co-construction of the past. This seminar will build on this trend, exploring the ways that Minnesota's environmental history can be imagined, understood, and expressed in the digital age. During the course, we will meet with specialists in public and digital history; we will conduct research at the Minnesota Historical Society; and we will develop several web- and smartphone-based stories for the Minnesota Environmental History Project.",
+	"synonym": "39965",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "HISTENVIRHEALTH",
+			"name": "History Environment and Health"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "History, Nature & Smartphones"
+}

@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"1st 5 Week. Extra Time required."
+	],
+	"credits": 3.0,
+	"department": "POSC",
+	"id": "POSC 224.00",
+	"instructors": [
+		"Barbara Allen"
+	],
+	"number": "224.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The Institutional Analysis and Development (IAD) and Social Ecological Systems (SES) Frameworks are designed to provide data on social, economic, and political institutions and the physical environment in such a way that we can understand the reciprocal effects of institutional and environmental change. We will learn these frameworks and the methods used to measure changes in various natural resource systems. Our focus in 2015 will be on the measurement of forests and the microclimates produced by trees in, for example, urban areas.",
+	"synonym": "43018",
+	"tags": [
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		}
+	],
+	"title": "Measuring and Evaluating Social and Ecological Systems"
+}

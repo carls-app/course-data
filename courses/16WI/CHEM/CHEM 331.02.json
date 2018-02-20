@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"CHEM 330 required."
+	],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 331.02",
+	"instructors": [
+		"Steven M Drew",
+		"Deborah S Gross"
+	],
+	"number": "331.02",
+	"offerings": {
+		"locations": [
+			"Mudd 268"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Chemistry 230, 233 and concurrent registration in Chemistry 330\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This laboratory provides students with experience in using instrumental methods for quantitative chemical analysis. Laboratory work consists of several assigned experiments that use instrumental techniques such as liquid and gas chromatography, UV spectrophotometry and fluorometry, mass spectrometry, and voltammetry. This laboratory concludes with an instrumental analysis project that is researched and designed by student groups.",
+	"synonym": "41133",
+	"tags": [],
+	"title": "Instrumental Chemical Analysis Laboratory"
+}

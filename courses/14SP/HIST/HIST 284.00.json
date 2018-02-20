@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 284.00",
+	"instructors": [
+		"Nancy J Jacobs"
+	],
+	"number": "284.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The course begins as Europe's African empire unraveled, and ends with a look toward the future. Students engage in this history while joining the professor in the project of compiling a textbook collection of primary sources. The course is organized thematically into units. Each begins with research on and critical discussion of a broad topic considered within specific historical contexts. Students will identify, edit, and comment on primary sources that represent these major developments and themes. The class will assemble their collection into a narrative collage consisting of official documents, political commentaries, interviews, memoirs, transcripts, and visual records.",
+	"synonym": "36858",
+	"tags": [
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "HISTAFRICA",
+			"name": "HIST Africa"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		}
+	],
+	"title": "Crafting a History of Africa Since Independence"
+}

@@ -1,0 +1,99 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 281.00",
+	"instructors": [
+		"Thabiti Willis"
+	],
+	"number": "281.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course examines the Nigerian Civil War, also known as the Biafra War, 1967-1970, and its implications for post-colonial Nigerian and African history. Clashes between two ethnic groups, the Igbo and the Hausa, culminated in a failed attempt by the Igbo-dominated south to secede from the nation of Nigeria and establish Biafra as an independent country. What role did colonialism play in igniting and fueling the tensions that culminated in the war? What was the role of the media in the war? What light does the Biafra War shed on modern conflict in Africa?",
+	"synonym": "38778",
+	"tags": [
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "POSI-LPS2",
+			"name": "Leadership, Peace, Security 2"
+		},
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		},
+		{
+			"code": "AFAMDISTROHU",
+			"name": "AFAM Distro Humanities"
+		},
+		{
+			"code": "AFAMHUMANINQ",
+			"name": "AFAM Humanistic Inquiry"
+		},
+		{
+			"code": "POSI-LPS",
+			"name": "Leadership, Peace, Security"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "FFSTHISARTH",
+			"name": "FFST Hist & Art Hist Conc"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		}
+	],
+	"title": "War in Modern Africa"
+}

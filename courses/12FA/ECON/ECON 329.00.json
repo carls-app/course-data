@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Formerly ECON 332"
+	],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 329.00",
+	"instructors": [
+		"Mark T Kanazawa"
+	],
+	"number": "329.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 111 and either Mathematics 215 or 275, and Economics 110 and 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course is an introduction to the statistical methods used by economists to test hypotheses and to study and quantify economic relationships. The course emphasizes both statistical theory and practical application through analysis of economic data sets using statistical software. Topics include two-variable and multiple regression, interval estimation and hypothesis testing, discrete and continuous structural change, parameter restrictions, model construction, heteroscedasticity, autocorrelation, and multicollinearity.",
+	"synonym": "32946",
+	"tags": [],
+	"title": "Econometrics"
+}

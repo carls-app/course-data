@@ -1,0 +1,86 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 234.00",
+	"instructors": [
+		"Elizabeth McKinsey"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Masterpieces of the \"Southern Renaissance\" of the early and mid-twentieth century, in the context of American regionalism and particularly the culture of the South, the legacy of slavery and race relations, social and gender roles, and the modernist movement in literature. Authors will include Allen Tate, Jean Toomer, William Faulkner, Robert Penn Warren, Zora Neale Hurston, Eudora Welty, Katherine Anne Porter, William Percy, and others.",
+	"synonym": "43032",
+	"tags": [
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Literature of the American South"
+}

@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Waitlist Only. Instructor Permission required."
+	],
+	"credits": 2.0,
+	"department": "MATH",
+	"id": "MATH 280.00",
+	"instructors": [
+		"Katie St. Clair"
+	],
+	"number": "280.00",
+	"offerings": {
+		"locations": [
+			"CMC 201"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 245 and instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Students will apply their statistical knowledge by analyzing data problems solicited from the Northfield community. Students will also learn basic consulting skills, including communication and ethics.",
+	"synonym": "48822",
+	"tags": [
+		{
+			"code": "ELECSTAT",
+			"name": "Elective Stats"
+		}
+	],
+	"title": "Statistical Consulting"
+}

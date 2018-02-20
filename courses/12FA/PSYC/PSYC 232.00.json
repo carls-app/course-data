@@ -1,0 +1,66 @@
+{
+	"comments": [
+		"PSYC 233 required, Cross-listed with CGSC 232",
+		"Cross-listed with CGSC 232.00"
+	],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 232.00",
+	"instructors": [
+		"Kathleen M Galotti"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 or permission of the instructor. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; PSYC 233. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "32236",
+	"tags": [
+		{
+			"code": "CGSCCORE",
+			"name": "CGSC Core"
+		},
+		{
+			"code": "PSYCPERT",
+			"name": "Psychology Pertinent"
+		}
+	],
+	"title": "Cognitive Processes"
+}

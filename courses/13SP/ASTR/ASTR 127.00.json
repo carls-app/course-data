@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ASTR",
+	"id": "ASTR 127.00",
+	"instructors": [
+		"Cindy Blaha"
+	],
+	"number": "127.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Astronomy 100, or 110, or Physics 131, 132, 141 or 142\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Special topics in modern astrophysics will be explored in order to understand the physical processes at work in a variety of cosmic settings. Possible topics include the solar weather and its impact on Earth, extra-solar planets, black holes, dark matter, gravitational lensing, large-scale structures and dark energy in an accelerating universe.",
+	"synonym": "33514",
+	"tags": [],
+	"title": "Topics in Modern Astrophysics"
+}

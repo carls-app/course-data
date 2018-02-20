@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 155.00",
+	"instructors": [
+		"Jessica F Keating"
+	],
+	"number": "155.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course surveys the art and architecture of societies where Muslims were dominant or where they formed significant minorities from the seventh through the nineteenth centuries. It examines the form and function of architecture and works of art as well as the social, historical and cultural contexts, patterns of use, and evolving meanings attributed to art by the users. The course follows a chronological order, where selected visual materials are treated along chosen themes. Themes include the creation of a distinctive visual culture in the emerging Islamic polity; cultural interconnections along trade and pilgrimage routes; and westernization.",
+	"synonym": "40886",
+	"tags": [
+		{
+			"code": "MESTPERT",
+			"name": "Middle East Studies Pertinent"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "MESTGRP2",
+			"name": "Middle East Support Group 2"
+		}
+	],
+	"title": "Islamic Art and Architecture"
+}

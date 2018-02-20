@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Waitlist only. Students will be admitted by instructors."
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 366.00",
+	"instructors": [
+		"Daniel L Hern\u00e1ndez",
+		"Mark McKone"
+	],
+	"number": "366.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One previous upper-level course in ecology or evolution, from Biology 210, 212, 248, 321, 350 or 352\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "49473",
+	"tags": [
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		}
+	],
+	"title": "Seminar: Conservation Biology"
+}

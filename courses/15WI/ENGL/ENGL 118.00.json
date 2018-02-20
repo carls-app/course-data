@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 118.00",
+	"instructors": [
+		"Timothy Raylor"
+	],
+	"number": "118.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We will look at the whole kingdom of poetry, exploring how poets use form, tone, sound, imagery, rhythm, and subject matter to create what Wallace Stevens called the \"supreme fiction.\" Examples will be drawn from around the world, from Sappho to spoken word. Participation in discussion is mandatory; essay assignments will ask you to provide close readings of particular works; a couple of assignments will focus on the writing of poems so as to give you a full understanding of this ancient and living art.",
+	"synonym": "37923",
+	"tags": [
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "Introduction to Poetry"
+}

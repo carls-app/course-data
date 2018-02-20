@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 246.00",
+	"instructors": [
+		"Austin P Mason"
+	],
+	"number": "246.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course explores the world of Anglo-Saxon England from Rome's decline through the Norman Conquest (c.400-1066) through the lens of material culture. These six centuries witnessed dramatic transformations, including changing environmental conditions, ethnic migrations, the coming of Christianity, waning Roman influence, the rise of kingdoms, and the emergence of new agricultural and economic regimes. We will look beyond the kings and priests at the top of society by analyzing objects people made and used, buildings they built, and human remains they buried alongside primary and secondary written sources. Students will gain experience in how to write history from \"things.\"",
+	"synonym": "48324",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "The Material World of the Anglo-Saxons"
+}

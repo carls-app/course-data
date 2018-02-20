@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Held for Class of 2019."
+	],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 100.01",
+	"instructors": [
+		"Michael D McNally"
+	],
+	"number": "100.01",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The American landscape has shaped and has been shaped by the religious imaginations, beliefs, and practices of diverse inhabitants. This course explores the variety of ways of imagining relationships between land, community, and the sacred, and how religious traditions have been inscribed on land itself. Indigenous and Latino/a traditions will be considered, as will Euro-American traditions ranging from Puritans, Mormons, immigrant farmers, utopian communities, and Deep Ecologists.",
+	"synonym": "43053",
+	"tags": [
+		{
+			"code": "RELGTHLVDRELCLT",
+			"name": "RELG Lived Relg & Culture"
+		}
+	],
+	"title": "Religion and the American Landscape"
+}

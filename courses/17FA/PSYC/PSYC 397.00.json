@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 397.00",
+	"instructors": [
+		"Sarah H Meerts"
+	],
+	"number": "397.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Several 200-level Psychology courses and senior Psychology major\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48743",
+	"tags": [
+		{
+			"code": "PSYCCAPST",
+			"name": "Psyc Capstone"
+		}
+	],
+	"title": "Biological and Behavioral Psychology"
+}

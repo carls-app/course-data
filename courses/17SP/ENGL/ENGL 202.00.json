@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 202.00",
+	"instructors": [
+		"Peter J Balaam"
+	],
+	"number": "202.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "We will approach the Bible not as an archaeological relic, nor as the Word of God, but \"as a work of great literary force and authority [that has] shaped the minds and lives of intelligent men and women for two millennia and more.\" As one place to investigate such shaping, we will sample how the Bible (especially in the \"Authorized\" or King James version) has drawn British and American poets and prose writers to borrow and deploy its language and respond creatively to its narratives, images, and visions.",
+	"synonym": "45591",
+	"tags": [
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		},
+		{
+			"code": "ENGLHE1",
+			"name": "ENGL Hist Era 1"
+		}
+	],
+	"title": "The Bible as Literature"
+}

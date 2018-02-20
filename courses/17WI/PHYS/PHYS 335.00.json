@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 335.00",
+	"instructors": [
+		"Arjendu K Pattanayak"
+	],
+	"number": "335.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 228, 231 (or 229/230) and Mathematics 232.  Familiarity with matrix algebra is assumed\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45786",
+	"tags": [],
+	"title": "Quantum Mechanics"
+}

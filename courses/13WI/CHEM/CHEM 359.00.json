@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 359.00",
+	"instructors": [
+		"Marion E Cass"
+	],
+	"number": "359.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       CHEM 351 or instructor permission\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will focus on the construction and understanding of molecular orbital (MO) diagrams using symmetry and energy arguments. Conceptual constructs will be contrasted to computational output to support theoretical tenets. We will begin with the construction of the MO diagrams of small molecules and proceed to larger molecules culminating in dimers and asymmetric molecules using the Hoffmann Fragment Approach.",
+	"synonym": "32470",
+	"tags": [],
+	"title": "Molecular Orbital Theory"
+}

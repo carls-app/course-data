@@ -1,0 +1,69 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 235.00",
+	"instructors": [
+		"Austin P Mason",
+		"Susannah R Ottaway"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132",
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course will explore the history of England from the time of the Tudors through the Industrial Revolution,\u00a0with a particular focus on the history of poverty and\u00a0social welfare.\u00a0We will use new technologies to develop innovative ways to teach and learn about the past. Using a specially designed digital archive, students will construct life stories of paupers, politicians and intellectuals. One day per week, the class will work in a computer lab constructing 3-Dimensional, virtual institutions and designing computer game scenarios that utilize their research to recreate the lived experience of the poor.",
+	"synonym": "43030",
+	"tags": [
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "Bringing the English Past to (Virtual) Life"
+}

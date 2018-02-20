@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Held for Class of 2019."
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 100.01",
+	"instructors": [
+		"Peter J Balaam"
+	],
+	"number": "100.01",
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Literature and science will seem to most of us disparate enterprises arising from fundamentally different kinds of knowing. This course investigates how nineteenth-century literature responded to the burgeoning authority of newly professionalized natural sciences and what the new sciences borrowed from literature. Reading both literary and scientific texts and paying attention to how writers of either kind understand themselves and their tasks, we will seek to observe how science and literature both threatened and served each other. In the second half of the term we will sample some twentieth-century examples of this fraught and fruitful relation.",
+	"synonym": "41193",
+	"tags": [
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		},
+		{
+			"code": "SPECINTPHILSCI",
+			"name": "Philosophy of Science"
+		}
+	],
+	"title": "Literature and Science"
+}

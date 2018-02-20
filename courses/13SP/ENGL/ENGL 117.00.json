@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 117.00",
+	"instructors": [
+		"Kofi Owusu"
+	],
+	"number": "117.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course pays particular attention to the tradition of African American literary expression and the individual talent that brings depth and diversity to that tradition. The course's broader aims will be complemented by an introduction to the concept of genre and by the cultivation of the relevant skills of literary analysis. Authors to be read include Baraka, Ed Bullins, Countee Cullen, Douglass, Ellison, Nikki Giovanni, Hughes, Weldon Johnson, Larsen, and Wheatley.",
+	"synonym": "32622",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "AFAMSURVEY",
+			"name": "AFAM Survey Course"
+		}
+	],
+	"title": "African American Literature"
+}

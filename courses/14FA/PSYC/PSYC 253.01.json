@@ -1,0 +1,46 @@
+{
+	"comments": [
+		"PSYC 252 required"
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 253.01",
+	"instructors": [
+		"Adam M Johnson"
+	],
+	"number": "253.01",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Concurrent registration in Psychology 252\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 13,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A laboratory to be taken concurrently with Psychology 252, to undertake research on topics in personality.",
+	"synonym": "40002",
+	"tags": [],
+	"title": "Research Methods in Personality Laboratory"
+}

@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 240.00",
+	"instructors": [
+		"Ross K Elfline"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Any one term of art history\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Art from abstract expressionism to the present, with particular focus on issues such as the modernist artist-hero; the emergence of alternative or non-traditional media; the influence of the women's movement and the gay/lesbian liberation movement on contemporary art; and postmodern theory and practice.",
+	"synonym": "31912",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "CAMS200HIST",
+			"name": "CAMS 200-Level History"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Art Since 1945"
+}

@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 152.00",
+	"instructors": [
+		"Staff",
+		"Linda K Luedke"
+	],
+	"number": "152.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 165",
+			"Weitz Center 168"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:00pm",
+				"start": "8:00pm"
+			},
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "8:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 23,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "46208",
+	"tags": [],
+	"title": "Lindy Hop, Beginning"
+}

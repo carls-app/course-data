@@ -1,0 +1,62 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 280.00",
+	"instructors": [
+		"Prathi Seneviratne"
+	],
+	"number": "280.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Economics 110 and 111\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A study of international trade theories and their policy implications. Classical and neo-classical trade models, the gains from trade, the terms of trade and the distribution of income, world trade patterns, international factor movements, tariffs, and the impact of commercial policy on developing and developed countries are analyzed.",
+	"synonym": "36327",
+	"tags": [
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "POSI-GDS",
+			"name": "Global Dev & Sustainability"
+		},
+		{
+			"code": "POECMIDWTD",
+			"name": "POEC Wrld Trade&Dev Mid Div"
+		}
+	],
+	"title": "International Trade"
+}

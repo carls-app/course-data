@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "NEUR",
+	"id": "NEUR 127.00",
+	"instructors": [
+		"Brielle M Bjorke",
+		"Sarah H Meerts"
+	],
+	"number": "127.00",
+	"offerings": {
+		"locations": [
+			"Boliou 140"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "50016",
+	"tags": [
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		}
+	],
+	"title": "Foundations in Neuroscience"
+}

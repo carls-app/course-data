@@ -1,0 +1,50 @@
+{
+	"comments": [
+		"1st 5 Week."
+	],
+	"credits": 3.0,
+	"department": "NEUR",
+	"id": "NEUR 395.00",
+	"instructors": [
+		"Matt Rand",
+		"Jennifer M Wolff",
+		"Lawrence Wichlinski",
+		""
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This capstone seminar will cover current approaches and techniques in the field of neuroscience. Guest speakers and Carleton faculty in neuroscience and related areas will present their research.",
+	"synonym": "41585",
+	"tags": [
+		{
+			"code": "NEURCAP",
+			"name": "NEUR Capstone"
+		}
+	],
+	"title": "Neuroscience Capstone Seminar"
+}

@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 354.00",
+	"instructors": [
+		"Eric L Hazlett"
+	],
+	"number": "354.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 335 or 346\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the physics of solids. Particular attention is paid to the properties exhibited by atoms and molecules because of their association and regular periodic arrangement in crystals. Topics include crystal structure and diffraction, the reciprocal lattice, phonons and lattice vibrations, thermal properties, free-electron theory and band structure.",
+	"synonym": "42407",
+	"tags": [],
+	"title": "Solid State Physics"
+}

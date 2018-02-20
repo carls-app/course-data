@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 110.00",
+	"instructors": [
+		"Morgan Rood"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The capacity to acquire and use natural languages such as English is surely one of the more remarkable features of human nature. In this course, we explore several aspects of this ability. Topics include the sound systems of natural languages, the structure of words, principles that regulate word order, the course of language acquisition in children, and what these reveal about the nature of the mind.",
+	"synonym": "48412",
+	"tags": [
+		{
+			"code": "LINGCORE",
+			"name": "Linguistics Core Courses"
+		}
+	],
+	"title": "Introduction to Linguistics"
+}

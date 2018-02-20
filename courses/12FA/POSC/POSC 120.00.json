@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 120.00",
+	"instructors": [
+		"Dev Gupta"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the fundamentals of government and the variety of ways politics is practiced in different countries. Capitalist democracies, transitional states and developing nations are compared.",
+	"synonym": "32984",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Comparative Political Regimes"
+}

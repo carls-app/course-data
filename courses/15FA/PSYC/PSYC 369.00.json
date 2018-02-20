@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 369.00",
+	"instructors": [
+		"Sarah H Meerts"
+	],
+	"number": "369.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 216\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What is love? This is a question that has been the focus of much discussion, writing, and research for millennia. Romantic love most often consists of both social bonding and sexual attraction; therefore both love and sex have been the focus of much research in both humans and animals. In this class we will examine love and sex from a neurobiological perspective, by reading and discussing empirical studies that explore the hormones, pheromones, neurotransmitters, and brain systems involved in love and analogous processes in non-human animals. Topics will include considerations of sex differences and societal views on sexuality.",
+	"synonym": "41613",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "PSYCSEMINAR",
+			"name": "Psyc Seminar"
+		},
+		{
+			"code": "PSYCUPPERLEVEL",
+			"name": "Psyc Upper Level"
+		}
+	],
+	"title": "Neurochemistry of Love and Sex"
+}

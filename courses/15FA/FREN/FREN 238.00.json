@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 238.00",
+	"instructors": [
+		"\u00c9va S P\u00f3sfay"
+	],
+	"number": "238.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       French 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What if Little Red Riding Hood wore a red burqa? And if Eurydice willingly relocated to the Underworld to join her cancan-crazed lover Pluto? In this course, we will explore bold and inventive acts of rewriting the French classics in a wide assortment of contexts. To do so, we will immerse ourselves in the often irreverent world of literary, musical, comic strip, and film retellings, adaptations, sequels, and spin-offs. Works by Perrault, Moli\u00e8re, Baudelaire, Offenbach, Camus, Ben Jelloun, Daoud, Pr\u00e9vert, Truffaut, and more. Songs from the cabaret era to ra\u00ef. Special emphasis on developing analytical and communicative skills. In French.",
+	"synonym": "42014",
+	"tags": [
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "CCSTBINARY",
+			"name": "CCST Binary Comparison"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FFSTLIT",
+			"name": "FFST Literature & Culture"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		}
+	],
+	"title": "French Classics Reimagined"
+}

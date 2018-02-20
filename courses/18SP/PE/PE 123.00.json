@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 123.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 116"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "50844",
+	"tags": [],
+	"title": "Hip-Hop Shape AfroFit"
+}

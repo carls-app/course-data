@@ -1,0 +1,81 @@
+{
+	"comments": [
+		"Extra Time Required"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 219.00",
+	"instructors": [
+		"Cherif Ke\u00efta"
+	],
+	"number": "219.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45067",
+	"tags": [
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		},
+		{
+			"code": "FFSTSOCSCI",
+			"name": "FFST Social Sci Conc"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "AFAMDISTROAL",
+			"name": "AFAM Distro Arts/Lit"
+		},
+		{
+			"code": "AFSTLA",
+			"name": "Africana Stds Literary/Artisti"
+		}
+	],
+	"title": "African Cinema: A Quest for Identity and Self-Definition"
+}

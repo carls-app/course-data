@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "RUSS",
+	"id": "RUSS 341.00",
+	"instructors": [
+		"Laura Goering"
+	],
+	"number": "341.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 203"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Russian 205 or the equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A survey of representative short stories from the past two hundred years. Works by Gogol, Leskov, Chekhov, Babel, Nabokov, Petrushevskaya, Ulitskaya and others. Conducted in Russian.",
+	"synonym": "36168",
+	"tags": [
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		}
+	],
+	"title": "The Russian Short Story"
+}

@@ -1,0 +1,40 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "CS",
+	"id": "CS 399.01",
+	"instructors": [
+		"Amy Csizmar Dalal"
+	],
+	"number": "399.01",
+	"offerings": {
+		"locations": [
+			"CMC 307"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Senior standing. Students are strongly encouraged to complete Computer Science 252 and either Computer Science 204 or 257 before starting Computer Science 399.\n      </p>",
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 5,
+		"total": 6,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "As part of their senior capstone experience, majors will work together in teams (typically four to seven students per team) on faculty-specified topics to design and implement the first stage of a project. Required of all senior majors.",
+	"synonym": "42061",
+	"tags": [],
+	"title": "Senior Seminar"
+}

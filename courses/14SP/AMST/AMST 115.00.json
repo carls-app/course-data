@@ -1,0 +1,62 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 115.00",
+	"instructors": [
+		"Sharon A Akimoto",
+		"Clifford E Clark"
+	],
+	"number": "115.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 30,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course will examine the different spaces that inform the production of U.S. identities. We will think about the ways the construction of neighborhoods (urban or suburban) affects our sense of place, ethnicity, and community; we'll consider the impact that border geographies, whether physical or cultural, have on national imaginings; we shall look at contemporary cultural expressions of small town vs. big city life and consider what they feature as particular and unique about Americanness.",
+	"synonym": "34546",
+	"tags": [
+		{
+			"code": "CCSTCORE",
+			"name": "CCST Core Courses"
+		}
+	],
+	"title": "Introduction to American Studies: Placing Identities"
+}

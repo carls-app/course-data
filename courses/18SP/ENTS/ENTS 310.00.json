@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 310.00",
+	"instructors": [
+		"John C Dernbach"
+	],
+	"number": "310.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This seminar will examine topical issues in domestic and international environmental law and policy. We will aim to understand how environmental laws work to achieve policy objectives, with attention also to debates about the role of markets and community-based environmental management. The specific topics may change from year to year, but may include approaches to sustainable development, sustainable agriculture, protection of endangered species, and conservation and management of water resources. This course has no prerequisites and is suitable for students of environmental studies, political science, international relations and political economy.",
+	"synonym": "49022",
+	"tags": [
+		{
+			"code": "ENTSTOPSEM",
+			"name": "ENTS Topical Seminar"
+		},
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "ENTSTOPICAL",
+			"name": "ENTS Topical"
+		},
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		},
+		{
+			"code": "PPOLEP",
+			"name": "Pub Pol Env Pol & Sustainablty"
+		}
+	],
+	"title": "Topics in Environmental Law and Policy"
+}

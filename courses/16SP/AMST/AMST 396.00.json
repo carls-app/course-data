@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 396.00",
+	"instructors": [
+		"Ashley E Smith"
+	],
+	"number": "396.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 231"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       American Studies major or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How does a place become part of our cultural memory and national heritage, even if we've never been there? In this course we will draw on the interdisciplinary strengths of American Studies to explore how certain places and histories come to be important to an American national imaginary. We will critically examine specific sites of national memory such as Plymouth Rock, Mt. Rushmore, and the Alamo and consider the processes through which narratives of nationalism are created from contested histories and places, paying particular attention to Native American perspectives.",
+	"synonym": "40873",
+	"tags": [
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		},
+		{
+			"code": "POSI-GDS2",
+			"name": "Global Dev & Sustainability 2"
+		},
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		}
+	],
+	"title": "Place, Memory, and National Narrative in American Studies"
+}

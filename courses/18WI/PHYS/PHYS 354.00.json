@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 354.00",
+	"instructors": [
+		"Barry N Costanzi"
+	],
+	"number": "354.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 335 or 346\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the physics of solids. Particular attention is paid to the properties exhibited by atoms and molecules because of their association and regular periodic arrangement in crystals. Topics include crystal structure and diffraction, the reciprocal lattice, phonons and lattice vibrations, thermal properties, free-electron theory and band structure.",
+	"synonym": "49097",
+	"tags": [],
+	"title": "Solid State Physics"
+}

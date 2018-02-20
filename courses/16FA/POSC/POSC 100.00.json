@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Held for Class of 20, Extra Time Required"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 100.00",
+	"instructors": [
+		"Barbara Allen"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45316",
+	"tags": [
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "American Elections of 2016"
+}

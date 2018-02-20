@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 111.00",
+	"instructors": [
+		"Annette M Nierobisz"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "An introduction to sociology, including analysis of the sociological perspective, culture, socialization, demography, and social class and caste institutions in modern industrial societies and cultures; stability and change in societies of the twentieth and twenty-first centuries. Pros and cons of various theoretical strategies will be emphasized.",
+	"synonym": "49219",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		}
+	],
+	"title": "Introduction to Sociology"
+}

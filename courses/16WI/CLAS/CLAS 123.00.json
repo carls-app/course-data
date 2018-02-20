@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 123.00",
+	"instructors": [
+		"Alex R Knodell"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course explores the archaeology and art of the Ancient Greek world. Beginning with prehistory, we will track the development of the material culture of Ancient Greece through the Classical and Hellenistic periods, and conclude by discussing aspects of the Roman, Byzantine, and Ottoman empires that followed. We will focus throughout on aspects of archaeological practice, material culture and text, art and society, long-term social change, and the role of the past in the present. Students who have taken Classics 121 are not eligible to take this course.",
+	"synonym": "41784",
+	"tags": [
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		},
+		{
+			"code": "ARTHPERT",
+			"name": "Art History Pertinent"
+		}
+	],
+	"title": "Greek Archaeology and Art"
+}

@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "WGST",
+	"id": "WGST 220.00",
+	"instructors": [
+		"Elakshi Kumar"
+	],
+	"number": "220.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "In this course we will examine what constitutes an LGBTQ social movement in the U.S. today. We will analyze the popular understandings of LGBTQ social movements by linking the context, goals, and outcomes of movements to the dynamics of race, class, gender, sexuality, ability, immigration status, and geography. Our goal will be to understand the ways that LGBTQ social movements have helped influence as well as been influenced by existing social and governmental institutions. How have these relationships determined the perceived legitimacy of such movements? We will also examine several contemporary issues that have inspired LGBTQ organizing and advocacy.",
+	"synonym": "42973",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "LGBTQ Movements in the U.S."
+}

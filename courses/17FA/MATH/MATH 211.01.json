@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 211.01",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "211.01",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:30am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:30am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 121 or placement via Calculus Placement Exam #3\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Vectors, curves, partial derivatives, gradient, multiple and iterated integrals, line integrals, Green's theorem.",
+	"synonym": "48787",
+	"tags": [],
+	"title": "Introduction to Multivariable Calculus"
+}

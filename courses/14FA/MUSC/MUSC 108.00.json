@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 108.00",
+	"instructors": [
+		"Jeff Trevi\u00f1o"
+	],
+	"number": "108.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A course in using the computer to make meaningful interventions into our practices as musicians. We'll explore a number of approaches to composing, producing, and hearing music, among them coding, visual programming, and working in a digital audio workstation. Students will ultimately combine and hybridize these different methods in order to create unique, individual systems, using them to make new work. Open to all interested students; no prior experience with music, programming, or production required.",
+	"synonym": "38929",
+	"tags": [],
+	"title": "Introduction to Music Technology"
+}

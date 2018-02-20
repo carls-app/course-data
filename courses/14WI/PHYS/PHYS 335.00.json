@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 335.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "335.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 228, 229/230 and Mathematics 232.  Familiarity with matrix algebra is assumed\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An examination of the structure of non-relativistic quantum mechanics and how this theory differs from those of classical physics. Topics include the mathematics of Hilbert space, the postulates of quantum mechanics, the motion of a particle in one dimension (including the free particle and the simple harmonic oscillator), the Heisenberg uncertainty principle, and spin. Multidimensional applications will include the harmonic oscillator, the hydrogen atom. Approximation techniques and applications will be presented.",
+	"synonym": "34880",
+	"tags": [],
+	"title": "Quantum Mechanics"
+}

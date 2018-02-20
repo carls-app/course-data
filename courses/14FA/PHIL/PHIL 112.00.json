@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 112.00",
+	"instructors": [
+		"Anna Moltchanova"
+	],
+	"number": "112.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "According to a common view of the mind, mental states are nothing more than states of the brain. There are certain features of human intellection, subjective experience, and action which have prompted some philosophers to argue that human mental activity is not reducible to brain activity. Some have gone on to argue that the human mind is immaterial and capable of surviving the death of the body. We will examine variants of these views as well as objections to them, reading selections from such historical figures as Plato, Aristotle, and Descartes, and such contemporary philosophers as Churchland, Nagel, and Searle.",
+	"synonym": "38506",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		}
+	],
+	"title": "Mind, Matter, Consciousness"
+}

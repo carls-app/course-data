@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 371.00",
+	"instructors": [
+		"Silvia L\u00f3pez"
+	],
+	"number": "371.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Spanish 205 or above\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will focus on letters and their significance as acts of symbolic and material exchange, as objects that bear the mark of the bodily act of writing, and as a staging of the scene of writing itself. We will study different types of letters (love letters, prison letters, literary letters, letters imbedded in other texts, fictional letters, epistolary novels, etc.), but always as the site of production of a modern and gendered self. Texts by Sim\u00f3n Bol&\u00ed\u00adacute;var, Manuela S\u00e1enz, Rosa Luxemburg, Simone de Beauvoir, Andr\u00e9 Gorz, Pedro Salinas, Marina Tsvetaeva, Boris Pasternak, Paul Celan, Ingeborg Bachmann, Elena Poniatowska, Alan Pauls and Alfredo Bryce Echenique.",
+	"synonym": "39415",
+	"tags": [
+		{
+			"code": "LTAM300LIT",
+			"name": "LTAM 300 Level Lit Courses"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		}
+	],
+	"title": "Yours Truly: The Body of the Letter"
+}

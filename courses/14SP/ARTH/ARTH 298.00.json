@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 298.00",
+	"instructors": [
+		"Baird E Jarman"
+	],
+	"number": "298.00",
+	"offerings": {
+		"locations": [
+			"Boliou 104",
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An intensive study of the nature of art history as an intellectual discipline and of the approaches scholars have taken to various art historical problems. Attention as well to principles of current art historical research and writing. Recommended for juniors who have declared art history as a major.",
+	"synonym": "35065",
+	"tags": [
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		}
+	],
+	"title": "Seminar for Art History Majors"
+}

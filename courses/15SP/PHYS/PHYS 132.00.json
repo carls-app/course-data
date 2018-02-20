@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"1st 5 Week. PHYS 132L required."
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 132.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "132.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 111, not open to students who have completed Physics 131, 132, 141, or 142 at Carleton; Concurrent registration in Physics 132L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the basic principles of Newtonian mechanics and conservation laws using the earth and the gravitational force law as a conceptual framework. The many influences of gravity on the structure of the earth from its shape to the tides, and techniques for measuring gravity will be discussed. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory.",
+	"synonym": "39674",
+	"tags": [],
+	"title": "Introduction to Physics: Gravity and the Earth"
+}

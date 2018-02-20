@@ -1,0 +1,94 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "RELG",
+	"id": "RELG 264.00",
+	"instructors": [
+		"Noah Salomon"
+	],
+	"number": "264.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "The specter of Islamic politics haunts much policy discussion in the United States and abroad. Behind phrases such as \"radical Islam,\" \"political Islam,\" and \"liberal Islam\" do we understand what a political theory which draws its inspiration from an Islamic tradition means? Can Muslim political positions/institutions exist comfortably in a secular, democratic state or international order, or must they always necessarily be at odds with them? This course will examine scriptural paradigms in Muslim politics, several modern Muslim political theorists, and contemporary attempts at Islamic political formations in Iran, Sudan and Turkey to shed light on this complicated topic.",
+	"synonym": "32750",
+	"tags": [
+		{
+			"code": "POSI-AREAS2",
+			"name": "Posi Area Studies 2"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "SPECINTLEGAL",
+			"name": "Legal Studies"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "RELGISLAMICTRAD",
+			"name": "RELG Islamic Traditions"
+		},
+		{
+			"code": "RELGTHETHCLWPOL",
+			"name": "RELG Theme Ethics, Law & Pol"
+		},
+		{
+			"code": "RELGTHSOCLPWR",
+			"name": "RELG Religion & Social Power"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		}
+	],
+	"title": "Islamic Politics"
+}

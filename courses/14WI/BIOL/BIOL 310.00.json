@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 310.00",
+	"instructors": [
+		"Debby R Walser-Kuntz"
+	],
+	"number": "310.00",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Biology 125 and 126 and either Biology 240 or 280\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course will examine the role of the immune system in defense, allergic reactions, and autoimmunity. Topics to be covered include the structure and function of antibodies, cytokines, the role of the major histocompatibility complex in antigen presentation, cellular immunity, immunodeficiencies, and current techniques used to study immune responses.",
+	"synonym": "35242",
+	"tags": [
+		{
+			"code": "SPECINTHEALTH",
+			"name": "Health Issues"
+		},
+		{
+			"code": "BIOCELEC",
+			"name": "Biochemistry Elective"
+		}
+	],
+	"title": "Immunology"
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Sophomore priority, Class fees apply."
+	],
+	"credits": 6.0,
+	"department": "ARTS",
+	"id": "ARTS 113.02",
+	"instructors": [
+		"Eleanor M Jensen"
+	],
+	"number": "113.02",
+	"offerings": {
+		"locations": [
+			"Weitz Center 242"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:45pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:45pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A beginning drawing course for students who are interested in developing their skills in drawing from nature. Much of the classwork will be done outdoors and deal directly with drawing from plant forms, geological sources, and the landscape as subjects. Emphasis will be placed on the development of the technical skills needed for visual note-taking and development of journals. Problems will deal with the analysis of space and objects through line, shape, volume, and tone.",
+	"synonym": "38035",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		}
+	],
+	"title": "Field Drawing"
+}

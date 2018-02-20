@@ -1,0 +1,66 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 272.00",
+	"instructors": [
+		"Douglas B Marshall"
+	],
+	"number": "272.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course offers an introduction to the major themes in European metaphysics and epistemology during the seventeenth and eighteenth centuries. Key issues to be examined include the scope and nature of human knowledge, the relationship between the mind and the body, God, the physical world, causation, and the metaphysical categories of substance and attribute. We will place a special emphasis on understanding the philosophical thought of Rene Descartes, G. W. Leibniz, Anne Conway, and David Hume. Two particular themes will recur throughout the course: first, the evolving relationships between philosophy and the sciences of the period; second, the philosophical contributions of women in the early modern era.",
+	"synonym": "41574",
+	"tags": [
+		{
+			"code": "PHILCORE",
+			"name": "Philosophy Core Courses"
+		},
+		{
+			"code": "SPECINTPHILSCI",
+			"name": "Philosophy of Science"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Early Modern Philosophy"
+}

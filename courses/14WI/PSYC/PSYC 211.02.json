@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"PSYC 210 required previously or concurrently."
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 211.02",
+	"instructors": [
+		"Julie J Neiworth"
+	],
+	"number": "211.02",
+	"offerings": {
+		"locations": [
+			"Hulings B12"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Psychology 110 or instructor permission; Concurrent registration in Psychology 210\n      </p>",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course accompanies Psychology 210. Students will replicate classical studies and plan and conduct original empirical research projects in the study of human and animal learning. Psychology 211 requires concurrent or prior registration in Psychology 210. A grade of C- or better must be earned in both Psychology 210 and 211 to satisfy the LS requirement.",
+	"synonym": "35411",
+	"tags": [],
+	"title": "Laboratory Research Methods in Learning"
+}

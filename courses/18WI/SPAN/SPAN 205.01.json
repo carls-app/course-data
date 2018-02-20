@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 205.01",
+	"instructors": [
+		"Humberto R Huergo"
+	],
+	"number": "205.01",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Spanish 204 or equivalent\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A course designed to develop the student's oral and written mastery of Spanish. Advanced study of grammar. Compositions and conversations based on cultural and literary topics. There is also an audio-video component focused on current affairs.",
+	"synonym": "48469",
+	"tags": [
+		{
+			"code": "SPAN204-219",
+			"name": "Spanish 204-219"
+		},
+		{
+			"code": "SPAN205-209",
+			"name": "Spanish 205-209 Sequence"
+		}
+	],
+	"title": "Conversation and Composition"
+}

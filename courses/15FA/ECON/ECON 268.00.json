@@ -1,0 +1,79 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 268.00",
+	"instructors": [
+		"Aaron M Swoboda"
+	],
+	"number": "268.00",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       ECON 110 &amp; 111. Some statistics background will be useful.\n      </p>",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Cost-benefit analysis is a tool commonly used by economists and policy makers to compare and choose among competing policy options. This course will cover the basic theory and empirical techniques necessary to quantify and aggregate the impacts of government policy, especially as related to the environment. Topics covered include the time value of money; uncertainty; sensitivity analysis; option value; contingent valuation; hedonic estimation; basic research design. Throughout the course case studies will be used to elucidate and bring life to the theoretical concepts.",
+	"synonym": "41048",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENTSFASCP",
+			"name": "ENTS Food AG Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSCDSCP",
+			"name": "ENTS Consv Dev Soc,Cul,Pol"
+		},
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "PPOLECON",
+			"name": "Pub Pol Econ Pol Makng & Devel"
+		}
+	],
+	"title": "Economics of Cost Benefit Analysis"
+}

@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 115.00",
+	"instructors": [
+		"Kofi Owusu"
+	],
+	"number": "115.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "Jorge Luis Borges is quoted as saying that \"unlike the novel, a short story may be, for all purposes, essential.\" This course focuses attention primarily on the short story as an enduring form. We will read short stories drawn from different literary traditions and from various parts of the world. Stories to be read include those by Aksenov, Atwood, Beckett, Borges, Camus, Cheever, Cisneros, Farah, Fuentes, Gordimer, Ishiguro, Kundera, Mahfouz, Marquez, Moravia, Nabokov, Narayan, Pritchett, Rushdie, Trevor, Welty, and Xue.",
+	"synonym": "41247",
+	"tags": [
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "The Art of Storytelling"
+}

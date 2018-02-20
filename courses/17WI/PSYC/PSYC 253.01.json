@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"PSYC 252 required"
+	],
+	"credits": 2.0,
+	"department": "PSYC",
+	"id": "PSYC 253.01",
+	"instructors": [
+		"Neil S Lutsky"
+	],
+	"number": "253.01",
+	"offerings": {
+		"locations": [
+			"Olin 112"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Concurrent registration in Psychology 252\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A laboratory to be taken concurrently with Psychology 252, to undertake research on topics in personality.",
+	"synonym": "45934",
+	"tags": [
+		{
+			"code": "PSYCLAB",
+			"name": "Psyc Laboratory"
+		}
+	],
+	"title": "Research Methods in Personality Laboratory"
+}

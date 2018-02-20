@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "AFAM",
+	"id": "AFAM 230.00",
+	"instructors": [
+		"Daniel Williams"
+	],
+	"number": "230.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Intercultural Domestic Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "34072",
+	"tags": [
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		},
+		{
+			"code": "AMMUGROUP3",
+			"name": "American Music Group 3"
+		}
+	],
+	"title": "The Black Middle Class"
+}

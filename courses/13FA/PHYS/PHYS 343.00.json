@@ -1,0 +1,59 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 343.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "343.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 235; Concurrent registration in Physics 343L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "A study of the electrical circuits and electronics underlying modern physics instrumentation. Includes an introduction to microprocessor and microcomputer design. Approximately equal emphasis on analog and digital electronics. One laboratory per week.",
+	"synonym": "34852",
+	"tags": [
+		{
+			"code": "CSELECT",
+			"name": "CS Elective"
+		}
+	],
+	"title": "Electronics"
+}

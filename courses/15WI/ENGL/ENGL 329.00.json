@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 329.00",
+	"instructors": [
+		"Nancy J Cho"
+	],
+	"number": "329.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       One English foundations course or one other 6 credit English course, or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 22,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How do American authors \"write the city\"? The city as both material reality and metaphor has fueled the imagination of diverse novelists, poets, and playwrights, through tales of fallen women and con men, immigrant dreams, and visions of apocalypse. After studying the realistic tradition of urban fiction at the turn of the twentieth century, we will turn to modern and contemporary re-imaginings of the city, with a focus on Chicago, New York and Los Angeles. Selected films, photographs, and historical sources will supplement our investigations of how writers face the challenge of representing urban worlds.",
+	"synonym": "37943",
+	"tags": [
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGLT2",
+			"name": "ENGL Tradition 2"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		}
+	],
+	"title": "The City in American Literature"
+}

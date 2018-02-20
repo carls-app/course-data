@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Sophomore priority. GEOL 110L required. Extra Time."
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 110.00",
+	"instructors": [
+		"Bereket Haileab"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Not open to students who have taken Geology 100 or 120.; GEOL 110L\n      </p>",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 33,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the study of earth systems, physical processes operating on the earth, and the history of the earth. Field trips, including an all-day trip, and laboratories included.",
+	"synonym": "38173",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Introduction to Geology"
+}

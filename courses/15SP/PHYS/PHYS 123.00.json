@@ -1,0 +1,37 @@
+{
+	"comments": [
+		"1st 5 Week."
+	],
+	"credits": 1.0,
+	"department": "PHYS",
+	"id": "PHYS 123.00",
+	"instructors": [
+		"Joel M Weisberg"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 131, 132, 141, 142, 151, 152, 153, or 165.\n      </p>",
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 20,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A program of five lectures by invited speakers that is intended to give students some perspective on the kinds of work done by people with a physics background. Visitors from industry, government, business, and research and educational institutions will discuss their work and work-related experiences.",
+	"synonym": "39670",
+	"tags": [],
+	"title": "What Physicists Do"
+}

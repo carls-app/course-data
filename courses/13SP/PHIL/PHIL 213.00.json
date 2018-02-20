@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 213.00",
+	"instructors": [
+		"Denis Vlahovic"
+	],
+	"number": "213.00",
+	"offerings": {
+		"locations": [
+			"Leighton 330"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "How should we live? This is the fundamental question for the study of ethics. This course looks at classic and contemporary answers to the fundamental question from Socrates to Kant to modern day thinkers. Along the way, we consider slightly (but only slightly) more tractable questions such as: What reason is there to be moral? Is there such a thing as moral knowledge (and if so, how do we get it)? What are the fundamental principles of right and wrong (if there are any at all)? Is morality objective?",
+	"synonym": "32666",
+	"tags": [
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "PHILCORE",
+			"name": "Philosophy Core Courses"
+		}
+	],
+	"title": "Ethics"
+}

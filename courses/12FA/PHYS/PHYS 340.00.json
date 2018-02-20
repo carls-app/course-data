@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Class of 2013 only, 2nd 5 week"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 340.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "340.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Physics 339\n      </p>",
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "33922",
+	"tags": [],
+	"title": "Thermal and Statistical Physics II"
+}

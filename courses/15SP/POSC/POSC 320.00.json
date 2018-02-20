@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 320.00",
+	"instructors": [
+		"Hicham N Bou Nassif"
+	],
+	"number": "320.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:35pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "This course analyzes theories of authoritarianism and prospects for democratization in the Middle East. The course is divided into three sections: the first covers the main theoretical perspectives explaining the persistence of authoritarian rule in the Middle East. The second is devoted to the events of the Arab Spring, with an emphasis on Egypt, Syria, and Tunisia. Finally, the third section deals with two of the most pressing issues facing the countries of the Arab Spring: 1) the political role of Arab armed forces, 2) the integration of the long-banned Islamist groups into the public sphere as legitimate political parties.",
+	"synonym": "39303",
+	"tags": [
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		},
+		{
+			"code": "POSCADVSEM",
+			"name": "Polisci Advanced Seminar"
+		}
+	],
+	"title": "Authoritarianism and Democratization in the Middle East*"
+}

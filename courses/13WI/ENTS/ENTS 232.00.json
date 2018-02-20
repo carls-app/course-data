@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "ENTS",
+	"id": "ENTS 232.00",
+	"instructors": [
+		"Mark T Kanazawa"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course covers various methodologies that are used to prosecute interdisciplinary academic research relating to the environment. Among the topics covered are: identification of a research question, methods of analysis, hypothesis testing, and effective rhetorical methods, both oral and written.",
+	"synonym": "33073",
+	"tags": [],
+	"title": "Research Methods in Environmental Studies"
+}

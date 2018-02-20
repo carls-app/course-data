@@ -1,0 +1,40 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 130.00",
+	"instructors": [
+		"Guy A Kalland"
+	],
+	"number": "130.00",
+	"offerings": {
+		"locations": [
+			"West Gym 209"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": "For students who have experience with the fundamentals of the swing and the game and have also played (several times) on regulation golf courses. Each student must have (or have access to) their own set of clubs.",
+	"synonym": "31656",
+	"tags": [],
+	"title": "Advanced Golf"
+}

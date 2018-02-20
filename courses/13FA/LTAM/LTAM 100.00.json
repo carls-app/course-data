@@ -1,0 +1,77 @@
+{
+	"comments": [
+		"Held for 2017"
+	],
+	"credits": 6.0,
+	"department": "LTAM",
+	"id": "LTAM 100.00",
+	"instructors": [
+		"Yansi Y P\u00e9rez"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "35999",
+	"tags": [
+		{
+			"code": "SPECINTETHICS",
+			"name": "Studies in Ethics"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "The Politics of Memory in Latin American Literature"
+}

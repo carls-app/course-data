@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Held for Class of 20"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 100.00",
+	"instructors": [
+		"Joel M Weisberg"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "Writing Rich 1"
+		},
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "45408",
+	"tags": [],
+	"title": "Science, Technology & Public Policy"
+}

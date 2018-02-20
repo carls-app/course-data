@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 110.00",
+	"instructors": [
+		"Pamela Feldman-Savelsberg"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to cultural and social anthropology which develops the theoretical rationale of the discipline through the integration of ethnographic accounts with an analysis of major trends in historical and contemporary thought. Examples of analytical problems selected for discussion include the concepts of society and culture, value systems, linguistics, economic, social, political and religious institutions, as well as ethnographic method and the ethical position of anthropology.",
+	"synonym": "49254",
+	"tags": [
+		{
+			"code": "AMMUGROUP1",
+			"name": "American Music Foundations"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Introduction to Anthropology"
+}

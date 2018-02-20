@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"$30 class fee will be auto-charged to tuition"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 103.00",
+	"instructors": [
+		"Staff",
+		"Linda K Luedke"
+	],
+	"number": "103.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "7:30pm",
+				"start": "6:30pm"
+			},
+			{
+				"day": "We",
+				"end": "7:30pm",
+				"start": "6:30pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Developed from samurai traditions, Aikido is Japanese",
+	"synonym": "40710",
+	"tags": [],
+	"title": "Aikido, Beginning"
+}

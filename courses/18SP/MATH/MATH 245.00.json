@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 245.00",
+	"instructors": [
+		"Adam Loy"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Mathematics 215 (or equivalent) or 275\n      </p>",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": null,
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 1,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "A second course in statistics covering simple linear regression, multiple regression and ANOVA, and logistic regression. Exploratory graphical methods, model building and model checking techniques will be emphasized with extensive use of statistical software to analyze real-life data.",
+	"synonym": "48862",
+	"tags": [
+		{
+			"code": "ELECSTAT",
+			"name": "Elective Stats"
+		},
+		{
+			"code": "ENTSQUANTV",
+			"name": "ENTS Quantitative Methods"
+		}
+	],
+	"title": "Applied Regression Analysis"
+}

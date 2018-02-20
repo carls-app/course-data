@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 395.00",
+	"instructors": [
+		"Cathy Yandell"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       French 230-level or above, or instructor permission\n      </p>",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": null,
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What is nature of exoticism, and how can it be construed as a precursor to colonialism or as an extension of it? Exoticism is often seductive in its promise of \"otherness\" and freedom from stricture, as well as in its plays on affect, nostalgia and the imagination. However, our attempts to provide correctives to exotic visions do not always prove to be accurate--a potential pitfall that the course will also address. What new forms of exoticism have we created in the twenty-first-century? Authors/artists/composers/filmmakers may include Montaigne, Montesquieu, Baudelaire, Delacroix, Franz Fanon, Pierre Loti, Gauguin, Maryse Cond\u00e9, Am\u00e9lie Nothomb and Daniel Auteuil.",
+	"synonym": "42015",
+	"tags": [
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "FFSTSEM",
+			"name": "FFST Senior Sem Conc"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "FRSTELECAL",
+			"name": "FRST Elec AL Track"
+		},
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		}
+	],
+	"title": "French Exoticism"
+}

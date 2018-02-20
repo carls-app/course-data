@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "THEA",
+	"id": "THEA 320.00",
+	"instructors": [
+		"Roger K Bechtel"
+	],
+	"number": "320.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 172",
+			"Weitz Center 138"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "<p class=\"prereq\">\n       <em>\n        Prerequisite:\n       </em>\n       Any course in Theater Arts, Dance, Cinema and Media Studies, Studio Art, creative writing or musical composition.\n      </p>",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Digital media has so infiltrated live performance that it has become almost as common as sets, lights, and costumes. With video technology becoming increasingly powerful and affordable, the screen has become ubiquitous on stage, sometimes eclipsing the performers. Media culture has also become a recurrent subject for critical exploration both on and off stage. In this class, students will learn the software and hardware skills necessary to incorporate digital media into performance projects, as well as the historical and theoretical context necessary to bring a critical approach to their work.",
+	"synonym": "33962",
+	"tags": [
+		{
+			"code": "THEAPERT",
+			"name": "THEA Pertinent Course"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		}
+	],
+	"title": "Live Performance and Digital Media"
+}

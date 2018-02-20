@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 231.00",
+	"instructors": [
+		"Zoli Filotas"
+	],
+	"number": "231.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "None",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": null,
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course looks at punishment from two quite different philosophical perspectives. First we'll consider a variety of arguments designed to make sense of the morality of punishment.\u00a0 We'll consider the big three mainstream candidates (retribution, deterrence, and rehabilitation) and other interesting accounts (e.g. that punishment is primarily communicative). In the second half of the course, we'll change gears; we'll turn to arguments that systems of punishment may call for critique rather than justification. In this second section, we'll take an extended look at mass incarceration in the United States.",
+	"synonym": "43398",
+	"tags": [
+		{
+			"code": "PHILPRACVAL",
+			"name": "Philosophy Prac/Value Theory"
+		}
+	],
+	"title": "Punishment and Imprisonment"
+}
