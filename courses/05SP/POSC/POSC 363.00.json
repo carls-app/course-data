@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 363.00",
+	"instructors": [
+		"Julian C Westerhout"
+	],
+	"number": "363.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 252"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "9838",
+	"tags": [
+		{
+			"code": "POSINTLPOLECON",
+			"name": "Polisci/Ir Intl Political Econ"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		}
+	],
+	"title": "Political Econ Internal War"
+}

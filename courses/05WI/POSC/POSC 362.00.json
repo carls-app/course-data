@@ -1,0 +1,57 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 362.00",
+	"instructors": [
+		"Kelly L Kollman"
+	],
+	"number": "362.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "11120",
+	"tags": [
+		{
+			"code": "POSINTLPOLECON",
+			"name": "Polisci/Ir Intl Political Econ"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		}
+	],
+	"title": "Globalization and the State"
+}

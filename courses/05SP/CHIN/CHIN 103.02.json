@@ -1,0 +1,61 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 103.02",
+	"instructors": [
+		"Hong Zeng"
+	],
+	"number": "103.02",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302",
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Th",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10573",
+	"tags": [
+		{
+			"code": "ASSTLANG",
+			"name": "Asian Studies Language"
+		}
+	],
+	"title": "Elementary Chinese"
+}

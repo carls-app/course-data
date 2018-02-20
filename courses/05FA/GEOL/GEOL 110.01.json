@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Soph prio Geol 110l 53 or 54 required"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 110.01",
+	"instructors": [
+		"Cameron Davidson"
+	],
+	"number": "110.01",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 35,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "12183",
+	"tags": [],
+	"title": "Introduction to Geology"
+}

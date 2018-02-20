@@ -1,0 +1,74 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 236.00",
+	"instructors": [
+		"Victoria Morse",
+		"Susannah R Ottaway"
+	],
+	"number": "236.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10469",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "FRSTSUPP",
+			"name": "FRST Supporting Major"
+		}
+	],
+	"title": "Courtly Queens, Rev Heroines"
+}

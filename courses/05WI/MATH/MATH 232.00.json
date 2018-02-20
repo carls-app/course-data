@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 232.00",
+	"instructors": [
+		"Laura M Chihara"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "11367",
+	"tags": [],
+	"title": "Linear Algebra"
+}

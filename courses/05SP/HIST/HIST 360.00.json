@@ -1,0 +1,87 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 360.00",
+	"instructors": [
+		"Adeeb Khalid"
+	],
+	"number": "360.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10551",
+	"tags": [
+		{
+			"code": "HISTISLAM",
+			"name": "HIST Islamic History"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "RELGPERT",
+			"name": "RELG Pertinent Course"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTCENT",
+			"name": "Asian Studies Central Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSICOMPRTV",
+			"name": "Polisci/Ir Comparative Systems"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Muslims and Modernity"
+}

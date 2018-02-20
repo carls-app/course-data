@@ -1,0 +1,52 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 306.54",
+	"instructors": [
+		"David G Alberg",
+		"Gretchen E Hofmeister"
+	],
+	"number": "306.54",
+	"offerings": {
+		"locations": [
+			"Mudd 269",
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "9:40am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "9378",
+	"tags": [],
+	"title": "Advanced Laboratory III"
+}

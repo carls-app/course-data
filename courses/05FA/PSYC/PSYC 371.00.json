@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 371.00",
+	"instructors": [
+		"Julie J Neiworth"
+	],
+	"number": "371.00",
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "12986",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		}
+	],
+	"title": "Primate Cognition"
+}

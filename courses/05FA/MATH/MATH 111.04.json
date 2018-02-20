@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 111.04",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "111.04",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "14101",
+	"tags": [],
+	"title": "Calculus I"
+}

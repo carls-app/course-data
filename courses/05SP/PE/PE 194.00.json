@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 194.00",
+	"instructors": [
+		"Leon Lunder"
+	],
+	"number": "194.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center 113"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 15,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "11811",
+	"tags": [],
+	"title": "Weight Training"
+}

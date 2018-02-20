@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 117.02",
+	"instructors": [
+		"David R Musicant"
+	],
+	"number": "117.02",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "9832",
+	"tags": [
+		{
+			"code": "CGSCCORE",
+			"name": "CGSC Core"
+		}
+	],
+	"title": "Intro to Computer Science"
+}

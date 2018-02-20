@@ -1,0 +1,71 @@
+{
+	"comments": [
+		"1st 5-wk"
+	],
+	"credits": 3.0,
+	"department": "POSC",
+	"id": "POSC 239.00",
+	"instructors": [
+		"Burton Levin"
+	],
+	"number": "239.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "11730",
+	"tags": [
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "POSISECFRGNPOL",
+			"name": "Polisci/Ir Security/Foreign PO"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "The Diplomat's Craft"
+}

@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"ARCN 246l required"
+	],
+	"credits": 6.0,
+	"department": "ARCN",
+	"id": "ARCN 246.00",
+	"instructors": [
+		"Nancy C Wilkie"
+	],
+	"number": "246.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:30pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:30pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "11621",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "SOANPERT",
+			"name": "SOAN Pertinent Course"
+		}
+	],
+	"title": "Archaeological Methodology"
+}

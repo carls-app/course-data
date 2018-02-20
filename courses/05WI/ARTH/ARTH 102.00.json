@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 102.00",
+	"instructors": [
+		"Baird E Jarman",
+		"Alison M Kettering",
+		"Kathleen M Ryor"
+	],
+	"number": "102.00",
+	"offerings": {
+		"locations": [
+			"Boliou 104",
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 51,
+		"total": 55,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "9626",
+	"tags": [
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Introduction to Art History II"
+}

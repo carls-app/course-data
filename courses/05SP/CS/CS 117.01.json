@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 117.01",
+	"instructors": [
+		"Amy Csizmar Dalal"
+	],
+	"number": "117.01",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "9831",
+	"tags": [
+		{
+			"code": "CGSCCORE",
+			"name": "CGSC Core"
+		}
+	],
+	"title": "Intro to Computer Science"
+}

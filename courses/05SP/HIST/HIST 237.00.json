@@ -1,0 +1,65 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 237.00",
+	"instructors": [
+		"Susannah R Ottaway"
+	],
+	"number": "237.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10546",
+	"tags": [
+		{
+			"code": "FRSTSUPP",
+			"name": "FRST Supporting Major"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "FRSTHIST",
+			"name": "FRST History Major"
+		}
+	],
+	"title": "The Enlightenment"
+}

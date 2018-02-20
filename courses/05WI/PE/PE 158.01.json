@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"Held for 1st year students"
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 158.01",
+	"instructors": [
+		"Heidi L Jaynes"
+	],
+	"number": "158.01",
+	"offerings": {
+		"locations": [
+			"Recreation Center WALL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10049",
+	"tags": [],
+	"title": "Rock Climbing"
+}

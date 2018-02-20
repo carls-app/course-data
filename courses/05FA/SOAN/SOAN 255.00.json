@@ -1,0 +1,72 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 255.00",
+	"instructors": [
+		"Meera Sehgal"
+	],
+	"number": "255.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "13230",
+	"tags": [
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "POSICOMPRTV",
+			"name": "Polisci/Ir Comparative Systems"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Soc, Cult & Pol in South Asia"
+}

@@ -1,0 +1,46 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 200.00",
+	"instructors": [
+		"Jim Fisher",
+		"Roger R Jackson"
+	],
+	"number": "200.00",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10912",
+	"tags": [
+		{
+			"code": "AFAMINTERDISC",
+			"name": "AFAM Interdisciplinary Course"
+		}
+	],
+	"title": "Theory and Practice"
+}

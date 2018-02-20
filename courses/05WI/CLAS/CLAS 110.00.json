@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"WR"
+	],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 110.00",
+	"instructors": [
+		"Chico Zimmerman",
+		"Clara S Hardy"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 41,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "10601",
+	"tags": [],
+	"title": "Intro to Classical Studies"
+}

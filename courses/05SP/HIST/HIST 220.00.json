@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 220.00",
+	"instructors": [
+		"Harry M Williams"
+	],
+	"number": "220.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "11463",
+	"tags": [
+		{
+			"code": "AMSTSURVEY2",
+			"name": "AMST 2 Term Survey"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "AFAMSURVEY",
+			"name": "AFAM Survey Course"
+		},
+		{
+			"code": "HISTATLANTWRLD",
+			"name": "History Atlantic World"
+		},
+		{
+			"code": "HISTAFRDIASPORA",
+			"name": "HIST Africa & Diaspora"
+		}
+	],
+	"title": "African American History I"
+}

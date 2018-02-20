@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 222.00",
+	"instructors": [
+		"Caroline A Burke"
+	],
+	"number": "222.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 30,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "14014",
+	"tags": [
+		{
+			"code": "WGSTCORE",
+			"name": "WGST Core Course"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		}
+	],
+	"title": "Psyc of Sexual Behavior"
+}

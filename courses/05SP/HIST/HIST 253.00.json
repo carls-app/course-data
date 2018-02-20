@@ -1,0 +1,73 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 253.00",
+	"instructors": [
+		"Seungjoo Yoon"
+	],
+	"number": "253.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10547",
+	"tags": [
+		{
+			"code": "EASTSUPP",
+			"name": "East Asian Supporting"
+		},
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "ASSTHU",
+			"name": "Asian Studies Humanities"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "HISTASIA",
+			"name": "HIST Asia"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		}
+	],
+	"title": "Bureau, Law & Relg in E Asia"
+}
