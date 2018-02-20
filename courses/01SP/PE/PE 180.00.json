@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 180.00",
+	"instructors": [
+		"Judy Nelson"
+	],
+	"number": "180.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2312",
+	"tags": [],
+	"title": "Tap Dance II"
+}

@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"X-List PHYS 247 Lab registration required",
+		"Cross-listed with PHYS 247.00"
+	],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 247.00",
+	"instructors": [
+		"Bruce R Thomas"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1253",
+	"tags": [],
+	"title": "Digital Electronics"
+}

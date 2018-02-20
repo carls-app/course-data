@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 240.00",
+	"instructors": [
+		"Patrick H Dust"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1224",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "PENINLIT",
+			"name": "Peninsular Literature"
+		}
+	],
+	"title": "Survey of Spanish Literature"
+}

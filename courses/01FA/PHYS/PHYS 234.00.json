@@ -1,0 +1,40 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 234.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "234.00",
+	"offerings": {
+		"locations": [
+			"Olin 210"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1425",
+	"tags": [],
+	"title": "Cmptr Simulatn/Complex Phys Sy"
+}

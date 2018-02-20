@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"See description"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 336.00",
+	"instructors": [
+		"Robert G Tisdale"
+	],
+	"number": "336.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:15pm",
+				"start": "2:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2006",
+	"tags": [
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "Major American Authors"
+}

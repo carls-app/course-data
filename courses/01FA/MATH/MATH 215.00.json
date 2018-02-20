@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 215.00",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "215.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 32,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "590",
+	"tags": [],
+	"title": "Intro/Probability & Statistics"
+}

@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"New Course Desc"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 241.00",
+	"instructors": [
+		"Kanishkan Sathasivam"
+	],
+	"number": "241.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2945",
+	"tags": [
+		{
+			"code": "CCSTREGIONAL",
+			"name": "CCST Regional"
+		}
+	],
+	"title": "Ethnic Conflict"
+}

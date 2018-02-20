@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"X-list AFAM 184 RAD"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 184.00",
+	"instructors": [
+		"Jamie Monson"
+	],
+	"number": "184.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2817",
+	"tags": [
+		{
+			"code": "HISTAFRICA",
+			"name": "HIST Africa"
+		}
+	],
+	"title": "African Life Histories"
+}

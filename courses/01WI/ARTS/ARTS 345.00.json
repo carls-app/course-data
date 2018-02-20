@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"X-List EDUC 345, ARTH 345 See Desc",
+		"Cross-listed with EDUC 345.00"
+	],
+	"credits": 6.0,
+	"department": "ARTS",
+	"id": "ARTS 345.00",
+	"instructors": [
+		"Sheila Wright"
+	],
+	"number": "345.00",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:15pm",
+				"start": "10:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:15pm",
+				"start": "10:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3037",
+	"tags": [],
+	"title": "Methods of Teaching Art"
+}

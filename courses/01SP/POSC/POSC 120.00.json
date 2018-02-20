@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 120.00",
+	"instructors": [
+		"Norman J Vig"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Willis 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 34,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "816",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		}
+	],
+	"title": "Comparative Political Regimes"
+}

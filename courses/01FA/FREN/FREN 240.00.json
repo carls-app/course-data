@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"X-list FFST 240 See desc"
+	],
+	"credits": 6.0,
+	"department": "FREN",
+	"id": "FREN 240.00",
+	"instructors": [
+		"Dana Strand"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1335",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "FRSTLANGLIT",
+			"name": "FRST Lang & Lit Major"
+		}
+	],
+	"title": "Int Lit: Dreams of Trespass"
+}

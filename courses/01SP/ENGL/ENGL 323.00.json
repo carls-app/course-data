@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 323.00",
+	"instructors": [
+		"Constance Walker"
+	],
+	"number": "323.00",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:15pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:15pm",
+				"start": "12:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2043",
+	"tags": [
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "English Romantic Poets"
+}

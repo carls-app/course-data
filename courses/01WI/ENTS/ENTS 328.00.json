@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"X-List CHEM 328",
+		"Cross-listed with CHEM 328.00"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 328.00",
+	"instructors": [
+		"Deborah S Gross"
+	],
+	"number": "328.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1591",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		}
+	],
+	"title": "Environmental Analysis"
+}

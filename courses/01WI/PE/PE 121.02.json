@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 121.02",
+	"instructors": [
+		"Staff"
+	],
+	"number": "121.02",
+	"offerings": {
+		"locations": [
+			"Cowling GYM"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:50pm",
+				"start": "7:40pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:50pm",
+				"start": "7:40pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "946",
+	"tags": [],
+	"title": "Fencing, Intermediate"
+}

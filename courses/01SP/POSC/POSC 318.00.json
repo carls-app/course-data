@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"See description X-List AMST 318, ENTS 318"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 318.00",
+	"instructors": [
+		"Kimberly K Smith"
+	],
+	"number": "318.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 252"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "2:15pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:15pm",
+				"start": "12:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "827",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "ENTSSP",
+			"name": "ENTS Society and Policy"
+		}
+	],
+	"title": "The American Farm"
+}

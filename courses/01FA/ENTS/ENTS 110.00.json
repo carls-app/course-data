@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 110.00",
+	"instructors": [
+		"Gary E Wagenbach",
+		"Julie Klassen"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 35,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1196",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		}
+	],
+	"title": "Envisioning Landscapes"
+}

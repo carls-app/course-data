@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"X-List EDUC 353, SOAN 320",
+		"Cross-listed with EDUC 353.00"
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 354.00",
+	"instructors": [
+		"John G Ramsay"
+	],
+	"number": "354.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 28,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "2223",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		}
+	],
+	"title": "Schooling and Opportunity"
+}

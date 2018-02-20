@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 110.00",
+	"instructors": [
+		"Laurie A Zaring"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Library 306"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1193",
+	"tags": [],
+	"title": "Introduction to Linguistics"
+}

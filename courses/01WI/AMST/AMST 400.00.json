@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "AMST",
+	"id": "AMST 400.00",
+	"instructors": [
+		"Robert E Bonner"
+	],
+	"number": "400.00",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 4,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2137",
+	"tags": [],
+	"title": "Integrative Exercise"
+}

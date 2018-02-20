@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"X-list AMST 354, EDUC 353",
+		"Cross-listed with EDUC 353.00"
+	],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 320.00",
+	"instructors": [
+		"John G Ramsay"
+	],
+	"number": "320.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 22,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2810",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Schooling and Opportunity"
+}

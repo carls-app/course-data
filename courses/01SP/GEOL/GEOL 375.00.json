@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 375.00",
+	"instructors": [
+		"David M Bice"
+	],
+	"number": "375.00",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:15pm",
+				"start": "10:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:15pm",
+				"start": "10:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "2314",
+	"tags": [
+		{
+			"code": "ENTSINTL",
+			"name": "ENTS International Perspective"
+		},
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		}
+	],
+	"title": "Oceans & Atmospheres"
+}

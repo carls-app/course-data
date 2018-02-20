@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 172.00",
+	"instructors": [
+		"Andy Clark"
+	],
+	"number": "172.00",
+	"offerings": {
+		"locations": [
+			"West Gym POOL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:30pm",
+				"start": "4:30pm"
+			},
+			{
+				"day": "We",
+				"end": "5:30pm",
+				"start": "4:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 13,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1020",
+	"tags": [],
+	"title": "Swimming, Fitness"
+}
