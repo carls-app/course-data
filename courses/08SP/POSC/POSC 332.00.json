@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 332.00",
+	"instructors": [
+		"Dev Gupta"
+	],
+	"number": "332.00",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18328",
+	"tags": [
+		{
+			"code": "POSI-DSS",
+			"name": "Democracy, Society & State"
+		},
+		{
+			"code": "POSIADVSEM",
+			"name": "Polisci/Ir Adv Seminar"
+		},
+		{
+			"code": "POSCADVSEM",
+			"name": "Polisci Advanced Seminar"
+		}
+	],
+	"title": "Religion and Politics"
+}

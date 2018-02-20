@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 183.00",
+	"instructors": [
+		"Luciano H Battaglini"
+	],
+	"number": "183.00",
+	"offerings": {
+		"locations": [
+			"Arboretum COUR"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18946",
+	"tags": [],
+	"title": "Tennis, Intermediate"
+}

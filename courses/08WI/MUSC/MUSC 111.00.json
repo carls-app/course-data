@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"WR"
+	],
+	"credits": 6.0,
+	"department": "MUSC",
+	"id": "MUSC 111.00",
+	"instructors": [
+		"Lawrence Archbold"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 9,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18431",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Western Art Music&Civilizatn"
+}

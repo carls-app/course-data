@@ -1,0 +1,46 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 127.00",
+	"instructors": [
+		"Staff",
+		"Linda K Luedke"
+	],
+	"number": "127.00",
+	"offerings": {
+		"locations": [
+			"Recreation Center FIEL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 9,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "20712",
+	"tags": [],
+	"title": "Frisbee, Beginning Ultimate"
+}

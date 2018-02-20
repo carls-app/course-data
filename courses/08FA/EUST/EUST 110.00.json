@@ -1,0 +1,63 @@
+{
+	"comments": [
+		"See Desc  WR"
+	],
+	"credits": 6.0,
+	"department": "EUST",
+	"id": "EUST 110.00",
+	"instructors": [
+		"William L North"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22161",
+	"tags": [
+		{
+			"code": "EUSTCORE",
+			"name": "EUST Core Course"
+		},
+		{
+			"code": "POSI-AREAS",
+			"name": "POSI Area Studies"
+		},
+		{
+			"code": "SPECINTSOCTHGHT",
+			"name": "Social Thought"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		}
+	],
+	"title": "Intro to European Studies"
+}

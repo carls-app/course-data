@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"GEOL 250L required"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 250.00",
+	"instructors": [
+		"Cameron Davidson"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 24,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "17945",
+	"tags": [],
+	"title": "Mineralogy"
+}

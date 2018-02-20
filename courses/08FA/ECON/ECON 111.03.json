@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ECON",
+	"id": "ECON 111.03",
+	"instructors": [
+		"Meherun Ahmed"
+	],
+	"number": "111.03",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22134",
+	"tags": [],
+	"title": "Principles of Microeconomics"
+}

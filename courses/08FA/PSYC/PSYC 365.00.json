@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 365.00",
+	"instructors": [
+		"Ken Abrams"
+	],
+	"number": "365.00",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 8,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22048",
+	"tags": [
+		{
+			"code": "SPECINTPHILSCI",
+			"name": "Philosophy of Science"
+		}
+	],
+	"title": "Science and Pseudoscience"
+}

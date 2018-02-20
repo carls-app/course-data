@@ -1,0 +1,50 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CLAS",
+	"id": "CLAS 228.00",
+	"instructors": [
+		"Jack Bryce"
+	],
+	"number": "228.00",
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "19008",
+	"tags": [
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		}
+	],
+	"title": "Roman Hist,RepublicPrincipate"
+}

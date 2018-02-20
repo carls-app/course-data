@@ -1,0 +1,71 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 330.00",
+	"instructors": [
+		"William L North"
+	],
+	"number": "330.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "22025",
+	"tags": [
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "MARSCAP",
+			"name": "MARS Capstone"
+		},
+		{
+			"code": "HISTANCNT/MDVL",
+			"name": "HIST Ancient & Medvl"
+		},
+		{
+			"code": "FRSTSUPP",
+			"name": "FRST Supporting Major"
+		}
+	],
+	"title": "Gender,Ethics,Pwr Med France"
+}

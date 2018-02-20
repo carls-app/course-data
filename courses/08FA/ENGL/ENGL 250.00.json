@@ -1,0 +1,70 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 250.00",
+	"instructors": [
+		"Arnab Chakladar"
+	],
+	"number": "250.00",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20990",
+	"tags": [
+		{
+			"code": "ENGLT3",
+			"name": "ENGL Tradition 3"
+		},
+		{
+			"code": "ENGLHE3",
+			"name": "ENGL Hist Era 3"
+		},
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "SAST",
+			"name": "South Asia Studies"
+		},
+		{
+			"code": "ASSTSOUTH",
+			"name": "Asian Studies South Asia"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		}
+	],
+	"title": "Modern Indian Fiction"
+}

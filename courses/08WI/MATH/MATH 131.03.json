@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "MATH",
+	"id": "MATH 131.03",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "131.03",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "19728",
+	"tags": [],
+	"title": "Inverses and Integration"
+}

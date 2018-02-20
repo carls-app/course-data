@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 306.00",
+	"instructors": [
+		"George Vrtis"
+	],
+	"number": "306.00",
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18117",
+	"tags": [
+		{
+			"code": "ENTSENVPERS",
+			"name": "ENTS Environ Perspective"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "ENTSWRSCP",
+			"name": "ENTS Wtr Res Soc,Cul,Pol"
+		}
+	],
+	"title": "Tpc Env Hist:Energy & Society"
+}

@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SPAN",
+	"id": "SPAN 344.00",
+	"instructors": [
+		"Becky Boling"
+	],
+	"number": "344.00",
+	"offerings": {
+		"locations": [
+			"Willis 114"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21909",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "LTAMLIT",
+			"name": "Latin Americal Literature"
+		},
+		{
+			"code": "WGSTADDL",
+			"name": "WGST Additional Credits"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "LTAMPERT",
+			"name": "LTAM Pertinent Courses"
+		},
+		{
+			"code": "LTAM300LIT",
+			"name": "LTAM 300 Level Lit Courses"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Women Writers in LatAm:Challen"
+}

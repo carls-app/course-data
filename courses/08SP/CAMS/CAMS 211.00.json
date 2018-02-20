@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Formerly CAMS 214"
+	],
+	"credits": 6.0,
+	"department": "CAMS",
+	"id": "CAMS 211.00",
+	"instructors": [
+		"Diane M Nemec Ignashev"
+	],
+	"number": "211.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 16,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "19066",
+	"tags": [
+		{
+			"code": "CAMS200HIST",
+			"name": "CAMS 200-Level History"
+		},
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		}
+	],
+	"title": "Film History II"
+}

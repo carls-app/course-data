@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 115.00",
+	"instructors": [
+		"Clifford E Clark",
+		"Sharon A Akimoto"
+	],
+	"number": "115.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "19197",
+	"tags": [
+		{
+			"code": "CCSTETHNIC",
+			"name": "CCST Ethnic Diversity/Diaspora"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "Immigrant Experience"
+}

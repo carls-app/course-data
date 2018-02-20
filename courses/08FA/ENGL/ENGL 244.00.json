@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"X-list ENGL 144",
+		"Cross-listed with ENGL 144.00"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 244.00",
+	"instructors": [
+		"Pierre Hecker"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 41,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "20989",
+	"tags": [
+		{
+			"code": "ENGL1",
+			"name": "ENGL Group I"
+		},
+		{
+			"code": "MARSCORE",
+			"name": "MARS Core Course"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "MARSSUPP",
+			"name": "MARS Supporting"
+		},
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		},
+		{
+			"code": "ENGLHE1",
+			"name": "ENGL Hist Era 1"
+		}
+	],
+	"title": "Shakespeare I"
+}

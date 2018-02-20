@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "GRK",
+	"id": "GRK 304.00",
+	"instructors": [
+		"Rob Hardy"
+	],
+	"number": "304.00",
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 3,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "21858",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "ENGLLOE",
+			"name": "ENGL Lit other than Eng"
+		}
+	],
+	"title": "Greek Tragedy"
+}

@@ -1,0 +1,68 @@
+{
+	"comments": [
+		"WR"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 111.02",
+	"instructors": [
+		"Susan Jaret McKinstry"
+	],
+	"number": "111.02",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 17,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18735",
+	"tags": [
+		{
+			"code": "ENGLT1",
+			"name": "ENGL Tradition 1"
+		},
+		{
+			"code": "ENGLHE2",
+			"name": "ENGL Hist Era 2"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		},
+		{
+			"code": "EUSTCNTRY",
+			"name": "EUST Country Specific Course"
+		},
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "English Literature II"
+}

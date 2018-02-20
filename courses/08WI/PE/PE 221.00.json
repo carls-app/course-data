@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 221.00",
+	"instructors": [
+		"Staff",
+		"Linda K Luedke",
+		"Aaron J Chaput"
+	],
+	"number": "221.00",
+	"offerings": {
+		"locations": [
+			"Cowling 121"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:00pm",
+				"start": "7:45pm"
+			},
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "7:45pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PEC"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 2,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18891",
+	"tags": [],
+	"title": "Fencing Club"
+}

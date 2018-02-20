@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 395.00",
+	"instructors": [
+		"Roger R Jackson"
+	],
+	"number": "395.00",
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "18073",
+	"tags": [
+		{
+			"code": "CCSTSRSEM",
+			"name": "CCST Senior Seminar"
+		}
+	],
+	"title": "Capstone: Cross-Cultural Std"
+}

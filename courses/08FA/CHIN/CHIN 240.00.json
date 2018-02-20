@@ -1,0 +1,67 @@
+{
+	"comments": [
+		"See desc In trans"
+	],
+	"credits": 6.0,
+	"department": "CHIN",
+	"id": "CHIN 240.00",
+	"instructors": [
+		"Hong Zeng"
+	],
+	"number": "240.00",
+	"offerings": {
+		"locations": [
+			"Scoville 106"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "22033",
+	"tags": [
+		{
+			"code": "CAMSINTFILM",
+			"name": "CAMS International Film"
+		},
+		{
+			"code": "ASSTPERT",
+			"name": "Asian Studies Pertinent"
+		},
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "ASSTAL",
+			"name": "Asian Studies Arts & Lit"
+		},
+		{
+			"code": "CAMSELECTIVE",
+			"name": "CAMS Elective"
+		}
+	],
+	"title": "Chinese Cinema"
+}
