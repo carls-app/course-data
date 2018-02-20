@@ -1,0 +1,41 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "DANC",
+	"id": "DANC 205.00",
+	"instructors": [
+		"Mary M Easter"
+	],
+	"number": "205.00",
+	"offerings": {
+		"locations": [
+			"Cowling DANC",
+			"Recreation Center STU"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "7:30pm"
+			},
+			{
+				"day": "Sa",
+				"end": "2:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 7,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8441",
+	"tags": [],
+	"title": "Winter Dance"
+}

@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"X-list ENTS 232 See desc In trans"
+	],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 232.00",
+	"instructors": [
+		"Julie Klassen"
+	],
+	"number": "232.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 302"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "7694",
+	"tags": [
+		{
+			"code": "ENTSINTL",
+			"name": "ENTS International Perspective"
+		},
+		{
+			"code": "ENTSENVPERS",
+			"name": "ENTS Environ Perspective"
+		}
+	],
+	"title": "Forest in German Literature"
+}

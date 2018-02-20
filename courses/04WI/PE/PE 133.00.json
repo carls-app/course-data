@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"First 6 Weeks."
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 133.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "133.00",
+	"offerings": {
+		"locations": [
+			"Skating Rink RINK"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 12,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8230",
+	"tags": [],
+	"title": "Ice Skating, Beginning"
+}

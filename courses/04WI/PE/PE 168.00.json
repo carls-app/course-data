@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 168.00",
+	"instructors": [
+		"Staff"
+	],
+	"number": "168.00",
+	"offerings": {
+		"locations": [
+			"Cowling GYM"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "6:25pm",
+				"start": "5:15pm"
+			},
+			{
+				"day": "We",
+				"end": "6:25pm",
+				"start": "5:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 11,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "8246",
+	"tags": [],
+	"title": "Social Dance II"
+}

@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"CHEM 123l required"
+	],
+	"credits": 6.0,
+	"department": "CHEM",
+	"id": "CHEM 123.00",
+	"instructors": [
+		"Daniela L Kohen"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 30,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6618",
+	"tags": [],
+	"title": "Principles of Chemistry"
+}

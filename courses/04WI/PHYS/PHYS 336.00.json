@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"1st 5-weeks"
+	],
+	"credits": 3.0,
+	"department": "PHYS",
+	"id": "PHYS 336.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "336.00",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 13,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6495",
+	"tags": [],
+	"title": "Quantum Mechanics I"
+}

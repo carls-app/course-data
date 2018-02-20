@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"GEOL 120L req Soph prio"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 120.00",
+	"instructors": [
+		"Bereket Haileab"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 43,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "9536",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		},
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		}
+	],
+	"title": "Environmental Geology"
+}

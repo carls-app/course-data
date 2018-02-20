@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"See desc"
+	],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 117.00",
+	"instructors": [
+		"Amy Csizmar Dalal"
+	],
+	"number": "117.00",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6800",
+	"tags": [
+		{
+			"code": "CGSTCORE",
+			"name": "CGST Core Course"
+		}
+	],
+	"title": "Intro to Computer Science"
+}

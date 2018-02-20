@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"GEOL 210L req"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 210.00",
+	"instructors": [
+		"Mary E Savina"
+	],
+	"number": "210.00",
+	"offerings": {
+		"locations": [
+			"Mudd 68"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 14,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "9571",
+	"tags": [
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		}
+	],
+	"title": "Geomorphology"
+}

@@ -1,0 +1,64 @@
+{
+	"comments": [
+		"Cross-listed with POSC 349."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 259.00",
+	"instructors": [
+		"Laurence D Cooper"
+	],
+	"number": "259.00",
+	"offerings": {
+		"locations": [
+			"Sayles-Hill 251"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 15,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "7539",
+	"tags": [
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "POSISECFRGNPOL",
+			"name": "Polisci/Ir Security/Foreign PO"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		}
+	],
+	"title": "Justice Among Nations"
+}

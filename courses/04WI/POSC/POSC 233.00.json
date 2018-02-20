@@ -1,0 +1,59 @@
+{
+	"comments": [
+		"X-list LTAM 233"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 233.00",
+	"instructors": [
+		"Alfred P Montero"
+	],
+	"number": "233.00",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "7493",
+	"tags": [
+		{
+			"code": "LTAMCOMPUS",
+			"name": "LTAM Comparative and/or US"
+		},
+		{
+			"code": "CCSTGLOBAL",
+			"name": "CCST Global"
+		},
+		{
+			"code": "LTAMELECTIVE",
+			"name": "LTAM Electives"
+		},
+		{
+			"code": "POSCELECTIVE",
+			"name": "Polisci Elective"
+		}
+	],
+	"title": "Global Resurgence of Democracy"
+}

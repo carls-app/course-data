@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"1st 5-weeks"
+	],
+	"credits": 3.0,
+	"department": "CAMS",
+	"id": "CAMS 111.00",
+	"instructors": [
+		"Paul Hager"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"Scoville 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 12,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "10859",
+	"tags": [
+		{
+			"code": "CAMSCORE07",
+			"name": "CAMS Core Courses"
+		}
+	],
+	"title": "Intro to Video Production"
+}

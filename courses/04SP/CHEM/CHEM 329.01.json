@@ -1,0 +1,46 @@
+{
+	"comments": [
+		"X-list ENTS 329 CHEM 328 required"
+	],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 329.01",
+	"instructors": [
+		"Deborah S Gross"
+	],
+	"number": "329.01",
+	"offerings": {
+		"locations": [
+			"Mudd 268"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "6651",
+	"tags": [
+		{
+			"code": "ENTSSCI",
+			"name": "ENTS Environ Sci"
+		},
+		{
+			"code": "ENTSLAB",
+			"name": "ENTS Lab Course"
+		}
+	],
+	"title": "Environmental Analysis Lab"
+}

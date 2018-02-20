@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Triad Course, PHIL 110, & PSYC 110-03 req BIOL 125-59 req Held for 2008"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 125.02",
+	"instructors": [
+		"Susan R Singer"
+	],
+	"number": "125.02",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 25,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "9280",
+	"tags": [
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		}
+	],
+	"title": "Intro: Genes & Evolution"
+}
