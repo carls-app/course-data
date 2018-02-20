@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"PHYS 235l required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 235.00",
+	"instructors": [
+		"Bruce R Thomas"
+	],
+	"number": "235.00",
+	"offerings": {
+		"locations": [
+			"Olin 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 19,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1484",
+	"tags": [],
+	"title": "Electricity & Magnetism"
+}

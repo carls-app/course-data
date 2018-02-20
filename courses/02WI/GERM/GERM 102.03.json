@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Students with course conflicts and a 5 day German language course, it is possible to register for MWF section 01 and TTh secton 02 German language courses. Contact jschicker@carleton.edu"
+	],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 102.03",
+	"instructors": [
+		"Julie Klassen"
+	],
+	"number": "102.03",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:50am",
+				"start": "10:45am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2673",
+	"tags": [],
+	"title": "Elementary German"
+}

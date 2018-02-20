@@ -1,0 +1,42 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"department": "CHEM",
+	"id": "CHEM 305.52",
+	"instructors": [
+		"Marion E Cass",
+		"Robert C Rossi"
+	],
+	"number": "305.52",
+	"offerings": {
+		"locations": [
+			"Mudd 269",
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "9:00am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 11,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "425",
+	"tags": [],
+	"title": "Adv Lab II: Chem Kinetics"
+}

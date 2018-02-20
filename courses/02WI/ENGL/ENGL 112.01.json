@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"X-list AMST 112.01 May Earn WR"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 112.01",
+	"instructors": [
+		"Carol W Oliver"
+	],
+	"number": "112.01",
+	"offerings": {
+		"locations": [
+			"Laird 206"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "680",
+	"tags": [
+		{
+			"code": "AMSTSURVEY1",
+			"name": "AMST 1 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "American Literature"
+}

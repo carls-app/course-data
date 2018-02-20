@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"PHYS 126l required"
+	],
+	"credits": 6.0,
+	"department": "PHYS",
+	"id": "PHYS 126.00",
+	"instructors": [
+		"Nelson L Christensen"
+	],
+	"number": "126.00",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 29,
+		"total": 32,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1465",
+	"tags": [],
+	"title": "Physics of Lab Instrumentation"
+}

@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"May earn WR"
+	],
+	"credits": 6.0,
+	"department": "CCST",
+	"id": "CCST 100.01",
+	"instructors": [
+		"Jim Fisher",
+		"Éva S Pósfay"
+	],
+	"number": "100.01",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 16,
+		"total": 17,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "5000",
+	"tags": [
+		{
+			"code": "CCSTBINARY",
+			"name": "CCST Binary Comparison"
+		}
+	],
+	"title": "Growing Up Cross-Culturally"
+}

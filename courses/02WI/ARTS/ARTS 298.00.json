@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "ARTS",
+	"id": "ARTS 298.00",
+	"instructors": [
+		"David Lefkowitz",
+		"Stephen Mohring"
+	],
+	"number": "298.00",
+	"offerings": {
+		"locations": [
+			"Boliou 142"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1677",
+	"tags": [],
+	"title": "Critical Issues in the Arts"
+}

@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"X-list AMST 323"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 333.00",
+	"instructors": [
+		"Sarah A Wadsworth"
+	],
+	"number": "333.00",
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 4,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2800",
+	"tags": [
+		{
+			"code": "ENGL3",
+			"name": "ENGL Group III"
+		}
+	],
+	"title": "Writing in the 1850's"
+}

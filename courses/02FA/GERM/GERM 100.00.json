@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Held for frosh"
+	],
+	"credits": 6.0,
+	"department": "GERM",
+	"id": "GERM 100.00",
+	"instructors": [
+		"Roger Paas"
+	],
+	"number": "100.00",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 14,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4864",
+	"tags": [],
+	"title": "Understand Lit Works of Past"
+}

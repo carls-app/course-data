@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"In translation"
+	],
+	"credits": 6.0,
+	"department": "RUSS",
+	"id": "RUSS 244.00",
+	"instructors": [
+		"Laura Goering"
+	],
+	"number": "244.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1973",
+	"tags": [
+		{
+			"code": "ENGLFORLIT",
+			"name": "ENGL Foreign Literature"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "Russ Lit: the Novel in Trans"
+}

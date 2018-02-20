@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"X-list ENTS 237 See desc"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 237.00",
+	"instructors": [
+		"Robert G Tisdale"
+	],
+	"number": "237.00",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "CL"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3974",
+	"tags": [
+		{
+			"code": "ENGL4",
+			"name": "ENGL Group IV"
+		},
+		{
+			"code": "AMSTTOPICAL1",
+			"name": "AMST Group I Topical"
+		},
+		{
+			"code": "LITFORLANG",
+			"name": "Literature for Languages"
+		}
+	],
+	"title": "American Indian Literature"
+}

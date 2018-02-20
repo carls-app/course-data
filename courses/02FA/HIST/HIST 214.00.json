@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 214.00",
+	"instructors": [
+		"Kirk Jeffrey"
+	],
+	"number": "214.00",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 10,
+		"total": 35,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4419",
+	"tags": [
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		},
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		}
+	],
+	"title": "Civil War Era 1846-1877"
+}

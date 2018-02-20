@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"X-list AMST 123.01"
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 122.01",
+	"instructors": [
+		"Steven E Schier"
+	],
+	"number": "122.01",
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "1069",
+	"tags": [
+		{
+			"code": "AMSTSURVEY1",
+			"name": "AMST 1 Term Survey"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "AFAMPERT",
+			"name": "AFAM Pertinent Courses"
+		}
+	],
+	"title": "Politics-Amer:Liberty & Equal"
+}

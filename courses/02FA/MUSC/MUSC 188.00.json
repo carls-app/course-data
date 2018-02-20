@@ -1,0 +1,47 @@
+{
+	"comments": [],
+	"credits": 1.0,
+	"department": "MUSC",
+	"id": "MUSC 188.00",
+	"instructors": [
+		"Tony Holt"
+	],
+	"number": "188.00",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL05",
+			"Music & Drama Center LL14",
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "7:30pm"
+			},
+			{
+				"day": "Mo",
+				"end": "9:00pm",
+				"start": "7:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": true,
+	"size": {
+		"registered": 8,
+		"total": 50,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "4405",
+	"tags": [],
+	"title": "Carleton Pro Musica"
+}

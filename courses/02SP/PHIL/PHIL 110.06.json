@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"New Course Description"
+	],
+	"credits": 6.0,
+	"department": "PHIL",
+	"id": "PHIL 110.06",
+	"instructors": [
+		"Denis Vlahovic"
+	],
+	"number": "110.06",
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 26,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "877",
+	"tags": [],
+	"title": "Mind, Matter, Consciousness"
+}

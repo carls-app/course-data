@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 199.03",
+	"instructors": [
+		"Staff"
+	],
+	"number": "199.03",
+	"offerings": {
+		"locations": [
+			"Recreation Center STU"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 17,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "5792",
+	"tags": [],
+	"title": "Power Yoga"
+}
