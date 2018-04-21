@@ -9,18 +9,18 @@
 	"number": "125.00",
 	"offerings": {
 		"locations": [
-			"Laird 206"
+			"Leighton 305"
 		],
 		"times": [
 			{
 				"day": "Mo",
 				"end": "3:00pm",
-				"start": "1:50am"
+				"start": "1:50pm"
 			},
 			{
 				"day": "We",
 				"end": "3:00pm",
-				"start": "1:50am"
+				"start": "1:50pm"
 			},
 			{
 				"day": "Fr",
@@ -46,11 +46,11 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"summary": null,
 	"synonym": "49545",
 	"tags": [

@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Held for new first year students"
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 100.09",
+	"instructors": [
+		"Elizabeth McKinsey"
+	],
+	"number": "100.09",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Focusing on rhetorical choices and writing strategies, we will seek to read critically, formulate questions, and write persuasively about contemporary issues of globalization. Varied readings, journalistic, scholarly, and literary, as well as our own experiences, will provide a springboard for discussion of the impact of globalization on particular cultures (in the United States and other countries), economic justice, national sovereignty, sustainability, and human rights in the face of increasing economic interdependence and instant communication in our \"globalized\" world. Students will refine persuasive skills through research, writing and revising several major essays, peer review, and a final oral presentation.",
+	"synonym": "51848",
+	"tags": [
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "Writing About America and Globalization"
+}

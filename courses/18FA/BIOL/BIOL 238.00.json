@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"BIOL 239 required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 238.00",
+	"instructors": [
+		"David Hougen-Eitzman"
+	],
+	"number": "238.00",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 239",
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Insects are one of the most successful groups of organisms on the planet, playing major roles in all terrestrial and freshwater ecosystems. In addition, since insects are ubiquitous they affect human endeavors on many fronts, both positively (e.g., crop pollination) and negatively (damage to crops and transmitting disease). This class will focus on the biology of insects, including physiology, behavior, and ecology. Many examples will highlight current environmental issues.",
+	"synonym": "51012",
+	"tags": [
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "ENTSFAES",
+			"name": "ENTS Food AG Env Sci"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		}
+	],
+	"title": "Entomology"
+}

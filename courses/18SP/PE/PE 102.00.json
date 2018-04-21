@@ -1,12 +1,13 @@
 {
 	"comments": [
-		"$40 class and $50 Buki weapon fees will be auto-charged to tuition"
+		"$40 class fees will be auto-charged to tuition"
 	],
 	"credits": 0.0,
 	"department": "PE",
 	"id": "PE 102.00",
 	"instructors": [
-		"Staff"
+		"Staff",
+		"Linda K Luedke"
 	],
 	"number": "102.00",
 	"offerings": {
@@ -35,7 +36,7 @@
 	],
 	"scnc": true,
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 40,
 		"waitlist": 0
 	},

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Open only to already Waitlisted students"
+	],
+	"credits": 6.0,
+	"department": "ARTS",
+	"id": "ARTS 113.03",
+	"instructors": [
+		"Eleanor M Jensen"
+	],
+	"number": "113.03",
+	"offerings": {
+		"locations": [
+			"Arboretum OTHER"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "12:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 18,
+		"total": 18,
+		"waitlist": 2
+	},
+	"status": "Closed",
+	"summary": "A beginning drawing course for students who are interested in developing their skills in drawing from nature. Much of the classwork will be done outdoors and deal directly with drawing from plant forms, geological sources, and the landscape as subjects. Emphasis will be placed on the development of the technical skills needed for visual note-taking and development of journals. Problems will deal with the analysis of space and objects through line, shape, volume, and tone.",
+	"synonym": "50966",
+	"tags": [
+		{
+			"code": "ENTS2SCP",
+			"name": "ENTS2 Sci, Cul, Pol"
+		},
+		{
+			"code": "ENTSLPSCP",
+			"name": "ENTS LandPercp Soc,Cul,Pol"
+		}
+	],
+	"title": "Field Drawing"
+}

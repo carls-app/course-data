@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Extra Time Required"
+		"Extra Time Required, requires concurrent registration in ARTS 236"
 	],
 	"credits": 6.0,
 	"department": "ARTH",
@@ -9,7 +9,28 @@
 		"Kathleen M Ryor"
 	],
 	"number": "266.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Requires concurrent registration in Studio Arts 236",
 	"requirements": [
 		{
@@ -48,5 +69,5 @@
 			"name": "East Asian Supporting"
 		}
 	],
-	"title": "Arts Japanese Tea Ceremony"
+	"title": "Arts of the Japanese Tea Ceremony"
 }

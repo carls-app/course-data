@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "PSYC",
+	"id": "PSYC 260.00",
+	"instructors": [
+		"Gisel Flores-Montoya"
+	],
+	"number": "260.00",
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Psychology 110",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "This course will examine how psychological principles can be employed to promote and maintain health, prevent and treat illness, and encourage adherence to disease treatment regimens. Within a biopsychosocial framework, we will analyze behavioral patterns and public policies that influence risk for cardiovascular disease, cancer, chronic pain, substance abuse, and sexually transmitted diseases, among other conditions. Additionally, students in groups will critically examine the effects of local policies on health outcomes and propose policy changes supported by theory and research. A grade of C- or better must be earned in both Psychology 260 and 261 to satisfy the LS requirement.",
+	"synonym": "51237",
+	"tags": [
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "SPECINTHEALTH",
+			"name": "Health Issues"
+		},
+		{
+			"code": "PSYCCORE",
+			"name": "Psychology Core"
+		},
+		{
+			"code": "PSYCSDPCH",
+			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
+		},
+		{
+			"code": "PPOLPH",
+			"name": "Pub Pol Public Health"
+		}
+	],
+	"title": "Health Psychology"
+}

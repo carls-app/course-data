@@ -1,0 +1,91 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LCST",
+	"id": "LCST 245.00",
+	"instructors": [
+		"Sandra E Rousseau"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 345"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: At least one 200- or 300-level course in Literary/Artistic Analysis (in any language) or instructor permission",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 7,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "48380",
+	"tags": [
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "GERMPERT",
+			"name": "German Pertinent Course"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "FRSTCORE",
+			"name": "FRST Major Core"
+		},
+		{
+			"code": "FFSTLIT",
+			"name": "FFST Literature & Culture"
+		},
+		{
+			"code": "RUSSIANPERT",
+			"name": "Russian Pertinent"
+		}
+	],
+	"title": "The Critical Toolbox: Who's Afraid of Theory?"
+}

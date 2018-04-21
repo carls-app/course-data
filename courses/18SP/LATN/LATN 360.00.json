@@ -27,13 +27,17 @@
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [
 		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
 			"code": "IS",
 			"name": "International Studies"
 		}
 	],
 	"scnc": null,
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 15,
 		"waitlist": 0
 	},

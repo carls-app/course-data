@@ -1,0 +1,97 @@
+{
+	"comments": [
+		"Not open to first year students."
+	],
+	"credits": 6.0,
+	"department": "POSC",
+	"id": "POSC 218.00",
+	"instructors": [
+		"Richard A Keiser"
+	],
+	"number": "218.00",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Sophomore Standing",
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IDS",
+			"name": "Intercultural Domestic Studies"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What can scholarship tell us about educational strategies to reduce achievement gaps and economic opportunity? Do the policies promoted at the city, state and federal levels reflect that knowledge? How are these policies made? What is the relationship between schools and the economic class, racial composition and housing stock of their neighborhoods?",
+	"synonym": "51891",
+	"tags": [
+		{
+			"code": "EDUCCLUSTER3",
+			"name": "EDUC Cluster 3 Pub Pol&Reform"
+		},
+		{
+			"code": "POSI-DSS2",
+			"name": "Democracy, Society & State 2"
+		},
+		{
+			"code": "AMSTTOPICAL3",
+			"name": "AMST Group III Topical"
+		},
+		{
+			"code": "POSIELECTIVE",
+			"name": "Polisci/Ir Elective"
+		},
+		{
+			"code": "AFAMDISTROSS",
+			"name": "AFAM Distro Social Sciences"
+		},
+		{
+			"code": "AFAMSOCINQ",
+			"name": "AFAM Social Inquiry"
+		},
+		{
+			"code": "AFSTSI",
+			"name": "Africana Stds Social Inquiry"
+		},
+		{
+			"code": "PPOLEDUC",
+			"name": "Pub Pol Education Policy"
+		}
+	],
+	"title": "Schools, Scholarship and Policy in the United States"
+}

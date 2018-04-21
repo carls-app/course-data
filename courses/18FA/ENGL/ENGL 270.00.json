@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 270.00",
+	"instructors": [
+		"Gregory B Smith"
+	],
+	"number": "270.00",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: One prior 6-credit English course",
+	"requirements": [
+		{
+			"code": "ARP",
+			"name": "Arts Practice"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to the writing of the short story (prior familiarity with the genre of the short story is expected of class members). Each student will write and have discussed in class three stories (from 1,500 to 6,000 words in length) and give constructive suggestions, including written critiques, for revising the stories written by other members of the class. Attention will be paid to all the elements of fiction: characterization, point of view, conflict, setting, dialogue, etc.",
+	"synonym": "52142",
+	"tags": [
+		{
+			"code": "ENGLCREATVWRTG",
+			"name": "English Creative Writing"
+		}
+	],
+	"title": "Short Story Workshop"
+}

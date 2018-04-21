@@ -1,0 +1,67 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "CS",
+	"id": "CS 254.00",
+	"instructors": [
+		"Josh Davis"
+	],
+	"number": "254.00",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 111 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "51294",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "LINGPERT",
+			"name": "Linguistics Pertinent Course"
+		},
+		{
+			"code": "NEURELEC",
+			"name": "NEUR Elective"
+		},
+		{
+			"code": "LINGREL",
+			"name": "Linguistics Related Field"
+		}
+	],
+	"title": "Computability and Complexity"
+}

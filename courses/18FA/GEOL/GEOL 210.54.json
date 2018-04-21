@@ -1,0 +1,87 @@
+{
+	"comments": [
+		"GEOL 210L required."
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 210.54",
+	"instructors": [
+		"Mary E Savina"
+	],
+	"number": "210.54",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL35",
+			"Music & Drama Center LL06"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: 100 level Geology course or instructor permission",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "51734",
+	"tags": [
+		{
+			"code": "ENTS2ENVSCI",
+			"name": "ENTS2 Environ Science"
+		},
+		{
+			"code": "ENTSWRES",
+			"name": "ENTS Water Res Env Sci"
+		},
+		{
+			"code": "ENTSLPES",
+			"name": "ENTS Land Percp Env Sci"
+		},
+		{
+			"code": "SPECINTSUSTAIN",
+			"name": "Sustainability"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Geomorphology & Lab"
+}

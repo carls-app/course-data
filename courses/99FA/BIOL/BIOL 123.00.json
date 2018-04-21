@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"BIOL 123L required"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 123.00",
+	"instructors": [
+		"Susan R Singer",
+		"Norris Armstrong"
+	],
+	"number": "123.00",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 82,
+		"total": 96,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "2488",
+	"tags": [],
+	"title": "Intro I:Energetics&Genetics"
+}

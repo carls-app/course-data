@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Instructor Permission Required"
+	],
+	"credits": 6.0,
+	"department": "ARTH",
+	"id": "ARTH 288.00",
+	"instructors": [
+		"Jeff Rathermel"
+	],
+	"number": "288.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 008"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Any one Art History course or instructor permission",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 6,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "50984",
+	"tags": [
+		{
+			"code": "ARTHPERT",
+			"name": "Art History Pertinent"
+		}
+	],
+	"title": "Curatorial Seminar"
+}

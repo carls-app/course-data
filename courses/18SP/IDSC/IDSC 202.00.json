@@ -9,12 +9,28 @@
 		"William L North"
 	],
 	"number": "202.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Participation in the Mellon Program/MMUF or MGSEF Program.",
 	"requirements": [],
 	"scnc": true,
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 15,
 		"waitlist": 0
 	},

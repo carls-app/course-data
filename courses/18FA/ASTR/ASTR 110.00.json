@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Extra Time Required"
+	],
+	"credits": 6.0,
+	"department": "ASTR",
+	"id": "ASTR 110.00",
+	"instructors": [
+		"Ryan C Terrien"
+	],
+	"number": "110.00",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "An introduction to current astronomy with an emphasis on how we know what we know. Topics include the solar system; the life cycles of stars; pulsars, quasars, and black holes; and the history and future fate of the universe. No mathematics background beyond high school algebra and trigonometry is assumed.",
+	"synonym": "51211",
+	"tags": [],
+	"title": "Introduction to Astronomy"
+}

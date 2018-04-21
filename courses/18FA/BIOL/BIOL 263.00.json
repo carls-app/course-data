@@ -1,0 +1,42 @@
+{
+	"comments": [
+		"Requires concurrent registration in BIOL 262"
+	],
+	"credits": 2.0,
+	"department": "BIOL",
+	"id": "BIOL 263.00",
+	"instructors": [
+		"Mike Nishizaki"
+	],
+	"number": "263.00",
+	"offerings": {
+		"locations": [
+			"Hulings 115"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126. Requires concurrent registration in Biology 262",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "50979",
+	"tags": [],
+	"title": "Ecological Physiology Laboratory"
+}

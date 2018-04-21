@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"X-List HIST 120",
+		"Cross-listed with HIST 120.00"
+	],
+	"credits": 6.0,
+	"department": "AMST",
+	"id": "AMST 120.00",
+	"instructors": [
+		"Clifford E Clark"
+	],
+	"number": "120.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:40am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"size": {
+		"registered": 21,
+		"total": 45,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "3490",
+	"tags": [
+		{
+			"code": "AMSTTOPICAL2",
+			"name": "AMST Group II Topical"
+		},
+		{
+			"code": "HISTUS",
+			"name": "HIST US History"
+		}
+	],
+	"title": "American Social Hist to 1865"
+}

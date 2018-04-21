@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Instructor Permission Required"
+		"Requires concurrent registration in ASTR 100"
 	],
 	"credits": 2.0,
 	"department": "IDSC",
@@ -21,11 +21,11 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Concurrent registration in Psychology 100 fall term. IDSC 198 02 in winter and spring requires instructor permission",
+	"prerequisites": "Prerequisite: Concurrent registration in Astronomy 100",
 	"requirements": [],
 	"scnc": true,
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 14,
 		"waitlist": 0
 	},

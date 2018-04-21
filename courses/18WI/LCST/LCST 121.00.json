@@ -1,0 +1,44 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"department": "LCST",
+	"id": "LCST 121.00",
+	"instructors": [
+		"Mihaela Czobor-Lupp"
+	],
+	"number": "121.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 23,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "49851",
+	"tags": [],
+	"title": "Romania: Culture and Society"
+}

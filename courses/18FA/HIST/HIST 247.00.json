@@ -1,0 +1,75 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "HIST",
+	"id": "HIST 247.00",
+	"instructors": [
+		"David G Tompkins"
+	],
+	"number": "247.00",
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "HI",
+			"name": "Humanistic Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "On this centenary of the First World War, the course will explore the global context for this cataclysmic event, which provides the hinge from the nineteenth century into the twentieth. We will spend considerable time on the build-up to and causes of the conflict, with particular emphasis on the new imperialism, race-based ideologies, and the complex international struggles for global power. In addition to the fighting, we will devote a significant portion of the course to the home front and changes in society and culture during and after the war.",
+	"synonym": "51948",
+	"tags": [
+		{
+			"code": "EUSTTRANNATL",
+			"name": "EUST transnatl supporting crs"
+		},
+		{
+			"code": "HISTERLYMODEUR",
+			"name": "HIST Early Mdrn Europe"
+		},
+		{
+			"code": "FFSTHISARTH",
+			"name": "FFST Hist & Art Hist Conc"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		}
+	],
+	"title": "The First World War as Global Phenomenon"
+}

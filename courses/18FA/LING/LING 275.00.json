@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LING",
+	"id": "LING 275.00",
+	"instructors": [
+		"Catherine R Fortin"
+	],
+	"number": "275.00",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: 100-level linguistics course",
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Humans are unique among animals in that we are able to attain native speaker competency in any language(s) we receive a sufficient amount of exposure to during our development. The path of acquisition is remarkably stable regardless of the language(s) being acquired, and is believed to yield insights into the nature of human language. In this course, we explore children's capacity to acquire language, with a focus on its implications for linguistic theory. Topics include acquisition of phonology, morphology, syntax, and semantics, and acquisition in extraordinary circumstances.",
+	"synonym": "52240",
+	"tags": [
+		{
+			"code": "CGSCELECTIVE",
+			"name": "CGSC Elective"
+		},
+		{
+			"code": "LINGELEC",
+			"name": "Linguistics Elective"
+		}
+	],
+	"title": "First Language Acquisition"
+}

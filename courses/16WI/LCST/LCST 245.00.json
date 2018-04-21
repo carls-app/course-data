@@ -1,0 +1,82 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "LCST",
+	"id": "LCST 245.00",
+	"instructors": [
+		"John B Lyon"
+	],
+	"number": "245.00",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: At least one 200- or 300-level course in Literary/Artistic Analysis (in any language) or instructor permission",
+	"requirements": [
+		{
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 5,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "What does it mean to interpret? What questions do we ask of texts and images, and how do we go about finding our answers? In this course we will examine a number of strategies for reading works (such as novels, stories, images, films), drawing on a variety of national traditions. Topics include rhetoric, translation, post-structuralism, cultural studies, and gender studies.",
+	"synonym": "41036",
+	"tags": [
+		{
+			"code": "FRSTCORE",
+			"name": "FRST Major Core"
+		},
+		{
+			"code": "ASSTMETH",
+			"name": "Asian Studies Methodology"
+		},
+		{
+			"code": "ASSTDISC",
+			"name": "Asian Studies Disciplinary"
+		},
+		{
+			"code": "FRENPERT",
+			"name": "French Pertinent Course"
+		},
+		{
+			"code": "GERMPERT",
+			"name": "German Pertinent Course"
+		},
+		{
+			"code": "CAMSXDEPT",
+			"name": "CAMS Extra Departmental"
+		},
+		{
+			"code": "FRSTELEC",
+			"name": "FRST Elective"
+		}
+	],
+	"title": "Introduction to Critical Methods: Structure, Gender, Culture"
+}

@@ -1,0 +1,73 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "BIOL",
+	"id": "BIOL 125.59",
+	"instructors": [
+		"Jennifer M Wolff",
+		"Debby R Walser-Kuntz",
+		"Annie Bosacker"
+	],
+	"number": "125.59",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "51008",
+	"tags": [
+		{
+			"code": "BIOCCORE",
+			"name": "Biochemistry Core"
+		},
+		{
+			"code": "NEURCORE",
+			"name": "NEUR Core"
+		}
+	],
+	"title": "Genes, Evolution, and Development: A Problem Solving Approach and Lab"
+}

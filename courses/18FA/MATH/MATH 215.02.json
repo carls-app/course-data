@@ -1,0 +1,63 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "MATH",
+	"id": "MATH 215.02",
+	"instructors": [
+		"Laura M Chihara"
+	],
+	"number": "215.02",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Not open to students who have already received credit for Math 115, Psychology 200/201, Sociology/Anthropology 239 or Math 275.",
+	"requirements": [
+		{
+			"code": "FSR",
+			"name": "Formal or Statistical Reasoning"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "51360",
+	"tags": [
+		{
+			"code": "ENTSQUANTV",
+			"name": "ENTS Quantitative Methods"
+		},
+		{
+			"code": "PPOLCORE",
+			"name": "Public Policy Core"
+		}
+	],
+	"title": "Introduction to Statistics"
+}

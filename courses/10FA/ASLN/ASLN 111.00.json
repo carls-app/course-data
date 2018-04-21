@@ -1,0 +1,58 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "ASLN",
+	"id": "ASLN 111.00",
+	"instructors": [
+		"Mark Hansell"
+	],
+	"number": "111.00",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 330"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 20,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "The structure and function of writing systems, with emphasis on a comparison of East Asian writing systems (Chinese, Japanese, Korean) to Western alphabetic systems. Topics covered include classification of writing systems, historical development, diffusion and borrowing of writing systems, and comparison with non-writing symbol systems.",
+	"synonym": "25554",
+	"tags": [
+		{
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
+		},
+		{
+			"code": "LINGPERT",
+			"name": "Linguistics Pertinent Course"
+		},
+		{
+			"code": "ASSTSS",
+			"name": "Asian Studies Social Science"
+		}
+	],
+	"title": "Writing Systems"
+}

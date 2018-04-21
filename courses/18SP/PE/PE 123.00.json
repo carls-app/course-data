@@ -4,7 +4,8 @@
 	"department": "PE",
 	"id": "PE 123.00",
 	"instructors": [
-		"Staff"
+		"Staff",
+		"Linda K Luedke"
 	],
 	"number": "123.00",
 	"offerings": {
@@ -33,11 +34,11 @@
 	],
 	"scnc": true,
 	"size": {
-		"registered": 0,
+		"registered": 17,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"summary": null,
 	"synonym": "50844",
 	"tags": [],

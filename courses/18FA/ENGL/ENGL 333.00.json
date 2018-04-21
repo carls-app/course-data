@@ -9,7 +9,28 @@
 		"Arnab Chakladar"
 	],
 	"number": "333.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Laird 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: One Foundations course in ENGL and one addutional 6 credit course in Engilsh courses",
 	"requirements": [
 		{
@@ -44,5 +65,5 @@
 			"name": "ENGL Tradition 2"
 		}
 	],
-	"title": "Henry James & Edith Wharton"
+	"title": "Margaret Atwood"
 }

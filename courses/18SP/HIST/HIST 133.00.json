@@ -9,7 +9,8 @@
 	"number": "133.00",
 	"offerings": {
 		"locations": [
-			"Leighton 305"
+			"Leighton 305",
+			"Leighton 202"
 		],
 		"times": [
 			{
@@ -26,6 +27,11 @@
 				"day": "Fr",
 				"end": "9:30am",
 				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -46,11 +52,11 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 0,
+		"registered": 34,
 		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"summary": null,
 	"synonym": "49418",
 	"tags": [

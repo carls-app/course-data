@@ -29,7 +29,7 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Computer Science 201 and either Computer Science 202 or Mathematics 236",
+	"prerequisites": "Prerequisite: Computer Science 201 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
 		{
 			"code": "FSR",
@@ -38,11 +38,11 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 1,
+		"registered": 34,
 		"total": 34,
-		"waitlist": 0
+		"waitlist": 15
 	},
-	"status": "Open",
+	"status": "Closed",
 	"summary": "A course on techniques used in the design and analysis of efficient algorithms. We will cover several major algorithmic design paradigms (greedy algorithms, dynamic programming, divide and conquer, and network flow). Along the way, we will explore the application of these techniques to a variety of domains (natural language processing, economics, computational biology, and data mining, for example). As time permits, we will include supplementary topics like randomized algorithms, advanced data structures, and amortized analysis.",
 	"synonym": "48943",
 	"tags": [],

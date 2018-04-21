@@ -1,5 +1,7 @@
 {
-	"comments": [],
+	"comments": [
+		"Not open to students who have taken MUSC 132"
+	],
 	"credits": 6.0,
 	"department": "MUSC",
 	"id": "MUSC 232.00",
@@ -7,7 +9,23 @@
 		"Andy Flory"
 	],
 	"number": "232.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center M215"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		{

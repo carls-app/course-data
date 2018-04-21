@@ -3,9 +3,22 @@
 	"credits": 2.0,
 	"department": "CCST",
 	"id": "CCST 208.00",
-	"instructors": [],
+	"instructors": [
+		"Luciano H Battaglini"
+	],
 	"number": "208.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 345"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Participation in an off-campus study program (Carleton or non-Carleton) or instructor permission",
 	"requirements": [
 		{
@@ -17,15 +30,15 @@
 			"name": "International Studies"
 		}
 	],
-	"scnc": null,
+	"scnc": true,
 	"size": {
 		"registered": 0,
-		"total": 0,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "50864",
+	"synonym": "52084",
 	"tags": [
 		{
 			"code": "CCSTCORE",

@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 3.0,
+	"department": "CHEM",
+	"id": "CHEM 301.04",
+	"instructors": [
+		"Deborah S Gross"
+	],
+	"number": "301.04",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103",
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 224 (230) and 233 and Mathematics 120 (121)",
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "51110",
+	"tags": [],
+	"title": "Chemical Kinetics Laboratory"
+}

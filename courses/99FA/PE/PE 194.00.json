@@ -1,0 +1,45 @@
+{
+	"comments": [],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 194.00",
+	"instructors": [
+		"Tammy Metcalf-Filzen"
+	],
+	"number": "194.00",
+	"offerings": {
+		"locations": [
+			"Stadium PE"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 16,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"summary": null,
+	"synonym": "3306",
+	"tags": [],
+	"title": "Weight Training, Beginning"
+}

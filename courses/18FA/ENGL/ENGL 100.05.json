@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Held for new first year students. Extra Time required."
+	],
+	"credits": 6.0,
+	"department": "ENGL",
+	"id": "ENGL 100.05",
+	"instructors": [
+		"Pierre Hecker"
+	],
+	"number": "100.05",
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "AI",
+			"name": "Argument & Inquiry Seminar"
+		},
+		{
+			"code": "WR1",
+			"name": "Writing Rich 1"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "With an emphasis on critical reading, writing, and the fundamentals of college-level research, this course will develop students' knowledge, understanding, and appreciation of the relationship between drama and film and the social and cultural contexts of which they are (or were) a part and product. The course explores the various ways in which these plays and movies (which might include anything and everything from Spike Lee to Tony Kushner to Christopher Marlowe) generate meaning, with particular attention to the social, historical, and political realities that contribute to that meaning. Attending live performances in the Twin Cities will be required.",
+	"synonym": "51846",
+	"tags": [
+		{
+			"code": "ENGLF",
+			"name": "ENGL Foundation"
+		}
+	],
+	"title": "Drama, Film, and Society"
+}

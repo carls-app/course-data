@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"department": "ENTS",
+	"id": "ENTS 120.52",
+	"instructors": [],
+	"number": "120.52",
+	"offerings": {
+		"locations": [
+			"Goodsell 03",
+			"CMC 110"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		},
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Spatial data analysis using Geographic Information Systems (GIS), remote sensing, global positioning, and related technologies are increasingly important for understanding and analyzing a wide range of biophysical, social, and economic phenomena. This course serves as an overview and introduction to the concepts, algorithms, issues, and methods in describing, analyzing, and modeling geospatial data over a range of application areas.\n    \n    \n     Sophomore Priority\n    \n    \n     \n      Waitlist for Juniors and Seniors:\n     \n     ENTS 120.WL2 (Synonym 52411)",
+	"synonym": "52260",
+	"tags": [
+		{
+			"code": "ENTSQUANTV",
+			"name": "ENTS Quantitative Methods"
+		}
+	],
+	"title": "Introduction to Geospatial Analysis & Lab"
+}
