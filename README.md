@@ -7,9 +7,9 @@ A sister repository to <https://github.com/StoDevX/course-data/>, which holds St
 ## Usage
 If you are interested in using the course data in another tool, it's hosted through Github on the `gh-pages` branch.
 
-You can download it however you'd like, such as via curl. Assuming you want the 2016-Fall data in `json` format (aka the file `20161.json`), you'd do:
+You can download it however you'd like, such as via curl. Assuming you want the 2016-Fall data in `json` format (aka the file `16FA.json`), you'd do:
 
-	curl https://stodevx.github.io/course-data/terms/20161.json
+	curl https://stodevx.github.io/course-data/terms/16FA.json
 
 We have data from 1999-Fall through this year, whatever this year is, automatically updated from ENROLL once a day.
 
