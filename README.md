@@ -9,7 +9,7 @@ If you are interested in using the course data in another tool, it's hosted thro
 
 You can download it however you'd like, such as via curl. Assuming you want the 2016-Fall data in `json` format (aka the file `16FA.json`), you'd do:
 
-	curl https://stodevx.github.io/course-data/terms/16FA.json
+	curl https://carls-app.github.io/course-data/terms/16FA.json
 
 We have data from 1999-Fall through this year, whatever this year is, automatically updated from ENROLL once a day.
 
