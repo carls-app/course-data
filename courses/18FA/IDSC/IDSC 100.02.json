@@ -1,37 +1,37 @@
 {
 	"comments": [
-		"Held for new first year students"
+		"Requires concurrent registration in IDSC 100 02"
 	],
 	"credits": 6.0,
 	"department": "IDSC",
-	"id": "IDSC 100.00",
+	"id": "IDSC 100.02",
 	"instructors": [
-		"Neil S Lutsky"
+		"Cindy Blaha"
 	],
-	"number": "100.00",
+	"number": "100.02",
 	"offerings": {
 		"locations": [
-			"Library 344"
+			"Olin 103"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "Fr",
-				"end": "9:30am",
-				"start": "8:30am"
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Requires concurrent registration in IDSC 198",
 	"requirements": [
 		{
 			"code": "AI",
@@ -54,7 +54,7 @@
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "51860",
+	"synonym": "52453",
 	"tags": [],
-	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues"
+	"title": "Science in the News"
 }
