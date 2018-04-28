@@ -1,15 +1,15 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "POSC",
-	"id": "POSC 210.00",
+	"department": "CHIN",
+	"id": "CHIN 362.00",
 	"instructors": [
-		"Christina E Farhart"
+		"Lei Yang"
 	],
-	"number": "210.00",
+	"number": "362.00",
 	"offerings": {
 		"locations": [
-			"Willis 203"
+			"CMC 328"
 		],
 		"times": [
 			{
@@ -32,12 +32,8 @@
 	"prerequisites": null,
 	"requirements": [
 		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
 		}
 	],
 	"scnc": null,
@@ -48,20 +44,12 @@
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "51890",
+	"synonym": "52487",
 	"tags": [
 		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
+			"code": "ASSTEAST",
+			"name": "Asian Studies East Asia"
 		}
 	],
-	"title": "Misinformation, Political Rumors, and Conspiracy Theories"
+	"title": "Traditional Culture Modrn Lang"
 }

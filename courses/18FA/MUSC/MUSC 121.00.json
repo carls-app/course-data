@@ -29,15 +29,15 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Ability to read music not required.",
+	"prerequisites": null,
 	"requirements": [
 		{
 			"code": "LA",
 			"name": "Literary/Artistic Analysis"
 		},
 		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
+			"code": "IS",
+			"name": "International Studies"
 		}
 	],
 	"scnc": null,
@@ -47,17 +47,8 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"summary": "This course will provide an overview of the song cycle genre from its beginning up to and including some popular albums. Our goal is to enhance listening and analytical skills through reading and listening assignments, in-class discussions, and analyses.",
-	"synonym": "52400",
-	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
-	],
-	"title": "Songs from Beethoven to Ben Folds"
+	"summary": null,
+	"synonym": "52488",
+	"tags": [],
+	"title": "Songs of Love, State & Self"
 }

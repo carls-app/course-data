@@ -25,7 +25,20 @@
 		]
 	},
 	"prerequisites": "Prerequisite: Economics 329, 330 and 331 or instructor permission",
-	"requirements": [],
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "WR2",
+			"name": "Writing Rich 2"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
 	"scnc": null,
 	"size": {
 		"registered": 0,
