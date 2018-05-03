@@ -9,7 +9,23 @@
 		"George Cusack"
 	],
 	"number": "100.01",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		{
