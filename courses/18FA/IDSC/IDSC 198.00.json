@@ -1,13 +1,26 @@
 {
 	"comments": [
-		"Requires concurrent registration in ASTR 100"
+		"Requires concurrent registration in IDSC 100-02"
 	],
 	"credits": 2.0,
 	"department": "IDSC",
 	"id": "IDSC 198.00",
-	"instructors": [],
+	"instructors": [
+		"Deborah S Gross"
+	],
 	"number": "198.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Old Music Hall 107"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Concurrent registration in IDSC 100",
 	"requirements": [],
 	"scnc": true,
