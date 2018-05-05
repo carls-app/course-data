@@ -1,28 +1,28 @@
 {
 	"comments": [
-		"Sophomore Priority, Material Fees apply"
+		"Class fees apply."
 	],
 	"credits": 6.0,
 	"department": "ARTS",
-	"id": "ARTS 151.00",
+	"id": "ARTS 274.00",
 	"instructors": [
-		"Danny Saathoff"
+		"Fred Hagstrom"
 	],
-	"number": "151.00",
+	"number": "274.00",
 	"offerings": {
 		"locations": [
-			"Boliou 044"
+			"Boliou 032"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:30am",
-				"start": "9:00am"
+				"end": "3:45pm",
+				"start": "1:15pm"
 			},
 			{
 				"day": "Th",
-				"end": "11:30am",
-				"start": "9:00am"
+				"end": "3:45pm",
+				"start": "1:15pm"
 			}
 		]
 	},
@@ -36,12 +36,12 @@
 	"scnc": null,
 	"size": {
 		"registered": 0,
-		"total": 12,
+		"total": 0,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"summary": null,
-	"synonym": "52040",
+	"synonym": "52506",
 	"tags": [],
-	"title": "Metalsmithing"
+	"title": "Printmaking"
 }

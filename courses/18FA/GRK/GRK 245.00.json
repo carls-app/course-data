@@ -1,17 +1,15 @@
 {
-	"comments": [
-		"Sophomore Priority"
-	],
+	"comments": [],
 	"credits": 6.0,
-	"department": "ENTS",
-	"id": "ENTS 120.51",
+	"department": "GRK",
+	"id": "GRK 245.00",
 	"instructors": [
-		"Papia F Rozario"
+		"Hans Wietzke"
 	],
-	"number": "120.51",
+	"number": "245.00",
 	"offerings": {
 		"locations": [
-			"CMC 110"
+			"Language & Dining Center 202"
 		],
 		"times": [
 			{
@@ -28,23 +26,18 @@
 				"day": "Fr",
 				"end": "2:20pm",
 				"start": "1:10pm"
-			},
-			{
-				"day": "Mo",
-				"end": "4:00pm",
-				"start": "1:45pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
 		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
+			"code": "WR2",
+			"name": "Writing Rich 2"
 		},
 		{
-			"code": "SI",
-			"name": "Social Inquiry"
+			"code": "LA",
+			"name": "Literary/Artistic Analysis"
 		}
 	],
 	"scnc": null,
@@ -55,12 +48,7 @@
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "52259",
-	"tags": [
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
-	],
-	"title": "Introduction to Geospatial Analysis & Lab"
+	"synonym": "52508",
+	"tags": [],
+	"title": "Herodotus's Histories"
 }
