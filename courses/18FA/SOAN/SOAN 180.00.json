@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"department": "SOAN",
+	"id": "SOAN 180.00",
+	"instructors": [
+		"Ahmed S Ibrahim"
+	],
+	"number": "180.00",
+	"offerings": {
+		"locations": [
+			"Leighton 426"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "SI",
+			"name": "Social Inquiry"
+		},
+		{
+			"code": "IS",
+			"name": "International Studies"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "52549",
+	"tags": [
+		{
+			"code": "AFSTSI",
+			"name": "Africana Stds Social Inquiry"
+		}
+	],
+	"title": "Anth & Colonialism in Africa"
+}
