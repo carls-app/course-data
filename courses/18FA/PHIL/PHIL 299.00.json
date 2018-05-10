@@ -9,7 +9,18 @@
 		"Daniel M Groll"
 	],
 	"number": "299.00",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Instructor consent",
 	"requirements": [],
 	"scnc": true,

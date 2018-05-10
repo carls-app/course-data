@@ -9,23 +9,23 @@
 	"number": "180.00",
 	"offerings": {
 		"locations": [
-			"Willis 211"
+			"Boliou 140"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "10:40am",
+				"start": "9:40am"
 			}
 		]
 	},
@@ -55,13 +55,13 @@
 	"synonym": "52552",
 	"tags": [
 		{
-			"code": "MESTPERT",
-			"name": "Middle East Studies Pertinent"
+			"code": "MESTGRP1",
+			"name": "Middle East Supporting Group 1"
 		},
 		{
 			"code": "RELGPERT",
 			"name": "RELG Pertinent Course"
 		}
 	],
-	"title": "Gender Relations in Midl East"
+	"title": "Power and Desire: Gender Relations in the Middle East"
 }
