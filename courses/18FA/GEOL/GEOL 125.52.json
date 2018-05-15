@@ -1,0 +1,66 @@
+{
+	"comments": [
+		"Extra Time Required, weekend field trips"
+	],
+	"credits": 6.0,
+	"department": "GEOL",
+	"id": "GEOL 125.52",
+	"instructors": [
+		"Cameron Davidson"
+	],
+	"number": "125.52",
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL35",
+			"Music & Drama Center LL54"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
+		{
+			"code": "QRE",
+			"name": "Quantitative Reasoning"
+		}
+	],
+	"scnc": null,
+	"size": {
+		"registered": 0,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": null,
+	"synonym": "52568",
+	"tags": [
+		{
+			"code": "ENTSINTRO",
+			"name": "ENTS Introductory"
+		},
+		{
+			"code": "ARCNPERT",
+			"name": "Archaeology Pertinent"
+		}
+	],
+	"title": "Intro to Field Geology & Lab"
+}
