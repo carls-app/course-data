@@ -7,7 +7,23 @@
 		"Laura M Chihara"
 	],
 	"number": "400.04",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 318"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:15pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254",
 	"requirements": [],
 	"scnc": true,

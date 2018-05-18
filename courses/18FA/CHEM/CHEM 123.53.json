@@ -4,13 +4,12 @@
 	"department": "CHEM",
 	"id": "CHEM 123.53",
 	"instructors": [
-		"Matt Whited"
+		"Chris Calderone"
 	],
 	"number": "123.53",
 	"offerings": {
 		"locations": [
-			"Old Music Hall 103",
-			"Olin 141",
+			"Olin 149",
 			"Hulings 106"
 		],
 		"times": [
@@ -20,19 +19,9 @@
 				"start": "11:10am"
 			},
 			{
-				"day": "Tu",
-				"end": "11:10am",
-				"start": "10:10am"
-			},
-			{
 				"day": "We",
 				"end": "12:20pm",
 				"start": "11:10am"
-			},
-			{
-				"day": "Th",
-				"end": "11:10am",
-				"start": "10:10am"
 			},
 			{
 				"day": "Fr",
@@ -41,8 +30,8 @@
 			},
 			{
 				"day": "We",
-				"end": "6:00pm",
-				"start": "2:00pm"
+				"end": "5:00pm",
+				"start": "1:00pm"
 			}
 		]
 	},
@@ -65,7 +54,7 @@
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "51098",
+	"synonym": "51099",
 	"tags": [
 		{
 			"code": "BIOCCORE",
