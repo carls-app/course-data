@@ -3,7 +3,9 @@
 	"credits": 6.0,
 	"department": "MATH",
 	"id": "MATH 120.01",
-	"instructors": [],
+	"instructors": [
+		"Kate Hake"
+	],
 	"number": "120.01",
 	"offerings": {
 		"locations": [
@@ -36,7 +38,7 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 0,
+		"registered": 1,
 		"total": 30,
 		"waitlist": 0
 	},

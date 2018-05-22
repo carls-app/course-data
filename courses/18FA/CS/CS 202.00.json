@@ -3,7 +3,9 @@
 	"credits": 6.0,
 	"department": "CS",
 	"id": "CS 202.00",
-	"instructors": [],
+	"instructors": [
+		"Anna N Rafferty"
+	],
 	"number": "202.00",
 	"offerings": {
 		"locations": [
@@ -36,7 +38,7 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 0,
+		"registered": 1,
 		"total": 34,
 		"waitlist": 0
 	},

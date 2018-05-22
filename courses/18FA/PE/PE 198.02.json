@@ -1,0 +1,45 @@
+{
+	"comments": [
+		"Required $5 book fee will be automatically charged on tuition  bill."
+	],
+	"credits": 0.0,
+	"department": "PE",
+	"id": "PE 198.02",
+	"instructors": [],
+	"number": "198.02",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:10pm",
+				"start": "3:00pm"
+			},
+			{
+				"day": "We",
+				"end": "4:10pm",
+				"start": "3:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		{
+			"code": null,
+			"name": "PE"
+		}
+	],
+	"scnc": true,
+	"size": {
+		"registered": 3,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"summary": "Required $5 book fee will be automatically charged on tuition  bill.",
+	"synonym": "52690",
+	"tags": [],
+	"title": "Yoga, Continuing"
+}
