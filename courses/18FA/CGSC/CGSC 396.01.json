@@ -9,7 +9,18 @@
 		"Kathleen M Galotti"
 	],
 	"number": "396.01",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "9:00am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": null,
