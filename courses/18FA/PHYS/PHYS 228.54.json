@@ -1,15 +1,17 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "CHEM",
-	"id": "CHEM 343.00",
+	"department": "PHYS",
+	"id": "PHYS 228.54",
 	"instructors": [
-		"Daniela L Kohen"
+		"Marty Baylor",
+		"Barry N Costanzi"
 	],
-	"number": "343.00",
+	"number": "228.54",
 	"offerings": {
 		"locations": [
-			"Boliou 104"
+			"Olin 141",
+			"Olin 211"
 		],
 		"times": [
 			{
@@ -23,14 +25,23 @@
 				"start": "9:50am"
 			},
 			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
 				"day": "Fr",
 				"end": "10:40am",
 				"start": "9:40am"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Chemistry 123 or 128, Mathematics 120 or 211 and six credits from Physics courses number 131 to 165.",
+	"prerequisites": null,
 	"requirements": [
+		{
+			"code": "LS",
+			"name": "Science with Lab Component"
+		},
 		{
 			"code": "QRE",
 			"name": "Quantitative Reasoning"
@@ -38,18 +49,13 @@
 	],
 	"scnc": null,
 	"size": {
-		"registered": 29,
-		"total": 40,
+		"registered": 4,
+		"total": 12,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"summary": null,
-	"synonym": "51111",
-	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
-	],
-	"title": "Chemical Thermodynamics"
+	"synonym": "52718",
+	"tags": [],
+	"title": "Atomic & Nuclear Physics & Lab"
 }
