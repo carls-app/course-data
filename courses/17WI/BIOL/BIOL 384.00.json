@@ -42,6 +42,11 @@
 	"status": "Closed",
 	"summary": "This course explores the molecular and cellular processes that result in the transformation of normal cells into cancer cells, tumor progression, and current advances in therapeutic approaches to treating cancer. An analytical approach based on primary literature is used, and emphasis will be placed on critical evaluation of experimental design and data-interpretation.",
 	"synonym": "45004",
-	"tags": [],
+	"tags": [
+		{
+			"code": "BIOLDATAINTERP",
+			"name": "Biol Data Interpretation"
+		}
+	],
 	"title": "Seminar: Biology of Cancer"
 }

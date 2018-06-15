@@ -37,6 +37,15 @@
 	"status": "Open",
 	"summary": null,
 	"synonym": "44966",
-	"tags": [],
+	"tags": [
+		{
+			"code": "BIOLMOLCELL",
+			"name": "Biology Molecular & Cell Biol"
+		},
+		{
+			"code": "BIOLDATAINTERP",
+			"name": "Biol Data Interpretation"
+		}
+	],
 	"title": "Seminar: Molecular Biology"
 }
