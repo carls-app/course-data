@@ -47,6 +47,11 @@
 	"status": "Closed",
 	"summary": null,
 	"synonym": "35270",
-	"tags": [],
+	"tags": [
+		{
+			"code": "BIOLELECTIVE",
+			"name": "Biol Elective"
+		}
+	],
 	"title": "Introduction to Biochemistry"
 }
