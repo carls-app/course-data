@@ -51,6 +51,11 @@
 	"status": "Open",
 	"summary": null,
 	"synonym": "45750",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "STEMPHYS"
+		}
+	],
 	"title": "Introduction to Physics: Newtonian Mechanics"
 }
