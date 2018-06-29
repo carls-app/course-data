@@ -57,6 +57,11 @@
 	"status": "Open",
 	"summary": null,
 	"synonym": "51161",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "Stem Physics Requirement"
+		}
+	],
 	"title": "Introduction to Physics: Relativity and Particles & Lab"
 }

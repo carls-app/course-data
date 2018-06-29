@@ -62,6 +62,11 @@
 	"status": "Open",
 	"summary": null,
 	"synonym": "49108",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "Stem Physics Requirement"
+		}
+	],
 	"title": "Physical Systems: Mechanics and Relativity & Lab"
 }

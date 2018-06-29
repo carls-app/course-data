@@ -57,6 +57,11 @@
 	"status": "Closed",
 	"summary": null,
 	"synonym": "49109",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "Stem Physics Requirement"
+		}
+	],
 	"title": "Mechanics and Waves & Lab"
 }

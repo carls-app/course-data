@@ -56,6 +56,11 @@
 	"status": "Open",
 	"summary": null,
 	"synonym": "49093",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "Stem Physics Requirement"
+		}
+	],
 	"title": "Introduction to Electricity, Magnetism, and Optics & Lab"
 }

@@ -51,6 +51,11 @@
 	"status": "Closed",
 	"summary": null,
 	"synonym": "45775",
-	"tags": [],
+	"tags": [
+		{
+			"code": "STEMPHYS",
+			"name": "Stem Physics Requirement"
+		}
+	],
 	"title": "Astrophysical Systems: Mechanics and Relativity"
 }
