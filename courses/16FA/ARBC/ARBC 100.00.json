@@ -8,7 +8,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -50,5 +51,6 @@
 		"MESTGRP2",
 		"MESTCORE"
 	],
-	"title": "Arabs Encountering the West"
+	"title": "Arabs Encountering the West",
+	"type": "Course"
 }

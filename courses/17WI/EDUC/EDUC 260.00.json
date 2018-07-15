@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn L Wegner"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"EDUCCLUSTER3"
 	],
-	"title": "The Politics of Teaching"
+	"title": "The Politics of Teaching",
+	"type": "Course"
 }

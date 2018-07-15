@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "48256",
 	"tags": [],
-	"title": "Senior Studio Art Practicum"
+	"title": "Senior Studio Art Practicum",
+	"type": "Course"
 }

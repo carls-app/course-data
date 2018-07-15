@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AFAMPERT",
 		"PPOLEDUC"
 	],
-	"title": "Schooling and Opportunity in American Society"
+	"title": "Schooling and Opportunity in American Society",
+	"type": "Course"
 }

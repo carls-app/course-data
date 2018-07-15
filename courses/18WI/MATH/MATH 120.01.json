@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "120.01",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "48835",
 	"tags": [],
-	"title": "Calculus 2"
+	"title": "Calculus 2",
+	"type": "Course"
 }

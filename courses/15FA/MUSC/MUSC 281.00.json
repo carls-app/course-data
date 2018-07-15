@@ -8,13 +8,14 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 50,
@@ -27,5 +28,6 @@
 		"ASSTSOUTH",
 		"ASSTAL"
 	],
-	"title": "Sitar"
+	"title": "Sitar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Megan E Sarno"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"RELGPERT"
 	],
-	"title": "Music and Religion"
+	"title": "Music and Religion",
+	"type": "Course"
 }

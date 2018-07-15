@@ -9,7 +9,7 @@
 		"Charles E Crutchfield",
 		"Stephan G Zweifel"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Chemistry 233 and two upper division Biology courses (200 or 300-level) and instructor's permission required",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "45026",
 	"tags": [],
-	"title": "Human Cutaneous Biology"
+	"title": "Human Cutaneous Biology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin A Wolfe"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"AMMUGROUP1",
 		"AFSTCORE"
 	],
-	"title": "An Introduction to African American Culture, Practice, and Religion"
+	"title": "An Introduction to African American Culture, Practice, and Religion",
+	"type": "Course"
 }

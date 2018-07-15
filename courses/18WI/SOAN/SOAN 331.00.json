@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,6 +31,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"ASSTMETH",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Anthropological Thought and Theory"
+	"title": "Anthropological Thought and Theory",
+	"type": "Course"
 }

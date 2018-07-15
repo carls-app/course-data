@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sherri L Goings"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "48902",
 	"tags": [],
-	"title": "Operating Systems"
+	"title": "Operating Systems",
+	"type": "Course"
 }

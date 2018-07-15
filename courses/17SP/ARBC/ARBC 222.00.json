@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -46,5 +47,6 @@
 	"tags": [
 		"MESTGRP2"
 	],
-	"title": "Music in the Middle East"
+	"title": "Music in the Middle East",
+	"type": "Course"
 }

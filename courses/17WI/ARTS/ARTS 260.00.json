@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Lefkowitz"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Boliou 162"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -40,5 +41,6 @@
 	"summary": "The course serves as an introduction to the language of painting. Students develop a facility with the physical tools of painting--brushes, paint and surfaces--as they gain a fluency with the basic formal elements of the discipline--color, form, value, composition and space. Students are also challenged to consider the choices they make in determining the content and ideas expressed in the work, and how to most effectively convey them.",
 	"synonym": "45996",
 	"tags": [],
-	"title": "Painting"
+	"title": "Painting",
+	"type": "Course"
 }

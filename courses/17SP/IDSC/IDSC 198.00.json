@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 100",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "44879",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

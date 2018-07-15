@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol A Rutz"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "45505",
 	"tags": [],
-	"title": "Rhetoric and Self-Presentation"
+	"title": "Rhetoric and Self-Presentation",
+	"type": "Course"
 }

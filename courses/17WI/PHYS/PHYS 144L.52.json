@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "144L.52",
+	"number": "144L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "45778",
 	"tags": [],
-	"title": "Astrphys Syst: Mech Relat Lab"
+	"title": "Astrphys Syst: Mech Relat Lab",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "139.00",
+	"number": "139",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 24,
@@ -40,5 +41,6 @@
 	"summary": "Fundamental skills of outdoor soccer are introduced. Skills will be developed using exercises, small-sided games and other methods. Rules and strategy will be introduced and full-sided games will be incorporated into each session. There is an emphasis on teamwork and enjoyment of the game.",
 	"synonym": "46216",
 	"tags": [],
-	"title": "Outdoor Soccer"
+	"title": "Outdoor Soccer",
+	"type": "Course"
 }

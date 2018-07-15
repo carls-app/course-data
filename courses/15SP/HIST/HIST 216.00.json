@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -50,5 +51,6 @@
 		"AMSTTOPICAL2",
 		"HISTUS"
 	],
-	"title": "History Beyond the Walls"
+	"title": "History Beyond the Walls",
+	"type": "Course"
 }

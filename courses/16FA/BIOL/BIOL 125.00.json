@@ -9,7 +9,7 @@
 		"Bridget Jacques-Fricke",
 		"Jennifer M Wolff"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -38,6 +38,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 63,
 		"total": 74,
@@ -50,5 +51,6 @@
 		"BIOCCORE",
 		"NEURCORE"
 	],
-	"title": "Genes, Evolution, and Development: A Problem Solving Approach"
+	"title": "Genes, Evolution, and Development: A Problem Solving Approach",
+	"type": "Course"
 }

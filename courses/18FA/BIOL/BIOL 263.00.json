@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Nishizaki"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -26,6 +26,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "50979",
 	"tags": [],
-	"title": "Ecological Physiology Laboratory"
+	"title": "Ecological Physiology Laboratory",
+	"type": "Course"
 }

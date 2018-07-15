@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -54,5 +55,6 @@
 		"HISTANCNT/MDVL",
 		"HISTASIA"
 	],
-	"title": "Voyages of Understanding"
+	"title": "Voyages of Understanding",
+	"type": "Course"
 }

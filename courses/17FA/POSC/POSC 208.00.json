@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AMSTTOPICAL3",
 		"AMSTDAC"
 	],
-	"title": "Presidential Elections, Gridlock and Policy Strategy"
+	"title": "Presidential Elections, Gridlock and Policy Strategy",
+	"type": "Course"
 }

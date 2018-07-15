@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"LTAMLIT",
 		"CCSTGLOBAL"
 	],
-	"title": "Magical Realism in Latin American Narrative"
+	"title": "Magical Realism in Latin American Narrative",
+	"type": "Course"
 }

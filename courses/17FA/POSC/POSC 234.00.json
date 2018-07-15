@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bryan R Daves"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSI-AREAS2",
 		"MESTGRP1"
 	],
-	"title": "Israeli Politics"
+	"title": "Israeli Politics",
+	"type": "Course"
 }

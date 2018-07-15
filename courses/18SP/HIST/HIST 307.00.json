@@ -8,7 +8,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "307.00",
+	"number": "307",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": "Prerequisite: History 306",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -51,54 +43,19 @@
 	"summary": null,
 	"synonym": "46867",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"ENTSTOPSEM",
+		"ENTS2SCP",
+		"HISTENVIRHEALTH",
+		"ENTSLPSCP",
+		"HISTUS",
+		"ENTSCDSCP",
+		"ENTSWRSCP",
+		"SPECINTSUSTAIN",
+		"ENTSTOPICAL",
+		"AMSTTOPICAL2",
+		"AMSTAMERWRLD",
+		"AMSTPCC"
 	],
-	"title": "Wilderness Field Studies: Grand Canyon"
+	"title": "Wilderness Field Studies: Grand Canyon",
+	"type": "Course"
 }

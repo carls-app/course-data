@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Math 245 and Math 275 or permission of instructor. Familiarity with matrix algebra helpful but not required",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "49290",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
-	"title": "Advanced Statistical Modeling"
+	"title": "Advanced Statistical Modeling",
+	"type": "Course"
 }

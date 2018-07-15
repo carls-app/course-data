@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "125.54",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35",
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -50,5 +51,6 @@
 		"ENTSINTRO",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Field Geology & Lab"
+	"title": "Introduction to Field Geology & Lab",
+	"type": "Course"
 }

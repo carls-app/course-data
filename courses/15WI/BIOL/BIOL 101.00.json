@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -43,5 +44,6 @@
 		"SPECINTHEALTH",
 		"WGSTADDL"
 	],
-	"title": "Human Reproduction and Sexuality"
+	"title": "Human Reproduction and Sexuality",
+	"type": "Course"
 }

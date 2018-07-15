@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"AMSTSURVEY1",
 		"AFAMDISTROAL"
 	],
-	"title": "America's Music"
+	"title": "America's Music",
+	"type": "Course"
 }

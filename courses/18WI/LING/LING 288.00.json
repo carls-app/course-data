@@ -7,7 +7,7 @@
 		"Mike Flynn",
 		"Catherine R Fortin"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTREI"
 	],
-	"title": "The Structure of Dakota"
+	"title": "The Structure of Dakota",
+	"type": "Course"
 }

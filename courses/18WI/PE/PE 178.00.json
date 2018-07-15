@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "178.00",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "48109",
 	"tags": [],
-	"title": "Tae Kwon Do"
+	"title": "Tae Kwon Do",
+	"type": "Course"
 }

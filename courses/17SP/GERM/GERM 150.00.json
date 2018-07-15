@@ -8,7 +8,7 @@
 	"instructors": [
 		"Juliane Schicker"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -33,6 +33,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "46065",
 	"tags": [],
-	"title": "The Sound of Germany: German Cultural History From Mozart to Rammstein"
+	"title": "The Sound of Germany: German Cultural History From Mozart to Rammstein",
+	"type": "Course"
 }

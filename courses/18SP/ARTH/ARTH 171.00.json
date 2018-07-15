@@ -6,7 +6,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "171.00",
+	"number": "171",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -46,22 +44,11 @@
 	"summary": "This course covers nineteenth and twentieth century photography from its origins to the present. It will consider formal innovations in the medium, the role of photography in society, and the place of photography in the fine arts.",
 	"synonym": "48215",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		}
+		"AMSTTOPICAL1",
+		"CAMSXDEPT",
+		"AMSTPCC",
+		"AMSTSAP"
 	],
-	"title": "History of Photography"
+	"title": "History of Photography",
+	"type": "Course"
 }

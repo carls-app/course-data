@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CSPERT"
 	],
-	"title": "Electronics"
+	"title": "Electronics",
+	"type": "Course"
 }

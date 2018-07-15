@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"POSI-AREAS2",
 		"POSIELECTIVE"
 	],
-	"title": "Ireland: Land, Conflict and Memory"
+	"title": "Ireland: Land, Conflict and Memory",
+	"type": "Course"
 }

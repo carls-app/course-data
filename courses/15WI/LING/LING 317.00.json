@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ania Lubowicz"
 	],
-	"number": "317.00",
+	"number": "317",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Topics in Phonology"
+	"title": "Topics in Phonology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "210.54",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35",
@@ -42,6 +42,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -57,5 +58,6 @@
 		"SPECINTSUSTAIN",
 		"ARCNPERT"
 	],
-	"title": "Geomorphology & Lab"
+	"title": "Geomorphology & Lab",
+	"type": "Course"
 }

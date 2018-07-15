@@ -7,7 +7,7 @@
 		"Clara S Hardy",
 		"Chico Zimmerman"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -23,6 +23,7 @@
 	"prerequisites": "Prerequisite: Greek 204 or equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "49865",
 	"tags": [],
-	"title": "Weekly Greek"
+	"title": "Weekly Greek",
+	"type": "Course"
 }

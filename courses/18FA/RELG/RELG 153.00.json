@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Robertson"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"ASSTCENT",
 		"ASSTEAST"
 	],
-	"title": "Introduction to Buddhism"
+	"title": "Introduction to Buddhism",
+	"type": "Course"
 }

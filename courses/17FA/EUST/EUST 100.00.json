@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -52,5 +53,6 @@
 		"HISTERLYMODEUR",
 		"HISTPERT"
 	],
-	"title": "Allies or Enemies? America through European Eyes"
+	"title": "Allies or Enemies? America through European Eyes",
+	"type": "Course"
 }

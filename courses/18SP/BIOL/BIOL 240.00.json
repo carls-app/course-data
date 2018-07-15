@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 or instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 43,
@@ -48,18 +46,10 @@
 	"summary": null,
 	"synonym": "47742",
 	"tags": [
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		},
-		{
-			"code": "BIOLMOLCELL",
-			"name": "Biology Molecular & Cell Biol"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"PPOLPH",
+		"BIOLMOLCELL",
+		"BIOLELECTIVE"
 	],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

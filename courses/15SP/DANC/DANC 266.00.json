@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -42,5 +43,6 @@
 		"AMMUGROUP3",
 		"WGSTADDL"
 	],
-	"title": "Reading The Dancing Body: Topics in Dance History"
+	"title": "Reading The Dancing Body: Topics in Dance History",
+	"type": "Course"
 }

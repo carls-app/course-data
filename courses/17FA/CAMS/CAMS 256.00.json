@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dimitrios Pavlounis"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -36,6 +36,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -47,5 +48,6 @@
 	"tags": [
 		"CAMSELECTIVE"
 	],
-	"title": "Digital Cinema Culture"
+	"title": "Digital Cinema Culture",
+	"type": "Course"
 }

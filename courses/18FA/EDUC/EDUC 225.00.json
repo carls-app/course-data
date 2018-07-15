@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AFSTSI",
 		"PPOLEDUC"
 	],
-	"title": "Issues in Urban Education"
+	"title": "Issues in Urban Education",
+	"type": "Course"
 }

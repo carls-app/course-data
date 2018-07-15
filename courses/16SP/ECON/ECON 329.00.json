@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": "This course is an introduction to the statistical methods used by economists to test hypotheses and to study and quantify economic relationships. The course emphasizes both statistical theory and practical application through analysis of economic data sets using statistical software. Topics include two-variable and multiple regression, interval estimation and hypothesis testing, discrete and continuous structural change, parameter restrictions, model construction, heteroscedasticity, autocorrelation, and multicollinearity.",
 	"synonym": "41086",
 	"tags": [],
-	"title": "Econometrics"
+	"title": "Econometrics",
+	"type": "Course"
 }

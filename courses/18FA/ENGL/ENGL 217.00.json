@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"ENGLHE2",
 		"WGSTADDL"
 	],
-	"title": "A Novel Education"
+	"title": "A Novel Education",
+	"type": "Course"
 }

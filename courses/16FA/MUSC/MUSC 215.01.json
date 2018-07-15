@@ -6,7 +6,7 @@
 	"instructors": [
 		"Megan E Sarno"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AMMUGROUP2",
 		"AMSTTOPICAL2"
 	],
-	"title": "Music Theater in America"
+	"title": "Music Theater in America",
+	"type": "Course"
 }

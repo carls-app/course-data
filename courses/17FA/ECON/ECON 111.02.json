@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shane Auerbach"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"POECLOWER",
 		"PPOLCORE"
 	],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126, and Biology 240 or 280; Concurrent registration in Biology 342",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -35,5 +36,6 @@
 	"tags": [
 		"NEURELEC"
 	],
-	"title": "Animal Developmental Biology Laboratory"
+	"title": "Animal Developmental Biology Laboratory",
+	"type": "Course"
 }

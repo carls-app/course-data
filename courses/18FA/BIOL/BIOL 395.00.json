@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"summary": "This seminar course is intended for students who have completed a summer research project or internship in the biological sciences. The intent of the course is to provide students with the opportunity to discuss their research experience, learn from the experiences of other members of the class, read relevant primary literature, and prepare a poster for a student research symposium.",
 	"synonym": "51026",
 	"tags": [],
-	"title": "Research Experience Seminar in Biology"
+	"title": "Research Experience Seminar in Biology",
+	"type": "Course"
 }

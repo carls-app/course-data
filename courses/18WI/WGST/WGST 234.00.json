@@ -6,7 +6,7 @@
 	"instructors": [
 		"Iveta Jusová"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"WGSTADDL",
 		"POSIELECTIVE"
 	],
-	"title": "Feminist and Queer Theory"
+	"title": "Feminist and Queer Theory",
+	"type": "Course"
 }

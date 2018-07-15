@@ -8,7 +8,7 @@
 	"instructors": [
 		"Allison J Tanguay"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -37,6 +37,7 @@
 		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -46,5 +47,6 @@
 	"summary": "What is geometry? The word is derived from the Greek words \"geo\" meaning earth, and \"metron\" meaning measure. Thus, geometry is about measuring the earth, and in a wider sense, everything surrounding us. The geometry we typically study in school leaves off with the ancient Greeks, but geometry is central to both modern mathematics and physics. In this seminar, we will explore further aspects of geometry in the familiar dimensions two and three, and we will discover higher dimensions and the fractional dimensions in between. Moreover, we will investigate the role geometry plays in applications as diverse as topography, medical diagnostics, 3D printing, architecture, and art.",
 	"synonym": "41444",
 	"tags": [],
-	"title": "Explorations in Geometry"
+	"title": "Explorations in Geometry",
+	"type": "Course"
 }

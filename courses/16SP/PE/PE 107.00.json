@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "107.00",
+	"number": "107",
 	"offerings": {
 		"locations": [
 			"Weitz Center 168"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"summary": "A beginning course in ballet technique, including basic positions, beginning patterns and exercises. Students develop an awareness of the many ways their body can move, an appreciation of dance as an artistic expression and a recognition of the dancer as an athlete.",
 	"synonym": "40767",
 	"tags": [],
-	"title": "Ballet I"
+	"title": "Ballet I",
+	"type": "Course"
 }

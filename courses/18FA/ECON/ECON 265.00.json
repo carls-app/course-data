@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jonathan M Lafky"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Game Theory and Economic Applications"
+	"title": "Game Theory and Economic Applications",
+	"type": "Course"
 }

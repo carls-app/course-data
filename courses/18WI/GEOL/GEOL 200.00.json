@@ -9,7 +9,7 @@
 		"Staff",
 		"Clint Cowan"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Instructor's Permission required. Students should waitlist",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "49845",
 	"tags": [],
-	"title": "Selected Field Topics in Geology"
+	"title": "Selected Field Topics in Geology",
+	"type": "Course"
 }

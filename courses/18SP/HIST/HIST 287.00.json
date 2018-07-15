@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Adler"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": null,
 	"synonym": "50020",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"HISTERLYMODEUR",
+		"EUSTTRANNATL"
 	],
-	"title": "From Alchemy to the Atom Bomb: The Scientific Revolution and the Making of the Modern World"
+	"title": "From Alchemy to the Atom Bomb: The Scientific Revolution and the Making of the Modern World",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "143.00",
+	"number": "143",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -42,6 +42,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 24,
@@ -53,5 +54,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Physical Systems: Mechanics and Relativity"
+	"title": "Physical Systems: Mechanics and Relativity",
+	"type": "Course"
 }

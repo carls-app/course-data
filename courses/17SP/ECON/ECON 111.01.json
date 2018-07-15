@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -46,5 +47,6 @@
 	"tags": [
 		"POECLOWER"
 	],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

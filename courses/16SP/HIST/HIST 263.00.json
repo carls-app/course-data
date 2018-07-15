@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"HISTENVIRHEALTH"
 	],
-	"title": "Plagues of Empire"
+	"title": "Plagues of Empire",
+	"type": "Course"
 }

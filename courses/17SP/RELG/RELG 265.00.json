@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -55,5 +56,6 @@
 		"WGSTADDL",
 		"MESTGRP1"
 	],
-	"title": "Religion and Violence: Hindus, Muslims, Jews"
+	"title": "Religion and Violence: Hindus, Muslims, Jews",
+	"type": "Course"
 }

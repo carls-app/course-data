@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 38,
 		"total": 48,
@@ -44,5 +45,6 @@
 	"summary": "A study of the principles of electricity, magnetism, and optics with an emphasis on real-world applications including electronics, laser physics, astronomy, and medicine. Topics include electric and magnetic fields, electric potentials, DC and AC circuits, geometric and wave optics, and relevant properties of matter. Designed for science majors who want additional background in physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. One laboratory per week.",
 	"synonym": "39645",
 	"tags": [],
-	"title": "Introduction to Electricity, Magnetism, and Optics"
+	"title": "Introduction to Electricity, Magnetism, and Optics",
+	"type": "Course"
 }

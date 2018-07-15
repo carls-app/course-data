@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "142L.54",
+	"number": "142L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "42332",
 	"tags": [],
-	"title": "Matter and Interactions Lab"
+	"title": "Matter and Interactions Lab",
+	"type": "Lab"
 }

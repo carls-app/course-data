@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -26,6 +26,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 12,
@@ -37,5 +38,6 @@
 	"tags": [
 		"CGSCCORE"
 	],
-	"title": "Laboratory Research Methods in Cognitive Science"
+	"title": "Laboratory Research Methods in Cognitive Science",
+	"type": "Course"
 }

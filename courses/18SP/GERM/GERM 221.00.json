@@ -8,7 +8,7 @@
 	"instructors": [
 		"Juliane Schicker"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -51,10 +43,8 @@
 	"summary": null,
 	"synonym": "48377",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "(re/ex)press yourself: Sexuality and Gender in Fin-de-Siècle Literature and Art"
+	"title": "(re/ex)press yourself: Sexuality and Gender in Fin-de-Siècle Literature and Art",
+	"type": "Course"
 }

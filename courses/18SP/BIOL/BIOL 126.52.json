@@ -10,7 +10,7 @@
 		"Rika E Anderson",
 		"David Hougen-Eitzman"
 	],
-	"number": "126.52",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -41,16 +41,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -60,18 +55,10 @@
 	"summary": null,
 	"synonym": "47733",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"ENTSINTRO",
+		"BIOCCORE",
+		"NEURCORE"
 	],
-	"title": "Energy Flow in Biological Systems and Lab"
+	"title": "Energy Flow in Biological Systems and Lab",
+	"type": "Course"
 }

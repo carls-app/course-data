@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faye Merritt"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chinese 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "Chinese in Cultural Context"
+	"title": "Chinese in Cultural Context",
+	"type": "Course"
 }

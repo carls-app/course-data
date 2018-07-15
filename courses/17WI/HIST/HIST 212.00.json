@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"AMSTDAC",
 		"AMSTREI"
 	],
-	"title": "The Era of the American Revolution"
+	"title": "The Era of the American Revolution",
+	"type": "Course"
 }

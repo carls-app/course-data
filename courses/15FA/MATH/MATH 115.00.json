@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dave Watson"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -44,5 +45,6 @@
 	"summary": "Introduction to statistical concepts with emphasis on understanding and interpretation of statistical information, especially in the context of media reports and scholarly articles. Examples taken from a wide-range of areas such as public policy, health and medicine, and the social and natural sciences. Computationally less intensive than Math 215. Students will learn how to use statistical software. Topics include: Uncertainty and variability, statistical graphs, types of studies, correlation and linear regression, two-way tables, and inference.",
 	"synonym": "41466",
 	"tags": [],
-	"title": "Statistics: Concepts and Applications"
+	"title": "Statistics: Concepts and Applications",
+	"type": "Course"
 }

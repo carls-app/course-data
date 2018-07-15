@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rika E Anderson"
 	],
-	"number": "339.02",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 338",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "45002",
 	"tags": [],
-	"title": "Genomics and Bioinformatics Laboratory"
+	"title": "Genomics and Bioinformatics Laboratory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": "A survey of the works of the Roman Silver Age historian and rhetorician Gaius Cornelius Tacitus, reading Latin excerpts and selections in English translation.",
 	"synonym": "41831",
 	"tags": [],
-	"title": "Tacitus"
+	"title": "Tacitus",
+	"type": "Course"
 }

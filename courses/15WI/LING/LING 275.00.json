@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "First Language Acquisition"
+	"title": "First Language Acquisition",
+	"type": "Course"
 }

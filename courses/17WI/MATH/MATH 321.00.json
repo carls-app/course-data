@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helen M Wong"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Real Analysis I"
+	"title": "Real Analysis I",
+	"type": "Course"
 }

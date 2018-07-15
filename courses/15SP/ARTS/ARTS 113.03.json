@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ed Charbonneau"
 	],
-	"number": "113.03",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Weitz Center 242"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,5 +44,6 @@
 		"ENTS2SCP",
 		"ENTSLPSCP"
 	],
-	"title": "Field Drawing"
+	"title": "Field Drawing",
+	"type": "Course"
 }

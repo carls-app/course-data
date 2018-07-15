@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "Advanced Chinese: Reading the News"
+	"title": "Advanced Chinese: Reading the News",
+	"type": "Course"
 }

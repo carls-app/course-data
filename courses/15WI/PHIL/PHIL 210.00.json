@@ -6,7 +6,7 @@
 	"instructors": [
 		"Douglas B Marshall"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"SPECINTPHILSCI",
 		"PHILCORE"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Satty Flaherty-Echeverria"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish 204 or instructor permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"LTAMLIT",
 		"LTAMELECTIVE"
 	],
-	"title": "Portuguese for Spanish Speakers"
+	"title": "Portuguese for Spanish Speakers",
+	"type": "Course"
 }

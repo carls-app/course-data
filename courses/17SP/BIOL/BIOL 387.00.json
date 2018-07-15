@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bridget Jacques-Fricke"
 	],
-	"number": "387.00",
+	"number": "387",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 386; Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "45030",
 	"tags": [],
-	"title": "Neurobiology Laboratory"
+	"title": "Neurobiology Laboratory",
+	"type": "Course"
 }

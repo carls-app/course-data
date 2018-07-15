@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: American Studies 396",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "47796",
 	"tags": [],
-	"title": "Senior Seminar in American Studies"
+	"title": "Senior Seminar in American Studies",
+	"type": "Course"
 }

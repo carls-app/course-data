@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "48403",
 	"tags": [],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alexei V Novikov"
 	],
-	"number": "233.54",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I & Lab"
+	"title": "Organic Chemistry I & Lab",
+	"type": "Course"
 }

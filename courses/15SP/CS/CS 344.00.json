@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Human-Computer Interaction"
+	"title": "Human-Computer Interaction",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"PHILPERT",
 		"EUSTTRANNATL"
 	],
-	"title": "Losing My Religion"
+	"title": "Losing My Religion",
+	"type": "Course"
 }

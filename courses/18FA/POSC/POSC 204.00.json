@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"AMSTDAC",
 		"AMSTREI"
 	],
-	"title": "Media and Electoral Politics: 2018 United States Election"
+	"title": "Media and Electoral Politics: 2018 United States Election",
+	"type": "Course"
 }

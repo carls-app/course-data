@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Any two studio art courses or permission from the instructor. No open to students who have previously taken Art History 240",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -43,10 +41,8 @@
 	"summary": null,
 	"synonym": "48216",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"CAMSXDEPT"
 	],
-	"title": "Contemporary Art for Artists"
+	"title": "Contemporary Art for Artists",
+	"type": "Course"
 }

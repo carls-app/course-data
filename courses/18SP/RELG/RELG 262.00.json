@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -49,30 +41,13 @@
 	"summary": null,
 	"synonym": "48961",
 	"tags": [
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "PPOLFP",
-			"name": "Pub Pol Forgn Pol & Security"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"RELGISLAMICTRAD",
+		"AFSTHI",
+		"MESTGRP1",
+		"POSI-AREAS2",
+		"PPOLFP",
+		"CCSTENCTR"
 	],
-	"title": "Islamic Africa"
+	"title": "Islamic Africa",
+	"type": "Course"
 }

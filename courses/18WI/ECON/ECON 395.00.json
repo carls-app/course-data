@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "48987",
 	"tags": [],
-	"title": "Advanced Seminar in Labor Economics"
+	"title": "Advanced Seminar in Labor Economics",
+	"type": "Course"
 }

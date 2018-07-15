@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"RELGTHSOCLPWR",
 		"ENTSCDSCP"
 	],
-	"title": "Native American Religious Freedom"
+	"title": "Native American Religious Freedom",
+	"type": "Course"
 }

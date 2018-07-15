@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"FFSTLIT",
 		"RUSSIANPERT"
 	],
-	"title": "The Critical Toolbox: Who's Afraid of Theory?"
+	"title": "The Critical Toolbox: Who's Afraid of Theory?",
+	"type": "Course"
 }

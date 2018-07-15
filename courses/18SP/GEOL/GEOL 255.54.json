@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "255.54",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL06"
@@ -36,12 +36,10 @@
 	},
 	"prerequisites": "Prerequisite: Geology 250",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 10,
 		"total": 18,
@@ -51,5 +49,6 @@
 	"summary": null,
 	"synonym": "47785",
 	"tags": [],
-	"title": "Petrology & Lab"
+	"title": "Petrology & Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric C Alexander"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 34,
@@ -45,5 +46,6 @@
 	"tags": [
 		"LINGPERT"
 	],
-	"title": "Mathematics of Computer Science"
+	"title": "Mathematics of Computer Science",
+	"type": "Course"
 }

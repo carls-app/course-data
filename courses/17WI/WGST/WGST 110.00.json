@@ -8,7 +8,7 @@
 	"instructors": [
 		"Iveta Jusová"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -36,6 +36,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -51,5 +52,6 @@
 		"CCSTGLOBAL",
 		"EDUCCLUSTER2"
 	],
-	"title": "Introduction to Women's and Gender Studies"
+	"title": "Introduction to Women's and Gender Studies",
+	"type": "Course"
 }

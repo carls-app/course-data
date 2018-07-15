@@ -7,7 +7,7 @@
 		"Baird E Jarman",
 		"Jessica F Keating"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 53,
 		"total": 60,
@@ -51,5 +52,6 @@
 		"MARSCORE",
 		"MARSSUPP"
 	],
-	"title": "Introduction to Art History II"
+	"title": "Introduction to Art History II",
+	"type": "Course"
 }

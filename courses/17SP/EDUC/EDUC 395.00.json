@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Educational Studies concentrator or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"EDUCSENIORSEM"
 	],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

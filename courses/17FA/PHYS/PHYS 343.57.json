@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barry N Costanzi"
 	],
-	"number": "343.57",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 210",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -52,5 +53,6 @@
 	"tags": [
 		"CSPERT"
 	],
-	"title": "Electronics & Lab"
+	"title": "Electronics & Lab",
+	"type": "Course"
 }

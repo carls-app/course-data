@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"PPOLPH",
 		"AMSTAMERWRLD"
 	],
-	"title": "Health Care Economics"
+	"title": "Health Care Economics",
+	"type": "Course"
 }

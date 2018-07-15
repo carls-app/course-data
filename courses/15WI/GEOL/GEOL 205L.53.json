@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "205L.53",
+	"number": "205L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "39952",
 	"tags": [],
-	"title": "Geol of Mineral&Energy Lab"
+	"title": "Geol of Mineral&Energy Lab",
+	"type": "Lab"
 }

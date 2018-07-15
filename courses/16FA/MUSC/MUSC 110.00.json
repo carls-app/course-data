@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "44658",
 	"tags": [],
-	"title": "Theory I: The Materials of Music"
+	"title": "Theory I: The Materials of Music",
+	"type": "Course"
 }

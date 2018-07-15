@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sonja G Anderson"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "45434",
 	"tags": [],
-	"title": "Understanding Religion"
+	"title": "Understanding Religion",
+	"type": "Course"
 }

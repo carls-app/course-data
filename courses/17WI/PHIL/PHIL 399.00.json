@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": "The planning, preparation, and completion of a philosophical paper under the direction of a member of the department and as part of a seminar group.",
 	"synonym": "45482",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

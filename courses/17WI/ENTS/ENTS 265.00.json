@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 5,
@@ -46,5 +47,6 @@
 		"ENTS2ENVSCI",
 		"PPOLEP"
 	],
-	"title": "The Science of the Earth System"
+	"title": "The Science of the Earth System",
+	"type": "Course"
 }

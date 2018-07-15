@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rou-Jia Sung"
 	],
-	"number": "381.02",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 380; Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -35,5 +36,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

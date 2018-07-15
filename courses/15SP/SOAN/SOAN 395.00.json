@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"AFAMSOCINQ",
 		"FRENPERT"
 	],
-	"title": "Ethnography of Reproduction"
+	"title": "Ethnography of Reproduction",
+	"type": "Course"
 }

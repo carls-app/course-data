@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -49,5 +50,6 @@
 	"tags": [
 		"EDUCCORE"
 	],
-	"title": "Introduction to Educational Studies"
+	"title": "Introduction to Educational Studies",
+	"type": "Course"
 }

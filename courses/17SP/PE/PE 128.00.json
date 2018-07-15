@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": "Enhance your skills and abilities in Ultimate.",
 	"synonym": "43840",
 	"tags": [],
-	"title": "Frisbee, Advanced Ultimate"
+	"title": "Frisbee, Advanced Ultimate",
+	"type": "Course"
 }

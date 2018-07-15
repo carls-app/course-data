@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"PHILTHEORY"
 	],
-	"title": "Being, Time and Identity"
+	"title": "Being, Time and Identity",
+	"type": "Course"
 }

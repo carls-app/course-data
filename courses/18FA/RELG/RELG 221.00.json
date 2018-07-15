@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Picus"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"MESTGRP1",
 		"JDSTPERT"
 	],
-	"title": "Judaism and Gender"
+	"title": "Judaism and Gender",
+	"type": "Course"
 }

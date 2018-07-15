@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "234.52",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry II & Lab"
+	"title": "Organic Chemistry II & Lab",
+	"type": "Course"
 }

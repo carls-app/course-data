@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison E Murphy"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "49470",
 	"tags": [],
-	"title": "The Individual and the Political Community"
+	"title": "The Individual and the Political Community",
+	"type": "Course"
 }

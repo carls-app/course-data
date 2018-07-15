@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bridget Jacques-Fricke"
 	],
-	"number": "333.02",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 332; Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": "Not open to students who have taken Biology 233.",
 	"synonym": "38476",
 	"tags": [],
-	"title": "Human Physiology Laboratory"
+	"title": "Human Physiology Laboratory",
+	"type": "Course"
 }

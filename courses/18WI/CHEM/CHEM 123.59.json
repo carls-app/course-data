@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "123.59",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -53,5 +54,6 @@
 		"BIOCCORE",
 		"STEMCHEM"
 	],
-	"title": "Principles of Chemistry I and Lab"
+	"title": "Principles of Chemistry I and Lab",
+	"type": "Course"
 }

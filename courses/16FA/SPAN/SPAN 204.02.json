@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda D Burdell"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"tags": [
 		"SPAN204-219"
 	],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

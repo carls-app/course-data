@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"EUSTCNTRY",
 		"FFSTLIT"
 	],
-	"title": "France and the African Imagination"
+	"title": "France and the African Imagination",
+	"type": "Course"
 }

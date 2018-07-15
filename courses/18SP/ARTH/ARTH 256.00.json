@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cathy Asher"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "47831",
 	"tags": [
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"MESTGRP2",
+		"MARSCORE"
 	],
-	"title": "Age of Empire: Ottomans of Turkey, Safavids of Iran and Mughals of India"
+	"title": "Age of Empire: Ottomans of Turkey, Safavids of Iran and Mughals of India",
+	"type": "Course"
 }

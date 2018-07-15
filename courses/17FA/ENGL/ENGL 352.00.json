@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"AFSTLA",
 		"AMSTTOPICAL1"
 	],
-	"title": "Toni Morrison: Novelist"
+	"title": "Toni Morrison: Novelist",
+	"type": "Course"
 }

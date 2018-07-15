@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"MARSSUPP",
 		"EUSTTRANNATL"
 	],
-	"title": "Papacy, Church, and Empire in the Middle Ages"
+	"title": "Papacy, Church, and Empire in the Middle Ages",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -35,6 +35,7 @@
 		"LA"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"ASSTMETH",
 		"ASSTDISC"
 	],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

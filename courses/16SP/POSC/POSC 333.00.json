@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -34,6 +34,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -57,5 +58,6 @@
 		"POSIELECTIVE",
 		"ENTSTOPICAL"
 	],
-	"title": "Global Social Changes and Sustainability*"
+	"title": "Global Social Changes and Sustainability*",
+	"type": "Course"
 }

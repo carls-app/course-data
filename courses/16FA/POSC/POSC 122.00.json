@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -54,5 +55,6 @@
 		"EDUCCLUSTER3",
 		"AMSTSURV1"
 	],
-	"title": "Politics in America: Liberty and Equality"
+	"title": "Politics in America: Liberty and Equality",
+	"type": "Course"
 }

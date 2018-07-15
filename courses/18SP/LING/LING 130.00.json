@@ -6,7 +6,7 @@
 	"instructors": [
 		"Morgan Rood"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "49854",
 	"tags": [
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "LINGELEC",
-			"name": "Linguistics Elective"
-		}
+		"MESTGRP1",
+		"LINGELEC"
 	],
-	"title": "Sociolinguistics of Semitic Languages"
+	"title": "Sociolinguistics of Semitic Languages",
+	"type": "Course"
 }

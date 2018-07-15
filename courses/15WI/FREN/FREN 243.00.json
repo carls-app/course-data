@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"FFSTLIT",
 		"ENGLFORLIT"
 	],
-	"title": "Topics in Cultural Studies: Cultural Reading of Food"
+	"title": "Topics in Cultural Studies: Cultural Reading of Food",
+	"type": "Course"
 }

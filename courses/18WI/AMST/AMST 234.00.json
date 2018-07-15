@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christopher M Elias"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"AMSTSAP",
 		"AMSTDAC"
 	],
-	"title": "American Identities in the Twentieth Century"
+	"title": "American Identities in the Twentieth Century",
+	"type": "Course"
 }

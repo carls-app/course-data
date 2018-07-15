@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -39,6 +39,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -51,5 +52,6 @@
 		"HISTPREMODERN",
 		"HISTANCNT/MDVL"
 	],
-	"title": "The Black Death: Disease and Its Consequences in the Middle Ages"
+	"title": "The Black Death: Disease and Its Consequences in the Middle Ages",
+	"type": "Course"
 }

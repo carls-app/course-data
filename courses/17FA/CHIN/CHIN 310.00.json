@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "48265",
 	"tags": [],
-	"title": "Chinese Maintenance"
+	"title": "Chinese Maintenance",
+	"type": "Course"
 }

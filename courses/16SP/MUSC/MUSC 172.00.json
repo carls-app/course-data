@@ -8,13 +8,14 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "172.00",
+	"number": "172",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -24,5 +25,6 @@
 	"summary": "Beginning through advanced study of the Arab oud. Previous musical experience is not necessary. Instruments are provided.",
 	"synonym": "43451",
 	"tags": [],
-	"title": "Oud"
+	"title": "Oud",
+	"type": "Course"
 }

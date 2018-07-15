@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Arabic 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -53,5 +54,6 @@
 	"tags": [
 		"MDLEPERT"
 	],
-	"title": "Elementary Arabic"
+	"title": "Elementary Arabic",
+	"type": "Course"
 }

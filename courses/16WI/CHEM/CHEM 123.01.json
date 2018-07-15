@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "123.01",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 44,
 		"total": 48,
@@ -48,5 +49,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

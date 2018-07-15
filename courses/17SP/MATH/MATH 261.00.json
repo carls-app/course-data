@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Functions of a Complex Variable"
+	"title": "Functions of a Complex Variable",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah E Craft"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "48395",
 	"tags": [],
-	"title": "Elementary Latin"
+	"title": "Elementary Latin",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew L Rosendorf"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,10 +39,8 @@
 	"summary": "A laboratory to explore the craft of playwriting, concentrating on structure, action and character. The class uses games, exercises, scenes, with the goal of producing a short play by the end of the term.",
 	"synonym": "48669",
 	"tags": [
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"ENGLCWWTGWKSHP"
 	],
-	"title": "Playwriting"
+	"title": "Playwriting",
+	"type": "Course"
 }

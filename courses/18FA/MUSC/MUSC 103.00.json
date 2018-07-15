@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matthew J Olson"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "51605",
 	"tags": [],
-	"title": "Musicianship I"
+	"title": "Musicianship I",
+	"type": "Course"
 }

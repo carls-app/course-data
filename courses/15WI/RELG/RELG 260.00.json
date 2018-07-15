@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"ASSTSOUTH",
 		"RELGTHLVDRELCLT"
 	],
-	"title": "Tantra: Secrecy, Sex, and the Sublime"
+	"title": "Tantra: Secrecy, Sex, and the Sublime",
+	"type": "Course"
 }

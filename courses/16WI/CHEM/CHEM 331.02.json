@@ -9,7 +9,7 @@
 		"Steven M Drew",
 		"Deborah S Gross"
 	],
-	"number": "331.02",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -27,6 +27,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 7,
 		"total": 8,
@@ -36,5 +37,6 @@
 	"summary": "This laboratory provides students with experience in using instrumental methods for quantitative chemical analysis. Laboratory work consists of several assigned experiments that use instrumental techniques such as liquid and gas chromatography, UV spectrophotometry and fluorometry, mass spectrometry, and voltammetry. This laboratory concludes with an instrumental analysis project that is researched and designed by student groups.",
 	"synonym": "41133",
 	"tags": [],
-	"title": "Instrumental Chemical Analysis Laboratory"
+	"title": "Instrumental Chemical Analysis Laboratory",
+	"type": "Course"
 }

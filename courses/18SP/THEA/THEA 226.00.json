@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger K Bechtel"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "49282",
 	"tags": [],
-	"title": "Avant-garde Theater and Performance"
+	"title": "Avant-garde Theater and Performance",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -64,5 +65,6 @@
 		"PPOLECON",
 		"SASTSUPPSI"
 	],
-	"title": "Microeconomics of Development"
+	"title": "Microeconomics of Development",
+	"type": "Course"
 }

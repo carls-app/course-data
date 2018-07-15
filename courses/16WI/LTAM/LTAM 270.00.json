@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -55,5 +56,6 @@
 		"AMMUGROUP3",
 		"HISTPERT"
 	],
-	"title": "Chile's September 11th: History and Memory since the Coup"
+	"title": "Chile's September 11th: History and Memory since the Coup",
+	"type": "Course"
 }

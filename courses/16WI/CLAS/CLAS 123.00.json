@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"ARCNPERT",
 		"ARTHPERT"
 	],
-	"title": "Greek Archaeology and Art"
+	"title": "Greek Archaeology and Art",
+	"type": "Course"
 }

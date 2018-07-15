@@ -6,7 +6,7 @@
 	"instructors": [
 		"Morgan Rood"
 	],
-	"number": "316.00",
+	"number": "316",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"CGSCELECTIVE",
 		"LINGADV"
 	],
-	"title": "Topics in Morphology"
+	"title": "Topics in Morphology",
+	"type": "Course"
 }

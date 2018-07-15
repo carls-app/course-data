@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Topics in Abstract Algebra"
+	"title": "Topics in Abstract Algebra",
+	"type": "Course"
 }

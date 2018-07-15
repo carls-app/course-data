@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "110.54",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another 100-level Geology course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -48,14 +46,9 @@
 	"summary": null,
 	"synonym": "47792",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"ARCNPERT"
 	],
-	"title": "Introduction to Geology & Lab"
+	"title": "Introduction to Geology & Lab",
+	"type": "Course"
 }

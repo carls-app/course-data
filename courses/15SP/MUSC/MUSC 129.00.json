@@ -6,7 +6,7 @@
 	"instructors": [
 		"Albin J Zak"
 	],
-	"number": "129.00",
+	"number": "129",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"AMSTTOPICAL1",
 		"AMMUGROUP2"
 	],
-	"title": "Rock on Record"
+	"title": "Rock on Record",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Recommended Psychology 252",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -42,18 +40,10 @@
 	"summary": "An introduction to theories, research, treatments, and issues in the field of psychopathology. This course will be run as a seminar.",
 	"synonym": "48777",
 	"tags": [
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		}
+		"PSYCCORE",
+		"PSYCSDPCH",
+		"PPOLPH"
 	],
-	"title": "Psychopathology"
+	"title": "Psychopathology",
+	"type": "Course"
 }

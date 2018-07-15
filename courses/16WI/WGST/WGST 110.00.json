@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"AFAMPERT",
 		"CCSTGLOBAL"
 	],
-	"title": "Introduction to Women's and Gender Studies"
+	"title": "Introduction to Women's and Gender Studies",
+	"type": "Course"
 }

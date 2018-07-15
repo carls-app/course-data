@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "221.02",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -28,6 +28,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -40,5 +41,6 @@
 		"NEURELEC",
 		"PSYCLAB"
 	],
-	"title": "Laboratory Research Methods in Sensation and Perception"
+	"title": "Laboratory Research Methods in Sensation and Perception",
+	"type": "Course"
 }

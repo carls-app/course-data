@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 50,
@@ -31,5 +32,6 @@
 	"summary": "A series of eight lectures intended for students considering a Mathematics major. The emphasis will be on presenting various striking ideas, concepts and results in modern mathematics, rather than on developing extensive knowledge or techniques in any particular subject area.",
 	"synonym": "48839",
 	"tags": [],
-	"title": "A Tour of Mathematics"
+	"title": "A Tour of Mathematics",
+	"type": "Course"
 }

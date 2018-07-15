@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116",
@@ -36,6 +36,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "50804",
 	"tags": [],
-	"title": "Lindy Hop, Beginning"
+	"title": "Lindy Hop, Beginning",
+	"type": "Course"
 }

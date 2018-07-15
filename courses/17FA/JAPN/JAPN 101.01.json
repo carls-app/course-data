@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"tags": [
 		"ASSTLANG"
 	],
-	"title": "Elementary Japanese"
+	"title": "Elementary Japanese",
+	"type": "Course"
 }

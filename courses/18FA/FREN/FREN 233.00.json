@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -52,5 +53,6 @@
 		"FFSTSOCSCI",
 		"ENGLFORLIT"
 	],
-	"title": "French Cinema and Culture"
+	"title": "French Cinema and Culture",
+	"type": "Course"
 }

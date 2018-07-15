@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"LTAM300LIT",
 		"ENGLLOE"
 	],
-	"title": "Women Writers in Latin America: Body and Text"
+	"title": "Women Writers in Latin America: Body and Text",
+	"type": "Course"
 }

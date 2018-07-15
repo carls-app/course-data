@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": "An introduction to the basic elements of rhythm and melody, with a strong emphasis on sight reading using solfége, score reading in multiple clefs, and short dictation exercises.",
 	"synonym": "48419",
 	"tags": [],
-	"title": "Musicianship Lab I"
+	"title": "Musicianship Lab I",
+	"type": "Course"
 }

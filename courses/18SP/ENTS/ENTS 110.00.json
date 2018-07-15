@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -48,10 +46,8 @@
 	"summary": "This course offers an interdisciplinary introduction to a number of the pressing environmental changes currently facing human societies around the world. We will seek to understand and integrate the social, economic, scientific and political dimensions of these challenges. Emphasis will be placed on understanding the complexity of environmental issues and the interdisciplinary nature of the search for appropriate solutions. Topics will include global warming, population pressures, energy use, industrial waste and pollution, biological diversity, and sustainable agriculture.",
 	"synonym": "49017",
 	"tags": [
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"SPECINTSUSTAIN"
 	],
-	"title": "Environment and Society"
+	"title": "Environment and Society",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"EUSTTRANNATL"
 	],
-	"title": "Theories of Postmodernism"
+	"title": "Theories of Postmodernism",
+	"type": "Course"
 }

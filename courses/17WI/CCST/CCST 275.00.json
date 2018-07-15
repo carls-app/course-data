@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CCSTCORE"
 	],
-	"title": "I'm A Stranger Here Myself"
+	"title": "I'm A Stranger Here Myself",
+	"type": "Course"
 }

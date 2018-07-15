@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"SAST",
 		"ASSTSOUTH"
 	],
-	"title": "Buddha"
+	"title": "Buddha",
+	"type": "Course"
 }

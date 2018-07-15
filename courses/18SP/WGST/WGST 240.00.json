@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -41,26 +39,12 @@
 	"summary": null,
 	"synonym": "49453",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"POSI-LPS2",
+		"SOANPERT",
+		"POSIELECTIVE",
+		"WGSTADDL",
+		"CCSTGLOBAL"
 	],
-	"title": "Gender, Globalization and War"
+	"title": "Gender, Globalization and War",
+	"type": "Course"
 }

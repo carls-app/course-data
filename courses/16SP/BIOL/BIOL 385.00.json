@@ -8,7 +8,7 @@
 	"instructors": [
 		"Raka M Mitra"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -42,5 +43,6 @@
 	"tags": [
 		"BIOCELEC"
 	],
-	"title": "Seminar: Microbial Pathology"
+	"title": "Seminar: Microbial Pathology",
+	"type": "Course"
 }

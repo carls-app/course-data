@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"ENGLT1",
 		"EUSTCNTRY"
 	],
-	"title": "Yeats and Heaney"
+	"title": "Yeats and Heaney",
+	"type": "Course"
 }

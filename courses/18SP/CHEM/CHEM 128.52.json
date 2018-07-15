@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "128.52",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Olin 141",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Exam (Chemistry Home Page) or Chemistry 122.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -56,18 +51,10 @@
 	"summary": null,
 	"synonym": "49057",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "STEMCHEM",
-			"name": "Stem Chem Requirement"
-		}
+		"ENTSINTRO",
+		"BIOCCORE",
+		"STEMCHEM"
 	],
-	"title": "Principles of Environmental Chemistry & Lab"
+	"title": "Principles of Environmental Chemistry & Lab",
+	"type": "Course"
 }

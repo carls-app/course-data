@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 51,
 		"total": 66,
@@ -46,5 +47,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Juliane Schicker",
 		"Josiah B Simon"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -45,6 +45,7 @@
 	"prerequisites": "Prerequisite: German 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -54,5 +55,6 @@
 	"summary": "Further study of the basic structural patterns of the German language.",
 	"synonym": "48372",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

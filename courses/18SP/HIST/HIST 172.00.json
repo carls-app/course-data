@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luis A Herran Avila"
 	],
-	"number": "172.00",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -45,18 +40,10 @@
 	"summary": null,
 	"synonym": "49640",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMSOCSCI"
 	],
-	"title": "Latin America’s Global Migrations"
+	"title": "Latin America’s Global Migrations",
+	"type": "Course"
 }

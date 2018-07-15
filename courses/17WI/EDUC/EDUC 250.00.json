@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"AFAMPERT",
 		"PPOLEDUC"
 	],
-	"title": "Fixing Schools: Politics and Policy in American Education"
+	"title": "Fixing Schools: Politics and Policy in American Education",
+	"type": "Course"
 }

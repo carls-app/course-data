@@ -8,20 +8,15 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "284.07",
+	"number": "284",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -31,22 +26,11 @@
 	"summary": null,
 	"synonym": "46879",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"EASTSUPP",
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTHU"
 	],
-	"title": "Japanese Linguistics in Kyoto Seminar: History and Culture of Japan"
+	"title": "Japanese Linguistics in Kyoto Seminar: History and Culture of Japan",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -47,5 +48,6 @@
 	"summary": null,
 	"synonym": "46402",
 	"tags": [],
-	"title": "Introduction Data Visualization"
+	"title": "Introduction Data Visualization",
+	"type": "Course"
 }

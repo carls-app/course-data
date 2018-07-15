@@ -6,7 +6,7 @@
 	"instructors": [
 		"Miaki Habuka"
 	],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -54,5 +55,6 @@
 		"ASSTLANG",
 		"ASSTEAST"
 	],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

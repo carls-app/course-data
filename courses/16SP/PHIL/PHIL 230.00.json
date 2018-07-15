@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zoli Filotas"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"PHILTHEORY",
 		"PHILPRACVAL"
 	],
-	"title": "Philosophy of Gender"
+	"title": "Philosophy of Gender",
+	"type": "Course"
 }

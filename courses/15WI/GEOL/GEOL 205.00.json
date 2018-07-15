@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -50,5 +51,6 @@
 		"SPECINTSUSTAIN",
 		"ENTSCDES"
 	],
-	"title": "Geology of Energy and Mineral Resources"
+	"title": "Geology of Energy and Mineral Resources",
+	"type": "Course"
 }

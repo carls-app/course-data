@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"RELGAMERTRAD",
 		"PPOLFP"
 	],
-	"title": "Modernity and Tradition"
+	"title": "Modernity and Tradition",
+	"type": "Course"
 }

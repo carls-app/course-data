@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 35,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"PSYCINTRO"
 	],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

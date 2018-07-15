@@ -9,7 +9,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 17,
@@ -41,5 +42,6 @@
 	"summary": "A study of stellar structure and evolution with an emphasis on the physical principles underlying the observed phenomena. Topics include the birth, evolution, and death of stars, pulsars, black holes, and white dwarfs.",
 	"synonym": "40945",
 	"tags": [],
-	"title": "Astrophysics I"
+	"title": "Astrophysics I",
+	"type": "Course"
 }

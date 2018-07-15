@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -48,5 +49,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introductory Mechanics: Matter and Interactions"
+	"title": "Introductory Mechanics: Matter and Interactions",
+	"type": "Course"
 }

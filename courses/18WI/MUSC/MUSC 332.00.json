@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"AMMUCAPSTONE",
 		"AMSTPCC"
 	],
-	"title": "Motown"
+	"title": "Motown",
+	"type": "Course"
 }

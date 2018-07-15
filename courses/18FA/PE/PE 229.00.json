@@ -9,13 +9,14 @@
 		"Jerry Ericksen",
 		"Linda K Luedke"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 20,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "50825",
 	"tags": [],
-	"title": "Golf Intercollegiate, Men"
+	"title": "Golf Intercollegiate, Men",
+	"type": "Course"
 }

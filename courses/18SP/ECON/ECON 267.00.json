@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jonathan M Lafky"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": null,
 	"synonym": "49003",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
-	"title": "Behavioral Economics"
+	"title": "Behavioral Economics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"FRSTELECAL",
 		"ENGLFORLIT"
 	],
-	"title": "French Exoticism"
+	"title": "French Exoticism",
+	"type": "Course"
 }

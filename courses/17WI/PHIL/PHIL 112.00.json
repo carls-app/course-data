@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Mind, Matter, Consciousness"
+	"title": "Mind, Matter, Consciousness",
+	"type": "Course"
 }

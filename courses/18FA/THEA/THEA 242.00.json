@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"LITFORLANG",
 		"ENGLHE3"
 	],
-	"title": "Modern American Drama"
+	"title": "Modern American Drama",
+	"type": "Course"
 }

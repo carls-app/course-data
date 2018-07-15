@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -29,6 +29,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"BIOLDATAINTERP",
 		"BIOLELECTIVE"
 	],
-	"title": "Seminar: Topics in Neuroscience"
+	"title": "Seminar: Topics in Neuroscience",
+	"type": "Course"
 }

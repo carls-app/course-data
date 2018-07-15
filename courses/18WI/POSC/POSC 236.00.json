@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"POSIELECTIVE",
 		"PPOLFP"
 	],
-	"title": "Global, National and Human Security"
+	"title": "Global, National and Human Security",
+	"type": "Course"
 }

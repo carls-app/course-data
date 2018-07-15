@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -54,5 +55,6 @@
 		"AMSTREI",
 		"AMSTPCC"
 	],
-	"title": "Identity, Culture and Rights*"
+	"title": "Identity, Culture and Rights*",
+	"type": "Course"
 }

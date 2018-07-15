@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"HISTLTAM",
 		"HISTERLYMODEUR"
 	],
-	"title": "Nations and Nationhood"
+	"title": "Nations and Nationhood",
+	"type": "Course"
 }

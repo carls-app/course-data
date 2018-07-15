@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"EDUCCLUSTER2",
 		"AFSTHI"
 	],
-	"title": "Is Obama Black?: American Mixed Race History"
+	"title": "Is Obama Black?: American Mixed Race History",
+	"type": "Course"
 }

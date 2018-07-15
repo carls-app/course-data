@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"tags": [
 		"CCSTSEEING"
 	],
-	"title": "Understanding Religion"
+	"title": "Understanding Religion",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Topics in Probability and Statistics: Advanced Statistical Modeling"
+	"title": "Topics in Probability and Statistics: Advanced Statistical Modeling",
+	"type": "Course"
 }

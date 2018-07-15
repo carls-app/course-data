@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -22,12 +22,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -37,5 +35,6 @@
 	"summary": null,
 	"synonym": "50842",
 	"tags": [],
-	"title": "Fencing, Beginning"
+	"title": "Fencing, Beginning",
+	"type": "Course"
 }

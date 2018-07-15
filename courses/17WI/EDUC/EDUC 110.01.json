@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maurella L Cunningham"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"tags": [
 		"EDUCCORE"
 	],
-	"title": "Introduction to Educational Studies"
+	"title": "Introduction to Educational Studies",
+	"type": "Course"
 }

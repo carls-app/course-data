@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"ENGLHE3",
 		"ENGLT2"
 	],
-	"title": "Margaret Atwood"
+	"title": "Margaret Atwood",
+	"type": "Course"
 }

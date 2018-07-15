@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"ENGLHE2",
 		"ENGLT1"
 	],
-	"title": "'Public Offenders': Pre-Raphaelites and Bloomsbury Group"
+	"title": "'Public Offenders': Pre-Raphaelites and Bloomsbury Group",
+	"type": "Course"
 }

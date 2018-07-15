@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"PSYCCORE",
 		"PSYCBIOBEH"
 	],
-	"title": "Clinical Neuroscience"
+	"title": "Clinical Neuroscience",
+	"type": "Course"
 }

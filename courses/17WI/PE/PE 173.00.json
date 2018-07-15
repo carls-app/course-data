@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brooke M Plotz"
 	],
-	"number": "173.00",
+	"number": "173",
 	"offerings": {
 		"locations": [
 			"Cowling 012"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": "Novice to intermediate swim. Introduction to basic swim skills and technique.",
 	"synonym": "43821",
 	"tags": [],
-	"title": "Swimming, Instructional"
+	"title": "Swimming, Instructional",
+	"type": "Course"
 }

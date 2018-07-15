@@ -9,13 +9,14 @@
 		"Staff",
 		"Hector L Valdivia"
 	],
-	"number": "156.00",
+	"number": "156",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 0,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "42327",
 	"tags": [],
-	"title": "Viola"
+	"title": "Viola",
+	"type": "Course"
 }

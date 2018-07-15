@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -49,5 +50,6 @@
 	"tags": [
 		"MARSSUPP"
 	],
-	"title": "Renaissance, Revolution, and Reformation: The Life and Art of Albrecht Durer"
+	"title": "Renaissance, Revolution, and Reformation: The Life and Art of Albrecht Durer",
+	"type": "Course"
 }

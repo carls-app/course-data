@@ -6,7 +6,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "101.02",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"MARSSUPP",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Art History I"
+	"title": "Introduction to Art History I",
+	"type": "Course"
 }

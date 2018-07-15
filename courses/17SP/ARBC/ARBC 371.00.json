@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"tags": [
 		"MESTPERT"
 	],
-	"title": "Readings in Pre-Modern Arabic Science"
+	"title": "Readings in Pre-Modern Arabic Science",
+	"type": "Course"
 }

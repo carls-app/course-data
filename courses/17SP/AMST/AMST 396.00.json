@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "46925",
 	"tags": [],
-	"title": "\"Invisible Domain\": Religion and American Studies"
+	"title": "\"Invisible Domain\": Religion and American Studies",
+	"type": "Course"
 }

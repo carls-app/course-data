@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -53,5 +54,6 @@
 		"ENTSWRSCP",
 		"PPOLEP"
 	],
-	"title": "Topics in Environmental Law and Policy"
+	"title": "Topics in Environmental Law and Policy",
+	"type": "Course"
 }

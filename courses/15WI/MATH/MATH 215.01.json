@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 206",
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 36,
 		"total": 28,
@@ -49,5 +50,6 @@
 	"tags": [
 		"ENTSQUANTV"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

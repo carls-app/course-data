@@ -6,7 +6,7 @@
 	"instructors": [
 		"John C Dernbach"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,18 +39,10 @@
 	"summary": null,
 	"synonym": "49021",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"ENTS2SCP",
+		"POSI-GDS2",
+		"PPOLEP"
 	],
-	"title": "Sustainable Development"
+	"title": "Sustainable Development",
+	"type": "Course"
 }

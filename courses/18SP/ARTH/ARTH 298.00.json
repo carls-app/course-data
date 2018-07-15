@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "48217",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		}
+		"ASSTMETH",
+		"ASSTDISC"
 	],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

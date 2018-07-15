@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -53,5 +54,6 @@
 		"PPOLECON",
 		"MESTGRP1"
 	],
-	"title": "Approaches to Development*"
+	"title": "Approaches to Development*",
+	"type": "Course"
 }

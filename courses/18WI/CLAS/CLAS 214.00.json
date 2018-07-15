@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -48,5 +49,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Gender and Sexuality in Classical Antiquity"
+	"title": "Gender and Sexuality in Classical Antiquity",
+	"type": "Course"
 }

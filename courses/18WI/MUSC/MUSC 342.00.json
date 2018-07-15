@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Weitz Center M104"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "49358",
 	"tags": [],
-	"title": "Creative Music Performance Seminar"
+	"title": "Creative Music Performance Seminar",
+	"type": "Course"
 }

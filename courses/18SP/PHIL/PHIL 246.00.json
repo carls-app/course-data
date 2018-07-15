@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -49,14 +41,9 @@
 	"summary": null,
 	"synonym": "49347",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"PHILTHEORY",
+		"CGSCELECTIVE"
 	],
-	"title": "Probability: The Very Guide of Life?"
+	"title": "Probability: The Very Guide of Life?",
+	"type": "Course"
 }

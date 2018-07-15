@@ -9,13 +9,14 @@
 		"Staff",
 		"Nikki Melville"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 50,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "50026",
 	"tags": [],
-	"title": "Piano"
+	"title": "Piano",
+	"type": "Course"
 }

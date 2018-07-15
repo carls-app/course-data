@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sherri L Goings"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 30,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCCORE"
 	],
-	"title": "Introduction to Computer Science"
+	"title": "Introduction to Computer Science",
+	"type": "Course"
 }

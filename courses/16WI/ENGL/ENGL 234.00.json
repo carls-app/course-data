@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,6 +31,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"SPECINTSUSTAIN",
 		"AFAMPERT"
 	],
-	"title": "Literature of the American South"
+	"title": "Literature of the American South",
+	"type": "Course"
 }

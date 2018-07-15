@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"SASTHI",
 		"SASTSUPPHI"
 	],
-	"title": "Hinduism: An Introduction"
+	"title": "Hinduism: An Introduction",
+	"type": "Course"
 }

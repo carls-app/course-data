@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -54,10 +46,8 @@
 	"summary": null,
 	"synonym": "49519",
 	"tags": [
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		}
+		"AFSTHI"
 	],
-	"title": "Africa: Art, Nation, and Politics"
+	"title": "Africa: Art, Nation, and Politics",
+	"type": "Course"
 }

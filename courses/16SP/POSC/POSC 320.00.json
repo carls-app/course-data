@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hicham N Bou Nassif"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"POSIADVSEM",
 		"POSCADVSEM"
 	],
-	"title": "Authoritarianism and Democratization in the Middle East*"
+	"title": "Authoritarianism and Democratization in the Middle East*",
+	"type": "Course"
 }

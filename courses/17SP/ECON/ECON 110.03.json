@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce R Dalgaard"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"POECLOWER",
 		"PPOLCORE"
 	],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

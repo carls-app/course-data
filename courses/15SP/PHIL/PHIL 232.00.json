@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"SPECINTSOCTHGHT",
 		"PHILPRACVAL"
 	],
-	"title": "Social and Political Philosophy"
+	"title": "Social and Political Philosophy",
+	"type": "Course"
 }

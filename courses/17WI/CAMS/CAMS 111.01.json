@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laska Jimsen"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138",
@@ -32,6 +32,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"CAMSCORE07"
 	],
-	"title": "Digital Foundations"
+	"title": "Digital Foundations",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -36,6 +36,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -47,5 +48,6 @@
 	"tags": [
 		"CGSCCORE"
 	],
-	"title": "Introduction to the Theory of Syntax"
+	"title": "Introduction to the Theory of Syntax",
+	"type": "Course"
 }

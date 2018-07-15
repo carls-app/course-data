@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 102 with a grade of at least C-.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": "Selected prose readings. The course will emphasize review of grammar and include Greek composition.",
 	"synonym": "48335",
 	"tags": [],
-	"title": "Greek Prose"
+	"title": "Greek Prose",
+	"type": "Course"
 }

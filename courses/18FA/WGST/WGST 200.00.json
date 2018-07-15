@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"SOANPERT",
 		"CCSTBINARY"
 	],
-	"title": "Gender, Power and the Pursuit of Knowledge"
+	"title": "Gender, Power and the Pursuit of Knowledge",
+	"type": "Course"
 }

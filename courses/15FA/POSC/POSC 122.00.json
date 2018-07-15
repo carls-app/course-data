@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"AFAMPERT",
 		"POSIELECTIVE"
 	],
-	"title": "Politics in America: Liberty and Equality"
+	"title": "Politics in America: Liberty and Equality",
+	"type": "Course"
 }

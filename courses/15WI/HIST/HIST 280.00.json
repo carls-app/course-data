@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 30,
@@ -58,5 +59,6 @@
 		"FRSTELEC",
 		"FRENPERT"
 	],
-	"title": "African in the Arab World"
+	"title": "African in the Arab World",
+	"type": "Course"
 }

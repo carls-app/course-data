@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Vogel"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"POECUPAPP",
 		"POSI-PLI2"
 	],
-	"title": "Law and Society"
+	"title": "Law and Society",
+	"type": "Course"
 }

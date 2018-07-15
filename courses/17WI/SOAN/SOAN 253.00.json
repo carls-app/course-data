@@ -6,7 +6,7 @@
 	"instructors": [
 		"Janell Rothenberg"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"MESTGRP1",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Oil, Sand, Water: Environmental Anthropology of the Middle East"
+	"title": "Oil, Sand, Water: Environmental Anthropology of the Middle East",
+	"type": "Course"
 }

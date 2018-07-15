@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"FRENPERT",
 		"HISTPERT"
 	],
-	"title": "European Economic History"
+	"title": "European Economic History",
+	"type": "Course"
 }

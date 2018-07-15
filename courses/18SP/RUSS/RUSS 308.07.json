@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "308.07",
+	"number": "308",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 7,
@@ -22,10 +23,8 @@
 	"summary": "This course is taken in combination with Russian 307. Students focus on corrective pronunciation and theory and practice of Russian intonation. This course is conducted by members of Moscow State University Philological Faculty and supervised by the program director.",
 	"synonym": "46889",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Moscow Program: Advanced Phonetics and Intonation"
+	"title": "Moscow Program: Advanced Phonetics and Intonation",
+	"type": "Course"
 }

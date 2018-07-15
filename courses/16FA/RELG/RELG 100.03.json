@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -44,5 +45,6 @@
 	"tags": [
 		"RELGTHLVDRELCLT"
 	],
-	"title": "Religion and the American Landscape"
+	"title": "Religion and the American Landscape",
+	"type": "Course"
 }

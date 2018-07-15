@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Writing Memoir"
+	"title": "Writing Memoir",
+	"type": "Course"
 }

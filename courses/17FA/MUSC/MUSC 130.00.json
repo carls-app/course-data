@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Weitz Center M215"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTPCC",
 		"AMSTREI"
 	],
-	"title": "The History of Jazz"
+	"title": "The History of Jazz",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Middle East Studies minor",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "49709",
 	"tags": [],
-	"title": "Middle East Studies Capstone"
+	"title": "Middle East Studies Capstone",
+	"type": "Course"
 }

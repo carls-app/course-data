@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Introduction to Statistical Inference"
+	"title": "Introduction to Statistical Inference",
+	"type": "Course"
 }

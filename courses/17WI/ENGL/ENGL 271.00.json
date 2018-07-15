@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -25,6 +25,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Poetry Workshop"
+	"title": "Poetry Workshop",
+	"type": "Course"
 }

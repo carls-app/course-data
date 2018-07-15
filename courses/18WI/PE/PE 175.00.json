@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 40,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "48108",
 	"tags": [],
-	"title": "West Coast Swing, Beginning"
+	"title": "West Coast Swing, Beginning",
+	"type": "Course"
 }

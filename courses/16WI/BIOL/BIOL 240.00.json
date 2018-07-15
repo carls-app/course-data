@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea K Kalis"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 40,
@@ -46,5 +47,6 @@
 		"PPOLPH",
 		"BIOLMOLCELL"
 	],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

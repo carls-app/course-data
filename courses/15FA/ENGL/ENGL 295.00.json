@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"summary": "Required of students majoring in English, this course explores practical and theoretical issues in literary analysis and contemporary criticism. Not open to first year students.",
 	"synonym": "41217",
 	"tags": [],
-	"title": "Critical Methods"
+	"title": "Critical Methods",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"ENTSLPES",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Climate Science"
+	"title": "Climate Science",
+	"type": "Course"
 }

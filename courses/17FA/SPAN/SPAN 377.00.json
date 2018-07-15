@@ -6,7 +6,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "377.00",
+	"number": "377",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,5 +44,6 @@
 		"LTAMLIT",
 		"LTAM300LIT"
 	],
-	"title": "History and Subjectivity in Latin American Poetry"
+	"title": "History and Subjectivity in Latin American Poetry",
+	"type": "Course"
 }

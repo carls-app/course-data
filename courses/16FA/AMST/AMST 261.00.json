@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kalia Yang"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"AMMUGROUP3",
 		"AMSTTOPICAL1"
 	],
-	"title": "Unwritten America"
+	"title": "Unwritten America",
+	"type": "Course"
 }

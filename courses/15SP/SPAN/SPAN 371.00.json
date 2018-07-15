@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"LITFORLANG",
 		"ENGLFORLIT"
 	],
-	"title": "Yours Truly: The Body of the Letter"
+	"title": "Yours Truly: The Body of the Letter",
+	"type": "Course"
 }

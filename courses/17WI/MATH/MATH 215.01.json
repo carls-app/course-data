@@ -8,7 +8,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 86,
 		"total": 90,
@@ -48,5 +49,6 @@
 	"tags": [
 		"ENTSQUANTV"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

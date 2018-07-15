@@ -6,7 +6,7 @@
 	"instructors": [
 		"Miaki Habuka"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Japanese 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -41,18 +42,10 @@
 	"summary": "This course advances students' proficiency in the four skills, of speaking, listening, reading and writing in Japanese. The course also integrates elements of traditional Japanese civilization and modern Japanese society, emphasizing cultural understanding and situationally appropriate language use.",
 	"synonym": "48393",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"ASSTLANG",
+		"ASSTEAST"
 	],
-	"title": "Japanese in Cultural Context"
+	"title": "Japanese in Cultural Context",
+	"type": "Course"
 }

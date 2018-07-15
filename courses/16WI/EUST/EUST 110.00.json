@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -52,5 +53,6 @@
 		"FRENPERT",
 		"FFSTSOCSCI"
 	],
-	"title": "The Nation State in Europe"
+	"title": "The Nation State in Europe",
+	"type": "Course"
 }

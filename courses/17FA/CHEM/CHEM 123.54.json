@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Calderone"
 	],
-	"number": "123.54",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 16,
 		"total": 24,
@@ -53,5 +54,6 @@
 		"BIOCCORE",
 		"STEMCHEM"
 	],
-	"title": "Principles of Chemistry I and Lab"
+	"title": "Principles of Chemistry I and Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"LTAMPERT",
 		"CCSTREGIONAL"
 	],
-	"title": "History of Human Rights"
+	"title": "History of Human Rights",
+	"type": "Course"
 }

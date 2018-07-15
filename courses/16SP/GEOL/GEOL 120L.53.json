@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "120L.53",
+	"number": "120L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "41322",
 	"tags": [],
-	"title": "Intro Environmental Geol Lab"
+	"title": "Intro Environmental Geol Lab",
+	"type": "Lab"
 }

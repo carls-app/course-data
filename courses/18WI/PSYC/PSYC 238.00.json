@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adam L Putnam"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -49,5 +50,6 @@
 		"PSYCCORE",
 		"PSYCCGST"
 	],
-	"title": "Memory Processes"
+	"title": "Memory Processes",
+	"type": "Course"
 }

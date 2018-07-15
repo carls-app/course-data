@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter N Gregory"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"RELGTHTHGHTPHIL",
 		"RELGTHLVDRELCLT"
 	],
-	"title": "Buddhism and the Beats"
+	"title": "Buddhism and the Beats",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"POSI-AREAS",
 		"RUSSIANPERT"
 	],
-	"title": "Russia through Wars and Revolutions"
+	"title": "Russia through Wars and Revolutions",
+	"type": "Course"
 }

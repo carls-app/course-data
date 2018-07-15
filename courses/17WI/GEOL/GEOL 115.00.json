@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dan Maxbauer"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -44,5 +45,6 @@
 		"ENTSINTRO",
 		"ARCNPERT"
 	],
-	"title": "Climate Change in Geology"
+	"title": "Climate Change in Geology",
+	"type": "Course"
 }

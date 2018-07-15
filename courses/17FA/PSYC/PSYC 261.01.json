@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gisel Flores-Montoya"
 	],
-	"number": "261.01",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Olin 116"
@@ -27,6 +27,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"tags": [
 		"PSYCLAB"
 	],
-	"title": "Health Psychology Lab"
+	"title": "Health Psychology Lab",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -52,46 +47,17 @@
 	"summary": null,
 	"synonym": "49368",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"SPAN220-290",
+		"AMSTTOPICAL2",
+		"ENGLFORLIT",
+		"LTAMPERT",
+		"AMSTAMERWRLD",
+		"AMSTPCC",
+		"AMSTREI",
+		"CCSTENCTR"
 	],
-	"title": "Latin American Authors Write the U.S."
+	"title": "Latin American Authors Write the U.S.",
+	"type": "Course"
 }

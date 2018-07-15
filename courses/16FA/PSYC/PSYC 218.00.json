@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -43,5 +44,6 @@
 		"PSYCCORE",
 		"PSYCBIOBEH"
 	],
-	"title": "Hormones and Behavior"
+	"title": "Hormones and Behavior",
+	"type": "Course"
 }

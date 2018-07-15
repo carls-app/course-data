@@ -7,7 +7,7 @@
 		"Chico Zimmerman",
 		"Clara S Hardy"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -23,6 +23,7 @@
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "49399",
 	"tags": [],
-	"title": "Weekly Latin"
+	"title": "Weekly Latin",
+	"type": "Course"
 }

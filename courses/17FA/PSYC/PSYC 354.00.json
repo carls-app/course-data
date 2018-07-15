@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Counseling Psychology"
+	"title": "Counseling Psychology",
+	"type": "Course"
 }

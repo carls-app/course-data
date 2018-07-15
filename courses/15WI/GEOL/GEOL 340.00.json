@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -54,5 +55,6 @@
 		"SPECINTSUSTAIN",
 		"ENTSTOPICAL"
 	],
-	"title": "Hydrology"
+	"title": "Hydrology",
+	"type": "Course"
 }

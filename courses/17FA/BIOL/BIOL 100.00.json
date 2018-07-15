@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -37,6 +37,7 @@
 		"AI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "49370",
 	"tags": [],
-	"title": "Viruses: Invisible Invaders"
+	"title": "Viruses: Invisible Invaders",
+	"type": "Course"
 }

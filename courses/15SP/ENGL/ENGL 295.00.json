@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": "Required of students majoring in English, this course explores practical and theoretical issues in literary analysis and contemporary criticism. Not open to first year students.",
 	"synonym": "37976",
 	"tags": [],
-	"title": "Critical Methods"
+	"title": "Critical Methods",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "204.10",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "10",
 	"size": {
 		"registered": 4,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"tags": [
 		"SPAN204-219"
 	],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

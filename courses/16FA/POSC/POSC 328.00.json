@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"POSI-LPS",
 		"PPOLFP"
 	],
-	"title": "Foreign Policy Analysis*"
+	"title": "Foreign Policy Analysis*",
+	"type": "Course"
 }

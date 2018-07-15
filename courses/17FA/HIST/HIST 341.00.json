@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"POSI-DSS2",
 		"POSI-AREAS2"
 	],
-	"title": "The Russian Revolution: A Centenary Perspective"
+	"title": "The Russian Revolution: A Centenary Perspective",
+	"type": "Course"
 }

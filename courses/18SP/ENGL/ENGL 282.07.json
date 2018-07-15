@@ -8,20 +8,15 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "282.07",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -31,14 +26,9 @@
 	"summary": null,
 	"synonym": "46874",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLT1",
+		"EUSTCNTRY"
 	],
-	"title": "London Program:  London Theater"
+	"title": "London Program:  London Theater",
+	"type": "Course"
 }

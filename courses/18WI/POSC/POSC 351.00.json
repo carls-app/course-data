@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"AMSTDAC",
 		"AMSTREI"
 	],
-	"title": "Political Theory of Martin Luther King, Jr."
+	"title": "Political Theory of Martin Luther King, Jr.",
+	"type": "Course"
 }

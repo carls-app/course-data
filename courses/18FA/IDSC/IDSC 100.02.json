@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -47,5 +48,6 @@
 	"summary": null,
 	"synonym": "52453",
 	"tags": [],
-	"title": "Science in the News"
+	"title": "Science in the News",
+	"type": "Course"
 }

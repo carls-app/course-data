@@ -6,7 +6,7 @@
 	"instructors": [
 		"Frank T McNally"
 	],
-	"number": "400.06",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "06",
 	"size": {
 		"registered": 1,
 		"total": 4,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "49123",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

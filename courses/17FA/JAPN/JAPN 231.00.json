@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"CAMSXDEPT",
 		"CAMSELECTIVE"
 	],
-	"title": "Japanese Cinema in Translation"
+	"title": "Japanese Cinema in Translation",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103",
@@ -36,6 +36,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"CCSTGLOBAL",
 		"AFAMLITARTANLYS"
 	],
-	"title": "Music of Africa"
+	"title": "Music of Africa",
+	"type": "Course"
 }

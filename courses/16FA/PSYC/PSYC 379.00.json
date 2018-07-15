@@ -7,7 +7,7 @@
 		"Steven F Kozberg",
 		"Lawrence Wichlinski"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -28,6 +28,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Child and Adolescent Psychiatry"
+	"title": "Child and Adolescent Psychiatry",
+	"type": "Course"
 }

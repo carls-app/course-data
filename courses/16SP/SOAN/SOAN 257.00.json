@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"POSI-AREAS",
 		"WGSTADDL"
 	],
-	"title": "Culture and Politics in India"
+	"title": "Culture and Politics in India",
+	"type": "Course"
 }

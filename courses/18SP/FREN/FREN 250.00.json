@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: French 204",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "49283",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"EUSTCNTRY",
+		"FFSTLIT",
+		"FRSTELEC"
 	],
-	"title": "French History in 10 Objects"
+	"title": "French History in 10 Objects",
+	"type": "Course"
 }

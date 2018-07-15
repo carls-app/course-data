@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elena C McGrath"
 	],
-	"number": "173.00",
+	"number": "173",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"LTAMELECTIVE",
 		"LTAMSOCSCI"
 	],
-	"title": "Disaster and Society in Latin America"
+	"title": "Disaster and Society in Latin America",
+	"type": "Course"
 }

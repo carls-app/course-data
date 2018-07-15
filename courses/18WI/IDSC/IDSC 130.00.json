@@ -6,7 +6,7 @@
 	"instructors": [
 		"Austin P Mason"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Weitz Center 026"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -44,5 +45,6 @@
 	"summary": "The digital world is infiltrating the academy and profoundly disrupting the humanities, posing fundamental challenges to traditional models of university education, scholarly research, and academic publication. This course introduces the key concepts, debates and technologies that are shaping the Digital Humanities (DH) revolution, including text encoding, digital mapping (GIS), network analysis, data visualization, and the basic programming languages that power them all. Students in this class will learn to hack the humanities by making a collaborative, publishable DH project, while acquiring the skills and confidence necessary to actively participate in the digital world, both at the university and beyond.",
 	"synonym": "49576",
 	"tags": [],
-	"title": "Hacking the Humanities"
+	"title": "Hacking the Humanities",
+	"type": "Course"
 }

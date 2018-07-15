@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -29,6 +29,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Theory and Practice of American Studies"
+	"title": "Theory and Practice of American Studies",
+	"type": "Course"
 }

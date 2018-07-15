@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -39,5 +40,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "Advanced Japanese through Documentary Film"
+	"title": "Advanced Japanese through Documentary Film",
+	"type": "Course"
 }

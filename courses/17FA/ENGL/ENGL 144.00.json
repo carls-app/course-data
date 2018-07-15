@@ -9,7 +9,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"ENGLT1",
 		"ENGLF"
 	],
-	"title": "Shakespeare I"
+	"title": "Shakespeare I",
+	"type": "Course"
 }

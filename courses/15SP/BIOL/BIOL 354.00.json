@@ -9,7 +9,7 @@
 		"Charles E Crutchfield",
 		"Stephan G Zweifel"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Chemistry 233 and two upper division Biology courses (200 or 300-level) and instructor's permission required",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -34,5 +35,6 @@
 	"summary": "The course will cover the cellular and molecular biology of human skin in its normal and diseased states as it relates to a clinical presentation. Clinical dermatology and pathology will also be reviewed. The course style will be patterned along the lines as if it were a medical school course. Additionally, students will be introduced to many aspects of successfully negotiating medical school including introductions and possible \"field trips\" to the Mayo Clinic Medical School and/or University of Minnesota Medical School(s).",
 	"synonym": "38542",
 	"tags": [],
-	"title": "Human Cutaneous Biology"
+	"title": "Human Cutaneous Biology",
+	"type": "Course"
 }

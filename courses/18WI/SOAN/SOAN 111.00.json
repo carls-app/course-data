@@ -8,7 +8,7 @@
 	"instructors": [
 		"Wes D Markofski"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -36,6 +36,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"AMMUGROUP1",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

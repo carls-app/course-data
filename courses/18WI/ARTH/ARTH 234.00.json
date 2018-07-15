@@ -8,7 +8,7 @@
 	"instructors": [
 		"Wendy M Sepponen"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"MARSSUPP",
 		"EUSTTRANNATL"
 	],
-	"title": "Experiencing Early Modern Sculpture"
+	"title": "Experiencing Early Modern Sculpture",
+	"type": "Course"
 }

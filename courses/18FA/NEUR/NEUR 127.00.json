@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -29,6 +29,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -40,5 +41,6 @@
 	"tags": [
 		"NEURCORE"
 	],
-	"title": "Foundations in Neuroscience"
+	"title": "Foundations in Neuroscience",
+	"type": "Course"
 }

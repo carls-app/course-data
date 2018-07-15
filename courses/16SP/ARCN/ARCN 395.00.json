@@ -7,7 +7,7 @@
 		"Alex R Knodell",
 		"Mary E Savina"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -37,5 +38,6 @@
 		"MARSSUPP",
 		"SPECINTETHICS"
 	],
-	"title": "Archaeology: Science, Ethics, Nationalism and Cultural Property"
+	"title": "Archaeology: Science, Ethics, Nationalism and Cultural Property",
+	"type": "Course"
 }

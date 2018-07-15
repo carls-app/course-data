@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"CAMSCORE07",
 		"CAMSELECTIVE"
 	],
-	"title": "Digital Foundations"
+	"title": "Digital Foundations",
+	"type": "Course"
 }

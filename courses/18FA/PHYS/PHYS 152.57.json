@@ -6,7 +6,7 @@
 	"department": "PHYS",
 	"id": "PHYS 152.57",
 	"instructors": [],
-	"number": "152.57",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -53,5 +54,6 @@
 		"ENTSINTRO",
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Environmental Physics & Lab"
+	"title": "Introduction to Physics: Environmental Physics & Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -60,5 +61,6 @@
 		"RELGTHLVDRELCLT",
 		"MESTGRP2"
 	],
-	"title": "Muslims and Modernity"
+	"title": "Muslims and Modernity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Danny Saathoff"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Boliou 044"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -40,5 +41,6 @@
 	"summary": "A basic course in metal design and fabrication of primarily jewelry forms and functional objects. Specific instruction will be given in developing the skills of forming, joining, and surface enrichment to achieve complex metal pieces. Using both natural and man-made objects as source material, the course complicates the concept of adornment and examines how jewelry forms relate to the human body. Found materials will be used in addition to traditional metals including copper, brass, and silver.",
 	"synonym": "40908",
 	"tags": [],
-	"title": "Metalsmithing"
+	"title": "Metalsmithing",
+	"type": "Course"
 }

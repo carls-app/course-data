@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 24,
@@ -49,5 +50,6 @@
 		"PSYCCORE",
 		"PSYCBIOBEH"
 	],
-	"title": "Behavioral Neuroscience"
+	"title": "Behavioral Neuroscience",
+	"type": "Course"
 }

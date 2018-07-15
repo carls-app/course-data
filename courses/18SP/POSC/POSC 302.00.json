@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christina E Farhart"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -45,46 +40,17 @@
 	"summary": null,
 	"synonym": "49416",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSIELECTIVE",
+		"POSI-DSS2",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"AMSTTOPICAL3",
+		"AFSTSI",
+		"AMSTAMERWRLD",
+		"AMSTSAP",
+		"AMSTDAC",
+		"AMSTREI"
 	],
-	"title": "Subordinated Politics and Intergroup Relations*"
+	"title": "Subordinated Politics and Intergroup Relations*",
+	"type": "Course"
 }

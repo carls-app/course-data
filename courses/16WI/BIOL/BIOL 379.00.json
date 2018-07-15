@@ -9,7 +9,7 @@
 		"Matt Rand",
 		"Stephan G Zweifel"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -44,5 +45,6 @@
 		"CGSCELECTIVE",
 		"NEURELEC"
 	],
-	"title": "Seminar: Behavioral Genetics"
+	"title": "Seminar: Behavioral Genetics",
+	"type": "Course"
 }

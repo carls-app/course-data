@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -35,6 +35,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ENTSQUANTV"
 	],
-	"title": "Introduction to Geospatial Analysis"
+	"title": "Introduction to Geospatial Analysis",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "177.00",
+	"number": "177",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165",
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -40,5 +41,6 @@
 	"summary": "Provides in-depth instruction in the Lindy Hop, a fun, energetic swing dance that developed from the jazz music of the 1920s and 1930s. Emphasizes lead-follow technique and social dance moves while providing an understanding of the dance's roots. Previous social dance experience is helpful but not required.",
 	"synonym": "40728",
 	"tags": [],
-	"title": "Swing Dance"
+	"title": "Swing Dance",
+	"type": "Course"
 }

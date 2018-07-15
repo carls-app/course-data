@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"SPECINTSOCTHGHT",
 		"CGSCELECTIVE"
 	],
-	"title": "Evolutionary and Developmental Trends in Cognition"
+	"title": "Evolutionary and Developmental Trends in Cognition",
+	"type": "Course"
 }

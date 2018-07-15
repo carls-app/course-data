@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -32,6 +32,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSI-DSS",
 		"POSI-PLI2"
 	],
-	"title": "Nietzsche: Beyond Good and Evil"
+	"title": "Nietzsche: Beyond Good and Evil",
+	"type": "Course"
 }

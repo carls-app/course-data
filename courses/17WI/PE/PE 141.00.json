@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": "This course is designed to give men and women the opportunity to play a variety of intramural sports together in a fun setting. Kickball, Dodgeball, Broomball, 3 v 3 basketball, Volleyball, Whiffle Ball, and other sports will be included. Open to all looking for an enjoyable workout and athletic social interaction.",
 	"synonym": "43807",
 	"tags": [],
-	"title": "Intramural Sports"
+	"title": "Intramural Sports",
+	"type": "Course"
 }

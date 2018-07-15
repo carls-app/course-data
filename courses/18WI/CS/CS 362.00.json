@@ -6,7 +6,7 @@
 	"instructors": [
 		"Layla K Oesper"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": "Recent advances in high-throughput experimental techniques have revolutionized how biologists measure DNA, RNA and protein. The size and complexity of the resulting datasets have led to a new era where computational methods are essential to answering important biological questions. This course focuses on the process of transforming biological problems into well formed computational questions and the algorithms to solve them. Topics include approaches to sequence comparison and alignment; molecular evolution and phylogenetics; DNA/RNA sequencing and assembly; and specific disease applications including cancer genomics.",
 	"synonym": "48930",
 	"tags": [],
-	"title": "Computational Biology"
+	"title": "Computational Biology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Hulings 115",
@@ -30,6 +30,7 @@
 	"prerequisites": "Prerequisite: Biology 125 & 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis; Concurrent registration in Biology 352",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "38541",
 	"tags": [],
-	"title": "Population Ecology Laboratory"
+	"title": "Population Ecology Laboratory",
+	"type": "Course"
 }

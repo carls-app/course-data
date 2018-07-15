@@ -6,7 +6,7 @@
 	"instructors": [
 		"Wes D Markofski"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "45595",
 	"tags": [],
-	"title": "Sociology of Religion"
+	"title": "Sociology of Religion",
+	"type": "Course"
 }

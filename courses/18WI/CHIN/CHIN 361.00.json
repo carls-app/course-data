@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lei Yang"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ASSTAL"
 	],
-	"title": "Advanced Chinese: Readings in Twentieth Century Literature"
+	"title": "Advanced Chinese: Readings in Twentieth Century Literature",
+	"type": "Course"
 }

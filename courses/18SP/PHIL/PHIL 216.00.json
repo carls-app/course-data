@@ -6,7 +6,7 @@
 	"instructors": [
 		"Claire M Griffin"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "49468",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"PHILTHEORY"
 	],
-	"title": "Nietzsche and Foucault: History, Truth, and Power"
+	"title": "Nietzsche and Foucault: History, Truth, and Power",
+	"type": "Course"
 }

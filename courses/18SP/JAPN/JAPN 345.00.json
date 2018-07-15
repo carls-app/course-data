@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Japanese 206 or the equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -46,26 +44,12 @@
 	"summary": "Introduction to modern Japanese short fiction in the original, with exposure to a variety of styles. Some practice in critical analysis and literary translation.",
 	"synonym": "48394",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EASTSUPP",
+		"LITFORLANG",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
-	"title": "Advanced Reading in Modern Japanese Literature: The Short Story"
+	"title": "Advanced Reading in Modern Japanese Literature: The Short Story",
+	"type": "Course"
 }

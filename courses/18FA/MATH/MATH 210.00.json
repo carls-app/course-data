@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael P Cohen"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51368",
 	"tags": [],
-	"title": "Calculus 3"
+	"title": "Calculus 3",
+	"type": "Course"
 }

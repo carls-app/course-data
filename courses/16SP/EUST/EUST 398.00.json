@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"EUSTCOLLOQ"
 	],
-	"title": "Senior Colloquium"
+	"title": "Senior Colloquium",
+	"type": "Course"
 }

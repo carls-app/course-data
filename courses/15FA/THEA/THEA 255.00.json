@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": "While widely read, Shakespeare's plays were written to be performed. Students in this class will explore approaches to performing Shakespeare using rehearsal techniques developed in British and American theaters with an emphasis on the use of the First Folio. Students will analyze texts and create performances that examine Shakespeare's use of rhetoric, imagery and poetic structure while examining some of his principle themes. Video and audio recordings will be used to develop a critical perspective on acting Shakespeare with an emphasis on the differing demands of live and recorded performance.",
 	"synonym": "41591",
 	"tags": [],
-	"title": "Acting Shakespeare"
+	"title": "Acting Shakespeare",
+	"type": "Course"
 }

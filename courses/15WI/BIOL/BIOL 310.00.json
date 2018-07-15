@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"SPECINTHEALTH",
 		"BIOCELEC"
 	],
-	"title": "Immunology"
+	"title": "Immunology",
+	"type": "Course"
 }

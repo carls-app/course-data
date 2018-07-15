@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -25,6 +25,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Short Story Workshop"
+	"title": "Short Story Workshop",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Weitz Center 026"
@@ -21,16 +21,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"ARP",
+		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -40,14 +35,9 @@
 	"summary": null,
 	"synonym": "49404",
 	"tags": [
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"AMSTDAC",
+		"AMSTREI"
 	],
-	"title": "Civic Engagement, Social Change, and the Participatory Video"
+	"title": "Civic Engagement, Social Change, and the Participatory Video",
+	"type": "Course"
 }

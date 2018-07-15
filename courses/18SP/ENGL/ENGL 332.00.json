@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one additional 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -50,30 +45,13 @@
 	"summary": null,
 	"synonym": "48555",
 	"tags": [
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		}
+		"ENGLT2",
+		"ENGLHE3",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"AMSTPCC",
+		"AMSTSAP"
 	],
-	"title": "Studies in American Literature: Faulkner, Hemingway, and Fitzgerald"
+	"title": "Studies in American Literature: Faulkner, Hemingway, and Fitzgerald",
+	"type": "Course"
 }

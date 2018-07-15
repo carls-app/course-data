@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Chinese 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"tags": [
 		"ASSTLANG"
 	],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

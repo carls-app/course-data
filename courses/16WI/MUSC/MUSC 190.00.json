@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Caviani"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center PL16",
@@ -32,6 +32,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 50,
@@ -41,5 +42,6 @@
 	"summary": "The Carleton Jazz Ensemble's focus is on improvisation and the fusion between jazz, rock, funk, and Latin influences. There is no predetermined instrumentation. Rather, the ensemble's size and instrumentation vary each term. String players, vocalists, and any brass or woodwind instrumentalists are welcome to register. The ensemble performs once each term.",
 	"synonym": "42625",
 	"tags": [],
-	"title": "Carleton Jazz Ensemble"
+	"title": "Carleton Jazz Ensemble",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meghan Tierney"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -54,10 +46,8 @@
 	"summary": null,
 	"synonym": "48699",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Empire in the Andes: Art of the Inka"
+	"title": "Empire in the Andes: Art of the Inka",
+	"type": "Course"
 }

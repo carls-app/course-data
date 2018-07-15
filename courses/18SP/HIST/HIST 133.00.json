@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -37,20 +37,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -60,30 +52,13 @@
 	"summary": null,
 	"synonym": "49418",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "CLASPERT",
-			"name": "Classics Pertinent"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"HISTANCNT/MDVL",
+		"HISTASIA",
+		"CLASPERT",
+		"MESTGRP1",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Crisis, Creativity, and Transformation in Late Antiquity"
+	"title": "Crisis, Creativity, and Transformation in Late Antiquity",
+	"type": "Course"
 }

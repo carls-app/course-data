@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 100 fall term. IDSC 198 02 in winter and spring requires instructor permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "48711",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

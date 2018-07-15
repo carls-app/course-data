@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"ENGLT1",
 		"ENGLHE1"
 	],
-	"title": "The Bible as Literature"
+	"title": "The Bible as Literature",
+	"type": "Course"
 }

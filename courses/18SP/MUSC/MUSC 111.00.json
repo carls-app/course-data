@@ -6,7 +6,7 @@
 	"instructors": [
 		"Megan E Sarno"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisite: the ability to read music is not necessary",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -50,14 +45,9 @@
 	"summary": null,
 	"synonym": "49896",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AMMUGROUP2",
+		"EUSTTRANNATL"
 	],
-	"title": "Western Art Music: The Last 1000 Years"
+	"title": "Western Art Music: The Last 1000 Years",
+	"type": "Course"
 }

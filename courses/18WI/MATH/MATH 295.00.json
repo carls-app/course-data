@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Thompson"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "49359",
 	"tags": [],
-	"title": "Numerical Analysis"
+	"title": "Numerical Analysis",
+	"type": "Course"
 }

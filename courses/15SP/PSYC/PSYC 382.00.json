@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam M Johnson"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Topics in Social and Personality: Endings"
+	"title": "Topics in Social and Personality: Endings",
+	"type": "Course"
 }

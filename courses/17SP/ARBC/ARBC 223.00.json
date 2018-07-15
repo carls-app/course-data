@@ -8,13 +8,14 @@
 	"instructors": [
 		"Issam Rafea"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Concurrent enrollment in Arabic 222",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -26,5 +27,6 @@
 	"tags": [
 		"MESTPERT"
 	],
-	"title": "Arab Music Workshop"
+	"title": "Arab Music Workshop",
+	"type": "Course"
 }

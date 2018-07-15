@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -32,6 +32,7 @@
 		"AI"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"POSI-LPS2",
 		"POSIELECTIVE"
 	],
-	"title": "American Elections of 2018"
+	"title": "American Elections of 2018",
+	"type": "Course"
 }

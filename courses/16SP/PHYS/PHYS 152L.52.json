@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "152L.52",
+	"number": "152L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "42394",
 	"tags": [],
-	"title": "Environmental Physics Lab"
+	"title": "Environmental Physics Lab",
+	"type": "Lab"
 }

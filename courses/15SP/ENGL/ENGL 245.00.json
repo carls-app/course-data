@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"SAST",
 		"ASSTSOUTH"
 	],
-	"title": "Bollywood Nation"
+	"title": "Bollywood Nation",
+	"type": "Course"
 }

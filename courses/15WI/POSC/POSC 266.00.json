@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"POSIELECTIVE",
 		"POECMIDWTD"
 	],
-	"title": "Urban Political Economy"
+	"title": "Urban Political Economy",
+	"type": "Course"
 }

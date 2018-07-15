@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Sattler"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -46,5 +47,6 @@
 		"ELECSTAT",
 		"STATSUPPER"
 	],
-	"title": "Real Analysis I"
+	"title": "Real Analysis I",
+	"type": "Course"
 }

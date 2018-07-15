@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Poppick"
 	],
-	"number": "215.02",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 31,
 		"total": 32,
@@ -49,5 +50,6 @@
 		"ENTSQUANTV",
 		"PPOLCORE"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

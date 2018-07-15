@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Japanese 206 or equivalent.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -40,5 +41,6 @@
 		"ASSTEAST",
 		"EASTSUPP"
 	],
-	"title": "Thinking about Environmental Issues in Japanese"
+	"title": "Thinking about Environmental Issues in Japanese",
+	"type": "Course"
 }

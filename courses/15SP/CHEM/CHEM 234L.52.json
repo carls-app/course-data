@@ -9,7 +9,7 @@
 		"Joe Chihade",
 		"Gretchen E Hofmeister"
 	],
-	"number": "234L.52",
+	"number": "234L",
 	"offerings": {
 		"locations": [
 			"Mudd 267"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 21,
 		"total": 22,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "38454",
 	"tags": [],
-	"title": "Organic Chemistry II Lab"
+	"title": "Organic Chemistry II Lab",
+	"type": "Lab"
 }

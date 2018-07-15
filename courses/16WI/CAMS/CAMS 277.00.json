@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"CAMSELECPROD",
 		"CAMSSTUPROD"
 	],
-	"title": "Television Studio Production"
+	"title": "Television Studio Production",
+	"type": "Course"
 }

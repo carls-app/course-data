@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Mudd 66",
@@ -39,6 +39,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 10,
@@ -50,5 +51,6 @@
 	"tags": [
 		"ARCNPERT"
 	],
-	"title": "Geology in the Field"
+	"title": "Geology in the Field",
+	"type": "Course"
 }

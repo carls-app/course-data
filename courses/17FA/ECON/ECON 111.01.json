@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"POECLOWER",
 		"PPOLCORE"
 	],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

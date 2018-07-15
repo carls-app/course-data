@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "224.59",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -39,16 +39,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or Chemistry 128",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -58,5 +53,6 @@
 	"summary": null,
 	"synonym": "49060",
 	"tags": [],
-	"title": "Principles of Chemistry II and Lab"
+	"title": "Principles of Chemistry II and Lab",
+	"type": "Course"
 }

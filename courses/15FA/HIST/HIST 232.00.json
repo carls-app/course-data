@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"FRENPERT",
 		"FFSTHISARTH"
 	],
-	"title": "Renaissance Worlds in France and Italy"
+	"title": "Renaissance Worlds in France and Italy",
+	"type": "Course"
 }

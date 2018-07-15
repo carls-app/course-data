@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"EUSTCNTRY",
 		"WGSTADDL"
 	],
-	"title": "The Gothic Spirit"
+	"title": "The Gothic Spirit",
+	"type": "Course"
 }

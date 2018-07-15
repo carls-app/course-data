@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"CCSTGLOBAL",
 		"RELGCHRISTNTRAD"
 	],
-	"title": "Introduction to Christianity"
+	"title": "Introduction to Christianity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Exley"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -36,6 +36,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"summary": "Fun fact: Computers can be built up entirely from a collection of transistors. This course will begin the process of doing just that. From transistors we'll build logic gates. From logic gates, we'll build RAM and adders. With adders, we'll build arithmetic logic units, and so on, up to microprocessors.",
 	"synonym": "39993",
 	"tags": [],
-	"title": "Digital Electronics"
+	"title": "Digital Electronics",
+	"type": "Course"
 }

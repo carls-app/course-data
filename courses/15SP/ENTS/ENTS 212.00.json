@@ -7,7 +7,7 @@
 		"Tsegaye H Nega",
 		"George Vrtis"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"ENTSFAES",
 		"ENTSFASCP"
 	],
-	"title": "Global Food Systems"
+	"title": "Global Food Systems",
+	"type": "Course"
 }

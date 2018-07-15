@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kevin A Wolfe"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -50,5 +51,6 @@
 		"AFAMINTERDISC",
 		"AFSTCORE"
 	],
-	"title": "The Postcolonial Imagination and Africana Thought"
+	"title": "The Postcolonial Imagination and Africana Thought",
+	"type": "Course"
 }

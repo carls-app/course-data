@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ahmed S Ibrahim"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"AFSTSI",
 		"AMSTAMERWRLD"
 	],
-	"title": "Global Minnesota: An Anthropology of Our State"
+	"title": "Global Minnesota: An Anthropology of Our State",
+	"type": "Course"
 }

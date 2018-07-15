@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephie Fried"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "44902",
 	"tags": [],
-	"title": "Advanced Topics in Macro Time Series"
+	"title": "Advanced Topics in Macro Time Series",
+	"type": "Course"
 }

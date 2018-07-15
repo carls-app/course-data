@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"EUSTCNTRY",
 		"ENGLLOE"
 	],
-	"title": "War and Peace"
+	"title": "War and Peace",
+	"type": "Course"
 }

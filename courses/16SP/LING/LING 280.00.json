@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Field Methods in Linguistics"
+	"title": "Field Methods in Linguistics",
+	"type": "Course"
 }

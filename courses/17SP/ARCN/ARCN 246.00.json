@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"ARBO 115"
@@ -31,6 +31,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"SOANPERT",
 		"MARSSUPP"
 	],
-	"title": "Archaeological Methods"
+	"title": "Archaeological Methods",
+	"type": "Course"
 }

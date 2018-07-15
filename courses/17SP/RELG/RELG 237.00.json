@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"RELGHINDUTRAD",
 		"RELGBUDDHSTTRAD"
 	],
-	"title": "Yoga: Religion, History, Practice"
+	"title": "Yoga: Religion, History, Practice",
+	"type": "Course"
 }

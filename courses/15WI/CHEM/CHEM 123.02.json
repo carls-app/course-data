@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "123.02",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -48,6 +48,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -59,5 +60,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Principles of Chemistry with Problem Solving"
+	"title": "Principles of Chemistry with Problem Solving",
+	"type": "Course"
 }

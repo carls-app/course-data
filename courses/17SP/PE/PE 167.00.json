@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "167.00",
+	"number": "167",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "43856",
 	"tags": [],
-	"title": "Social Dance I"
+	"title": "Social Dance I",
+	"type": "Course"
 }

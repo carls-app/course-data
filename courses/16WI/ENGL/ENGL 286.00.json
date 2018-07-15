@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D Tortorello"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"AMSTTOPICAL2",
 		"ENGLCWWTGWKSHP"
 	],
-	"title": "Eat the Story"
+	"title": "Eat the Story",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AFSTPERT",
 		"SASTSUPPSI"
 	],
-	"title": "Ethnic Conflict"
+	"title": "Ethnic Conflict",
+	"type": "Course"
 }

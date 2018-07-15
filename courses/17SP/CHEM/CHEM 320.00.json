@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Calderone"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 40,
@@ -45,5 +46,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Biological Chemistry"
+	"title": "Biological Chemistry",
+	"type": "Course"
 }

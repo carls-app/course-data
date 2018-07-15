@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "185.01",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35"
@@ -34,6 +34,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "44065",
 	"tags": [],
-	"title": "Carleton Choir: Bella Cantemus"
+	"title": "Carleton Choir: Bella Cantemus",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -46,5 +47,6 @@
 		"AMSTSAP",
 		"AMSTPCC"
 	],
-	"title": "Postmodern American Fiction"
+	"title": "Postmodern American Fiction",
+	"type": "Course"
 }

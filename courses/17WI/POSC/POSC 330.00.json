@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"POSIELECTIVE",
 		"POSI-LPS2"
 	],
-	"title": "The Complexity of Politics*"
+	"title": "The Complexity of Politics*",
+	"type": "Course"
 }

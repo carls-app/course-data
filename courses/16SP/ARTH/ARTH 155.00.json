@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"MARSSUPP",
 		"MESTGRP2"
 	],
-	"title": "Islamic Art and Architecture"
+	"title": "Islamic Art and Architecture",
+	"type": "Course"
 }

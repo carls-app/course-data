@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MARSCORE"
 	],
-	"title": "Medieval Latin"
+	"title": "Medieval Latin",
+	"type": "Course"
 }

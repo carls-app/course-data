@@ -9,7 +9,7 @@
 	"instructors": [
 		"Daphne L McCoy"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -32,6 +32,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "A physical exploration at the introductory level of the elements of dance: time, motion, space, shape and energy. Students are challenged physically as they increase their bodily awareness, balance, control, strength and flexibility and get a glimpse of the art of dance.",
 	"synonym": "44851",
 	"tags": [],
-	"title": "Modern Dance I"
+	"title": "Modern Dance I",
+	"type": "Course"
 }

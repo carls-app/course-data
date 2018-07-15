@@ -6,7 +6,7 @@
 	"instructors": [
 		"Katie L Bashore"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Introduction to LGBT/Queer Studies"
+	"title": "Introduction to LGBT/Queer Studies",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -49,5 +50,6 @@
 		"MARSSUPP",
 		"MARSCORE"
 	],
-	"title": "Roman Archaeology and Art"
+	"title": "Roman Archaeology and Art",
+	"type": "Course"
 }

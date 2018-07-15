@@ -6,7 +6,7 @@
 	"instructors": [
 		"John B Lyon"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"CAMSXDEPT",
 		"FRSTELEC"
 	],
-	"title": "Introduction to Critical Methods: Structure, Gender, Culture"
+	"title": "Introduction to Critical Methods: Structure, Gender, Culture",
+	"type": "Course"
 }

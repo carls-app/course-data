@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -43,5 +44,6 @@
 		"ASSTPERT",
 		"ASSTMETH"
 	],
-	"title": "Methods of Political Research"
+	"title": "Methods of Political Research",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "159.00",
+	"number": "159",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -52,5 +53,6 @@
 		"FRENPERT",
 		"FRSTELEC"
 	],
-	"title": "\"The Age of Isms\" - Ideals, Ideas and Ideologies in Modern Europe"
+	"title": "\"The Age of Isms\" - Ideals, Ideas and Ideologies in Modern Europe",
+	"type": "Course"
 }

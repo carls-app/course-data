@@ -6,7 +6,7 @@
 	"instructors": [
 		"Janet L Polasky"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 35,
@@ -48,5 +49,6 @@
 		"FRSTELEC",
 		"CCSTENCTR"
 	],
-	"title": "Women in Modern Europe"
+	"title": "Women in Modern Europe",
+	"type": "Course"
 }

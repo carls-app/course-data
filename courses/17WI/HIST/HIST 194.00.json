@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Adler"
 	],
-	"number": "194.00",
+	"number": "194",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -43,5 +44,6 @@
 		"HISTENVIRHEALTH",
 		"AMSTTOPICAL2"
 	],
-	"title": "The Making of the \"Pacific World\""
+	"title": "The Making of the \"Pacific World\"",
+	"type": "Course"
 }

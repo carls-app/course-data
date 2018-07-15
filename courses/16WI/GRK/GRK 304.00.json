@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "304.00",
+	"number": "304",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"LITFORLANG",
 		"ENGLLOE"
 	],
-	"title": "Greek Tragedy for Advanced Students"
+	"title": "Greek Tragedy for Advanced Students",
+	"type": "Course"
 }

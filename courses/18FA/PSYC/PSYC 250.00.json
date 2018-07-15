@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"PSYCCORE",
 		"PSYCSDPCH"
 	],
-	"title": "Developmental Psychology"
+	"title": "Developmental Psychology",
+	"type": "Course"
 }

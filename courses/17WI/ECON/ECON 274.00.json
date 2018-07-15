@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"POECUPAPP",
 		"PPOLECON"
 	],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luis A Herran Avila"
 	],
-	"number": "171.00",
+	"number": "171",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"POSI-AREAS2",
 		"CCSTENCTR"
 	],
-	"title": "Latin America and the U.S."
+	"title": "Latin America and the U.S.",
+	"type": "Course"
 }

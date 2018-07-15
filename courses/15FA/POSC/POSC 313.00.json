@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven G Poskanzer"
 	],
-	"number": "313.00",
+	"number": "313",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,6 +31,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"POSI-PLI2",
 		"PPOLEDUC"
 	],
-	"title": "Legal Issues in Higher Education"
+	"title": "Legal Issues in Higher Education",
+	"type": "Course"
 }

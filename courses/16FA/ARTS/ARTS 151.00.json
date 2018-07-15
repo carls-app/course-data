@@ -8,7 +8,7 @@
 	"instructors": [
 		"Danny Saathoff"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Boliou 044"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "46130",
 	"tags": [],
-	"title": "Metalsmithing"
+	"title": "Metalsmithing",
+	"type": "Course"
 }

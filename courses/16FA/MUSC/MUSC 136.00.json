@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"AMSTTOPICAL1",
 		"AFAMPERT"
 	],
-	"title": "History of Rock"
+	"title": "History of Rock",
+	"type": "Course"
 }

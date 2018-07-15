@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Psychology of Spoken Words"
+	"title": "Psychology of Spoken Words",
+	"type": "Course"
 }

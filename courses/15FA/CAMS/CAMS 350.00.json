@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"CAMS300THEORY",
 		"CAMSELECTIVE"
 	],
-	"title": "Visual Studies Seminar"
+	"title": "Visual Studies Seminar",
+	"type": "Course"
 }

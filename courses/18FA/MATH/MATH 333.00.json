@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Combinatorial Theory"
+	"title": "Combinatorial Theory",
+	"type": "Course"
 }

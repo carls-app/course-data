@@ -9,7 +9,7 @@
 		"Juliane Schicker",
 		"Seth Elliott Meyer"
 	],
-	"number": "101.02",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 16,
@@ -54,5 +55,6 @@
 	"summary": "This course stresses a firm understanding of the basic structural patterns of the German language through reading, writing, speaking, and listening drills. For students with no previous knowledge of German or for those whose test scores indicate that this is the appropriate level of placement.",
 	"synonym": "52428",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

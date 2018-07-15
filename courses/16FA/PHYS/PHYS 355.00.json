@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": "Lagrangian and Hamiltonian methods including central force motion, coupled harmonic oscillators, and the study of continuous systems. Additional subjects may include fluid dynamics, classical field theory or other specialized topics.",
 	"synonym": "45766",
 	"tags": [],
-	"title": "Topics in Advanced Classical Mechanics"
+	"title": "Topics in Advanced Classical Mechanics",
+	"type": "Course"
 }

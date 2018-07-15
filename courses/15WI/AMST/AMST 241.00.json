@@ -6,7 +6,7 @@
 	"instructors": [
 		"Audrey S Russek"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTTOPICAL2"
 	],
-	"title": "American Food?"
+	"title": "American Food?",
+	"type": "Course"
 }

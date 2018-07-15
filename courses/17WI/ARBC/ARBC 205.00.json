@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Arabic 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"tags": [
 		"MDLEPERT"
 	],
-	"title": "Intermediate Arabic"
+	"title": "Intermediate Arabic",
+	"type": "Course"
 }

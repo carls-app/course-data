@@ -6,7 +6,7 @@
 	"instructors": [
 		"Claire M Griffin"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"PPOLCORE",
 		"PHILCORE"
 	],
-	"title": "Ethics"
+	"title": "Ethics",
+	"type": "Course"
 }

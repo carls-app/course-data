@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 40,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

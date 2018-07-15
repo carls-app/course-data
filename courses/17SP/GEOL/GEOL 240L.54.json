@@ -7,7 +7,7 @@
 		"Sarah J Titus",
 		"Bill Titus"
 	],
-	"number": "240L.54",
+	"number": "240L",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 10,
 		"total": 14,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "47659",
 	"tags": [],
-	"title": "Geophysics Lab"
+	"title": "Geophysics Lab",
+	"type": "Lab"
 }

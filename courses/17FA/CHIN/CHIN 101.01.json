@@ -7,7 +7,7 @@
 		"Mark Hansell",
 		"Lei Yang"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 16,
@@ -54,5 +55,6 @@
 	"tags": [
 		"ASSTLANG"
 	],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

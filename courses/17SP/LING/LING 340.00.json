@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Topics in Semantics"
+	"title": "Topics in Semantics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -48,5 +49,6 @@
 	"tags": [
 		"PSYCMETHODS"
 	],
-	"title": "Measurement and Data Analysis in Psychology"
+	"title": "Measurement and Data Analysis in Psychology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -46,5 +47,6 @@
 		"ELECSTAT",
 		"STATSUPPER"
 	],
-	"title": "Advanced Linear Algebra"
+	"title": "Advanced Linear Algebra",
+	"type": "Course"
 }

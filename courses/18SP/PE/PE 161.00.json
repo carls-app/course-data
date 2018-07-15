@@ -9,7 +9,7 @@
 		"Mary Brandl",
 		"Linda K Luedke"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -24,12 +24,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -39,5 +37,6 @@
 	"summary": "Course consists of learning basic techniques (kicking, striking, blocking and shifting moves), analyzing and decision making in a crisis, and the role body language, eye contact and assertiveness can play in threatening and attack situations. There will be controlled practice drills with partners. Required $10 book fee will be automatically charged on tuition bill.",
 	"synonym": "48149",
 	"tags": [],
-	"title": "Self Defense for Women"
+	"title": "Self Defense for Women",
+	"type": "Course"
 }

@@ -8,13 +8,14 @@
 	"instructors": [
 		"Luciano H Battaglini"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "37738",
 	"tags": [],
-	"title": "Tennis Intercollegiate, Women"
+	"title": "Tennis Intercollegiate, Women",
+	"type": "Course"
 }

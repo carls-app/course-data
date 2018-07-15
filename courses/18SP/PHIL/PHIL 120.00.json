@@ -6,7 +6,7 @@
 	"instructors": [
 		"Claire M Griffin"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "49735",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Philosophy of Sex"
+	"title": "Philosophy of Sex",
+	"type": "Course"
 }

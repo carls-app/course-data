@@ -6,7 +6,7 @@
 	"instructors": [
 		"Wendy M Sepponen"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"MARSCORE",
 		"MARSSUPP"
 	],
-	"title": "Introduction to Art History II"
+	"title": "Introduction to Art History II",
+	"type": "Course"
 }

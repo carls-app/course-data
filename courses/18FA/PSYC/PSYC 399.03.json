@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "399.03",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Several 200-level Psychology courses and senior Psychology major",
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -40,5 +41,6 @@
 	"tags": [
 		"PSYCCAPST"
 	],
-	"title": "Capstone Seminar"
+	"title": "Capstone Seminar",
+	"type": "Course"
 }

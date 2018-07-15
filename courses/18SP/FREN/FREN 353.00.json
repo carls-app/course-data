@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "49343",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"EUSTCNTRY",
+		"EUSTTRANNATL",
+		"FFSTLIT"
 	],
-	"title": "The French Chanson"
+	"title": "The French Chanson",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"tags": [
 		"BIOLELECTIVE"
 	],
-	"title": "Vertebrate Morphology"
+	"title": "Vertebrate Morphology",
+	"type": "Course"
 }

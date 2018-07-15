@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rafe Jones"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "45886",
 	"tags": [],
-	"title": "Topics in the Theory of Elliptic Curves"
+	"title": "Topics in the Theory of Elliptic Curves",
+	"type": "Course"
 }

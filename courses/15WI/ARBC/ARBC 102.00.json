@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Arabic 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -51,5 +52,6 @@
 	"summary": "This course sequence introduces non-Arabic speakers to the sounds, script, and basic grammar of Arabic--the language of 200 million speakers in the Arab world and the liturgical language of over a billion Muslims. Students will develop basic listening, speaking, reading and writing skills in Modern Standard Arabic. Classes will incorporate readings and audio-visual material from contemporary Arabic media, as well as popular music.",
 	"synonym": "39537",
 	"tags": [],
-	"title": "Elementary Arabic"
+	"title": "Elementary Arabic",
+	"type": "Course"
 }

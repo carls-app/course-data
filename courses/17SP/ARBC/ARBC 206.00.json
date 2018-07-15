@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Arabic 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"MDLEPERT"
 	],
-	"title": "Arabic in Cultural Context"
+	"title": "Arabic in Cultural Context",
+	"type": "Course"
 }

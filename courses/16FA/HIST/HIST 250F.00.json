@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "250F.00",
+	"number": "250F",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"tags": [
 		"EUSTCNTRY"
 	],
-	"title": "Modern Germany-FLAC German Trailer"
+	"title": "Modern Germany-FLAC German Trailer",
+	"type": "FLAC"
 }

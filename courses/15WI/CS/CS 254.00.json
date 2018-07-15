@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 40,
@@ -47,5 +48,6 @@
 		"LINGPERT",
 		"NEURELEC"
 	],
-	"title": "Computability and Complexity"
+	"title": "Computability and Complexity",
+	"type": "Course"
 }

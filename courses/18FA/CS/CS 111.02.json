@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 34,
@@ -48,5 +49,6 @@
 	"tags": [
 		"CGSCCORE"
 	],
-	"title": "Introduction to Computer Science"
+	"title": "Introduction to Computer Science",
+	"type": "Course"
 }

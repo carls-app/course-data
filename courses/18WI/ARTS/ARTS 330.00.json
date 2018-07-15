@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael C Helke"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "48237",
 	"tags": [],
-	"title": "Advanced Ceramics"
+	"title": "Advanced Ceramics",
+	"type": "Course"
 }

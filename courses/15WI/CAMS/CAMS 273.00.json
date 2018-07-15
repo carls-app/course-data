@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rini Y Keagy"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Weitz Center 026",
@@ -30,6 +30,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"CAMSSTUPROD",
 		"CAMSELECPROD"
 	],
-	"title": "Digital Editing Workshop"
+	"title": "Digital Editing Workshop",
+	"type": "Course"
 }

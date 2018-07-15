@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Greek 204 or equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "52325",
 	"tags": [],
-	"title": "Weekly Greek"
+	"title": "Weekly Greek",
+	"type": "Course"
 }

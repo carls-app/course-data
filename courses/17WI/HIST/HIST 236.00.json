@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -58,5 +59,6 @@
 		"FRENPERT",
 		"FFSTHISARTH"
 	],
-	"title": "Women and Gender in Europe before the French Revolution"
+	"title": "Women and Gender in Europe before the French Revolution",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephie Fried"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -55,5 +56,6 @@
 		"ASSTSS",
 		"PPOLECON"
 	],
-	"title": "Growth and Development"
+	"title": "Growth and Development",
+	"type": "Course"
 }

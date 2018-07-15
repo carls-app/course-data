@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSIELECTIVE",
 		"POSI-PLI2"
 	],
-	"title": "Imagination in Politics"
+	"title": "Imagination in Politics",
+	"type": "Course"
 }

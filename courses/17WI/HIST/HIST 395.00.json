@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"POECUPWTD",
 		"POSI-LPS2"
 	],
-	"title": "The Global Cold War"
+	"title": "The Global Cold War",
+	"type": "Course"
 }

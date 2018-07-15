@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"CCSTREGIONAL",
 		"POSI-AREAS2"
 	],
-	"title": "Issues in Latin American Studies"
+	"title": "Issues in Latin American Studies",
+	"type": "Course"
 }

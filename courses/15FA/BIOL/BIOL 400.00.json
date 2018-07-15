@@ -9,7 +9,7 @@
 		"Mark McKone",
 		"Stephan G Zweifel"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 60,
@@ -34,5 +35,6 @@
 	"summary": "Preparation and submission of the written portion of the Integrative Exercise. Continuing course (fall or winter). Oral examination, evaluation of the Integrative Exercise, and participation in visiting speakers seminars (spring).",
 	"synonym": "40973",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

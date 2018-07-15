@@ -6,7 +6,7 @@
 	"instructors": [
 		"Wes D Markofski"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses number 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -50,26 +45,12 @@
 	"summary": null,
 	"synonym": "49261",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSI-DSS2",
+		"EDUCCLUSTER2",
+		"PPOLSP",
+		"AMSTDAC",
+		"AMSTREI"
 	],
-	"title": "Diversity and Democracy in America"
+	"title": "Diversity and Democracy in America",
+	"type": "Course"
 }

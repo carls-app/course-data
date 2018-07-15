@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL52"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 16,
@@ -42,5 +43,6 @@
 	"tags": [
 		"AMMUGROUP2"
 	],
-	"title": "Rock Lab"
+	"title": "Rock Lab",
+	"type": "Course"
 }

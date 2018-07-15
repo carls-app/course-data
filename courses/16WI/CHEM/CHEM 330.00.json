@@ -9,7 +9,7 @@
 		"Steven M Drew",
 		"Deborah S Gross"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 8,
@@ -46,5 +47,6 @@
 	"summary": "This course covers the basic principles of quantitative instrumental chemical analysis. Course topics include chromatography, electroanalytical chemistry, analytical spectroscopy, and mass spectrometry. The background needed to understand the theory and application of these instrumental techniques will be covered. In addition, students will have the opportunity to explore current research in the field of analytical chemistry through the reading and presentation of articles from the primary literature.",
 	"synonym": "41131",
 	"tags": [],
-	"title": "Instrumental Chemical Analysis"
+	"title": "Instrumental Chemical Analysis",
+	"type": "Course"
 }

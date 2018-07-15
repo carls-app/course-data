@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Educational Studies minor or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "47821",
 	"tags": [
-		{
-			"code": "EDUCSENIORSEM",
-			"name": "EDUC Senior Seminar"
-		}
+		"EDUCSENIORSEM"
 	],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

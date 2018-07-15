@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"tags": [
 		"AFSTCAP"
 	],
-	"title": "Africana Studies Capstone"
+	"title": "Africana Studies Capstone",
+	"type": "Course"
 }

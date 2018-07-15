@@ -4,11 +4,12 @@
 	"department": "MUSC",
 	"id": "MUSC 400.00",
 	"instructors": [],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -18,5 +19,6 @@
 	"summary": "Required of senior majors. The integrative exercise may be fulfilled by completion of a significant composition, performance, or research-paper project. Students who wish to fulfill Music 400 with such projects must meet department-specified qualifying criteria.",
 	"synonym": "48438",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

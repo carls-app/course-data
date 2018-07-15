@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"PPOLPH",
 		"BIOLELECTIVE"
 	],
-	"title": "Immunology"
+	"title": "Immunology",
+	"type": "Course"
 }

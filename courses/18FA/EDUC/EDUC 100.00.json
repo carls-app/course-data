@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -49,5 +50,6 @@
 	"tags": [
 		"EDUCCLUSTER3"
 	],
-	"title": "Will This Be on the Test? Standardized Testing and American Education"
+	"title": "Will This Be on the Test? Standardized Testing and American Education",
+	"type": "Course"
 }

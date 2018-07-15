@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rita B Thompson"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 28,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MATHCALC"
 	],
-	"title": "Introduction to Calculus"
+	"title": "Introduction to Calculus",
+	"type": "Course"
 }

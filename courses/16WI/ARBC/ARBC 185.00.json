@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "185.00",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -52,5 +53,6 @@
 		"MARSSUPP",
 		"MESTCORE"
 	],
-	"title": "The Creation of Classical Arabic Literature"
+	"title": "The Creation of Classical Arabic Literature",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Several 200-level Psychology courses and senior Psychology major",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"PSYCCAPST"
 	],
-	"title": "Biological and Behavioral Psychology"
+	"title": "Biological and Behavioral Psychology",
+	"type": "Course"
 }

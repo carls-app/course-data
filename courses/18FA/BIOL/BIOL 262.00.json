@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Nishizaki"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -47,5 +48,6 @@
 	"tags": [
 		"BIOLORGANISMIC"
 	],
-	"title": "Ecological Physiology"
+	"title": "Ecological Physiology",
+	"type": "Course"
 }

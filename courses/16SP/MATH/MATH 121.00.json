@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Patrias"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MATHCALC"
 	],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

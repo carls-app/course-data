@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -39,6 +39,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -57,5 +58,6 @@
 		"AFSTSI",
 		"PPOLEDUC"
 	],
-	"title": "Schools, Scholarship and Policy in the United States"
+	"title": "Schools, Scholarship and Policy in the United States",
+	"type": "Course"
 }

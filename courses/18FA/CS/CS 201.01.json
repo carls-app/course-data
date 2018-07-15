@@ -6,7 +6,7 @@
 	"instructors": [
 		"Titus H Klinge"
 	],
-	"number": "201.01",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 34,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "51289",
 	"tags": [],
-	"title": "Data Structures"
+	"title": "Data Structures",
+	"type": "Course"
 }

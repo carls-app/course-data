@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"SPECINTSOCTHGHT",
 		"HISTUS"
 	],
-	"title": "The History of American School Reform"
+	"title": "The History of American School Reform",
+	"type": "Course"
 }

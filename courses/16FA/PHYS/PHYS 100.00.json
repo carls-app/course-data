@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank T McNally"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Recreation Center 226"
@@ -38,6 +38,7 @@
 		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -49,5 +50,6 @@
 	"tags": [
 		"SPECINTSUSTAIN"
 	],
-	"title": "The Physics of Phitness"
+	"title": "The Physics of Phitness",
+	"type": "Course"
 }

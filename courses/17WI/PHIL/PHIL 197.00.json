@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "197.00",
+	"number": "197",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Concurrent enrollment in Biology 210, Environmental and Technology Studies 310 or Political Science 212",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "46592",
 	"tags": [],
-	"title": "Climate Matters"
+	"title": "Climate Matters",
+	"type": "Course"
 }

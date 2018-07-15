@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Alexander"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 33,
 		"total": 34,
@@ -48,5 +49,6 @@
 	"tags": [
 		"CGSCCORE"
 	],
-	"title": "Introduction to Computer Science"
+	"title": "Introduction to Computer Science",
+	"type": "Course"
 }

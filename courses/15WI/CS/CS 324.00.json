@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Data Mining"
+	"title": "Data Mining",
+	"type": "Course"
 }

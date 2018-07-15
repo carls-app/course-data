@@ -6,7 +6,7 @@
 	"instructors": [
 		"Austin P Mason"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"HISTANCNT/MDVL",
 		"ARCNPERT"
 	],
-	"title": "The Material World of the Anglo-Saxons"
+	"title": "The Material World of the Anglo-Saxons",
+	"type": "Course"
 }

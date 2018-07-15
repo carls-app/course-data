@@ -6,7 +6,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "118.00",
+	"number": "118",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"LITFORLANG",
 		"ENGLF"
 	],
-	"title": "Introduction to Poetry"
+	"title": "Introduction to Poetry",
+	"type": "Course"
 }

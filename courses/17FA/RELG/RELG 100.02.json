@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sonja G Anderson"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -50,5 +51,6 @@
 		"MARSSUPP",
 		"RELGCHRISTNTRAD"
 	],
-	"title": "Illness, Medicine, and Magic"
+	"title": "Illness, Medicine, and Magic",
+	"type": "Course"
 }

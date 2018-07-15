@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51297",
 	"tags": [],
-	"title": "Parallel and Distributed Computing"
+	"title": "Parallel and Distributed Computing",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peri Shereen"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 13,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MATHCALC"
 	],
-	"title": "Introduction to Calculus"
+	"title": "Introduction to Calculus",
+	"type": "Course"
 }

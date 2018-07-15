@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"tags": [
 		"EDUCCORE"
 	],
-	"title": "Introduction to Educational Studies"
+	"title": "Introduction to Educational Studies",
+	"type": "Course"
 }

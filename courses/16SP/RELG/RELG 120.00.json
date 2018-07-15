@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -43,5 +44,6 @@
 		"JDSTPERT",
 		"RELGJEWISHTRAD"
 	],
-	"title": "Introduction to Judaism"
+	"title": "Introduction to Judaism",
+	"type": "Course"
 }

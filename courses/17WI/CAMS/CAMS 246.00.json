@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cecilia M Cornejo"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"CAMSELECTIVE",
 		"CAMS200HIST"
 	],
-	"title": "Documentary Studies"
+	"title": "Documentary Studies",
+	"type": "Course"
 }

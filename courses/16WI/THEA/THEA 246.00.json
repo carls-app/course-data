@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aditi B Kapil"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 16,
@@ -38,5 +39,6 @@
 	"summary": "A laboratory to explore the craft of playwriting, concentrating on structure, action and character. The class uses games, exercises, scenes, with the goal of producing a short play by the end of the term.",
 	"synonym": "41596",
 	"tags": [],
-	"title": "Playwriting"
+	"title": "Playwriting",
+	"type": "Course"
 }

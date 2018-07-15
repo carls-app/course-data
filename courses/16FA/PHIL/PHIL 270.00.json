@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah R Jansen"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"PHILCORE",
 		"MARSSUPP"
 	],
-	"title": "Ancient Philosophy: Goodness, Nature & Politics"
+	"title": "Ancient Philosophy: Goodness, Nature & Politics",
+	"type": "Course"
 }

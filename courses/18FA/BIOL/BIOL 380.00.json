@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rou-Jia Sung"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Chemistry 233 and 234 and concurrent registration in BIOL 381 for 18/FA. 19/WI offering does not require concurrent BIOL 381 registration",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"BIOLMOLCELL",
 		"BIOLELECTIVE"
 	],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

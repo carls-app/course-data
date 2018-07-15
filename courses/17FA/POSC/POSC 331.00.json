@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"POSI-GDS",
 		"POSI-LPS"
 	],
-	"title": "Cooperation and Conflict*"
+	"title": "Cooperation and Conflict*",
+	"type": "Course"
 }

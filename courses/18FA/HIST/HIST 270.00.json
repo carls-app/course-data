@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"CCSTENCTR",
 		"POSI-LPS2"
 	],
-	"title": "Nuclear Nations: India and Pakistan as Rival Siblings"
+	"title": "Nuclear Nations: India and Pakistan as Rival Siblings",
+	"type": "Course"
 }

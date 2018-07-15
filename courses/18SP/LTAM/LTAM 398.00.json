@@ -6,20 +6,15 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -29,10 +24,8 @@
 	"summary": null,
 	"synonym": "48644",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Latin American Forum"
+	"title": "Latin American Forum",
+	"type": "Course"
 }

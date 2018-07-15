@@ -4,7 +4,7 @@
 	"department": "ARBC",
 	"id": "ARBC 101.01",
 	"instructors": [],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 2,
 		"total": 16,
@@ -51,5 +52,6 @@
 	"tags": [
 		"MESTPERT"
 	],
-	"title": "Elementary Arabic"
+	"title": "Elementary Arabic",
+	"type": "Course"
 }

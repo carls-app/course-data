@@ -6,11 +6,12 @@
 	"department": "BIOL",
 	"id": "BIOL 399.01",
 	"instructors": [],
-	"number": "399.01",
+	"number": "399",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 1,
 		"total": 40,
@@ -20,5 +21,6 @@
 	"summary": "Guided instruction in reading and interpretation of contemporary primary literature in Biology.\n    \n     BIOL 400 required.",
 	"synonym": "49560",
 	"tags": [],
-	"title": "Critical Reading and Analysis of Primary Literature"
+	"title": "Critical Reading and Analysis of Primary Literature",
+	"type": "Course"
 }

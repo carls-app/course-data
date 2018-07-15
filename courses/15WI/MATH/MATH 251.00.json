@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Chaotic Dynamics"
+	"title": "Chaotic Dynamics",
+	"type": "Course"
 }

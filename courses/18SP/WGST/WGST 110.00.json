@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -43,22 +41,11 @@
 	"summary": "This course is an introduction to the ways in which gender structures our world, and to the ways feminists challenge established intellectual frameworks. However, because gender is not a homogeneous category but is differentiated by class, race, sexualities, ethnicity, and culture, we also consider the ways differences in social location intersect with gender.",
 	"synonym": "49273",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "WGSTINTRO",
-			"name": "WGST Introductory"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"AMMUGROUP1",
+		"WGSTINTRO",
+		"CCSTGLOBAL",
+		"EDUCCLUSTER2"
 	],
-	"title": "Introduction to Women's and Gender Studies"
+	"title": "Introduction to Women's and Gender Studies",
+	"type": "Course"
 }

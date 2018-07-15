@@ -6,7 +6,7 @@
 	"instructors": [
 		"Claudia M Lange"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -52,5 +53,6 @@
 	"summary": "This course introduces the basic structures of the Spanish language, everyday vocabulary and cultural situations. Students practice all four skills (reading, writing, listening and speaking) in Spanish. Taught five days a week in Spanish. Prerequisite: none (Placement score for students with previous experience in Spanish).",
 	"synonym": "48439",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

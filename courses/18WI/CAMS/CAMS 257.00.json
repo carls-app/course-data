@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dimitrios Pavlounis"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CAMSELECTIVE"
 	],
-	"title": "Video Games and Identity"
+	"title": "Video Games and Identity",
+	"type": "Course"
 }

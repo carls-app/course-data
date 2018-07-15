@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -46,5 +47,6 @@
 		"AFAMPERT",
 		"CCSTGLOBAL"
 	],
-	"title": "Introduction to Women's and Gender Studies"
+	"title": "Introduction to Women's and Gender Studies",
+	"type": "Course"
 }

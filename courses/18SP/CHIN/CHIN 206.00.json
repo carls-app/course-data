@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zheng Wen"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chinese 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": "This course advances students' proficiency in oral and written Chinese, at the same time integrating elements of traditional Chinese civilization and modern Chinese society. Emphasis is on cultural understanding and appropriate language use.",
 	"synonym": "48272",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTLANG",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese in Cultural Context"
+	"title": "Chinese in Cultural Context",
+	"type": "Course"
 }

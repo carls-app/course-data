@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"SAST",
 		"CCSTENCTR"
 	],
-	"title": "History of Islam in South Asia"
+	"title": "History of Islam in South Asia",
+	"type": "Course"
 }

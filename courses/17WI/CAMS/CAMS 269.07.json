@@ -8,13 +8,14 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "269.07",
+	"number": "269",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -28,5 +29,6 @@
 		"CAMSSTUPROD",
 		"CAMSELECPROD"
 	],
-	"title": "New Media Program: Exploring New Media and the Arts"
+	"title": "New Media Program: Exploring New Media and the Arts",
+	"type": "Course"
 }

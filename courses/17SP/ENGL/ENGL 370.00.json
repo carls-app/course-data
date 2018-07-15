@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -25,6 +25,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -36,5 +37,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Advanced Fiction Workshop"
+	"title": "Advanced Fiction Workshop",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Weitz Center 168"
@@ -22,12 +22,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 25,
@@ -37,5 +35,6 @@
 	"summary": "Bollywood is the Indian film industry centered in Mumbai (the city formerly called Bombay). Bollywood dance has lately been popularized in American culture and is recognized by fast drumbeats, vibrant costuming, and highly energetic choreography. In this dance class, we will explore how culture and music in other parts of the Indian subcontinent have influenced choreography and performance seen in Bollywood film. Students from any and all skill and interest levels are welcome.",
 	"synonym": "49369",
 	"tags": [],
-	"title": "Bollywood Dance"
+	"title": "Bollywood Dance",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"PPOLSP",
 		"AMSTREI"
 	],
-	"title": "Sociology of Adoption and Assisted Reproduction"
+	"title": "Sociology of Adoption and Assisted Reproduction",
+	"type": "Course"
 }

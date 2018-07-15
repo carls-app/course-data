@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Leighton 304",
@@ -42,6 +42,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -59,5 +60,6 @@
 		"MARSCORE",
 		"CLASPERT"
 	],
-	"title": "Crisis, Creativity, and Transformation in Late Antiquity"
+	"title": "Crisis, Creativity, and Transformation in Late Antiquity",
+	"type": "Course"
 }

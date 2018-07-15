@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "368.00",
+	"number": "368",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Psychology 216 and 217 and Neuroscience Minor or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 0,
@@ -41,5 +42,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Hot Off the Bench: Advanced Study of Neuroscience Topics"
+	"title": "Hot Off the Bench: Advanced Study of Neuroscience Topics",
+	"type": "Course"
 }

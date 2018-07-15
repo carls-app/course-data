@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"summary": "German culture has had a profound influence on world history, but one often wonders how the culture that produced Goethe, Schiller, Luther, Beethoven, and Kant was also the source of some of the greatest atrocities of the twentieth century. We will attempt to understand the reasons for this dichotomy by considering the development of Germany within the context of Europe from Roman times to the present.",
 	"synonym": "39434",
 	"tags": [],
-	"title": "Culture or Barbarity? The German Question"
+	"title": "Culture or Barbarity? The German Question",
+	"type": "Course"
 }

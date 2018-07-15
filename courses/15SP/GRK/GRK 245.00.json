@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -35,6 +35,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -44,5 +45,6 @@
 	"summary": "In this course we will read and examine selections from Herodotus's",
 	"synonym": "39359",
 	"tags": [],
-	"title": "Herodotus's Histories"
+	"title": "Herodotus's Histories",
+	"type": "Course"
 }

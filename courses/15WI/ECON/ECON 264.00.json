@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"POECUPAPP"
 	],
-	"title": "Health Care Economics"
+	"title": "Health Care Economics",
+	"type": "Course"
 }

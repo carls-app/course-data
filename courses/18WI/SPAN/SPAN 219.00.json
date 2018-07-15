@@ -8,7 +8,7 @@
 	"instructors": [
 		"Oscar Clemente"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"ENTS2SCP",
 		"SPAN204-219"
 	],
-	"title": "Envisioning a Sustainable Future and an Equitable and Fair World"
+	"title": "Envisioning a Sustainable Future and an Equitable and Fair World",
+	"type": "Course"
 }

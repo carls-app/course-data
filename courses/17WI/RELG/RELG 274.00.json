@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin A Wolfe"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"RELGTHTHGHTPHIL",
 		"RELGTHETHCLWPOL"
 	],
-	"title": "Pessimism and the Affirmation of Existence"
+	"title": "Pessimism and the Affirmation of Existence",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "210L.54",
+	"number": "210L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "41299",
 	"tags": [],
-	"title": "Geomorphology Lab"
+	"title": "Geomorphology Lab",
+	"type": "Lab"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -48,5 +49,6 @@
 		"FRENPERT",
 		"FRSTELEC"
 	],
-	"title": "Cosmopolitanism*"
+	"title": "Cosmopolitanism*",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 24,
@@ -46,5 +47,6 @@
 	"summary": "A study of galactic and extragalactic astronomy with an emphasis on the physical principles underlying the observed phenomena. Topics include the structure and dynamics of the Milky Way Galaxy and other galaxies, the interstellar medium, quasars and active galaxies, clusters and superclusters, and cosmology.",
 	"synonym": "38238",
 	"tags": [],
-	"title": "Astrophysics II"
+	"title": "Astrophysics II",
+	"type": "Course"
 }

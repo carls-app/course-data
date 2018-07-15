@@ -7,7 +7,7 @@
 		"Kathleen M Ryor",
 		"Jessica F Keating"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -38,6 +38,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 60,
@@ -52,5 +53,6 @@
 		"MARSSUPP",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Art History I"
+	"title": "Introduction to Art History I",
+	"type": "Course"
 }

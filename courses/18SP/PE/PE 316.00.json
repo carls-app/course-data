@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chad W Alladin"
 	],
-	"number": "316.00",
+	"number": "316",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 18,
@@ -36,5 +37,6 @@
 	"summary": "Introduction to human anatomy as it pertains to athletic training and prevention and care of athletic injuries. Consists of lecture, practical experiences, and use of rehabilitative modalities. Requirement for athletic training student assistant.",
 	"synonym": "48183",
 	"tags": [],
-	"title": "Principles of Athletic Training"
+	"title": "Principles of Athletic Training",
+	"type": "Course"
 }

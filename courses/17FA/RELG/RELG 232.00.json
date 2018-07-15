@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mara G Block"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"WGSTADDL",
 		"AMSTPCC"
 	],
-	"title": "Queer Religion"
+	"title": "Queer Religion",
+	"type": "Course"
 }

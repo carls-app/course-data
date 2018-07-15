@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 24,
@@ -46,5 +47,6 @@
 		"CSELECT",
 		"CAMSELECTIVE"
 	],
-	"title": "Audio Programming"
+	"title": "Audio Programming",
+	"type": "Course"
 }

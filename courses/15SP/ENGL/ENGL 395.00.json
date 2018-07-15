@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"ENGLHE2",
 		"ENGLT1"
 	],
-	"title": "Seductive Fictions"
+	"title": "Seductive Fictions",
+	"type": "Course"
 }

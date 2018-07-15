@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce R Dalgaard"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Economics 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": "Joseph Schumpeter, in lamenting the absence of an accepted theory of entrepreneurship, observed that this gap in economics is much like having Hamlet performed with the Prince of Denmark absent. Much has changed since Schumpeter leveled this criticism. Economics has embraced the contributions of entrepreneurs and provided theoretical models explaining their actions. This course explores the foundations of a microeconomic theory of entrepreneurship, investigating the role of entrepreneurs (and intrapreneurs within large organizations) as agents for change. Case studies of business development provide practical illustrations of ways in which entrepreneurs operate and how their efforts contribute to economic progress.",
 	"synonym": "48996",
 	"tags": [],
-	"title": "Entrepreneurship, Innovation, and Economic Performance"
+	"title": "Entrepreneurship, Innovation, and Economic Performance",
+	"type": "Course"
 }

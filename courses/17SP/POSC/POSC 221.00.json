@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"LTAMSOCSCI",
 		"POSIELECTIVE"
 	],
-	"title": "Latin American Politics"
+	"title": "Latin American Politics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"POECUPWTD",
 		"PPOLFP"
 	],
-	"title": "Comparative Foreign Policy"
+	"title": "Comparative Foreign Policy",
+	"type": "Course"
 }

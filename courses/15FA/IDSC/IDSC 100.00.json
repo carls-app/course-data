@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -47,5 +48,6 @@
 	"summary": "This interdisciplinary course addresses one of the signal features of contemporary academic, professional, public, and personal life: a reliance on information and arguments involving numbers. We will examine how numbers are used and misused in verbal, statistical, and graphical form in discussions of world events, health, science, and social issues. Students will also apply quantitative reasoning skills to assist community organizations.",
 	"synonym": "41396",
 	"tags": [],
-	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues"
+	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues",
+	"type": "Course"
 }

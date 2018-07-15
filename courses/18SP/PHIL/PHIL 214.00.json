@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison E Murphy"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "49528",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"ENTS2SCP",
+		"PHILPRACVAL",
+		"PPOLECON"
 	],
-	"title": "Ecology, Ethics, and Economics"
+	"title": "Ecology, Ethics, and Economics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Junior or senior standing and instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"tags": [
 		"EDUCPERT"
 	],
-	"title": "Methods of Teaching Mathematics"
+	"title": "Methods of Teaching Mathematics",
+	"type": "Course"
 }

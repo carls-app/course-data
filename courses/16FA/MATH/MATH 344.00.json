@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Thompson"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Differential Geometry"
+	"title": "Differential Geometry",
+	"type": "Course"
 }

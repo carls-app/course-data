@@ -6,7 +6,7 @@
 	"instructors": [
 		"Wes D Markofski"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"ASSTDISC",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Sociological Thought and Theory"
+	"title": "Sociological Thought and Theory",
+	"type": "Course"
 }

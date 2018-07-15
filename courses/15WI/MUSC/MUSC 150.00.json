@@ -9,13 +9,14 @@
 		"Nikki Melville",
 		"Matthew McCright"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -25,5 +26,6 @@
 	"summary": "Applied study on the instrument, with attention to both musical and technical development. Students will study appropriate works from the Baroque, Classical, Romantic, and Modern periods, with special reference to a composer's individual notation, technical challenges and stylistic interpretation.",
 	"synonym": "38933",
 	"tags": [],
-	"title": "Piano"
+	"title": "Piano",
+	"type": "Course"
 }

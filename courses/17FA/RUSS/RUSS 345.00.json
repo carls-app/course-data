@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -29,6 +29,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"EUSTCNTRY"
 	],
-	"title": "Russian Cultural Idioms of the Nineteenth Century"
+	"title": "Russian Cultural Idioms of the Nineteenth Century",
+	"type": "Course"
 }

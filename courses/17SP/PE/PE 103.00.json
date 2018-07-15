@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 40,
@@ -40,5 +41,6 @@
 	"summary": "Developed from samurai traditions, Aikido is Japanese",
 	"synonym": "43832",
 	"tags": [],
-	"title": "Aikido, Beginning"
+	"title": "Aikido, Beginning",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron M Broege"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 12,
@@ -43,5 +44,6 @@
 		"BIOLDATAINTERP",
 		"BIOLELECTIVE"
 	],
-	"title": "Seminar: Biology of Cancer"
+	"title": "Seminar: Biology of Cancer",
+	"type": "Course"
 }

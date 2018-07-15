@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Political Science 122, AP American Government, or AP US History is highly recommended",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,34 +40,14 @@
 	"summary": "An introduction to the actors and processes of American foreign policymaking and to the substance of American foreign policy. The course aims to provide students with an understanding of how knowledge of the past, the global policy environment, the processes of foreign policymaking, and the specifics of a foreign policy issue come together to help determine modern American foreign policy. The course will review the structure of the international system of states, state power and interests, the historical context of American foreign policy, actors in American foreign affairs, models of foreign policy decision making, and the instruments of foreign policy.",
 	"synonym": "48630",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "PPOLFP",
-			"name": "Pub Pol Forgn Pol & Security"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"POSI-LPS2",
+		"AMSTTOPICAL3",
+		"POSIELECTIVE",
+		"POECUPAPP",
+		"PPOLFP",
+		"AMSTAMERWRLD",
+		"AMSTDAC"
 	],
-	"title": "American Foreign Policy"
+	"title": "American Foreign Policy",
+	"type": "Course"
 }

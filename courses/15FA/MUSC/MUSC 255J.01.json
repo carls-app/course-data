@@ -8,13 +8,14 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "255J.01",
+	"number": "255J",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 2,
 		"total": 1,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "42733",
 	"tags": [],
-	"title": "Violin (Juried)"
+	"title": "Violin (Juried)",
+	"type": "Juried"
 }

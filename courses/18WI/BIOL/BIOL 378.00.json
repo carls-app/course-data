@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rika E Anderson"
 	],
-	"number": "378.00",
+	"number": "378",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,5 +42,6 @@
 		"BIOLDATAINTERP",
 		"BIOLELECTIVE"
 	],
-	"title": "Seminar: The Origin and Early Evolution of Life"
+	"title": "Seminar: The Origin and Early Evolution of Life",
+	"type": "Course"
 }

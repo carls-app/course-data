@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clarence E Walker"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -45,46 +40,17 @@
 	"summary": null,
 	"synonym": "49907",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AFSTSURV",
-			"name": "Africana Studies Survey Course"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"EDUCCLUSTER2",
+		"AMMUGROUP1",
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"AFSTSURV",
+		"AMSTPCC",
+		"AMSTDAC",
+		"AMSTREI"
 	],
-	"title": "African American History II"
+	"title": "African American History II",
+	"type": "Course"
 }

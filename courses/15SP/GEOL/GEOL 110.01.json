@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -31,6 +31,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,5 +44,6 @@
 		"ENTSINTRO",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

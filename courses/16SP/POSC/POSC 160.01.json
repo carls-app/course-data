@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "160.01",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -34,6 +34,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Political Philosophy"
+	"title": "Political Philosophy",
+	"type": "Course"
 }

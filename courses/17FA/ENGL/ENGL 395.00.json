@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"ENGLT2",
 		"ENGLADVSEM"
 	],
-	"title": "Nabokov"
+	"title": "Nabokov",
+	"type": "Course"
 }

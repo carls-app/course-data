@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AMSTDAC",
 		"CCSTENCTR"
 	],
-	"title": "Global Politics & Local Communities"
+	"title": "Global Politics & Local Communities",
+	"type": "Course"
 }

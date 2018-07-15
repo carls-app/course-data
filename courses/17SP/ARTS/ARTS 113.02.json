@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eleanor M Jensen"
 	],
-	"number": "113.02",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Weitz Center 242"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -43,5 +44,6 @@
 		"ENTS2SCP",
 		"ENTSLPSCP"
 	],
-	"title": "Field Drawing"
+	"title": "Field Drawing",
+	"type": "Course"
 }

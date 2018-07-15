@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dennis M Cass"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Crafts of Writing: Creative Non-Fiction"
+	"title": "Crafts of Writing: Creative Non-Fiction",
+	"type": "Course"
 }

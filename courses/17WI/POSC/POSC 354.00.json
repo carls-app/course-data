@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,6 +31,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSIELECTIVE",
 		"POSIADVSEM"
 	],
-	"title": "Freedom, Excellence, Happiness: Aristotle's Ethics*"
+	"title": "Freedom, Excellence, Happiness: Aristotle's Ethics*",
+	"type": "Course"
 }

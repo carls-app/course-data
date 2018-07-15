@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rafe Jones"
 	],
-	"number": "120.02",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51352",
 	"tags": [],
-	"title": "Calculus 2"
+	"title": "Calculus 2",
+	"type": "Course"
 }

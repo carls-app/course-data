@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"POSI-LPS2",
 		"EUSTTRANNATL"
 	],
-	"title": "War and Peace in Northern Ireland"
+	"title": "War and Peace in Northern Ireland",
+	"type": "Course"
 }

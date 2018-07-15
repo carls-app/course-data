@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "168.00",
+	"number": "168",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: PE 167, Social 1 or instructor permission",
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 40,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "48150",
 	"tags": [],
-	"title": "Social Dance II"
+	"title": "Social Dance II",
+	"type": "Course"
 }

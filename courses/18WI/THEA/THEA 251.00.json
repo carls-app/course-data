@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kate Powers"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "49652",
 	"tags": [],
-	"title": "Performing Women"
+	"title": "Performing Women",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam M Johnson"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"PSYCCORE",
 		"PSYCSDPCH"
 	],
-	"title": "Interpersonal Relationships"
+	"title": "Interpersonal Relationships",
+	"type": "Course"
 }

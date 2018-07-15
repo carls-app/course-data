@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "49803",
 	"tags": [],
-	"title": "Hip-Hop Shape AfroFit"
+	"title": "Hip-Hop Shape AfroFit",
+	"type": "Course"
 }

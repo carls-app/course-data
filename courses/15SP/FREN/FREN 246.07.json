@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or the equivalent",
 	"requirements": [
@@ -16,6 +16,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -32,5 +33,6 @@
 		"FRSTELECAL",
 		"ENGLFORLIT"
 	],
-	"title": "Paris Program: Modern French Art"
+	"title": "Paris Program: Modern French Art",
+	"type": "Course"
 }

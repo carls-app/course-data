@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"SOANPERT",
 		"EUSTTRANNATL"
 	],
-	"title": "New African Migrations"
+	"title": "New African Migrations",
+	"type": "Course"
 }

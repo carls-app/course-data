@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "48426",
 	"tags": [],
-	"title": "Theory II: Musical Structures"
+	"title": "Theory II: Musical Structures",
+	"type": "Course"
 }

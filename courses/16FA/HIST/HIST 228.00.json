@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"AMSTREI",
 		"AMSTDAC"
 	],
-	"title": "Civil Rights and Black Power"
+	"title": "Civil Rights and Black Power",
+	"type": "Course"
 }

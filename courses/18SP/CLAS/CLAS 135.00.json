@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah E Craft"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "49495",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ARCNPERT"
 	],
-	"title": "Food and Drink in the Ancient World"
+	"title": "Food and Drink in the Ancient World",
+	"type": "Course"
 }

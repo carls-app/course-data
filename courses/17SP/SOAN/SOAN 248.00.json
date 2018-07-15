@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"CCSTC",
 		"PPOLFP"
 	],
-	"title": "Genocide: An Anthropological Perspective"
+	"title": "Genocide: An Anthropological Perspective",
+	"type": "Course"
 }

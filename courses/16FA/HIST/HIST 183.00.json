@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "183.00",
+	"number": "183",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -52,5 +53,6 @@
 		"FRSTELEC",
 		"AFSTSURV"
 	],
-	"title": "History of Early West Africa"
+	"title": "History of Early West Africa",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric L Hazlett"
 	],
-	"number": "400.08",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "08",
 	"size": {
 		"registered": 0,
 		"total": 4,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "45846",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

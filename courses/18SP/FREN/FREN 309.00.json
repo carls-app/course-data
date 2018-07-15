@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or permission of instructor",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "48365",
 	"tags": [
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"FFSTLIT",
+		"FRSTCORE",
+		"EUSTTRANNATL"
 	],
-	"title": "Communication and Stylistics"
+	"title": "Communication and Stylistics",
+	"type": "Course"
 }

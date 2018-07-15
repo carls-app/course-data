@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"ASSTDISC",
 		"FRSTCORE"
 	],
-	"title": "Junior-year History Colloquium"
+	"title": "Junior-year History Colloquium",
+	"type": "Course"
 }

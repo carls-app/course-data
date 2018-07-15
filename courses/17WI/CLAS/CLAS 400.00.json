@@ -6,11 +6,12 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Classics 394",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 10,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "45706",
 	"tags": [],
-	"title": "Senior Symposium"
+	"title": "Senior Symposium",
+	"type": "Course"
 }

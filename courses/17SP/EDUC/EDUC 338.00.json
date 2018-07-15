@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -43,5 +44,6 @@
 		"AFAMDISTROSS",
 		"EDUCCORE"
 	],
-	"title": "Multicultural Education"
+	"title": "Multicultural Education",
+	"type": "Course"
 }

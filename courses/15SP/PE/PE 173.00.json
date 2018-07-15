@@ -7,7 +7,7 @@
 		"Andy Clark",
 		"Linda K Luedke"
 	],
-	"number": "173.00",
+	"number": "173",
 	"offerings": {
 		"locations": [
 			"Cowling 012"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": "Novice to intermediate swim. Introduction to basic swim skills and technique.",
 	"synonym": "37703",
 	"tags": [],
-	"title": "Swimming, Instructional"
+	"title": "Swimming, Instructional",
+	"type": "Course"
 }

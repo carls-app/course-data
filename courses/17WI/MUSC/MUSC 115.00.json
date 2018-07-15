@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"CAMSXDEPT",
 		"CAMSELECTIVE"
 	],
-	"title": "Music and Film"
+	"title": "Music and Film",
+	"type": "Course"
 }

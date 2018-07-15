@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hubert A Cook"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -49,30 +41,13 @@
 	"summary": null,
 	"synonym": "50836",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"ENGLHE2",
+		"ENGLT2",
+		"AFSTLA",
+		"AMSTTOPICAL1",
+		"AMSTPCC",
+		"AMSTREI"
 	],
-	"title": "Writing Empathy/Writing Black Life"
+	"title": "Writing Empathy/Writing Black Life",
+	"type": "Course"
 }

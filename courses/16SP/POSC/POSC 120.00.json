@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -39,6 +39,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 35,
@@ -51,5 +52,6 @@
 		"CCSTGLOBAL",
 		"EUSTTRANNATL"
 	],
-	"title": "Democracy and Dictatorship"
+	"title": "Democracy and Dictatorship",
+	"type": "Course"
 }

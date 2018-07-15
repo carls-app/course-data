@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "45700",
 	"tags": [],
-	"title": "Hesiod and the Homeric Hymns"
+	"title": "Hesiod and the Homeric Hymns",
+	"type": "Course"
 }

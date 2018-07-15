@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Weitz Center 168"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -44,5 +42,6 @@
 	"summary": "This is an advanced class for students who have some capabilities and proficiency in ballet technique. Content is sophisticated and demanding in its use of ballet vocabulary and musical phrasing.",
 	"synonym": "48008",
 	"tags": [],
-	"title": "Ballet III"
+	"title": "Ballet III",
+	"type": "Course"
 }

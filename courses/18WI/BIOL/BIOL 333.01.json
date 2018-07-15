@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "333.01",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 332; Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -35,5 +36,6 @@
 	"tags": [
 		"NEURELEC"
 	],
-	"title": "Human Physiology Laboratory"
+	"title": "Human Physiology Laboratory",
+	"type": "Course"
 }

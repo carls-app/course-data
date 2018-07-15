@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laska Jimsen"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138",
@@ -32,6 +32,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 0,
@@ -44,5 +45,6 @@
 		"CAMSELECPROD",
 		"CAMSELECTIVE"
 	],
-	"title": "Senior Production Workshop"
+	"title": "Senior Production Workshop",
+	"type": "Course"
 }

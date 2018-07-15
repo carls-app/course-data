@@ -8,7 +8,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -27,6 +27,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "48355",
 	"tags": [],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

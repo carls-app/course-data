@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kyle D Green"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Sport and Society"
+	"title": "Sport and Society",
+	"type": "Course"
 }

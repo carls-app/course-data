@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"CAMSELECTIVE",
 		"EUSTTRANNATL"
 	],
-	"title": "Film History III"
+	"title": "Film History III",
+	"type": "Course"
 }

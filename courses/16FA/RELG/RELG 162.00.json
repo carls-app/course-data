@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sonja G Anderson"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -51,5 +52,6 @@
 		"JDSTPERT",
 		"MESTGRP1"
 	],
-	"title": "Jesus, Paul, and Christian Origins (New Testament)"
+	"title": "Jesus, Paul, and Christian Origins (New Testament)",
+	"type": "Course"
 }

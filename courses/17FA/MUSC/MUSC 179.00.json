@@ -8,13 +8,14 @@
 	"instructors": [
 		"Laura Caviani"
 	],
-	"number": "179.00",
+	"number": "179",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 50,
@@ -24,5 +25,6 @@
 	"summary": "The study of the basic grammar and syntax of jazz improvisation styles, including transcribing solos, chord/scale materials and melodic patterns.",
 	"synonym": "47035",
 	"tags": [],
-	"title": "Jazz Improvisation"
+	"title": "Jazz Improvisation",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meghan Tierney"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"LTAMELECTIVE",
 		"LTAMLIT"
 	],
-	"title": "Maya Art and Architecture"
+	"title": "Maya Art and Architecture",
+	"type": "Course"
 }

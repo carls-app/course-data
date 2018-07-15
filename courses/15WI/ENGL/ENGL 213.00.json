@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,6 +31,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"THEAPERT",
 		"MARSSUPP"
 	],
-	"title": "Christopher Marlowe"
+	"title": "Christopher Marlowe",
+	"type": "Course"
 }

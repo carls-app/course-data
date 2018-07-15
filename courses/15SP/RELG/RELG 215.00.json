@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"RELGTHLVDRELCLT",
 		"RELGTHSOCLPWR"
 	],
-	"title": "Muslim Misfits: Islam and the Question of Orthodoxy"
+	"title": "Muslim Misfits: Islam and the Question of Orthodoxy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSI-LPS",
 		"AMSTTOPICAL3"
 	],
-	"title": "The American Presidency"
+	"title": "The American Presidency",
+	"type": "Course"
 }

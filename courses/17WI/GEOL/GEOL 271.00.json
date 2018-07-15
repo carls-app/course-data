@@ -9,7 +9,7 @@
 		"Mary E Savina",
 		"Nancy C Braker"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -38,6 +38,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 10,
@@ -49,5 +50,6 @@
 	"tags": [
 		"ENTS2ENVSCI"
 	],
-	"title": "Tasmania:  Geology, Natural History and Conservation Research"
+	"title": "Tasmania:  Geology, Natural History and Conservation Research",
+	"type": "Course"
 }

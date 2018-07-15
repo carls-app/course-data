@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"LITFORLANG",
 		"AFAMLITARTANLYS"
 	],
-	"title": "Contemporary American Playwrights of Color"
+	"title": "Contemporary American Playwrights of Color",
+	"type": "Course"
 }

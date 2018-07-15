@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Functions of a Complex Variable"
+	"title": "Functions of a Complex Variable",
+	"type": "Course"
 }

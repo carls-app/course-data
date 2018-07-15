@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ben Keefer"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "44897",
 	"tags": [],
-	"title": "Corporate Organization and Finance"
+	"title": "Corporate Organization and Finance",
+	"type": "Course"
 }

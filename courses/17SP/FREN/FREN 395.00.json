@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -55,5 +56,6 @@
 		"ENGLFORLIT",
 		"AFSTLA"
 	],
-	"title": "The Mande of West Africa"
+	"title": "The Mande of West Africa",
+	"type": "Course"
 }

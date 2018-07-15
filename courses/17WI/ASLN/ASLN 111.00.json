@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -49,5 +50,6 @@
 		"ASSTSS",
 		"LINGELEC"
 	],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

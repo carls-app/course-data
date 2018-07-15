@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"CGSCELECTIVE",
 		"LINGCORE"
 	],
-	"title": "Generative Approaches to Syntax"
+	"title": "Generative Approaches to Syntax",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -25,6 +25,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 0,
@@ -36,5 +37,6 @@
 	"tags": [
 		"ENGLCREATVWRTG"
 	],
-	"title": "Advanced Poetry Workshop"
+	"title": "Advanced Poetry Workshop",
+	"type": "Course"
 }

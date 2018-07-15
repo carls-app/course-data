@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": "An analysis of the forces determining relative prices within the framework of production and distribution. This class is normally taken by juniors. Sophomores considering enrolling should speak to the instructor.",
 	"synonym": "48983",
 	"tags": [],
-	"title": "Intermediate Price Theory"
+	"title": "Intermediate Price Theory",
+	"type": "Course"
 }

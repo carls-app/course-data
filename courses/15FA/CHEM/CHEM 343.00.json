@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 40,
@@ -45,5 +46,6 @@
 	"tags": [
 		"BIOCELEC"
 	],
-	"title": "Chemical Thermodynamics"
+	"title": "Chemical Thermodynamics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 25,
@@ -54,30 +46,13 @@
 	"summary": null,
 	"synonym": "48607",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		}
+		"POSI-GDS2",
+		"CCSTGLOBAL",
+		"POECLOWER",
+		"POSIELECTIVE",
+		"EUSTTRANNATL",
+		"PPOLCORE"
 	],
-	"title": "Public Policy and Global Capitalism"
+	"title": "Public Policy and Global Capitalism",
+	"type": "Course"
 }

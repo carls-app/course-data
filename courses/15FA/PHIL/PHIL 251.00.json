@@ -6,7 +6,7 @@
 	"instructors": [
 		"Douglas B Marshall"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"SPECINTPHILSCI",
 		"PHILTHEORY"
 	],
-	"title": "Philosophy of Science"
+	"title": "Philosophy of Science",
+	"type": "Course"
 }

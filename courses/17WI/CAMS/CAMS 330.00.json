@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"CAMSELECTIVE",
 		"ASSTMETH"
 	],
-	"title": "Cinema Studies Seminar"
+	"title": "Cinema Studies Seminar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -48,5 +49,6 @@
 		"EUSTTRANNATL",
 		"MARSSUPP"
 	],
-	"title": "Idolatry"
+	"title": "Idolatry",
+	"type": "Course"
 }

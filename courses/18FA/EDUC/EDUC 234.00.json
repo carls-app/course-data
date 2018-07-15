@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,6 +31,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"CGSCELECTIVE",
 		"PSYCPERT"
 	],
-	"title": "Educational Psychology"
+	"title": "Educational Psychology",
+	"type": "Course"
 }

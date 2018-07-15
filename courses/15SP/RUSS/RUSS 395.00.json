@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"tags": [
 		"EUSTCNTRY"
 	],
-	"title": "Senior Seminar: The Cult of Stalin"
+	"title": "Senior Seminar: The Cult of Stalin",
+	"type": "Course"
 }

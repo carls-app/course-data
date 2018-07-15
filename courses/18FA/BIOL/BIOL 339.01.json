@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rika E Anderson"
 	],
-	"number": "339.01",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Hulings 203",
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 338",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "51020",
 	"tags": [],
-	"title": "Genomics and Bioinformatics Laboratory"
+	"title": "Genomics and Bioinformatics Laboratory",
+	"type": "Course"
 }

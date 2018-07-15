@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 24,
@@ -46,5 +47,6 @@
 		"CGSCELECTIVE",
 		"NEURELEC"
 	],
-	"title": "Sensation and Perception"
+	"title": "Sensation and Perception",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Cusack"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "48544",
 	"tags": [],
-	"title": "Introduction to Rhetoric"
+	"title": "Introduction to Rhetoric",
+	"type": "Course"
 }

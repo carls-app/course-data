@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -34,6 +34,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"CAMSSTUPROD",
 		"CAMSELECPROD"
 	],
-	"title": "Sound Design"
+	"title": "Sound Design",
+	"type": "Course"
 }

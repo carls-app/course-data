@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"POSI-GDS2",
 		"POECMIDWTD"
 	],
-	"title": "International Trade"
+	"title": "International Trade",
+	"type": "Course"
 }

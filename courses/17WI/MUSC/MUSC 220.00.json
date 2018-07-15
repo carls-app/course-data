@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea Mazzariello"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -34,6 +34,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 7,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "44671",
 	"tags": [],
-	"title": "Composition Studio"
+	"title": "Composition Studio",
+	"type": "Course"
 }

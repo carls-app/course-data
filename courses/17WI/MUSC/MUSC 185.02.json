@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "185.02",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "46446",
 	"tags": [],
-	"title": "Carleton Choir: Men's Chorus"
+	"title": "Carleton Choir: Men's Chorus",
+	"type": "Course"
 }

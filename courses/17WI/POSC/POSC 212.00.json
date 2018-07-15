@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -55,5 +56,6 @@
 		"POSIELECTIVE",
 		"PPOLEP"
 	],
-	"title": "Environmental Justice"
+	"title": "Environmental Justice",
+	"type": "Course"
 }

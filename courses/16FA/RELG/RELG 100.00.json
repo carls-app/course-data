@@ -8,7 +8,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -51,5 +52,6 @@
 		"MESTGRP1",
 		"MESTCORE"
 	],
-	"title": "Muhammad"
+	"title": "Muhammad",
+	"type": "Course"
 }

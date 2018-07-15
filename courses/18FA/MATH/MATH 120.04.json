@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Barrios"
 	],
-	"number": "120.04",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51354",
 	"tags": [],
-	"title": "Calculus 2"
+	"title": "Calculus 2",
+	"type": "Course"
 }

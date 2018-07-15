@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"ASSTHU",
 		"SASTSUPPHI"
 	],
-	"title": "Politics and Public Culture in Modern South Asia"
+	"title": "Politics and Public Culture in Modern South Asia",
+	"type": "Course"
 }

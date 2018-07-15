@@ -6,7 +6,7 @@
 	"instructors": [
 		"Charisse E Burden-Stelly"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"POSI-PLI2",
 		"AFSTSI"
 	],
-	"title": "Globalization & Economic Devel in the African Diaspora"
+	"title": "Globalization & Economic Devel in the African Diaspora",
+	"type": "Course"
 }

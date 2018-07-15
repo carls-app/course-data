@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -47,5 +48,6 @@
 		"BIOLMOLCELL",
 		"BIOLELECTIVE"
 	],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

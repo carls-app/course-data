@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -47,5 +48,6 @@
 		"ENTSCDES",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Materials Science, Energy, and the Environment"
+	"title": "Materials Science, Energy, and the Environment",
+	"type": "Course"
 }

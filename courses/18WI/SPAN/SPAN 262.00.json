@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -52,5 +53,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Myth and History in Central American Literature"
+	"title": "Myth and History in Central American Literature",
+	"type": "Course"
 }

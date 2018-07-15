@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"HISTANCNT/MDVL",
 		"HISTPERT"
 	],
-	"title": "The World of Alexander"
+	"title": "The World of Alexander",
+	"type": "Course"
 }

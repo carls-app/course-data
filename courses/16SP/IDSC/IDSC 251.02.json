@@ -7,7 +7,7 @@
 		"Laurence D Cooper",
 		"Alan Rubenstein"
 	],
-	"number": "251.02",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -25,6 +25,7 @@
 		"HI"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 12,
 		"total": 18,
@@ -37,5 +38,6 @@
 		"SPECINTETHICS",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Windows on the Good Life"
+	"title": "Windows on the Good Life",
+	"type": "Course"
 }

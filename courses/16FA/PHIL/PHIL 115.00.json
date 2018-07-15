@@ -6,7 +6,7 @@
 	"instructors": [
 		"Douglas B Marshall"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"tags": [
 		"SPECINTETHICS"
 	],
-	"title": "Skepticism, God, and Ethical Dilemmas"
+	"title": "Skepticism, God, and Ethical Dilemmas",
+	"type": "Course"
 }

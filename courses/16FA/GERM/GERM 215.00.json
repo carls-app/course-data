@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CCSTENCTR"
 	],
-	"title": "Refugees Welcome? Debating Migration and Multiculturalism in Post-War Germany"
+	"title": "Refugees Welcome? Debating Migration and Multiculturalism in Post-War Germany",
+	"type": "Course"
 }

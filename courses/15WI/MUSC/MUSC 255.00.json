@@ -9,13 +9,14 @@
 		"Staff",
 		"Hector L Valdivia"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "39067",
 	"tags": [],
-	"title": "Violin"
+	"title": "Violin",
+	"type": "Course"
 }

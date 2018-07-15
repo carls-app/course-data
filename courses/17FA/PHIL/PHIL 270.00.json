@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison E Murphy"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"PHILCORE",
 		"MARSSUPP"
 	],
-	"title": "Ancient Philosophy: The Good Life"
+	"title": "Ancient Philosophy: The Good Life",
+	"type": "Course"
 }

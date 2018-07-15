@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AFSTHI",
 		"CCSTENCTR"
 	],
-	"title": "War in Modern Africa"
+	"title": "War in Modern Africa",
+	"type": "Course"
 }

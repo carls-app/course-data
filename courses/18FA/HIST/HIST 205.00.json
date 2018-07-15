@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AMSTPCC",
 		"AMSTSAP"
 	],
-	"title": "American Environmental History"
+	"title": "American Environmental History",
+	"type": "Course"
 }

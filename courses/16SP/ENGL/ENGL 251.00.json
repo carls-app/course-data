@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"ASSTSOUTH",
 		"ASSTAL"
 	],
-	"title": "Contemporary Indian Fiction"
+	"title": "Contemporary Indian Fiction",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -44,5 +45,6 @@
 		"WGSTADDL",
 		"EDUCCLUSTER2"
 	],
-	"title": "Talking about Diversity"
+	"title": "Talking about Diversity",
+	"type": "Course"
 }

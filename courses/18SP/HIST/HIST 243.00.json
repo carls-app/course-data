@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,24 +31,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"IS",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -58,42 +47,16 @@
 	"summary": "Political propaganda of the French Revolutionary period tells a simple story of downtrodden peasants exploited by callous nobles, but what exactly was the relationship between the political transformations of France from the Renaissance through the French Revolution and the social, religious, and cultural tensions that characterized the era? This course explores the connections and conflicts between popular and elite culture as we survey French history from the sixteenth through early nineteenth centuries, making comparisons to social and political developments in other European countries along the way.",
 	"synonym": "48323",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"POSI-AREAS2",
+		"FRSTELEC",
+		"MARSCORE",
+		"HISTERLYMODEUR",
+		"EUSTCNTRY",
+		"MARSSUPP",
+		"HISTATLANTWRLD",
+		"FRENPERT",
+		"FFSTHISARTH"
 	],
-	"title": "The Peasants are Revolting! Society and Politics in the Making of Modern France"
+	"title": "The Peasants are Revolting! Society and Politics in the Making of Modern France",
+	"type": "Course"
 }

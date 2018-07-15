@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"POECLOWER",
 		"HISTPERT"
 	],
-	"title": "History of Economic Ideas"
+	"title": "History of Economic Ideas",
+	"type": "Course"
 }

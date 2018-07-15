@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"POECWTD",
 		"POECUPWTD"
 	],
-	"title": "Inequality in an Interconnected World"
+	"title": "Inequality in an Interconnected World",
+	"type": "Course"
 }

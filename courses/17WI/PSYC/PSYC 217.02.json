@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "217.02",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Hulings B04"
@@ -26,6 +26,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -38,5 +39,6 @@
 		"NEURCORE",
 		"PSYCLAB"
 	],
-	"title": "Laboratory Research Methods in Behavioral Neuroscience"
+	"title": "Laboratory Research Methods in Behavioral Neuroscience",
+	"type": "Course"
 }

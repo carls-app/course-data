@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201, Mathematics 232, and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 34,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "49829",
 	"tags": [],
-	"title": "Quantum Computing"
+	"title": "Quantum Computing",
+	"type": "Course"
 }

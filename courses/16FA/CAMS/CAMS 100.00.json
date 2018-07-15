@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -49,5 +50,6 @@
 	"tags": [
 		"CAMSELECTIVE"
 	],
-	"title": "Rock 'n' Roll in Cinema"
+	"title": "Rock 'n' Roll in Cinema",
+	"type": "Course"
 }

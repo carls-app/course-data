@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"CCSTGLOBAL",
 		"POECMIDWTD"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

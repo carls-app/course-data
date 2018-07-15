@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "100.05",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -50,5 +51,6 @@
 		"HISTENVIRHEALTH",
 		"HISTUS"
 	],
-	"title": "Drunks and Teetotalers: Alcohol and American Society"
+	"title": "Drunks and Teetotalers: Alcohol and American Society",
+	"type": "Course"
 }

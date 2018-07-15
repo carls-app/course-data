@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "305.00",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"LITFORLANG",
 		"ENGLLOE"
 	],
-	"title": "Homer"
+	"title": "Homer",
+	"type": "Course"
 }

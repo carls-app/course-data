@@ -8,7 +8,7 @@
 	"instructors": [
 		"Buck L Taylor"
 	],
-	"number": "233L.59",
+	"number": "233L",
 	"offerings": {
 		"locations": [
 			"Mudd 267"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 18,
 		"total": 21,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "45088",
 	"tags": [],
-	"title": "Organic Chemistry I Lab"
+	"title": "Organic Chemistry I Lab",
+	"type": "Lab"
 }

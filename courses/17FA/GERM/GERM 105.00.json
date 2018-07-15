@@ -8,11 +8,12 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "105.00",
+	"number": "105",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 3,
@@ -22,5 +23,6 @@
 	"summary": "This course is designed for participants in Carleton's OCS Berlin program with little or no prior knowledge of German. Students will develop a basic foundation in the five skills of reading, writing, listening, speaking, and intercultural communication",
 	"synonym": "49406",
 	"tags": [],
-	"title": "Berlin Program: Beginning German in Berlin"
+	"title": "Berlin Program: Beginning German in Berlin",
+	"type": "Course"
 }

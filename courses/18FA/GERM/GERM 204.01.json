@@ -4,7 +4,7 @@
 	"department": "GERM",
 	"id": "GERM 204.01",
 	"instructors": [],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -30,6 +30,7 @@
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 16,
@@ -39,5 +40,6 @@
 	"summary": "In this course, students build on basic communication skills to engage in more in-depth spoken and written discussions of German-speaking culture. By analyzing longer and more challenging texts, films and cultural media, continuing grammar review, and writing compositions, students acquire greater facility and confidence in all four language skills (writing, speaking, listening, and reading).",
 	"synonym": "52429",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

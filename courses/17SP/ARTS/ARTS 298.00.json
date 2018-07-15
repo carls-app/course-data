@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "46005",
 	"tags": [],
-	"title": "Junior Studio Art Practicum"
+	"title": "Junior Studio Art Practicum",
+	"type": "Course"
 }

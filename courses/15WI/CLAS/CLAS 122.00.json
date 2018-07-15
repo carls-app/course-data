@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -43,5 +44,6 @@
 		"HISTPERT",
 		"MESTGRP1"
 	],
-	"title": "The Archaeology of Mediterranean Prehistory: From the Beginning to the Classical Age"
+	"title": "The Archaeology of Mediterranean Prehistory: From the Beginning to the Classical Age",
+	"type": "Course"
 }

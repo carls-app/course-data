@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 14,
@@ -38,5 +39,6 @@
 	"tags": [
 		"SPECINTHEALTH"
 	],
-	"title": "Public Health in Practice"
+	"title": "Public Health in Practice",
+	"type": "Course"
 }

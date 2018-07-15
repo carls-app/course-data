@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AFSTHI",
 		"HISTMODERN"
 	],
-	"title": "The Black Graphic Novel as Historical Narrative"
+	"title": "The Black Graphic Novel as Historical Narrative",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger K Bechtel"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138",
@@ -30,6 +30,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"THEAPERT",
 		"CAMSXDEPT"
 	],
-	"title": "Live Performance and Digital Media"
+	"title": "Live Performance and Digital Media",
+	"type": "Course"
 }

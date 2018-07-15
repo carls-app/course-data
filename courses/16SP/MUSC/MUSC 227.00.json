@@ -8,7 +8,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230",
@@ -38,6 +38,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 31,
@@ -51,5 +52,6 @@
 		"CGSCELECTIVE",
 		"PSYCPERT"
 	],
-	"title": "Perception and Cognition of Music"
+	"title": "Perception and Cognition of Music",
+	"type": "Course"
 }

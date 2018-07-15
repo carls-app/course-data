@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -29,6 +29,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": "This course focuses on rock deformation at scales ranging from the collision of continents to the movement of individual atoms within crystals. We will examine structures that develop within different layers of the Earth's lithosphere and discuss how and why these structures form. Reading, discussion, and presentation of scientific literature is expected throughout the term as we focus on deformation and tectonics in a single region. Laboratories and one weekend field trip are included.",
 	"synonym": "43899",
 	"tags": [],
-	"title": "Structural Geology"
+	"title": "Structural Geology",
+	"type": "Course"
 }

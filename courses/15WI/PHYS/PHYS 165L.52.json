@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "165L.52",
+	"number": "165L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "39646",
 	"tags": [],
-	"title": "Intro Elect, Magnet, Optic Lab"
+	"title": "Intro Elect, Magnet, Optic Lab",
+	"type": "Lab"
 }

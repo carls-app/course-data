@@ -9,7 +9,7 @@
 		"David Hougen-Eitzman",
 		"Raka M Mitra"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 40,
@@ -51,5 +52,6 @@
 		"BIOCCORE",
 		"NEURCORE"
 	],
-	"title": "Energy Flow in Biological Systems"
+	"title": "Energy Flow in Biological Systems",
+	"type": "Course"
 }

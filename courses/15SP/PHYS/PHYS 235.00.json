@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 36,
@@ -44,5 +45,6 @@
 	"summary": "Electric and magnetic fields in free space, and their interactions with charges and currents. Topics include DC and AC circuits, Maxwells's equations, and electromagnetic waves. Weekly laboratory work.",
 	"synonym": "39680",
 	"tags": [],
-	"title": "Electricity and Magnetism"
+	"title": "Electricity and Magnetism",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"ASSTSS",
 		"ASSTEAST"
 	],
-	"title": "Historical Linguistics"
+	"title": "Historical Linguistics",
+	"type": "Course"
 }

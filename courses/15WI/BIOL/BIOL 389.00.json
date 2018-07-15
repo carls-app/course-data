@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea K Kalis"
 	],
-	"number": "389.00",
+	"number": "389",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": "This seminar course is focused on introductory concepts in evolutionary developmental biology. We will use critical evaluation of primary literature to explore how the genetic mechanisms that control development have evolved the diversity of life on earth.",
 	"synonym": "38515",
 	"tags": [],
-	"title": "Seminar: Evo-Devo; Evolutionary Developmental Biology"
+	"title": "Seminar: Evo-Devo; Evolutionary Developmental Biology",
+	"type": "Course"
 }

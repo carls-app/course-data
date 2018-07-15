@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "108.00",
+	"number": "108",
 	"offerings": {
 		"locations": [
 			"Weitz Center 168"
@@ -32,6 +32,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": "For the student with previous ballet experience this course emphasizes articulation of the technique and development of ballet vocabulary and movement theories. Opportunity to continue to work on technique and to more finely tune the awareness of movement begun in Level I.",
 	"synonym": "47977",
 	"tags": [],
-	"title": "Ballet II"
+	"title": "Ballet II",
+	"type": "Course"
 }

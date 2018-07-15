@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 41,
 		"total": 40,
@@ -49,5 +50,6 @@
 		"ENTSQUANTV",
 		"PPOLCORE"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

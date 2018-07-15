@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stefanie L Simon"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"PSYCCORE",
 		"PSYCSDPCH"
 	],
-	"title": "Social Cognition"
+	"title": "Social Cognition",
+	"type": "Course"
 }

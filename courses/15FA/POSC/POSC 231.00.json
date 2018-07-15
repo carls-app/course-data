@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSIELECTIVE",
 		"POECUPAPP"
 	],
-	"title": "American Foreign Policy"
+	"title": "American Foreign Policy",
+	"type": "Course"
 }

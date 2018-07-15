@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna N Rafferty"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 34,
@@ -46,5 +47,6 @@
 		"CGSCELECTIVE",
 		"NEURELEC"
 	],
-	"title": "Artificial Intelligence"
+	"title": "Artificial Intelligence",
+	"type": "Course"
 }

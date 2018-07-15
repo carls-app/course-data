@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bridget Jacques-Fricke"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 54,
@@ -48,5 +49,6 @@
 		"NEURELEC",
 		"BIOCELEC"
 	],
-	"title": "Human Physiology"
+	"title": "Human Physiology",
+	"type": "Course"
 }

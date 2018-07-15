@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -56,5 +57,6 @@
 		"SAST",
 		"ASSTSS"
 	],
-	"title": "Southeast Asian Politics"
+	"title": "Southeast Asian Politics",
+	"type": "Course"
 }

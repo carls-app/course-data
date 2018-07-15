@@ -9,7 +9,7 @@
 		"Ryan M Kershaw",
 		"Linda K Luedke"
 	],
-	"number": "129.00",
+	"number": "129",
 	"offerings": {
 		"locations": [
 			"West Gym 209"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -44,5 +42,6 @@
 	"summary": "Basic instruction and opportunities to improve your game are provided. All equipment is provided. Experience not necessary.",
 	"synonym": "48140",
 	"tags": [],
-	"title": "Golf, Beginning"
+	"title": "Golf, Beginning",
+	"type": "Course"
 }

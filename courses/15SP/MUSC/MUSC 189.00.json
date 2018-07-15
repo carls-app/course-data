@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "189.00",
+	"number": "189",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 100,
@@ -38,5 +39,6 @@
 	"summary": "The Carleton Symphony Band performs music selected from the standard repertory, including compositions by Holst, Grainger, Nelybel, and Sousa. Regular sight-reading sessions. Admission by audition.",
 	"synonym": "39809",
 	"tags": [],
-	"title": "Carleton Symphony Band"
+	"title": "Carleton Symphony Band",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSIELECTIVE",
 		"PPOLEP"
 	],
-	"title": "Environment and the Evolution of Rules: Designing Institutions to Solve Political Problems"
+	"title": "Environment and the Evolution of Rules: Designing Institutions to Solve Political Problems",
+	"type": "Course"
 }

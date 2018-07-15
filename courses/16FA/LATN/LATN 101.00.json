@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "45690",
 	"tags": [],
-	"title": "Elementary Latin"
+	"title": "Elementary Latin",
+	"type": "Course"
 }

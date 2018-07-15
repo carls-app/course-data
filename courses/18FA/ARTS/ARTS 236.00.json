@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 11,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "50875",
 	"tags": [],
-	"title": "Ceramics: Vessels for Tea"
+	"title": "Ceramics: Vessels for Tea",
+	"type": "Course"
 }

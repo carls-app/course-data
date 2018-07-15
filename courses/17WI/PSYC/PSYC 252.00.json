@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 36,
@@ -46,5 +47,6 @@
 		"PSYCSDPCH",
 		"PSYCCORE"
 	],
-	"title": "Personality"
+	"title": "Personality",
+	"type": "Course"
 }

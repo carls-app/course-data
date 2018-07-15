@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Pagel"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Stadium OTHER"
@@ -26,6 +26,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "48086",
 	"tags": [],
-	"title": "Bowling"
+	"title": "Bowling",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": "The theoretical foundations for the calculus of functions of a complex variable. Not open to students who have taken Mathematics 351 Functions of a Complex Variable.",
 	"synonym": "41532",
 	"tags": [],
-	"title": "Complex Analysis"
+	"title": "Complex Analysis",
+	"type": "Course"
 }

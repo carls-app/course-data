@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam Loy"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 28,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Introduction to Statistical Inference"
+	"title": "Introduction to Statistical Inference",
+	"type": "Course"
 }

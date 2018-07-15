@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hicham N Bou Nassif"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"MESTCORE",
 		"POSI-AREAS2"
 	],
-	"title": "Politics of the Middle East I (1918-67)"
+	"title": "Politics of the Middle East I (1918-67)",
+	"type": "Course"
 }

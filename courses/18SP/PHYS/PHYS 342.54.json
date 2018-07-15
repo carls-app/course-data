@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "342.54",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 228 and 235 and 1-300 level Physics course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 8,
 		"total": 9,
@@ -56,5 +51,6 @@
 	"summary": null,
 	"synonym": "49116",
 	"tags": [],
-	"title": "Contemporary Experimental Physics & Lab"
+	"title": "Contemporary Experimental Physics & Lab",
+	"type": "Course"
 }

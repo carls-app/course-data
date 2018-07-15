@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "52546",
 	"tags": [],
-	"title": "Exploring India: Orientation/Orientalism"
+	"title": "Exploring India: Orientation/Orientalism",
+	"type": "Course"
 }

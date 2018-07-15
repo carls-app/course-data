@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -49,30 +41,13 @@
 	"summary": null,
 	"synonym": "49354",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"WGSTADDL",
+		"ASSTHU",
+		"SASTSUPPHI",
+		"ASSTSOUTH",
+		"ASSTPERT",
+		"CCSTENCTR"
 	],
-	"title": "Saints, Goddesses, and Whores"
+	"title": "Saints, Goddesses, and Whores",
+	"type": "Course"
 }

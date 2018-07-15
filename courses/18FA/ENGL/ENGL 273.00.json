@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"ENGLCREATVWRTG",
 		"ENGLCWWTGWKSHP"
 	],
-	"title": "Writing Memoir"
+	"title": "Writing Memoir",
+	"type": "Course"
 }

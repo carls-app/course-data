@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"CAMSELECTIVE",
 		"POSIELECTIVE"
 	],
-	"title": "Media and Electoral Politics: 2016 United States Election"
+	"title": "Media and Electoral Politics: 2016 United States Election",
+	"type": "Course"
 }

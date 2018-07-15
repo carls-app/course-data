@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew L Rosendorf"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 		"CAMSELECTIVE",
 		"CAMSELECPROD"
 	],
-	"title": "Writing for Television"
+	"title": "Writing for Television",
+	"type": "Course"
 }

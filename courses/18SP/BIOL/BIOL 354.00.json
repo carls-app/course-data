@@ -9,7 +9,7 @@
 		"Charles E Crutchfield",
 		"Jennifer M Wolff"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Chemistry 233 and two upper division Biology courses (200 or 300-level) and instructor's permission required",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "47752",
 	"tags": [],
-	"title": "Human Cutaneous Biology"
+	"title": "Human Cutaneous Biology",
+	"type": "Course"
 }

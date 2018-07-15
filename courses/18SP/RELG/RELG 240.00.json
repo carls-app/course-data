@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mara G Block"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": null,
 	"synonym": "49479",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"RELGCHRISTNTRAD",
+		"AMSTTOPICAL2",
+		"AMSTDAC"
 	],
-	"title": "Investing in God: American Religion and Economic Life"
+	"title": "Investing in God: American Religion and Economic Life",
+	"type": "Course"
 }

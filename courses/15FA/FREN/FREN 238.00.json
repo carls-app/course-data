@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"FFSTLIT",
 		"ENGLFORLIT"
 	],
-	"title": "French Classics Reimagined"
+	"title": "French Classics Reimagined",
+	"type": "Course"
 }

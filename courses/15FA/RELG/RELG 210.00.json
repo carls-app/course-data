@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin A Wolfe"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AFSTCORE",
 		"AFSTHI"
 	],
-	"title": "Prophecy and Social Criticism in America"
+	"title": "Prophecy and Social Criticism in America",
+	"type": "Course"
 }

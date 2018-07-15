@@ -8,7 +8,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231",
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "I Got Rhythm: The Science of Musical Time"
+	"title": "I Got Rhythm: The Science of Musical Time",
+	"type": "Course"
 }

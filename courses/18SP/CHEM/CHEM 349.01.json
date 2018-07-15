@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "349.01",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 348",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 6,
@@ -38,5 +36,6 @@
 	"summary": null,
 	"synonym": "49462",
 	"tags": [],
-	"title": "Computational Chemistry Laboratory"
+	"title": "Computational Chemistry Laboratory",
+	"type": "Course"
 }

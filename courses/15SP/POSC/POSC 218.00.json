@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -39,6 +39,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -56,5 +57,6 @@
 		"AFAMDISTROSS",
 		"AFAMSOCINQ"
 	],
-	"title": "Schools, Scholarship and Policy in the United States"
+	"title": "Schools, Scholarship and Policy in the United States",
+	"type": "Course"
 }

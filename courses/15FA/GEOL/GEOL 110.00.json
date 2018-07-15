@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 36,
@@ -48,5 +49,6 @@
 		"ENTSINTRO",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

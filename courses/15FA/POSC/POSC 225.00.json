@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,6 +33,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"ENTS2SCP",
 		"PPOLEP"
 	],
-	"title": "Global-Local Commons: Sustainability, Diversity & Self-Gov't in Complex Social-Ecological Systems"
+	"title": "Global-Local Commons: Sustainability, Diversity & Self-Gov't in Complex Social-Ecological Systems",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"EUSTCNTRY",
 		"ENGLLOE"
 	],
-	"title": "Dostoevsky"
+	"title": "Dostoevsky",
+	"type": "Course"
 }

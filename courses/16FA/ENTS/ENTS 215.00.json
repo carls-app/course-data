@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -34,6 +34,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"SPECINTSUSTAIN",
 		"PPOLEP"
 	],
-	"title": "Environmental Ethics"
+	"title": "Environmental Ethics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "399.10",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"CMC 307"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Senior standing. Students are strongly encouraged to complete Computer Science 252 and either Computer Science 204 or 257 before starting Computer Science 399.",
 	"requirements": [],
 	"scnc": true,
+	"section": "10",
 	"size": {
 		"registered": 6,
 		"total": 6,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "48897",
 	"tags": [],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

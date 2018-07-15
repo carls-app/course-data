@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chris Calderone"
 	],
-	"number": "321.01",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Mudd 266"
@@ -26,6 +26,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -37,5 +38,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Biological Chemistry Laboratory"
+	"title": "Biological Chemistry Laboratory",
+	"type": "Course"
 }

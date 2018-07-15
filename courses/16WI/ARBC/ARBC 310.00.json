@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -46,5 +47,6 @@
 	"tags": [
 		"MESTGRP2"
 	],
-	"title": "Advanced Media Arabic"
+	"title": "Advanced Media Arabic",
+	"type": "Course"
 }

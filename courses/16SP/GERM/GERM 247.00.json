@@ -8,7 +8,7 @@
 	"instructors": [
 		"John B Lyon"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"ENGLLOE",
 		"EUSTCNTRY"
 	],
-	"title": "Indo-European Folktales"
+	"title": "Indo-European Folktales",
+	"type": "Course"
 }

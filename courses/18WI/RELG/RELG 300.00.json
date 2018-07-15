@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"ASSTDISC",
 		"SOANPERT"
 	],
-	"title": "Theories and Methods in the Study of Religion"
+	"title": "Theories and Methods in the Study of Religion",
+	"type": "Course"
 }

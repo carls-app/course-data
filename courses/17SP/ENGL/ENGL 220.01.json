@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "220.01",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 14,
@@ -43,5 +44,6 @@
 	"summary": "Instruction and practice in being a speaker and an audience in formal and informal settings.",
 	"synonym": "45899",
 	"tags": [],
-	"title": "Arts of Oral Presentation"
+	"title": "Arts of Oral Presentation",
+	"type": "Course"
 }

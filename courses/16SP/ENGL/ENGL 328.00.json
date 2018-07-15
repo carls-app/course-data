@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"EUSTCNTRY",
 		"ENGLT1"
 	],
-	"title": "Victorian Poetry"
+	"title": "Victorian Poetry",
+	"type": "Course"
 }

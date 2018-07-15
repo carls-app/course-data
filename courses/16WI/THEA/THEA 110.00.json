@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger K Bechtel"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 16,
@@ -38,5 +39,6 @@
 	"summary": "Introduces students to fundamental acting skills, including preliminary physical and vocal training, improvisational techniques, and basic scene work. The course includes analysis of plays as bases for performance, with a strong emphasis on characterization.",
 	"synonym": "43034",
 	"tags": [],
-	"title": "Beginning Acting"
+	"title": "Beginning Acting",
+	"type": "Course"
 }

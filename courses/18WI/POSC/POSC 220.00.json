@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AMSTPCC",
 		"AMSTDAC"
 	],
-	"title": "Politics and Political History in Film"
+	"title": "Politics and Political History in Film",
+	"type": "Course"
 }

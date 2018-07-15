@@ -4,7 +4,7 @@
 	"department": "RUSS",
 	"id": "RUSS 204.00",
 	"instructors": [],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -40,6 +40,7 @@
 	"prerequisites": "Prerequisite: Russian 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -49,5 +50,6 @@
 	"summary": "Continued four-skill development using texts and resources from a variety of sources. Emphasis on communicative skills.",
 	"synonym": "52432",
 	"tags": [],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

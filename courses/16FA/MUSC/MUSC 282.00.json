@@ -8,13 +8,14 @@
 	"instructors": [
 		"Gao Hong"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -28,5 +29,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "Chinese Musical Instruments"
+	"title": "Chinese Musical Instruments",
+	"type": "Course"
 }

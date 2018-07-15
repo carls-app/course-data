@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "187.00",
+	"number": "187",
 	"offerings": {
 		"locations": [
 			"Weitz Center M126"
@@ -34,6 +34,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 69,
 		"total": 100,
@@ -43,5 +44,6 @@
 	"summary": "The Carleton Orchestra performs large symphonic masterpieces, such as Beethoven, Stravinsky and Bernstein. Concerti with students and faculty soloists, and smaller works for string and wind ensembles are also performed. Occasional sight-reading sessions. Admission by audition.",
 	"synonym": "47051",
 	"tags": [],
-	"title": "Carleton Orchestra"
+	"title": "Carleton Orchestra",
+	"type": "Course"
 }

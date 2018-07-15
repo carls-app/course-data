@@ -6,7 +6,7 @@
 	"instructors": [
 		"Juliane Schicker"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 10,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "52439",
 	"tags": [],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

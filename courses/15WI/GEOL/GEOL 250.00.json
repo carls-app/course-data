@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -45,5 +46,6 @@
 	"summary": "The study of the chemical and physical properties of minerals, their geologic occurrence and associations. Topics include crystallography, crystal chemistry, x-ray analysis, phase equilibria, classification, optical mineralogy, and environments of formation. Laboratories are included.",
 	"synonym": "38198",
 	"tags": [],
-	"title": "Mineralogy"
+	"title": "Mineralogy",
+	"type": "Course"
 }

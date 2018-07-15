@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"MARSCORE",
 		"EUSTTRANNATL"
 	],
-	"title": "Revival, Revelation, and Re-animation: The Art of Europe's \"Renaissance\""
+	"title": "Revival, Revelation, and Re-animation: The Art of Europe's \"Renaissance\"",
+	"type": "Course"
 }

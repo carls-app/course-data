@@ -6,7 +6,7 @@
 	"instructors": [
 		"Austin P Mason"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Weitz Center 026"
@@ -24,6 +24,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "46595",
 	"tags": [],
-	"title": "The Boston Massacre in 3D: Mapping, Modeling and Serious Gaming"
+	"title": "The Boston Massacre in 3D: Mapping, Modeling and Serious Gaming",
+	"type": "Course"
 }

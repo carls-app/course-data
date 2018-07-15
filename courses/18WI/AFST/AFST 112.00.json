@@ -6,7 +6,7 @@
 	"instructors": [
 		"Charisse E Burden-Stelly"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"AMSTREI",
 		"AFSTCORE"
 	],
-	"title": "Black Revolution on Campus"
+	"title": "Black Revolution on Campus",
+	"type": "Course"
 }

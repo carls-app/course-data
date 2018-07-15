@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bridget Jacques-Fricke"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -47,5 +48,6 @@
 		"NEURCORE",
 		"SPECINTHEALTH"
 	],
-	"title": "Neurobiology"
+	"title": "Neurobiology",
+	"type": "Course"
 }

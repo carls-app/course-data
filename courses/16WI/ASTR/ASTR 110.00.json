@@ -6,7 +6,7 @@
 	"instructors": [
 		"Frank T McNally"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -35,6 +35,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 48,
@@ -44,5 +45,6 @@
 	"summary": "An introduction to current astronomy with an emphasis on how we know what we know. Topics include the solar system; the life cycles of stars; pulsars, quasars, and black holes; and the history and future fate of the universe. No mathematics background beyond high school algebra and trigonometry is assumed.",
 	"synonym": "40944",
 	"tags": [],
-	"title": "Introduction to Astronomy"
+	"title": "Introduction to Astronomy",
+	"type": "Course"
 }

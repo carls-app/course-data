@@ -6,7 +6,7 @@
 	"instructors": [
 		"Megan E Sarno"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "46637",
 	"tags": [],
-	"title": "Musical Theater Practicum"
+	"title": "Musical Theater Practicum",
+	"type": "Course"
 }

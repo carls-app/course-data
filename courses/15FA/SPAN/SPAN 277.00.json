@@ -6,7 +6,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -48,5 +49,6 @@
 		"LTAMLIT",
 		"LTAMPERT"
 	],
-	"title": "The Poem as Artifact: Art and Work in Contemporary Spanish American Poetry"
+	"title": "The Poem as Artifact: Art and Work in Contemporary Spanish American Poetry",
+	"type": "Course"
 }

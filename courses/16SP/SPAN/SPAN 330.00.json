@@ -6,7 +6,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"LTAMELECTIVE",
 		"LTAMPERT"
 	],
-	"title": "The Invention of the Modern Novel: Cervantes'"
+	"title": "The Invention of the Modern Novel: Cervantes'",
+	"type": "Course"
 }

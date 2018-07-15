@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -62,5 +63,6 @@
 		"PPOLECON",
 		"SASTSUPPSI"
 	],
-	"title": "Microeconomics of Development"
+	"title": "Microeconomics of Development",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -25,6 +25,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -34,5 +35,6 @@
 	"summary": "This is a laboratory course that will serve as a follow-up to Physics 344, Classical and Quantum Optics. Students will conduct a number of experiments pertaining to optical phenomena. The experiments will display effects pertaining to classical, quantum, and non-linear optics. The lab will take place once a week for four hours each session.",
 	"synonym": "45789",
 	"tags": [],
-	"title": "Advanced Optics"
+	"title": "Advanced Optics",
+	"type": "Course"
 }

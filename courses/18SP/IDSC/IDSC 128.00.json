@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"MYER 120"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Fall term by instructor approval, winter and spring term requires prior term registration in IDSC 128",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "49751",
 	"tags": [
-		{
-			"code": "CCSTREFLECT",
-			"name": "Ccst Reflectng Cross-Cult Exp"
-		}
+		"CCSTREFLECT"
 	],
-	"title": "Civil Discourse on a Diverse Campus: An Experiential Living-Learning Community"
+	"title": "Civil Discourse on a Diverse Campus: An Experiential Living-Learning Community",
+	"type": "Course"
 }

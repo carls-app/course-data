@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"FRSTELEC",
 		"MARSSUPP"
 	],
-	"title": "Baroque Art"
+	"title": "Baroque Art",
+	"type": "Course"
 }

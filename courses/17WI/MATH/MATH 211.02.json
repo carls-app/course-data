@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peri Shereen"
 	],
-	"number": "211.02",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": "Vectors, curves, partial derivatives, gradient, multiple and iterated integrals, line integrals, Green's theorem.",
 	"synonym": "45785",
 	"tags": [],
-	"title": "Introduction to Multivariable Calculus"
+	"title": "Introduction to Multivariable Calculus",
+	"type": "Course"
 }

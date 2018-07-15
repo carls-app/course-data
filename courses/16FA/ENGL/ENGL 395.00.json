@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"ENGLT2",
 		"ENGLADVSEM"
 	],
-	"title": "Dissenting Americans"
+	"title": "Dissenting Americans",
+	"type": "Course"
 }

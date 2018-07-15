@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"SPECINTSOCTHGHT",
 		"CCSTC"
 	],
-	"title": "Cross-Cultural Psychology"
+	"title": "Cross-Cultural Psychology",
+	"type": "Course"
 }

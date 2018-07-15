@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "49094",
 	"tags": [],
-	"title": "Analytical and Computational Mechanics"
+	"title": "Analytical and Computational Mechanics",
+	"type": "Course"
 }

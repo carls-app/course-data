@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elakshi Kumar"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"WGSTADDL",
 		"AMSTDAC"
 	],
-	"title": "LGBTQ Movements in the U.S."
+	"title": "LGBTQ Movements in the U.S.",
+	"type": "Course"
 }

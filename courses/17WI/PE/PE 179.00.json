@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "179.00",
+	"number": "179",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "46617",
 	"tags": [],
-	"title": "Intro Tap"
+	"title": "Intro Tap",
+	"type": "Course"
 }

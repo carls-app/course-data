@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"West Gym 101"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 10,
@@ -42,5 +40,6 @@
 	"summary": "This class is an introduction to 1-meter and 3-meter springboard diving. Students will first learn safety techniques for on the board, in the air, and while entering the water. They will then learn board work hurdles and back presses, \"in-air\" technique, and \"entry\" technique. At the end of this course, students will be able to safely execute and perform jumps, dives, flips and/or twists off a diving board and understand and appreciate diving as a participant and observer. Students should have intermediate swimming skills so that they are safe and comfortable in the water.",
 	"synonym": "48137",
 	"tags": [],
-	"title": "Diving"
+	"title": "Diving",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -43,5 +44,6 @@
 		"AMSTTOPICAL3",
 		"POSIELECTIVE"
 	],
-	"title": "The Political Thought of Malcolm X and Martin Luther King, Jr. & the American Civil Rights Movement"
+	"title": "The Political Thought of Malcolm X and Martin Luther King, Jr. & the American Civil Rights Movement",
+	"type": "Course"
 }

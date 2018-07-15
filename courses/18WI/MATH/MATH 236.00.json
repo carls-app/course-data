@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 21,
@@ -43,5 +44,6 @@
 	"summary": "Basic concepts and techniques used throughout mathematics. Topics include logic, mathematical induction and other methods of proof, problem solving, sets, cardinality, equivalence relations, functions and relations, and the axiom of choice. Other topics may include: algebraic structures, graph theory, and basic combinatorics.",
 	"synonym": "48819",
 	"tags": [],
-	"title": "Mathematical Structures"
+	"title": "Mathematical Structures",
+	"type": "Course"
 }

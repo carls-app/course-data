@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kim Huynh"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": "The correlation of structure and reactivity in organic molecular systems is studied through the analysis of reaction mechanisms. Topics will include linear free energy relationships, isotope effects, and molecular orbital theory. We will use these theories to analyze reactions, such as pericyclic, enantioselective, and organometallic transformations.",
 	"synonym": "51112",
 	"tags": [],
-	"title": "Organic Chemistry III"
+	"title": "Organic Chemistry III",
+	"type": "Course"
 }

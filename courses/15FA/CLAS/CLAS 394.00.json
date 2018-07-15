@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 10,
@@ -31,5 +32,6 @@
 	"summary": "As part of their senior capstone experience, majors in the classics department will formulate a call for papers developing the current year's theme for a colloquium, and following standard guidelines of the field produce proposals (\"abstracts\") for their own papers to be presented in the winter term.",
 	"synonym": "41783",
 	"tags": [],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

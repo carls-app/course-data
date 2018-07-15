@@ -8,24 +8,16 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "281.07",
+	"number": "281",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Participation in OCS London program",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -35,18 +27,10 @@
 	"summary": null,
 	"synonym": "46873",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		}
+		"ENGLT1",
+		"EUSTCNTRY",
+		"ENGLHE2"
 	],
-	"title": "London Program: Imagining Nineteenth Century London"
+	"title": "London Program: Imagining Nineteenth Century London",
+	"type": "Course"
 }

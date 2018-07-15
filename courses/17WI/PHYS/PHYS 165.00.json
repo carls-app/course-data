@@ -6,7 +6,7 @@
 	"instructors": [
 		"Frank T McNally"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 48,
@@ -46,5 +47,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Electricity, Magnetism, and Optics"
+	"title": "Introduction to Electricity, Magnetism, and Optics",
+	"type": "Course"
 }

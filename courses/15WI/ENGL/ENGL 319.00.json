@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"ENGLHE2",
 		"ENGLT1"
 	],
-	"title": "The Rise of the Novel"
+	"title": "The Rise of the Novel",
+	"type": "Course"
 }

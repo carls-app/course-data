@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"FRENPERT",
 		"FRSTELEC"
 	],
-	"title": "Modern Political Philosophy: Science and Humanity*"
+	"title": "Modern Political Philosophy: Science and Humanity*",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrés Aragoneses"
 	],
-	"number": "235.52",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 141",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 143, 144, 151, 161, or 165, and Mathematics 210 or 211 or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -56,5 +51,6 @@
 	"summary": null,
 	"synonym": "49114",
 	"tags": [],
-	"title": "Electricity and Magnetism & Lab"
+	"title": "Electricity and Magnetism & Lab",
+	"type": "Course"
 }

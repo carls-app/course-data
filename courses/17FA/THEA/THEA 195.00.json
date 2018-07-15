@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "49497",
 	"tags": [],
-	"title": "Acting Shakespeare"
+	"title": "Acting Shakespeare",
+	"type": "Course"
 }

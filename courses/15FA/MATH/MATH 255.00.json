@@ -6,7 +6,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 28,
@@ -44,5 +45,6 @@
 	"summary": "Covers sampling design issues beyond the basic simple random sample: stratification, clustering, domains, and complex designs like two-phase and multistage designs. Inference and estimation techniques for most of these designs will be covered and the idea of sampling weights for a survey will be introduced. This course will also teach methods for graphing complex survey data and exploring relationships in complex survey data using regression and chi-square tests.",
 	"synonym": "41505",
 	"tags": [],
-	"title": "Survey Sampling"
+	"title": "Survey Sampling",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Leighton 304",
@@ -42,6 +42,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 30,
@@ -62,5 +63,6 @@
 		"HISTENVIRHEALTH",
 		"MESTGRP1"
 	],
-	"title": "Saints, Sinners, and Philosophers in Late Antiquity"
+	"title": "Saints, Sinners, and Philosophers in Late Antiquity",
+	"type": "Course"
 }

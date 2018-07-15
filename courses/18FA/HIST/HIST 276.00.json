@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elena C McGrath"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"LTAMELECTIVE",
 		"LTAMSOCSCI"
 	],
-	"title": "Race, Sex, and Cold War in Latin America"
+	"title": "Race, Sex, and Cold War in Latin America",
+	"type": "Course"
 }

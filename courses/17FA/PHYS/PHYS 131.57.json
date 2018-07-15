@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrés Aragoneses"
 	],
-	"number": "131.57",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Olin 141",
@@ -43,6 +43,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 13,
 		"total": 24,
@@ -54,5 +55,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Newtonian Mechanics & Lab"
+	"title": "Introduction to Physics: Newtonian Mechanics & Lab",
+	"type": "Course"
 }

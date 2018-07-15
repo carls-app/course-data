@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 10,
@@ -49,5 +50,6 @@
 	"tags": [
 		"ARCNPERT"
 	],
-	"title": "Geology in the Field"
+	"title": "Geology in the Field",
+	"type": "Course"
 }

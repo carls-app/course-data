@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jalean J Petricka"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 40,
@@ -47,5 +48,6 @@
 	"tags": [
 		"NEURELEC"
 	],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

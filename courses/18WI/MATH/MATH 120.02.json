@@ -6,7 +6,7 @@
 	"instructors": [
 		"Owen D Biesel"
 	],
-	"number": "120.02",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "48836",
 	"tags": [],
-	"title": "Calculus 2"
+	"title": "Calculus 2",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"THEAPERT"
 	],
-	"title": "Movement for the Performer"
+	"title": "Movement for the Performer",
+	"type": "Course"
 }

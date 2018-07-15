@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 42,
@@ -48,5 +49,6 @@
 	"tags": [
 		"ENTSINTRO"
 	],
-	"title": "Introduction to Physics: Environmental Physics"
+	"title": "Introduction to Physics: Environmental Physics",
+	"type": "Course"
 }

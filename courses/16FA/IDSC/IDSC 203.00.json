@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -42,5 +43,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Talking about Diversity"
+	"title": "Talking about Diversity",
+	"type": "Course"
 }

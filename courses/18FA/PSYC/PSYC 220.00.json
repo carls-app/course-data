@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -49,5 +50,6 @@
 		"PSYCBIOBEH",
 		"PSYCCGST"
 	],
-	"title": "Sensation and Perception"
+	"title": "Sensation and Perception",
+	"type": "Course"
 }

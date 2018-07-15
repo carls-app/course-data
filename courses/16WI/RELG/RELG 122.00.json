@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"RELGISLAMICTRAD",
 		"AFAMPERT"
 	],
-	"title": "Introduction to Islam"
+	"title": "Introduction to Islam",
+	"type": "Course"
 }

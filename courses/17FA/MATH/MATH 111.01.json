@@ -6,7 +6,7 @@
 	"instructors": [
 		"Owen D Biesel"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MATHCALC"
 	],
-	"title": "Introduction to Calculus"
+	"title": "Introduction to Calculus",
+	"type": "Course"
 }

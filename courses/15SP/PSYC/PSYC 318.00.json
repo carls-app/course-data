@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"NEURELEC",
 		"SPECINTHEALTH"
 	],
-	"title": "Psychopharmacology"
+	"title": "Psychopharmacology",
+	"type": "Course"
 }

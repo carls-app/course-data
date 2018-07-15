@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"POSIELECTIVE",
 		"EUSTTRANNATL"
 	],
-	"title": "Capitalist Crises, Power, and Policy"
+	"title": "Capitalist Crises, Power, and Policy",
+	"type": "Course"
 }

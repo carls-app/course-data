@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": "Hackers, phishers, and spammers--at best they annoy us, at worst they disrupt communication systems, steal identities, bring down corporations, and compromise sensitive systems. In this course, we'll study various aspects of computer and network security, focusing mainly on the technical aspects as well as the social and cultural costs of providing (or not providing) security. Topics include cryptography, authentication and identification schemes, intrusion detection, viruses and worms, spam prevention, firewalls, denial of service, electronic commerce, privacy, and usability.",
 	"synonym": "48929",
 	"tags": [],
-	"title": "Computer Security"
+	"title": "Computer Security",
+	"type": "Course"
 }

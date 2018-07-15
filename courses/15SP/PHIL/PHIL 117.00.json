@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah R Jansen"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"SPECINTSOCTHGHT",
 		"SPECINTETHICS"
 	],
-	"title": "Philosophical Problems: Mind, Free Will and Morality"
+	"title": "Philosophical Problems: Mind, Free Will and Morality",
+	"type": "Course"
 }

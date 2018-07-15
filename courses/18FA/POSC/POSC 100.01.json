@@ -8,7 +8,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -39,6 +39,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -51,5 +52,6 @@
 		"POSI-LPS2",
 		"POSIELECTIVE"
 	],
-	"title": "Society in Silico"
+	"title": "Society in Silico",
+	"type": "Course"
 }

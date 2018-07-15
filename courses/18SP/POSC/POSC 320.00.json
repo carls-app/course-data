@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hicham N Bou Nassif"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -45,26 +40,12 @@
 	"summary": "This course analyzes theories of authoritarianism and prospects for democratization in the Middle East. The course is divided into three sections: the first covers the main theoretical perspectives explaining the persistence of authoritarian rule in the Middle East. The second is devoted to the events of the Arab Spring, with an emphasis on Egypt, Syria, and Tunisia. Finally, the third section deals with two of the most pressing issues facing the countries of the Arab Spring: 1) the political role of Arab armed forces, 2) the integration of the long-banned Islamist groups into the public sphere as legitimate political parties.",
 	"synonym": "49557",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"POSIELECTIVE",
+		"POSI-DSS2",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"MESTGRP1"
 	],
-	"title": "Authoritarianism and Democratization in the Middle East*"
+	"title": "Authoritarianism and Democratization in the Middle East*",
+	"type": "Course"
 }

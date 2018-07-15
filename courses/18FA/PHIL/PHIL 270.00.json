@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison E Murphy"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"PHILCORE",
 		"MARSSUPP"
 	],
-	"title": "Ancient Philosophy: The Good Life"
+	"title": "Ancient Philosophy: The Good Life",
+	"type": "Course"
 }

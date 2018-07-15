@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce R Dalgaard"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"POECLOWER",
 		"PPOLCORE"
 	],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

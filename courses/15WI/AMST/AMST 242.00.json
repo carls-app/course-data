@@ -6,7 +6,7 @@
 	"instructors": [
 		"Audrey S Russek"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTTOPICAL1"
 	],
-	"title": "Unseen Evidence: Images and the Archive in American Studies"
+	"title": "Unseen Evidence: Images and the Archive in American Studies",
+	"type": "Course"
 }

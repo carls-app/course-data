@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -52,5 +53,6 @@
 		"HISTPREMODERN",
 		"RELGPERT"
 	],
-	"title": "Ideas Incarnate: Institutional Formation, Reform, and Governance in the Middle Ages"
+	"title": "Ideas Incarnate: Institutional Formation, Reform, and Governance in the Middle Ages",
+	"type": "Course"
 }

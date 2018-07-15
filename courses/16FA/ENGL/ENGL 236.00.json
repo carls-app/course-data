@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"ENTSCDSCP",
 		"AMMUGROUP3"
 	],
-	"title": "American Nature Writing"
+	"title": "American Nature Writing",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Kris Layman",
 		"Linda K Luedke"
 	],
-	"number": "198.03",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "49494",
 	"tags": [],
-	"title": "Yoga, Continuing"
+	"title": "Yoga, Continuing",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 24,
@@ -49,5 +50,6 @@
 		"ELECSTAT",
 		"ENTSQUANTV"
 	],
-	"title": "Applied Regression Analysis"
+	"title": "Applied Regression Analysis",
+	"type": "Course"
 }

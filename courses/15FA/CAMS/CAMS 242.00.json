@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"CAMSELECPROD",
 		"CAMSSTUPROD"
 	],
-	"title": "Sound and Music in TV and New Media"
+	"title": "Sound and Music in TV and New Media",
+	"type": "Course"
 }

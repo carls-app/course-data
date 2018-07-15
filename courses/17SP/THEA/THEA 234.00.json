@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah A Brandner"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "45537",
 	"tags": [],
-	"title": "Lighting Design for the Performing Arts"
+	"title": "Lighting Design for the Performing Arts",
+	"type": "Course"
 }

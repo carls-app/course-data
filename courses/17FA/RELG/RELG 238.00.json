@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -59,5 +60,6 @@
 		"CCSTENCTR",
 		"SASTSUPPHI"
 	],
-	"title": "The Sacred Body"
+	"title": "The Sacred Body",
+	"type": "Course"
 }

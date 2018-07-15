@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -35,6 +35,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"POSI-AREAS2",
 		"ASSTEAST"
 	],
-	"title": "Chinese Foreign Policy"
+	"title": "Chinese Foreign Policy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "45430",
 	"tags": [],
-	"title": "Understanding Religion"
+	"title": "Understanding Religion",
+	"type": "Course"
 }

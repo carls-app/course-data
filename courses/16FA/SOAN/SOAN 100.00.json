@@ -8,7 +8,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -47,5 +48,6 @@
 	"summary": null,
 	"synonym": "45557",
 	"tags": [],
-	"title": "Asian Americans: From Forever Foreigner to the Model Minority"
+	"title": "Asian Americans: From Forever Foreigner to the Model Minority",
+	"type": "Course"
 }

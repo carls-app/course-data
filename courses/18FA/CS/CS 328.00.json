@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna N Rafferty"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Computational Models of Cognition"
+	"title": "Computational Models of Cognition",
+	"type": "Course"
 }

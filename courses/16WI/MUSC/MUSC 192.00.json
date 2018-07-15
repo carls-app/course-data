@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "192.00",
+	"number": "192",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"tags": [
 		"AFAMARTSPRAC"
 	],
-	"title": "West African Drum Ensemble"
+	"title": "West African Drum Ensemble",
+	"type": "Course"
 }

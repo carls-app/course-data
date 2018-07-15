@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"BIOCELEC"
 	],
-	"title": "Chemical and Biosynthesis"
+	"title": "Chemical and Biosynthesis",
+	"type": "Course"
 }

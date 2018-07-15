@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,6 +26,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -37,5 +38,6 @@
 	"tags": [
 		"ENTS2ENVSCI"
 	],
-	"title": "Field Investigation in Comparative Agroecology"
+	"title": "Field Investigation in Comparative Agroecology",
+	"type": "Course"
 }

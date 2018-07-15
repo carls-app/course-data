@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"ENTSSRSEM"
 	],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

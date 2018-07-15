@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"ASSTEAST",
 		"RELGBUDDHSTTRAD"
 	],
-	"title": "Religions in Japanese Culture"
+	"title": "Religions in Japanese Culture",
+	"type": "Course"
 }

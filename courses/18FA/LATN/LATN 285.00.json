@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "52299",
 	"tags": [],
-	"title": "Weekly Latin"
+	"title": "Weekly Latin",
+	"type": "Course"
 }

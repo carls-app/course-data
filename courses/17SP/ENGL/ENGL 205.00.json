@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 10,
@@ -48,5 +49,6 @@
 		"ENGLHE1",
 		"MARSSUPP"
 	],
-	"title": "The Medieval Outlaw"
+	"title": "The Medieval Outlaw",
+	"type": "Course"
 }

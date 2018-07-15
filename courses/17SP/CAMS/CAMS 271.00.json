@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine Licata"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"CAMSELECPROD",
 		"CAMSSTUPROD"
 	],
-	"title": "Fiction"
+	"title": "Fiction",
+	"type": "Course"
 }

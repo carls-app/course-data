@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "234.59",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 233",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -56,10 +51,8 @@
 	"summary": null,
 	"synonym": "49062",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
-	"title": "Organic Chemistry II & Lab"
+	"title": "Organic Chemistry II & Lab",
+	"type": "Course"
 }

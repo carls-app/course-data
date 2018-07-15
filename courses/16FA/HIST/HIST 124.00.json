@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ellen L Manovich"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"POSI-LPS2",
 		"HISTERLYMODEUR"
 	],
-	"title": "History of the City in the United States"
+	"title": "History of the City in the United States",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Topics in Stochastic Processes and Probability"
+	"title": "Topics in Stochastic Processes and Probability",
+	"type": "Course"
 }

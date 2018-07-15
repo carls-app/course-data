@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constanza Ocampo-Raeder"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"LTAMPERT",
 		"LTAMELECTIVE"
 	],
-	"title": "Environmental Anthropology"
+	"title": "Environmental Anthropology",
+	"type": "Course"
 }

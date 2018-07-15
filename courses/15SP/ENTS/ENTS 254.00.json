@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -30,6 +30,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"ENTSLPES",
 		"ENTSCDES"
 	],
-	"title": "Topics in Landscape Ecology"
+	"title": "Topics in Landscape Ecology",
+	"type": "Course"
 }

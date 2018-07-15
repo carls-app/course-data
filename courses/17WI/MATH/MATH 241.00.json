@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Thompson"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Ordinary Differential Equations"
+	"title": "Ordinary Differential Equations",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Buck L Taylor"
 	],
-	"number": "233.02",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 40,
 		"total": 45,
@@ -48,5 +49,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I"
+	"title": "Organic Chemistry I",
+	"type": "Course"
 }

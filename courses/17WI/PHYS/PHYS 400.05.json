@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "400.05",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "05",
 	"size": {
 		"registered": 2,
 		"total": 4,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "45804",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

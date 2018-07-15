@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": "Intensive rehearsal and performance of a work commissioned from a professional guest choreographer. Open to all levels.",
 	"synonym": "44825",
 	"tags": [],
-	"title": "Winter Dance"
+	"title": "Winter Dance",
+	"type": "Course"
 }

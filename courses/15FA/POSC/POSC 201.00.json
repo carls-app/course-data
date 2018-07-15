@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -37,6 +37,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"EDUCCLUSTER3",
 		"PPOLOTHER"
 	],
-	"title": "Lobbyists, Wonks and Social Media: Public Policy Making in Democracy"
+	"title": "Lobbyists, Wonks and Social Media: Public Policy Making in Democracy",
+	"type": "Course"
 }

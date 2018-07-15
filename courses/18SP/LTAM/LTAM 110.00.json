@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helena I Kaufman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish 204 or instructor permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": "This fast-paced introductory Portuguese language course focuses on developing communication skills and emphasizes speaking, reading, and writing. Previous knowledge of Spanish is assumed in presentation of grammar and vocabulary.",
 	"synonym": "48643",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"LTAMELECTIVE",
+		"LTAMLIT"
 	],
-	"title": "Portuguese for Spanish Speakers"
+	"title": "Portuguese for Spanish Speakers",
+	"type": "Course"
 }

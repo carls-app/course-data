@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laska Jimsen"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"CAMSELECTIVE",
 		"CAMSELECPROD"
 	],
-	"title": "Animation"
+	"title": "Animation",
+	"type": "Course"
 }

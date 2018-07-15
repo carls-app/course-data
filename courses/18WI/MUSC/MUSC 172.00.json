@@ -8,13 +8,14 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "172.00",
+	"number": "172",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -26,5 +27,6 @@
 	"tags": [
 		"MELAPERT"
 	],
-	"title": "Oud"
+	"title": "Oud",
+	"type": "Course"
 }

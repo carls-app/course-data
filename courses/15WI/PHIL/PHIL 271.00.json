@@ -7,7 +7,7 @@
 		"Sarah R Jansen",
 		"Clara S Hardy"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"PHILCORE",
 		"CLASPERT"
 	],
-	"title": "Tragedy, Myth and Philosophy"
+	"title": "Tragedy, Myth and Philosophy",
+	"type": "Course"
 }

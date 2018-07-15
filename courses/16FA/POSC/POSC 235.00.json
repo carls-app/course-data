@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bryan R Daves"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"POSI-LPS2",
 		"POSIELECTIVE"
 	],
-	"title": "Game Theory: Politics and Strategy"
+	"title": "Game Theory: Politics and Strategy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam Loy"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 39,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine Licata"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"CAMSELECPROD",
 		"CAMSELECTIVE"
 	],
-	"title": "Digital Editing Workshop"
+	"title": "Digital Editing Workshop",
+	"type": "Course"
 }

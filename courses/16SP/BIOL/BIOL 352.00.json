@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Olin 02",
@@ -47,6 +47,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -61,5 +62,6 @@
 		"ENTSCDES",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Population Ecology"
+	"title": "Population Ecology",
+	"type": "Course"
 }

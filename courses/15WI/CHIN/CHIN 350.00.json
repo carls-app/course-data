@@ -6,7 +6,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"ASSTEAST",
 		"ENGLLOE"
 	],
-	"title": "Advanced Chinese: Poems and Stories"
+	"title": "Advanced Chinese: Poems and Stories",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 34,
@@ -47,5 +48,6 @@
 		"LINGPERT",
 		"NEURELEC"
 	],
-	"title": "Computability and Complexity"
+	"title": "Computability and Complexity",
+	"type": "Course"
 }

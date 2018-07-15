@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Neurochemistry of Love and Sex"
+	"title": "Neurochemistry of Love and Sex",
+	"type": "Course"
 }

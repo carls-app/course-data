@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "198.02",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Hulings 120"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 100 for IDSC 198-01 or permission for IDSC 198-02",
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "46646",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

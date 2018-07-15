@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"ASSTSS",
 		"POECUPWTD"
 	],
-	"title": "Politics of Contemporary China"
+	"title": "Politics of Contemporary China",
+	"type": "Course"
 }

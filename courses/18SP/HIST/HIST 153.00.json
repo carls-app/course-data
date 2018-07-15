@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 30,
@@ -49,30 +41,13 @@
 	"summary": "This course offers a critical survey of the modern transformation of the trajectory of China's recent past spanning from the eighteenth century through the present. Students will analyze deep structural issues that cut across political narratives of Chinese elites. Themes for discussion will include the debates on Chinese \"capitalism,\" new religious currents as a form of legitimation (e.g., Tibetan Buddhism), bureaucratic behaviors, cultural refinements, peasant and sectarian rebellions, the interaction with the West, the (non-)existence of civil society, nationalism, party politics, the dynamics of Communist rule, and alternative Chinese societies both inside and outside of Mainland China.",
 	"synonym": "48297",
 	"tags": [
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"EASTCORE",
+		"POSI-AREAS2",
+		"ASSTHU",
+		"ASSTEAST",
+		"HISTASIA",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "History of Modern China"
+	"title": "History of Modern China",
+	"type": "Course"
 }

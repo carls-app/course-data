@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: French 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"EUSTLANG",
 		"EUSTCNTRY"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Cowling DANC",
@@ -32,6 +32,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "An art of self-defense which originated in Okinawa. Karate involves mastering techniques, sharpening concentration and refining one's spirit. Karate develops self-confidence and self-discipline while providing a solid workout. Ideally, the Karateka carries a clarity of concentration and serenity of spirit every day in whatever she/he is doing. Beginners are welcome and appreciated. An additional fee of $20 is required.",
 	"synonym": "37642",
 	"tags": [],
-	"title": "Karate"
+	"title": "Karate",
+	"type": "Course"
 }

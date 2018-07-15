@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 40,
@@ -47,5 +48,6 @@
 		"ENTSCDES",
 		"BIOLELECTIVE"
 	],
-	"title": "Evolution"
+	"title": "Evolution",
+	"type": "Course"
 }

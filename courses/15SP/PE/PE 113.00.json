@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Pagel"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"LAST 101"
@@ -26,6 +26,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -35,5 +36,6 @@
 	"summary": "The social and recreational values of a sport like bowling must be experienced to be appreciated. Students pay a fee per session for three games, equipment rental and bus ride to the lanes. Individual help is given as needed. Bowling does not develop physical fitness, but other skills are involved and can be developed in an atmosphere that encourages social interaction. Open to all levels of experience.",
 	"synonym": "37707",
 	"tags": [],
-	"title": "Bowling"
+	"title": "Bowling",
+	"type": "Course"
 }

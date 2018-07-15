@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -45,5 +46,6 @@
 		"HISTASIA",
 		"POSI-AREAS"
 	],
-	"title": "History of Modern Japan"
+	"title": "History of Modern Japan",
+	"type": "Course"
 }

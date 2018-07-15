@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christina Ham"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,5 +42,6 @@
 		"CAMSELECTIVE",
 		"CAMSELECPROD"
 	],
-	"title": "Screenwriting"
+	"title": "Screenwriting",
+	"type": "Course"
 }

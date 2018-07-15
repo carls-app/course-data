@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -21,16 +21,11 @@
 	},
 	"prerequisites": "Prerequisite: English 160, 161, 261, 262, 263, 270, 271, 273, 280, 286, Cinema and Media Studies 271, 278, 279, Cross Cultural Studies 270 or Theater 246",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -40,10 +35,8 @@
 	"summary": "An advanced course in the writing of fiction. Students will write three to four short stories or novel chapters which will be read and critiqued by the class. Students wishing to register for the course must first submit a portfolio of creative writing (typically a short story) to the instructor during Registration (see the English Department's website for full instructions.) Final enrollment is based on the quality of the submitted work.",
 	"synonym": "48551",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
-	"title": "Advanced Fiction Workshop"
+	"title": "Advanced Fiction Workshop",
+	"type": "Course"
 }

@@ -4,7 +4,7 @@
 	"department": "DANC",
 	"id": "DANC 266.00",
 	"instructors": [],
-	"number": "266.00",
+	"number": "266",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
@@ -12,6 +12,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 20,
@@ -24,5 +25,6 @@
 		"AMMUGROUP3",
 		"WGSTADDL"
 	],
-	"title": "Reading The Dancing Body: Topics in Dance History"
+	"title": "Reading The Dancing Body: Topics in Dance History",
+	"type": "Course"
 }

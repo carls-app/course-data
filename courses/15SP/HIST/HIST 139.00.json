@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "139.00",
+	"number": "139",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -57,5 +58,6 @@
 		"FRSTELEC",
 		"FRENPERT"
 	],
-	"title": "Foundations of Modern Europe"
+	"title": "Foundations of Modern Europe",
+	"type": "Course"
 }

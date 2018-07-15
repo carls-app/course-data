@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian W Fuller"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Capitalism, Consumption, and Culture"
+	"title": "Capitalism, Consumption, and Culture",
+	"type": "Course"
 }

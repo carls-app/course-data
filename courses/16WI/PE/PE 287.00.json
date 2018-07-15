@@ -8,7 +8,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -41,6 +41,7 @@
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 60,
@@ -50,5 +51,6 @@
 	"summary": null,
 	"synonym": "40757",
 	"tags": [],
-	"title": "Track and Field/Indoor Intercollegiate, Women"
+	"title": "Track and Field/Indoor Intercollegiate, Women",
+	"type": "Course"
 }

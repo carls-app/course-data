@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"EUSTCNTRY",
 		"FFSTLIT"
 	],
-	"title": "Growing Up French"
+	"title": "Growing Up French",
+	"type": "Course"
 }

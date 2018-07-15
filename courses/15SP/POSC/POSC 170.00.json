@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"ASSTPERT",
 		"POECLOWER"
 	],
-	"title": "International Relations and World Politics"
+	"title": "International Relations and World Politics",
+	"type": "Course"
 }

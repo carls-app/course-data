@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"LINGELEC"
 	],
-	"title": "Case and Agreement"
+	"title": "Case and Agreement",
+	"type": "Course"
 }

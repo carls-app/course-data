@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "341.52",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"ARP",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -56,14 +51,9 @@
 	"summary": null,
 	"synonym": "49391",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"AMMUGROUP2",
+		"AMSTPCC"
 	],
-	"title": "Rock Lab and Lab"
+	"title": "Rock Lab and Lab",
+	"type": "Course"
 }

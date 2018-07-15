@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,6 +33,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "48730",
 	"tags": [],
-	"title": "Mind, Brain, Behavior"
+	"title": "Mind, Brain, Behavior",
+	"type": "Course"
 }

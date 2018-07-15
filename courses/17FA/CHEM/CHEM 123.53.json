@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "123.53",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103",
@@ -52,6 +52,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -64,5 +65,6 @@
 		"BIOCCORE",
 		"STEMCHEM"
 	],
-	"title": "Principles of Chemistry I and Lab"
+	"title": "Principles of Chemistry I and Lab",
+	"type": "Course"
 }

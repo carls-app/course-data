@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -55,5 +56,6 @@
 		"AMSTTOPICAL2",
 		"AFSTSURV"
 	],
-	"title": "African American History II"
+	"title": "African American History II",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brielle M Bjorke"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "49326",
 	"tags": [
-		{
-			"code": "NEURCAP",
-			"name": "NEUR Capstone"
-		}
+		"NEURCAP"
 	],
-	"title": "Neuroscience Capstone Seminar"
+	"title": "Neuroscience Capstone Seminar",
+	"type": "Course"
 }

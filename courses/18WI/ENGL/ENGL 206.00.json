@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"ENGLHE1",
 		"MARSSUPP"
 	],
-	"title": "Arthurian Tradition:  From Medieval to Modern"
+	"title": "Arthurian Tradition:  From Medieval to Modern",
+	"type": "Course"
 }

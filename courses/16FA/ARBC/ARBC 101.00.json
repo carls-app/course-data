@@ -7,7 +7,7 @@
 		"Yaron Klein",
 		"Zaki A Haidar"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -54,5 +55,6 @@
 	"tags": [
 		"MDLEPERT"
 	],
-	"title": "Elementary Arabic"
+	"title": "Elementary Arabic",
+	"type": "Course"
 }

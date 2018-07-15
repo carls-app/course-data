@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ethan L Struby"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"POECLOWER",
 		"PPOLCORE"
 	],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

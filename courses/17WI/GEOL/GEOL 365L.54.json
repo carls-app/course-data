@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "365L.54",
+	"number": "365L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 25,
 		"total": 18,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "43900",
 	"tags": [],
-	"title": "Structural Geology Lab"
+	"title": "Structural Geology Lab",
+	"type": "Lab"
 }

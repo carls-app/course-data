@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Phonetics and Phonology"
+	"title": "Phonetics and Phonology",
+	"type": "Course"
 }

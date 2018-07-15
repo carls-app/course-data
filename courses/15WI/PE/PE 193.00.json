@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "193.00",
+	"number": "193",
 	"offerings": {
 		"locations": [
 			"Cowling 106"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -40,5 +41,6 @@
 	"summary": "This course is designed to introduce students to winter sport and fitness activities. Nordic skiing, snowshoeing, skating, broomball, and all other sports will be included. Open to all looking for an enjoyable workout and athletic social interaction. Required $100 fee for ski trip to Welch Village fee will be automatically charged on tuition bill.",
 	"synonym": "40086",
 	"tags": [],
-	"title": "Winter Sport Fitness"
+	"title": "Winter Sport Fitness",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peri Shereen"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -36,6 +36,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -47,5 +48,6 @@
 	"tags": [
 		"CSELECT"
 	],
-	"title": "Coding Theory"
+	"title": "Coding Theory",
+	"type": "Course"
 }

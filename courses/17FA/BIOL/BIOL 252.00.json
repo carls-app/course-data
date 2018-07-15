@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"BIOLORGANISMIC",
 		"BIOLELECTIVE"
 	],
-	"title": "Environmental Animal Physiology"
+	"title": "Environmental Animal Physiology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "102.02",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -44,6 +44,7 @@
 	"prerequisites": "Prerequisite: German 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"summary": "Further study of the basic structural patterns of the German language.",
 	"synonym": "45672",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

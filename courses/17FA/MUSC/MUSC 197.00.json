@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark Kreitzer"
 	],
-	"number": "197.00",
+	"number": "197",
 	"offerings": {
 		"locations": [
 			"Weitz Center M107"
@@ -26,6 +26,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 30,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "47065",
 	"tags": [],
-	"title": "Class Guitar"
+	"title": "Class Guitar",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Graham Hagen-Peter"
 	],
-	"number": "216L.54",
+	"number": "216L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 21,
 		"total": 22,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "43094",
 	"tags": [],
-	"title": "Antarctic Earth Science Lab"
+	"title": "Antarctic Earth Science Lab",
+	"type": "Lab"
 }

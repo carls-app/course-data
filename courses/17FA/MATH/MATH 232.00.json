@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
 	"synonym": "48793",
 	"tags": [],
-	"title": "Linear Algebra"
+	"title": "Linear Algebra",
+	"type": "Course"
 }

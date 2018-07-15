@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"RELGBUDDHSTTRAD",
 		"SASTSUPPHI"
 	],
-	"title": "Buddha"
+	"title": "Buddha",
+	"type": "Course"
 }

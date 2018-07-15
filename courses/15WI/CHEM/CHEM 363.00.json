@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ryan Steed"
 	],
-	"number": "363.00",
+	"number": "363",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"tags": [
 		"BIOCELEC"
 	],
-	"title": "Biophysical Chemistry"
+	"title": "Biophysical Chemistry",
+	"type": "Course"
 }

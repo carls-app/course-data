@@ -9,13 +9,14 @@
 		"Staff",
 		"Nikki Melville"
 	],
-	"number": "150J.00",
+	"number": "150J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 50,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "50031",
 	"tags": [],
-	"title": "Piano (Juried)"
+	"title": "Piano (Juried)",
+	"type": "Juried"
 }

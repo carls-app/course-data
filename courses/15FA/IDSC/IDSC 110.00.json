@@ -9,7 +9,7 @@
 		"Melissa Eblen-Zayas",
 		"Mija M Van Der Wege"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 0,
@@ -41,5 +42,6 @@
 	"summary": "This course will enhance students' quantitative skills and provide opportunities to apply those skills to authentic problems. Topics covered will vary depending on students in the class; possible topics include unit conversions, significant figures and estimation, exponents, logarithms, algebra, geometry, probability, and statistics. We will explore how these skills are relevant in contexts ranging from making personal finance decisions to understanding medical research reports.",
 	"synonym": "43308",
 	"tags": [],
-	"title": "Thinking with Numbers: Using Math and Data in Context"
+	"title": "Thinking with Numbers: Using Math and Data in Context",
+	"type": "Course"
 }

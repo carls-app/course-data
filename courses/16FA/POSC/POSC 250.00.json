@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -32,6 +32,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSI-PLI2",
 		"MARSSUPP"
 	],
-	"title": "Ancient Political Philosophy: Plato's"
+	"title": "Ancient Political Philosophy: Plato's",
+	"type": "Course"
 }

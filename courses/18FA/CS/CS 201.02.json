@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Alexander"
 	],
-	"number": "201.02",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "51290",
 	"tags": [],
-	"title": "Data Structures"
+	"title": "Data Structures",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Heather Pangle"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -52,14 +47,9 @@
 	"summary": null,
 	"synonym": "49429",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
-	"title": "Modern Political Philosophy: Liberalism and Its Critics"
+	"title": "Modern Political Philosophy: Liberalism and Its Critics",
+	"type": "Course"
 }

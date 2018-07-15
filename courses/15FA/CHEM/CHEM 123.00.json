@@ -6,7 +6,7 @@
 	"instructors": [
 		"Buck L Taylor"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 48,
@@ -46,5 +47,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea M Robinson"
 	],
-	"number": "376.00",
+	"number": "376",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Psychology 216.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -39,5 +40,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Neural Plasticity"
+	"title": "Neural Plasticity",
+	"type": "Course"
 }

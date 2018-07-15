@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 0,
@@ -42,5 +43,6 @@
 	"tags": [
 		"SPECINTETHICS"
 	],
-	"title": "Talking about Diversity"
+	"title": "Talking about Diversity",
+	"type": "Course"
 }

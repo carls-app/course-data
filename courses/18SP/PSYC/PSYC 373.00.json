@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "373.00",
+	"number": "373",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or permission of the instructor, Psychology 254 or Psychology 354",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": null,
 	"synonym": "49357",
 	"tags": [
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		},
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		}
+		"PSYCUPPERLEVEL",
+		"PSYCSEMINAR"
 	],
-	"title": "Topics in Professional Psychology"
+	"title": "Topics in Professional Psychology",
+	"type": "Course"
 }

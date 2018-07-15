@@ -8,13 +8,14 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "280J.00",
+	"number": "280J",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -27,5 +28,6 @@
 		"ASSTAL",
 		"ASSTSOUTH"
 	],
-	"title": "Raga:Voc/Instr Study Hindustani (Juried)"
+	"title": "Raga:Voc/Instr Study Hindustani (Juried)",
+	"type": "Juried"
 }

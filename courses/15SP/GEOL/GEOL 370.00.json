@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -33,6 +33,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -45,5 +46,6 @@
 		"ENTS2ENVSCI",
 		"ENTSWRES"
 	],
-	"title": "Geochemistry of Natural Waters"
+	"title": "Geochemistry of Natural Waters",
+	"type": "Course"
 }

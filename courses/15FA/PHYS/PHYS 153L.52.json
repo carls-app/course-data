@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank T McNally"
 	],
-	"number": "153L.52",
+	"number": "153L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "42336",
 	"tags": [],
-	"title": "Fluid and Waves Lab"
+	"title": "Fluid and Waves Lab",
+	"type": "Lab"
 }

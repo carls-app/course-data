@@ -8,13 +8,14 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "101.07",
+	"number": "101",
 	"offerings": null,
 	"prerequisites": "Prerequisite: OCS India Program",
 	"requirements": [
 		"IS"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -26,5 +27,6 @@
 	"tags": [
 		"SAST"
 	],
-	"title": "India Program: Elementary Hindi Language"
+	"title": "India Program: Elementary Hindi Language",
+	"type": "Course"
 }

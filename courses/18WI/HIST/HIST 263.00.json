@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"POSI-AREAS2",
 		"POSI-GDS2"
 	],
-	"title": "Plagues of Empire"
+	"title": "Plagues of Empire",
+	"type": "Course"
 }

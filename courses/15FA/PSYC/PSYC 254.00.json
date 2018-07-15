@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"PPOLPH"
 	],
-	"title": "Psychopathology"
+	"title": "Psychopathology",
+	"type": "Course"
 }

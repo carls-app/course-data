@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -42,5 +43,6 @@
 	"tags": [
 		"CAMSXDEPT"
 	],
-	"title": "Photography I"
+	"title": "Photography I",
+	"type": "Course"
 }

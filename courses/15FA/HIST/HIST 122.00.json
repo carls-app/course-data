@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"WGSTADDL",
 		"EDUCCLUSTER2"
 	],
-	"title": "U.S. Women's History to 1877"
+	"title": "U.S. Women's History to 1877",
+	"type": "Course"
 }

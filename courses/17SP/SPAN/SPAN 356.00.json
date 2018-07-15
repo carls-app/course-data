@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"LTAMPERT",
 		"CAMSXDEPT"
 	],
-	"title": "The Political and Cultural History of the Cuban Revolution"
+	"title": "The Political and Cultural History of the Cuban Revolution",
+	"type": "Course"
 }

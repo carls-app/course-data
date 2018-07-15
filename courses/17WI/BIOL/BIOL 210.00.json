@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 48,
@@ -47,5 +48,6 @@
 		"PPOLPH",
 		"BIOLELECTIVE"
 	],
-	"title": "Global Change Biology"
+	"title": "Global Change Biology",
+	"type": "Course"
 }

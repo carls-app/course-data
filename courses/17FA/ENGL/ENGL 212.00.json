@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"LITFORLANG",
 		"AMSTSURV1"
 	],
-	"title": "Nineteenth-Century American Literature"
+	"title": "Nineteenth-Century American Literature",
+	"type": "Course"
 }

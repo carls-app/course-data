@@ -6,7 +6,7 @@
 	"instructors": [
 		"Trish Ferrett"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -53,5 +54,6 @@
 		"ENTSLPES",
 		"PPOLEP"
 	],
-	"title": "Abrupt Climate Change"
+	"title": "Abrupt Climate Change",
+	"type": "Course"
 }

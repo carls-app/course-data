@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 10,
@@ -37,5 +38,6 @@
 		"SPAN205-209",
 		"SPAN204-219"
 	],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

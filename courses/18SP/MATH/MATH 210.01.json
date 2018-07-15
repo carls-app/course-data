@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "210.01",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Math 120. Not open to students who have received credit for Math 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "48850",
 	"tags": [],
-	"title": "Calculus 3"
+	"title": "Calculus 3",
+	"type": "Course"
 }

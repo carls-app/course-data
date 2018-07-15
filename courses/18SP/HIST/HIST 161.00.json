@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -54,30 +46,13 @@
 	"summary": null,
 	"synonym": "48319",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "SASTHI",
-			"name": "SAST Humanistic Inquiry"
-		}
+		"POSI-AREAS2",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"HISTASIA",
+		"SAST",
+		"SASTHI"
 	],
-	"title": "From the Mughals to Mahatma Gandhi: An Introduction to Modern Indian History"
+	"title": "From the Mughals to Mahatma Gandhi: An Introduction to Modern Indian History",
+	"type": "Course"
 }

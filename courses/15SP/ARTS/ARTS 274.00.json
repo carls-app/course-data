@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eleanor M Jensen"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Boliou 032"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -42,5 +43,6 @@
 	"tags": [
 		"SPECINTBOOKSTD"
 	],
-	"title": "Studio Art Seminar in the South Pacific: Printmaking"
+	"title": "Studio Art Seminar in the South Pacific: Printmaking",
+	"type": "Course"
 }

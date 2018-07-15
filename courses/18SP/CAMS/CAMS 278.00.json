@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew L Rosendorf"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or 111 or permission of instructor",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -45,22 +40,11 @@
 	"summary": null,
 	"synonym": "49161",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD",
+		"ENGLCWWTGWKSHP"
 	],
-	"title": "Writing for Television"
+	"title": "Writing for Television",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"PPOLCORE",
 		"PPOLPH"
 	],
-	"title": "Topics in Medical Ethics"
+	"title": "Topics in Medical Ethics",
+	"type": "Course"
 }

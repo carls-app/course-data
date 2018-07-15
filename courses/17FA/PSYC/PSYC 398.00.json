@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam L Putnam"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Several 200-level Psychology courses and senior Psychology major",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -39,5 +40,6 @@
 		"EDUCCLUSTER1",
 		"PSYCCAPST"
 	],
-	"title": "Cognitive and Developmental Psychology"
+	"title": "Cognitive and Developmental Psychology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -58,5 +59,6 @@
 		"SPECINTSUSTAIN",
 		"POSIELECTIVE"
 	],
-	"title": "Global Environmental Politics and Policy"
+	"title": "Global Environmental Politics and Policy",
+	"type": "Course"
 }

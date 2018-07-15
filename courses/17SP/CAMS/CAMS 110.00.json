@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"CAMSCORE07",
 		"CAMSCORE"
 	],
-	"title": "Introduction to Cinema and Media Studies"
+	"title": "Introduction to Cinema and Media Studies",
+	"type": "Course"
 }

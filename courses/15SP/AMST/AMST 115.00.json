@@ -9,7 +9,7 @@
 		"Elizabeth McKinsey",
 		"Adriana Estill"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -39,6 +39,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -51,5 +52,6 @@
 		"AMMUGROUP1",
 		"HISTUS"
 	],
-	"title": "Introduction to American Studies: Placing Identities"
+	"title": "Introduction to American Studies: Placing Identities",
+	"type": "Course"
 }

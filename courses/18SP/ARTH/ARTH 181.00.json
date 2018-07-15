@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rick Asher"
 	],
-	"number": "181.00",
+	"number": "181",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -45,10 +40,8 @@
 	"summary": null,
 	"synonym": "47829",
 	"tags": [
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		}
+		"SAST"
 	],
-	"title": "Buddhist Art in India"
+	"title": "Buddhist Art in India",
+	"type": "Course"
 }

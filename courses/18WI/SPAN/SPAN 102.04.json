@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fernando I Contreras"
 	],
-	"number": "102.04",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335",
@@ -43,6 +43,7 @@
 	"prerequisites": "Prerequisite: Spanish 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "48463",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

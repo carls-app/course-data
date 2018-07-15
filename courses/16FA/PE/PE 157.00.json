@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "157.00",
+	"number": "157",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "46201",
 	"tags": [],
-	"title": "Tai Chi"
+	"title": "Tai Chi",
+	"type": "Course"
 }

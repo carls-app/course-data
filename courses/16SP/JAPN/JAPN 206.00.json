@@ -6,7 +6,7 @@
 	"instructors": [
 		"Miaki Habuka"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Japanese 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"ASSTLANG",
 		"ASSTEAST"
 	],
-	"title": "Japanese in Cultural Context"
+	"title": "Japanese in Cultural Context",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Ruth Lorenz"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"EUSTCNTRY",
 		"RUSSIANPERT"
 	],
-	"title": "Russian and Soviet Film in Context"
+	"title": "Russian and Soviet Film in Context",
+	"type": "Course"
 }

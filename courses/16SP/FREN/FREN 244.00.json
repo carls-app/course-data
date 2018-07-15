@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -51,5 +52,6 @@
 		"FRSTELEC",
 		"ENGLFORLIT"
 	],
-	"title": "Contemporary France and Humor"
+	"title": "Contemporary France and Humor",
+	"type": "Course"
 }

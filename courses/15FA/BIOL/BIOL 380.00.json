@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Broege"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

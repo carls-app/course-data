@@ -8,13 +8,14 @@
 	"instructors": [
 		"Eric Sieger"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 20,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "46631",
 	"tags": [],
-	"title": "Golf Intercollegiate, Women"
+	"title": "Golf Intercollegiate, Women",
+	"type": "Course"
 }

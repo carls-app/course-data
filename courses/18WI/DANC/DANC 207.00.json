@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "49853",
 	"tags": [],
-	"title": "Site Specific Performance Project"
+	"title": "Site Specific Performance Project",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrés Aragoneses"
 	],
-	"number": "143.52",
+	"number": "143",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -43,6 +43,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -54,5 +55,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Physical Systems: Mechanics and Relativity & Lab"
+	"title": "Physical Systems: Mechanics and Relativity & Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"EUSTTRANNATL",
 		"HISTERLYMODEUR"
 	],
-	"title": "Two Centuries of Tumult: Modern Central Europe"
+	"title": "Two Centuries of Tumult: Modern Central Europe",
+	"type": "Course"
 }

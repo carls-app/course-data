@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -24,6 +24,7 @@
 		"FSR"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "52239",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

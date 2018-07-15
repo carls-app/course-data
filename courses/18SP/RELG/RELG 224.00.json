@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mara G Block"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "49478",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		}
+		"RELGCHRISTNTRAD"
 	],
-	"title": "Religion, Science, and the Modern Imagination"
+	"title": "Religion, Science, and the Modern Imagination",
+	"type": "Course"
 }

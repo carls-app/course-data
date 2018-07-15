@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"tags": [
 		"POECLOWER"
 	],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

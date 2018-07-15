@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "52485",
 	"tags": [],
-	"title": "Dance Lab"
+	"title": "Dance Lab",
+	"type": "Course"
 }

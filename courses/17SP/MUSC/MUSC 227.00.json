@@ -8,7 +8,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -37,6 +37,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"PSYCCGST",
 		"PSYCCORE"
 	],
-	"title": "Perception and Cognition of Music"
+	"title": "Perception and Cognition of Music",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": "Intensive study of selections from Vergil. May be offered simultaneously with Latin 359 without the supplemental assignments for advanced students.",
 	"synonym": "39474",
 	"tags": [],
-	"title": "Seminar: Vergil"
+	"title": "Seminar: Vergil",
+	"type": "Course"
 }

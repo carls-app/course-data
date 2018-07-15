@@ -7,7 +7,7 @@
 		"Melissa Eblen-Zayas",
 		"Barry N Costanzi"
 	],
-	"number": "342.59",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -38,16 +38,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 228 and 235 and 1-300 level Physics course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 8,
 		"total": 9,
@@ -57,5 +52,6 @@
 	"summary": null,
 	"synonym": "50840",
 	"tags": [],
-	"title": "Contemporary Experimental Physics & Lab"
+	"title": "Contemporary Experimental Physics & Lab",
+	"type": "Course"
 }

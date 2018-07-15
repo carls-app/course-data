@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -37,6 +37,7 @@
 		"WR1"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -48,5 +49,6 @@
 	"tags": [
 		"ENGLF"
 	],
-	"title": "Autobiography"
+	"title": "Autobiography",
+	"type": "Course"
 }

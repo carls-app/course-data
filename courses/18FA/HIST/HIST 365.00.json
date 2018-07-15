@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"HISTMODERN",
 		"POSI-AREAS2"
 	],
-	"title": "Colonialism in East Asia"
+	"title": "Colonialism in East Asia",
+	"type": "Course"
 }

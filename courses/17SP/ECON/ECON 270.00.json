@@ -6,7 +6,7 @@
 	"instructors": [
 		"Theresa A Bauer"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSI-DSS2",
 		"PPOLCORE"
 	],
-	"title": "Economics of the Public Sector"
+	"title": "Economics of the Public Sector",
+	"type": "Course"
 }

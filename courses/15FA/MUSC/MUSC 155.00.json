@@ -9,13 +9,14 @@
 		"Staff",
 		"Hector L Valdivia"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 0,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "42319",
 	"tags": [],
-	"title": "Violin"
+	"title": "Violin",
+	"type": "Course"
 }

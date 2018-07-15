@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ryan Steed"
 	],
-	"number": "364.00",
+	"number": "364",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -26,6 +26,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 8,
@@ -35,5 +36,6 @@
 	"summary": "This lab course introduces biophysical techniques, including crystallography, magnetic resonance, and various fluorescence spectroscopy methods, used to study the structure, dynamics, and function of biological macromolecules.",
 	"synonym": "40421",
 	"tags": [],
-	"title": "Biophysical Chemistry Lab"
+	"title": "Biophysical Chemistry Lab",
+	"type": "Course"
 }

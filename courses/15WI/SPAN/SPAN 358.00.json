@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -30,6 +30,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"SPECINTETHICS",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "The Spanish Civil War"
+	"title": "The Spanish Civil War",
+	"type": "Course"
 }

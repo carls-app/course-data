@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"CCSTETHNIC",
 		"AFAMSOCINQ"
 	],
-	"title": "Psychology of Prejudice"
+	"title": "Psychology of Prejudice",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -33,6 +33,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"THEAPERT",
 		"MARSSUPP"
 	],
-	"title": "Revenge Tragedy"
+	"title": "Revenge Tragedy",
+	"type": "Course"
 }

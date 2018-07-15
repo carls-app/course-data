@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -43,5 +44,6 @@
 		"ENGLT2",
 		"AMSTTOPICAL1"
 	],
-	"title": "The City in American Literature"
+	"title": "The City in American Literature",
+	"type": "Course"
 }

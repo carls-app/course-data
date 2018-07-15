@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"MESTGRP1",
 		"HISTMODERN"
 	],
-	"title": "Central Asia in the Modern Age"
+	"title": "Central Asia in the Modern Age",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35"
@@ -24,6 +24,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -35,5 +36,6 @@
 	"tags": [
 		"AFAMARTSPRAC"
 	],
-	"title": "Jubilee Singers"
+	"title": "Jubilee Singers",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"MESTGRP2",
 		"CCSTENCTR"
 	],
-	"title": "Encountering the Other: The Crusades"
+	"title": "Encountering the Other: The Crusades",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"CAMSCORE07",
 		"CAMSCORE"
 	],
-	"title": "Introduction to Cinema and Media Studies"
+	"title": "Introduction to Cinema and Media Studies",
+	"type": "Course"
 }

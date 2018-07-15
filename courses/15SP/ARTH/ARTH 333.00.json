@@ -6,7 +6,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"SPECINTSOCTHGHT",
 		"AMSTTOPICAL1"
 	],
-	"title": "Visual Culture and the Civil War"
+	"title": "Visual Culture and the Civil War",
+	"type": "Course"
 }

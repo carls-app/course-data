@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"SPECINTSOCTHGHT",
 		"PPOLPH"
 	],
-	"title": "Anthropology of Health and Illness"
+	"title": "Anthropology of Health and Illness",
+	"type": "Course"
 }

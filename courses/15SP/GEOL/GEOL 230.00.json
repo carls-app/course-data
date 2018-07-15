@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 36,
@@ -44,5 +45,6 @@
 	"summary": "Fossils: their anatomy and classification, evolution, and ecology. Special emphasis on the paleobiology of marine invertebrates. Field trips and laboratories included.",
 	"synonym": "38220",
 	"tags": [],
-	"title": "Paleobiology"
+	"title": "Paleobiology",
+	"type": "Course"
 }

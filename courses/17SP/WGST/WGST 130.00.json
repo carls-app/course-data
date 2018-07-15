@@ -6,7 +6,7 @@
 	"instructors": [
 		"Katie L Bashore"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -34,6 +34,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "46182",
 	"tags": [],
-	"title": "Politics of Sex"
+	"title": "Politics of Sex",
+	"type": "Course"
 }

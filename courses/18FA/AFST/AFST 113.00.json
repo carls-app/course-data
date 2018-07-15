@@ -6,7 +6,7 @@
 	"instructors": [
 		"Charisse E Burden-Stelly"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"AFSTSURV",
 		"AFSTCORE"
 	],
-	"title": "Introduction to Africana Studies"
+	"title": "Introduction to Africana Studies",
+	"type": "Course"
 }

@@ -6,13 +6,14 @@
 	"instructors": [
 		"Laura Caviani"
 	],
-	"number": "196.00",
+	"number": "196",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "46701",
 	"tags": [],
-	"title": "Jazz Workshop"
+	"title": "Jazz Workshop",
+	"type": "Course"
 }

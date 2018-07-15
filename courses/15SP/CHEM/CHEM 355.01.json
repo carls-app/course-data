@@ -8,7 +8,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "355.01",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Mudd B68",
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 4,
@@ -43,5 +44,6 @@
 	"summary": "This project-based lab uses both continuous-wave and pulsed lasers to explore not only the basic principles of laser operation but also spectroscopic applications and excited-state phenomena using techniques such as laser-induced fluorescence and Raman scattering. Corequisite: Chemistry 354.",
 	"synonym": "38490",
 	"tags": [],
-	"title": "Lasers and Spectroscopy Laboratory"
+	"title": "Lasers and Spectroscopy Laboratory",
+	"type": "Course"
 }

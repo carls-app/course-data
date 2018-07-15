@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ellen L Manovich"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"AMSTTOPICAL2",
 		"EDUCCLUSTER2"
 	],
-	"title": "Divercities: Exclusion and Inequality in Urban America"
+	"title": "Divercities: Exclusion and Inequality in Urban America",
+	"type": "Course"
 }

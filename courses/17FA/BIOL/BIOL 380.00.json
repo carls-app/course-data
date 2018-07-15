@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rou-Jia Sung"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 47,
 		"total": 40,
@@ -45,5 +46,6 @@
 		"BIOLMOLCELL",
 		"BIOLELECTIVE"
 	],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

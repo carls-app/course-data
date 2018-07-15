@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian W Fuller"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Capitalism, Consumption, and Culture"
+	"title": "Capitalism, Consumption, and Culture",
+	"type": "Course"
 }

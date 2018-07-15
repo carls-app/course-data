@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Arabic 204",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"MESTPERT"
 	],
-	"title": "Colloquial Levantine Arabic"
+	"title": "Colloquial Levantine Arabic",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jon R Olson"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"POSIELECTIVE",
 		"POSI-LPS2"
 	],
-	"title": "Weapons of Mass Destruction (WMD)"
+	"title": "Weapons of Mass Destruction (WMD)",
+	"type": "Course"
 }

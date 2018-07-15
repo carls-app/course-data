@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 103 with a grade of at least C-",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"LITFORLANG",
 		"ENGLLOE"
 	],
-	"title": "Greek Poetry"
+	"title": "Greek Poetry",
+	"type": "Course"
 }

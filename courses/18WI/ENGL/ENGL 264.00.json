@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Martin"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"ENGLHE3",
 		"ENGLCWWTGWKSHP"
 	],
-	"title": "American Lyric: Poetry, Pop and Rap"
+	"title": "American Lyric: Poetry, Pop and Rap",
+	"type": "Course"
 }

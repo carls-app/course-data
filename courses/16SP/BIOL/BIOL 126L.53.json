@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "126L.53",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "41750",
 	"tags": [],
-	"title": "Energy Flow Biol Sys Lab"
+	"title": "Energy Flow Biol Sys Lab",
+	"type": "Lab"
 }

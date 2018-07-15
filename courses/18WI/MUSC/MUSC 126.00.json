@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AMSTREI",
 		"AMSTSURV1"
 	],
-	"title": "America's Music"
+	"title": "America's Music",
+	"type": "Course"
 }

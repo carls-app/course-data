@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Abstract Algebra I"
+	"title": "Abstract Algebra I",
+	"type": "Course"
 }

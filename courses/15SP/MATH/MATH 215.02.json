@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "215.02",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 28,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ENTSQUANTV"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

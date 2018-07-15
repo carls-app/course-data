@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"EUSTCNTRY",
 		"ENGLLOE"
 	],
-	"title": "Chekhov"
+	"title": "Chekhov",
+	"type": "Course"
 }

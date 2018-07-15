@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -41,5 +42,6 @@
 		"PSYCCORE",
 		"PSYCSDPCH"
 	],
-	"title": "Positive Psychology"
+	"title": "Positive Psychology",
+	"type": "Course"
 }

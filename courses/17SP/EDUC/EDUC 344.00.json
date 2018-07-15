@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,6 +31,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"EDUCCLUSTER1",
 		"AMSTTOPICAL3"
 	],
-	"title": "Teenage Wasteland: Adolescence and the American High School"
+	"title": "Teenage Wasteland: Adolescence and the American High School",
+	"type": "Course"
 }

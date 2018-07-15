@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"CAMSELECTIVE",
 		"EUSTCNTRY"
 	],
-	"title": "Contemporary Spanish Cinema"
+	"title": "Contemporary Spanish Cinema",
+	"type": "Course"
 }

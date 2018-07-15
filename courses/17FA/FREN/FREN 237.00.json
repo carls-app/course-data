@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -43,5 +44,6 @@
 		"ENGLFORLIT",
 		"FRENPERT"
 	],
-	"title": "Page and Stage: The Performance of Culture"
+	"title": "Page and Stage: The Performance of Culture",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tommy Occhipinti"
 	],
-	"number": "295.02",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Mathematics 232 and either Mathematics 236 or Computer Science 202",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 27,
 		"total": 28,
@@ -39,5 +40,6 @@
 		"STATSUPPER",
 		"CSPERT"
 	],
-	"title": "Cryptography, Coding Theory, and Compression"
+	"title": "Cryptography, Coding Theory, and Compression",
+	"type": "Course"
 }

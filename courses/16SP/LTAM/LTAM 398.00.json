@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
@@ -14,6 +14,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -25,5 +26,6 @@
 	"tags": [
 		"LTAMELECTIVE"
 	],
-	"title": "Latin American Forum"
+	"title": "Latin American Forum",
+	"type": "Course"
 }

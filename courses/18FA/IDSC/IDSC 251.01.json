@@ -7,7 +7,7 @@
 		"Laurence D Cooper",
 		"Alan Rubenstein"
 	],
-	"number": "251.01",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -25,6 +25,7 @@
 		"HI"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -37,5 +38,6 @@
 		"SPECINTETHICS",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Windows on the Good Life"
+	"title": "Windows on the Good Life",
+	"type": "Course"
 }

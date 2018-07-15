@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hicham N Bou Nassif"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"POSCADVSEM",
 		"MESTGRP1"
 	],
-	"title": "Authoritarianism and Democratization in the Middle East*"
+	"title": "Authoritarianism and Democratization in the Middle East*",
+	"type": "Course"
 }

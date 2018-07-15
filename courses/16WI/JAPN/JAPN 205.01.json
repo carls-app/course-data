@@ -6,7 +6,7 @@
 	"instructors": [
 		"Miaki Habuka"
 	],
-	"number": "205.01",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 6,
 		"total": 16,
@@ -54,5 +55,6 @@
 		"ASSTLANG",
 		"ASSTEAST"
 	],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

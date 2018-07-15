@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Chemero"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,5 +42,6 @@
 		"PHILPERT",
 		"CGSCELECTIVE"
 	],
-	"title": "Phenomenology and Cognitive Science"
+	"title": "Phenomenology and Cognitive Science",
+	"type": "Course"
 }

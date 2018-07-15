@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron M Broege"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -40,5 +41,6 @@
 	"summary": "This course explores the molecular and cellular processes that result in the transformation of normal cells into cancer cells, tumor progression, and current advances in therapeutic approaches to treating cancer. An analytical approach based on primary literature is used, and emphasis will be placed on critical evaluation of experimental design and data-interpretation.",
 	"synonym": "43097",
 	"tags": [],
-	"title": "Seminar: Biology of Cancer"
+	"title": "Seminar: Biology of Cancer",
+	"type": "Course"
 }

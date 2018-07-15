@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helen M Wong"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "45745",
 	"tags": [],
-	"title": "Seminar in Low-dimensional Topology"
+	"title": "Seminar in Low-dimensional Topology",
+	"type": "Course"
 }

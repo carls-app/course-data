@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"ENTSSRSEM"
 	],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

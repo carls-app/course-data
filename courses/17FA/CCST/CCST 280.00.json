@@ -9,7 +9,7 @@
 		"Cherif Keïta",
 		""
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -39,6 +39,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AFSTHI",
 		"CCSTENCTR"
 	],
-	"title": "Empires, Colonies, Hegemony"
+	"title": "Empires, Colonies, Hegemony",
+	"type": "Course"
 }

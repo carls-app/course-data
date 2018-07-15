@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"AMMUGROUP1",
 		"ARCNPERT"
 	],
-	"title": "Introduction to Anthropology"
+	"title": "Introduction to Anthropology",
+	"type": "Course"
 }

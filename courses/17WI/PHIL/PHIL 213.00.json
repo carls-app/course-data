@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"PPOLCORE",
 		"PHILCORE"
 	],
-	"title": "Ethics"
+	"title": "Ethics",
+	"type": "Course"
 }

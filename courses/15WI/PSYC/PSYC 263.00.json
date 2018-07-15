@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"SPECINTHEALTH",
 		"NEURELEC"
 	],
-	"title": "Sleep and Dreaming"
+	"title": "Sleep and Dreaming",
+	"type": "Course"
 }

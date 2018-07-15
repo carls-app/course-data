@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"EUSTCNTRY"
 	],
-	"title": "Beyond Beef Stroganoff: Food in Russian Culture"
+	"title": "Beyond Beef Stroganoff: Food in Russian Culture",
+	"type": "Course"
 }

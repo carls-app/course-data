@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"AMSTPCC",
 		"AMSTDAC"
 	],
-	"title": "Film Noir: The Dark Side of the American Dream"
+	"title": "Film Noir: The Dark Side of the American Dream",
+	"type": "Course"
 }

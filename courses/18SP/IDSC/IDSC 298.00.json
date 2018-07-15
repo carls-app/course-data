@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 198 as first year student",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 32,
@@ -33,5 +34,6 @@
 	"summary": "This colloquium is designed for sophomore students participating in the Focusing on Cultivating Scientists program. It will provide an opportunity to participate in STEM-based projects on campus and in the community. The topics of this project-based colloquium will vary each term.",
 	"synonym": "48727",
 	"tags": [],
-	"title": "FOCUS Sophomore Colloquium"
+	"title": "FOCUS Sophomore Colloquium",
+	"type": "Course"
 }

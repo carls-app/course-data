@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jalean J Petricka"
 	],
-	"number": "367.00",
+	"number": "367",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"BIOCELEC"
 	],
-	"title": "Seminar: The Molecular Basis of Human Disease"
+	"title": "Seminar: The Molecular Basis of Human Disease",
+	"type": "Course"
 }

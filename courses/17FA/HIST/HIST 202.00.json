@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"HISTANCNT/MDVL",
 		"EUSTTRANNATL"
 	],
-	"title": "Icons, Iconoclasm, and the Quest for the Holy in Byzantium and Its Neighbors"
+	"title": "Icons, Iconoclasm, and the Quest for the Holy in Byzantium and Its Neighbors",
+	"type": "Course"
 }

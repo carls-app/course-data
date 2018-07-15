@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Exley"
 	],
-	"number": "338L.59",
+	"number": "338L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "40101",
 	"tags": [],
-	"title": "Digital Electronics Lab"
+	"title": "Digital Electronics Lab",
+	"type": "Lab"
 }

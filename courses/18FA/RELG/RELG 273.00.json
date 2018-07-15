@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Robertson"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "52548",
 	"tags": [],
-	"title": "Religious Approaches to Death"
+	"title": "Religious Approaches to Death",
+	"type": "Course"
 }

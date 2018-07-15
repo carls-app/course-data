@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 342",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 23,
@@ -46,10 +44,8 @@
 	"summary": "An intensive study of one or more of the types of algebraic systems studied in Mathematics 342.",
 	"synonym": "48877",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
-	"title": "Topics in Abstract Algebra"
+	"title": "Topics in Abstract Algebra",
+	"type": "Course"
 }

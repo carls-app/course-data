@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -45,38 +40,15 @@
 	"summary": "The unequal distribution of income and assets is arguably the most important issue in many political systems around the world, and debates over the appropriate role of government in fighting inequality form a primary dimension of political competition. In this course, we will explore the politics surrounding economic inequality around the world. We will discuss how inequality influences political participation in democracies and dictatorships, shapes prospects for democratic transition/consolidation, and affects economic growth and social well-being. We will also examine when and how political institutions can mitigate negative aspects of inequality.",
 	"synonym": "48633",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		}
+		"POSI-GDS2",
+		"POECUPWTD",
+		"POSIELECTIVE",
+		"POSCADVSEM",
+		"POSIADVSEM",
+		"POECSEMINAR",
+		"EDUCCLUSTER3",
+		"PPOLSP"
 	],
-	"title": "Politics of Inequality and Poverty*"
+	"title": "Politics of Inequality and Poverty*",
+	"type": "Course"
 }

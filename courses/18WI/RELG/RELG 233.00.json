@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sonja G Anderson"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"WGSTADDL",
 		"PPOLPH"
 	],
-	"title": "Gender and Power in the Catholic Church"
+	"title": "Gender and Power in the Catholic Church",
+	"type": "Course"
 }

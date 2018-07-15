@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ahoo Najafian"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"RELGPERT",
 		"RELGISLAMICTRAD"
 	],
-	"title": "Power and Desire: Gender Relations in the Middle East"
+	"title": "Power and Desire: Gender Relations in the Middle East",
+	"type": "Course"
 }

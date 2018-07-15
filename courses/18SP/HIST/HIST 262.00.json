@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": "This course will examine the rise of the institution of public health in the modern period. Locating public health within the social history of medicine we will consider how concepts of health and disease have changed over time and how the modern state's concern with the health of its population cannot be separated from its need to survey, police, and discipline the public. Topics covered will include miasma, contagion, quarantine, vaccination and the connection between European imperialism and the institutionalization of public health in colonial contexts. We will also consider how certain epidemics became the major drivers for public health.",
 	"synonym": "48325",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		}
+		"POSI-GDS2",
+		"HISTENVIRHEALTH",
+		"SPECINTHEALTH",
+		"POSIELECTIVE",
+		"PPOLPH"
 	],
-	"title": "Public Health: History, Policy, and Practice"
+	"title": "Public Health: History, Policy, and Practice",
+	"type": "Course"
 }

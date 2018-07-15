@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -40,6 +40,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 30,
@@ -51,5 +52,6 @@
 	"tags": [
 		"PPOLCORE"
 	],
-	"title": "Principles of Microeconomics With Problem Solving"
+	"title": "Principles of Microeconomics With Problem Solving",
+	"type": "Course"
 }

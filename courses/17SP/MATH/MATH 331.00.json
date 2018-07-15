@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Sattler"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Real Analysis II"
+	"title": "Real Analysis II",
+	"type": "Course"
 }

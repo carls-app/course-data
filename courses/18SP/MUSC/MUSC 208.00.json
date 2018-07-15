@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea Mazzariello"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -41,10 +39,8 @@
 	"summary": null,
 	"synonym": "48436",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"AMMUGROUP2"
 	],
-	"title": "Computer Music and Sound"
+	"title": "Computer Music and Sound",
+	"type": "Course"
 }

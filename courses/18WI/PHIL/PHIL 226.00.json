@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"PHILPRACVAL",
 		"PHILTHEORY"
 	],
-	"title": "Love and Friendship"
+	"title": "Love and Friendship",
+	"type": "Course"
 }

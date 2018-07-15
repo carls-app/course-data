@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 40,
@@ -38,5 +39,6 @@
 	"summary": "This course builds more advanced Lindy Hop skills. We will focus on fundamentals, technique, musicality, and dancing to faster and slower songs. We hope to give students more wherewithal to have a good time social dancing.",
 	"synonym": "43654",
 	"tags": [],
-	"title": "Lindy Hop, Advanced"
+	"title": "Lindy Hop, Advanced",
+	"type": "Course"
 }

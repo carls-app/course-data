@@ -8,7 +8,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -57,5 +58,6 @@
 		"AMSTPCC",
 		"AMSTSAP"
 	],
-	"title": "American Wilderness"
+	"title": "American Wilderness",
+	"type": "Course"
 }

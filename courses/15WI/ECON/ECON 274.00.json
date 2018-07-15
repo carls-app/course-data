@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"POSI-GDS",
 		"POECUPAPP"
 	],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

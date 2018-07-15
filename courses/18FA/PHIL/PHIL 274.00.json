@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"SPECINTETHICS",
 		"PHILTHEORY"
 	],
-	"title": "Existentialism"
+	"title": "Existentialism",
+	"type": "Course"
 }

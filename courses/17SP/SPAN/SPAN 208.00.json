@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -36,5 +37,6 @@
 	"tags": [
 		"SPAN204-219"
 	],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

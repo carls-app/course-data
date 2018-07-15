@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"AMSTDAC",
 		"AMSTSAP"
 	],
-	"title": "American Economic History: A Cliometric Approach"
+	"title": "American Economic History: A Cliometric Approach",
+	"type": "Course"
 }

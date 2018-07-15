@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michelle V Rowley"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -29,6 +29,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"AMMUGROUP3",
 		"AFSTSI"
 	],
-	"title": "Black Feminist Thought: The Everyday World"
+	"title": "Black Feminist Thought: The Everyday World",
+	"type": "Course"
 }

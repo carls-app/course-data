@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "209.07",
+	"number": "209",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 7,
@@ -22,10 +23,8 @@
 	"summary": "This course is taken in combination with Russian 207. Emphasis will be placed on socially relevant reading materials. This course is conducted by members of Moscow State University Philological Faculty and supervised by the program director.",
 	"synonym": "46887",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Moscow Program: Intermediate Conversation"
+	"title": "Moscow Program: Intermediate Conversation",
+	"type": "Course"
 }

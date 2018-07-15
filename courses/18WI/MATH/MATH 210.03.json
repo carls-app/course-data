@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Sattler"
 	],
-	"number": "210.03",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 10,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "48842",
 	"tags": [],
-	"title": "Calculus 3"
+	"title": "Calculus 3",
+	"type": "Course"
 }

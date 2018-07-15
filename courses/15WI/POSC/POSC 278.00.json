@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"FRENPERT",
 		"FRSTELEC"
 	],
-	"title": "Memory and Politics"
+	"title": "Memory and Politics",
+	"type": "Course"
 }

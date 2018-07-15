@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Hulings 106"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": "Concurrent registration in Biology 252 required.",
 	"synonym": "40959",
 	"tags": [],
-	"title": "Environmental Animal Physiology Laboratory"
+	"title": "Environmental Animal Physiology Laboratory",
+	"type": "Course"
 }

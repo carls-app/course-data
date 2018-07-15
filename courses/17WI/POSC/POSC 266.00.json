@@ -9,7 +9,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -57,5 +58,6 @@
 		"AFSTSI",
 		"PPOLECON"
 	],
-	"title": "Urban Political Economy"
+	"title": "Urban Political Economy",
+	"type": "Course"
 }

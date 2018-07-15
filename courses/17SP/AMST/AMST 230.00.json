@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"AMSTSAP",
 		"AMSTPCC"
 	],
-	"title": "The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America"
+	"title": "The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America",
+	"type": "Course"
 }

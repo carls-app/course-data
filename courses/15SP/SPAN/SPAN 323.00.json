@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"LTAMLIT",
 		"LTAMPERT"
 	],
-	"title": "The Other American Revolutions"
+	"title": "The Other American Revolutions",
+	"type": "Course"
 }

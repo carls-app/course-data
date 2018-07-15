@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"RUSSIANPERT",
 		"POSI-DSS2"
 	],
-	"title": "Communism, Cold War, Collapse: Russia Since Stalin"
+	"title": "Communism, Cold War, Collapse: Russia Since Stalin",
+	"type": "Course"
 }

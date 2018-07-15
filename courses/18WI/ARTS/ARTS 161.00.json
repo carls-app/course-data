@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Lefkowitz"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Weitz Center 242"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 14,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "47832",
 	"tags": [],
-	"title": "Watercolor"
+	"title": "Watercolor",
+	"type": "Course"
 }

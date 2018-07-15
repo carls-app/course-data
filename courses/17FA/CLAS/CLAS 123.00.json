@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah E Craft"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"ARCNPERT",
 		"ARTHPERT"
 	],
-	"title": "Greek Archaeology and Art"
+	"title": "Greek Archaeology and Art",
+	"type": "Course"
 }

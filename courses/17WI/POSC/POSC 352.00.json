@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -50,5 +51,6 @@
 		"FFSTSOCSCI",
 		"POSIELECTIVE"
 	],
-	"title": "Political Theory of Alexis de Tocqueville*"
+	"title": "Political Theory of Alexis de Tocqueville*",
+	"type": "Course"
 }

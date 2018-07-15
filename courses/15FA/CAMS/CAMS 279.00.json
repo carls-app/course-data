@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael Elyanow"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -41,5 +42,6 @@
 		"CAMSELECTIVE",
 		"CAMSELECPROD"
 	],
-	"title": "Screenwriting"
+	"title": "Screenwriting",
+	"type": "Course"
 }

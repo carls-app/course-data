@@ -6,7 +6,7 @@
 	"instructors": [
 		"Layla K Oesper"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Data Mining"
+	"title": "Data Mining",
+	"type": "Course"
 }

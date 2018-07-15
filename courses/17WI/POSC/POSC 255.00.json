@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"FFSTSOCSCI",
 		"POSI-PLI2"
 	],
-	"title": "Post-Modern Political Thought"
+	"title": "Post-Modern Political Thought",
+	"type": "Course"
 }

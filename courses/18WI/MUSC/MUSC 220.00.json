@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea Mazzariello"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -34,6 +34,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 7,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "48427",
 	"tags": [],
-	"title": "Composition Studio"
+	"title": "Composition Studio",
+	"type": "Course"
 }

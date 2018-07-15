@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lydia B. Tang"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -44,6 +44,7 @@
 	"prerequisites": "Prerequisite: German 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"summary": "Further study of the basic structural patterns of the German language.",
 	"synonym": "41793",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

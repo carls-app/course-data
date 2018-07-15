@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seth Elliott Meyer"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -37,6 +37,7 @@
 		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "52525",
 	"tags": [],
-	"title": "What Can a Body Do?"
+	"title": "What Can a Body Do?",
+	"type": "Course"
 }

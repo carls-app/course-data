@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -40,5 +41,6 @@
 		"ASSTEAST",
 		"PPOLEP"
 	],
-	"title": "Issues in Japanese Religions and Ecology"
+	"title": "Issues in Japanese Religions and Ecology",
+	"type": "Course"
 }

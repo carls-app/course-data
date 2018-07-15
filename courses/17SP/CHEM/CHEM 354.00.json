@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": "Understanding the principles of lasers in conjunction with the framework provided by spectroscopy provides a powerful way to advance a deeper understanding of the molecular basis of chemical reactivity. Important experimental techniques such as Raman scattering methods and molecular beams are explored in addition to a wide range of specific laser applications. Readings are taken from both texts and literature.",
 	"synonym": "45151",
 	"tags": [],
-	"title": "Lasers and Spectroscopy"
+	"title": "Lasers and Spectroscopy",
+	"type": "Course"
 }

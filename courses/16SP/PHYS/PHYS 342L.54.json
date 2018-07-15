@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "342L.54",
+	"number": "342L",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "42405",
 	"tags": [],
-	"title": "Contemp Experimental Phys Lab"
+	"title": "Contemp Experimental Phys Lab",
+	"type": "Lab"
 }

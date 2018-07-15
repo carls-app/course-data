@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zoli Filotas"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"PHILPRACVAL"
 	],
-	"title": "Punishment and Imprisonment"
+	"title": "Punishment and Imprisonment",
+	"type": "Course"
 }

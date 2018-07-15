@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -33,6 +33,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"tags": [
 		"MARSSUPP"
 	],
-	"title": "Imagining New Worlds: From Homer to Columbus and Beyond"
+	"title": "Imagining New Worlds: From Homer to Columbus and Beyond",
+	"type": "Course"
 }

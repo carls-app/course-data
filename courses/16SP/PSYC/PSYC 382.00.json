@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -42,5 +43,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Topics in Social and Personality: Endings"
+	"title": "Topics in Social and Personality: Endings",
+	"type": "Course"
 }

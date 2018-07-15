@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "246L.52",
+	"number": "246L",
 	"offerings": {
 		"locations": [
 			"ARBO 115"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "44732",
 	"tags": [],
-	"title": "Archaeological Methods Lab"
+	"title": "Archaeological Methods Lab",
+	"type": "Lab"
 }

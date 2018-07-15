@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "132.00",
+	"number": "132",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -48,5 +49,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Gravity and the Earth"
+	"title": "Introduction to Physics: Gravity and the Earth",
+	"type": "Course"
 }

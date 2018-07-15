@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sonja G Anderson"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"MESTGRP1",
 		"PPOLFP"
 	],
-	"title": "Martyrdom"
+	"title": "Martyrdom",
+	"type": "Course"
 }

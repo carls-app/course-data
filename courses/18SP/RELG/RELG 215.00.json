@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -49,14 +41,9 @@
 	"summary": null,
 	"synonym": "48958",
 	"tags": [
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"RELGISLAMICTRAD",
+		"MESTGRP1"
 	],
-	"title": "Muslim Misfits: Islam and the Question of Orthodoxy"
+	"title": "Muslim Misfits: Islam and the Question of Orthodoxy",
+	"type": "Course"
 }

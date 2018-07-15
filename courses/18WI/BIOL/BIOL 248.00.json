@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"BIOLECOLEVOL",
 		"BIOLELECTIVE"
 	],
-	"title": "Behavioral Ecology"
+	"title": "Behavioral Ecology",
+	"type": "Course"
 }

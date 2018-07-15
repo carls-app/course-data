@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -56,30 +48,13 @@
 	"summary": null,
 	"synonym": "47800",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		}
+		"EDUCCLUSTER2",
+		"CCSTETHNIC",
+		"AMMUGROUP1",
+		"HISTUS",
+		"HISTPERT",
+		"AMSTSURVEY1"
 	],
-	"title": "Introduction to American Studies: Immigration and American Culture"
+	"title": "Introduction to American Studies: Immigration and American Culture",
+	"type": "Course"
 }

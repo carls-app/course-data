@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"FRSTELEC",
 		"POSI-PLI2"
 	],
-	"title": "Post-Modern Political Thought"
+	"title": "Post-Modern Political Thought",
+	"type": "Course"
 }

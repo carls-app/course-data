@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constanza Ocampo-Raeder"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -48,5 +49,6 @@
 		"LTAMELECTIVE",
 		"PPOLEP"
 	],
-	"title": "Mother Earth: Women, Development and the Environment"
+	"title": "Mother Earth: Women, Development and the Environment",
+	"type": "Course"
 }

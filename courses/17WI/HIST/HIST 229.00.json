@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AFAMPERT",
 		"EDUCCLUSTER2"
 	],
-	"title": "Working with Gender in U.S. History"
+	"title": "Working with Gender in U.S. History",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Mary E Savina",
 		"Nancy C Braker"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 10,
@@ -43,5 +44,6 @@
 	"tags": [
 		"ENTS2ENVSCI"
 	],
-	"title": "Topics: Tasmania Geology and Natural History"
+	"title": "Topics: Tasmania Geology and Natural History",
+	"type": "Course"
 }

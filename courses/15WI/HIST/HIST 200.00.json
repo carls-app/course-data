@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,6 +33,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 18,
@@ -46,5 +47,6 @@
 		"HISTASIA",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "History Workshop: The Chinese Cultural Revolution, 1966-76"
+	"title": "History Workshop: The Chinese Cultural Revolution, 1966-76",
+	"type": "Course"
 }

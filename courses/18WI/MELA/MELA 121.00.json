@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stacy N Beckwith"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"MESTCORE",
 		"CAMSXDEPT"
 	],
-	"title": "Middle East Perspectives in Israeli and Palestinian Literature and Film"
+	"title": "Middle East Perspectives in Israeli and Palestinian Literature and Film",
+	"type": "Course"
 }

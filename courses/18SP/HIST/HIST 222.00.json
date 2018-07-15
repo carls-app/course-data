@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clarence E Walker"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -47,34 +42,14 @@
 	"summary": null,
 	"synonym": "49909",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"AFSTHI",
+		"AMSTTOPICAL1",
+		"CAMSXDEPT",
+		"AMSTPCC",
+		"AMSTREI"
 	],
-	"title": "Slavery in Film, Literature, and History"
+	"title": "Slavery in Film, Literature, and History",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 35,
@@ -48,5 +49,6 @@
 		"PSYCCORE",
 		"PSYCBIOBEH"
 	],
-	"title": "Sleep and Dreaming"
+	"title": "Sleep and Dreaming",
+	"type": "Course"
 }

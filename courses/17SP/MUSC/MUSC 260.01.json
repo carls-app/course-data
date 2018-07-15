@@ -8,13 +8,14 @@
 	"instructors": [
 		"Merilee I Klemp"
 	],
-	"number": "260.01",
+	"number": "260",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "44592",
 	"tags": [],
-	"title": "Oboe"
+	"title": "Oboe",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"CAMSELECTIVE",
 		"CCSTENCTR"
 	],
-	"title": "Contemporary Global Cinemas"
+	"title": "Contemporary Global Cinemas",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"WGSTADDL",
 		"AMSTAMERWRLD"
 	],
-	"title": "Beauty and Race in America"
+	"title": "Beauty and Race in America",
+	"type": "Course"
 }

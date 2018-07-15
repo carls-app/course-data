@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -29,6 +29,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -40,5 +41,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Chaotic Dynamics"
+	"title": "Chaotic Dynamics",
+	"type": "Course"
 }

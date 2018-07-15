@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"WGSTADDL",
 		"WGSTCAP"
 	],
-	"title": "Asian Mystiques Demystified"
+	"title": "Asian Mystiques Demystified",
+	"type": "Course"
 }

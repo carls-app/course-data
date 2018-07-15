@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -47,5 +48,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Methods of Social Research"
+	"title": "Methods of Social Research",
+	"type": "Course"
 }

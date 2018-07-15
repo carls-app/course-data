@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": {
 		"locations": [
 			"Weitz Center M215"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -54,26 +46,12 @@
 	"summary": null,
 	"synonym": "50831",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFSTPERT",
-			"name": "Africana Studies Pertinent"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"AMMUGROUP2",
+		"AMSTTOPICAL1",
+		"AFSTPERT",
+		"AMSTPCC",
+		"AMSTREI"
 	],
-	"title": "History of Rock"
+	"title": "History of Rock",
+	"type": "Course"
 }

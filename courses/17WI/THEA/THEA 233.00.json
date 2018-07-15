@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Weitz Center 048"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "45529",
 	"tags": [],
-	"title": "Sculptural Space and Performance Design"
+	"title": "Sculptural Space and Performance Design",
+	"type": "Course"
 }

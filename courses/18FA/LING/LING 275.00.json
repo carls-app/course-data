@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -29,6 +29,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -41,5 +42,6 @@
 		"CGSCELECTIVE",
 		"LINGELEC"
 	],
-	"title": "First Language Acquisition"
+	"title": "First Language Acquisition",
+	"type": "Course"
 }

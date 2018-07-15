@@ -8,13 +8,14 @@
 	"instructors": [
 		"Susan M Crawford"
 	],
-	"number": "156.03",
+	"number": "156",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 1,
 		"total": 0,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "42330",
 	"tags": [],
-	"title": "Viola"
+	"title": "Viola",
+	"type": "Course"
 }

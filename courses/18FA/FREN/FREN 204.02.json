@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: French 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -44,5 +45,6 @@
 		"EUSTLANG",
 		"EUSTCNTRY"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

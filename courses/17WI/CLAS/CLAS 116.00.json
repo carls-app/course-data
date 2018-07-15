@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -49,5 +50,6 @@
 		"THEAPERT",
 		"ENGLLOE"
 	],
-	"title": "Ancient Drama: Truth in Performance"
+	"title": "Ancient Drama: Truth in Performance",
+	"type": "Course"
 }

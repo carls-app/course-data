@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"AMMUGROUP1"
 	],
-	"title": "Theory I: The Materials of Music"
+	"title": "Theory I: The Materials of Music",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "158.01",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": "The beginning of the course covers climbing knots, belaying and commands. Efficient movement and climbing styles will also be addressed. The majority of the term will allow students to apply their new skills on the Recreation Center's climbing wall and in the Bouldering Cave.",
 	"synonym": "37647",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

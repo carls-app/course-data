@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -48,5 +49,6 @@
 		"POECSEMINAR",
 		"EDUCCLUSTER3"
 	],
-	"title": "Politics of Inequality and Poverty*"
+	"title": "Politics of Inequality and Poverty*",
+	"type": "Course"
 }

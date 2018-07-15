@@ -8,7 +8,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -26,6 +26,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -35,5 +36,6 @@
 	"summary": "For students enrolled in Dance 205, supervised student choreography with two public showings.",
 	"synonym": "44827",
 	"tags": [],
-	"title": "Winter Dance, Student Choreography"
+	"title": "Winter Dance, Student Choreography",
+	"type": "Course"
 }

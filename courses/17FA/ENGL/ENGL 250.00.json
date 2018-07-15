@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"CCSTENCTR",
 		"SASTLA"
 	],
-	"title": "Modern Indian Fiction"
+	"title": "Modern Indian Fiction",
+	"type": "Course"
 }

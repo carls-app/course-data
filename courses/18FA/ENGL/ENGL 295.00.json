@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"tags": [
 		"FRSTCORE"
 	],
-	"title": "Critical Methods"
+	"title": "Critical Methods",
+	"type": "Course"
 }

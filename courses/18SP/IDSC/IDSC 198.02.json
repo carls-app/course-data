@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "198.02",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in IDSC 100",
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 14,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "49915",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

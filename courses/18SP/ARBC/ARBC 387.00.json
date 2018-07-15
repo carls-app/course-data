@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "387.00",
+	"number": "387",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Arabic 206",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "48211",
 	"tags": [
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"MESTGRP2"
 	],
-	"title": "The One Thousand and One Nights"
+	"title": "The One Thousand and One Nights",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"AFAMHUMANINQ",
 		"POSI-AREAS"
 	],
-	"title": "Islamic Africa"
+	"title": "Islamic Africa",
+	"type": "Course"
 }

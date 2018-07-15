@@ -9,7 +9,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -37,6 +37,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"summary": "The class is divided into several ability groups with an instructor assigned to each small group. Figure skating skills are presented in progressive order allowing individuals to move along at their own pace. Classes meet outdoors on the Bald Spot rink. Students must provide their own figure skates.",
 	"synonym": "43800",
 	"tags": [],
-	"title": "Ice Skating, Beginning"
+	"title": "Ice Skating, Beginning",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sherri L Goings"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 34,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Evolutionary Computing and Artificial Life"
+	"title": "Evolutionary Computing and Artificial Life",
+	"type": "Course"
 }

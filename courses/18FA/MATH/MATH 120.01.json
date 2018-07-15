@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kate Hake"
 	],
-	"number": "120.01",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51351",
 	"tags": [],
-	"title": "Calculus 2"
+	"title": "Calculus 2",
+	"type": "Course"
 }

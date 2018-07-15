@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -25,6 +25,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"tags": [
 		"CCSTCORE"
 	],
-	"title": "International Coffee and News"
+	"title": "International Coffee and News",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"LTAMPERT",
 		"LTAMLIT"
 	],
-	"title": "Two Voices: Gabriel García Márquez and Laura Restrepo"
+	"title": "Two Voices: Gabriel García Márquez and Laura Restrepo",
+	"type": "Course"
 }

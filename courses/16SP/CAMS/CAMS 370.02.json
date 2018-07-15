@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rini Y Keagy"
 	],
-	"number": "370.02",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -43,5 +44,6 @@
 		"CAMSELECPROD",
 		"CAMSELECTIVE"
 	],
-	"title": "Advanced Production Workshop"
+	"title": "Advanced Production Workshop",
+	"type": "Course"
 }

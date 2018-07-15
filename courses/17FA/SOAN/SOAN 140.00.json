@@ -6,7 +6,7 @@
 	"instructors": [
 		"Emily A Bowman"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -34,6 +34,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "49288",
 	"tags": [],
-	"title": "Animals & Society"
+	"title": "Animals & Society",
+	"type": "Course"
 }

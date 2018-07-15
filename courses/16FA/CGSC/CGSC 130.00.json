@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Chemero"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -40,5 +41,6 @@
 	"tags": [
 		"EDUCCLUSTER1"
 	],
-	"title": "Revolutions in Mind:  An Introduction to Cognitive Science"
+	"title": "Revolutions in Mind:  An Introduction to Cognitive Science",
+	"type": "Course"
 }

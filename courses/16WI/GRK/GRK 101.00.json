@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "Study of essential forms and grammar, with reading of connected passages.",
 	"synonym": "41807",
 	"tags": [],
-	"title": "Elementary Greek"
+	"title": "Elementary Greek",
+	"type": "Course"
 }

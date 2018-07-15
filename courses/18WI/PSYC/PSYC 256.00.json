@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"PSYCSDPCH",
 		"PSYCCORE"
 	],
-	"title": "Social Behavior and Interpersonal Processes"
+	"title": "Social Behavior and Interpersonal Processes",
+	"type": "Course"
 }

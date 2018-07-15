@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"EUSTCNTRY",
 		"FRSTCORE"
 	],
-	"title": "Beyond Words: The Fine Art of Writing in French"
+	"title": "Beyond Words: The Fine Art of Writing in French",
+	"type": "Course"
 }

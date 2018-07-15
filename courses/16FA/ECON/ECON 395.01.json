@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "44900",
 	"tags": [],
-	"title": "Advanced Topics in the Economics of Housing"
+	"title": "Advanced Topics in the Economics of Housing",
+	"type": "Course"
 }

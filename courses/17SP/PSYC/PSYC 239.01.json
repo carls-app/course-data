@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adam L Putnam"
 	],
-	"number": "239.01",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -27,6 +27,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"tags": [
 		"PSYCLAB"
 	],
-	"title": "Memory Processes Lab"
+	"title": "Memory Processes Lab",
+	"type": "Course"
 }

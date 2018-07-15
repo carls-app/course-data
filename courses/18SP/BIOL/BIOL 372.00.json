@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rou-Jia Sung"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 106"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126; and either Biology 280, Biology 380 or Chemistry 320",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "49371",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		},
-		{
-			"code": "BIOLDATAINTERP",
-			"name": "Biol Data Interpretation"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOCELEC",
+		"BIOLDATAINTERP",
+		"BIOLELECTIVE"
 	],
-	"title": "Seminar: Structural Biology"
+	"title": "Seminar: Structural Biology",
+	"type": "Course"
 }

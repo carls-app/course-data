@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -27,6 +27,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "46602",
 	"tags": [],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

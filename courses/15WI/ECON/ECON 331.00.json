@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ben Keefer"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Willis 203",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -50,5 +51,6 @@
 	"summary": "Analysis of the forces determining the general level of output, employment, and prices with special emphasis on the role of money and on interest rate determination. This class is normally taken by juniors. Sophomores considering enrolling should speak to the instructor.",
 	"synonym": "39179",
 	"tags": [],
-	"title": "Intermediate Macro Theory"
+	"title": "Intermediate Macro Theory",
+	"type": "Course"
 }

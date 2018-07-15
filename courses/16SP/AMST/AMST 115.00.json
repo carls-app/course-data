@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -38,6 +38,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"HISTUS",
 		"AMMUGROUP1"
 	],
-	"title": "Introduction to American Studies: Placing Identities"
+	"title": "Introduction to American Studies: Placing Identities",
+	"type": "Course"
 }

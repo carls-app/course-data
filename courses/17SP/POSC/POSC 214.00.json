@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"POSIELECTIVE",
 		"CAMSXDEPT"
 	],
-	"title": "Visual Representations of Political Thought and Action"
+	"title": "Visual Representations of Political Thought and Action",
+	"type": "Course"
 }

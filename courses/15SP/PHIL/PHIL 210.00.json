@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"SPECINTPHILSCI",
 		"PHILCORE"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

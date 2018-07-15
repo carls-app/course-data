@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lei Yang"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -48,18 +46,10 @@
 	"summary": null,
 	"synonym": "49518",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLFORLIT"
 	],
-	"title": "Chinese Vision of the Past in Translation"
+	"title": "Chinese Vision of the Past in Translation",
+	"type": "Course"
 }

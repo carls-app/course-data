@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -57,5 +58,6 @@
 		"ASSTPERT",
 		"CCSTENCTR"
 	],
-	"title": "Many Marys"
+	"title": "Many Marys",
+	"type": "Course"
 }

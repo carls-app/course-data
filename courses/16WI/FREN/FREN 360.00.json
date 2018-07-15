@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -51,5 +52,6 @@
 		"FRSTELECAL",
 		"MESTGRP2"
 	],
-	"title": "The Algerian War of Liberation and Its Representations"
+	"title": "The Algerian War of Liberation and Its Representations",
+	"type": "Course"
 }

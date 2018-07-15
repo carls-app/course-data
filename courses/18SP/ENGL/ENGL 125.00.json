@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -54,14 +46,9 @@
 	"summary": null,
 	"synonym": "49545",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"ENGLF",
+		"MARSCORE"
 	],
-	"title": "Norse and Celtic Mythology"
+	"title": "Norse and Celtic Mythology",
+	"type": "Course"
 }

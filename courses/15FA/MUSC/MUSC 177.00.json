@@ -8,13 +8,14 @@
 	"instructors": [
 		"Zacc Harris"
 	],
-	"number": "177.00",
+	"number": "177",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 50,
@@ -24,5 +25,6 @@
 	"summary": "Study of chord voicings, accompanimental techniques, and solo guitar performance in the jazz idiom. Prerequisites: previous study of guitar and the ability to read music, or the permission of the instructor. Students must provide their own instruments.",
 	"synonym": "42560",
 	"tags": [],
-	"title": "Jazz and Blues Guitar"
+	"title": "Jazz and Blues Guitar",
+	"type": "Course"
 }

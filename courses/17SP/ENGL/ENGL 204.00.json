@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"LINGPERT",
 		"MARSSUPP"
 	],
-	"title": "History of the English Language"
+	"title": "History of the English Language",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol A Rutz"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"tags": [
 		"PPOLEP"
 	],
-	"title": "Public Rhetoric and Environmental Science"
+	"title": "Public Rhetoric and Environmental Science",
+	"type": "Course"
 }

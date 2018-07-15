@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "151.01",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 37,
 		"total": 48,
@@ -46,5 +47,6 @@
 	"summary": "An introduction to principles of physics in the domain of the very small and very fast. Topics include the special theory of relativity, and selected applications to atomic, nuclear, and particle physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
 	"synonym": "42356",
 	"tags": [],
-	"title": "Introduction to Physics: Relativity and Particles"
+	"title": "Introduction to Physics: Relativity and Particles",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ENGLF"
 	],
-	"title": "Reading Fiction"
+	"title": "Reading Fiction",
+	"type": "Course"
 }

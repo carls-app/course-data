@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sandra E Rousseau"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"FFSTLIT",
 		"CCSTENCTR"
 	],
-	"title": "Contemporary French and Francophone Culture"
+	"title": "Contemporary French and Francophone Culture",
+	"type": "Course"
 }

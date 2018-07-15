@@ -8,7 +8,7 @@
 	"instructors": [
 		"Raka M Mitra"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 40,
@@ -47,5 +48,6 @@
 	"tags": [
 		"BIOLELECTIVE"
 	],
-	"title": "Cell Biology"
+	"title": "Cell Biology",
+	"type": "Course"
 }

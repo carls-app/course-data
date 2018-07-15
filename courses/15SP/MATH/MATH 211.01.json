@@ -7,7 +7,7 @@
 		"Sam Patterson",
 		"Ann M May"
 	],
-	"number": "211.01",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -35,6 +35,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": "Vectors, curves, partial derivatives, gradient, multiple and iterated integrals, line integrals, Green's theorem.",
 	"synonym": "38671",
 	"tags": [],
-	"title": "Introduction to Multivariable Calculus"
+	"title": "Introduction to Multivariable Calculus",
+	"type": "Course"
 }

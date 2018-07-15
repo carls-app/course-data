@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -50,26 +45,12 @@
 	"summary": "This course focuses on the respect for human diversity, especially as these relate to various racial, cultural and economic groups, and to women. It includes lectures and discussions intended to aid students in relating to a wide variety of persons, cultures, and life styles.",
 	"synonym": "47819",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "EDUCCORE",
-			"name": "Ed Studies Core Course"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"AMSTTOPICAL3",
+		"EDUCCORE",
+		"AFSTSI",
+		"AMSTSAP",
+		"AMSTREI"
 	],
-	"title": "Multicultural Education"
+	"title": "Multicultural Education",
+	"type": "Course"
 }

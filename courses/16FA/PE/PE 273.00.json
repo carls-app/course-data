@@ -6,13 +6,14 @@
 	"department": "PE",
 	"id": "PE 273.00",
 	"instructors": [],
-	"number": "273.00",
+	"number": "273",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 30,
@@ -22,5 +23,6 @@
 	"summary": "Instructor Permission Required",
 	"synonym": "52270",
 	"tags": [],
-	"title": "Swimming/Diving Intercollegiate, Women"
+	"title": "Swimming/Diving Intercollegiate, Women",
+	"type": "Course"
 }

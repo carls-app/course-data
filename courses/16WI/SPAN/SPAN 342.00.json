@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"LTAMPERT",
 		"SPAN300LEVEL"
 	],
-	"title": "Latin American Theater: Nation, Power, Gender"
+	"title": "Latin American Theater: Nation, Power, Gender",
+	"type": "Course"
 }

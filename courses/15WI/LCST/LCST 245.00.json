@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -53,5 +54,6 @@
 		"CAMSXDEPT",
 		"FRSTELEC"
 	],
-	"title": "Introduction to Critical Methods: Structure, Gender, Culture"
+	"title": "Introduction to Critical Methods: Structure, Gender, Culture",
+	"type": "Course"
 }

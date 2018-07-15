@@ -8,20 +8,15 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "226.07",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Acceptance in Russian OCS Program",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -31,10 +26,8 @@
 	"summary": "This course explores localities in Russia that have acquired the significance of hallowed or sacred places, the reasons underlying their designation, and the diversity of belief systems they embody. Localities considered include places in and around Moscow (some holy, others cursed), the routes of literary heroes (and their creators) in St. Petersburg, sites of legendary historical significance in Central Russia, and the \"sacred sea\" of Siberia, Lake Baikal, and its Buryat-Mongol shamanist-Buddhist environs. Course materials: readings, films, excursions, lectures, and travel. Student learning is assessed through occasional quizzes, weekly discussions, and integrative blog writing assignments.",
 	"synonym": "46881",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Moscow Program: Russia's Hallowed Places"
+	"title": "Moscow Program: Russia's Hallowed Places",
+	"type": "Course"
 }

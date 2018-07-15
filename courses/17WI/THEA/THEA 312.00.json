@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathy Welch"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -29,6 +29,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "45532",
 	"tags": [],
-	"title": "Problems in Acting"
+	"title": "Problems in Acting",
+	"type": "Course"
 }

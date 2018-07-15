@@ -8,13 +8,14 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 50,
@@ -27,5 +28,6 @@
 		"ASSTAL",
 		"ASSTSOUTH"
 	],
-	"title": "Raga: Vocal or Instrumental Study of Hindustani Music"
+	"title": "Raga: Vocal or Instrumental Study of Hindustani Music",
+	"type": "Course"
 }

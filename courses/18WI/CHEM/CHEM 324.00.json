@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Calderone"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"SPECINTHEALTH",
 		"BIOCELEC"
 	],
-	"title": "Chemistry and Biology of Antibiotics"
+	"title": "Chemistry and Biology of Antibiotics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"LTAMSOCSCI",
 		"EDUCCLUSTER2"
 	],
-	"title": "Comparative Issues in Native North America"
+	"title": "Comparative Issues in Native North America",
+	"type": "Course"
 }

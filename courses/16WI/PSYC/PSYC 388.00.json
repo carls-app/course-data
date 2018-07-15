@@ -7,7 +7,7 @@
 		"Sharon A Akimoto",
 		"Lawrence Wichlinski"
 	],
-	"number": "388.00",
+	"number": "388",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -28,6 +28,7 @@
 	"prerequisites": "Prerequisite: Psychology 110 required, Psychology 216 and 256 or 258 recommended",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -40,5 +41,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Social Neuroscience"
+	"title": "Social Neuroscience",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Pagel"
 	],
-	"number": "181.00",
+	"number": "181",
 	"offerings": {
 		"locations": [
 			"Stadium PE"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -40,5 +41,6 @@
 	"summary": "An introduction to the basics of table tennis.",
 	"synonym": "48111",
 	"tags": [],
-	"title": "Table Tennis"
+	"title": "Table Tennis",
+	"type": "Course"
 }

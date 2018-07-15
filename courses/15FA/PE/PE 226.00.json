@@ -8,13 +8,14 @@
 	"instructors": [
 		"Bob Pagel"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 58,
 		"total": 75,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "40680",
 	"tags": [],
-	"title": "Football Intercollegiate"
+	"title": "Football Intercollegiate",
+	"type": "Course"
 }

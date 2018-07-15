@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Exley"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": "Computer processors are extraordinarily complex systems. The fact that they work at all, let alone as reliably as they do, is a monumental achievement of human collaboration. In this course, we will study the structure of computer processors, with attention to digital logic, assembly language, performance evaluation, computer arithmetic, data paths and control, pipelining, and memory hierarchies.",
 	"synonym": "42051",
 	"tags": [],
-	"title": "Computer Organization and Architecture"
+	"title": "Computer Organization and Architecture",
+	"type": "Course"
 }

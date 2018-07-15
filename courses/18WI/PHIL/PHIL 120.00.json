@@ -6,7 +6,7 @@
 	"instructors": [
 		"Claire M Griffin"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Philosophy of Sex"
+	"title": "Philosophy of Sex",
+	"type": "Course"
 }

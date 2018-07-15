@@ -7,7 +7,7 @@
 		"Chico Zimmerman",
 		"Clara S Hardy"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -33,6 +33,7 @@
 	"prerequisites": "Prerequisite: Latin 103 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 28,
@@ -46,5 +47,6 @@
 		"LITFORLANG",
 		"ENGLLOE"
 	],
-	"title": "Intermediate Latin Prose and Poetry"
+	"title": "Intermediate Latin Prose and Poetry",
+	"type": "Course"
 }

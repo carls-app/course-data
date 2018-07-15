@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: French 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"EUSTLANG",
 		"FRSTELEC"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

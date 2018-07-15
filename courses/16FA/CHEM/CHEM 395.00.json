@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -31,6 +31,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "46483",
 	"tags": [],
-	"title": "Research Experience Seminar in Chemistry"
+	"title": "Research Experience Seminar in Chemistry",
+	"type": "Course"
 }

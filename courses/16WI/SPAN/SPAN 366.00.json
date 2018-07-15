@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"LTAM300LIT",
 		"ENGLFORLIT"
 	],
-	"title": "Jorge Luis Borges: Less a Man Than a Vast and Complex Literature"
+	"title": "Jorge Luis Borges: Less a Man Than a Vast and Complex Literature",
+	"type": "Course"
 }

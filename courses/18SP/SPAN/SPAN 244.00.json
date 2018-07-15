@@ -6,7 +6,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent and concurrent registration in Spanish 206",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -50,26 +45,12 @@
 	"summary": null,
 	"synonym": "49581",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"CAMSXDEPT",
+		"SPAN220-290",
+		"WGSTADDL",
+		"EUSTCNTRY"
 	],
-	"title": "Spain Today: Recent Changes through Narrative and Film"
+	"title": "Spain Today: Recent Changes through Narrative and Film",
+	"type": "Course"
 }

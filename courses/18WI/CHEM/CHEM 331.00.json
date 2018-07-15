@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -26,6 +26,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "49050",
 	"tags": [],
-	"title": "Instrumental Chemical Analysis Laboratory"
+	"title": "Instrumental Chemical Analysis Laboratory",
+	"type": "Course"
 }

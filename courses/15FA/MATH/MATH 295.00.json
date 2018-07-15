@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Seminar in the History of Mathematics"
+	"title": "Seminar in the History of Mathematics",
+	"type": "Course"
 }

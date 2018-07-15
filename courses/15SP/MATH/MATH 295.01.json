@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "295.01",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Differential Forms and Vector Calculus"
+	"title": "Differential Forms and Vector Calculus",
+	"type": "Course"
 }

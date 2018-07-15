@@ -8,7 +8,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -27,6 +27,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"SPAN204-219"
 	],
-	"title": "Welcome to the International Film Forum!"
+	"title": "Welcome to the International Film Forum!",
+	"type": "Course"
 }

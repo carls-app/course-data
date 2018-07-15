@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"POSI-DSS",
 		"POSIELECTIVE"
 	],
-	"title": "The Complexity of Politics*"
+	"title": "The Complexity of Politics*",
+	"type": "Course"
 }

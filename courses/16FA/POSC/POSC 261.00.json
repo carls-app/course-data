@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"FRENPERT",
 		"FRSTELEC"
 	],
-	"title": "Power, Freedom, and Revolution"
+	"title": "Power, Freedom, and Revolution",
+	"type": "Course"
 }

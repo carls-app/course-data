@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 42,
@@ -48,5 +49,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Equilibrium and Analysis"
+	"title": "Equilibrium and Analysis",
+	"type": "Course"
 }

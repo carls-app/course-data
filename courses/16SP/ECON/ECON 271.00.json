@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"POSI-GDS2",
 		"PPOLEP"
 	],
-	"title": "Economics of Natural Resources and the Environment"
+	"title": "Economics of Natural Resources and the Environment",
+	"type": "Course"
 }

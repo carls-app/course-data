@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jed C Yang"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 34,
@@ -48,5 +49,6 @@
 		"NEURELEC",
 		"LINGREL"
 	],
-	"title": "Computability and Complexity"
+	"title": "Computability and Complexity",
+	"type": "Course"
 }

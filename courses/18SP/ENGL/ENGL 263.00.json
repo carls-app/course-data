@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dennis M Cass"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: One previous English course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -47,14 +42,9 @@
 	"summary": null,
 	"synonym": "49486",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		},
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"ENGLCREATVWRTG",
+		"ENGLCWWTGWKSHP"
 	],
-	"title": "Crafts of Writing: Creative Nonfiction"
+	"title": "Crafts of Writing: Creative Nonfiction",
+	"type": "Course"
 }

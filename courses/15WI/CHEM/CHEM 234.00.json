@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bryan T Whiting"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 44,
@@ -48,5 +49,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

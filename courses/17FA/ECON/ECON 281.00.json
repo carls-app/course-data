@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"CCSTGLOBAL",
 		"POECMIDWTD"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

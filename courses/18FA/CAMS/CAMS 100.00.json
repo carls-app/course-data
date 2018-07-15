@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -50,5 +51,6 @@
 		"CAMSELECTIVE",
 		"EUSTTRANNATL"
 	],
-	"title": "Epic Films in World Culture"
+	"title": "Epic Films in World Culture",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faye Merritt"
 	],
-	"number": "205.01",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Chinese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"tags": [
 		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese"
+	"title": "Intermediate Chinese",
+	"type": "Course"
 }

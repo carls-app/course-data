@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: American Studies 115 or sophomore standing",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": null,
 	"synonym": "49894",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"AMSTTOPICAL3",
+		"AMSTPCC",
+		"AMSTSAP",
+		"AMSTDAC"
 	],
-	"title": "Utopia, Dystopia, and Myopia: Suburbia in Fiction and Scholarship"
+	"title": "Utopia, Dystopia, and Myopia: Suburbia in Fiction and Scholarship",
+	"type": "Course"
 }

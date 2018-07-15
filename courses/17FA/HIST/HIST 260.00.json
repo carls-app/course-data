@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"HISTASIA",
 		"MESTGRP1"
 	],
-	"title": "The Making of the Modern Middle East"
+	"title": "The Making of the Modern Middle East",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -45,5 +46,6 @@
 	"tags": [
 		"NEURELEC"
 	],
-	"title": "Animal Developmental Biology"
+	"title": "Animal Developmental Biology",
+	"type": "Course"
 }

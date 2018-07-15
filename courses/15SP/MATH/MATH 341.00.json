@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison J Tanguay"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Fourier Series and Boundary Value Problems"
+	"title": "Fourier Series and Boundary Value Problems",
+	"type": "Course"
 }

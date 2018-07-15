@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary Ann Kelling"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Weitz Center 048"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 18,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "48658",
 	"tags": [],
-	"title": "Topics in Theater: Costume Design"
+	"title": "Topics in Theater: Costume Design",
+	"type": "Course"
 }

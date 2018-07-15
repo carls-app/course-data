@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"ENTSFASCP",
 		"PPOLEP"
 	],
-	"title": "Global Food Systems"
+	"title": "Global Food Systems",
+	"type": "Course"
 }

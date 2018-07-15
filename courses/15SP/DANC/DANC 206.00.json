@@ -7,7 +7,7 @@
 		"Judith A Howard",
 		"Jane Shockley"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -25,6 +25,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -34,5 +35,6 @@
 	"summary": "Rehearsal and full concert performance of student dance works created during the year and completed in the spring term. Open to all levels.",
 	"synonym": "37798",
 	"tags": [],
-	"title": "Spring Dance"
+	"title": "Spring Dance",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231",
@@ -42,6 +42,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -57,5 +58,6 @@
 		"ENTSLPES",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Comparative Agroecology"
+	"title": "Comparative Agroecology",
+	"type": "Course"
 }

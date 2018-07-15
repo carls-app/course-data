@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jonathan M Lafky"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Behavioral Economics"
+	"title": "Behavioral Economics",
+	"type": "Course"
 }

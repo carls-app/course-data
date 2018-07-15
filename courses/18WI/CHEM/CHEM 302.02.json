@@ -7,7 +7,7 @@
 		"Will Hollingsworth",
 		"Trish Ferrett"
 	],
-	"number": "302.02",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104",
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 7,
 		"total": 8,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "49322",
 	"tags": [],
-	"title": "Quantum Spectroscopy Laboratory"
+	"title": "Quantum Spectroscopy Laboratory",
+	"type": "Course"
 }

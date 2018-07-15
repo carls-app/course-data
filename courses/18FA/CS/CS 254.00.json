@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 34,
@@ -48,5 +49,6 @@
 		"NEURELEC",
 		"LINGREL"
 	],
-	"title": "Computability and Complexity"
+	"title": "Computability and Complexity",
+	"type": "Course"
 }

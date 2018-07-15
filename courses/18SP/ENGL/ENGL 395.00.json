@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300-level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -45,18 +40,10 @@
 	"summary": null,
 	"synonym": "49367",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLT1",
+		"ENGLADVSEM",
+		"WGSTADDL"
 	],
-	"title": "The Writings of Virginia Woolf"
+	"title": "The Writings of Virginia Woolf",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "145.00",
+	"number": "145",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 46,
 		"total": 49,
@@ -48,5 +49,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Mechanics and Waves"
+	"title": "Mechanics and Waves",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Megan E Sarno"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "52488",
 	"tags": [],
-	"title": "Songs of Love, State & Self"
+	"title": "Songs of Love, State & Self",
+	"type": "Course"
 }

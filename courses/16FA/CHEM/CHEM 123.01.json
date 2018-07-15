@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "123.01",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 46,
 		"total": 43,
@@ -49,5 +50,6 @@
 		"BIOCCORE",
 		"STEMCHEM"
 	],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

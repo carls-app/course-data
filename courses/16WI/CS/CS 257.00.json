@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": "It's easy to write a mediocre computer program, and lots of people do it. Good programs are quite a bit harder to write, and are correspondingly less common. In this course, we will study techniques, tools, and habits that will improve your chances of writing good software. While working on several medium-sized programming projects, we will investigate code construction techniques, debugging and profiling tools, testing methodologies, UML, principles of object-oriented design, design patterns, and user interface design.",
 	"synonym": "42077",
 	"tags": [],
-	"title": "Software Design"
+	"title": "Software Design",
+	"type": "Course"
 }

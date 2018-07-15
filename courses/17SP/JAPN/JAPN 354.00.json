@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -29,6 +29,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "45666",
 	"tags": [],
-	"title": "Japanese Food Culture"
+	"title": "Japanese Food Culture",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,6 +31,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"AMSTSURVEY1",
 		"PPOLSP"
 	],
-	"title": "Global Religions in Minnesota"
+	"title": "Global Religions in Minnesota",
+	"type": "Course"
 }

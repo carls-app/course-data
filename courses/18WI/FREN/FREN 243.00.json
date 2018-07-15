@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -52,5 +53,6 @@
 		"FRSTELEC",
 		"EUSTTRANNATL"
 	],
-	"title": "Cultural Reading of Food"
+	"title": "Cultural Reading of Food",
+	"type": "Course"
 }

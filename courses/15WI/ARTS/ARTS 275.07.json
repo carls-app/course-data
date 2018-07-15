@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "275.07",
+	"number": "275",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Studio Art 110 or 113",
 	"requirements": [
@@ -16,6 +16,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 24,
 		"total": 26,
@@ -30,5 +31,6 @@
 		"SPECINTSUSTAIN",
 		"CCSTBINARY"
 	],
-	"title": "Studio Art Seminar in the South Pacific: The Physical and Cultural Environment"
+	"title": "Studio Art Seminar in the South Pacific: The Physical and Cultural Environment",
+	"type": "Course"
 }

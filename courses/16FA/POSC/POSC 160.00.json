@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -30,6 +30,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Political Philosophy"
+	"title": "Political Philosophy",
+	"type": "Course"
 }

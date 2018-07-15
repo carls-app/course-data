@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "119.00",
+	"number": "119",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"LTAMPERT",
 		"LTAMLIT"
 	],
-	"title": "Introduction to U.S. Latino/a Literature"
+	"title": "Introduction to U.S. Latino/a Literature",
+	"type": "Course"
 }

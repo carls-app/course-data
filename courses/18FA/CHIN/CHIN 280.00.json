@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Near-native fluency in oral Mandarin",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 16,
@@ -36,5 +37,6 @@
 	"summary": "This course is aimed at fluent Mandarin speakers who have not learned to read and write. Students will intensively study the same characters as taught in Chinese 101, 102, 103, and 204. Successful completion will allow students to register for Chinese 205 in the winter term.",
 	"synonym": "52277",
 	"tags": [],
-	"title": "Chinese Literacy"
+	"title": "Chinese Literacy",
+	"type": "Course"
 }

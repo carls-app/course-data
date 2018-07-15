@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constanza Ocampo-Raeder"
 	],
-	"number": "243.01",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "43706",
 	"tags": [],
-	"title": "Ethnographic Workshop"
+	"title": "Ethnographic Workshop",
+	"type": "Course"
 }

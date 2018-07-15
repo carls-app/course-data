@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -56,5 +57,6 @@
 		"MESTCORE",
 		"SASTSUPPHI"
 	],
-	"title": "Introduction to Islam"
+	"title": "Introduction to Islam",
+	"type": "Course"
 }

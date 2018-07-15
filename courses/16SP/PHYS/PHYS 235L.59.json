@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "235L.59",
+	"number": "235L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "42398",
 	"tags": [],
-	"title": "Electricity & Magnetism Lab"
+	"title": "Electricity & Magnetism Lab",
+	"type": "Lab"
 }

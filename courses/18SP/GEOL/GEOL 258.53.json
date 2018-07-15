@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "258.53",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35",
@@ -37,16 +37,11 @@
 	},
 	"prerequisites": "Prerequisite: One introductory (100-level) geology course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -56,26 +51,12 @@
 	"summary": null,
 	"synonym": "47786",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTS2ENVSCI",
+		"ENTSLPES",
+		"ENTSFAES",
+		"SPECINTSUSTAIN",
+		"ARCNPERT"
 	],
-	"title": "Geology of Soils & Lab"
+	"title": "Geology of Soils & Lab",
+	"type": "Course"
 }

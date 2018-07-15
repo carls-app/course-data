@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica F Keating"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"FRSTELEC",
 		"MESTGRP2"
 	],
-	"title": "Islam in the Eyes of the West"
+	"title": "Islam in the Eyes of the West",
+	"type": "Course"
 }

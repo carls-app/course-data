@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "399.01",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Several 200-level Psychology courses and senior Psychology major",
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -40,5 +41,6 @@
 	"tags": [
 		"PSYCCAPST"
 	],
-	"title": "Capstone Seminar"
+	"title": "Capstone Seminar",
+	"type": "Course"
 }

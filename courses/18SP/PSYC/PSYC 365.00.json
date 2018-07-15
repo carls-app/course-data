@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": "In this seminar we will explore the differences between scientific and pseudoscientific approaches to the study of human behavior. Common characteristics of pseudoscientific approaches as well as tools for critically evaluating claims to knowledge will be identified. Topics covered will include controversial assessment techniques (astrology, hypnosis), treatments for psychological conditions (homeopathy, facilitated communication), treatments for medical conditions (psychic surgery, faith healing), and paranormal phenomena (extrasensory perception, UFO abductions). Students will be encouraged to maintain a healthy degree of skepticism toward controversial claims and utilize a high standard of evidence before accepting them.",
 	"synonym": "48782",
 	"tags": [
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"PSYCSEMINAR",
+		"PSYCUPPERLEVEL"
 	],
-	"title": "Science and Pseudoscience in Psychology"
+	"title": "Science and Pseudoscience in Psychology",
+	"type": "Course"
 }

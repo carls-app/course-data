@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -25,6 +25,7 @@
 		"WR2"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"tags": [
 		"EUSTTRANNATL"
 	],
-	"title": "Creative Travel Writing Workshop"
+	"title": "Creative Travel Writing Workshop",
+	"type": "Course"
 }

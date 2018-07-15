@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shaohua Guo"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -31,6 +31,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"ASSTAL",
 		"CAMSXDEPT"
 	],
-	"title": "Chinese Cinema in Translation"
+	"title": "Chinese Cinema in Translation",
+	"type": "Course"
 }

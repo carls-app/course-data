@@ -8,7 +8,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"CMC 201"
@@ -27,6 +27,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Statistical Consulting"
+	"title": "Statistical Consulting",
+	"type": "Course"
 }

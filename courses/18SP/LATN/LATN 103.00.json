@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hans Wietzke"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Latin 102 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "48399",
 	"tags": [],
-	"title": "Introduction to Latin Prose and Poetry"
+	"title": "Introduction to Latin Prose and Poetry",
+	"type": "Course"
 }

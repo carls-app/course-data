@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -52,5 +53,6 @@
 		"EUSTTRANNATL",
 		"PPOLCORE"
 	],
-	"title": "Capitalist Crises, Power, and Policy"
+	"title": "Capitalist Crises, Power, and Policy",
+	"type": "Course"
 }

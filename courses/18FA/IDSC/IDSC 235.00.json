@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,6 +26,7 @@
 		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,5 +39,6 @@
 		"SPECINTHEALTH",
 		"PPOLPH"
 	],
-	"title": "Perspectives in Public Health"
+	"title": "Perspectives in Public Health",
+	"type": "Course"
 }

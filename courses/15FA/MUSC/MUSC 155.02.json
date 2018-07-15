@@ -8,13 +8,14 @@
 	"instructors": [
 		"Liz Ericksen"
 	],
-	"number": "155.02",
+	"number": "155",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 4,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "42321",
 	"tags": [],
-	"title": "Violin"
+	"title": "Violin",
+	"type": "Course"
 }

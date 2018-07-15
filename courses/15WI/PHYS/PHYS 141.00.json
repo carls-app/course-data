@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 47,
 		"total": 48,
@@ -46,5 +47,6 @@
 	"summary": "An introduction of basic principles of physics in the realm of planetary systems, black holes and dark matter in the universe. Gravity, conservation of energy and momentum will be used to explore large-scale phenomena in the cosmos. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory or observational work. Not open to students who have completed Physics 131, 132, or 142 at Carleton.",
 	"synonym": "39626",
 	"tags": [],
-	"title": "Introduction to Physics: Gravity and the Cosmos"
+	"title": "Introduction to Physics: Gravity and the Cosmos",
+	"type": "Course"
 }

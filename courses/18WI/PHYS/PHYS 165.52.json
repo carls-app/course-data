@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "165.52",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Olin 141",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 9,
 		"total": 24,
@@ -52,5 +53,6 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Electricity, Magnetism, and Optics & Lab"
+	"title": "Introduction to Electricity, Magnetism, and Optics & Lab",
+	"type": "Course"
 }

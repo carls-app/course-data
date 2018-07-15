@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "233.57",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -41,6 +41,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I & Lab"
+	"title": "Organic Chemistry I & Lab",
+	"type": "Course"
 }

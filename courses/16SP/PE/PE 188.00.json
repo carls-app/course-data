@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"West Gym 101",
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -39,5 +40,6 @@
 	"summary": "An excellent preparation for the \"Carleton Triathlon\" held at the end of May. Students will learn how to effectively train in each of the three traditional sports of triathlon (swim, bike, run). Instruction covers basic training principles, technique development, competitive preparation. This course is open to all levels of experience from novice to advanced. Students must possess a minimal amount of skill and conditioning in the three sports prior to enrollment.",
 	"synonym": "40812",
 	"tags": [],
-	"title": "Triathlon Training"
+	"title": "Triathlon Training",
+	"type": "Course"
 }

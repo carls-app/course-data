@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,6 +33,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSIELECTIVE",
 		"POSCELECTIVE"
 	],
-	"title": "Lab in Electoral Politics"
+	"title": "Lab in Electoral Politics",
+	"type": "Course"
 }

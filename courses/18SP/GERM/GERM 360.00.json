@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -41,10 +39,8 @@
 	"summary": null,
 	"synonym": "48379",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Song That Sleeps in Everything"
+	"title": "Song That Sleeps in Everything",
+	"type": "Course"
 }

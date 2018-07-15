@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "46489",
 	"tags": [],
-	"title": "Seminar in Music Analysis"
+	"title": "Seminar in Music Analysis",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Constanza Ocampo-Raeder"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"ENTSFASCP",
 		"LTAMSOCSCI"
 	],
-	"title": "Anthropology of Food"
+	"title": "Anthropology of Food",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

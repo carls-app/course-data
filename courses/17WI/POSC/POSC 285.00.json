@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jon R Olson"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"POSIELECTIVE",
 		"PPOLFP"
 	],
-	"title": "Intelligence, Policy and Conflict"
+	"title": "Intelligence, Policy and Conflict",
+	"type": "Course"
 }

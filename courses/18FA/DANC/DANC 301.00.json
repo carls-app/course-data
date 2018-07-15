@@ -6,7 +6,7 @@
 	"instructors": [
 		"Whitney McClusky"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -24,6 +24,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -35,5 +36,6 @@
 	"tags": [
 		"AFSTARP"
 	],
-	"title": "Contemporary Styles and Techniques: African Dance"
+	"title": "Contemporary Styles and Techniques: African Dance",
+	"type": "Course"
 }

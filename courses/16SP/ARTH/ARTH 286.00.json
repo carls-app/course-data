@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -37,6 +37,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -53,5 +54,6 @@
 		"FRSTELEC",
 		"FRENPERT"
 	],
-	"title": "Legacies of the Avant-Garde: Dada Then and Now"
+	"title": "Legacies of the Avant-Garde: Dada Then and Now",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -26,6 +26,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "45107",
 	"tags": [],
-	"title": "Instrumental Chemical Analysis Laboratory"
+	"title": "Instrumental Chemical Analysis Laboratory",
+	"type": "Course"
 }

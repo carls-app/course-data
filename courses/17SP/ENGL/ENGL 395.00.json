@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"ENGLADVSEM"
 	],
-	"title": "Murder"
+	"title": "Murder",
+	"type": "Course"
 }

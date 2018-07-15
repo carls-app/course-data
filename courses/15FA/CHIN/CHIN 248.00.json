@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"ASSTCENT",
 		"LINGELEC"
 	],
-	"title": "The Structure of Chinese"
+	"title": "The Structure of Chinese",
+	"type": "Course"
 }

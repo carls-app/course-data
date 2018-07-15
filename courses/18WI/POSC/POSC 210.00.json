@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christina E Farhart"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"POSI-DSS2",
 		"AMSTDAC"
 	],
-	"title": "Misinformation, Political Rumors, and Conspiracy Theories"
+	"title": "Misinformation, Political Rumors, and Conspiracy Theories",
+	"type": "Course"
 }

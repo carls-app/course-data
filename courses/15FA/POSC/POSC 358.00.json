@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -32,6 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"POSCADVSEM",
 		"POSIELECTIVE"
 	],
-	"title": "Comparative Social Movements*"
+	"title": "Comparative Social Movements*",
+	"type": "Course"
 }

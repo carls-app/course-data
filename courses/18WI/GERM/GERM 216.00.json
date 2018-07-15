@@ -6,7 +6,7 @@
 	"instructors": [
 		"Juliane Schicker"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "47841",
 	"tags": [],
-	"title": "German Short Prose"
+	"title": "German Short Prose",
+	"type": "Course"
 }

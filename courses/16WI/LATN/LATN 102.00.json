@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Latin 101 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -51,5 +52,6 @@
 	"summary": "Continuation of essential forms and grammar.",
 	"synonym": "41830",
 	"tags": [],
-	"title": "Intermediate Latin"
+	"title": "Intermediate Latin",
+	"type": "Course"
 }

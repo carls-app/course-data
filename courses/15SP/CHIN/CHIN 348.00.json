@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shaohua Guo"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: CHIN 206 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -46,5 +47,6 @@
 		"ASSTEAST",
 		"CAMSXDEPT"
 	],
-	"title": "Advanced Chinese: The Mass Media"
+	"title": "Advanced Chinese: The Mass Media",
+	"type": "Course"
 }

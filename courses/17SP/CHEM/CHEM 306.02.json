@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "306.02",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -40,6 +40,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 10,
@@ -49,5 +50,6 @@
 	"summary": null,
 	"synonym": "45126",
 	"tags": [],
-	"title": "Spectrometric Characterization of Chemical Compounds"
+	"title": "Spectrometric Characterization of Chemical Compounds",
+	"type": "Course"
 }

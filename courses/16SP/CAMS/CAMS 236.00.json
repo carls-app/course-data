@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stacy N Beckwith"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -51,5 +52,6 @@
 		"MELAPERT",
 		"MESTGRP2"
 	],
-	"title": "Israeli Society in Israeli Cinema"
+	"title": "Israeli Society in Israeli Cinema",
+	"type": "Course"
 }

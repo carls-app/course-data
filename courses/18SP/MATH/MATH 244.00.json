@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Euclidean geometry from an advanced perspective; projective, hyperbolic, inversive, and/or other geometries. Recommended for prospective secondary school teachers.",
 	"synonym": "48872",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
-	"title": "Geometries"
+	"title": "Geometries",
+	"type": "Course"
 }

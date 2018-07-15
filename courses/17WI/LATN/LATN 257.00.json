@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Boliou 140"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"MARSSUPP"
 	],
-	"title": "Caesar, Lucan, and Civil War"
+	"title": "Caesar, Lucan, and Civil War",
+	"type": "Course"
 }

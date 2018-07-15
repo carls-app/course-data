@@ -6,7 +6,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "205.02",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -42,5 +43,6 @@
 		"SPAN204-219",
 		"SPAN205-209"
 	],
-	"title": "Conversation and Composition"
+	"title": "Conversation and Composition",
+	"type": "Course"
 }

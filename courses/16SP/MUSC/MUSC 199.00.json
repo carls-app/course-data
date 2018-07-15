@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "199.00",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -26,6 +26,7 @@
 		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -37,5 +38,6 @@
 	"tags": [
 		"AFAMARTSPRAC"
 	],
-	"title": "Fundamentals of African Drumming"
+	"title": "Fundamentals of African Drumming",
+	"type": "Course"
 }

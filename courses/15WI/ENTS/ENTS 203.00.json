@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,6 +31,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"SPECINTETHICS",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Ethics and Ecology"
+	"title": "Ethics and Ecology",
+	"type": "Course"
 }

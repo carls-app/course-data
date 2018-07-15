@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam Loy"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 32,
@@ -47,5 +48,6 @@
 		"ENTSQUANTV",
 		"PPOLCORE"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie Freeze"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"AMSTREI",
 		"AMSTDAC"
 	],
-	"title": "Parties, Interest Groups and Elections"
+	"title": "Parties, Interest Groups and Elections",
+	"type": "Course"
 }

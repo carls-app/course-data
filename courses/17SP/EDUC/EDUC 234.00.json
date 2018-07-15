@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maurella L Cunningham"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -36,6 +36,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"EDUCCORE",
 		"CGSCELECTIVE"
 	],
-	"title": "Educational Psychology"
+	"title": "Educational Psychology",
+	"type": "Course"
 }

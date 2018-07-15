@@ -8,7 +8,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"HISTENVIRHEALTH",
 		"AMSTTOPICAL2"
 	],
-	"title": "American Farms and Food"
+	"title": "American Farms and Food",
+	"type": "Course"
 }

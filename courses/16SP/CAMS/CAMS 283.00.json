@@ -7,7 +7,7 @@
 		"John Schott",
 		"Austin P Mason"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -30,6 +30,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 14,
@@ -43,5 +44,6 @@
 		"CAMSELECPROD",
 		"CAMSSTUPROD"
 	],
-	"title": "Site-Specific Media: Out and About"
+	"title": "Site-Specific Media: Out and About",
+	"type": "Course"
 }

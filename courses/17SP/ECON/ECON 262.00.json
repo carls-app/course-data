@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"POECUPAPP",
 		"AMSTAMERWRLD"
 	],
-	"title": "The Economics of Sports"
+	"title": "The Economics of Sports",
+	"type": "Course"
 }

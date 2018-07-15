@@ -6,7 +6,7 @@
 	"instructors": [
 		"Austin P Mason"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"MARSCORE",
 		"MARSSUPP"
 	],
-	"title": "The Viking World"
+	"title": "The Viking World",
+	"type": "Course"
 }

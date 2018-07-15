@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "The Origins of Manga: Japanese Prints"
+	"title": "The Origins of Manga: Japanese Prints",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Daniel L Hernández",
 		"Mark McKone"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 	"prerequisites": "Prerequisite: One previous upper-level course in ecology or evolution, from Biology 210, 212, 248, 321, 350 or 352",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -44,5 +45,6 @@
 		"BIOLDATAINTERP",
 		"BIOLELECTIVE"
 	],
-	"title": "Seminar: Conservation Biology"
+	"title": "Seminar: Conservation Biology",
+	"type": "Course"
 }

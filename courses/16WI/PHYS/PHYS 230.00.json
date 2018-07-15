@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 229",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": "A numerical treatment of classical mechanics concentrating on examples which are difficult, if not impossible, to solve analytically. Topics may include examples from astrophysics and chaotic dynamics.",
 	"synonym": "42370",
 	"tags": [],
-	"title": "Computational Mechanics"
+	"title": "Computational Mechanics",
+	"type": "Course"
 }

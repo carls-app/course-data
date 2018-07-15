@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "158.00",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"EASTSUPP",
 		"POSI-LPS2"
 	],
-	"title": "Cold War in East Asia"
+	"title": "Cold War in East Asia",
+	"type": "Course"
 }

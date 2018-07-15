@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constanza Ocampo-Raeder"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"LTAMSOCSCI",
 		"POSI-AREAS"
 	],
-	"title": "Ethnography of Latin America"
+	"title": "Ethnography of Latin America",
+	"type": "Course"
 }

@@ -8,20 +8,15 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "296.07",
+	"number": "296",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -31,26 +26,12 @@
 	"summary": null,
 	"synonym": "46893",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"POSCELECTIVE",
+		"POSI-DSS2",
+		"POSI-AREAS",
+		"POSI-AREAS2",
+		"CCSTENCTR"
 	],
-	"title": "Central and Eastern European Politics Program: Challenges to the Nation-State in Eastern and Central Europe: Immigrants and Minorities"
+	"title": "Central and Eastern European Politics Program: Challenges to the Nation-State in Eastern and Central Europe: Immigrants and Minorities",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,5 +40,6 @@
 	"summary": null,
 	"synonym": "49476",
 	"tags": [],
-	"title": "Catullus and Horace: Poetry, Pleasure and Politics"
+	"title": "Catullus and Horace: Poetry, Pleasure and Politics",
+	"type": "Course"
 }

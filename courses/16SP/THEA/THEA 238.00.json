@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary Ann Kelling"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Weitz Center 048"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -40,5 +41,6 @@
 	"summary": "An introductory course in costume design. This course will examine the basic concepts of design and how they apply to costumes. In depth analysis of the script and characters will lead to an exploration of how costume design can be used to enhance the production. Basic rendering techniques and clothing history will also be studied.",
 	"synonym": "41599",
 	"tags": [],
-	"title": "Costume Design for Theater"
+	"title": "Costume Design for Theater",
+	"type": "Course"
 }

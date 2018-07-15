@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": "Selected readings in the original from Plautus and/or Terence; study in translation of both Roman Comedy and its predecessor Greek New Comedy.",
 	"synonym": "41829",
 	"tags": [],
-	"title": "Roman Comedy"
+	"title": "Roman Comedy",
+	"type": "Course"
 }

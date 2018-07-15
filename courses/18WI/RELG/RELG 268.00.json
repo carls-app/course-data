@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -47,5 +48,6 @@
 	"tags": [
 		"MESTGRP1"
 	],
-	"title": "The Perfumed Life: Islamic Sources of the Self"
+	"title": "The Perfumed Life: Islamic Sources of the Self",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -52,34 +47,14 @@
 	"summary": null,
 	"synonym": "48629",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POECMIDAPP",
-			"name": "POEC Amer Pub Pol Mid Div"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSIELECTIVE",
+		"POSI-GDS2",
+		"POECUPAPP",
+		"AMSTTOPICAL3",
+		"POECMIDAPP",
+		"AMSTDAC",
+		"AMSTREI"
 	],
-	"title": "Poverty and Public Policy in the U.S."
+	"title": "Poverty and Public Policy in the U.S.",
+	"type": "Course"
 }

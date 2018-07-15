@@ -6,7 +6,7 @@
 	"instructors": [
 		"Charles B Guignon"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"SPECINTETHICS",
 		"PHILPRACVAL"
 	],
-	"title": "The Self: Philosophical and Psychological Perspectives"
+	"title": "The Self: Philosophical and Psychological Perspectives",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,6 +31,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -54,5 +55,6 @@
 		"HISTENVIRHEALTH",
 		"PPOLEP"
 	],
-	"title": "American Cities and Nature"
+	"title": "American Cities and Nature",
+	"type": "Course"
 }

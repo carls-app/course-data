@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,6 +26,7 @@
 		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "52464",
 	"tags": [],
-	"title": "Thinking with Numbers: Using Math and Data in Context"
+	"title": "Thinking with Numbers: Using Math and Data in Context",
+	"type": "Course"
 }

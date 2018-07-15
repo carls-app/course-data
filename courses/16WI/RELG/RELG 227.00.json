@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,6 +31,7 @@
 		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -54,5 +55,6 @@
 		"AFSTHI",
 		"PPOLECON"
 	],
-	"title": "Liberation Theologies"
+	"title": "Liberation Theologies",
+	"type": "Course"
 }

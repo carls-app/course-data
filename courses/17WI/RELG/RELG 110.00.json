@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "45433",
 	"tags": [],
-	"title": "Understanding Religion"
+	"title": "Understanding Religion",
+	"type": "Course"
 }

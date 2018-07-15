@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "265.02",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 28,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

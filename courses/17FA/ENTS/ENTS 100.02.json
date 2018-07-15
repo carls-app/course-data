@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -38,6 +38,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -47,5 +48,6 @@
 	"summary": null,
 	"synonym": "49011",
 	"tags": [],
-	"title": "Science, Technology & Public Policy"
+	"title": "Science, Technology & Public Policy",
+	"type": "Course"
 }

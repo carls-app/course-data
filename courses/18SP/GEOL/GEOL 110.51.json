@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "110.51",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL35"
@@ -38,12 +38,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another 100-level Geology course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "51",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -53,14 +51,9 @@
 	"summary": null,
 	"synonym": "49792",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"ARCNPERT"
 	],
-	"title": "Introduction to Geology & Lab"
+	"title": "Introduction to Geology & Lab",
+	"type": "Course"
 }

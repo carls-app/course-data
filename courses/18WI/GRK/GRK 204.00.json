@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 103 with a grade of at least C-",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"LITFORLANG",
 		"ENGLLOE"
 	],
-	"title": "Intermediate Greek Prose and Poetry"
+	"title": "Intermediate Greek Prose and Poetry",
+	"type": "Course"
 }

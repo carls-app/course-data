@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "51293",
 	"tags": [],
-	"title": "Algorithms"
+	"title": "Algorithms",
+	"type": "Course"
 }

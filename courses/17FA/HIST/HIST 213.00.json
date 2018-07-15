@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -35,6 +35,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"AMSTAMERWRLD",
 		"AMSTDAC"
 	],
-	"title": "The Age of Hamilton"
+	"title": "The Age of Hamilton",
+	"type": "Course"
 }

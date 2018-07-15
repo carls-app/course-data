@@ -8,20 +8,15 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "359.07",
+	"number": "359",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 230 or beyond and participation in OCS Paris program",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -31,26 +26,12 @@
 	"summary": null,
 	"synonym": "46872",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"CCSTGLOBAL",
+		"FRSTELEC",
+		"FFSTLIT"
 	],
-	"title": "Paris Program: Hybrid Paris"
+	"title": "Paris Program: Hybrid Paris",
+	"type": "Course"
 }

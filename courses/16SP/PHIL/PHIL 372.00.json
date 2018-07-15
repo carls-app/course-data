@@ -6,7 +6,7 @@
 	"instructors": [
 		"Douglas B Marshall"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -48,5 +49,6 @@
 		"PHILTHEORY",
 		"CGSCELECTIVE"
 	],
-	"title": "Kant's Critique of Pure Reason"
+	"title": "Kant's Critique of Pure Reason",
+	"type": "Course"
 }

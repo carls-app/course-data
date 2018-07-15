@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex R Knodell"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"ARCNPERT"
 	],
-	"title": "Political Landscapes: Archaeologies of Territory and Polity"
+	"title": "Political Landscapes: Archaeologies of Territory and Polity",
+	"type": "Course"
 }

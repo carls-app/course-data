@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -47,5 +48,6 @@
 	"summary": null,
 	"synonym": "45315",
 	"tags": [],
-	"title": "Monsters, Robots, and Other (Non-)Humans"
+	"title": "Monsters, Robots, and Other (Non-)Humans",
+	"type": "Course"
 }

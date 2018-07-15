@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meryl L Lauer"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"ARCNPERT",
 		"CCSTSEEING"
 	],
-	"title": "Introduction to Anthropology"
+	"title": "Introduction to Anthropology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Flory"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Weitz Center M215"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL1",
 		"AFSTLA"
 	],
-	"title": "Golden Age of R & B"
+	"title": "Golden Age of R & B",
+	"type": "Course"
 }

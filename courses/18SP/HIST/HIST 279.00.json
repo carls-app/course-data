@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luis A Herran Avila"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": null,
 	"synonym": "49641",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"POSI-AREAS2",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"CCSTENCTR"
 	],
-	"title": "Latin America and the Global Cold War"
+	"title": "Latin America and the Global Cold War",
+	"type": "Course"
 }

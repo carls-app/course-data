@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"PSYCSEMINAR",
 		"PSYCUPPERLEVEL"
 	],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

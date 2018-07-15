@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric C Alexander"
 	],
-	"number": "314.00",
+	"number": "314",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 34,
@@ -46,5 +47,6 @@
 	"tags": [
 		"CGSCELECTIVE"
 	],
-	"title": "Data Visualization"
+	"title": "Data Visualization",
+	"type": "Course"
 }

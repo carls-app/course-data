@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,6 +33,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSI-GDS2",
 		"ENTS2SCP"
 	],
-	"title": "Measuring and Evaluating Social and Ecological Systems"
+	"title": "Measuring and Evaluating Social and Ecological Systems",
+	"type": "Course"
 }

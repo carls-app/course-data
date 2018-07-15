@@ -8,20 +8,15 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "254.07",
+	"number": "254",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or the equivalent and Participation in OCS Paris Program",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -31,22 +26,11 @@
 	"summary": null,
 	"synonym": "46869",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"FRSTELEC",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY",
+		"FFSTHISARTH"
 	],
-	"title": "Paris Program: French Art in Context"
+	"title": "Paris Program: French Art in Context",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Sandra E Rousseau",
 		"Juliane Schicker"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -55,5 +56,6 @@
 		"FFSTLIT",
 		"FRSTCORE"
 	],
-	"title": "The Critical Toolbox: Who's Afraid of Theory?"
+	"title": "The Critical Toolbox: Who's Afraid of Theory?",
+	"type": "Course"
 }

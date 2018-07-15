@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": null,
 	"synonym": "48959",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"ASSTHU",
+		"ASSTSOUTH",
+		"RELGHINDUTRAD",
+		"RELGBUDDHSTTRAD",
+		"CCSTGLOBAL",
+		"SASTSUPPHI"
 	],
-	"title": "Yoga: Religion, History, Practice"
+	"title": "Yoga: Religion, History, Practice",
+	"type": "Course"
 }

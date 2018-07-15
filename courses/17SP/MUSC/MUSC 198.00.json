@@ -6,7 +6,7 @@
 	"instructors": [
 		"Issam Rafea"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "46937",
 	"tags": [],
-	"title": "Middle Eastern Music Ensemble"
+	"title": "Middle Eastern Music Ensemble",
+	"type": "Course"
 }

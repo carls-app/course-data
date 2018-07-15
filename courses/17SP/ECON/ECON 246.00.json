@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"EDUCCLUSTER3",
 		"PPOLSP"
 	],
-	"title": "Economics of Welfare"
+	"title": "Economics of Welfare",
+	"type": "Course"
 }

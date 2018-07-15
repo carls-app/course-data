@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,6 +33,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -45,5 +46,6 @@
 		"SPECINTSOCTHGHT",
 		"PHILPRACVAL"
 	],
-	"title": "Philosophy with Children"
+	"title": "Philosophy with Children",
+	"type": "Course"
 }

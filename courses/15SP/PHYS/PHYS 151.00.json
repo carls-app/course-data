@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -46,5 +47,6 @@
 	"summary": "An introduction to principles of physics in the domain of the very small and very fast. Topics include the special theory of relativity, and selected applications to atomic, nuclear, and particle physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
 	"synonym": "39666",
 	"tags": [],
-	"title": "Introduction to Physics: Relativity and Particles"
+	"title": "Introduction to Physics: Relativity and Particles",
+	"type": "Course"
 }

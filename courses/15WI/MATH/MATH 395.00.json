@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helen M Wong"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"STATSUPPER"
 	],
-	"title": "Senior Seminar in Knot Theory"
+	"title": "Senior Seminar in Knot Theory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -54,5 +55,6 @@
 		"ASSTLANG",
 		"ASSTEAST"
 	],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

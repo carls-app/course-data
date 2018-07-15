@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lei Yang"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"ASSTEAST",
 		"EASTSUPP"
 	],
-	"title": "Advanced Chinese: Traditional Culture in Modern Language"
+	"title": "Advanced Chinese: Traditional Culture in Modern Language",
+	"type": "Course"
 }

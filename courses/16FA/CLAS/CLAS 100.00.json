@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -37,6 +37,7 @@
 		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "44759",
 	"tags": [],
-	"title": "Alexander the Great"
+	"title": "Alexander the Great",
+	"type": "Course"
 }

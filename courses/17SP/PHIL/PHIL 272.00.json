@@ -6,7 +6,7 @@
 	"instructors": [
 		"Douglas B Marshall"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"SPECINTPHILSCI",
 		"EUSTTRANNATL"
 	],
-	"title": "Early Modern Philosophy"
+	"title": "Early Modern Philosophy",
+	"type": "Course"
 }

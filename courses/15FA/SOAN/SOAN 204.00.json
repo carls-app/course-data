@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian W Fuller"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"CAMSELECTIVE",
 		"AMMUGROUP3"
 	],
-	"title": "Media and Society"
+	"title": "Media and Society",
+	"type": "Course"
 }

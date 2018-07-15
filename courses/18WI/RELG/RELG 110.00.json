@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mara G Block"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "48948",
 	"tags": [],
-	"title": "Understanding Religion"
+	"title": "Understanding Religion",
+	"type": "Course"
 }

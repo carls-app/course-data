@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": "This seminar will acquaint students with research tools in various fields of religious studies, provide an opportunity to present and discuss research work in progress, hone writing skills, and improve oral presentation techniques.",
 	"synonym": "39339",
 	"tags": [],
-	"title": "Senior Research Seminar"
+	"title": "Senior Research Seminar",
+	"type": "Course"
 }

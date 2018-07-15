@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 34,
@@ -43,5 +44,6 @@
 	"summary": "A second course on designing and analyzing efficient algorithms to solve computational problems. We will survey some algorithmic design techniques that apply broadly throughout computer science, including discussion of wide-ranging applications. A sampling of potential topics: approximation algorithms (can we efficiently compute near-optimal solutions even when finding exact solutions is computationally intractable?); randomized algorithms (does flipping coins help in designing faster/simpler algorithms?); online algorithms (how do we analyze an algorithm that needs to make decisions before the entire input arrives?); advanced data structures; complexity theory. As time and interest permit, we will mix recently published algorithmic papers with classical results.",
 	"synonym": "46479",
 	"tags": [],
-	"title": "Advanced Algorithms"
+	"title": "Advanced Algorithms",
+	"type": "Course"
 }

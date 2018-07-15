@@ -8,13 +8,14 @@
 	"instructors": [
 		"Dave Ricks"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 40,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "40678",
 	"tags": [],
-	"title": "Cross Country Intercollegiate, Men"
+	"title": "Cross Country Intercollegiate, Men",
+	"type": "Course"
 }

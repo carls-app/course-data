@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -36,6 +36,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 30,
@@ -50,5 +51,6 @@
 		"PSYCBIOBEH",
 		"NEURELEC"
 	],
-	"title": "Psychology of Learning"
+	"title": "Psychology of Learning",
+	"type": "Course"
 }

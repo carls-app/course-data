@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -32,6 +32,7 @@
 		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"SPECINTSOCTHGHT",
 		"EUSTTRANNATL"
 	],
-	"title": "Justice Among Nations"
+	"title": "Justice Among Nations",
+	"type": "Course"
 }

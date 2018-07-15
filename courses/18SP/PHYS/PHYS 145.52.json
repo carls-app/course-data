@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "145.52",
+	"number": "145",
 	"offerings": {
 		"locations": [
 			"Olin 149",
@@ -39,16 +39,11 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 101 or 111. Not open to students who have completed Physics 131, 132, 141, 142, 143, or 144 at Carleton.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 26,
 		"total": 24,
@@ -58,10 +53,8 @@
 	"summary": null,
 	"synonym": "49109",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
-	"title": "Mechanics and Waves & Lab"
+	"title": "Mechanics and Waves & Lab",
+	"type": "Course"
 }

@@ -6,11 +6,12 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 2,
 		"total": 10,
@@ -22,5 +23,6 @@
 	"tags": [
 		"CGSCIE"
 	],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

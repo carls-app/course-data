@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -34,6 +34,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -49,5 +50,6 @@
 		"POSI-DSS",
 		"PPOLOTHER"
 	],
-	"title": "Political Communication: Political Advertising in Elections and Public Policy"
+	"title": "Political Communication: Political Advertising in Elections and Public Policy",
+	"type": "Course"
 }

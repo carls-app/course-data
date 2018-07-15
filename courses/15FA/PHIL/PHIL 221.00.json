@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -36,6 +36,7 @@
 		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -50,5 +51,6 @@
 		"SPECINTSOCTHGHT",
 		"SPECINTETHICS"
 	],
-	"title": "Philosophy of Law"
+	"title": "Philosophy of Law",
+	"type": "Course"
 }

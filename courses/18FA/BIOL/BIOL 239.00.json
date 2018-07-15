@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration Biology 238",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -35,5 +36,6 @@
 	"tags": [
 		"SPECINTSUSTAIN"
 	],
-	"title": "Entomology Laboratory"
+	"title": "Entomology Laboratory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin A Wolfe"
 	],
-	"number": "326.00",
+	"number": "326",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -47,5 +48,6 @@
 		"AFSTHI",
 		"CCSTENCTR"
 	],
-	"title": "Religion and the Post-Colonial Imagination"
+	"title": "Religion and the Post-Colonial Imagination",
+	"type": "Course"
 }

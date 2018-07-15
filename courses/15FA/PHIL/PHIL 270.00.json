@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zoli Filotas"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -36,6 +36,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"MARSSUPP",
 		"PHILCORE"
 	],
-	"title": "Order, Hierarchy, and Chaos in Ancient Greek Philosophy"
+	"title": "Order, Hierarchy, and Chaos in Ancient Greek Philosophy",
+	"type": "Course"
 }

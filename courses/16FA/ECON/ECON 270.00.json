@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"POSI-DSS2",
 		"PPOLCORE"
 	],
-	"title": "Economics of the Public Sector"
+	"title": "Economics of the Public Sector",
+	"type": "Course"
 }

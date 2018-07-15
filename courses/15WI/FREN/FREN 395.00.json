@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -35,6 +35,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -51,5 +52,6 @@
 		"AFAMARTSPRAC",
 		"FRSTELECAL"
 	],
-	"title": "The Mande of West Africa: A Tradition of Change"
+	"title": "The Mande of West Africa: A Tradition of Change",
+	"type": "Course"
 }

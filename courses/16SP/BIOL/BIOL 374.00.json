@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "374.00",
+	"number": "374",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -32,6 +32,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -47,5 +48,6 @@
 		"ENTSFAES",
 		"ENTSTOPICAL"
 	],
-	"title": "Seminar: Grassland Ecology"
+	"title": "Seminar: Grassland Ecology",
+	"type": "Course"
 }

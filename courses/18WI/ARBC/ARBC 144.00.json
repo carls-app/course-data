@@ -8,7 +8,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -38,6 +38,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -49,5 +50,6 @@
 	"tags": [
 		"MESTGRP2"
 	],
-	"title": "Arabic Literature at War"
+	"title": "Arabic Literature at War",
+	"type": "Course"
 }

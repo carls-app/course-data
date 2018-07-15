@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"CCSTANALYSIS",
 		"CCSTENCTR"
 	],
-	"title": "Comparative Nationalism"
+	"title": "Comparative Nationalism",
+	"type": "Course"
 }

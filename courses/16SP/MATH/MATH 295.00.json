@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 24,
@@ -45,5 +46,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Seminar in Set Theory"
+	"title": "Seminar in Set Theory",
+	"type": "Course"
 }

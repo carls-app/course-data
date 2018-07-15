@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Social Behavior and Interpersonal Processes"
+	"title": "Social Behavior and Interpersonal Processes",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"RELGTHLVDRELCLT",
 		"SPECINTSOCTHGHT"
 	],
-	"title": "Televangelists and Cyber-Shaykhs: Explorations in Religion and Media"
+	"title": "Televangelists and Cyber-Shaykhs: Explorations in Religion and Media",
+	"type": "Course"
 }

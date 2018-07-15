@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -32,6 +32,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "49337",
 	"tags": [],
-	"title": "Contemporary Dance Forms I"
+	"title": "Contemporary Dance Forms I",
+	"type": "Course"
 }

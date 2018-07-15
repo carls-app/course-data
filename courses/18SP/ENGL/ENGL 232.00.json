@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hubert A Cook"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -49,34 +41,14 @@
 	"summary": null,
 	"synonym": "50835",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"AMSTTOPICAL1",
+		"WGSTADDL",
+		"AFSTLA",
+		"ENGLHE3",
+		"ENGLT2",
+		"AMSTPCC",
+		"AMSTREI"
 	],
-	"title": "Fugitive James Baldwin"
+	"title": "Fugitive James Baldwin",
+	"type": "Course"
 }

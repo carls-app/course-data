@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "185.00",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,6 +31,7 @@
 		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"SPECINTSOCTHGHT",
 		"SPECINTSUSTAIN"
 	],
-	"title": "Critical Studies in Public Space with N55"
+	"title": "Critical Studies in Public Space with N55",
+	"type": "Course"
 }

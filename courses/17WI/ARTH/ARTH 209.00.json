@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"ASSTAL",
 		"ASSTEAST"
 	],
-	"title": "Chinese Painting"
+	"title": "Chinese Painting",
+	"type": "Course"
 }

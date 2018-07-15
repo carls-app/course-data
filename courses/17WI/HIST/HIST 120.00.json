@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -36,6 +36,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -51,5 +52,6 @@
 		"HISTUS",
 		"AFAMPERT"
 	],
-	"title": "Rethinking the American Experience: American History, 1607-1865"
+	"title": "Rethinking the American Experience: American History, 1607-1865",
+	"type": "Course"
 }

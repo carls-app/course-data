@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -29,6 +29,7 @@
 		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -41,5 +42,6 @@
 		"CAMSELECTIVE",
 		"CAMS300THEORY"
 	],
-	"title": "Sound Studies Seminar"
+	"title": "Sound Studies Seminar",
+	"type": "Course"
 }

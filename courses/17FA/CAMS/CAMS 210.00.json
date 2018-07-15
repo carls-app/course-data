@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dimitrios Pavlounis"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -37,6 +37,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -49,5 +50,6 @@
 		"CAMS200HIST",
 		"CAMSELECTIVE"
 	],
-	"title": "Film History I"
+	"title": "Film History I",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lydia B. Tang"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -44,6 +44,7 @@
 	"prerequisites": "Prerequisite: German 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -53,5 +54,6 @@
 	"summary": "Completion of the study of basic structural patterns of the German language, and the reading and discussion of a longer literary work.",
 	"synonym": "39436",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

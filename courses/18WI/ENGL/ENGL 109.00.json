@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy P DeAngelo"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "48525",
 	"tags": [],
-	"title": "Introduction to Rhetoric"
+	"title": "Introduction to Rhetoric",
+	"type": "Course"
 }

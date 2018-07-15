@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -31,6 +31,7 @@
 		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"POSIELECTIVE",
 		"POSI-DSS2"
 	],
-	"title": "Separatist Movements"
+	"title": "Separatist Movements",
+	"type": "Course"
 }

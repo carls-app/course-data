@@ -8,7 +8,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -37,6 +37,7 @@
 		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 20,
@@ -48,5 +49,6 @@
 	"tags": [
 		"ELECSTAT"
 	],
-	"title": "Introduction to Data Science"
+	"title": "Introduction to Data Science",
+	"type": "Course"
 }

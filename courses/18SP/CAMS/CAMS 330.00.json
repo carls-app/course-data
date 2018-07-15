@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dimitrios Pavlounis"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -46,18 +44,10 @@
 	"summary": null,
 	"synonym": "49188",
 	"tags": [
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"CAMS300THEORY",
+		"CAMSELECTIVE",
+		"ASSTMETH"
 	],
-	"title": "Cinema Studies Seminar"
+	"title": "Cinema Studies Seminar",
+	"type": "Course"
 }
