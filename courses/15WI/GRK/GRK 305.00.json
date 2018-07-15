@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -46,18 +43,9 @@
 	"summary": "Intensive study of selections from Homer's",
 	"synonym": "40398",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
 	"title": "Homer"
 }

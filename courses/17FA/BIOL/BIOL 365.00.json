@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -41,22 +38,10 @@
 	"summary": null,
 	"synonym": "47741",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "BIOLDATAINTERP",
-			"name": "Biol Data Interpretation"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"CGSCELECTIVE",
+		"NEURELEC",
+		"BIOLDATAINTERP",
+		"BIOLELECTIVE"
 	],
 	"title": "Topics in Neuroscience"
 }

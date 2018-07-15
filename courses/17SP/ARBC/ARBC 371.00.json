@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Arabic 206 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": null,
 	"synonym": "46818",
 	"tags": [
-		{
-			"code": "MESTPERT",
-			"name": "Middle East Studies Pertinent"
-		}
+		"MESTPERT"
 	],
 	"title": "Readings in Pre-Modern Arabic Science"
 }

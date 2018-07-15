@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,42 +39,15 @@
 	"summary": "Focusing on the early nineteenth century struggle to create an American nation and a national culture, we will look at the ways Americans adopted and adapted European ideas, particularly the aesthetic idea of the Sublime, in their attempt to come to terms with the conquest of the new land and its native inhabitants and with the nature of their national enterprise. Writers Irving, Cooper, Emerson, Thoreau, Hawthorne, Melville, Whitman, and Dickinson and painters Cole, Bierstadt, Church, Kensett, and Lane will be included. Major themes will include attitudes towards landscape and settlement, a distinctively American character, the nature and utility of art, and ideas of American empire.",
 	"synonym": "44796",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"ENTS2SCP",
+		"POSI-AREAS2",
+		"ENGLT2",
+		"ENGLHE2",
+		"ENTSLPSCP",
+		"AMSTTOPICAL1",
+		"SPECINTSUSTAIN",
+		"AMSTSAP",
+		"AMSTPCC"
 	],
 	"title": "The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America"
 }

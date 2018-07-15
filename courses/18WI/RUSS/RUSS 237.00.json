@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": null,
 	"synonym": "48683",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Beyond Beef Stroganoff: Food in Russian Culture"
 }

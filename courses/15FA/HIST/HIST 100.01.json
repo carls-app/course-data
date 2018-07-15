@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "Her subjects remembered her as",
 	"synonym": "42979",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTERLYMODEUR"
 	],
 	"title": "The Age of Elizabeth"
 }

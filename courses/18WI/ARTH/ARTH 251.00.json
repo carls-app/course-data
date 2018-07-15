@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "47830",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"LTAMELECTIVE",
+		"LTAMLIT"
 	],
 	"title": "Maya Art and Architecture"
 }

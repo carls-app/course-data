@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "46012",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Data Visualization"
 }

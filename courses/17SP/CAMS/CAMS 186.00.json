@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -47,14 +41,8 @@
 	"summary": null,
 	"synonym": "45065",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"CAMSELECTIVE",
+		"AMSTTOPICAL1"
 	],
 	"title": "Film Genres"
 }

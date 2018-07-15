@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "This course explores the archaeology and art of the Ancient Greek world. Beginning with prehistory, we will track the development of the material culture of Ancient Greece through the Classical and Hellenistic periods, and conclude by discussing aspects of the Roman, Byzantine, and Ottoman empires that followed. We will focus throughout on aspects of archaeological practice, material culture and text, art and society, long-term social change, and the role of the past in the present. Students who have taken Classics 121 are not eligible to take this course.",
 	"synonym": "41784",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		},
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		}
+		"ARCNPERT",
+		"ARTHPERT"
 	],
 	"title": "Greek Archaeology and Art"
 }

@@ -12,18 +12,9 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -35,18 +26,9 @@
 	"summary": null,
 	"synonym": "43532",
 	"tags": [
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		}
+		"ENGLT3",
+		"EUSTCNTRY",
+		"ENGLHE3"
 	],
 	"title": "Postcolonial London"
 }

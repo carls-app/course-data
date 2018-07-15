@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -41,30 +38,12 @@
 	"summary": "How can we design democratic institutions to deal with environmental and social problems? Are there universal approaches to solving political problems in physically and socially diverse communities? Do people come up with different institutional ways to address shared problems because of environmental or cultural differences? By examining basic principles of institutional design you will learn how to analyze constitutions, public policies, international treaties, and other \"rule ordered relationships\" that different people have created to deal with environmental concerns and, generally, the health and welfare of their communities.",
 	"synonym": "39246",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"POSI-GDS2",
+		"ENTSCDSCP",
+		"ENTSWRSCP",
+		"POSI-GDS",
+		"POSIELECTIVE",
+		"PPOLEP"
 	],
 	"title": "Environment and the Evolution of Rules: Designing Institutions to Solve Political Problems"
 }

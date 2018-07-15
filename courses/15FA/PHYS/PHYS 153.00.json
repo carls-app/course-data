@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 131, 132, 141 or 142 and Mathematics 111; Concurrent registration in Physics 153L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "A study of the properties of fluids (both static and dynamic) and the principles of waves and wave motion (including both sound and light). Topics include simple harmonic motion, buoyancy and Archimedes' principle, Bernoulli's equation, viscosity, Poiseuille's equation, standing waves, musical instruments, and the Doppler effect. One laboratory per week.",
 	"synonym": "42335",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
 	"title": "Fluid and Waves"
 }

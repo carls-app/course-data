@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": null,
 	"synonym": "46243",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		}
+		"HISTASIA",
+		"ASSTSOUTH",
+		"WGSTADDL",
+		"SAST"
 	],
 	"title": "Nuclear Nations: India and Pakistan as Rival Siblings"
 }

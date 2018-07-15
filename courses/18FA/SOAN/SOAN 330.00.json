@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": null,
 	"synonym": "52196",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTMETH",
+		"ASSTDISC",
+		"SPECINTSOCTHGHT"
 	],
 	"title": "Sociological Thought and Theory"
 }

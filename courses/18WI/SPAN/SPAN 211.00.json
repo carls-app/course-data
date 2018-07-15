@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -42,10 +36,7 @@
 	"summary": null,
 	"synonym": "49850",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		}
+		"SPAN204-219"
 	],
 	"title": "Welcome to the International Film Forum!"
 }

@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": null,
 	"synonym": "48985",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "PPOLEDUC",
-			"name": "Pub Pol Education Policy"
-		}
+		"POSI-DSS2",
+		"POECUPAPP",
+		"PPOLEDUC"
 	],
 	"title": "Economics of Higher Education"
 }

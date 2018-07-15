@@ -31,10 +31,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,26 +43,11 @@
 	"summary": "The structure and function of writing systems, with emphasis on a comparison of East Asian writing systems (Chinese, Japanese, Korean) to Western alphabetic systems. Topics covered include classification of writing systems, historical development, diffusion and borrowing of writing systems, and comparison with non-writing symbol systems.",
 	"synonym": "44799",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "LINGELEC",
-			"name": "Linguistics Elective"
-		}
+		"EASTSUPP",
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTSS",
+		"LINGELEC"
 	],
 	"title": "Writing Systems"
 }

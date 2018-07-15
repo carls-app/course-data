@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": true,
 	"size": {
@@ -43,22 +40,10 @@
 	"summary": null,
 	"synonym": "51220",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "CCSTREFLECT",
-			"name": "Ccst Reflectng Cross-Cult Exp"
-		}
+		"SPECINTETHICS",
+		"WGSTADDL",
+		"EDUCCLUSTER2",
+		"CCSTREFLECT"
 	],
 	"title": "Talking about Diversity"
 }

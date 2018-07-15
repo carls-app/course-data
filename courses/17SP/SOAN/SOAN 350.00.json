@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses number 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "45611",
 	"tags": [
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		}
+		"PPOLSP"
 	],
 	"title": "Diversity and Democracy in America"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "What does it for something to be statistically significant? This course will ask and answer this question by teaching social science students how to interpret data. This elementary statistics course covers descriptive and inferential statistics up to regression. Whenever possible, we will 'flip' the classroom -- using class time for activities and problem sets, and using out of class time for online lectures to introduce new material. We will focus on calculating and applying social statistics, rather than statistical theory. No prior knowledge of statistics is required.",
 	"synonym": "39599",
 	"tags": [
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POECUPWTD",
+		"FRSTELEC",
+		"FRENPERT"
 	],
 	"title": "Social Statistics"
 }

@@ -34,14 +34,8 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 295",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -53,26 +47,11 @@
 	"summary": "This course is the second part of a two-term sequence beginning with Cinema and Media Studies 295. In order to bring the students into contact with the cultural and social discourses examined in Cinema and Media Studies 295, this course begins with a study trip to Santiago and Buenos Aires during the first two weeks in December. Our time will be spent visiting filmmakers, producers, scholars, and cultural organizations that shape filmmaking practices and cultural production. The course meets once early in winter term and then involves individual meetings with the faculty during the first five weeks. The course then meets regularly during the second half of winter term, when students formally present their projects followed by a group discussion.",
 	"synonym": "43566",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"LTAMLIT",
+		"CAMSELECTIVE",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"POSI-AREAS2"
 	],
 	"title": "Cinema and Cultural Change in Chile and Argentina"
 }

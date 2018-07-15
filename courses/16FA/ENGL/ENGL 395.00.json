@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "45895",
 	"tags": [
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		}
+		"ENGLT2",
+		"ENGLADVSEM"
 	],
 	"title": "Dissenting Americans"
 }

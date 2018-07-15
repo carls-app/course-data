@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,22 +45,10 @@
 	"summary": "In this class we consider the construction of American beauty historically, examining the way whiteness intersects with beauty to produce a dominant model that marginalizes women of color. We study how communities of color follow, refuse, or revise these beauty ideals through literature. We explore events like the beauty pageant, material culture such as cosmetics, places like the beauty salon, and body work like cosmetic surgery to understand how beauty is produced and negotiated.",
 	"synonym": "44795",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		}
+		"AMSTTOPICAL2",
+		"AMMUGROUP3",
+		"WGSTADDL",
+		"AMSTAMERWRLD"
 	],
 	"title": "Beauty and Race in America"
 }

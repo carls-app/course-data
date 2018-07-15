@@ -29,10 +29,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -44,10 +41,7 @@
 	"summary": "In this hands-on studio centered course, we'll explore and create interactive three dimensional art. Using basic construction techniques, microprocessors, and programming, this class brings together the fundamentals of computer science, sculpture, engineering, and aesthetic design. Students will engage the nuts-and-bolts of fabrication, learn to program computers, and study how robots think. Collaborative labs and individual projects will culminate in a campus wide exhibition. No prior building or programming experience is required. Students who have taken Studio Art 122, Computer Science 111, IDSC 120, or any higher numbered Computer Science course are NOT eligible to enroll.",
 	"synonym": "43007",
 	"tags": [
-		{
-			"code": "CSPERT",
-			"name": "CS Pertinent"
-		}
+		"CSPERT"
 	],
 	"title": "Art, Interactivity, and Robotics"
 }

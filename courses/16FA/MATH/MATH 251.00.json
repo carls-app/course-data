@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 232 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -41,10 +38,7 @@
 	"summary": null,
 	"synonym": "45735",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
 	"title": "Chaotic Dynamics"
 }

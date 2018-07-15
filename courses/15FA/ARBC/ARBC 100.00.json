@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR1",
+		"AI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {

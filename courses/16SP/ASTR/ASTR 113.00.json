@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Astronomy 100, 110, 127, 232, 233, Physics 228, 232, 233 or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": true,
 	"size": {

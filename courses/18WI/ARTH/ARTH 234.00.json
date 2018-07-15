@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Any one Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -48,14 +45,8 @@
 	"summary": null,
 	"synonym": "49804",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"EUSTTRANNATL"
 	],
 	"title": "Experiencing Early Modern Sculpture"
 }

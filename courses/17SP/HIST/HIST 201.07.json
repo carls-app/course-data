@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,26 +25,11 @@
 	"summary": null,
 	"synonym": "43545",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTCNTRY",
+		"HISTANCNT/MDVL",
+		"MARSCORE",
+		"RELGCHRISTNTRAD",
+		"MARSSUPP"
 	],
 	"title": "Rome Program: Community and Communication in Medieval Italy, CE 300-1250"
 }

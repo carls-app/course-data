@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -43,26 +40,11 @@
 	"summary": null,
 	"synonym": "45380",
 	"tags": [
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"POSI-PLI2",
+		"POSCADVSEM",
+		"MARSSUPP",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
 	"title": "Freedom, Excellence, Happiness: Aristotle's Ethics*"
 }

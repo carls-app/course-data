@@ -29,10 +29,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -44,34 +41,13 @@
 	"summary": null,
 	"synonym": "42190",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"POSI-LPS",
+		"POSIELECTIVE",
+		"CCSTGLOBAL",
+		"POSI-PLI2",
+		"SPECINTETHICS",
+		"SPECINTSOCTHGHT",
+		"EUSTTRANNATL"
 	],
 	"title": "Justice Among Nations"
 }

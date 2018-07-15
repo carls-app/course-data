@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: One introductory course in Biology (125 or 126), Chemistry 123 or 128 or any 100-level Geology or Physics (two five-week courses or one ten week course from 131 through 165) or instructor's permission.",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": true,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": null,
 	"synonym": "46067",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"ENTS2ENVSCI",
+		"PPOLEP"
 	],
 	"title": "The Science of the Earth System"
 }

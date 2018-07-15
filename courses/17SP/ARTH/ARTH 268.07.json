@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,14 +25,8 @@
 	"summary": null,
 	"synonym": "43556",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
 	"title": "Art History in Kyoto Program: History of Gardens and Landscape Architecture in Japan"
 }

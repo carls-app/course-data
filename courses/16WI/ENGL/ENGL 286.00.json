@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: One prior 6-credit English course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -47,14 +41,8 @@
 	"summary": "What happens when kids stop playing with their food? We write about it, Instagram it, Tweet it. Our obsession has also inspired a bumper crop of new food prose: call it desk-to-table. \"Eat the Story\" will be a writing workshop, with a focus on foodways, heirloom crops, and community/urban ag. Our reading menu will draw on contemporary post-Pollan food journalism. (Depending on our appetite, we may visit with local food producers.) These samples will serve as fodder for our main course: practical field reporting and writing projects, from blog posts to longer features.",
 	"synonym": "41235",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"AMSTTOPICAL2",
+		"ENGLCWWTGWKSHP"
 	],
 	"title": "Eat the Story"
 }

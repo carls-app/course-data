@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,42 +44,15 @@
 	"summary": "Comparative study of political institutions and conflicts in selected Latin American countries. Attention is focused on general problems and patterns of development, with some emphasis on U.S.-Latin American relations.",
 	"synonym": "39249",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"POSI-DSS2",
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"POSI-DSS",
+		"POSI-AREAS",
+		"POSIELECTIVE",
+		"LTAMELECTIVE"
 	],
 	"title": "Latin American Politics"
 }

@@ -37,14 +37,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 111 (completion or concurrent registration) and Physics 131 (completion or concurrent registration), 132, 141, 142, 143, 144 or 145",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +50,8 @@
 	"summary": null,
 	"synonym": "51162",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"ENTSINTRO",
+		"STEMPHYS"
 	],
 	"title": "Introduction to Physics: Environmental Physics & Lab"
 }

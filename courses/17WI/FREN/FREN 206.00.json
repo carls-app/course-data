@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "This course aims to improve knowledge of France and the Francophone world and written and oral expression. Through an analysis of texts written by novelist and sociologist Azouz Begag, journalist Françoise Laborde and novelist Maryse Condé, we will discuss various aspects of national, racial and family identity in France.",
 	"synonym": "45724",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"FFSTLIT"
 	],
 	"title": "Contemporary Francophone Culture"
 }

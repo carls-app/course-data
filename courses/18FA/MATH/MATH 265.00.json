@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 120 or 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "Introduction to probability and its applications. Topics include discrete probability, random variables, independence, joint and conditional distributions, expectation, limit laws and properties of common probability distributions.",
 	"synonym": "51364",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
 	"title": "Probability"
 }

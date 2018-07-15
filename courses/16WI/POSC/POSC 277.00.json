@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "The course explores the relationship between religion and politics, especially in multicultural societies where believers and nonbelievers alike must live together. The leading question of the course is if religion is a source of violence, as seems to be so much the case in the world today, or if it can enter the public sphere in ways that educate and enhance the sensibility and ability of modern individuals to live with radically different others. In the attempt to answer these questions we will read, among others, from the writings of Kant, Habermas, Herder, Derrida, Ricoeur, Taylor, and Zizek.",
 	"synonym": "42196",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POSIELECTIVE",
+		"POSI-DSS2",
+		"EUSTTRANNATL",
+		"FFSTSOCSCI",
+		"FRSTELEC",
+		"FRENPERT"
 	],
 	"title": "Religion in Politics: Conflict or Dialogue?"
 }

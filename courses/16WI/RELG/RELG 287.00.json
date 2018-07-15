@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,50 +45,17 @@
 	"summary": "The history of Christianity usually focuses on Jesus: the stories and doctrines that have revolved around him. This course will focus on Mary and the many ways she has contributed to the various lived traditions of Christianity. We will, for example, consider the mother of Jesus (Miriam, as she was first called) as she has figured in literature, art, apparition, and ritual practice around the world. We will also consider Mary Magdalene, her foil, who appears in popular discourse from the Gnostic gospels to The Da Vinci Code. Case studies, texts, images, and film will be our fare.",
 	"synonym": "41929",
 	"tags": [
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"RELGAMERTRAD",
+		"EUSTTRANNATL",
+		"MARSSUPP",
+		"WGSTADDL",
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"ASSTHU",
+		"ASSTPERT",
+		"CCSTENCTR"
 	],
 	"title": "Many Marys"
 }

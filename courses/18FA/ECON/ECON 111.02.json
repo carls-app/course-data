@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": null,
 	"synonym": "51985",
 	"tags": [
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		},
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		}
+		"POECLOWER",
+		"PPOLCORE"
 	],
 	"title": "Principles of Microeconomics"
 }

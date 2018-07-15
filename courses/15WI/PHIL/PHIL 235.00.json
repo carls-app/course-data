@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "Around the turn of the last century, a movement arose in philosophy which threatened to destroy philosophy itself. It started with a simple conviction that \"what can be said at all can be said clearly, and what we cannot talk about we must pass over in silence.\" This led to calls by analytically-minded philosophers to commit most of philosophy to the flames. After its self-destructive adolescence, however, analytic philosophy developed into something constructive. We'll look at some of the greatest hits from both phases. Authors to be read include Wittgenstein, Carnap, Quine, Anscombe, Goodman, Kripke, and Lewis.",
 	"synonym": "38522",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"SPECINTPHILSCI",
+		"PHILTHEORY",
+		"CGSCELECTIVE"
 	],
 	"title": "Analytic Philosophy's Greatest Hits"
 }

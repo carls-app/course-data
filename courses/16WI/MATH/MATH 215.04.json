@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Math 115, Psychology 200/201 or Math 275. Students who have received credit for Math 115 may petition the department to seek approval to register for MATH 215. Students who have taken Math 211 are",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Introduction to statistics and data analysis. Practical aspects of statistics, including extensive use of statistical software, interpretation and communication of results, will be emphasized. Topics include: exploratory data analysis, correlation and linear regression, design of experiments, basic probability, the normal distribution, randomization approach to inference, sampling distributions, estimation, hypothesis testing, and two-way tables.",
 	"synonym": "43483",
 	"tags": [
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ENTSQUANTV"
 	],
 	"title": "Introduction to Statistics"
 }

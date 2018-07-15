@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 238; PSYC 110",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

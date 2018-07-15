@@ -27,14 +27,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 224 (230) and 233 and Mathematics 120 (121)",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

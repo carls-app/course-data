@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126, and one of Biology 210, 238, 248, 250, 308, 321 or 352 and instructor permission",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -47,34 +41,13 @@
 	"summary": "Grassland ecosystems cover one third of the Earth's surface and occur on every continent except Antarctica. Grasslands provide habitat for millions of species, play a major role in global carbon and nutrient cycles, and are the primary source of agricultural land, making them an important ecosystem both ecologically and economically. This course will utilize scientific literature to explore the environmental and biological characteristics of the world's grasslands from population dynamics to ecosystem processes. Topics include competition and succession, plant-animal interactions, carbon and nutrient cycling, the role of disturbances such as fire and land use change, and grassland management and restoration. Enrollment by application. Waitlist only.",
 	"synonym": "45027",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "BIOLDATAINTERP",
-			"name": "Biol Data Interpretation"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"ENTSTOPSEM",
+		"ENTS2ENVSCI",
+		"ENTSCDES",
+		"ENTSFAES",
+		"ENTSTOPICAL",
+		"BIOLDATAINTERP",
+		"BIOLELECTIVE"
 	],
 	"title": "Seminar: Grassland Ecology"
 }

@@ -29,18 +29,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"QRE",
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,26 +43,11 @@
 	"summary": null,
 	"synonym": "42186",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "PPOLOTHER",
-			"name": "Pub Pol Other Comparative"
-		}
+		"POSI-DSS2",
+		"CAMSXDEPT",
+		"POSIELECTIVE",
+		"POSI-DSS",
+		"PPOLOTHER"
 	],
 	"title": "Political Communication: Political Advertising in Elections and Public Policy"
 }

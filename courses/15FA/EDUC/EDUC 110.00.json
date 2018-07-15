@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +47,7 @@
 	"summary": "This course will focus on education as a multidisciplinary field of study. We will explore the meanings of education within individual lives and institutional contexts, learn to critically examine the assumptions that writers, psychologists, sociologists and philosophers bring to the study of education, and read texts from a variety of disciplines. What has \"education\" meant in the past? What does \"education\" mean in contemporary American society? What might \"education\" mean to people with differing circumstances and perspectives? And what should \"education\" mean in the future? Open only to first-and second-year students.",
 	"synonym": "41171",
 	"tags": [
-		{
-			"code": "EDUCCORE",
-			"name": "Ed Studies Core Course"
-		}
+		"EDUCCORE"
 	],
 	"title": "Introduction to Educational Studies"
 }

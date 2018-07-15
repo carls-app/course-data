@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,22 +43,10 @@
 	"summary": "This course will examine recent experimental findings and current perspectives on sleep, dreaming, sleep disorders, and states of consciousness.",
 	"synonym": "48741",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCBIOBEH",
-			"name": "Psyc Biologcl & Behavorl Proc"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC",
+		"PSYCCORE",
+		"PSYCBIOBEH"
 	],
 	"title": "Sleep and Dreaming"
 }

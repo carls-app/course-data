@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": "This course (taught in English) provides an overview of Chinese popular culture from 1949 to the contemporary era, including popular literature, film, posters, music, and blog entries. The course examines both old and new forms of popular culture in relation to social change, cultural spaces, new media technologies, the state, individual expressions, and gender politics. Throughout this course, special attention is paid to the alliance between popular literature and the booming entertainment industry, the making of celebrity culture, and the role digital media plays in shaping China's cultural landscape. The course requires no prior knowledge of Chinese language, literature, or culture.",
 	"synonym": "39954",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"ASSTEAST",
+		"ASSTHU",
+		"CAMSXDEPT"
 	],
 	"title": "Chinese Popular Culture"
 }

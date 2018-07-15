@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,34 +45,13 @@
 	"summary": "This course focuses on the esoteric South Asian approach to religion commonly known as \"Tantra.\" Inspired by revealed texts called tantras, medieval Hindus, Buddhists, and Jains developed a rich, complex approach to spiritual life that focused not on ascetic transcendence of the world but on utilizing and sublimating bodily and mental processes, including sex, violence, death, and the imagination. We will explore the ideology, rhetoric, praxis, and social consequences of Tantra in its original Indic setting, and its echoes in Tibet, elsewhere in Asia, and the modern West--where it has been a source of fascination, revulsion, and much misunderstanding.",
 	"synonym": "39335",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"ASSTHU",
+		"SPECINTETHICS",
+		"SAST",
+		"RELGBUDDHSTTRAD",
+		"RELGTHTHGHTPHIL",
+		"ASSTSOUTH",
+		"RELGTHLVDRELCLT"
 	],
 	"title": "Tantra: Secrecy, Sex, and the Sublime"
 }

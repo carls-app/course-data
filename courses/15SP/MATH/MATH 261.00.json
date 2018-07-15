@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "Algebra and geometry of complex numbers, analytic functions, complex integration, series, residues, applications. Not open to students who have already received credits for Mathematics 361.",
 	"synonym": "40100",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
 	"title": "Functions of a Complex Variable"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "A survey of the major forms and voices of nineteenth-century American literature during the Romantic and Realist periods, with attention to the historical and intellectual contexts of that work. Topics covered will include the literary writings of Transcendentalism, abolition, and the rise of literary \"realism\" after the Civil War as an artistic response to urbanization and industrialism. Writers to be read include Irving, Hawthorne, Melville, Emerson, Douglass, Dickinson, Whitman, Twain, James, and Wharton.",
 	"synonym": "41227",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLHE2",
+		"ENGLT2",
+		"AMSTSURVEY1",
+		"LITFORLANG"
 	],
 	"title": "Nineteenth-Century American Literature"
 }

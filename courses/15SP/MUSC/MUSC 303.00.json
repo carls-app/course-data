@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Music 201 or 204",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

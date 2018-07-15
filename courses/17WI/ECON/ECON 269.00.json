@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "This course studies economic models of climate change and their implications for policy design. Covered topics include: the relationship between climate change and the macroeconomy, the performance of different climate policy instruments such as carbon taxes and cap and trade systems, the potential effects of innovation, and the economics surrounding the use of different types of energy.",
 	"synonym": "44912",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECWTD",
-			"name": "Polit Econ World Trade&Develo"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"POSI-GDS2",
+		"POSIELECTIVE",
+		"POECWTD",
+		"POECUPWTD",
+		"ENTS2SCP",
+		"PPOLEP"
 	],
 	"title": "Economics of Climate Change"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,38 +44,14 @@
 	"summary": "City revenue is increasingly dependent on tourism. Cities manufacture identity and entertainment, whether we think of Las Vegas or Jerusalem, Berlin or Bilbao, the ethnoscapes of Copenhagen or the red light district of Amsterdam. As cities compete in the global economy to become playgrounds for a transnational tourist class, what is the role of urban residents? Who governs? Who benefits? Short essays or exams will be required.",
 	"synonym": "42160",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECMIDWTD",
-			"name": "POEC Wrld Trade&Dev Mid Div"
-		}
+		"POECUPAPP",
+		"POECAPP",
+		"POSI-GDS2",
+		"AFAMDISTROSS",
+		"POSI-GDS",
+		"AFAMSOCINQ",
+		"POSIELECTIVE",
+		"POECMIDWTD"
 	],
 	"title": "Urban Political Economy"
 }

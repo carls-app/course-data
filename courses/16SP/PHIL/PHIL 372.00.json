@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": "In this course we aim to understand the theories of knowledge and being developed by Immanuel Kant in his monumental",
 	"synonym": "41582",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"PHILTHEORY",
+		"CGSCELECTIVE"
 	],
 	"title": "Kant's Critique of Pure Reason"
 }

@@ -40,14 +40,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -59,18 +53,9 @@
 	"summary": null,
 	"synonym": "47713",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"ENTSINTRO",
+		"BIOCCORE",
+		"NEURCORE"
 	],
 	"title": "Energy Flow in Biological Systems and Lab"
 }

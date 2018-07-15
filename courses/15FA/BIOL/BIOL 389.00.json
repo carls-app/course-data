@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: One of the following: Biology 240, 242, 280, 342, or 350",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "This seminar course is focused on introductory concepts in evolutionary developmental biology. We will use critical evaluation of primary literature to explore how the genetic mechanisms that control development have evolved the diversity of life on earth.",
 	"synonym": "40969",
 	"tags": [
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLELECTIVE"
 	],
 	"title": "Seminar: Evo-Devo; Evolutionary Developmental Biology"
 }

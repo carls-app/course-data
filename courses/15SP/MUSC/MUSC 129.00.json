@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "This course is devoted to deep listening and analysis of records illustrating the chief style trends and genres of rock's first three decades. During this period (1950s-1970s) popular music developed a new common language that bound together diverse stylistic and cultural elements through the medium of sound recording. We will trace the development of that language and its rhetorical elements through a series of guided listening projects.",
 	"synonym": "39989",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"AMSTTOPICAL1",
+		"AMMUGROUP2"
 	],
 	"title": "Rock on Record"
 }

@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -41,22 +38,10 @@
 	"summary": null,
 	"synonym": "45398",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		}
+		"WGSTADDL",
+		"AFAMSOCINQ",
+		"AMMUGROUP3",
+		"AFSTSI"
 	],
 	"title": "Black Feminist Thought: The Everyday World"
 }

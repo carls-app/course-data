@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Women's and Gender Studies 110",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"IDS",
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": null,
 	"synonym": "43673",
 	"tags": [
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"SOANPERT",
+		"AMSTTOPICAL3",
+		"AFAMPERT",
+		"WGSTADDL"
 	],
 	"title": "The Politics of Women's Health"
 }

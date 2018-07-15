@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": null,
 	"synonym": "44752",
 	"tags": [
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"FFSTHISARTH",
+		"EUSTTRANNATL",
+		"FRENPERT",
+		"FRSTELEC",
+		"MARSSUPP"
 	],
 	"title": "Baroque Art"
 }

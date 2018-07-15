@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": null,
 	"synonym": "47844",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"POSI-DSS2",
+		"AMSTTOPICAL3",
+		"AFSTSI",
+		"POSIELECTIVE",
+		"AMSTAMERWRLD",
+		"AMSTDAC"
 	],
 	"title": "Global Decline of Democracy: Urban Revanchism and Popular Resistance"
 }

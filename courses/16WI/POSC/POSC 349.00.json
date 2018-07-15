@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -43,22 +40,10 @@
 	"summary": null,
 	"synonym": "42198",
 	"tags": [
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"POSI-PLI2",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSCADVSEM"
 	],
 	"title": "Justice Among Nations"
 }

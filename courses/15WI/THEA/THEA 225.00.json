@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "The theater has often had a vexed and volatile relationship with its cultural moment, and its history is as much one of revolution as of evolution. This course will look across the broad contours of theater history to examine the questions and challenges that consistently recur, including the relationship between representation and the real, between politics and aesthetics, and between the text and the body. Historical eras covered will include ancient Greece, medieval Japan, early modern Europe, and twentieth and twenty-first century Europe and America. Some class time will be spent doing performative explorations of historical texts.",
 	"synonym": "37844",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"SPECINTSOCTHGHT",
+		"THEAPERT"
 	],
 	"title": "Theater History and Theory"
 }

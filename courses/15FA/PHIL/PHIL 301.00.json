@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "Humans can be---and maybe are even systematically---irrational in so many ways. We fall prey to wishful thinking, gullibility, dogmatism, confirmation bias, rationalization, probabilistic fallacies, and formal fallacies (just to name a few of our problematic tendencies). From the epistemic point of view--that is, from the point of view of trying to get to the truth and avoid falsity---this looks lamentable. We might even be led to a general distrust of our ability to properly reason. On the other hand, it might be that \"some\" of these tendencies are tied to cognitive structures and mechanisms that are in fact good and desirable from the epistemic point of view. Or maybe it's just confused to think there is any such thing as \"the epistemic point of view.\" In this seminar, we will consider these issues from the standpoints of epistemology, meta-epistemology, and cognitive science. Authors to be read include Kahneman and Tversky, Stephen Stich, Richard Nisbett, Edward Stein, and Ruth Millikan.",
 	"synonym": "41568",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"PHILTHEORY",
+		"CGSCELECTIVE"
 	],
 	"title": "Irrationality"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "The globalization of disease is often seen as a recent phenomenon aided by high-speed communication and travel. This course examines the history of the spread of infectious diseases by exploring the connection between disease, medicine and European imperial expansion. We consider the ways in which European expansion from 1500 onwards changed the disease landscape of the world and how pre-existing diseases in the tropics shaped and thwarted imperial ambitions. We will also question how far Western medicine can be seen as a benefit by examining its role in facilitating colonial expansion and constructing racial and gender difference.",
 	"synonym": "48306",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		}
+		"HISTENVIRHEALTH",
+		"POSI-AREAS2",
+		"POSI-GDS2"
 	],
 	"title": "Plagues of Empire"
 }

@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,18 +47,9 @@
 	"summary": "This course will examine the different spaces that inform the production of U.S. identities. We will think about the ways the construction of neighborhoods (urban or suburban) affects our sense of place, ethnicity, and community; we'll consider the impact that border geographies, whether physical or cultural, have on national imaginings; we shall look at contemporary cultural expressions of small town vs. big city life and consider what they feature as particular and unique about Americanness.",
 	"synonym": "44787",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"HISTUS",
+		"AMMUGROUP1",
+		"HISTPERT"
 	],
 	"title": "Introduction to American Studies: Placing Identities"
 }

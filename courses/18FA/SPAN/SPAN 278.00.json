@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": null,
 	"synonym": "52584",
 	"tags": [
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LINGREL",
-			"name": "Linguistics Related Field"
-		}
+		"SPAN220-290",
+		"LTAMPERT",
+		"LTAMELECTIVE",
+		"LINGREL"
 	],
 	"title": "Introduction to the Study of Hispanic Linguistics"
 }

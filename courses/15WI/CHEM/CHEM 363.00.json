@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 121, Chemistry 234, and either Biology 126 or Chemistry 320, or by instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "This course examines the chemical and physical underpinnings of biology at the molecular level. Principles of thermodynamics will be applied to problems in biochemistry, including protein structure, folding, and dynamics, ligand binding, membrane transport, and metabolism. Biophysical methods for the characterization of the structure and function of macromolecules will also be discussed.",
 	"synonym": "40172",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
 	"title": "Biophysical Chemistry"
 }

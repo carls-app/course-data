@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "Jorge Luis Borges is quoted as saying that \"unlike the novel, a short story may be, for all purposes, essential.\" This course focuses attention primarily on the short story as an enduring form. We will read short stories drawn from different literary traditions and from various parts of the world. Stories to be read include those by Aksenov, Atwood, Beckett, Borges, Camus, Cheever, Cisneros, Farah, Fuentes, Gordimer, Ishiguro, Kundera, Mahfouz, Marquez, Moravia, Nabokov, Narayan, Pritchett, Rushdie, Trevor, Welty, and Xue.",
 	"synonym": "37964",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLF",
+		"LITFORLANG"
 	],
 	"title": "The Art of Storytelling"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Mathematics 211, Mathematics 215 or Psychology 200/201",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

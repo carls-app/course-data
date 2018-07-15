@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,34 +41,13 @@
 	"summary": null,
 	"synonym": "42169",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"POSIELECTIVE",
+		"POSI-PLI2",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"FFSTSOCSCI",
+		"FRENPERT",
+		"FRSTELEC"
 	],
 	"title": "Modern Political Philosophy: Science and Humanity*"
 }

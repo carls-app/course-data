@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "This course is concerned with both the role of schools in society and the impact of society on schools. It deals with race, ethnicity, sex, social class and other factors which influence school achievement, and also examines the widespread assumption that the expansion of schooling can increase equality of opportunity in society.",
 	"synonym": "39555",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "PPOLEDUC",
-			"name": "Pub Pol Education Policy"
-		}
+		"EDUCCLUSTER3",
+		"AMSTTOPICAL3",
+		"CCSTETHNIC",
+		"AFAMPERT",
+		"PPOLEDUC"
 	],
 	"title": "Schooling and Opportunity in American Society"
 }

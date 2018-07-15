@@ -39,14 +39,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 101 or 111, not open to students who have completed Physics 142, 143, 144 or 145 at Carleton",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -58,10 +52,7 @@
 	"summary": null,
 	"synonym": "48495",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
 	"title": "Introduction to Physics: Newtonian Mechanics & Lab"
 }

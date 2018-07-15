@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "44911",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Behavioral Economics"
 }

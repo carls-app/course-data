@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Cognitive Science 130 required, 200 level Cognitive Science, Psychology or Philosophy course recommended",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -41,14 +38,8 @@
 	"summary": null,
 	"synonym": "45494",
 	"tags": [
-		{
-			"code": "PHILPERT",
-			"name": "Philosophy Pertinent Courses"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"PHILPERT",
+		"CGSCELECTIVE"
 	],
 	"title": "Phenomenology and Cognitive Science"
 }

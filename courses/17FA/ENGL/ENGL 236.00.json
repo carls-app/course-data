@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,50 +44,17 @@
 	"summary": "A study of the environmental imagination in American literature. We will explore the relationship between literature and the natural sciences and examine questions of style, narrative, and representation in the light of larger social, ethical, and political concerns about the environment. Authors read will include Thoreau, Muir, Jeffers, Abbey, and Leopold. Students will write a creative Natural History essay as part of the course requirements.",
 	"synonym": "48509",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		}
+		"ENTS2SCP",
+		"ENGLT2",
+		"ENGLHE3",
+		"ENTSLPSCP",
+		"AMSTTOPICAL1",
+		"ENGL4",
+		"LITFORLANG",
+		"ENTSCDSCP",
+		"AMMUGROUP3",
+		"AMSTPCC",
+		"AMSTSAP"
 	],
 	"title": "American Nature Writing"
 }

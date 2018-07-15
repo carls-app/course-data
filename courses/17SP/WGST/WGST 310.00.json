@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "This class will focus on the topic of Asian sexuality and gender, considering traditional, transnational, and transgressive representations of Asian sexualities, femininities, masculinities and bodies. Often associated with paradoxical images of sensuality, spirituality, repression, and femininity, Asian sexuality has a long history, shaped by enduring colonial imaginaries and our transnational, capitalist present. Tracing a genealogy of Asian mystiques, we will study classical sources that have served as \"prooftexts\" for these images, and will then focus our attention on Asian literature, film, art, religious traditions, and social movements that have produced their own, often alternative, conceptions of Asian sexualities and gender.",
 	"synonym": "46013",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"ASSTSS",
+		"ASSTSOUTH",
+		"RELGPERT",
+		"WGSTADDL",
+		"WGSTCAP"
 	],
 	"title": "Asian Mystiques Demystified"
 }

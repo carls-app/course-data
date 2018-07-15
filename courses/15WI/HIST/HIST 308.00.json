@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: History 205 or permission of the instructor",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"WR2",
+		"IDS",
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -49,58 +40,19 @@
 	"summary": "Since the nation's founding, the percentage of Americans living in cities has risen nearly sixteenfold, from about five percent to the current seventy-nine percent. This massive change has spawned legions of others, and all of them have bearing on the complex ways that American cities and city-dwellers have shaped and reshaped the natural world. This course will consider the nature of cities in American history, giving particular attention to the dynamic linkages binding these cultural epicenters to ecological communities, environmental forces and resource flows, to eco-politics and social values, and to those seemingly far-away places we call farms and wilderness.",
 	"synonym": "38737",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"ENTSTOPSEM",
+		"ENTS2SCP",
+		"AMSTTOPICAL2",
+		"SPECINTHEALTH",
+		"HISTUS",
+		"ENTSCDSCP",
+		"ENTSLPSCP",
+		"ENTSFASCP",
+		"ENTSWRSCP",
+		"SPECINTSUSTAIN",
+		"ENTSTOPICAL",
+		"HISTENVIRHEALTH",
+		"PPOLEP"
 	],
 	"title": "American Cities and Nature"
 }

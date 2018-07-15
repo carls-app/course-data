@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": null,
 	"synonym": "52554",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGJEWISHTRAD",
+		"MESTGRP1",
+		"MARSSUPP",
+		"MARSCORE"
 	],
 	"title": "Monks and Mystics"
 }

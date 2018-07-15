@@ -31,22 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"WR2",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -58,10 +46,7 @@
 	"summary": null,
 	"synonym": "48400",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
 	"title": "Gender and Sexuality in Classical Antiquity"
 }

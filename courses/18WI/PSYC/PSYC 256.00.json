@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "The social psychological analysis of human social behavior, interpersonal processes, and group influences. Concurrent registration in Psychology 257 is strongly recommended. A grade of C- or better must be earned in both Psychology 256 and 257 to satisfy the LS requirement.",
 	"synonym": "48771",
 	"tags": [
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		}
+		"PSYCSDPCH",
+		"PSYCCORE"
 	],
 	"title": "Social Behavior and Interpersonal Processes"
 }

@@ -32,14 +32,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,26 +45,11 @@
 	"summary": null,
 	"synonym": "51570",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"AMMUGROUP3",
+		"WGSTADDL",
+		"AMSTTOPICAL1",
+		"AFSTLA",
+		"AMSTPCC"
 	],
 	"title": "Reading The Dancing Body: Topics in Dance History"
 }

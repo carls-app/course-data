@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": null,
 	"synonym": "49287",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"THEAPERT",
+		"ENGLFORLIT",
+		"FRENPERT"
 	],
 	"title": "Page and Stage: The Performance of Culture"
 }

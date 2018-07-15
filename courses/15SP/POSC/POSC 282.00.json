@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "This course will focus on the use of violence in world politics, with a specific emphasis on terrorism and crimes against humanity. The atrocities perpetrated by ISIS are the latest examples of violence targeting non-combatants. What is the strategic logic of terrorism? Why do some militant organizations resort to terror tactics but not others? What are the micro-dynamics of terrorist organizations pertaining to recruitment and indoctrination? We will tackle these questions from theoretical and empirical perspectives. We will also discuss issues such as genocides, humanitarian intervention, and the emergence of the right to protect doctrine.",
 	"synonym": "40432",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POSI-LPS",
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSI-PLI2",
+		"FRSTELEC",
+		"FRENPERT"
 	],
 	"title": "Terrorism and Violence in World Politics"
 }

@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 and acceptance in OCS Winter Break French Program in Senegal",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,26 +46,11 @@
 	"summary": null,
 	"synonym": "51494",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"FRSTELEC",
+		"AFSTLA",
+		"EUSTTRANNATL",
+		"EUSTCNTRY",
+		"FFSTLIT"
 	],
 	"title": "France and the African Imagination"
 }

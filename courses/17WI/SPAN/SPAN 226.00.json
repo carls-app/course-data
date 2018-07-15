@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": null,
 	"size": {

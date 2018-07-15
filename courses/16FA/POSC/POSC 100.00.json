@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		}
+		"WR1",
+		"AI"
 	],
 	"scnc": null,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": null,
 	"synonym": "45316",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"CAMSXDEPT"
 	],
 	"title": "American Elections of 2016"
 }

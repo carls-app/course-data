@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": "\"Everything you know about Indians is wrong.\" Paul Chaat Smith (Comanche author) This interdisciplinary course offers an introduction to important topics in the field of Native American Studies. We will examine history, literature, art, politics, and current events to explore the complex relationship between historical and contemporary issues that indigenous peoples face in the United States. We will pay particular attention to the creative ways that indigenous communities have remained vibrant in the face of ongoing colonial struggle. Topics include histories of Indian-settler relations, American Indian sovereignties, Indigenous ecological knowledge practices, American Indian philosophical and literary traditions, and American Indian activism.",
 	"synonym": "43056",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		}
+		"AMSTTOPICAL2",
+		"AMMUGROUP3"
 	],
 	"title": "We've Never Not Been Here: Indigenous Peoples and Places"
 }

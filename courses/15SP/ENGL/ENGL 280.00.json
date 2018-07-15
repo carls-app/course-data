@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: One prior 6 credit English course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": "This course explores the translation from event to effective writing through a variety of creative non-fiction forms, including memoir, journalism, and personal essay. Discussion of each participant's writing is the central mode of instruction, supplemented by examples from published writers, current magazines and newspapers, and essays on the creative process. Each student will create a portfolio of their work.",
 	"synonym": "40137",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Crafts of Writing: Creative Non-Fiction"
 }

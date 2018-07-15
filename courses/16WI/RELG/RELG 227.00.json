@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,58 +40,19 @@
 	"summary": "An introduction to liberationist thought, including black theology, Latin American liberation theology, and feminist theology through writings of various contemporary thinkers. Attention will be directed to theories of justice, power, and freedom. We will also examine the social settings out of which these thinkers have emerged, their critiques of \"traditional\" theologies, and the new vision of Christian life they have developed in recent decades. Previous study of Christianity is recommended but not required.",
 	"synonym": "41927",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"LTAMSOCSCI",
+		"AFAMDISTROHU",
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR",
+		"AFAMHUMANINQ",
+		"SPECINTSOCTHGHT",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"WGSTADDL",
+		"AFSTHI",
+		"PPOLECON"
 	],
 	"title": "Liberation Theologies"
 }

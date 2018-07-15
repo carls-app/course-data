@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": null,
 	"synonym": "45278",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Modern Germany-FLAC German Trailer"
 }

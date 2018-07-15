@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 and above.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "An interdisciplinary exploration of the ways in which the Haitian, Mexican, Cuban and Sandinista revolutions have been imagined in literature, art and film. Through the lens of cultural texts, we will study how the concept of revolution evolves in each of these cases and what new promises each case brings to our conception of the American continent. Authors read will include Alejo Carpentier, Guillermo Cabrera Infante, Mariano Azuela, Derek Walcott and Ernesto Cardenal.",
 	"synonym": "39414",
 	"tags": [
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAM300LIT",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMPERT"
 	],
 	"title": "The Other American Revolutions"
 }

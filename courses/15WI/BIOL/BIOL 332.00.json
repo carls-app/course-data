@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126; Concurrent registration in Biology 333",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -48,14 +45,8 @@
 	"summary": "Human Physiology seeks to understand the fundamental mechanisms responsible for the diverse functions of the body. Course topics include the function and regulation of the various physiological systems (nervous, circulatory, endocrine, excretory, respiratory, digestive, etc.), biochemistry, cellular physiology, homeostasis and acid-base chemistry. The study of human physiology provides the principal groundwork for internal medicine, pharmacology, and other related health fields. The laboratory includes a variety of experiments focusing on the function and regulation of the human body. Not open to students who have taken Biology 232.",
 	"synonym": "38474",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"BIOCELEC",
+		"NEURELEC"
 	],
 	"title": "Human Physiology"
 }

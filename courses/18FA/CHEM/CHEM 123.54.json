@@ -48,14 +48,8 @@
 	},
 	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Evaluation (Chemistry Home Page) or Chemistry 122",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -67,14 +61,8 @@
 	"summary": null,
 	"synonym": "52585",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "STEMCHEM",
-			"name": "Stem Chem Requirement"
-		}
+		"BIOCCORE",
+		"STEMCHEM"
 	],
 	"title": "Principles of Chemistry I With Problem Solving & Lab"
 }

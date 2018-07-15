@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,22 +41,10 @@
 	"summary": "Decried as scandalous, heralded as the first \"modern\" novel, Gustave Flaubert's",
 	"synonym": "45719",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"EUSTCNTRY",
+		"FRSTELEC",
+		"ENGLFORLIT",
+		"FFSTLIT"
 	],
 	"title": "Madame Bovary and Her Avatars"
 }

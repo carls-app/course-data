@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "Theories of complexity and emergence relate to how large-scale collective properties and characteristics of a system can arise from the behavior and attributes of component parts. This course explores the relevance of these concepts, studied mainly in physics and biology, for the social sciences. Students will explore agent-based modeling to discover emergent properties of social systems through computer simulations they create using NetLogo software. Reading and seminar discussion topics include conflict and cooperation, electoral competition, transmission of culture and social networks. Completion of the stats/methods sequence is highly recommended.",
 	"synonym": "45374",
 	"tags": [
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		}
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POSIELECTIVE",
+		"POSI-LPS2"
 	],
 	"title": "The Complexity of Politics*"
 }

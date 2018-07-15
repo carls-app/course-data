@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,38 +40,14 @@
 	"summary": "Legal rules and institutions influence people's behavior. By setting acceptable levels of pollution, structuring guidelines for contract negotiations, deciding who should pay for the costs of an accident, and determining punishment for crimes, courts and legislatures create incentives. How do economic considerations factor into legal rules, and how do laws affect economic output and distribution? In this class, we use court cases, experiments, and current legal controversies to explore such issues.",
 	"synonym": "41083",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"POSI-GDS2",
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"ENTSWRSCP",
+		"ENTSFASCP",
+		"ENTSCDSCP",
+		"POECUPAPP",
+		"PPOLECON"
 	],
 	"title": "Law and Economics"
 }

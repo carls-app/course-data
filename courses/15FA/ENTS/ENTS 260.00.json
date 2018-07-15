@@ -39,10 +39,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 or 126 or Chemistry 123 or 128 or Geology 110 or 120 and instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +51,11 @@
 	"summary": "As the world human population continues to expand, while at the same time the arable land base and fossil fuel supply shrink, the need for a sustainable food system is imperative. This course explores factors influencing food production and distribution at both local and national levels, with an eye towards how these factors affect choices made by the ultimate stewards of the land--the farmers. While the course focuses on the scientific aspects of agroecosystem sustainability, comparisons will be made among various production models both in the U.S. and China, bringing in social, economic and policy issues. This course is part of the OCS winter break China program, involving two linked courses in fall and winter terms, this class is the first class in the sequence.",
 	"synonym": "41274",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"EASTSUPP",
+		"ENTS2ENVSCI",
+		"ENTSFAES",
+		"ENTSLPES",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Comparative Agroecology"
 }

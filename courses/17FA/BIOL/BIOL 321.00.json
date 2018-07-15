@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 126 and one 200 level course in Biology or Geology 230, 258, 285 or Environmental Studies 244, 254, 260, 265, 272, 287, 288",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,38 +46,14 @@
 	"summary": null,
 	"synonym": "47681",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "BIOLECOLEVOL",
-			"name": "Biol Ecology and Evolutionary"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"ENTS2ENVSCI",
+		"SPECINTSUSTAIN",
+		"ENTSCDES",
+		"ENTSTOPICAL",
+		"CCSTGLOBAL",
+		"ENTSLPES",
+		"BIOLECOLEVOL",
+		"BIOLELECTIVE"
 	],
 	"title": "Ecosystem Ecology"
 }

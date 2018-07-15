@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,34 +47,13 @@
 	"summary": "September 11, 2013 marked the fortieth anniversary of the coup d' état  that deposed the democratically elected government of socialist Salvador Allende and ushered in the seventeen-year dictatorship of General Augusto Pinochet. This interdisciplinary course canvasses this tumultuous era and its aftermath through the study of historical sources, literature, film, photography, and music. It explores the rise and fall of Allende, life and repression under the dictatorship, the protest movement against military rule, and the ongoing struggles and debates over human rights, justice, and collective memory.",
 	"synonym": "41437",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"POSI-AREAS2",
+		"LTAMELECTIVE",
+		"HISTLTAM",
+		"LTAMSOCSCI",
+		"POSI-AREAS",
+		"AMMUGROUP3",
+		"HISTPERT"
 	],
 	"title": "Chile's September 11th: History and Memory since the Coup"
 }

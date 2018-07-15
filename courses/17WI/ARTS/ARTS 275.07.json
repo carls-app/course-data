@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Studio Art 110 or 113 and acceptance to Carleton OCS program",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": "This course examines how Australia and New Zealand have changed since colonization. Students study the physical and environmental beginnings of these countries and learn about the history of their indigenous people, noting how the physical landscape has been changed through agriculture, mining, and the importation of non-native species. This course will include readings, meetings with visiting artists and lecturers, and visits to cultural centers.",
 	"synonym": "43542",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"ENTS2SCP",
+		"ENTSLPSCP",
+		"SPECINTSUSTAIN",
+		"CCSTBINARY"
 	],
 	"title": "Studio Art Seminar in the South Pacific: The Physical and Cultural Environment"
 }

@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "In the German literary sphere around 1800 female authorship was viewed as a transgression. At a time when Goethe and Schiller created texts that would soon dominate the German canon, women were routinely warned of the dangerous side effects of reading, and declared unfit to produce any work of literary merit. This course is structured around a diverse group of women writers who, while remaining under the radar of readers and critics, devised successful strategies for writing. We will analyze their poetic production, with particular attention to biography, gender, and society. Taught in German.",
 	"synonym": "43403",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
 	"title": "In the Shadow of Goethe and Schiller: German Women Writers around 1800"
 }

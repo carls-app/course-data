@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": null,
 	"synonym": "45479",
 	"tags": [
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		},
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"PPOLCORE",
+		"PHILCORE"
 	],
 	"title": "Ethics"
 }

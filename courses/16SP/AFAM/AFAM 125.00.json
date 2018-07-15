@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,22 +40,10 @@
 	"summary": "African societies have long been shaped by migration--including quests for new knowledge, land, and livelihoods as well as the coercive migrations of slavery and refugee flight. Recent transformations in global political-economies and local conditions have made migration a central feature of contemporary African life. This course introduces students to African and African diaspora studies through an examination of new African migrations. Starting with the formation of \"domestic diasporas\" through rural-urban migration within African countries, we will explore connections and ruptures created by south-south international migrations within the African continent, and transnational migrations to the United States and Europe.",
 	"synonym": "43474",
 	"tags": [
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMINTERDISC",
-			"name": "AFAM Interdisciplinary Course"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AFAMDISTROSS",
+		"AFAMINTERDISC",
+		"SOANPERT",
+		"EUSTTRANNATL"
 	],
 	"title": "New African Migrations"
 }

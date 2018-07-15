@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 215 (or equivalent) or 275",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "A second course in statistics covering simple linear regression, multiple regression and ANOVA, and logistic regression. Exploratory graphical methods, model building and model checking techniques will be emphasized with extensive use of statistical software to analyze real-life data.",
 	"synonym": "41502",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		},
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ELECSTAT",
+		"ENTSQUANTV"
 	],
 	"title": "Applied Regression Analysis"
 }

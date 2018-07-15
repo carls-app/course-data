@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,42 +44,15 @@
 	"summary": "In an era of rapid globalization and increasing dominion of humans over the natural world, we are all (often unwittingly) party to practices that seemingly exact grave harm on billions of nonhuman animals. This raises a pressing ethical question: what are our moral obligations (if any) to nonhuman animals, and how might we practically fulfill such moral obligations (if they exist)? Also, what bearing does the latest scientific research on animal behavior have on these questions? In this course we will explore these and related questions, through a study of various philosophers and ethologists. The course will culminate in a class project that addresses animal ethics related issues in the community.",
 	"synonym": "38540",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"ENTS2SCP",
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"PHILPRACVAL",
+		"ENTSCDSCP",
+		"ENTSFASCP",
+		"PHILTHEORY",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Animal Ethics: The Moral Status of Animals"
 }

@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126, and Biology 240 or 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "An analysis of animal development from fertilization to the establishment of the adult body form. Lectures and discussions will examine the key processes of animal embryogenesis, as well as the molecular and cellular mechanisms that control these developmental processes.",
 	"synonym": "45022",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"NEURELEC",
+		"BIOLELECTIVE"
 	],
 	"title": "Animal Developmental Biology"
 }

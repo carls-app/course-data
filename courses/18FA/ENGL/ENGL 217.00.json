@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "Samuel Johnson declared novels to be \"written chiefly to the young, the ignorant, and the idle, to whom they serve as lectures of conduct, and introductions into life.\" This course will explore what kinds of education the novel offered its readers during a time when fiction was considered a source of valuable lessons and a vehicle for corruption. We will read a selection of eighteenth- and nineteenth-century novels, considering how they engage with contemporary educational theories, notions of male and female conduct, and concerns about the didactic and imaginative possibilities of fiction. Authors include Richardson, Lennox, Austen, Edgeworth, and Dickens.",
 	"synonym": "52145",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLT1",
+		"ENGLHE2",
+		"WGSTADDL"
 	],
 	"title": "A Novel Education"
 }

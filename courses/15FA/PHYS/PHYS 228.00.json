@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151; Concurrent registration in Physics 228L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

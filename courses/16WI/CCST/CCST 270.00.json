@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Students must have participated in an off-campus study program (Carleton or non-Carleton)",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "Travelers write. Whether it be in the form of postcards, text messages, blogs, or articles, writing serves to anchor memory and process difference, making foreign experience understandable to us and accessible to others. While examining key examples of the genre, you will draw on your experiences off-campus for your own work. Student essays will be critiqued in a workshop setting, and all work will be revised before final submission. Some use of blended media is also possible.",
 	"synonym": "41034",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
 	"title": "Creative Travel Writing Workshop"
 }

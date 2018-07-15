@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,18 +40,9 @@
 	"summary": "Beyond the mystic ideal of approaching the divine without intermediary, all believers have encountered religious truth only by the use of certain material objects, certain media that act as tools to help the believer develop piety or communicate theological truth. This course is interested in these \"in-betweens,\" these media, objects and material that religious people use to approach the divine, as well as the impact of new medias (electronic or otherwise) on the development of modern religiosity. Students will be asked to roll-up their sleeves and delve into primary source material gathered from internet, television, popular literature and material culture.",
 	"synonym": "39346",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"CAMSXDEPT",
+		"RELGTHLVDRELCLT",
+		"SPECINTSOCTHGHT"
 	],
 	"title": "Televangelists and Cyber-Shaykhs: Explorations in Religion and Media"
 }

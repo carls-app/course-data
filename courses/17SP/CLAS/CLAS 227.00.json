@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": null,
 	"synonym": "45707",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"HISTANCNT/MDVL",
+		"HISTPERT"
 	],
 	"title": "Greek History: The Greek Polis"
 }

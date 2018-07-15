@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111, Mathematics 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

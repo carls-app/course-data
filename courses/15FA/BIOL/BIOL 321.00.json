@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 126 and one 200 level course in Biology; Geology 230, 232, 258, 285 or Environmental Studies 244, 247, 254, 260, 264, 265, 272, 275, 287, 288",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -47,30 +41,12 @@
 	"summary": "Ecosystem ecology involves the study of energy and material flow through systems, including both the biotic (animals, plants, microbes) and abiotic (soil, water, atmosphere) components. Topics include the major elemental cycles (carbon, nitrogen, phosphorous), patterns of energy flow, and the controls of these fluxes for different ecosystems. Current environmental issues are emphasized as case studies, including climate change, land use change, human alterations of nutrient cycles, and biodiversity effects on ecosystems. Not open to students who have taken Biology 221. Concurrent registration in Biology 322 required.",
 	"synonym": "40963",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"SPECINTSUSTAIN",
+		"ENTSCDES",
+		"ENTSTOPICAL",
+		"CCSTGLOBAL",
+		"ENTSLPES"
 	],
 	"title": "Ecosystem Ecology"
 }

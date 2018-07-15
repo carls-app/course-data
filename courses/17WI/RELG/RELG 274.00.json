@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "In this course we will examine some of the cultural, intellectual, and religious transformations occurring in the nineteenth century that have given the turn of the twentieth century the reputation of being \"the age of anxiety.\" We will engage Arthur Schopenhauer's philosophical pessimism, and wrestle with Friedrich Nietzsche's \"affirmation of existence.\" Grappling with questions such as \"Is life worth living?\" and \"If there is no God, is existence meaningless?\" we will also turn to the U.S. context, looking at the ways some of the classical pragmatists contend with the specter of pessimism.",
 	"synonym": "45439",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL"
 	],
 	"title": "Pessimism and the Affirmation of Existence"
 }

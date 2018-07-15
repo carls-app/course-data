@@ -39,22 +39,10 @@
 	"summary": null,
 	"synonym": "49473",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "BIOLDATAINTERP",
-			"name": "Biol Data Interpretation"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"ENTSTOPSEM",
+		"ENTS2ENVSCI",
+		"BIOLDATAINTERP",
+		"BIOLELECTIVE"
 	],
 	"title": "Seminar: Conservation Biology"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 233L; CHEM 233L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Theoretical aspects of carbon chemistry are examined with reference to structure-reactivity relationships, functional groups, stereochemistry, reaction mechanisms and spectroscopy. Laboratory work concentrates on modern techniques of organic chemistry, inquiry-based projects, and spectroscopic analysis. One laboratory per week.",
 	"synonym": "38395",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
 	"title": "Organic Chemistry I"
 }

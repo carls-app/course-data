@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -43,26 +40,11 @@
 	"summary": "Madness, murder, conspiracy, poison, incest, rape, ghosts, and lots of blood: the fashion for revenge tragedy in Elizabethan and Jacobean England led to the creation of some of the most brilliant, violent, funny, and deeply strange plays in the history of the language. Authors may include Cary, Chapman, Ford, Marston, Middleton, Kyd, Tourneur, and Webster.",
 	"synonym": "41229",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTCNTRY",
+		"ENGLT1",
+		"ENGLHE1",
+		"THEAPERT",
+		"MARSSUPP"
 	],
 	"title": "Revenge Tragedy"
 }

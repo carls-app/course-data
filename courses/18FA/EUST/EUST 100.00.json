@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,22 +47,10 @@
 	"summary": null,
 	"synonym": "51520",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"EUSTTRANNATL",
+		"POSI-AREAS2",
+		"HISTERLYMODEUR",
+		"HISTPERT"
 	],
 	"title": "Allies or Enemies? America through European Eyes"
 }

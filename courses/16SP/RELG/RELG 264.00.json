@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,54 +45,18 @@
 	"summary": null,
 	"synonym": "41937",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "PPOLFP",
-			"name": "Pub Pol Forgn Pol & Security"
-		}
+		"POSI-DSS2",
+		"POSI-AREAS2",
+		"POSI-DSS",
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"RELGISLAMICTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR",
+		"ASSTHU",
+		"POSI-AREAS",
+		"MESTGRP1",
+		"PPOLFP"
 	],
 	"title": "Islamic Politics"
 }

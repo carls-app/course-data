@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent enrollment in Archaeology 246L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -43,18 +40,9 @@
 	"summary": "As a field that is truly interdisciplinary, archaeology uses a wide range of methods to study the past. This course provides a hands-on introduction to the entire archaeological process through classroom, field, and laboratory components. Students will participate in background research concerning local places of historical or archaeological interest; landscape surveying and mapping in GIS; excavation; the recording, analysis, and interpretation of artifacts; and the publication of results. This course involves real archaeological fieldwork, and students will have an opportunity to contribute to the history of the local community while learning archaeological methods applicable all over the world.",
 	"synonym": "44729",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"SOANPERT",
+		"MARSSUPP"
 	],
 	"title": "Archaeological Methods"
 }

@@ -13,14 +13,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Enrollment in OCS program",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -32,26 +26,11 @@
 	"summary": "This course will explore the lived experience of the city of Rome in the twelfth-sixteenth centuries. We will study buildings, urban forms, surviving artifacts, and textual and other visual evidence to understand how politics, power, and religion (both Christianity and Judaism) mapped onto city spaces. How did urban challenges and opportunities shape daily life? How did the memory of the past influence the present? How did the rural world affect the city and vice versa? Students will work on projects closely tied to the urban fabric.",
 	"synonym": "38767",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"HISTANCNT/MDVL",
+		"MARSCORE",
+		"EUSTCNTRY",
+		"MARSSUPP",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Eternal City in Time: Structure, Change, and Identity"
 }

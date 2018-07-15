@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: Music 110 or 200 or by placement examination",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LA",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

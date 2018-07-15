@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,30 +40,12 @@
 	"summary": null,
 	"synonym": "49324",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSIELECTIVE",
+		"POSI-LPS2",
+		"POSCADVSEM",
+		"POSIADVSEM",
+		"POSI-GDS",
+		"POSI-LPS"
 	],
 	"title": "Cooperation and Conflict*"
 }

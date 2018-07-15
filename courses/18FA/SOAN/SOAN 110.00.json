@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": "An introduction to cultural and social anthropology which develops the theoretical rationale of the discipline through the integration of ethnographic accounts with an analysis of major trends in historical and contemporary thought. Examples of analytical problems selected for discussion include the concepts of society and culture, value systems, linguistics, economic, social, political and religious institutions, as well as ethnographic method and the ethical position of anthropology.",
 	"synonym": "52203",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		},
-		{
-			"code": "CCSTSEEING",
-			"name": "Ccst Seeing & Being Cross Cult"
-		}
+		"AMMUGROUP1",
+		"ARCNPERT",
+		"CCSTSEEING"
 	],
 	"title": "Introduction to Anthropology"
 }

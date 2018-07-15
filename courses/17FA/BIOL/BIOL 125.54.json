@@ -42,14 +42,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -61,14 +55,8 @@
 	"summary": null,
 	"synonym": "47674",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"BIOCCORE",
+		"NEURCORE"
 	],
 	"title": "Genes, Evolution, and Development: A Problem Solving Approach and Lab"
 }

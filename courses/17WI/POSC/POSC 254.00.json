@@ -29,10 +29,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -44,22 +41,10 @@
 	"summary": null,
 	"synonym": "45366",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"POSCELECTIVE",
+		"MARSSUPP",
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
 	"title": "Freedom, Excellence, Happiness: Aristotle's"
 }

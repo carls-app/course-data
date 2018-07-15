@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": null,
 	"synonym": "51221",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		}
+		"CGSCCORE",
+		"EDUCCLUSTER1"
 	],
 	"title": "What Minds Are What They Do: An Introduction to Cognitive Science"
 }

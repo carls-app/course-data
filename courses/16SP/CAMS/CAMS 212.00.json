@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,14 +46,8 @@
 	"summary": "This course serves as a historical and critical survey of Spanish cinema from the early 1970s to the present. Topics of study will include the redefinition of Spanish identity in the post-Franco era, the rewriting of national history through cinema, cinematic representations of gender and sexuality, emergent genres, regional cinemas and identities, stars and transnational film projects, and the emergence of new Spanish auteurs from the 1980s to the present.",
 	"synonym": "42141",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"CAMSELECTIVE",
+		"EUSTCNTRY"
 	],
 	"title": "Contemporary Spanish Cinema"
 }

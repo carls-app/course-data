@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one other 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "\"It is impossible to read the compositions of the most celebrated writers of the present day without being startled with the electric life which burns within their words\"--P. B. Shelley. Readings in Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and their contemporaries.",
 	"synonym": "45600",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLHE2",
+		"ENGLT1"
 	],
 	"title": "English Romantic Poetry"
 }

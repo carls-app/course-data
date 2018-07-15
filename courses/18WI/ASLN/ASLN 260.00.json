@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Previous experience in linguistics or instructor's permission.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,26 +43,11 @@
 	"summary": null,
 	"synonym": "47961",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGELEC",
-			"name": "Linguistics Elective"
-		}
+		"EASTSUPP",
+		"LINGPERT",
+		"ASSTSS",
+		"ASSTEAST",
+		"LINGELEC"
 	],
 	"title": "Historical Linguistics"
 }

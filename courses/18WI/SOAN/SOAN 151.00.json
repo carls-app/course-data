@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,22 +45,10 @@
 	"summary": null,
 	"synonym": "49601",
 	"tags": [
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		}
+		"MESTGRP1",
+		"AMSTTOPICAL3",
+		"AFSTSI",
+		"AMSTAMERWRLD"
 	],
 	"title": "Global Minnesota: An Anthropology of Our State"
 }

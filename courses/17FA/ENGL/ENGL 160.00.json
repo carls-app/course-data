@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": "This course offers training in the writing and revision of poetry and prose fiction, supplemented by examples from published writers and some essays on the creative process. Discussion of each participant's writing is the central mode of instruction.",
 	"synonym": "48507",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Introduction to Creative Writing"
 }

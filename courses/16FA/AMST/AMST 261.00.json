@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "44798",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMMUGROUP3",
+		"AMSTTOPICAL1"
 	],
 	"title": "Unwritten America"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "This course examines European artistic production in Italy, Spain, France, Germany, and the Netherlands from the fourteenth to the sixteenth century. The aim of the course is to introduce diverse forms of artistic production, as well as to analyze the religious, social, and political role of art in the period. While attending to the specificities of workshop practices, production techniques, materials, content, and form of the objects under discussion, the course also interrogates the ways in which these objects are and, at times, are not representative of the \"Renaissance.\"",
 	"synonym": "40000",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"MARSCORE",
+		"EUSTTRANNATL"
 	],
 	"title": "Revival, Revelation, and Re-animation: The Art of Europe's \"Renaissance\""
 }

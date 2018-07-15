@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 131, 132, 141 or 142, and Mathematics 121 ; Concurrent registration in Physics 165L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

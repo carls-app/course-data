@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Music 126",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": null,
 	"synonym": "44675",
 	"tags": [
-		{
-			"code": "AMMUCAPSTONE",
-			"name": "American Music Research Seminr"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"AMMUCAPSTONE",
+		"AMMUGROUP2",
+		"AFAMDISTROAL",
+		"AFSTLA"
 	],
 	"title": "Moldy Figs and the Birth of Jazz Criticism"
 }

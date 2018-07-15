@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": null,
 	"synonym": "47845",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"AMSTTOPICAL3",
+		"AMSTDAC"
 	],
 	"title": "Presidential Elections, Gridlock and Policy Strategy"
 }

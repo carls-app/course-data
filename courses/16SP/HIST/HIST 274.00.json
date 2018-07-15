@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,34 +45,13 @@
 	"summary": "Since 2006, some 100,000 lives have been lost as a result of the Mexican government's decision to unleash its army against the powerful cartels supplying the United States with marijuana, cocaine, heroin, and crystal methamphetamine. This course situates the bloodshed within a broader historical and transnational context. It traces the conflict's roots to a longer struggle against Mexico's authoritarian political culture and the state's repression of dissent, including a little known \"dirty war\" that raged during the 1960s-1970s. It also examines evolving attitudes toward drugs, the emergence of a",
 	"synonym": "41392",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"POSI-DSS2",
+		"POSIELECTIVE",
+		"AMMUGROUP3",
+		"LTAMSOCSCI",
+		"LTAMPERT"
 	],
 	"title": "Drugs, Violence & Rebellion in Mexico: From the Dirty War to the Drug War"
 }

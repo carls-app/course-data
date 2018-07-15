@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "An introduction to the major religious traditions of Japan, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining characteristics of, and interactions among, various religious traditions, including worship of the kami (local deities), Buddhism, shamanistic practices, Christianity, and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
 	"synonym": "48950",
 	"tags": [
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		}
+		"EASTCORE",
+		"POSI-AREAS2",
+		"ASSTHU",
+		"ASSTEAST",
+		"RELGBUDDHSTTRAD"
 	],
 	"title": "Religions in Japanese Culture"
 }

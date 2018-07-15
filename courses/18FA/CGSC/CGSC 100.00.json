@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -52,14 +46,8 @@
 	"summary": null,
 	"synonym": "51222",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCCORE",
+		"CGSCELECTIVE"
 	],
 	"title": "How We Make Important Decision"
 }

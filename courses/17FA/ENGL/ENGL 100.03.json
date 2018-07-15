@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "The poet Adrienne Rich describes revision as \"the act of looking back, of seeing with fresh eyes, of entering an old text from a new critical direction.\" This course examines how literature confronts and reinvents the traditions it inherits. Through a diverse selection of fiction, poetry, and drama, we will examine how writers rework literary conventions, \"rewrite\" previous literary works, and critique societal myths. From Charles Chesnutt to Charles Johnson, from Henrik Ibsen to Rebecca Gilman, from Charlotte Bronte to Jean Rhys, from Maupassant and Chekhov to contemporary reinventions, we will explore literary revision from different perspectives and periods.",
 	"synonym": "48513",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
 	"title": "Literary Revision: Authority, Art, and Rebellion"
 }

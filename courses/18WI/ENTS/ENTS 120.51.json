@@ -43,14 +43,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"QRE",
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -62,10 +56,7 @@
 	"summary": null,
 	"synonym": "49024",
 	"tags": [
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ENTSQUANTV"
 	],
 	"title": "Introduction to Geospatial Analysis & Lab"
 }

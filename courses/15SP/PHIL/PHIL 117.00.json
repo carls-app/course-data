@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": "What is knowledge, and can we know anything at all? What is the mind, and how is it related to the body? What is consciousness? Is there free will? Are there universal moral truths, or is morality subjective? In this introduction to perennial philosophical questions (as well as the goals and methods of philosophy) we will read contemporary and historical philosophical texts.",
 	"synonym": "38532",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS"
 	],
 	"title": "Philosophical Problems: Mind, Free Will and Morality"
 }

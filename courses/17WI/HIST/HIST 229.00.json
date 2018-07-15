@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,30 +39,12 @@
 	"summary": "Historically work has been a central location for the constitution of gender identities for both men and women; at the same time, cultural notions of gender have shaped the labor market. We will investigate the roles of race, class, and ethnicity in shaping multiple sexual divisions of labor and the ways in which terms such as skill, bread-winning and work itself were gendered. Topics will include domestic labor, slavery, industrialization, labor market segmentation, protective legislation, and the labor movement.",
 	"synonym": "45287",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"AMMUGROUP3",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"WGSTADDL",
+		"AFAMPERT",
+		"EDUCCLUSTER2"
 	],
 	"title": "Working with Gender in U.S. History"
 }

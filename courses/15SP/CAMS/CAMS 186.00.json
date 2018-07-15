@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -47,14 +41,8 @@
 	"summary": "In this course we survey four or more genres, including but not limited to the Western, the musical, the horror film, the comedy, and the science-fiction film. What criteria are used to place a film in a particular genre? What role do audiences and studios play in the creation and definition of film genres? Where do genres come from? How do genres change over time? What roles do genres play in the viewing experience? What are hybrid genres and subgenres? What can genres teach us about society? Assignments aim to develop skills in critical analysis, research and writing.",
 	"synonym": "38162",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"AMSTTOPICAL1",
+		"CAMSELECTIVE"
 	],
 	"title": "Film Genres"
 }

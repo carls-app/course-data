@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,50 +46,17 @@
 	"summary": null,
 	"synonym": "45436",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POECMIDWTD",
-			"name": "POEC Wrld Trade&Dev Mid Div"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"POECUPAPP",
+		"POECAPP",
+		"POSI-GDS2",
+		"AFAMDISTROSS",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"AFAMSOCINQ",
+		"POSIELECTIVE",
+		"POECSEMINAR",
+		"POECMIDWTD",
+		"PPOLECON"
 	],
 	"title": "Urban Political Economy*"
 }

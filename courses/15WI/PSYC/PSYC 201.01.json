@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 200; Psychology 110",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

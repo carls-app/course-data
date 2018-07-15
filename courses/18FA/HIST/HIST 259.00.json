@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,42 +45,15 @@
 	"summary": null,
 	"synonym": "51949",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SASTCAP",
-			"name": "SAST Capstone"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTMODERN",
-			"name": "History Modern"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"CCSTREGIONAL",
+		"WGSTADDL",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"HISTASIA",
+		"SASTCAP",
+		"POSI-AREAS2",
+		"HISTMODERN",
+		"SASTSUPPHI"
 	],
 	"title": "Women in South Asia: Histories, Narratives, and Representations"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": "This course explores the role of the nation and nationalism within modern Europe and the ways in which ideas and myths about the nation have complemented and competed with conceptions of Europe as a geographic, cultural and political unity. We will explore the intellectual roots of nationalism in different countries as well as their artistic, literary and musical expressions. In addition to examining nationalism from a variety of disciplinary perspectives--sociology, anthropology, history, political science--we will explore some of the watershed, moments of European nationalism such as the French Revolution, the two world wars, and the Maastricht treaty.",
 	"synonym": "41287",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		}
+		"POSI-AREAS2",
+		"EUSTCORE",
+		"POSI-AREAS",
+		"SPECINTSOCTHGHT",
+		"FRSTELEC",
+		"FRENPERT",
+		"FFSTSOCSCI"
 	],
 	"title": "The Nation State in Europe"
 }

@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Mathematics 215 or equivalent exposure to statistical analysis.; Concurrent registration in Biology 353",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -48,22 +45,10 @@
 	"summary": "An investigation of the properties of populations and communities. Topics include population growth and regulation, life tables, interspecific and intraspecific competition, predation, parasitism, mutualism, the nature of communities, and biogeography.",
 	"synonym": "38538",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"ENTS2ENVSCI",
+		"CCSTGLOBAL",
+		"ENTSCDES",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Population Ecology"
 }

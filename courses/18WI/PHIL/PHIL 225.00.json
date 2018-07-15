@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "What is the relationship between the mind and the brain? Are they identical? Or is there mental \"stuff\" in addition to physical stuff? Or perhaps some physical stuff has irreducibly mental properties? These, and related questions, are explored by philosophers under the heading of \"the mind-body problem.\" In this course, we will start with these questions, looking at classical and contemporary defenses of both materialism and dualism. This investigation will lead us to other important questions such as: What is the nature of mental representation, what is consciousness, and could a robot have conscious states and mental representations?",
 	"synonym": "49196",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGREL",
-			"name": "Linguistics Related Field"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE",
+		"LINGREL"
 	],
 	"title": "Philosophy of Mind"
 }

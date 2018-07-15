@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or higher",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": true,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": null,
 	"synonym": "49586",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		}
+		"CAMSXDEPT",
+		"ENTS2SCP",
+		"SPAN204-219"
 	],
 	"title": "Envisioning a Sustainable Future and an Equitable and Fair World"
 }

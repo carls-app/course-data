@@ -41,22 +41,10 @@
 	"summary": null,
 	"synonym": "3544",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"HISTEUR1451",
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"FRSTHIST"
 	],
 	"title": "Europe in the 20th Century"
 }

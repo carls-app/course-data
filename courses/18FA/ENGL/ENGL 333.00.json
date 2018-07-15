@@ -33,18 +33,9 @@
 	},
 	"prerequisites": "Prerequisite: One Foundations course in ENGL and one addutional 6 credit course in Engilsh courses",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": null,
 	"synonym": "50871",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		}
+		"ENGLHE3",
+		"ENGLT2"
 	],
 	"title": "Margaret Atwood"
 }

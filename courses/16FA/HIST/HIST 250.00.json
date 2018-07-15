@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "This course offers a comprehensive examination of German history in the nineteenth and twentieth centuries. We will look at the German-speaking peoples of Central Europe through the prism of politics, society, culture, and the economy. Through a range of readings, we will grapple with the many complex and contentious issues that have made German history such an interesting area of intellectual inquiry.",
 	"synonym": "45277",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"POSI-AREAS2",
+		"HISTERLYMODEUR",
+		"EUSTCNTRY"
 	],
 	"title": "Modern Germany"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": null,
 	"synonym": "48295",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"EUSTCORE",
+		"MARSSUPP",
+		"FRENPERT",
+		"HISTANCNT/MDVL"
 	],
 	"title": "The Age of Cathedrals"
 }

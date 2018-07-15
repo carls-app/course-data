@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -41,26 +38,11 @@
 	"summary": "Introduction to traditional and modern Chinese poems and short stories. The most beautiful poems ever written by the Chinese language help students to experience beauty, inspiration, and emotional purification. Selected stories read and discussed in detail will advance students' proficiency in oral and written Chinese.",
 	"synonym": "39525",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EASTSUPP",
+		"LITFORLANG",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
 	"title": "Advanced Chinese: Poems and Stories"
 }

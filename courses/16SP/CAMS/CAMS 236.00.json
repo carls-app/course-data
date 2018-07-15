@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": "This course will introduce students to the global kaleidoscope that is Israeli society today. Since the 1980s the Israeli public has increasingly engaged with its multicultural character, particularly through films and documentaries that broaden national conversation. Our approach to exploring the emerging reflection of Israel’s diversity in its cinema will be thematic. We will study films that foreground religious-secular, Israeli-Palestinian, gender, sexual orientation, and family dynamics, as well as Western-Middle Eastern Jewish relations, foreign workers or refugees in Israel, army and society, and Holocaust memory. With critical insights from the professor’s interviews with several directors and Israeli film scholars. Conducted in English, all films subtitled. Evening film screenings.",
 	"synonym": "42143",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "MELAPERT",
-			"name": "Middle Eastern Lang Pertinent"
-		},
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"JDSTPERT",
+		"CAMSELECTIVE",
+		"MELAPERT",
+		"MESTGRP2"
 	],
 	"title": "Israeli Society in Israeli Cinema"
 }

@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "52101",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"PHILCORE",
+		"MARSSUPP"
 	],
 	"title": "Ancient Philosophy: The Good Life"
 }

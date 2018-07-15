@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": "From colonial times on, the use and abuse of alcohol in the United States has been hotly debated. This course examines historians' attempts to understand alcohol's powerful impact on American politics, society, social reform, and the history of medicine. Using original source materials, this course will focus on the temperance movement, the rise of saloons and saloon politics, the debate over prohibition, and the contemporary debates about substance abuse, Alcoholics Anonymous, and MADD (Mothers Against Drunk Drivers).",
 	"synonym": "41340",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTENVIRHEALTH",
+		"HISTUS"
 	],
 	"title": "Drunks and Teetotalers: Alcohol and American Society"
 }

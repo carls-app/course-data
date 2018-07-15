@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "Behavioral ecologists strive to understand the complex ways that ecological pressures influence the evolution of behavioral strategies. It can be argued that animals face a relatively small set of basic challenges: they must acquire food, water, and mates, and they must avoid danger. Yet we see a rich diversity of solutions to these problems. Consider foraging behavior, for example. All animals must acquire energy, but some filter particles out of sea water, others graze on nearly inedible grasses, while still others hunt in cooperative packs. In this course we will consider such topics as foraging, communication, sociality, and conflict. By focusing on the functions and evolutionary histories of behaviors, we strive to better understand the puzzle of behavioral diversity.",
 	"synonym": "47728",
 	"tags": [
-		{
-			"code": "BIOLECOLEVOL",
-			"name": "Biol Ecology and Evolutionary"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLECOLEVOL",
+		"BIOLELECTIVE"
 	],
 	"title": "Behavioral Ecology"
 }

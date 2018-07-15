@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "The contemporary period in the philosophy of science begins with reflections on the stunning achievements in physics in the early twentieth century. In this course, we aim to cover the major developments in the philosophy of science since that time, including: the rise of logical empiricism; Karl Popper's famous insistence that scientific claims must be subjected to possible falsification; Thomas Kuhn's concept of scientific revolutions as paradigm shifts; recent attempts to understand scientific activities, including knowledge acquisition, as distinctively social processes. Some of the main questions we will consider are: How do evidence and confirmation operate in the empirical sciences? Should we believe in the existence of theoretical entities such as quarks and genes? What is it to provide an explanation of some phenomenon, as opposed to merely predicting or describing it?",
 	"synonym": "41566",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"SPECINTPHILSCI",
+		"PHILTHEORY"
 	],
 	"title": "Philosophy of Science"
 }

@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,58 +45,19 @@
 	"summary": "The human body has been a focus of reflection throughout history and across traditions. This course will draw particularly on Hawaiian, South Indian, Native American, Euro-American-Christian, and ecological approaches to \"the sacred body,\" from ancient to contemporary times. We will explore numerous ways of cultivating, imagining, representing, disciplining, inhabiting, and adorning the body--in daily life and in religious fields. Theoretically, we will consider the body in relation to gender, subjectivity, personhood, and performativity. We will also enjoy \"live\" visits ranging from a male Hawaiian hula halau (hula school), to a yoga teacher, and educational excursions in the Arb.",
 	"synonym": "48947",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"AMSTTOPICAL2",
+		"RELGCHRISTNTRAD",
+		"RELGHINDUTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"RELGAMERTRAD",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"ASSTPERT",
+		"WGSTADDL",
+		"PPOLPH",
+		"CCSTENCTR",
+		"SASTSUPPHI"
 	],
 	"title": "The Sacred Body"
 }

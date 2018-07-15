@@ -31,22 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -58,30 +46,12 @@
 	"summary": "Historians disagree about the timing, causes and effects of the Industrial Revolution, but no one disputes that there were massive changes in England's population, economy and society from the seventeenth to the nineteenth century. In this course, we examine those transformations with a focus on the ways that social and economic changes related to social welfare policies, the health of the people, and the environment.",
 	"synonym": "38773",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"HISTENVIRHEALTH",
+		"HISTATLANTWRLD",
+		"EUSTCNTRY",
+		"SPECINTSOCTHGHT",
+		"HISTERLYMODEUR",
+		"SPECINTHEALTH"
 	],
 	"title": "Health and Welfare in Industrializing Britain"
 }

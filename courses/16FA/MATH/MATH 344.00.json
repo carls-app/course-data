@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "Local and global theory of curves, Frenet formulas. Local theory of surfaces, normal curvature, geodesics, Gaussian and mean curvatures, Theorema Egregium.",
 	"synonym": "45753",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
 	"title": "Differential Geometry"
 }

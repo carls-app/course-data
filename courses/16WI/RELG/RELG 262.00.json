@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,34 +45,13 @@
 	"summary": "This course rethinks how we understand Africa through attention to the role of Islam and Arabic culture in its past and present. In introducing these often-marginalized variables, this course will seek to unbind Africa from the restricted domains in which it is often studied and to address its important place as an agent within global history. Through a study of several distinct Muslim cultures, we will examine the Sahara, the Red Sea and the Indian Ocean, not as barriers, but as sites of creative, complex and often fraught exchange.",
 	"synonym": "41928",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"AFAMDISTROHU",
+		"POSI-AREAS2",
+		"RELGISLAMICTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"AFAMHUMANINQ",
+		"POSI-AREAS"
 	],
 	"title": "Islamic Africa"
 }

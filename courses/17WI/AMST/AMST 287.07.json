@@ -13,10 +13,7 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -28,18 +25,9 @@
 	"summary": null,
 	"synonym": "43511",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"AMSTTOPICAL1",
+		"ENTSLPES",
+		"ENTSLPSCP"
 	],
 	"title": "California Program: California Art & Visual Culture"
 }

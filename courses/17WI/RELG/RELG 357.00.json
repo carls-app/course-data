@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,10 +45,7 @@
 	"summary": null,
 	"synonym": "44885",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
 	"title": "Televangelists and Cyber-Shaykhs: Explorations in Religion and Media"
 }

@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 232",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +45,7 @@
 	"summary": null,
 	"synonym": "45874",
 	"tags": [
-		{
-			"code": "CSELECT",
-			"name": "CS Elective"
-		}
+		"CSELECT"
 	],
 	"title": "Coding Theory"
 }

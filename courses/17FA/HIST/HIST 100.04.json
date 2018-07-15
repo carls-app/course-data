@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": null,
 	"synonym": "49279",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCNTRY",
+		"HISTERLYMODEUR"
 	],
 	"title": "Soot, Smog and Satanic Mills: Environment & Industrialization"
 }

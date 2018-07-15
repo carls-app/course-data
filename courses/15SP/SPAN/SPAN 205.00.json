@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "A course designed to develop the student's oral and written mastery of Spanish. Advanced study of grammar. Compositions and conversations based on cultural and literary topics. There is also an audio-video component focused on current affairs.",
 	"synonym": "39403",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN204-219",
+		"SPAN205-209"
 	],
 	"title": "Conversation and Composition"
 }

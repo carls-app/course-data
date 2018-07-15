@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: FREN 230-level or above, or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "Over fifty years after Algeria's independence from France, discourses and representations about the cause, the violence, and the political and social consequences of that conflict still animate public life in both France and Algeria. This class aims at presenting the Algerian war through its various representations. Starting with discussions about the origins of French colonialism in North Africa, it will develop into an analysis of the war of liberation and the ways it has been recorded in history books, pop culture, and canonical texts. We will reflect on the conflict and on its meanings in the twenty-first century, and analyze how different media become memorial artifacts.",
 	"synonym": "42971",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"EUSTTRANNATL",
+		"CCSTENCTR",
+		"FFSTLIT",
+		"FRSTELEC",
+		"FRSTELECAL",
+		"MESTGRP2"
 	],
 	"title": "The Algerian War of Liberation and Its Representations"
 }

@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 344 or permission of the instructor",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
 	"size": {

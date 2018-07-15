@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 131, 132, 141, or 142, or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

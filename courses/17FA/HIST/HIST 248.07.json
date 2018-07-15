@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Enrollment in OCS program",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,14 +25,8 @@
 	"summary": null,
 	"synonym": "46832",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTERLYMODEUR",
+		"EUSTCNTRY"
 	],
 	"title": "Berlin Program: A German Crucible of European and Global Culture"
 }

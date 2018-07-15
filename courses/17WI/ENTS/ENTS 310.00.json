@@ -31,10 +31,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,42 +43,15 @@
 	"summary": "This seminar will examine topical issues in domestic and international environmental law and policy. We will aim to understand how environmental laws work to achieve policy objectives, with attention also to debates about the role of markets and community-based environmental management. The specific topics may change from year to year, but may include approaches to sustainable development, sustainable agriculture, protection of endangered species, and conservation and management of water resources. This course has no prerequisites and is suitable for students of environmental studies, political science, international relations and political economy.",
 	"synonym": "45418",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"ENTSTOPSEM",
+		"ENTS2SCP",
+		"POSI-GDS2",
+		"ENTSCDSCP",
+		"ENTSFASCP",
+		"SPECINTSUSTAIN",
+		"ENTSTOPICAL",
+		"ENTSWRSCP",
+		"PPOLEP"
 	],
 	"title": "Topics in Environmental Law and Policy"
 }

@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: One previous English course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": null,
 	"synonym": "46420",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Crafts of Writing: Creative Non-Fiction"
 }

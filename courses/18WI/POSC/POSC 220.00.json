@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,38 +39,14 @@
 	"summary": "How do representations of politics in film influence our ideas about governance, citizenship, power, and authority? How do film and TV reflect values and beliefs of democratic society, particularly in the United States? These are two questions that we will consider in the course as we study films representing politics and historical events in fiction and non-fiction genres for entertainment and education. Films to be analyzed include:",
 	"synonym": "48604",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"POSI-DSS2",
+		"AMSTTOPICAL3",
+		"CAMSXDEPT",
+		"CAMSELECTIVE",
+		"POSIELECTIVE",
+		"AMSTAMERWRLD",
+		"AMSTPCC",
+		"AMSTDAC"
 	],
 	"title": "Politics and Political History in Film"
 }

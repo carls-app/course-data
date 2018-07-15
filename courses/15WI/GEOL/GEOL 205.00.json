@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: One lab science course or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": "This course provides a broad overview of the geology of Earth’s finite, non-renewable energy and mineral resources. The main focus of the course will be on the processes of formation, concentration, and geologic and geographic distribution of these resources. In addition we will examine how resource and reserve estimates are made, model future trends in resource production and consumption, and study the environmental impacts of resource exploitation and use. Field trips and laboratories included.",
 	"synonym": "39951",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"SPECINTSUSTAIN",
+		"ENTSCDES"
 	],
 	"title": "Geology of Energy and Mineral Resources"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "All of Jane Austen's fiction will be read; the works she did not complete or choose to publish during her lifetime will be studied in an attempt to understand the art of her mature comic masterpieces,",
 	"synonym": "45534",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLHE2",
+		"ENGLT1",
+		"EUSTCNTRY"
 	],
 	"title": "The Art of Jane Austen"
 }

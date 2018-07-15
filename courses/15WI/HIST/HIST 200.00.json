@@ -28,18 +28,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,18 +42,9 @@
 	"summary": "In the recent past the youthful radical movement in Communist China has made an indelible mark on the society comprising a quarter of the world's population. In 1966 the student radicals known as Red Guards launched a series of destructive campaigns against the Communist Party with the Maoist cue to \"Bombard the Headquarters!\" How could a Leninist party find itself the victim of its own supreme leader? Students will examine tabloids, wall posters, pamphlets, cartoons, memoirs, reportage literature, play scripts, films, as well as party documents to explore theories on personality formation, class consciousness, legitimation of violence, and operations of memory.",
 	"synonym": "40103",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTEAST",
+		"HISTASIA",
+		"SPECINTSOCTHGHT"
 	],
 	"title": "History Workshop: The Chinese Cultural Revolution, 1966-76"
 }

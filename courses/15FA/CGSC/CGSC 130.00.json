@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "An interdisciplinary examination of issues concerning the mind and mental phenomena involved in the uniquely human activity of making and understanding music. The course will draw on psychology, neuroscience, linguistics, computer science, biology, and philosophy. Topics to be discussed include: the embodied cognition of rhythm; linguistic syntax and musical structure; mental representations of musical sound and action; musical learning and development; tone and beat deafness; and perfect pitch and neural plasticity.",
 	"synonym": "41943",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
 	"title": "The Musical Mind: An Introduction to Cognitive Science"
 }

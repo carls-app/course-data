@@ -37,18 +37,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -60,46 +51,16 @@
 	"summary": null,
 	"synonym": "45285",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "CLASPERT",
-			"name": "Classics Pertinent"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"HISTANCNT/MDVL",
+		"SPECINTSOCTHGHT",
+		"MARSCORE",
+		"CLASPERT",
+		"RELGPERT",
+		"MARSSUPP",
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT",
+		"HISTENVIRHEALTH",
+		"MESTGRP1"
 	],
 	"title": "Saints, Sinners, and Philosophers in Late Antiquity"
 }

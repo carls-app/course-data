@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +45,11 @@
 	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
 	"synonym": "45451",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"ASSTPERT",
+		"POECLOWER"
 	],
 	"title": "International Relations and World Politics"
 }

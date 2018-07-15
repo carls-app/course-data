@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"WR2",
+		"LA"
 	],
 	"scnc": null,
 	"size": {

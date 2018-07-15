@@ -28,18 +28,9 @@
 	},
 	"prerequisites": "Prerequisite: History 205 or instructor permission",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,62 +42,20 @@
 	"summary": "This course is part of the off-campus spring break program, involving two-linked courses in winter and spring. To many Americans, wild lands are among the nation's most treasured places. Yosemite, Yellowstone, the Grand Canyon, Joshua Tree--the names alone evoke a sense of awe, naturalness, beauty, even love. But, where do those ideas and feelings come from, and how have they both reflected and shaped American cultural, political and environmental history over the last four centuries? These are the central issues and questions that we will pursue in this seminar.",
 	"synonym": "46866",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		}
+		"AMSTTOPICAL2",
+		"ENTS2SCP",
+		"ENTSLPSCP",
+		"ENTSCDSCP",
+		"ENTSTOPSEM",
+		"ENTSWRSCP",
+		"ENTSTOPICAL",
+		"HISTUS",
+		"HISTENVIRHEALTH",
+		"SPECINTSUSTAIN",
+		"PPOLEP",
+		"AMSTAMERWRLD",
+		"AMSTPCC",
+		"AMSTSAP"
 	],
 	"title": "American Wilderness"
 }

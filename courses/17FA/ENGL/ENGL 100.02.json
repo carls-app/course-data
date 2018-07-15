@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "We will consider a range of texts (in fiction poetry, drama, nonfiction) that explore the intangible and multifaceted nature of \"place\" in literary works. We will attempt to determine what influence place has on human perception and behavior and study the variety of ways in which writers have attempted to evoke a \"spirit of place.\" Authors read will include Shakespeare, Hardy, Frost, Erdrich and Heaney.",
 	"synonym": "48514",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
 	"title": "Spirit of Place"
 }

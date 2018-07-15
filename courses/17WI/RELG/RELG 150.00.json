@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,38 +40,14 @@
 	"summary": null,
 	"synonym": "45437",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "SASTHI",
-			"name": "SAST Humanistic Inquiry"
-		}
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"RELGBUDDHSTTRAD",
+		"RELGHINDUTRAD",
+		"POSIELECTIVE",
+		"SASTHI"
 	],
 	"title": "Hinduism, Buddhism, and Religions of South Asia"
 }

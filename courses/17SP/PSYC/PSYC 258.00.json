@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -41,22 +38,10 @@
 	"summary": "This course will focus on a social psychological analysis of social cognition, perception and judgment. It includes the examination of attitudes, stereotyping, attribution and the self. Concurrent registration in Psychology 259 is strongly suggested. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "45961",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		}
+		"EDUCCLUSTER1",
+		"CGSCELECTIVE",
+		"PSYCCORE",
+		"PSYCSDPCH"
 	],
 	"title": "Social Cognition"
 }

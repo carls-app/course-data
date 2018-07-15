@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "A study of images of women in plays by Shakespeare, Ibsen, Strindberg, Tennessee Williams, and a number of women playwrights from Hellman and Clare Booth Luce to Caryl Churchill to Ntozaue Shange.",
 	"synonym": "41600",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
 	"title": "Women Playwrights/Women's Roles"
 }

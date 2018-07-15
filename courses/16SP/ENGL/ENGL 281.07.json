@@ -12,18 +12,9 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -35,18 +26,9 @@
 	"summary": "How have modern writers depicted the city of London? Considering London in diverse ways--as marketplace, bohemian enclave, war-torn city, and transnational metropol--this course examines the portrayal of London in selected works of twentieth and twenty-first century literature. As we explore how writers confront the freedoms and pitfalls of modern urban life--e.g., speed, consumption, experimentation, redevelopment, and class and race conflict--we will relate the London around us to the London of our texts. Readings include E.M. Forster, G.B. Shaw, Virginia Woolf, Graham Greene, Colin MacInnes, Sam Selvon, and Zadie Smith, as well as visual and theoretical works.",
 	"synonym": "41262",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		}
+		"ENGLT1",
+		"EUSTCNTRY",
+		"ENGLHE3"
 	],
 	"title": "London Program: Imagining London: Literature and the Metropolis"
 }

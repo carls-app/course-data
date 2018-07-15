@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and one of these upper level courses: Biology 240, Biology 321 or Biology 350 and concurrent registration in Biology 339",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,26 +46,11 @@
 	"summary": null,
 	"synonym": "51019",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		},
-		{
-			"code": "BIOLECOLEVOL",
-			"name": "Biol Ecology and Evolutionary"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"BIOCELEC",
+		"PPOLPH",
+		"BIOLECOLEVOL",
+		"BIOLELECTIVE",
+		"PPOLEP"
 	],
 	"title": "Genomics and Bioinformatics"
 }

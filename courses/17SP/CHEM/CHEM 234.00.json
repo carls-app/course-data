@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 233 and concurrent registration in Chemistry 234L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "The chemistry of functional groups is continued from Chemistry 233, and is extended to the multifunctional compounds found in nature, in particular carbohydrates and proteins. The laboratory focuses upon inquiry-based projects and spectroscopic analysis. One laboratory per week.",
 	"synonym": "45122",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
 	"title": "Organic Chemistry II"
 }

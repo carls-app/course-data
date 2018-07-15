@@ -34,18 +34,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -57,26 +48,11 @@
 	"summary": null,
 	"synonym": "49240",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"AMSTTOPICAL3",
+		"WGSTADDL",
+		"EDUCCLUSTER2",
+		"AMSTDAC",
+		"AMSTREI"
 	],
 	"title": "Modern Families: An Introduction to the Sociology of the Family"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 232 and 265",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Introduction to the main discrete and continuous time stochastic processes. Topics include Markov chains, Poisson process, continuous time Markov chains, Brownian motion. Use of R and/or Mathematica.",
 	"synonym": "45885",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
 	"title": "Stochastic Processes"
 }

@@ -12,10 +12,7 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
 	"size": {
@@ -27,18 +24,9 @@
 	"summary": "Beginning through advanced study of sitar in the gayaki ang style of Ustad Vilayat Khan. Previous musical experience is not necessary. Sitars are provided.",
 	"synonym": "50235",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "SASTSUPPLA",
-			"name": "SAST Supprtng Lit/Art Analys"
-		}
+		"ASSTSOUTH",
+		"ASSTAL",
+		"SASTSUPPLA"
 	],
 	"title": "Sitar"
 }

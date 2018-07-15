@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 281",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +45,7 @@
 	"summary": "An examination of the structures and processes that underlie the life of cells, both prokaryotic and eukaryotic. Topics to be covered include methodologies used to study cells; organelles, membranes and other cellular components; protein targeting within the cell; and cellular communication and division.",
 	"synonym": "44958",
 	"tags": [
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLELECTIVE"
 	],
 	"title": "Cell Biology"
 }

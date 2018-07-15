@@ -27,10 +27,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 and 111 or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -42,18 +39,9 @@
 	"summary": "Video and photography are coming off the screen, out of the gallery, finding their way into the world through site-specific, installation-style projects. We will take visual projects out of the studio using projection and print techniques that speak and respond to particular locations. Imagine a multi-track movie playing on ten laptops in the Arb; or a film projected on the side of a mobile home with viewers in folding chairs. We will explore VJ software and produce live multi-track visuals to accompany a band performance at the end of the class. This class should be attractive to videographers, musicians, photographers, dancers and others with a speculative, experimental bent.",
 	"synonym": "42146",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
 	"title": "Site-Specific Media: Out and About"
 }

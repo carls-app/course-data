@@ -33,18 +33,9 @@
 	},
 	"prerequisites": "Prerequisite: Geology 210 or junior/senior standing in one of the physical sciences.; GEOL 340L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -56,30 +47,12 @@
 	"summary": "A seminar on major principles of ground and surface water hydrology and their application to contemporary hydrologic problems. The course will draw considerably on student-directed investigation of critical areas of study in hydrology.",
 	"synonym": "38201",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		}
+		"ENTSTOPSEM",
+		"ENTS2ENVSCI",
+		"ENTSWRES",
+		"ENTSFAES",
+		"SPECINTSUSTAIN",
+		"ENTSTOPICAL"
 	],
 	"title": "Hydrology"
 }

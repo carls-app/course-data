@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology/Cognitive Science 232, 234, or 236.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "In this course we will examine deception and persuasion in language use. We will take up three main issues. The first is what it means to deceive and how people deceive others through language. What methods do they use, and how do these methods work? The second issue is why people deceive. What purposes do their deceptions serve in court, in advertising, in bureaucracies, in business transactions, and in everyday face-to-face conversation? The third issue is the ethics of deception. Is it legitimate to deceive others, and if so, when and why?",
 	"synonym": "45965",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGREL",
-			"name": "Linguistics Related Field"
-		},
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"CGSCELECTIVE",
+		"LINGREL",
+		"PSYCSEMINAR",
+		"PSYCUPPERLEVEL"
 	],
 	"title": "Language and Deception"
 }

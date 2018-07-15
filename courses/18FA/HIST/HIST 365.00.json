@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: One prior six credit History course",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,30 +40,12 @@
 	"summary": null,
 	"synonym": "50926",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTMODERN",
-			"name": "History Modern"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"HISTASIA",
+		"POSI-GDS2",
+		"POSI-AREAS",
+		"ASSTEAST",
+		"HISTMODERN",
+		"POSI-AREAS2"
 	],
 	"title": "Colonialism in East Asia"
 }

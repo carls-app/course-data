@@ -13,14 +13,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -32,22 +26,10 @@
 	"summary": "Students will participate in a seminar involving meetings with leading Washington figures in areas of global policy making and regular discussions of related readings.",
 	"synonym": "42218",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-LPS2",
+		"POSI-LPS",
+		"POECUPAPP",
+		"POSIELECTIVE"
 	],
 	"title": "Washington D.C.: A Global Conversation Part I"
 }

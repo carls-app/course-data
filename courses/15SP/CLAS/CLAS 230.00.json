@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": "This course examines the background, career, and legacy of Alexander the Great and the emergence of the Hellenistic monarchies. The first part of the course examines the developments of the Fourth Century BCE, including classical philosophy, politics, and art; the rise of Macedon; Alexander the Great; and the wars of Alexander's successors. The second part explores the philosophical, cultural, and scientific world of Ptolemaic Egypt. The course focuses throughout on the lives and experiences of individuals and their place in a rapidly changing society.",
 	"synonym": "39423",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"HISTANCNT/MDVL",
+		"HISTPERT"
 	],
 	"title": "The World of Alexander"
 }

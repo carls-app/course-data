@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Prior Sociology/Anthropology course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "Where do babies come from? Whereas once the answer was relatively straight forward, the growth of assisted reproductive technologies (ART) and adoption has changed the field of potential answers. Nowadays babies can come from birthmothers, egg donors, and surrogates. In this course we will examine the meaning and making of families across these different types of formations and contextualize the popularity of ART relative to the decrease in adoption. We will take a sociological approach to analyzing these issues, paying particular attention to questions surrounding women's rights, baby \"markets,\" and the racialization of children placed for adoption in the U.S.",
 	"synonym": "49222",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"WGSTADDL",
+		"WGSTCAP",
+		"PPOLSP",
+		"AMSTREI"
 	],
 	"title": "Sociology of Adoption and Assisted Reproduction"
 }

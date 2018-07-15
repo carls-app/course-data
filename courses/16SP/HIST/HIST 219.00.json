@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,38 +45,14 @@
 	"summary": "This course explores the historical political, social, philosophical, and cultural problems related to mixed-race identity since the late nineteenth century, with emphasis on the U.S. government's 2000 decision allowing Americans to define their racial makeup as one race or more. Life stories, literature, and film investigate identity formation, stratification based on race, and the particular ways mixed-raced people articulate their identities in various contexts. Final projects beyond black and white mixed-race people encouraged.",
 	"synonym": "43055",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		}
+		"AFAMDISTROHU",
+		"SPECINTSOCTHGHT",
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"AMSTTOPICAL2",
+		"AFAMHUMANINQ",
+		"EDUCCLUSTER2",
+		"AFSTHI"
 	],
 	"title": "Is Obama Black?: American Mixed Race History"
 }

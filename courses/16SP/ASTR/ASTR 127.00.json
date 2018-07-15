@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Astronomy 100, or 110, or Physics 131, 132, 141 or 142",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

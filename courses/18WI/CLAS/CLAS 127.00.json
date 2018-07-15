@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "Technology--humanity's efforts to manipulate its physical environment--stands as a central concern of the modern world. This course examines the technology of the ancient world and investigates its integral relationship to other facets of human activity. Theories of technological change will be explored initially in order to develop a socially-informed understanding of technology. In the second part, students will investigate specific ancient technologies using archaeological and textual evidence and present their findings to the class. The goal of this course is to understand technology as a social phenomenon in both the ancient and modern worlds.",
 	"synonym": "49421",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ARCNPERT"
 	],
 	"title": "Ancient Technology"
 }

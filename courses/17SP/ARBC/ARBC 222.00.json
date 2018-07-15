@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "The Middle East is home to a great number of musical styles, genres, and traditions. Regional, ideological, and cultural diversity, national identity, and cross-cultural encounters--all express themselves in music. We will explore some of the many musical traditions in the Arab world, from early twentieth century to the present. Class discussions based on readings in English and guided listening. No prior music knowledge required, but interested students with or without musical background can participate in an optional, hands-on Arab music performance workshop, on Western or a few (provided) Middle Eastern instruments throughout the term.",
 	"synonym": "45851",
 	"tags": [
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"MESTGRP2"
 	],
 	"title": "Music in the Middle East"
 }

@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": null,
 	"synonym": "45269",
 	"tags": [
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"LTAM300LIT",
+		"LTAMLIT",
+		"LTAMPERT",
+		"LITFORLANG",
+		"ENGLFORLIT"
 	],
 	"title": "Yours Truly: The Body of the Letter"
 }

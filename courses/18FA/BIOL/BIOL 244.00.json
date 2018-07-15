@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and one Biology 200 or 300 level course",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": null,
 	"synonym": "50887",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
 	"title": "Biostatistics"
 }

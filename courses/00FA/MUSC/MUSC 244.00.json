@@ -33,10 +33,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
 	"size": {
@@ -48,14 +45,8 @@
 	"summary": null,
 	"synonym": "1201",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL1",
+		"CCSTETHNIC"
 	],
 	"title": "Native-American Music"
 }

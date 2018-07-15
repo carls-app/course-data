@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,18 +41,9 @@
 	"summary": null,
 	"synonym": "46161",
 	"tags": [
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CAMS200HIST",
+		"CAMSELECTIVE",
+		"EUSTTRANNATL"
 	],
 	"title": "Film History III"
 }

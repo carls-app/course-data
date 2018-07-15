@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -56,26 +47,11 @@
 	"summary": null,
 	"synonym": "52471",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "CCSTSEEING",
-			"name": "Ccst Seeing & Being Cross Cult"
-		}
+		"EDUCCLUSTER2",
+		"CCSTETHNIC",
+		"AMMUGROUP1",
+		"AMSTSURVEY1",
+		"CCSTSEEING"
 	],
 	"title": "Introduction to American Studies"
 }

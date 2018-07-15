@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "Readings in eighteenth and nineteenth-century British literature.",
 	"synonym": "37928",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLHE2",
+		"ENGLT1",
+		"EUSTCNTRY",
+		"LITFORLANG"
 	],
 	"title": "Neoclassic, Romantic, and Victorian Literature"
 }

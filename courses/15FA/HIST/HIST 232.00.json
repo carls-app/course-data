@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,38 +45,14 @@
 	"summary": "Enthusiasm, artistry, invention, exploration.... How do these notions of Renaissance culture play out in sources from the period? Using a range of evidence (historical, literary, and visual) from Italy and France in the fourteenth-sixteenth centuries we will explore selected issues of the period, including debates about the meaning of being human and ideal forms of government and education; the nature of God and mankind's duties toward the divine; the family and gender roles; definitions of beauty and the goals of artistic achievement; accumulation of wealth; and exploration of new worlds and encounters with other peoples.",
 	"synonym": "41347",
 	"tags": [
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"CCSTENCTR",
+		"FRSTELEC",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"MARSSUPP",
+		"FRENPERT",
+		"FFSTHISARTH"
 	],
 	"title": "Renaissance Worlds in France and Italy"
 }

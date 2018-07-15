@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,46 +39,16 @@
 	"summary": "In the twentieth century women participated in the redefinition of politics and the state, sexuality and family life, and work and leisure as the United States became a modern, largely urban society. We will explore how the dimensions of race, class, ethnicity, and sexuality shaped diverse women's experiences of these historical changes. Topics will include: immigration, the expansion of the welfare system and the consumer economy, labor force segmentation and the world wars, and women's activism in civil rights, labor, peace and feminist movements.",
 	"synonym": "48296",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"AMMUGROUP1",
+		"HISTUS",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"WGSTADDL",
+		"EDUCCLUSTER2",
+		"AMSTAMERWRLD",
+		"AMSTPCC",
+		"AMSTSAP",
+		"AMSTDAC"
 	],
 	"title": "U.S. Women's History Since 1877"
 }

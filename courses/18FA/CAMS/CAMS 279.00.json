@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or 111",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": null,
 	"synonym": "51532",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD",
+		"ENGLCWWTGWKSHP"
 	],
 	"title": "Screenwriting"
 }

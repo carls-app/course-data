@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
 	"size": {

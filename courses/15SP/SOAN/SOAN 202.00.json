@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Socilogy/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"QRE",
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": "Criminologists agree that sex is a major correlate of criminal activity. Whether we examine official statistics, self-report data, or victimization surveys, the pattern is strong and persistent: males commit more crime than females and the types of offenses males commit tend to be more serious. While crime is predominantly a male phenomenon, in this course we examine female criminality. In doing so, we learn about the social basis of criminal activity, the assumptions present in criminological theory, and the ways in which criminal justice practices are gendered.",
 	"synonym": "39597",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"SPECINTLEGAL",
+		"AMSTTOPICAL3",
+		"WGSTADDL"
 	],
 	"title": "Girls Gone Bad: Women, Crime, and Criminal Justice"
 }

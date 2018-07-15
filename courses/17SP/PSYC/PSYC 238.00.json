@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -48,18 +45,9 @@
 	"summary": null,
 	"synonym": "45957",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCCGST",
-			"name": "Psychology Cognitive Studies"
-		}
+		"CGSCELECTIVE",
+		"PSYCCORE",
+		"PSYCCGST"
 	],
 	"title": "Memory Processes"
 }

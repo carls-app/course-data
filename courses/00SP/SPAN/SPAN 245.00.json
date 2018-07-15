@@ -33,10 +33,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
 	"size": {
@@ -48,18 +45,9 @@
 	"summary": null,
 	"synonym": "2786",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"AMSTTOPICAL1",
+		"CCSTETHNIC",
+		"LTAMELECTIVE"
 	],
 	"title": "Intro Latino Lits in US"
 }

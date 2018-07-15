@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,30 +45,12 @@
 	"summary": null,
 	"synonym": "39336",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"EASTSUPP",
+		"SPECINTETHICS",
+		"ASSTHU",
+		"ASSTEAST",
+		"RELGBUDDHSTTRAD",
+		"RELGTHETHCLWPOL"
 	],
 	"title": "Samurai: Ethics of Dth & Lolty"
 }

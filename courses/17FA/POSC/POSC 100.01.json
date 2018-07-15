@@ -33,22 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -60,14 +48,8 @@
 	"summary": null,
 	"synonym": "49572",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"POSI-LPS2",
+		"POSCELECTIVE"
 	],
 	"title": "Society in Silico"
 }

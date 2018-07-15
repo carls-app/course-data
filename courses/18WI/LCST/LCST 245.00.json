@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: At least one 200- or 300-level course in Literary/Artistic Analysis (in any language) or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,38 +45,14 @@
 	"summary": null,
 	"synonym": "48380",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "RUSSIANPERT",
-			"name": "Russian Pertinent"
-		}
+		"ASSTMETH",
+		"ASSTDISC",
+		"FRENPERT",
+		"GERMPERT",
+		"CAMSXDEPT",
+		"FRSTCORE",
+		"FFSTLIT",
+		"RUSSIANPERT"
 	],
 	"title": "The Critical Toolbox: Who's Afraid of Theory?"
 }

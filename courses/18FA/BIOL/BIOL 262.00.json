@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 263 required",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +45,7 @@
 	"summary": null,
 	"synonym": "50977",
 	"tags": [
-		{
-			"code": "BIOLORGANISMIC",
-			"name": "Biol Organismic"
-		}
+		"BIOLORGANISMIC"
 	],
 	"title": "Ecological Physiology"
 }

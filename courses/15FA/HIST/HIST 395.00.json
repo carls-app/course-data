@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "This research seminar will investigate the phenomenon of nationhood through history. In the first half of the course, students will be introduced to the recent literature on nationhood and nationalism. They will read both theoretical and historical works. In the second half, they will prepare and present research papers using primary sources.",
 	"synonym": "41354",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTUS",
+		"HISTASIA",
+		"HISTAFRDIASPORA",
+		"HISTLTAM",
+		"HISTERLYMODEUR"
 	],
 	"title": "Nations and Nationhood"
 }

@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +45,11 @@
 	"summary": "This seminar focuses on the nature of the antebellum slave experience as one of the great debates in American historiography. The course begins with Ulrich Bonnell Phillips's controversial 1918 interpretation and moves to selected major revisionist studies from the late 1950s through the 1990s that incorporate fresh scholarship on women, culture, and economics. There is emphasis on sharpening critical thinking and writing skills.",
 	"synonym": "41337",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"AFAMDISTROHU",
+		"HISTUS",
+		"HISTERLYMODEUR",
+		"HISTAFRDIASPORA",
+		"AFAMHUMANINQ"
 	],
 	"title": "American Antebellum Slavery: History and Historians"
 }

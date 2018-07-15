@@ -31,22 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"IS",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -58,50 +46,17 @@
 	"summary": null,
 	"synonym": "45288",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"MARSCORE",
+		"HISTANCNT/MDVL",
+		"HISTERLYMODEUR",
+		"WGSTCORE",
+		"WGSTADDL",
+		"MARSSUPP",
+		"FRENPERT",
+		"FFSTHISARTH"
 	],
 	"title": "Women and Gender in Europe before the French Revolution"
 }

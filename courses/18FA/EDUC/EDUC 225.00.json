@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": null,
 	"synonym": "51693",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "PPOLEDUC",
-			"name": "Pub Pol Education Policy"
-		}
+		"EDUCCLUSTER3",
+		"AMSTTOPICAL3",
+		"AFSTSI",
+		"PPOLEDUC"
 	],
 	"title": "Issues in Urban Education"
 }

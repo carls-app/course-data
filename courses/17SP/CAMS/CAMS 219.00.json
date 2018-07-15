@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,30 +46,12 @@
 	"summary": null,
 	"synonym": "45067",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"CAMSELECTIVE",
+		"FFSTSOCSCI",
+		"FRSTELEC",
+		"FRENPERT",
+		"AFAMDISTROAL",
+		"AFSTLA"
 	],
 	"title": "African Cinema: A Quest for Identity and Self-Definition"
 }

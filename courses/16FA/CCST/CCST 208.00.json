@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Students must have participated in an off-campus study program (Carleton or non-Carleton)",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": true,
 	"size": {

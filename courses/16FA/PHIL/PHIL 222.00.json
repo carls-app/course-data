@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "Over the past forty years, the idea that competent patients have the right to make decisions about their own care has become paramount in medical ethics and medical practice. But the primacy of patient autonomy as a value raises a host of interesting questions: What can (or should) clinicians do when patients make poor decisions? What does it mean for a patient to be competent? Who should make decisions in those cases where the patient is deemed incompetent or too young to make decisions for herself? This course examines these questions and, depending on interest, larger policy questions (like debates about organ markets) that revolve around the relationship between autonomy and paternalism.",
 	"synonym": "45462",
 	"tags": [
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		}
+		"PHILPRACVAL",
+		"PPOLCORE",
+		"PPOLPH"
 	],
 	"title": "Topics in Medical Ethics"
 }

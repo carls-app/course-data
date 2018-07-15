@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Chemistory 234 and either Chemistry 230 or Biology 380",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "This course involves the natural extension of the principles of chemistry to biological systems. The topics to be examined center around the biochemical formation and cleavage of chemical bonds, with an emphasis on the structure and function of the proteins that mediate these processes.",
 	"synonym": "38479",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
 	"title": "Biological Chemistry"
 }

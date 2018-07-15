@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Requires placement via the Calculus Placement Exam 1, see Mathematics web page. Not open to students who have received credit for Mathematics 101.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "An introduction to the differential and integral calculus. Derivatives, antiderivatives, the definite integral, applications, and the fundamental theorem of calculus.",
 	"synonym": "45620",
 	"tags": [
-		{
-			"code": "MATHCALC",
-			"name": "Calculus for Cs Majors"
-		}
+		"MATHCALC"
 	],
 	"title": "Introduction to Calculus"
 }

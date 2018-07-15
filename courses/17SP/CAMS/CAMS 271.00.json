@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111 and one additional Cinema and Media Studies course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -43,18 +40,9 @@
 	"summary": null,
 	"synonym": "45069",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
 	"title": "Fiction"
 }

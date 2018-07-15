@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -41,10 +38,7 @@
 	"summary": "This course will survey computer techniques for analyzing, synthesizing, manipulating and creating musical sounds. We'll study the basic components of digital sound: waveforms, oscillators, envelopes, delay lines, and filters. We'll analyze and modify sounds using the Fast Fourier Transform (FFT). We'll study several methods of sound synthesis and create and play original music using open source computer music languages. Course projects will include real-time performances on multiple computers using video game controllers.",
 	"synonym": "43072",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"AMMUGROUP2"
 	],
 	"title": "Computer Music and Sound"
 }

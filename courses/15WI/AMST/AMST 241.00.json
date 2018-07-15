@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "Is there such a thing as American cuisine? Can it exist outside of the United States? Who defines, creates, and eats it? This course examines perceptions of American food within historical and global contexts. We will look at the relationship between evolving definitions of American food and immigration patterns, global food distribution networks, travel and tourism, foreign policy and war, and labor and public health. Topics range from U.S. military commissaries and ethnic groceries to Parisian soul food restaurants and the adaptation of SPAM into Filipino cuisine. Reading proficiency in a language other than English welcomed.",
 	"synonym": "39957",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
 	"title": "American Food?"
 }

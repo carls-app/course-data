@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,18 +47,9 @@
 	"summary": "During the nineteenth and twentieth centuries, America often served as a canvass for projecting European anxieties about economic, social and political modernization. Admiration of technological progress and political stability was combined with a pervasive anti-Americanism, which was, according to political scientist Andrei Markovits, the \"lingua franca\" of modern Europe. These often contradictory perceptions of the United States were crucial in the process of forming national histories and mythologies as well as a common European identity. Accordingly, this course will explore the many and often contradictory views expressed by Europe's emerging mass publics and intellectual and political elites about the United States during this period.",
 	"synonym": "41286",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTTRANNATL",
+		"POSI-AREAS2",
+		"HISTERLYMODEUR"
 	],
 	"title": "Allies or Enemies? America through European Eyes"
 }

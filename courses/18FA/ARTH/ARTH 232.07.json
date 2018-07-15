@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {

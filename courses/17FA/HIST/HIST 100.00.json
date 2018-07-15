@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,10 +45,7 @@
 	"summary": null,
 	"synonym": "49556",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
 	"title": "Exploration, Science, and Empire"
 }

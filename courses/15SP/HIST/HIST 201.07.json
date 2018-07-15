@@ -13,14 +13,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -32,26 +26,11 @@
 	"summary": "Through site visits, on-site projects, and readings, this course explores the ways in which late antique and medieval Italy sought to communicate political, religious, and civic messages through combinations of words, images, objects, and structures. What are the \"arts of power and piety\" and when and why are they used? How do people use spaces and images to educate, to challenge, to honor, to remember, or to forget? How can materials create and transmit meaning and order? How do people combine creativity and tradition to maintain and enrich the worlds they inhabit?",
 	"synonym": "38764",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTANCNT/MDVL",
+		"MARSCORE",
+		"RELGCHRISTNTRAD",
+		"MARSSUPP",
+		"EUSTCNTRY"
 	],
 	"title": "Rome Program: Community and Communication in Medieval Italy, CE 300-1150"
 }

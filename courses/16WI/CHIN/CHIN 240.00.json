@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -43,22 +40,10 @@
 	"summary": "This course introduces to students the drastic transformation of Chinese society, culture, and politics over the past three decades through the camera lens. We will examine representative films from Mainland China, Hong Kong, and Taiwan. Particular attention will be paid to the entangled relationship between art, commerce, and politics, as well as the role digital technologies and international communities play in reshaping the contemporary cultural landscape in China. This class requires no prior knowledge of Chinese language, literature, or culture.",
 	"synonym": "41775",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"ASSTEAST",
+		"EASTSUPP",
+		"ASSTAL",
+		"CAMSXDEPT"
 	],
 	"title": "Chinese Cinema in Translation"
 }

@@ -12,10 +12,7 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
 	"size": {
@@ -27,18 +24,9 @@
 	"summary": "Beginning, intermediate, and advanced students of voice, guitar, violin, flute, clarinet, etc., approach raga from their current level of musicianship. In all cases, traditional practical instruction is complemented by some theoretical and philosophical exploration of the underpinnings of the music.",
 	"synonym": "47270",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SASTSUPPLA",
-			"name": "SAST Supprtng Lit/Art Analys"
-		}
+		"ASSTAL",
+		"ASSTSOUTH",
+		"SASTSUPPLA"
 	],
 	"title": "Raga: Vocal or Instrumental Study of Hindustani Music"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"IS",
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": null,
 	"synonym": "48579",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTSS",
+		"POSIELECTIVE",
+		"POSI-LPS2",
+		"POSI-AREAS2",
+		"ASSTEAST"
 	],
 	"title": "Chinese Foreign Policy"
 }

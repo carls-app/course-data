@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 111 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,22 +43,10 @@
 	"summary": null,
 	"synonym": "51294",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "LINGREL",
-			"name": "Linguistics Related Field"
-		}
+		"CGSCELECTIVE",
+		"LINGPERT",
+		"NEURELEC",
+		"LINGREL"
 	],
 	"title": "Computability and Complexity"
 }

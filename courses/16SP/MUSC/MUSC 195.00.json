@@ -21,10 +21,7 @@
 	},
 	"prerequisites": "Prerequisite: A placement hearing",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
 	"size": {
@@ -36,10 +33,7 @@
 	"summary": "The ensemble explores chants, spirituals and gospel music from the African-American communal singing tradition. Music reading skills are not required. A placement hearing is required to assess student's ability to match pitch and be assigned to a voice part.",
 	"synonym": "43669",
 	"tags": [
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMARTSPRAC"
 	],
 	"title": "Jubilee Singers"
 }

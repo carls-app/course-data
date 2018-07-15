@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,30 +45,12 @@
 	"summary": null,
 	"synonym": "46011",
 	"tags": [
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		}
+		"AFAMDISTROSS",
+		"AFAMSOCINQ",
+		"AFAMLITARTANLYS",
+		"AFAMHUMANINQ",
+		"AFAMARTSPRAC",
+		"PPOLSP"
 	],
 	"title": "Contemporary Issues in Critical Criminology"
 }

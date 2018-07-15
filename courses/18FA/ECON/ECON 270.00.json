@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "This course provides a theoretical and empirical examination of the government's role in the U.S. economy. Emphasis is placed on policy analysis using the criteria of efficiency and equity. Topics include rationales for government intervention; analysis of alternative public expenditure programs from a partial and/or general equilibrium framework; the incidence of various types of taxes; models of collective choice; cost-benefit analysis; intergovernmental fiscal relations.",
 	"synonym": "51991",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POECMIDAPP",
-			"name": "POEC Amer Pub Pol Mid Div"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		}
+		"EDUCCLUSTER3",
+		"AMSTTOPICAL3",
+		"POECMIDAPP",
+		"POSI-DSS2",
+		"PPOLCORE"
 	],
 	"title": "Economics of the Public Sector"
 }

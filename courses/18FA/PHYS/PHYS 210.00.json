@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: 6 credits of Physics, not Physics 100. Physics 211 required winter term",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +45,7 @@
 	"summary": null,
 	"synonym": "51168",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		}
+		"ENTS2ENVSCI"
 	],
 	"title": "Sustainable Energy Principles and Design"
 }

@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -41,22 +38,10 @@
 	"summary": null,
 	"synonym": "52151",
 	"tags": [
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLADVSEM",
+		"ENGLHE3",
+		"ENGLT1",
+		"EUSTCNTRY"
 	],
 	"title": "Yeats and Heaney"
 }

@@ -33,10 +33,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
 	"size": {
@@ -48,14 +45,8 @@
 	"summary": null,
 	"synonym": "2736",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL"
 	],
 	"title": "Memoirs of the 20th Century"
 }

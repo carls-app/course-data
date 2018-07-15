@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"QRE",
+		"FSR"
 	],
 	"scnc": null,
 	"size": {

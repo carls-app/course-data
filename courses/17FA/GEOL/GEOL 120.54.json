@@ -38,18 +38,9 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another Geology 100-level course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -61,18 +52,9 @@
 	"summary": null,
 	"synonym": "47770",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"SPECINTSUSTAIN",
+		"ARCNPERT"
 	],
 	"title": "Introduction to Environmental Geology & Lab"
 }

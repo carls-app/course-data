@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 143, 144, 151, 161, or 165, and Mathematics 211 or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

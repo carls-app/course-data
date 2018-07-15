@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,22 +47,10 @@
 	"summary": "From the terse elegance of Pushkin to the psychological probing of Dostoevsky to the finely wrought realism of Tolstoy, this course examines the evolution of the genre over the course of the nineteenth century, ending with a glimpse of things to come on the eve of the Russian Revolution. Close textual analysis of the works will be combined with exploration of their historical and cultural context. No prior knowledge of Russian or Russian history is required.",
 	"synonym": "39456",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
 	"title": "The Rise of the Russian Novel"
 }

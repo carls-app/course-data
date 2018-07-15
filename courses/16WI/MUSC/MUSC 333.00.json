@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Ability to read music and previous music course, or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "A critical examination of the music and cultural impact of the Beatles. Students will engage with primary and secondary materials relating to the music of the Beatles, perform basic musical analyses, and participate in class presentations. The course will conclude with a research paper.",
 	"synonym": "43437",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMMUCAPSTONE",
-			"name": "American Music Research Seminr"
-		}
+		"AMMUGROUP2",
+		"AMMUCAPSTONE"
 	],
 	"title": "The Beatles"
 }

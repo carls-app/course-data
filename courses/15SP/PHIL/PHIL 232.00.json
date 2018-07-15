@@ -26,22 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -53,14 +41,8 @@
 	"summary": "We will study several prominent late twentieth century philosophers writing about social and political justice and representing a variety of views, such as liberalism, socialism, libertarianism, communitarianism, feminism and post-modernism. The following are some of the authors we will read: John Rawls, Gerald Cohen, Robert Nozick, Charles Taylor, Iris Marion Young, Seyla Benhabib, Jurgen Habermas, Jean-Francois Lyotard.",
 	"synonym": "38536",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		}
+		"SPECINTSOCTHGHT",
+		"PHILPRACVAL"
 	],
 	"title": "Social and Political Philosophy"
 }

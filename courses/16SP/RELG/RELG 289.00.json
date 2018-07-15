@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,46 +40,16 @@
 	"summary": "Somali Muslims in Rice County? Hindus in Maple Grove? Hmong shamans in St. Paul hospitals? Sun Dances in Pipestone? In light of globalization, the religious landscape of Minnesota, like America more broadly, has become more visibly diverse. Lake Wobegon stereotypes aside, Minnesota has always been characterized by some diversity but the realities of immigration, dispossession, dislocation, economics, and technology have made religious diversity more pressing in its implications for every arena of civic and cultural life. This course bridges theoretical knowledge with engaged field research focused on how Midwestern contexts shape global religious communities and how these communities challenge and transform Minnesota.",
 	"synonym": "41938",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		}
+		"ASSTHU",
+		"ASSTSOUTH",
+		"AMMUGROUP3",
+		"AMSTTOPICAL2",
+		"RELGAMERTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"AMSTSURVEY1",
+		"PPOLSP"
 	],
 	"title": "Global Religions in Minnesota"
 }

@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,10 +45,7 @@
 	"summary": "Legal documents such as depositions, file papers, complaints, accusations, confessions, and laws themselves offer a fascinating window into American history. Such documents lend themselves to the study of Indian history, capitalism, family relationships, and slavery, to name only a few possible topics. This is an advanced research seminar in which students will write a 25-30 page paper based on original research. Participation in the seminar will also include some common readings that use a variety of approaches to legal history, and extensive peer reviews of research papers.",
 	"synonym": "40105",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
 	"title": "Crime and Punishment: American Legal History, 1607-1865"
 }

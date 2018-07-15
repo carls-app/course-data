@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": "Recent events in France have highlighted the issues of free speech and religious intolerance, among other cultural questions. Some of the most fascinating and now canonized works in French and Francophone literature were once banned because they called into question the political, religious, or moral sensibilities of the day. Even now, books deemed to be subversive are routinely censored in certain Francophone cultures. Through readings of such writers as Rabelais, Voltaire, Sade, Camus, Franz Fanon, Assia Djebar, and Hergé (Tintin), as well as contemporary articles from Charlie Hebdo, we will explore the crucial role of forbidden works in their cultural contexts.",
 	"synonym": "42021",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		}
+		"EUSTCNTRY",
+		"FRSTELEC",
+		"FFSTLIT",
+		"ENGLFORLIT",
+		"ENGLT3"
 	],
 	"title": "Banned Books"
 }

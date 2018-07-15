@@ -39,10 +39,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 or 126 or Chemistry 123 or 128 or Geology 110 or 120 and instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +51,11 @@
 	"summary": null,
 	"synonym": "46838",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"EASTSUPP",
+		"ENTS2ENVSCI",
+		"ENTSFAES",
+		"ENTSLPES",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Comparative Agroecology"
 }

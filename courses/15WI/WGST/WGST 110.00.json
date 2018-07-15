@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,22 +41,10 @@
 	"summary": "This course is an introduction to the ways in which gender structures our world, and to the ways feminists challenge established intellectual frameworks. However, because gender is not a homogeneous category but is differentiated by class, race, sexualities, ethnicity, and culture, we also consider the ways differences in social location intersect with gender.",
 	"synonym": "39616",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "WGSTINTRO",
-			"name": "WGST Introductory"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"AMMUGROUP1",
+		"WGSTINTRO",
+		"AFAMPERT",
+		"CCSTGLOBAL"
 	],
 	"title": "Introduction to Women's and Gender Studies"
 }

@@ -23,10 +23,7 @@
 	},
 	"prerequisites": "Prerequisite: Environmental and Technology Studies 260",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -38,10 +35,7 @@
 	"summary": "This course is the second part of a two-term course sequence beginning with Environmental and Technology Studies 260. The course begins with a two-week visit in December to Beijing and Sichuan province. Field work will include visits to Chinese farms at the forefront of an incipient sustainable agriculture movement in China, as well as discussions with Chinese sustainable agriculture researchers. In regular weekly meetings during the winter term on campus, data will be analyzed and presented in oral and written reports.",
 	"synonym": "46839",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		}
+		"ENTS2ENVSCI"
 	],
 	"title": "Field Investigation in Comparative Agroecology"
 }

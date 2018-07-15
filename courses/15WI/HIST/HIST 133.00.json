@@ -37,18 +37,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -60,34 +51,13 @@
 	"summary": "This course investigates the dramatic transformations that shaped the eastern Mediterranean world and surrounding regions between ca. 250-850 CE. We will focus in particular on how people in late antiquity used environmental, institutional, socio-economic, and cultural resources to address an ongoing series of changes and challenges in their worlds. It also examines these responses from multiple perspectives: winners and losers, elites and non-elites, people of different ethnicities and cultures, urban and rural populations, and diverse religious groups and sects within these groups. The emergence and implications of Christianity and Islam as major organizing identities will also be explored.",
 	"synonym": "38727",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "CLASPERT",
-			"name": "Classics Pertinent"
-		}
+		"SPECINTSOCTHGHT",
+		"SPECINTSUSTAIN",
+		"HISTANCNT/MDVL",
+		"HISTASIA",
+		"MARSSUPP",
+		"MARSCORE",
+		"CLASPERT"
 	],
 	"title": "Crisis, Creativity, and Transformation in Late Antiquity"
 }

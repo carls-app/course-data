@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": null,
 	"synonym": "45545",
 	"tags": [
-		{
-			"code": "ENGLCWWTGWKSHP",
-			"name": "Engl Creative Wtg Wtg Workshop"
-		}
+		"ENGLCWWTGWKSHP"
 	],
 	"title": "Narrative Lab"
 }

@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Three 200-level Geology courses.; GEOL 360L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

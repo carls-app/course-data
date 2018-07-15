@@ -34,14 +34,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -53,10 +47,7 @@
 	"summary": null,
 	"synonym": "43480",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		}
+		"ENTS2ENVSCI"
 	],
 	"title": "Topics: Tasmania Geology and Natural History"
 }

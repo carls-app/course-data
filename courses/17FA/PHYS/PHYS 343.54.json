@@ -37,14 +37,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 235",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +50,7 @@
 	"summary": null,
 	"synonym": "49086",
 	"tags": [
-		{
-			"code": "CSPERT",
-			"name": "CS Pertinent"
-		}
+		"CSPERT"
 	],
 	"title": "Electronics & Lab"
 }

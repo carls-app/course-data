@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +45,11 @@
 	"summary": "Contemporary Indian writers, based either in India or abroad, have become significant figures in the global literary landscape. This can be traced to the publication of Salman Rushdie's second novel,",
 	"synonym": "41258",
 	"tags": [
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"SAST",
+		"ENGLHE3",
+		"ENGLT3",
+		"ASSTSOUTH",
+		"ASSTAL"
 	],
 	"title": "Contemporary Indian Fiction"
 }

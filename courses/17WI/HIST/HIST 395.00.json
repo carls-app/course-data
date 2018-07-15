@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,22 +40,10 @@
 	"summary": null,
 	"synonym": "45292",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		}
+		"AMSTTOPICAL2",
+		"HISTERLYMODEUR",
+		"POECUPWTD",
+		"POSI-LPS2"
 	],
 	"title": "The Global Cold War"
 }

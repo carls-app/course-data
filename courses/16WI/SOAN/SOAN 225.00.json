@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": "In this course we will consider questions of how ordinary women and men have come together to reshape the societies in which they live and the difficult choices they have faced in the process. We will explore factors affecting the emergence, growth, structure and impact of social movements as their participants intentionally attempt to bring about social change, transform social relationships and reshape social values. Major theoretical perspectives (concerning collective behavior, resource mobilization, and new social movements) will be examined in light of some of the most important social movements from around the world.",
 	"synonym": "41908",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		}
+		"AMMUGROUP3",
+		"POSI-DSS2",
+		"POSI-DSS",
+		"AMSTTOPICAL3",
+		"AFAMSOCINQ",
+		"AFAMDISTROSS",
+		"AFSTSI"
 	],
 	"title": "Social Movements"
 }

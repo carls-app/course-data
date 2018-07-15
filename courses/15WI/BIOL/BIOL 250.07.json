@@ -12,10 +12,7 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125 and 126 and one upper-level Biology course related to ecology, evolution or organismal Biology",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -27,14 +24,8 @@
 	"summary": "This course will explore the population, community, and evolutionary ecology of marine organisms, with a focus on the Great Barrier Reef. Major topics will include coral reef structure and function, diversity of fauna and flora, as well as impacts of climate change and fisheries on reef ecology.",
 	"synonym": "38493",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"ENTSCDES"
 	],
 	"title": "Australia/New Zealand Program: Marine Ecology"
 }

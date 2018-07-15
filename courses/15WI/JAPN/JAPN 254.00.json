@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,22 +41,10 @@
 	"summary": "This course will examine manga (Japanese comic books that first appeared in post-World War II Japan). Manga are avidly read in Japan as a main component of Japanese popular culture. They have a huge influence on other media such as films and anime. The genre has greatly expanded its readership outside of Japan during the last decade. We will read a variety of manga aimed at different gender and age groups, in English translation. The texts will be interpreted as a means of understanding the world-views of the Japanese, and how Japanese society has evolved in recent decades.",
 	"synonym": "39508",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"ASSTAL",
+		"EASTSUPP",
+		"ASSTEAST",
+		"CAMSXDEPT"
 	],
 	"title": "World of Japanese Manga in Translation"
 }

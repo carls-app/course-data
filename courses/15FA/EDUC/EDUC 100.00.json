@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +47,7 @@
 	"summary": "How and why have standardized tests become so central to our educational system? This seminar will explore the following topics, among others--the invention of standardized tests and the growth of the testing industry; psychometrics (the science of mental measurement); and the controversies surrounding the use of standardized tests, including charges that they are culturally biased and do not positively contribute to student learning. Our analyses will be informed by a close examination of authentic testing materials, ranging from intelligence tests to the SAT.",
 	"synonym": "41170",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		}
+		"EDUCCLUSTER3"
 	],
 	"title": "Will This Be on the Test? Standardized Testing and American Education"
 }

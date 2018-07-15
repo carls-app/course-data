@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,26 +25,11 @@
 	"summary": null,
 	"synonym": "46836",
 	"tags": [
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		}
+		"SPAN220-290",
+		"PENINLIT",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY",
+		"ARTHPERT"
 	],
 	"title": "Madrid Program: Spanish Art Live"
 }

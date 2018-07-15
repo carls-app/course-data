@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +47,7 @@
 	"summary": null,
 	"synonym": "49719",
 	"tags": [
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"MESTGRP2"
 	],
 	"title": "Arabic Literature at War"
 }

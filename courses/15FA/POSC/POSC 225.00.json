@@ -28,18 +28,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,22 +42,10 @@
 	"summary": "This course introduces students to the study of commons (common pool resources and common property), particularly natural resources commons. The dilemmas of commons governance often reveal links between \"governments\" and \"governance\" as well as the global stakes of bettering local livelihoods. Our 2015 focus is on social and ecological systems (SES) linked directly with climate change, including forests and water resources. Students are",
 	"synonym": "42155",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"POSI-GDS2",
+		"POSIELECTIVE",
+		"ENTS2SCP",
+		"PPOLEP"
 	],
 	"title": "Global-Local Commons: Sustainability, Diversity & Self-Gov't in Complex Social-Ecological Systems"
 }

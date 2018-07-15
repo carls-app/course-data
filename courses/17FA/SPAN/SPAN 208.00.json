@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "An excellent opportunity to brush up your Spanish while learning about current issues in Spain and Latin America. The class meets only once a week for an hour. Class requirements include reading specific sections of Spain's leading newspaper, El País, everyday on the internet (El País), and then meeting once a week to exchange ideas over coffee with a small group of students like yourself.",
 	"synonym": "48454",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		}
+		"SPAN204-219"
 	],
 	"title": "Coffee and News"
 }

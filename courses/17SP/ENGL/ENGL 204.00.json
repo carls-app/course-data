@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": null,
 	"synonym": "46369",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"LINGPERT",
+		"MARSSUPP"
 	],
 	"title": "History of the English Language"
 }

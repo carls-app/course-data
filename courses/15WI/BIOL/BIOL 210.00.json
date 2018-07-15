@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: One introductory science lab course (Biology 125, 126, Chemistry 123, 128, Geology 110, 115 or 120)",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -43,22 +40,10 @@
 	"summary": "Environmental problems are caused by a complex mix of physical, biological, social, economic, political, and technological factors. This course explores how these environmental problems affect life on Earth by examining the biological processes underlying natural ecological systems and the effects of global environmental changes such as resources consumption and overharvesting, land-use change, climate warming, pollution, extinction and biodiversity loss, and invasive species.",
 	"synonym": "38471",
 	"tags": [
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"ENTSCORE",
+		"CCSTGLOBAL",
+		"SPECINTSUSTAIN",
+		"CCSTREGIONAL"
 	],
 	"title": "Global Change Biology"
 }

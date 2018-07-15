@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 115",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "This course has two primary goals: to provide participants with a forum to continue to develop their analytical skills (i.e. to 'do syntax'), and to acquaint them with generative syntactic theory, especially the Principles and Parameters approach. Participants will sharpen their technological acumen, through weekly problem solving, and engage in independent thinking and analysis, by means of formally proposing novel syntactic analyses for linguistic phenomena. By the conclusion of the course, participants will be prepared to read and critically evaluate primary literature couched within this theoretical framework.",
 	"synonym": "48410",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGCORE",
-			"name": "Linguistics Core Courses"
-		}
+		"CGSCELECTIVE",
+		"LINGCORE"
 	],
 	"title": "Generative Approaches to Syntax"
 }

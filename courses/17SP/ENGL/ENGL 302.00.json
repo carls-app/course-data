@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one other 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": null,
 	"synonym": "46370",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"MARSSUPP"
 	],
 	"title": "The Medieval Outlaw"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": null,
 	"synonym": "46062",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		},
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"ARCNPERT",
+		"ARTHPERT",
+		"MARSSUPP",
+		"MARSCORE"
 	],
 	"title": "Roman Archaeology and Art"
 }

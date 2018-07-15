@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -40,14 +34,8 @@
 	"summary": "This course focuses on the rich German tradition of crime and detective stories, with a focus on the long nineteenth century. Contrasting authentic crime reports with fictionalized accounts of murder, rape, and mysterious occurrences, we will approach literary crime scenes as narrative spaces where contested concepts of truth, justice, and morality emerge, and where changing notions of perception come to the fore. Conducted in German.",
 	"synonym": "40430",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLLOE",
+		"EUSTCNTRY"
 	],
 	"title": "Mystery, Murder, Madness: Crime Stories in German Literature"
 }

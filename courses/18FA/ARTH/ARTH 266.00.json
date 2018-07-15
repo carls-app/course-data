@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Requires concurrent registration in Studio Arts 236",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": null,
 	"synonym": "50865",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		}
+		"ASSTEAST",
+		"ASSTAL",
+		"ASSTDISC",
+		"EASTSUPP"
 	],
 	"title": "Arts of the Japanese Tea Ceremony"
 }

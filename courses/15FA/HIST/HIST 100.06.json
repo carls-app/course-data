@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"IS",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -56,22 +47,10 @@
 	"summary": "\"Colossus of the North\" or \"Good Neighbor?\" While many of its citizens believe the United States wields a benign or positive effect on the world, the intent and consequences of its actions in Latin American history paints a decidedly more mixed picture. This course explores the history of hemispheric relations in the Americas with an emphasis on the twentieth century and the Cold War era. National case studies will be used to highlight key political, economic, and social developments. Latin American critiques of U.S. involvement in the region will also be examined.",
 	"synonym": "41341",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMSOCSCI",
+		"LTAMPERT"
 	],
 	"title": "U.S.-Latin American Relations: A View from the South"
 }

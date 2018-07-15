@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR2",
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,34 +45,13 @@
 	"summary": null,
 	"synonym": "48284",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"RELGPERT",
+		"RELGCHRISTNTRAD",
+		"MARSCORE",
+		"ARTHPERT",
+		"HISTANCNT/MDVL",
+		"EUSTTRANNATL"
 	],
 	"title": "Icons, Iconoclasm, and the Quest for the Holy in Byzantium and Its Neighbors"
 }

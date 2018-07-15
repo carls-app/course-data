@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Our contemporary world is importantly structured by the market system. In this course we'll explore the significance of the economy for our everyday lives. Grounding our analysis in political economy and critical sociology, we'll explore the nature and origins of our economic system, and the economic dynamics which help to structure our selves, lives, and communities. Significant themes will include inequality, identity, morality, and freedom.",
 	"synonym": "41907",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
 	"title": "Capitalism, Consumption, and Culture"
 }

@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: 100-level Linguistics course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "This course will introduce students to techniques of linguistic research and analysis through direct work with a native speaker of a language not taught at Carleton. Students will learn techniques for eliciting, organizing, describing, and analyzing data in an ethically responsible and scientifically rigorous manner. Our goal is to develop a description of the language--primarily, aspects of its phonology, morphology, and syntax--through working exclusively with a native speaker. Each student will investigate some aspect of the language in depth, culminating in a class presentation and research report.",
 	"synonym": "41432",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Field Methods in Linguistics"
 }

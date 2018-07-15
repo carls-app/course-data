@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -43,22 +40,10 @@
 	"summary": "Is personal ambition a threat to peace and the public good or is it a prod to nobility and heroism? Does it exemplify the opposition between self and society or does it represent their intersection and mutual support­--or both? Drawing on literary, philosophical, and historical works this course will take up these and other questions as part of a broad examination of the role of ambition in politics.",
 	"synonym": "39298",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-LPS",
+		"POSI-PLI2",
+		"SPECINTSOCTHGHT",
+		"POSIELECTIVE"
 	],
 	"title": "Politics and Ambition"
 }

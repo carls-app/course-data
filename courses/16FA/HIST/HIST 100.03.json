@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"IS",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": null,
 	"synonym": "45272",
 	"tags": [
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"AFSTHI",
+		"HISTAFRDIASPORA"
 	],
 	"title": "History and Memory in Africa, Nineteenth through Twenty-first Centuries"
 }

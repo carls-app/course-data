@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 230 or beyond or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,26 +25,11 @@
 	"summary": null,
 	"synonym": "43478",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"CCSTGLOBAL",
+		"FRSTELEC",
+		"FFSTLIT"
 	],
 	"title": "Paris Program: Hybrid Paris"
 }

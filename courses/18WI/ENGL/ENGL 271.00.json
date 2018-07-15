@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: One prior 6 credit English course",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "This course offers newer poets ways of developing poetic craft and vision. Through intensive writing and revision of poetry, supplemented by reading and discussion of poetry, each member of the group will create a portfolio of poems.",
 	"synonym": "48531",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Poetry Workshop"
 }

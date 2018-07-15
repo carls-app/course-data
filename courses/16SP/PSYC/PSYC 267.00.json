@@ -41,26 +41,11 @@
 	"summary": "This course will explore brain disorders with significant psychological manifestations, such as Alzheimer's disease, anxiety, depression, schizophrenia, and substance abuse, among others. Students will also receive a foundation in brain anatomy, physiology, and chemistry so that they may better understand the biological correlates of these clinical conditions.",
 	"synonym": "41660",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCBIOBEH",
-			"name": "Psyc Biologcl & Behavorl Proc"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH",
+		"CGSCELECTIVE",
+		"PSYCCORE",
+		"PSYCBIOBEH"
 	],
 	"title": "Clinical Neuroscience"
 }

@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "A survey of rhythm and blues from 1945 to 1975, focusing on performers, composers, and the music industry.",
 	"synonym": "44678",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"AMMUGROUP2",
+		"AFAMLITARTANLYS",
+		"AMSTTOPICAL1",
+		"AFAMDISTROAL",
+		"AFSTLA"
 	],
 	"title": "Golden Age of R and B"
 }

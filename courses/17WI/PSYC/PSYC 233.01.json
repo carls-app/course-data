@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110, Cognitive Science 100, Cognitive Science 130 or instructor permission. Requires concurrent registration in Cognitive Science 232. A grade of C- or better must be earned in both to complete the Lab Science requirement",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -42,14 +36,8 @@
 	"summary": null,
 	"synonym": "45930",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "PSYCLAB",
-			"name": "Psyc Laboratory"
-		}
+		"CGSCCORE",
+		"PSYCLAB"
 	],
 	"title": "Laboratory Research Methods in Cognitive Processes"
 }

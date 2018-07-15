@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: 100-level Philosophy course or instructor permission",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "The aim of metaphysics has traditionally been to identify the nature and structure of reality. The topics of this course are the topology of time, identity of things and individuals, causality, free will, and the referents of general terms. We will read a variety of classic and contemporary texts, which are organized topically.",
 	"synonym": "46141",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"PHILTHEORY"
 	],
 	"title": "Being, Time and Identity"
 }

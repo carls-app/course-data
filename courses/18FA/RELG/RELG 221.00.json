@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,34 +45,13 @@
 	"summary": "Questions raised by feminism and gender studies have transformed religious traditions and dramatically changed the way scholars approach the study of religion. In this course, we will consider how reading Jewish tradition with attention to gender opens up new ways of understanding Jewish history, texts, theology and ritual. We will also consider how women and feminism have continually and newly envisioned Jewish life. We will interrogate how Jewish masculinity and femininity have been constituted through, reinforced by, and reclaimed/transformed in Jewish texts, law, prayer, theology, ethics and ritual, in communal as well as domestic contexts.",
 	"synonym": "52528",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		}
+		"WGSTADDL",
+		"RELGJEWISHTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"MESTGRP1",
+		"JDSTPERT"
 	],
 	"title": "Judaism and Gender"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": null,
 	"synonym": "45296",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMMUGROUP1",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"AFAMPERT"
 	],
 	"title": "Rethinking the American Experience: American Social History, 1865-1945"
 }

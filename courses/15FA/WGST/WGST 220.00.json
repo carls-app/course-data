@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "In this course we will examine what constitutes an LGBTQ social movement in the U.S. today. We will analyze the popular understandings of LGBTQ social movements by linking the context, goals, and outcomes of movements to the dynamics of race, class, gender, sexuality, ability, immigration status, and geography. Our goal will be to understand the ways that LGBTQ social movements have helped influence as well as been influenced by existing social and governmental institutions. How have these relationships determined the perceived legitimacy of such movements? We will also examine several contemporary issues that have inspired LGBTQ organizing and advocacy.",
 	"synonym": "42973",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		}
+		"AMSTTOPICAL2",
+		"WGSTADDL",
+		"AMSTDAC"
 	],
 	"title": "LGBTQ Movements in the U.S."
 }

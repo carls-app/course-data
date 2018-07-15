@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "Semantics is the study of meaning (broadly construed) in language. In this course we explore several objects of inquiry within the field of semantics, including compositional semantics (i.e., the computation of meaning over syntactic structures), lexical semantics, argument structure, and pragmatics. Prerequisite: Linguistics 216.",
 	"synonym": "45651",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Topics in Semantics"
 }

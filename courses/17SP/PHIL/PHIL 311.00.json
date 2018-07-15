@@ -27,14 +27,8 @@
 	},
 	"prerequisites": "Prerequisite: One previous Philosophy course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +40,7 @@
 	"summary": null,
 	"synonym": "46491",
 	"tags": [
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"PHILADV"
 	],
 	"title": "When Art is Not ‘For Art’s Sake’"
 }

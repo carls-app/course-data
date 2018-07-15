@@ -29,10 +29,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111, at least one 200-level production course, and instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -44,14 +41,8 @@
 	"summary": "Working in a variety of genres and technical formats, students design, test, and execute an in-depth, individual media project during the course of the term. Students are expected to work at advanced technical and conceptual levels to expand specific skills and aesthetics. Weekly class critiques will help students develop formal approaches, audio and visual language, and work flows specific to their projects. As students enter the production and post-production phases, further critiques will help them shape their material for the greatest, most precise expression. Students may enroll in this course multiple times. Prior to registering for the course, students must submit a project proposal to the instructor. Please contact instructor for further information. Final enrollment is based on the quality of the proposal.",
 	"synonym": "38168",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECPROD",
+		"CAMSELECTIVE"
 	],
 	"title": "Advanced Production Workshop"
 }

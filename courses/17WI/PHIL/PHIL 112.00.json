@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "According to a common view of the mind, mental states are nothing more than states of the brain. There are certain features of human intellection, subjective experience, and action which have prompted some philosophers to argue that human mental activity is not reducible to brain activity. Some have gone on to argue that the human mind is immaterial and capable of surviving the death of the body. We will examine variants of these views as well as objections to them, reading selections from such historical figures as Plato, Aristotle, and Descartes, and such contemporary philosophers as Churchland, Nagel, and Searle.",
 	"synonym": "45472",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Mind, Matter, Consciousness"
 }

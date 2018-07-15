@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,38 +45,14 @@
 	"summary": null,
 	"synonym": "49010",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SASTHI",
-			"name": "SAST Humanistic Inquiry"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"ASSTHU",
+		"CCSTGLOBAL",
+		"ASSTSOUTH",
+		"ASSTPERT",
+		"WGSTADDL",
+		"POSI-AREAS",
+		"SASTHI",
+		"SASTSUPPHI"
 	],
 	"title": "Hinduism: An Introduction"
 }

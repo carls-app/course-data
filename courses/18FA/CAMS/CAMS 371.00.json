@@ -29,10 +29,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111, and either Cinema and Media Studies 270 or Cinema and Media Studies 271. Project proposal required",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -44,14 +41,8 @@
 	"summary": null,
 	"synonym": "49679",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECPROD",
+		"CAMSELECTIVE"
 	],
 	"title": "Senior Production Workshop"
 }

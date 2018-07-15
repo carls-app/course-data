@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -43,14 +40,8 @@
 	"summary": null,
 	"synonym": "45053",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
 	"title": "Story Development Workshop"
 }

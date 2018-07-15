@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,18 +45,9 @@
 	"summary": null,
 	"synonym": "52552",
 	"tags": [
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		}
+		"MESTGRP1",
+		"RELGPERT",
+		"RELGISLAMICTRAD"
 	],
 	"title": "Power and Desire: Gender Relations in the Middle East"
 }

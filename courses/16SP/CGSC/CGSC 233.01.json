@@ -23,10 +23,7 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in CGSC 232. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; Psychology 110 or permission of the instructor. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -38,10 +35,7 @@
 	"summary": "Students will participate in the replication and planning of empirical studies, collecting and analyzing data relevant to major cognitive phenomena.",
 	"synonym": "45503",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
 	"title": "Laboratory Research Methods in Cognitive Science"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": "\"Ideology\" is perhaps one of the most-used (and overused) terms of modern political life. This course will introduce students to important political ideologies and traditions of modern Europe and their role in the development of political systems and institutional practices from the mid-nineteenth century to the present. We will read central texts by conservatives, liberals, socialists, anarchists and nationalists while also considering ideological outliers such as Fascism and Green Political Thought. In addition the course will introduce students to the different ways in which ideas can be studied systematically and the methodologies available.",
 	"synonym": "41288",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POSI-DSS",
+		"POSI-DSS2",
+		"POSIELECTIVE",
+		"SPECINTSOCTHGHT",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"FRENPERT"
 	],
 	"title": "\"The Age of Isms\" - Ideals, Ideas and Ideologies in Modern Europe"
 }

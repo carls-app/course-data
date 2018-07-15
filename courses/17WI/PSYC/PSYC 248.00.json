@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": null,
 	"synonym": "45932",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CCSTANALYSIS",
-			"name": "Ccst Princ Cross-Cult Analysis"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		}
+		"SPECINTSOCTHGHT",
+		"CCSTANALYSIS",
+		"PSYCCORE",
+		"PSYCSDPCH"
 	],
 	"title": "Cross-Cultural Psychology"
 }

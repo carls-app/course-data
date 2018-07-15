@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -41,34 +38,13 @@
 	"summary": "This course examines the relationship between globalization, gender and militarism to understand how globalization and militarism are gendered, and processes through which gender becomes globalized and militarized. We will focus on the field of transnational feminist theorizing which both \"genders the international\" and \"internationalizes gender.\" We will take up the different theoretical and disciplinary approaches to this project, as well as the perspectives and methods put forth for studying gender, race and class transnationally. We will explore how economic development, human rights, and the politics of resistance (particularly in the NGO sector) are gendered.",
 	"synonym": "39623",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"POSI-LPS2",
+		"SOANPERT",
+		"POSI-LPS",
+		"POSIELECTIVE",
+		"WGSTADDL",
+		"CCSTGLOBAL",
+		"AFAMPERT"
 	],
 	"title": "Gender, Globalization and War"
 }

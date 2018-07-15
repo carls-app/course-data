@@ -27,14 +27,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +40,8 @@
 	"summary": null,
 	"synonym": "46760",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"CAMSELECTIVE",
+		"MESTGRP1"
 	],
 	"title": "Designing for Diversity: Anthropology and New Technologies"
 }

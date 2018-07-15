@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One ENGL foundations and another 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": null,
 	"synonym": "46015",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGLHE3",
+		"ENGLT1"
 	],
 	"title": "Zadie Smith"
 }

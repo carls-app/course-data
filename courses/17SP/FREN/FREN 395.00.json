@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: French 200-level course or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,38 +46,14 @@
 	"summary": null,
 	"synonym": "46903",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"FRSTELEC",
+		"CCSTBINARY",
+		"EUSTCNTRY",
+		"FRSTELECAL",
+		"AFAMDISTROAL",
+		"AFAMARTSPRAC",
+		"ENGLFORLIT",
+		"AFSTLA"
 	],
 	"title": "The Mande of West Africa"
 }

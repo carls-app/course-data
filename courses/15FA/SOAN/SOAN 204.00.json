@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,22 +45,10 @@
 	"summary": "Do you feel lost without your iPhone? Did you feel empty when Breaking Bad ended? Have Twitter and Instagram improved your life? In this course we critically examine the socio-cultural origins and impact of media technologies. Using perspectives from sociology, critical theory and cultural studies, we investigate the ways in which media of communication help shape ourselves and our social world. From mass media to social media, we focus on issues of power and inequality to understand and evaluate our media-saturated world.",
 	"synonym": "41864",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		}
+		"SPECINTSOCTHGHT",
+		"CAMSXDEPT",
+		"CAMSELECTIVE",
+		"AMMUGROUP3"
 	],
 	"title": "Media and Society"
 }

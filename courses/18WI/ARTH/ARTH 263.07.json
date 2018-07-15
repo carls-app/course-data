@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,18 +25,9 @@
 	"summary": null,
 	"synonym": "46863",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"EUSTTRANNATL",
+		"MARSSUPP",
+		"FFSTHISARTH"
 	],
 	"title": "European Architectural Studies Program: Prehistory to Postmodernism"
 }

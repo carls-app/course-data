@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: Any one term of art history",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "Art from abstract expressionism to the present, with particular focus on issues such as the modernist artist-hero; the emergence of alternative or non-traditional media; the influence of the women's movement and the gay/lesbian liberation movement on contemporary art; and postmodern theory and practice.",
 	"synonym": "45969",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		}
+		"AMSTTOPICAL1",
+		"EUSTTRANNATL",
+		"CAMSXDEPT",
+		"CAMS200HIST",
+		"AMSTAMERWRLD"
 	],
 	"title": "Art Since 1945"
 }

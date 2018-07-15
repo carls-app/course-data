@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: One 100 level Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "Pictures of the floating world, or",
 	"synonym": "40883",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"WGSTADDL",
+		"ASSTAL",
+		"ASSTEAST"
 	],
 	"title": "The Origins of Manga: Japanese Prints"
 }

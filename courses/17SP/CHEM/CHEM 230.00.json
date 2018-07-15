@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 230L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "This course builds on topics from introductory chemistry and deals with quantitative aspects of acid-base and electron-transfer equilibria. Numerical and graphical methods are developed for the examination of these chemical systems. Several modern analytical methods of analysis are introduced including UV spectrophotometry, simultaneous spectrophotometric determinations of mixtures, potentiometry, and flow injection analysis. One laboratory per week.",
 	"synonym": "45115",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
 	"title": "Equilibrium and Analysis"
 }

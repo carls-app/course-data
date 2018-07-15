@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,34 +39,13 @@
 	"summary": "The course covers the major political events in the Middle East between 1967 and 2011, including the continuation of the Arab-Israeli conflict, the 1973 war and its aftermath, and the rise of the Palestinian Liberation Organization (PLO) in Arab politics. We will also probe the upsurge of political Islam with special emphasis on the Muslim Brothers in Egypt and Hezbollah in Lebanon. In addition, the course covers the crises of the Arab authoritarian order in the last two decades leading to the Arab 2011 uprising, failure to foster economic development, and the consequences on Arab societies in the Middle East.",
 	"synonym": "45463",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"POSIELECTIVE",
+		"POSI-DSS2",
+		"FFSTSOCSCI",
+		"POSI-AREAS2",
+		"FRSTELEC",
+		"FRENPERT",
+		"MESTGRP1"
 	],
 	"title": "Politics of the Middle East II (1967-2011)"
 }

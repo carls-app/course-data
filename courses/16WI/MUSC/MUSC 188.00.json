@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Previous experience in a music ensemble, Chinese Muscial instruments or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
 	"size": {

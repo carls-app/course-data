@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 210",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -43,18 +40,9 @@
 	"summary": "This course is designed to investigate the ethical questions raised by the topics explored in Global Change Biology (Biology 210), concurrent registration is required. We will consider how environmental ethicists have engaged topics such as species loss, global warming, invasive species, resource consumption and overharvesting, and pollution. The course will meet once a week to discuss ethical literature around such questions as whether we have duties to animals, ecosystems, and future generations and to examine how ethicists make use of ecological concepts.",
 	"synonym": "37536",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"ENTS2SCP",
+		"SPECINTETHICS",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Ethics and Ecology"
 }

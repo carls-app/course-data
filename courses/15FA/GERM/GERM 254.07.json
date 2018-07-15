@@ -13,14 +13,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -32,10 +26,7 @@
 	"summary": "This course is structured around the theater productions of the fall season in Berlin. Our group will attend six to eight performances of German language plays, ranging from the Enlightenment to the post-war period. In preparation for each outing, students will read and discuss the original play, and study its historical and literary context. In the course of the term, we will hone our skills as theater spectators and learn how to describe and critique different performance styles and directorial choices.",
 	"synonym": "41803",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Berlin Program: The World's a Stage Theater in Berlin"
 }

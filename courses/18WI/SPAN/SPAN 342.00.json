@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,38 +39,14 @@
 	"summary": "An examination of Latin American theater as both text and performance, this course studies selected works in the context of the social, political, and cultural issues of their time, from the aftermath of the Mexican Revolution to cross-dressing on the Argentine stage and new ways to perform gender. Dramatists may include Rodolfo Usigli, Vicente Leñero, Griselda Gambaro, Manuel Puig, Jorge Díaz, Ariel Dorfman, Sabina Berman, Susana Torres Molina, Flavio Gómez Mello, Lola Arias.",
 	"synonym": "48477",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "SPAN300LEVEL",
-			"name": "Spanish 300 Level Requirements"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"SPAN204-219",
+		"LTAMELECTIVE",
+		"THEAPERT",
+		"LTAMLIT",
+		"LTAM300LIT",
+		"LTAMPERT",
+		"SPAN300LEVEL",
+		"LITFORLANG"
 	],
 	"title": "Latin American Theater: Nation, Power, Gender"
 }

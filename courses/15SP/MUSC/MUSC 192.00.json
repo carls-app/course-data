@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Music 199 and/or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "The ensemble will use indigenous instruments and an African approach to musical training in order to learn and perform rhythms and songs from West Africa.",
 	"synonym": "39811",
 	"tags": [
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMARTSPRAC"
 	],
 	"title": "West African Drum Ensemble"
 }

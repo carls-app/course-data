@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,10 +41,7 @@
 	"summary": "Ours is a world of institutions--schools, corporations, non-profits, government agencies--that shape the way we act, think, and remember. The memory [and amnesia] of institutions themselves, the records they keep and throw away, and the way these repositories are organized and used are crucial elements in their function and survival. How do institutions remember? What is the relationship between \"official\" and \"individual\" memory in the making of an institutional world? How do past and present connect? We will explore this and related questions through readings, discussion, and a hands-on project based upon material in Carleton's own archives.",
 	"synonym": "41387",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
 	"title": "Carleton in the Archives: Studies in Institutional Memory and Culture"
 }

@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 111, not open to students who have completed Physics 132, 141, 142, 143, 144 or 145 at Carleton. Requires concurrent registration in Physics 131L; Concurrent registration in Physics 131L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,18 +47,9 @@
 	"summary": "We will explore the ethics and politics of memory and trauma in societies previously torn asunder by civil wars and dictatorships. The texts and films assigned will be studies of how subjective and collective memories are negotiated both through fictional and testimonial narratives. Our focus will be primarily on Argentina, Chile, Guatemala and El Salvador but we will also read some Holocaust literature to compare how this subject has been represented in another tradition. The primary question we will explore is: how does a work of art adequately represent the horror without aestheticizing the experience?",
 	"synonym": "41436",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMLIT",
+		"ENGLF",
+		"LTAMPERT"
 	],
 	"title": "The Politics of Memory in Latin American Literature"
 }

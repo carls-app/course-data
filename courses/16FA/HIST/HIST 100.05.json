@@ -33,22 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -60,14 +48,8 @@
 	"summary": null,
 	"synonym": "46184",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"HISTANCNT/MDVL",
+		"MARSSUPP"
 	],
 	"title": "The Black Death: Disease and Its Consequences in the Middle Ages"
 }

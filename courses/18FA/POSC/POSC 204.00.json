@@ -28,18 +28,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"QRE",
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,34 +42,13 @@
 	"summary": null,
 	"synonym": "50884",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSI-LPS2",
+		"AMSTTOPICAL3",
+		"CAMSXDEPT",
+		"POSIELECTIVE",
+		"AMSTPCC",
+		"AMSTDAC",
+		"AMSTREI"
 	],
 	"title": "Media and Electoral Politics: 2018 United States Election"
 }

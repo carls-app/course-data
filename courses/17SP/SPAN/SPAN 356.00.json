@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": null,
 	"synonym": "45268",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"LTAMLIT",
+		"LTAM300LIT",
+		"LTAMPERT",
+		"CAMSXDEPT"
 	],
 	"title": "The Political and Cultural History of the Cuban Revolution"
 }

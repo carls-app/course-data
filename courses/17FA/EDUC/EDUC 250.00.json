@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": null,
 	"synonym": "47811",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "AFSTPERT",
-			"name": "Africana Studies Pertinent"
-		}
+		"EDUCCLUSTER3",
+		"SPECINTSOCTHGHT",
+		"AFSTPERT"
 	],
 	"title": "Fixing Schools: Politics and Policy in American Education"
 }

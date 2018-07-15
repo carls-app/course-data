@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisite: the ability to read music is not necessary",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": null,
 	"synonym": "46235",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"CCSTGLOBAL",
+		"AMMUGROUP2"
 	],
 	"title": "Western Art Music: The Last 1000 Years"
 }

@@ -34,18 +34,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -57,10 +48,7 @@
 	"summary": "This course introduces fundamental principles of geology and geological reasoning through first-hand field work. Much class time will be spent outdoors at nearby sites of geological interest. Using field observations, descriptions, data-gathering, hypothesis-testing, and interpreting, supplemented by lab work and critical reading, students will piece together the most important elements of the long and complex geologic history of southern Minnesota. They will learn how geologists ask questions, evaluate information and construct arguments. In a civic engagement project, students will also explain their results to the public. The course includes several writing assignments. Two weekend field trips will be included.",
 	"synonym": "41290",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ARCNPERT"
 	],
 	"title": "Geology in the Field"
 }

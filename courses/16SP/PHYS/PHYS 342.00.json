@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 228 and 235 and 1-300 level Physics course; Concurrent registration in Physics 342L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

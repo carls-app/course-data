@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "This course analyzes the firm's marketing and pricing problems, its conduct, and the resulting economic performance, given the nature of the demand for its products, its buying markets, the nature of its unit costs, and the structure of its selling markets.",
 	"synonym": "44933",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"POECUPAPP"
 	],
 	"title": "Industrial Organization and Firm Behavior"
 }

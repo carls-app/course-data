@@ -39,14 +39,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or Chemistry 128",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

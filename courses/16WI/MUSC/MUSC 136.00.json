@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,18 +45,9 @@
 	"summary": "A survey of rock and roll from its beginnings to the present day, focusing on the performers, composers and the music industry. A one-credit trailing course, Ethics and Digital Ownership, PHIL 199, is available to interested students.",
 	"synonym": "42275",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMMUGROUP2",
+		"AMSTTOPICAL1",
+		"AFAMPERT"
 	],
 	"title": "History of Rock"
 }

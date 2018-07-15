@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: At least 6 credits at the level of Russian 330 or higher or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "Drawing on materials from film, literature, architecture, and mass culture, we will examine the cult of Iosif Stalin during \"the Leader's\" lifetime and continuing into subsequent eras through both repudiation and periodic revivals. We will address the pagan and Christian foundations of the Stalin cult, as well as its connections with the cult of Lenin. Conducted entirely in Russian.",
 	"synonym": "39452",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Senior Seminar: The Cult of Stalin"
 }

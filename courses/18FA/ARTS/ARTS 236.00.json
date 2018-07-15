@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Requires concurrent registration in Art History 266",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"ARP",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {

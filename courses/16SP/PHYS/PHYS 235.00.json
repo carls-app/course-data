@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151, 161, or 165, and Mathematics 211 or instructor permission; Concurrent registration in Physics 235L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

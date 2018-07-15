@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: Any two Art History courses, or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,22 +41,10 @@
 	"summary": null,
 	"synonym": "52467",
 	"tags": [
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AMSTPCC",
+		"AMSTSAP",
+		"AMSTDAC",
+		"EUSTTRANNATL"
 	],
 	"title": "Art and Democracy"
 }

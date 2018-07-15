@@ -28,10 +28,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -43,14 +40,8 @@
 	"summary": "A beginning drawing course for students who are interested in developing their skills in drawing from nature. Much of the classwork will be done outdoors and deal directly with drawing from plant forms, geological sources, and the landscape as subjects. Emphasis will be placed on the development of the technical skills needed for visual note-taking and development of journals. Problems will deal with the analysis of space and objects through line, shape, volume, and tone.",
 	"synonym": "40927",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSLPSCP"
 	],
 	"title": "Field Drawing"
 }

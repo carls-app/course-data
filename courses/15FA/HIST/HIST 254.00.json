@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,38 +40,14 @@
 	"summary": "This course explores the colonialisms in East Asia, both internal and external. Students examine Chinese, Inner Asian, Japanese, and European colonialisms from the seventeenth century to the present. Geographically, students cover borderlands of East Asian empires (Tibet, Xinjiang, Mongolia, Manchuria, Fujian, Yunnan, Canton, Vietnam, Taiwan, Korea, Okinawa, and Hokkaido). Methodologically, students eschew power-politics and historical studies of \"frontier\" regions in order to analyze everyday aspects of colonial arrangements and communities in different historical moments from the bottom up. Topics include ethnic identities, racial discourses, colonial settlements, opium regimes, violence and memory (e.g. Nanjing massacre), and forced labor migrations (e.g. comfort women).",
 	"synonym": "41351",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"EASTSUPP",
+		"POSI-AREAS2",
+		"ASSTHU",
+		"ASSTEAST",
+		"ASSTCENT",
+		"HISTASIA",
+		"POSI-AREAS",
+		"CCSTENCTR"
 	],
 	"title": "Colonialism in East Asia"
 }

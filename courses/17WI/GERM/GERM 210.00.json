@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: Take German 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

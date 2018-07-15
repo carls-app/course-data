@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "This course explores the dynamic interactions between three distinct centers of authority and power: the Roman papacy, the Church, and the heir to the legacies of Rome, the Holy Roman Empire from the tenth through thirteenth centuries. Among other topics to be covered: the rise of canon and Roman law; new religious orders; changing models of sanctity; the Church and local and 'national' identity; and the development of the papacy as a powerful, but controversial, European institution. The course will also consider the Holy Roman Empire as a cultural zone in which Church and Empire play vital roles as patrons and subjects.",
 	"synonym": "43412",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"HISTANCNT/MDVL",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTTRANNATL"
 	],
 	"title": "Papacy, Church, and Empire in the Middle Ages"
 }

@@ -12,10 +12,7 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
 	"size": {
@@ -27,14 +24,8 @@
 	"summary": null,
 	"synonym": "2813",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"FRSTELEC",
+		"FRSTHIST"
 	],
 	"title": "Chall Nation Building in Mali"
 }

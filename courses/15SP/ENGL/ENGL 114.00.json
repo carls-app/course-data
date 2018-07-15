@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": "This course surveys the poetry and prose of later medieval England, from about 1350-1475--an era of great accomplishment and considerable variety in English writing and great changes and considerable upheaval in English society, a period of plague, heresy, rebellion, and civil war. Readings (in modern translation) will include travel literature and autobiography, dream visions and Arthurian romances, sermons, saints' lives, and allegories.",
 	"synonym": "37963",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"MARSSUPP",
+		"ENGLF",
+		"ENGLT1"
 	],
 	"title": "Introduction to Medieval Literature"
 }

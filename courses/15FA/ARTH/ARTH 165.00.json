@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "This course will survey art and architecture in Japan from its prehistoric beginnings until the early twentieth century, and explore the relationship between indigenous art forms and the foreign (Korean, Chinese, European) concepts, art forms and techniques that influenced Japanese culture, as well as the social political and religious contexts for artistic production.",
 	"synonym": "40879",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"EASTCORE",
+		"ASSTAL",
+		"ASSTEAST"
 	],
 	"title": "Japanese Art and Culture"
 }

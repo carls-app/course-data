@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Psychology 256 or 258 recommended",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "This seminar introduces students to major psychological theories and research on the development, perpetuation and reduction of prejudice. A social and historical approach to race, culture, ethnicity and race relations will provide a backdrop for examining psychological theory and research on prejudice formation and reduction. Major areas to be discussed are cognitive social learning, group conflict and contact hypothesis.",
 	"synonym": "38080",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"EDUCCLUSTER2",
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"AFAMSOCINQ"
 	],
 	"title": "Psychology of Prejudice"
 }

@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,30 +45,12 @@
 	"summary": null,
 	"synonym": "46368",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MESTPERT",
-			"name": "Middle East Studies Pertinent"
-		},
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"MARSSUPP",
+		"MESTPERT",
+		"MESTGRP2",
+		"CCSTENCTR"
 	],
 	"title": "Encountering the Other: The Crusades"
 }

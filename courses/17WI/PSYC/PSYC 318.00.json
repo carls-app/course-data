@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 216 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,18 +43,9 @@
 	"summary": "This course will cover the major categories of drugs that possess psychoactive properties, with an emphasis on their effects on the nervous system. In addition, drug use and abuse in a larger societal context will be examined.",
 	"synonym": "45936",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH",
+		"PSYCUPPERLEVEL"
 	],
 	"title": "Psychopharmacology"
 }

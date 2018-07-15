@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110, Cognitive Science 100, Cognitive Science 130 or permission of the instructor. A grade of C- or better must be earned in both PSYC/CGSC 232 and 233 to satisfy the LS requirement. Requires concurrent registration in Psychology 233.",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"WR2",
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": null,
 	"synonym": "45929",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCCGST",
-			"name": "Psychology Cognitive Studies"
-		}
+		"EDUCCLUSTER1",
+		"CGSCCORE",
+		"PSYCCORE",
+		"PSYCCGST"
 	],
 	"title": "Cognitive Processes"
 }

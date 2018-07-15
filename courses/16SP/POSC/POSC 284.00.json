@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "This class examines the decades-long conflict in Northern Ireland between Catholics and Protestants known as \"The Troubles.\" We will investigate the causes of violence in this region and explore the different phases of the conflict, including initial mobilization of peaceful protestors, radicalization into violent resistance, and de-escalation. We will also consider the international dimensions of the conflict and how groups forged transnational ties with diaspora groups and separatist movements around the world. Finally, we will explore the consequences of this conflict on present-day Northern Ireland's politics and identify lessons from the peace process for other societies in conflict.",
 	"synonym": "42216",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"POSIELECTIVE",
+		"POSI-LPS2",
+		"EUSTTRANNATL"
 	],
 	"title": "War and Peace in Northern Ireland"
 }

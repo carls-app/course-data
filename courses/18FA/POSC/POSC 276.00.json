@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "The course explores the bipolarity of imagination, the fact that imagination can be both a source of freedom and domination in contemporary politics. The main focus of the course is the capacity literature and film have to either increase the autonomous capacity of individuals to engage culture and language in a creative and interactive manner in the construction of their identities, or in a direction that increases their fascination with images and myths and, consequently, the escapist desire to pull these out of the living dialogue with others.",
 	"synonym": "51895",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"EUSTTRANNATL",
+		"SPECINTSOCTHGHT",
+		"WGSTADDL",
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
 	"title": "Imagination in Politics"
 }

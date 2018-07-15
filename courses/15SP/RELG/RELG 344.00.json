@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "The practices of popular, or local, or lived religion in American culture often blur the distinction between the sacred and profane and elude religious studies frameworks based on the narrative, theological, or institutional foundations of \"official\" religion. This course explores American religion primarily through the lens of the practices of lived religion with respect to ritual, the body, the life cycle, the market, leisure, and popular culture. Consideration of a wide range of topics, including ritual healing, Christmas, cremation, and Elvis, will nourish an ongoing discussion about how to make sense of lived religion.",
 	"synonym": "39352",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		}
+		"AMSTTOPICAL2",
+		"RELGCHRISTNTRAD",
+		"RELGAMERTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"AMMUGROUP3"
 	],
 	"title": "Lived Religion in America"
 }

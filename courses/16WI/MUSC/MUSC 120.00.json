@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "A survey of opera and its history with special emphasis on four major works, one each by Mozart, Bizet, Wagner, and Stravinsky. Operas will be studied through video presentation, listening, and readings. Librettos available in translation; ability to read music not required.",
 	"synonym": "42273",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"AMMUGROUP2"
 	],
 	"title": "Introduction to Opera"
 }

@@ -32,14 +32,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"IS",
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -51,18 +45,9 @@
 	"summary": null,
 	"synonym": "48428",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"CCSTGLOBAL",
+		"AFSTLA",
+		"AMMUGROUP2"
 	],
 	"title": "Music of Africa"
 }

@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,42 +45,15 @@
 	"summary": "This survey begins with the pre-enslavement history of African Americans in West Africa. It proceeds to the transition of the slave from an African to an African American either directly or indirectly through the institution of slavery until 1865. Special attention will be given to black female activists, organizations, and philosophies proposing solutions to the African-American and Euro-American dilemma in the antebellum period.",
 	"synonym": "41382",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"EDUCCLUSTER2",
+		"AMMUGROUP1",
+		"HISTUS",
+		"HISTATLANTWRLD",
+		"AFAMSURVEY",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"HISTAFRICA",
+		"HISTAFRDIASPORA"
 	],
 	"title": "African American History I"
 }

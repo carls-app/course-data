@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 240 or Biology 350",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -41,10 +38,7 @@
 	"summary": "The origin and maintenance of sexual reproduction remains a central enigma in evolutionary biology. This seminar course will explore contemporary primary literature that addresses a variety of evolutionary questions about the nature of sex and the sexes. Why is sexual reproduction usually favored over asexual alternatives? Why are there no more than two sexes? What determines the characteristics of females and males within diverse species? How did sex chromosomes evolve and why do some species lack them?",
 	"synonym": "45003",
 	"tags": [
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLELECTIVE"
 	],
 	"title": "Seminar: Evolution of Sex and Sexes"
 }

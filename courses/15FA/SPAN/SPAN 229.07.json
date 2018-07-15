@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or higher",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,10 +25,7 @@
 	"summary": "This course offers a fresh look of Spain's current political life as seen through the eyes of a committed journalist with hands-on experience in the matter.",
 	"synonym": "41964",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Madrid Program: Current Issues in Spanish Politics"
 }

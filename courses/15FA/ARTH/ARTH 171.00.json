@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -41,14 +38,8 @@
 	"summary": "This course covers nineteenth and twentieth century photography from its origins to the present. It will consider formal innovations in the medium, the role of photography in society, and the place of photography in the fine arts.",
 	"synonym": "40875",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"AMSTTOPICAL1",
+		"CAMSXDEPT"
 	],
 	"title": "History of Photography"
 }

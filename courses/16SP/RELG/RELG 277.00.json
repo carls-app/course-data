@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "The development of a uniquely American Buddhism beginning in the late 1960s owes much to \"Beat\" writings in the 1950s. The cultural innovations of the Fifties reverberated in the social and political shifts of the sixties to give rise to an American Buddhist idiom that emphasized meditation, direct experience, community, socially engaged action, and concern with the environment. This course will explore representations of Buddhism in the works of such notable Beats as Kerouac, Ginsberg, Snyder, Whalen, and Watts and their influence on the counterculture and the various Buddhist communities (both imagined and institutional) that arose from the Sixties on.",
 	"synonym": "41939",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"AMSTTOPICAL2",
+		"RELGBUDDHSTTRAD",
+		"RELGAMERTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT"
 	],
 	"title": "Buddhism and the Beats"
 }

@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": "More than a study of the image of Madrid in Spanish literature, this course examines the actual experience of living in a cosmopolitan city through a variety of disciplines, including Urban Studies, Philosophy, Architecture, Sociology, and Spanish poetry and fiction.",
 	"synonym": "43519",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"SPAN204-219",
+		"PENINLIT",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY"
 	],
 	"title": "Madrid Program: Theory and Practice of Urban Life"
 }

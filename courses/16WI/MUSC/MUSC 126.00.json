@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"WR2",
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,22 +45,10 @@
 	"summary": "A survey of American music with particular attention to the interaction of the folk, popular, and classical realms. No musical experience required. A one-credit trailing course, Ethics and Digital Ownership, PHIL 199, is available to interested students.",
 	"synonym": "42274",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AMMUGATEWAY",
-			"name": "American Music Gateway"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		}
+		"AMSTTOPICAL3",
+		"AMMUGATEWAY",
+		"AMSTSURVEY1",
+		"AFAMDISTROAL"
 	],
 	"title": "America's Music"
 }

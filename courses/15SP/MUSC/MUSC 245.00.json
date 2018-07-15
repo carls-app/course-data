@@ -32,14 +32,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"IS",
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -51,18 +45,9 @@
 	"summary": "The study of traditional and popular music of sub-Saharan Africa, through reading, listening, watching, and playing. Music is examined in its cultural context with particular attention to ethnic identity, political life, religion, and gender roles. Students will also learn rudiments of West African percussion and Shona karimba through applied study. No experience necessary.",
 	"synonym": "39817",
 	"tags": [
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		}
+		"AFAMDISTROAL",
+		"CCSTGLOBAL",
+		"AFAMLITARTANLYS"
 	],
 	"title": "Music of Africa"
 }

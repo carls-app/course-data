@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,18 +40,9 @@
 	"summary": "This course explores the emergence and resolution of separatist movements around the world. While separatist movements are often associated with the violent dissolution of states, not all separatist movements result in violence and not all separatist movements seek independence. We will investigate the conditions under which separatist pressures are most likely to develop and when such pressures result in actual separation. We will contrast the tactics of movements, from peaceful approaches in places like contemporary Quebec or Scotland, to peaceful outcomes like the \"velvet divorce\" of Czechoslovakia, to violent insurrections in places like the Philippines, Spain, and Northern Ireland.",
 	"synonym": "48610",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"EUSTTRANNATL",
+		"POSIELECTIVE",
+		"POSI-DSS2"
 	],
 	"title": "Separatist Movements"
 }

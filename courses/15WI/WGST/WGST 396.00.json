@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "This course focuses on transnational feminist activism in an era of globalization, militarism and religious fundamentalism. We will learn about the debates around different theories of social change, the challenges and pitfalls of global sisterhood and the various \"pedagogies of crossing\" borders. We will explore case studies of how feminists have collaborated, built networks, mobilized resources and coalitions for collective action, in addition to the obstacles and constraints they have encountered and surmounted in their search for gender and sexual justice.",
 	"synonym": "39618",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"SPECINTSOCTHGHT",
+		"WGSTCAP",
+		"CCSTGLOBAL",
+		"AFAMPERT",
+		"WGSTADDL"
 	],
 	"title": "Transnational Feminist Activism"
 }

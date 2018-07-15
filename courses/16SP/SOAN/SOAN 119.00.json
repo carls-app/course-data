@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": null,
 	"synonym": "43678",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"ASSTEAST",
+		"ASSTSS"
 	],
 	"title": "Chinese Society in Transition: Up Close and Personal"
 }

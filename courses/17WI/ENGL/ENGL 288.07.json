@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": null,
 	"synonym": "43510",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		}
+		"AMSTTOPICAL1",
+		"ENTSLPSCP",
+		"ENGLHE3",
+		"ENGLT2"
 	],
 	"title": "California Program: The Literature of California"
 }

@@ -39,18 +39,9 @@
 	},
 	"prerequisites": "Prerequisite: 100 level Geology course or prior History course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LS",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -62,22 +53,10 @@
 	"summary": null,
 	"synonym": "49346",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"HISTENVIRHEALTH",
+		"ENTS2ENVSCI",
+		"MARSSUPP",
+		"ARCNPERT"
 	],
 	"title": "“When the Earth Shook…” Earthquakes in Human History & Lab"
 }

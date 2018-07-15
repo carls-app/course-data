@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "We will approach the Bible not as an archaeological relic, nor as the Word of God, but \"as a work of great literary force and authority [that has] shaped the minds and lives of intelligent men and women for two millennia and more.\" As one place to investigate such shaping, we will sample how the Bible (especially in the \"Authorized\" or King James version) has drawn British and American poets and prose writers to borrow and deploy its language and respond creatively to its narratives, images, and visions.",
 	"synonym": "45591",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		}
+		"ENGLT1",
+		"ENGLHE1"
 	],
 	"title": "The Bible as Literature"
 }

@@ -37,14 +37,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 233",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +50,7 @@
 	"summary": null,
 	"synonym": "49045",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
 	"title": "Organic Chemistry II & Lab"
 }

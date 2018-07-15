@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Cognitive Science 100 or 130",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"FSR",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": "An examination of the way people think and reason, both when given formal laboratory tasks and when facing problems and decisions in everyday life. Students consider their own reasoning and decision making through course exercises. Topics include models of formal reasoning, decision making, heuristics and biases in thinking and problem-solving, moral reasoning, improving skills of higher order cognition.",
 	"synonym": "48706",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCCGST",
-			"name": "Psychology Cognitive Studies"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"EDUCCLUSTER1",
+		"PSYCCORE",
+		"PSYCCGST",
+		"PSYCPERT",
+		"CGSCELECTIVE"
 	],
 	"title": "Thinking, Reasoning, and Decision Making"
 }

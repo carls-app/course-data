@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,50 +44,17 @@
 	"summary": "A narrative and survey of the early modern period (fifteenth through eighteenth centuries). The course examines the Renaissance, Reformation, Contact with the Americas, the Scientific Revolution and Enlightenment. We compare the development of states and societies across Western Europe, with particularly close examination of the history of Spain.",
 	"synonym": "51946",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "HISTMODERN",
-			"name": "History Modern"
-		}
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"HISTATLANTWRLD",
+		"MARSSUPP",
+		"FRENPERT",
+		"FFSTHISARTH",
+		"FRSTELEC",
+		"HISTMODERN"
 	],
 	"title": "Foundations of Modern Europe"
 }

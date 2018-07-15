@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 235",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"IDS",
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -42,10 +36,7 @@
 	"summary": "This course is the second part of a two-term sequence beginning with Perspectives in Public Health. Over the winter break, students will spend two weeks exploring a variety of public health organizations both locally (Minneapolis/St. Paul) and nationally. During the winter term, students will complete their final public health-related civic engagement project in collaboration with a community partner, set their individual project back into the wider context of public health, and prepare to present their experience to a broader audience.",
 	"synonym": "43564",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
 	"title": "Public Health in Practice"
 }

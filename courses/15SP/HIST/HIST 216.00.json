@@ -33,18 +33,9 @@
 	},
 	"prerequisites": "Prerequisite: One History course, first year students require instructor permission",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": "This course will examine the world of history outside the walls of academia. Looking at secondary-school education, museums, and public policy, we will explore the ways in which both general and specialized publics learn and think about history. A central component of the course will be a civic engagement project mentoring sixth grade students at the Northfield Middle School as they research and produce projects for Minnesota History Day.",
 	"synonym": "38769",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
 	"title": "History Beyond the Walls"
 }

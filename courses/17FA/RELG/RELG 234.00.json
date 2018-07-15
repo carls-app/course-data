@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,26 +45,11 @@
 	"summary": null,
 	"synonym": "49543",
 	"tags": [
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"RELGJEWISHTRAD",
+		"RELGCHRISTNTRAD",
+		"MARSCORE",
+		"WGSTADDL",
+		"CCSTENCTR"
 	],
 	"title": "Angels, Demons, and Evil"
 }

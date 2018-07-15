@@ -28,18 +28,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -51,22 +42,10 @@
 	"summary": null,
 	"synonym": "47843",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSIELECTIVE",
+		"POSI-PLI2",
+		"AMSTDAC",
+		"AMSTREI"
 	],
 	"title": "Political Thought Malcolm X & Martin Luther King, Jr"
 }

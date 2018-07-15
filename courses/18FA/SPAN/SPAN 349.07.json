@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": null,
 	"synonym": "51468",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"SPAN204-219",
+		"PENINLIT",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY"
 	],
 	"title": "Madrid Program: Theory and Practice of Urban Life"
 }

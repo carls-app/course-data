@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "This course explores major issues in the history of school reform in the United States, with an emphasis on the twentieth century. Readings and discussions examine the role of education in American society, the various and often competing goals of school reformers, and the dynamics of educational change. With particular focus on the American high school, this course looks at why so much reform has produced so little change.",
 	"synonym": "39553",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"EDUCCLUSTER3",
+		"AMSTTOPICAL3",
+		"SPECINTSOCTHGHT",
+		"HISTUS"
 	],
 	"title": "The History of American School Reform"
 }

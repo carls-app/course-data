@@ -27,18 +27,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +41,12 @@
 	"summary": "The course offers a survey of the world's food systems--and its critics--from the initial domestication of plants and animals to our day. We will begin by examining the critical theoretical and foundational issues on the subject, and then turn to a series of case studies that illuminate major themes around the world. Topics will include land and animal husbandry, the problem of food security, food politics, the Green Revolution, biotechnology, and the implications of global climate change. Throughout the course, students will assess and seek to integrate differing disciplinary and methodological approaches. The class will include field experiences.",
 	"synonym": "38330",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"SPECINTHEALTH",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"SPECINTSUSTAIN",
+		"ENTSFAES",
+		"ENTSFASCP"
 	],
 	"title": "Global Food Systems"
 }

@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Recommended Psychology 252",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -41,18 +38,9 @@
 	"summary": "An introduction to theories, research, treatments, and issues in the field of psychopathology. This course will be run as a seminar.",
 	"synonym": "45960",
 	"tags": [
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		}
+		"PSYCCORE",
+		"PSYCSDPCH",
+		"PPOLPH"
 	],
 	"title": "Psychopathology"
 }

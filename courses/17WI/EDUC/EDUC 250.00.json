@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Educational Studies 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "This course will survey current approaches to educational change. Students will explore the current systems and structures that constitute the policy framework, scrutinize the assumptions and ideological underpinnings of different political camps, and examine the dynamic interactions between and among those shaping American education. Additionally, they will look at various reform efforts and models, considering their use in the effort to transform schools.",
 	"synonym": "45868",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "PPOLEDUC",
-			"name": "Pub Pol Education Policy"
-		}
+		"EDUCCLUSTER3",
+		"SPECINTSOCTHGHT",
+		"AFAMPERT",
+		"PPOLEDUC"
 	],
 	"title": "Fixing Schools: Politics and Policy in American Education"
 }

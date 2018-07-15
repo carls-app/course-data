@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110; Concurrent registration in Psychology",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -43,10 +40,7 @@
 	"summary": "An introduction to the physiological bases of complex behaviors in mammals, with an emphasis on neural and hormonal mechanisms. A grade of C- or better must be earned in both Psychology 216 and 217 to satisfy the LS requirement. Requires concurrent registration in PSYC 217.",
 	"synonym": "41642",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Behavioral Neuroscience"
 }

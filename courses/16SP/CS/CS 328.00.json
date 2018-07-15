@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission. Computer Science 202 strongly recommended",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "How are machine learning and human learning similar? What sorts of things can people learn, and how can we apply computer science ideas to characterize cognition? This interdisciplinary course will take a computational modeling approach, exploring how models can help us to better understand cognition and observing similarities between machine learning methods and cognitive tasks. Through in class activities and readings of both classic and contemporary research papers on computational cognitive modeling, we'll build up an understanding of how different modeling choices lead to different predictions about human behavior and investigate potential practical uses of cognitive models. Final collaborative research projects will allow you to apply your modeling skills to a cognitive phenomenon that you're interested in.",
 	"synonym": "42092",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Computational Models of Cognition"
 }

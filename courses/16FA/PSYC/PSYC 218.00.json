@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110. Psychology 216 recommended or permission of the instructor",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": null,
 	"synonym": "45904",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCBIOBEH",
-			"name": "Psyc Biologcl & Behavorl Proc"
-		}
+		"NEURELEC",
+		"PSYCCORE",
+		"PSYCBIOBEH"
 	],
 	"title": "Hormones and Behavior"
 }

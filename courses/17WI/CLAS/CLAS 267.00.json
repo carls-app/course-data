@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: At least one previous archaeology course, Classics 122, 123 124 or Archeology 246; contact instructor to discuss other relevant courses.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": null,
 	"synonym": "45705",
 	"tags": [
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ARCNPERT"
 	],
 	"title": "Political Landscapes: Archaeologies of Territory and Polity"
 }

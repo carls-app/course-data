@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": "\"Tell me what you eat, I will tell you who you are.\" Brillat-Savarin. Through the thematic lens of food, we will study enduring and variable characteristics of French society and compare it to American and other societies when appropriate. We will analyze various cultural texts and artifacts (fiction, non-fiction, print, film, and objects) from medieval times to the present with a pinch of theory and a dash of statistics. Course may be repeated if the topic is different.",
 	"synonym": "39586",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"CCSTETHNIC",
+		"EUSTCNTRY",
+		"FRSTCULT",
+		"FFSTLIT",
+		"ENGLFORLIT"
 	],
 	"title": "Topics in Cultural Studies: Cultural Reading of Food"
 }

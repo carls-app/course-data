@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,26 +44,11 @@
 	"summary": "What if Little Red Riding Hood wore a red burqa? And if Eurydice willingly relocated to the Underworld to join her cancan-crazed lover Pluto? In this course, we will explore bold and inventive acts of rewriting the French classics in a wide assortment of contexts. To do so, we will immerse ourselves in the often irreverent world of literary, musical, comic strip, and film retellings, adaptations, sequels, and spin-offs. Works by Perrault, Molière, Baudelaire, Offenbach, Camus, Ben Jelloun, Daoud, Prévert, Truffaut, and more. Songs from the cabaret era to raï. Special emphasis on developing analytical and communicative skills. In French.",
 	"synonym": "42014",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"EUSTTRANNATL",
+		"CCSTBINARY",
+		"FRSTELEC",
+		"FFSTLIT",
+		"ENGLFORLIT"
 	],
 	"title": "French Classics Reimagined"
 }

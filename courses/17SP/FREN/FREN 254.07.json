@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": null,
 	"synonym": "43529",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"FRSTELEC",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY",
+		"FFSTHISARTH"
 	],
 	"title": "Paris Program: French Art in Context"
 }

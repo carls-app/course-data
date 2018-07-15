@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,18 +47,9 @@
 	"summary": null,
 	"synonym": "45313",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "MESTCORE",
-			"name": "Middle East Studies Foundation"
-		}
+		"MARSCORE",
+		"MESTGRP1",
+		"MESTCORE"
 	],
 	"title": "Muhammad"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "An introduction to some of the major genres, texts, and authors of medieval and Renaissance England. Readings may include works of Chaucer, Spenser, Shakespeare, Milton, and the lyric poets of the sixteenth and seventeenth centuries.",
 	"synonym": "46277",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"EUSTCNTRY",
+		"MARSCORE",
+		"MARSSUPP",
+		"LITFORLANG"
 	],
 	"title": "From Chaucer to Milton: Early English Literature"
 }

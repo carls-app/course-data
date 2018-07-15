@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "A survey of major political and social developments from the fifteenth century to the beginning of World War I. Topics include: state and society, the military and bureaucracy, religious minorities (Jews and Christians), and women in premodern Muslim societies; the encounter with modernity.",
 	"synonym": "48288",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"POSI-AREAS2",
+		"CCSTENCTR",
+		"HISTASIA",
+		"MESTGRP1"
 	],
 	"title": "The Making of the Modern Middle East"
 }

@@ -36,14 +36,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -55,10 +49,7 @@
 	"summary": null,
 	"synonym": "51993",
 	"tags": [
-		{
-			"code": "PPOLCORE",
-			"name": "Public Policy Core"
-		}
+		"PPOLCORE"
 	],
 	"title": "Principles of Microeconomics With Problem Solving"
 }

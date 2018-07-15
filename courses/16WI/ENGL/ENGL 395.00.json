@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "\"Does the world really present itself to perception in the form of well-made stories?\" asks metahistorian Hayden White. To try to answer that question is to explore the nature of representation, and confront literature's distinctive blend of fiction and nonfiction. We will read classic and contemporary narrative theory to understand how narrative works in a range of literary genres and forms, including their adaptation into films, graphic novels, and images.",
 	"synonym": "41240",
 	"tags": [
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		}
+		"ENGLADVSEM",
+		"ENGLHE3"
 	],
 	"title": "Narrative Necessity"
 }

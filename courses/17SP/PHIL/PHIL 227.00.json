@@ -29,14 +29,8 @@
 	},
 	"prerequisites": "Prerequisite: Previous Philosophy course",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +42,7 @@
 	"summary": null,
 	"synonym": "45485",
 	"tags": [
-		{
-			"code": "PHILPERT",
-			"name": "Philosophy Pertinent Courses"
-		}
+		"PHILPERT"
 	],
 	"title": "Philosophy with Children"
 }

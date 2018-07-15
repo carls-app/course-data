@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or permission of instructor",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": null,
 	"synonym": "45732",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTCNTRY",
+		"FRSTCORE",
+		"EUSTTRANNATL"
 	],
 	"title": "Communication and Stylistics"
 }

@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "Can we learn to use resources sustainably? Are there people in the world that know how to manage their environment appropriately? What are the causes behind environmental degradation? These questions are commonly asked in public and academic forums but what discussions often overlook is the fact that these are fundamentally social questions and thus social analysis is needed to understand them fully. This course aims at exploring key issues of human/nature interactions by using anthropological critiques and frameworks of analysis to show how culture is a critical variable to understanding these interactions in all their complexity.",
 	"synonym": "41867",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENTS2SCP",
+		"SPECINTSUSTAIN",
+		"ENTSCDSCP",
+		"LTAMPERT",
+		"LTAMELECTIVE"
 	],
 	"title": "Environmental Anthropology"
 }

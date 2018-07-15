@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 265",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
 	"synonym": "41521",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
 	"title": "Introduction to Statistical Inference"
 }

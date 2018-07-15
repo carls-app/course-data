@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,26 +47,11 @@
 	"summary": null,
 	"synonym": "51864",
 	"tags": [
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "HISTMODERN",
-			"name": "History Modern"
-		}
+		"AFSTHI",
+		"HISTAFRDIASPORA",
+		"HISTUS",
+		"HISTATLANTWRLD",
+		"HISTMODERN"
 	],
 	"title": "Slavery and the Old South"
 }

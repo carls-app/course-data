@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: Economics 330, 331, and concurrent or previous enrollment in Economics 329",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

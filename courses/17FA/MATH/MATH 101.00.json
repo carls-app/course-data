@@ -41,10 +41,7 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have received credit for Math 111.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +53,7 @@
 	"summary": "An introduction to the central ideas of calculus with review and practice of those skills needed for the continued study of calculus. Problem solving strategies will be emphasized. (Meets Monday through Friday).",
 	"synonym": "48805",
 	"tags": [
-		{
-			"code": "MATHCALC",
-			"name": "Calculus for Cs Majors"
-		}
+		"MATHCALC"
 	],
 	"title": "Calculus with Problem Solving"
 }

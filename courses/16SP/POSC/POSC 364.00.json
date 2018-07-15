@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,50 +40,17 @@
 	"summary": "This research seminar examines the major debates in studies of contemporary capitalism in advanced capitalist and developing countries around the world. Moving beyond the classic theoretical debates of liberal, Marxist, developmentalist, and post-industrial arguments, the seminar will focus on recent debates concerning changes in labor markets, class structures, production systems, political institutions and social distribution, corporate governance, the multilateral system (e.g., IMF, the World Bank), supranational entities such as the European Union, and critical approaches on economic development, including new studies of the informal labor market.",
 	"synonym": "42224",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"POSI-GDS2",
+		"POSIADVSEM",
+		"POSI-GDS",
+		"POSCADVSEM",
+		"POECUPWTD",
+		"POECSEMINAR",
+		"FFSTSOCSCI",
+		"FRSTELEC",
+		"POSIELECTIVE",
+		"FRENPERT",
+		"PPOLECON"
 	],
 	"title": "Capitalism and Its Critics*"
 }

@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": "This course is an introduction to several aspects of Japanese society, taking advantage of the New Media seminar in Kyoto. The course consists of readings and lectures about important events in historical and contemporary Japan, and will include visits to sites that illuminate those events in an important way. In addition to Kyoto and the nearby Uji and Nara, we will also make excursions to Tokyo and Hiroshima.",
 	"synonym": "40943",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"EASTSUPP",
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTHU"
 	],
 	"title": "Japanese Linguistics in Kyoto Seminar: History and Culture of Japan"
 }

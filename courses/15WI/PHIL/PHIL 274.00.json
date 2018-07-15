@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,18 +40,9 @@
 	"summary": "We will consider the emergence and development of major themes of existentialism in the works of Kierkegaard and Nietzsche, as well as \"classical\" existentialists such as Heidegger, Sartre and De Beauvoir. We will discuss key issues put forward by the existentialist movement, such as \"the question of being\" and human historicity, freedom and responsibility and look at how different authors analyzed the nature and ambitions of the Self and diverse aspects of subjectivity.",
 	"synonym": "38527",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"EUSTTRANNATL",
+		"SPECINTETHICS",
+		"PHILTHEORY"
 	],
 	"title": "Existentialism"
 }

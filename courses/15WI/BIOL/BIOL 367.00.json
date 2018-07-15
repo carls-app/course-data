@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 232/332 or 240 or 242 or 278 or 380 or Chemistry 320 or consent of the instructor",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -41,10 +38,7 @@
 	"summary": "The course will examine the biochemical basis of human disease. Although the focus will be on common diseases such as metabolic syndrome and type 2 diabetes, rare but instructive conditions will also be examined. An analytical approach, based on primary literature, will be used and the emphases will be placed on critical evaluation of experimental design and data interpretation.",
 	"synonym": "40255",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
 	"title": "Seminar: The Molecular Basis of Human Disease"
 }

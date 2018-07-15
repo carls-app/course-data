@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,22 +40,10 @@
 	"summary": "A survey of jazz from its beginnings to the present day focusing on the performer/composers and their music.",
 	"synonym": "42239",
 	"tags": [
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		}
+		"AFAMDISTROAL",
+		"AMMUGROUP2",
+		"AMSTTOPICAL1",
+		"AFAMLITARTANLYS"
 	],
 	"title": "The History of Jazz"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"IS",
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": "The \"Rise of China\" over the past 35 years presents challenges and opportunities for the United States and other countries around the world. This course examines China's growing and changing influence in the world. The course starts by exploring historical Chinese foreign policy, from Imperial China through the Cold War. The course then examines a variety of different theories and factors explaining the general nature of China's foreign policy. The course concludes by detailing China's current bilateral relationships with specific countries and regions around the world.",
 	"synonym": "39291",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTSS",
+		"POSIELECTIVE",
+		"POSI-LPS",
+		"POSI-LPS2",
+		"POSI-AREAS",
+		"POSI-AREAS2",
+		"ASSTEAST"
 	],
 	"title": "Chinese Foreign Policy"
 }

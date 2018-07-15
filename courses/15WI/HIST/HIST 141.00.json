@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,38 +44,14 @@
 	"summary": "This course explores developments in European history in a global context from the final decade of the nineteenth century through to the present. We will focus on the impact of nationalism, war, and revolution on the everyday experiences of women and men, and also look more broadly on the chaotic economic, political, social, and cultural life of the period. Of particular interest will be the rise of fascism and communism, and the challenge to Western-style liberal democracy, followed by the Cold War and communism’s collapse near the end of the century.",
 	"synonym": "38728",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"POSI-AREAS",
+		"POECLOWER",
+		"FRENPERT"
 	],
 	"title": "Europe in the Twentieth Century"
 }

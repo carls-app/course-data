@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,14 +45,8 @@
 	"summary": "Introduction to Rome's political and social history from the Etruscan period to the end of the Republic. Topics include Roman political culture, the acquisition of empire, the role of the army, the psychology of Rome, and interpretation of historical evidence. Based largely on primary source readings.",
 	"synonym": "41789",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"HISTANCNT/MDVL",
+		"HISTPERT"
 	],
 	"title": "The Roman Republic"
 }

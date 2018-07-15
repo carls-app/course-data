@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,42 +44,15 @@
 	"summary": "This course examines the political, social and economic transformation of China over the past thirty years. Students will explore the transformation of the countryside from a primarily agricultural society into the factory of the world. Particular emphasis will be placed on economic development and how this has changed state-society relations at the grassroots. The class will explore these changes among farmers, the working class and the emerging middle class. Students will also explore how the Chinese Communist Party has survived and even thrived while many other Communist regimes have fallen and assess the relationship between economic development and democratization.",
 	"synonym": "42191",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"EASTSUPP",
+		"POSI-AREAS2",
+		"ASSTEAST",
+		"POSI-DSS2",
+		"POSI-DSS",
+		"POSI-AREAS",
+		"POSIELECTIVE",
+		"ASSTSS",
+		"POECUPWTD"
 	],
 	"title": "Politics of Contemporary China"
 }

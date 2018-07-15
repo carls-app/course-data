@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151, 152, 153, 161, 162 or 165 or Chemistry 123 or 128",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -46,18 +43,9 @@
 	"summary": "Drawing on chemistry and physics principles, this course will focus on the relationship between the structure and physical properties of materials, how materials science can address environmental and energy challenges, and the technological and societal impacts of materials development. Topics to be covered will vary from year to year, but may include material life cycle assessment, traditional plastics and biodegradable alternatives, materials and technologies for solar energy conversion, and the role of materials in developing energy efficient buildings. Students who have taken Physics 260 may not take Environmental and Technology Studies 262.",
 	"synonym": "38319",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"ENTS2ENVSCI",
+		"ENTSCDES",
+		"SPECINTSUSTAIN"
 	],
 	"title": "Materials Science, Energy, and the Environment"
 }

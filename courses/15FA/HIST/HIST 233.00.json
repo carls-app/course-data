@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisites, but History 137, 138, or 204 will be helpful.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,42 +45,15 @@
 	"summary": "Heir to the Roman Empire, Byzantium is one of the most enduring and fascinating polities of the medieval world. Through a wide variety of written and visual evidence, we will examine key features of Byzantine history and culture such as the nature of imperial rule; piety and religious controversy; Byzantium's evolving relations with the Latin West, Armenia, the Slavic North, and the Dar al-Islam (the Abbasids and Seljuk and Ottoman Turks); economic life; and Byzantine social relations. Extra time may be required for group projects.",
 	"synonym": "41348",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"MARSSUPP",
+		"HISTISLAM",
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTANCNT/MDVL",
+		"HISTASIA",
+		"POSI-AREAS",
+		"MESTGRP1"
 	],
 	"title": "Cultures of Empire: Byzantium, 843-1453"
 }

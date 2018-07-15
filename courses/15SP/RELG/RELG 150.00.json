@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,42 +45,15 @@
 	"summary": "A survey of the origins and classical development of the major religious traditions of the Indian subcontinent. Primary attention will be given to the Hindu and Buddhist communities, but Islam and the Jain and Sikh traditions also are considered. Readings are drawn mainly from Indian sources in English translation.",
 	"synonym": "39324",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"SAST",
+		"RELGBUDDHSTTRAD",
+		"RELGHINDUTRAD",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
 	"title": "Religions of South Asia"
 }

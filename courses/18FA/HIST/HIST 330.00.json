@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -54,30 +45,12 @@
 	"summary": null,
 	"synonym": "50890",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTPREMODERN",
-			"name": "History Pre-Modern"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		}
+		"HISTANCNT/MDVL",
+		"MARSCAP",
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"HISTPREMODERN",
+		"RELGPERT"
 	],
 	"title": "Ideas Incarnate: Institutional Formation, Reform, and Governance in the Middle Ages"
 }

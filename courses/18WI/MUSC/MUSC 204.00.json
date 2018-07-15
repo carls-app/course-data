@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: The ability to read music in one clef",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LA",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

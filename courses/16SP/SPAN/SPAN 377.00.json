@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "In this course we will examine poetic experimentation in Spanish in relation to the major political and ideological trends that have shaped Latin American societies and cultures in the twentieth century. While focusing on the work of one major figure, we will read it in connection to the poetry of other authors. Some authors included will be Pablo Neruda, Cesar Vallejo, Nicanor Parra, Enrique Lihn, Ernesto Cardenal, Blanca Varela and Alejandra Pizarnik.",
 	"synonym": "42002",
 	"tags": [
-		{
-			"code": "SPAN300LEVEL",
-			"name": "Spanish 300 Level Requirements"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"SPAN300LEVEL",
+		"LTAMLIT",
+		"LTAM300LIT"
 	],
 	"title": "History and Subjectivity in Latin American Poetry"
 }

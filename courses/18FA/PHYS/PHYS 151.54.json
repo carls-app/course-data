@@ -39,14 +39,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 120 or 121 (completion or concurrent registration) and Physics 131, 132, 141 or 142 (completion or concurrent registration). Not open to students who have completed Physics 143 or 144 at Carleton.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -58,10 +52,7 @@
 	"summary": null,
 	"synonym": "51161",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
 	"title": "Introduction to Physics: Relativity and Particles & Lab"
 }

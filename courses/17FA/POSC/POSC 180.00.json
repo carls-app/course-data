@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -45,38 +39,14 @@
 	"summary": null,
 	"synonym": "49703",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"POSCELECTIVE",
+		"POSI-GDS2",
+		"AMSTTOPICAL3",
+		"ENTS2SCP",
+		"AMSTAMERWRLD",
+		"AMSTSAP",
+		"AMSTDAC",
+		"CCSTENCTR"
 	],
 	"title": "Global Politics & Local Communities"
 }

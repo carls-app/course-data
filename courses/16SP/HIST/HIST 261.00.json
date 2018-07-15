@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": "An overview of the period since 1774 to the present through an analysis of the interplay of various currents of Islam, nationhood, and modernity. We will have the advantage of studying this material in Istanbul, where many of these changes transpired, and we will make full use of the opportunities afforded by our location and incorporate visits to historical sites and museums into the structure of the class. We will focus on the multiple and contested meanings of \"nation,\" \"Islam,\" and \"modernity,\" and trace how political space itself was redefined in the transition from empire to national statehood.",
 	"synonym": "43875",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"HISTASIA",
+		"POSI-AREAS2"
 	],
 	"title": "Turkey Prog: Nations, Islams, and Modernities: Trnsfrmtn of the Ottoman Empire-Making of Middle East"
 }

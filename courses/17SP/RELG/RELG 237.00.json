@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,34 +39,13 @@
 	"summary": null,
 	"synonym": "46009",
 	"tags": [
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		}
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"SASTSUPPHI",
+		"RELGHINDUTRAD",
+		"RELGBUDDHSTTRAD"
 	],
 	"title": "Yoga: Religion, History, Practice"
 }

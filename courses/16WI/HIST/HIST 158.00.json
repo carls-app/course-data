@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,22 +39,10 @@
 	"summary": "How is the Cold War in East Asia related to the global Cold War? Many argue that Cold War came prematurely in East Asia and outlasts the collapse of the Berlin Wall. Students will examine evolving patterns of the region's engagement with global dimensions of war, diplomacy, and trade and conduct a case study (e.g., Roosevelt on China, Stalin on North Korea, Kennedy on Japan, Khrushchev and Nixon on China, or Bush on North Korea). Themes may be drawn from sports and pop culture or urban renewal projects in terms of post-colonial nation building, market fundamentalism, and new empire formation.",
 	"synonym": "42993",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"EASTSUPP",
+		"HISTASIA",
+		"POSI-AREAS",
+		"POSI-AREAS2"
 	],
 	"title": "Cold War in East Asia"
 }

@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,42 +39,15 @@
 	"summary": "This seminar will examine the speeches, writings, and life of Dr. Martin Luther King, Jr. Students will study King as an example of the responsible citizen envisioned by the theory expressed in",
 	"synonym": "48612",
 	"tags": [
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		},
-		{
-			"code": "AMSTDAC",
-			"name": "Amst Democracy Activism Class"
-		},
-		{
-			"code": "AMSTREI",
-			"name": "Amst Race Ethnicity Indigeneit"
-		}
+		"POSI-PLI2",
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"SPECINTSOCTHGHT",
+		"POSIELECTIVE",
+		"AFSTSI",
+		"AMSTDAC",
+		"AMSTREI"
 	],
 	"title": "Political Theory of Martin Luther King, Jr."
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "49389",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
 	"title": "French and Francophone Autofiction"
 }

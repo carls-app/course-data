@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,30 +39,12 @@
 	"summary": "This course examines the intersection of politics and culture in the public sphere in South Asia. We will look at the impact of British colonial rule, social hierarchies and caste, gender and the public sphere, race, religion and secularism. We'll also examine movements for independence, including Gandhian nationalism, left- and right-wing movements, and religious nationalism. Lastly, we will look at contemporary issues of popular culture, identity, gender, social justice, and militarism in the age of globalization. In addition to scholarly books and articles, course material includes music, poetry, journalism, popular Bollywood cinema and \"art films.\"",
 	"synonym": "41344",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"ASSTSOUTH",
+		"HISTASIA",
+		"POSI-AREAS2",
+		"POSIELECTIVE",
+		"ASSTHU",
+		"SASTSUPPHI"
 	],
 	"title": "Politics and Public Culture in Modern South Asia"
 }

@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: OCS India Program",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,14 +25,8 @@
 	"summary": null,
 	"synonym": "43549",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"HISTASIA",
+		"ASSTSOUTH"
 	],
 	"title": "India Program: History, Globalization, and Politics in Modern India"
 }

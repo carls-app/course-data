@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,38 +25,14 @@
 	"summary": null,
 	"synonym": "43531",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"FRSTCULT",
+		"EUSTOFFCAMP",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"FFSTLIT",
+		"CCSTGLOBAL",
+		"EUSTCNTRY",
+		"ENGLFORLIT"
 	],
 	"title": "Paris Program: Hybrid Paris"
 }

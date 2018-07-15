@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 217",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -48,18 +45,9 @@
 	"summary": null,
 	"synonym": "48750",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCBIOBEH",
-			"name": "Psyc Biologcl & Behavorl Proc"
-		}
+		"CGSCELECTIVE",
+		"PSYCCORE",
+		"PSYCBIOBEH"
 	],
 	"title": "Behavioral Neuroscience"
 }

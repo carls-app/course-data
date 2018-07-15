@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken Geology 100 or 120.; GEOL 110L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -48,14 +45,8 @@
 	"summary": "An introduction to the study of earth systems, physical processes operating on the earth, and the history of the earth. Field trips, including an all-day trip, and laboratories included.",
 	"synonym": "41973",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"ARCNPERT"
 	],
 	"title": "Introduction to Geology"
 }

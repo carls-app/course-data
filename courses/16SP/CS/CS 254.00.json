@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 111 and either Computer Science 202 or Mathematics 236",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,18 +43,9 @@
 	"summary": "An introduction to the theory of computation. What problems can and cannot be solved efficiently by computers? What problems cannot be solved by computers, period? Topics include formal models of computation, including finite-state automata, pushdown automata, and Turing machines; formal languages, including regular expressions and context-free grammars; computability and uncomputability; and computational complexity, particularly NP-completeness.",
 	"synonym": "42057",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"CGSCELECTIVE",
+		"LINGPERT",
+		"NEURELEC"
 	],
 	"title": "Computability and Complexity"
 }

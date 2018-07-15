@@ -33,10 +33,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
 	"size": {
@@ -48,22 +45,10 @@
 	"summary": null,
 	"synonym": "1982",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"CCSTBINARY",
+		"CCSTETHNIC",
+		"LITFORLANG"
 	],
 	"title": "Indian&Japanese Wmn Wrtng Abrd"
 }

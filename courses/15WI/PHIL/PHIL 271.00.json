@@ -27,18 +27,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +41,8 @@
 	"summary": "In ancient Greece philosophy was continuous with poetry. Nevertheless, the modern distinction between the two shapes the way ancient texts are studied: philosophers focus on arguments and concepts, whereas classicists focus on literary and cultural dimensions. This class (taught by a classicist and philosopher) integrates these approaches and asks the following: Are epic and tragic poetry interested in the same questions as philosophy? Were philosophical texts crafted to produce effects similar to those of epic or tragedy? Can dramatic poetry be philosophy? The course culminates in a student production of Plato's",
 	"synonym": "38523",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		},
-		{
-			"code": "CLASPERT",
-			"name": "Classics Pertinent"
-		}
+		"PHILCORE",
+		"CLASPERT"
 	],
 	"title": "Tragedy, Myth and Philosophy"
 }

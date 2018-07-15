@@ -31,18 +31,9 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,18 +45,9 @@
 	"summary": "This course presents economic theory on how society as a whole ranks and chooses between different alternatives. It delves into the realm of normative economics analyzing objectives society may want to pursue, mechanisms designed to reach those objectives, and the resulting welfare of individuals affected by the choices made. The theoretical tools discussed will be used to study different mechanisms of voting, redistributing income, government intervention, auctions, and trade. Among other things, students will be exposed to the Pareto criterion, Arrow's impossibility theorem, the Vickery-Clarke-Grove mechanism, the Coase theorem, utilitarianism, Rawlsian ethics, and welfare theorems.",
 	"synonym": "44929",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "PPOLSP",
-			"name": "Pub Pol Social Policy & Welfar"
-		}
+		"POECUPAPP",
+		"EDUCCLUSTER3",
+		"PPOLSP"
 	],
 	"title": "Economics of Welfare"
 }

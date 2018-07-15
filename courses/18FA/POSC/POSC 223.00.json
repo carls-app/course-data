@@ -28,18 +28,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IDS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -51,18 +42,9 @@
 	"summary": null,
 	"synonym": "50916",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSCELECTIVE"
 	],
 	"title": "Lab in Electoral Politics"
 }

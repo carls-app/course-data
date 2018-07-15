@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another Geology 100-level course.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,14 +46,8 @@
 	"summary": null,
 	"synonym": "49700",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"ARCNPERT"
 	],
 	"title": "Climate Change in Geology & Lab"
 }

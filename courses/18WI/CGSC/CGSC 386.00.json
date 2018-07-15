@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 250, Educational Studies 234 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -48,22 +45,10 @@
 	"summary": "An examination of recent literature on how adolescents develop their value system, explore their goals, begin to make life-framing decision, establish new relationships, and discover answers to the question \"Who am I?\" Course readings will involve primary literature, and the course is discussion-based.",
 	"synonym": "48707",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"EDUCCLUSTER1",
+		"AMSTTOPICAL3",
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
 	"title": "Adolescent Cognitive Development: Developing an Identity and Life Plans"
 }

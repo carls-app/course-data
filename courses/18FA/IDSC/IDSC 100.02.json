@@ -33,18 +33,9 @@
 	},
 	"prerequisites": "Prerequisite: Requires concurrent registration in IDSC 198",
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Russian 205 or permission of the instructor",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "A study of Chekhov's short fiction, both as an object of literary analysis and in the interpretation of critics, stage directors and filmmakers of the twentieth century. We will also examine the continuation of the Chekhovian tradition in the works of writers such as Bunin, Petrushevskaia and Pietsukh. Conducted in Russian.",
 	"synonym": "52435",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
 	"title": "Chekhov"
 }

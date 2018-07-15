@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: One introductory (100-level) Geology course.; GEOL 220L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

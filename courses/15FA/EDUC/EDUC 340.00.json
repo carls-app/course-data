@@ -28,14 +28,8 @@
 	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,18 +41,9 @@
 	"summary": "This course explores the important role that public schools have played in the American national imagination as the way to socialize students about what it means to be American and to prepare them to participate as citizens in a democracy. Focusing on two periods of high rates of immigration into the United States (1890-1920 and 1965-present), the course examines how public schools have attempted to Americanize newly arrived immigrant children as well as to socialize racial minority children into the American mainstream. While most of the readings will focus on urban schools, the course will also consider the growing immigrant populations in rural schools through readings and applied ACE projects.",
 	"synonym": "41182",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"EDUCCLUSTER2",
+		"AMSTTOPICAL3",
+		"AFAMPERT"
 	],
 	"title": "Race, Immigration, and Schools"
 }

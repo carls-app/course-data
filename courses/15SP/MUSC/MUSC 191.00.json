@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "This ensemble focuses on the 15-key Shona (Zimbabwe) karimba (sometimes called a \"thumb piano\"). Students learn the fundamentals of solo and group playing on the karimba and study selections from the instrument's traditional repertoire. No musical training or experience is necessary.",
 	"synonym": "40501",
 	"tags": [
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMARTSPRAC"
 	],
 	"title": "African Karimba Ensemble"
 }

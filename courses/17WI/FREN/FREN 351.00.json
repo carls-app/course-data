@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": null,
 	"synonym": "45726",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"MARSCORE",
+		"MARSCAP",
+		"EUSTCNTRY",
+		"MARSSUPP",
+		"FRSTELEC",
+		"FFSTLIT",
+		"ENGLFORLIT"
 	],
 	"title": "Love, War and Monsters in Renaissance France"
 }

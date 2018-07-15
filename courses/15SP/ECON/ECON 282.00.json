@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "The main objective of this course is to investigate various aspects of modern portfolio theory and develop basic techniques for applying this theoretical framework to real-world data. Topics covered include portfolio and asset pricing theories, and derivatives with the primary focus on option pricing. The class will develop and actively use univariate calculus for theory-building and statistical techniques for data analysis.",
 	"synonym": "39197",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"POECUPAPP"
 	],
 	"title": "The Theory of Investment Finance"
 }

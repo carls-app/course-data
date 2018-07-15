@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,22 +25,10 @@
 	"summary": "This course examines the extraordinary achievement of Japanese cinema, from the classic films of Mizoguchi, Ozu, and Kurosawa to the pop cinema of Kitano and the phenomenon of anime. The films will be studied for their aesthetic, cultural, and auteur contexts. Particular attention will be paid to the relationship of the film to traditional arts, culture and society.",
 	"synonym": "38163",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"CAMSELECTIVE",
+		"EASTSUPP",
+		"ASSTEAST",
+		"ASSTAL"
 	],
 	"title": "New Media in Japan: Japanese Cinema"
 }

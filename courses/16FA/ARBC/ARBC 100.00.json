@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR1",
+		"AI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": "The encounter between Arabs and Westerners has been marked by its fair share of sorrow and suspicion. In this seminar we will read literary works by Arab authors written over approximately 1000 years--from the Crusades, the height of European imperialism, and on into the age of Iraq, Obama and ISIS. Through our readings and discussions, we will ask along with Arab authors: Is conflict between Arabs and Westerners the inevitable and unbridgeable result of differing world-views, religions and cultures? Are differences just a result of poor communication? Or is this \"cultural conflict\" something that can be understood historically?",
 	"synonym": "45736",
 	"tags": [
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		},
-		{
-			"code": "MESTCORE",
-			"name": "Middle East Studies Foundation"
-		}
+		"MESTGRP2",
+		"MESTCORE"
 	],
 	"title": "Arabs Encountering the West"
 }

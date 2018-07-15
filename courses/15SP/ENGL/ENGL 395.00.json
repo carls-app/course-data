@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "Stories of virtue in distress and innocence ruined preoccupied English novelists of the eighteenth and nineteenth centuries. This course will focus on the English seduction novel, considering the following questions: What was the allure of the seduction plot? What does it reveal about sexual relations, gender, power, and class during this period? How does the seduction plot address and provoke concerns about novel-reading itself during a time when the novel was considered both an instrument of education and an agent of moral corruption? Authors include: Eliza Haywood, Samuel Richardson, Choderlos de Laclos, Thomas Hardy, and Bram Stoker.",
 	"synonym": "37981",
 	"tags": [
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGLADVSEM",
+		"ENGLHE2",
+		"ENGLT1"
 	],
 	"title": "Seductive Fictions"
 }

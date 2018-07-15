@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "This course will explore the history and form of the British novel, tracing its development from the eighteenth century to the present. Among the questions that we will consider: What are our expectations for novels, and what makes them such a popular form of entertainment? How did a genre once considered a source of moral corruption become a legitimate, even dominant, literary form? Authors will likely include: Daniel Defoe, Jane Austen, Charlotte Bronte, Charles Dickens, Virginia Woolf, and Jean Rhys.",
 	"synonym": "41223",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGLF",
+		"ENGLT1"
 	],
 	"title": "Introduction to the Novel"
 }

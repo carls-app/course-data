@@ -23,14 +23,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -42,10 +36,7 @@
 	"summary": "Students will participate in the design and replication of social psychological studies related to social cognition. This course requires concurrent registration in Psychology 258. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "45963",
 	"tags": [
-		{
-			"code": "PSYCLAB",
-			"name": "Psyc Laboratory"
-		}
+		"PSYCLAB"
 	],
 	"title": "Laboratory Research Methods in Social Cognition"
 }

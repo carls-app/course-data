@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Cognitive Science 100 or 130",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "An examination of the way people think and reason, both when given formal laboratory tasks and when facing problems and decisions in everyday life. Students consider their own reasoning and decision making through course exercises. Topics include models of formal reasoning, decision making, heuristics and biases in thinking and problem-solving, moral reasoning, improving skills of higher order cognition.",
 	"synonym": "38004",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"EDUCCLUSTER1",
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
 	"title": "Thinking, Reasoning, and Decision Making"
 }

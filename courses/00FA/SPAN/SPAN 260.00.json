@@ -43,30 +43,12 @@
 	"summary": null,
 	"synonym": "1789",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"CCSTREGIONAL",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"PENINLIT",
+		"LTAMELECTIVE",
+		"LTAMLIT"
 	],
 	"title": "Fictional Autobios in Spain"
 }

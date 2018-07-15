@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Previous completion or concurrent registration in Mathematics 121. Not open to students who have completed Physics 131, 132, 141, 142, 144, 145 or 151 at Carleton. Requires concurrent registration in PHYS 143L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": null,
 	"synonym": "45771",
 	"tags": [
-		{
-			"code": "STEMPHYS",
-			"name": "Stem Physics Requirement"
-		}
+		"STEMPHYS"
 	],
 	"title": "Physical Systems: Mechanics and Relativity"
 }

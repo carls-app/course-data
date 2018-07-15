@@ -31,10 +31,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -46,18 +43,9 @@
 	"summary": "This course examines the theories and techniques of sound design for film and video. Students will learn the basics of audio recording, sound editing and multi-track sound design specifically for the moving image. The goal of the course is a greater understanding of the practices and concepts associated with soundtrack development through projects using recording equipment and the digital audio workstation for editing and mixing.",
 	"synonym": "38164",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSSTUPROD",
+		"CAMSELECPROD"
 	],
 	"title": "Sound Design"
 }

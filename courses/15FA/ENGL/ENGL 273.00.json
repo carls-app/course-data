@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: One prior 6 credit English course or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "This writing workshop allows students to explore the craft of memoir through intensive writing, critique, and revision in order to create their own memoir. To develop their skills, students will read and discuss memoirs in varied forms (including visual arts), and consider the competing demands of truth, narrative, fiction, and non-fiction in this rich and complex genre.",
 	"synonym": "41215",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Writing Memoir"
 }

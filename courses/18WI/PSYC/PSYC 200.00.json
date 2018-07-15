@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110; Requires concurrent registration in Psychology 201",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "The course considers the role of measurement and data analysis focused on behavioral sciences. Various forms of measurement and standards for the evaluation of measures are explored. Students learn how to summarize, organize, and evaluate data using a variety of techniques that are applicable to research in psychology and other disciplines. Among the analyses discussed and applied are tests of means, various forms of analysis of variance, correlation and regression, planned and post-hoc comparisons, as well as various non-parametric tests. Research design is also explored.",
 	"synonym": "48747",
 	"tags": [
-		{
-			"code": "PSYCMETHODS",
-			"name": "Psychology Methods"
-		}
+		"PSYCMETHODS"
 	],
 	"title": "Measurement and Data Analysis in Psychology"
 }

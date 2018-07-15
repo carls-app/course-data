@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one additional 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,30 +39,12 @@
 	"summary": "We will get lost in the funhouse of postmodern fiction, in whose mirrored rooms we will encounter Maxwell's Demon, a depressed Krazy Kat, and the icy imagination of the King of Zembla. (Time will be budgeted for side-excursions into pastiche, dreck, and indeterminacy.) Authors read will include Nabokov, Pynchon, Barthelme, and DeLillo.",
 	"synonym": "45561",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "AMSTSAP",
-			"name": "Amst Space and Place"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"ENGLHE3",
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"AMSTSAP",
+		"AMSTPCC"
 	],
 	"title": "Postmodern American Fiction"
 }

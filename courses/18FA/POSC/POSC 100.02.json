@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		}
+		"WR1",
+		"AI"
 	],
 	"scnc": null,
 	"size": {
@@ -47,18 +41,9 @@
 	"summary": null,
 	"synonym": "52463",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CAMSXDEPT",
+		"POSI-LPS2",
+		"POSIELECTIVE"
 	],
 	"title": "American Elections of 2018"
 }

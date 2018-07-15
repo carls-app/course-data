@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 200-level course or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "This course examines the main aspects of social change in the area formerly covered by the medieval empire of Mali, through anthropological texts, oral narratives, novels, films and both traditional and modern popular music. Some of the writers, film directors and musicians who will be studied are: Laye Camara, Amadou Hampaté Bâ, Souleymane Cissé, Cheick Oumar Sissoko, Salif Keita and others. Conducted in French. Evening films.",
 	"synonym": "39588",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"CCSTBINARY",
+		"EUSTCNTRY",
+		"FRSTELEC",
+		"AFAMDISTROAL",
+		"AFAMARTSPRAC",
+		"FRSTELECAL"
 	],
 	"title": "The Mande of West Africa: A Tradition of Change"
 }

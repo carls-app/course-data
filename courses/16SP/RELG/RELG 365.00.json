@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -41,34 +38,13 @@
 	"summary": "Drawing from selected traditional texts and modern analyses, we will investigate the human encounter with ultimate reality. Questions we will consider include: What is the definition and typology of mysticism? Is mystical experience truly ineffable? What are its modes of expression? Do all mystics experience the same reality? Is unmediated experience possible? Do mystical experiences show us the truth? Is there a place for reason on a mystical path? What is the role of the body and brain in mystical practice? Does mystical experience make us good? Does it free us? Are mystics critics of institutional religion or social injustice?",
 	"synonym": "41940",
 	"tags": [
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		}
+		"RELGJEWISHTRAD",
+		"RELGCHRISTNTRAD",
+		"RELGBUDDHSTTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL",
+		"EASTSUPP",
+		"SAST"
 	],
 	"title": "Mysticism"
 }

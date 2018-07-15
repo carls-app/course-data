@@ -32,18 +32,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -55,14 +46,8 @@
 	"summary": "The First World War shaped the world that we recognize as ours, creating new ways of remembering and forgetting as well as new forms of artistic expression. Writers shattered poetic forms and visual artists traditional modes of representation in order to register the previously unimaginable horrors of mechanized trench warfare and industrial-scale slaughter. Focusing primarily on poetry we will follow the arc of this aesthetic engagement from both British and German perspectives, starting with the late-Romantic musings of Rupert Brooke, through the haunting poems of Wilfred Owen, on to the various short-lived movements that marked the birth of modernism.",
 	"synonym": "41209",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"EUSTTRANNATL",
+		"ENGLF"
 	],
 	"title": "The \"Great War\" and the Literary Imagination"
 }

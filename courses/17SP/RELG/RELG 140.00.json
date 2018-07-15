@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,46 +45,16 @@
 	"summary": "This course explores the colorful, contested history of religion in American culture. While surveying the main contours of religion in the United States from the colonial era to the present, the course concentrates on a series of historical moments that reveal tensions between a quest for a (Protestant) American consensus and an abiding religious and cultural pluralism.",
 	"synonym": "45442",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		},
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		},
-		{
-			"code": "AMSTSURV1",
-			"name": "American Studies Survey 1"
-		},
-		{
-			"code": "AMSTPCC",
-			"name": "Amst Prodctn Consmptn Culture"
-		}
+		"EDUCCLUSTER2",
+		"AMMUGROUP1",
+		"AMSTSURVEY1",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"RELGAMERTRAD",
+		"HISTPERT",
+		"AMSTAMERWRLD",
+		"AMSTSURV1",
+		"AMSTPCC"
 	],
 	"title": "Religion and American Culture"
 }

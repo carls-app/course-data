@@ -12,18 +12,9 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -35,10 +26,7 @@
 	"summary": null,
 	"synonym": "46833",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
 	"title": "Berlin Program: The World's a Stage -- Theater in Berlin"
 }

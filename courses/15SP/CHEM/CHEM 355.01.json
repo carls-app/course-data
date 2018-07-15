@@ -30,14 +30,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 354",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
 	"size": {

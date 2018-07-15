@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 and concurrent registration in Psychology 256",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

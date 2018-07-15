@@ -21,14 +21,8 @@
 	},
 	"prerequisites": "Prerequisite: Permission of instructor based on portfolio submission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": true,
 	"size": {
@@ -40,10 +34,7 @@
 	"summary": "An advanced course in the writing of fiction. Students will write three to four short stories or novel chapters which will be read and critiqued by the class. Students wishing to register for the course must first submit a portfolio of creative writing (typically a short story) to the instructor during Registration (see the English Department's website for full instructions.) Final enrollment is based on the quality of the submitted work.",
 	"synonym": "37979",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
 	"title": "Advanced Fiction Workshop"
 }

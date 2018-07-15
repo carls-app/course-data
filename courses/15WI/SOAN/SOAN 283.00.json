@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,34 +44,13 @@
 	"summary": "Immigration has always been a defining feature of American society, yet in European countries it has also been raising a number of questions about national identity, citizenship, belonging and rights. Who are contemporary immigrants in the United States and Europe? How are they received in host societies? How do they participate in and become incorporated into the host society? What ties do they maintain to their countries of origin? How do policies respond to and shape immigrants and immigration? In this course, we will consider these questions and more from the perspectives of immigrants as well as host societies.",
 	"synonym": "40128",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"POSI-DSS2",
+		"SPECINTSOCTHGHT",
+		"EUSTTRANNATL",
+		"POSI-DSS",
+		"AMMUGROUP3",
+		"AMSTTOPICAL2",
+		"EDUCCLUSTER2"
 	],
 	"title": "Immigration and Immigrants in Europe and the United States"
 }

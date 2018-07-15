@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "52266",
 	"tags": [
-		{
-			"code": "AFSTSURV",
-			"name": "Africana Studies Survey Course"
-		},
-		{
-			"code": "AFSTCORE",
-			"name": "Africana Studies Core"
-		}
+		"AFSTSURV",
+		"AFSTCORE"
 	],
 	"title": "Introduction to Africana Studies"
 }

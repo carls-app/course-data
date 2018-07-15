@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "Students will learn the basics of MIDI and Digital Audio programming using C++. In the MIDI portion of the course, you'll learn to record, play, and transform MIDI data. You'll learn to read, write, and play standard MIDI files. During the Digital Audio portion of the course, you'll learn the basics of audio synthesis: oscillators, envelopes, filters, amplifiers, and FFT analyses. Weekly homework assignments and two major group projects.",
 	"synonym": "43416",
 	"tags": [
-		{
-			"code": "CSELECT",
-			"name": "CS Elective"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CSELECT",
+		"CAMSELECTIVE"
 	],
 	"title": "Audio Programming"
 }

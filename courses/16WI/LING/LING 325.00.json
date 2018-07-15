@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
 	"size": {
@@ -46,10 +43,7 @@
 	"summary": "In this course we examine, with the help of a native speaker consultant, the syntax of a language deliberately chosen for its being unfamiliar to all the participants. Our goals will be to construct a coherent and theoretically respectable account of principles of the grammar of this language, and to understand what our account reveals about the structure of human language generally. Each student will investigate some aspect of the syntax of the language in depth, culminating in a class presentation and research report.",
 	"synonym": "41430",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
 	"title": "Syntax of an Unfamiliar Language"
 }

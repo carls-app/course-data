@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,42 +45,15 @@
 	"summary": "This course will explore the intersection of religion, sex, and power, focusing on Asian religions. Key questions include: In what ways do religions normalize certain constructions of sex, gender, and sexuality while marking others deviant and unnatural? How do they teach us to perform (and sometimes to overcome) \"masculinity\" or \"femininity\"? We will probe these questions by studying both traditional and contemporary examples--such as the erotic discourse of the Kama Sutra, concepts of \"Women's Hell\" in medieval East Asia, attitudes toward abortion in Buddhism, Confucian-influenced practice of foot binding, homosexuality in Japanese Buddhism, and queer Buddhists in North America.",
 	"synonym": "39351",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"EASTSUPP",
+		"ASSTSOUTH",
+		"SPECINTETHICS",
+		"RELGTHSOCLPWR",
+		"ASSTHU",
+		"ASSTEAST",
+		"RELGBUDDHSTTRAD",
+		"WGSTADDL",
+		"SASTSUPPHI"
 	],
 	"title": "The Politics of Sex in Asian Religion"
 }

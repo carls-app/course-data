@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 250 or Educational Studies 234 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -43,30 +40,12 @@
 	"summary": "We will consider the development of memory, perception, and attention, as well as concepts and categorization, problem-solving and thinking, during the years from two to six. We will focus particularly on how these developments are reflected in children's spontaneous behavior and play. Course requirements will include readings, class discussions, short papers, a final project, and regular observation of preschoolers or kindergarteners.",
 	"synonym": "38005",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		},
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"EDUCCLUSTER1",
+		"AMSTTOPICAL3",
+		"CGSCELECTIVE",
+		"PSYCPERT",
+		"PSYCSEMINAR",
+		"PSYCUPPERLEVEL"
 	],
 	"title": "Seminar in Developmental Psychology: Cognitive Development During the Preschool Years"
 }

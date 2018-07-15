@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,22 +41,10 @@
 	"summary": null,
 	"synonym": "45656",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"ASSTEAST",
+		"ASSTAL",
+		"ASSTHU",
+		"ASSTSS"
 	],
 	"title": "Modern Japanese Literature and Manga in Translation"
 }

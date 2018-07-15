@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and either Biology 240 or 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -43,10 +40,7 @@
 	"summary": "Microbes are the most abundant organisms on earth, and microbial pathogens have caused human and plant disease epidemics worldwide. This course will focus upon the pathogenic strategy of a variety of well-studied microbes in order to illustrate our understanding of the molecular and cellular nature of microbial disease. We will analyze current and seminal papers in the primary literature focusing on mechanisms employed by microbes to attack hosts.",
 	"synonym": "38564",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
 	"title": "Seminar: Microbial Pathology"
 }

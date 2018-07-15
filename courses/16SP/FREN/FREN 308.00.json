@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: One French course beyond French 204 or instructor permissoin",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,34 +46,13 @@
 	"summary": "This course will look at the presence of France and its capital Paris in the imaginary landscape of a number of prominent African writers, filmmakers and musicians such as Bernard Dadié (Côte d' Ivoire), Ousmane Sembène (Senegal), Calixthe Beyala (Cameroun), Alain Mabanckou (Congo-Brazzaville), Salif Keïta (Mali) and others. The history of Franco-African relations will be used as a background for our analysis of these works. Conducted in French.",
 	"synonym": "42031",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"FRSTELEC",
+		"AFAMLITARTANLYS",
+		"AFAMDISTROAL",
+		"CCSTETHNIC",
+		"CCSTGLOBAL",
+		"FFSTLIT",
+		"AFSTLA"
 	],
 	"title": "France and the African Imagination"
 }

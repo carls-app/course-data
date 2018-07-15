@@ -33,10 +33,7 @@
 	},
 	"prerequisites": "Prerequisite: Any one Art History course or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
 	"size": {
@@ -48,10 +45,7 @@
 	"summary": null,
 	"synonym": "50984",
 	"tags": [
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		}
+		"ARTHPERT"
 	],
 	"title": "Curatorial Seminar"
 }

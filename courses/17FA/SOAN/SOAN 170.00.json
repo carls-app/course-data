@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "49289",
 	"tags": [
-		{
-			"code": "AMSTAMERWRLD",
-			"name": "Amst America in the World"
-		}
+		"AMSTAMERWRLD"
 	],
 	"title": "Investigating (In)Equality: Comparative Welfare States"
 }

@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 is recommended but not required",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": "This course is intended to be a research-based examination of close relationships. The goal will be to analyze why and how people think, feel, and behave the way they do toward close others, focusing primarily on romantic partners, but also incorporating research and theory on friendships, family relationships, and workplace relationships. By the end, students will have have an evidence-based understanding of 1) the underlying motivations and goals people bring into various relationships, 2) the rules and norms that seem to govern different types of relationships, 3) the cultural differences in relationship expectations, 4) the positive and negative consequences that relationships can have on people's wellness, and 5) the methods we use as a science to understand each of these four areas.",
 	"synonym": "40400",
 	"tags": [
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		},
-		{
-			"code": "PSYCSDPCH",
-			"name": "Psyc Soc,Deve,Pers,Clin & Hea"
-		}
+		"PSYCCORE",
+		"PSYCSDPCH"
 	],
 	"title": "Interpersonal Relationships"
 }

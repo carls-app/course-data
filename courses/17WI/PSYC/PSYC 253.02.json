@@ -23,14 +23,8 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 252",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -42,10 +36,7 @@
 	"summary": "A laboratory to be taken concurrently with Psychology 252, to undertake research on topics in personality.",
 	"synonym": "45935",
 	"tags": [
-		{
-			"code": "PSYCLAB",
-			"name": "Psyc Laboratory"
-		}
+		"PSYCLAB"
 	],
 	"title": "Research Methods in Personality Laboratory"
 }

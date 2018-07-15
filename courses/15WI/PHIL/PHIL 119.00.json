@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "Considered in the context of the universe humankind seems vanishingly insignificant. The entire history of humankind is but a blip on the map of space and time. Moreover, each of our lives is a blip on that blip. So what is the point of it all? In this course, we will look at the notion of \"meaning\" as it relates to human life, the universe, and the existence of God; whether death is something we should be afraid of; and the connections, if any, between happiness, morality and meaning.",
 	"synonym": "38519",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
 	"title": "Life and Death"
 }

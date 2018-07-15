@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Math 115, Psychology 200/201 or Math 275.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": null,
 	"synonym": "45637",
 	"tags": [
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ENTSQUANTV"
 	],
 	"title": "Introduction to Statistics"
 }

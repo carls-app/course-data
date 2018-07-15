@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,26 +40,11 @@
 	"summary": "Buddha, \"the awakened,\" is the ideal being--and state of being--in all Buddhist traditions. This course will explore the contours of the Buddha-ideal as revealed in legendary narratives, devotional poems, ritual texts, visionary accounts, philosophical treatises, meditation manuals, and artistic representations. We will draw primarily on classical South Asian and Tibetan sources from the Theravada, Mahayana, and Tantric traditions, but also will consider East Asian (e.g., Pure Land and Zen) conceptions of Buddha and modern reinterpretations of the idea. In addition, we will compare Buddha with the \"ideal being\" of other traditions, e.g., Brahman, the Dao, and God.",
 	"synonym": "48952",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "SASTSUPPHI",
-			"name": "SAST Supprtng Humanities"
-		}
+		"ASSTHU",
+		"CCSTGLOBAL",
+		"ASSTSOUTH",
+		"RELGBUDDHSTTRAD",
+		"SASTSUPPHI"
 	],
 	"title": "Buddha"
 }

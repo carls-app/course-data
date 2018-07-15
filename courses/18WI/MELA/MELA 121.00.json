@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,18 +46,9 @@
 	"summary": null,
 	"synonym": "48640",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "MESTCORE",
-			"name": "Middle East Studies Foundation"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"JDSTPERT",
+		"MESTCORE",
+		"CAMSXDEPT"
 	],
 	"title": "Middle East Perspectives in Israeli and Palestinian Literature and Film"
 }

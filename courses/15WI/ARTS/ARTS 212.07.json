@@ -12,10 +12,7 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: Studio Art 110 or 113",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -27,14 +24,8 @@
 	"summary": "This course involves directed drawing in bound sketchbooks, using a variety of drawing media, and requires on-going, self-directed drawing in visual journals. Subjects will include landscape, figure, portraits, and nature study. The course will require some hiking in rugged areas.",
 	"synonym": "38026",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSLPSCP"
 	],
 	"title": "Studio Art Seminar in the South Pacific: Mixed-Media Drawing"
 }

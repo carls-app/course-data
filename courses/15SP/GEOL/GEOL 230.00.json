@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: 100-level Geology course or an introductory Biology course, or instructor permission; Concurrent registration in Geology 230L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {

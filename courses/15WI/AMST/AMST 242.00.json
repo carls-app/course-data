@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -45,10 +39,7 @@
 	"summary": "How are we socially conditioned to see? In an age of self documentation, how do images construct individual and collective identities? This course is a study in visual culture and a practice in \"unseeing,\" or rethinking the way we look at images as artifacts of historical, political, and social discourse. It traces the cultural work of images throughout nineteenth- and twentieth century U.S. history by focusing on three types: postcards, photographs, and cartoons. Working with the Carleton archives, this course introduces students to interdisciplinary research by exploring how American studies scholars use and redefine visual archives in the twenty-first century.",
 	"synonym": "40107",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
 	"title": "Unseen Evidence: Images and the Archive in American Studies"
 }

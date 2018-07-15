@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -47,18 +41,9 @@
 	"summary": null,
 	"synonym": "52470",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "RUSSIANPERT",
-			"name": "Russian Pertinent"
-		}
+		"CAMSELECTIVE",
+		"EUSTCNTRY",
+		"RUSSIANPERT"
 	],
 	"title": "Russian and Soviet Film in Context"
 }

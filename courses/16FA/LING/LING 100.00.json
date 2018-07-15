@@ -33,14 +33,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
 	"size": {
@@ -52,10 +46,7 @@
 	"summary": "We've all been taught that nouns are people, places, and things. Yet, these seemingly simple linguistic objects are surprisingly complex. For instance, languages vary in what information (e.g., case, gender, person, number) nouns display. Even within a single language, the form of a noun may change depending on its function within a sentence or its function within a conversation. This course uses contemporary linguistic theories to account for the many varied forms of nouns throughout the world's languages. No familiarity with languages other than English is required.",
 	"synonym": "45613",
 	"tags": [
-		{
-			"code": "LINGCORE",
-			"name": "Linguistics Core Courses"
-		}
+		"LINGCORE"
 	],
 	"title": "The Noun"
 }

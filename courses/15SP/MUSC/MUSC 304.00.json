@@ -26,10 +26,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -41,14 +38,8 @@
 	"summary": "This course combines analysis of popular songs from various idioms with practical songwriting workshops. Songs from Tin Pan Alley to rock will serve as models illustrating principles of musical design and lyric writing. These, in turn, will inform students' creative efforts developed through a series of writing assignments leading ultimately to original songs.",
 	"synonym": "39988",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMMUGROUP2",
+		"AMSTTOPICAL1"
 	],
 	"title": "Songwriters and Songwriting"
 }

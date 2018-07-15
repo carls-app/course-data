@@ -26,18 +26,9 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 required, Psychology 256 or 258 recommended",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -49,18 +40,9 @@
 	"summary": null,
 	"synonym": "45910",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"WGSTADDL",
+		"PSYCSEMINAR",
+		"PSYCUPPERLEVEL"
 	],
 	"title": "The Social Psychology of Gender: Playing by the \"Gender\" Rules"
 }

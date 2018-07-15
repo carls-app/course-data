@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,34 +25,13 @@
 	"summary": "In this course, students will explore the historical, cultural, social, and religious traces of Islam as they have been woven over time into the modern fabric of French society. Through images drawn from film, photography, television, and museum displays, they will discover the important role this cultural contact zone has played in the French experience. The course will take advantage of the resources of the city of Paris and will include excursions to museums as well as cultural and religious centers.",
 	"synonym": "42025",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FFSTSOCSCI",
-			"name": "FFST Social Sci Conc"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"FRSTCULT",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"EUSTOFFCAMP",
+		"FFSTSOCSCI",
+		"CAMSXDEPT",
+		"ENGLFORLIT"
 	],
 	"title": "Paris Program: Representations of Islam in France"
 }

@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 121 (completion or concurrent registration) and strong preparation in Physics 131.; Concurrent registration in Physics 141L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

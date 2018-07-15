@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or 207",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -52,22 +46,10 @@
 	"summary": null,
 	"synonym": "45244",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"SPAN204-219",
+		"PENINLIT",
+		"EUSTCNTRY",
+		"CAMSXDEPT"
 	],
 	"title": "The Contemporary Spanish Fictional Essay"
 }

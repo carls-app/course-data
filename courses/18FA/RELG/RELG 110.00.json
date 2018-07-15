@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -49,10 +40,7 @@
 	"summary": null,
 	"synonym": "52117",
 	"tags": [
-		{
-			"code": "CCSTSEEING",
-			"name": "Ccst Seeing & Being Cross Cult"
-		}
+		"CCSTSEEING"
 	],
 	"title": "Understanding Religion"
 }

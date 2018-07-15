@@ -26,10 +26,7 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
 	"size": {
@@ -41,18 +38,9 @@
 	"summary": "This course introduces students to the art of motion picture editing by combining theoretical and aesthetic study with hands-on creative practice on non-linear digital video editing systems. We explore graphic, temporal, spatial, rhythmic and aural relationships in a variety of moving image forms ranging from classical narrative continuity and documentary storytelling to experimental expressionism. Underscoring the strong links between concept, direction, shooting, and editing, this course examines the close ties between production and post-production. Through class critique and the production of short montage exercises and editing assignments, students develop expressive techniques and proficiency in basic video and sound editing and post-production workflow.",
 	"synonym": "42134",
 	"tags": [
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSSTUPROD",
+		"CAMSELECPROD",
+		"CAMSELECTIVE"
 	],
 	"title": "Digital Editing Workshop"
 }

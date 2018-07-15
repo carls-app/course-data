@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,30 +44,12 @@
 	"summary": "This class is an overview of France's social, cultural, and political history from 1939 onwards. The core units of this class (WWII, decolonization, May 1968, the Women's liberation movement, the rise of the National Front, globalization, and immigration) will be studied through their comic representations. Sources for this class will include historical, political, literary and journalistic texts as well as photographs, paintings, videos, blogs, and music. The contrast between comical and non-comical texts and objects will highlight the uses and functions of humor in communicating about history, and illustrate the impact of comic discourses in everyday culture. In French.",
 	"synonym": "42972",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"EUSTCNTRY",
+		"CCSTETHNIC",
+		"FRSTCULT",
+		"FFSTLIT",
+		"FRSTELEC",
+		"ENGLFORLIT"
 	],
 	"title": "Contemporary France and Humor"
 }

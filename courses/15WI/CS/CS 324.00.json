@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201, additionally, Computer Science 202 or Mathematics 236 strongly recommended",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "How does Google always understand what it is you're looking for? How does Amazon.com figure out what items you might be interested in buying? How can categories of similar politicians be identified, based on their voting patterns? These questions can be answered via data mining, a field of study at the crossroads of artificial intelligence, database systems, and statistics. Data mining concerns itself with the goal of getting a computer to learn or discover patterns, especially those found within large datasets. We'll focus on techniques such as classification, clustering, association rules, web mining, collaborative filtering, and others.",
 	"synonym": "38311",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
 	"title": "Data Mining"
 }

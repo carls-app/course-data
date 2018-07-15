@@ -33,14 +33,8 @@
 	},
 	"prerequisites": "Prerequisite: Sophomore standing or higher",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

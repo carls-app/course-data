@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -46,26 +43,11 @@
 	"summary": null,
 	"synonym": "47677",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "BIOLORGANISMIC",
-			"name": "Biol Organismic"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"NEURELEC",
+		"ENTS2ENVSCI",
+		"ENTSCDES",
+		"BIOLORGANISMIC",
+		"BIOLELECTIVE"
 	],
 	"title": "Environmental Animal Physiology"
 }

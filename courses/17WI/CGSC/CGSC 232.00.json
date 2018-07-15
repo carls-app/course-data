@@ -34,18 +34,9 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110, Cognitive Science 100, Cognitive Science 130 or instructor permission. Requires concurrent registration in Cognitive Science 233. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS req",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -57,26 +48,11 @@
 	"summary": null,
 	"synonym": "45500",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "PSYCCGST",
-			"name": "Psychology Cognitive Studies"
-		},
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "LINGREL",
-			"name": "Linguistics Related Field"
-		},
-		{
-			"code": "PSYCCORE",
-			"name": "Psychology Core"
-		}
+		"EDUCCLUSTER1",
+		"PSYCCGST",
+		"CGSCCORE",
+		"LINGREL",
+		"PSYCCORE"
 	],
 	"title": "Cognitive Processes"
 }

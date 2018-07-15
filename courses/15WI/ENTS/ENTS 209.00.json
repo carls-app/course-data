@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "In this course, students will pursue projects based in environmental science and aimed at public audiences. Forms may include grant proposals, articles for the popular press, talks aimed at peer scientists, the general public, or school groups, and posters for various audiences. In all cases, purpose, audience, and form will be carefully considered for effective communication of science. Students can expect frequent revision, assiduous peer review responsibilities, and presentation of individual projects orally and in more than one form of writing.",
 	"synonym": "38316",
 	"tags": [
-		{
-			"code": "PPOLEP",
-			"name": "Pub Pol Env Pol & Sustainablty"
-		}
+		"PPOLEP"
 	],
 	"title": "Public Rhetoric and Environmental Science"
 }

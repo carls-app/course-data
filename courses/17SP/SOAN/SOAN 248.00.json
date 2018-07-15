@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,14 +39,8 @@
 	"summary": null,
 	"synonym": "46819",
 	"tags": [
-		{
-			"code": "CCSTC",
-			"name": "CCST Comparative"
-		},
-		{
-			"code": "PPOLFP",
-			"name": "Pub Pol Forgn Pol & Security"
-		}
+		"CCSTC",
+		"PPOLFP"
 	],
 	"title": "Genocide: An Anthropological Perspective"
 }

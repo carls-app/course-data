@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -50,18 +44,9 @@
 	"summary": "An examination of the political, social, and cultural history of Central Europe from 1848 to the present day. We will explore the evolution of state and civil society in the multicultural/multinational regions of the present-day Czech Republic, Slovakia, Poland, Hungary, as well as eastern Germany and Austria. Much of the course will focus on the common experiences of authoritarianism, anti-Semitism, fascism/Nazism, and especially the Communist era and its dissolution.",
 	"synonym": "45305",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"POSI-AREAS2",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR"
 	],
 	"title": "Two Centuries of Tumult: Modern Central Europe"
 }

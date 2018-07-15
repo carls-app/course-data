@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 245 and 275. Exposure to matrix algebra may be helpful but is not required",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

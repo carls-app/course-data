@@ -44,14 +44,8 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 234. Admission based on submitted application and interview. All students will waitlist",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {

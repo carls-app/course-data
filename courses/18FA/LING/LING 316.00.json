@@ -31,10 +31,7 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
 	"size": {
@@ -46,14 +43,8 @@
 	"summary": null,
 	"synonym": "52241",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGADV",
-			"name": "Linguistics Advanced Crs"
-		}
+		"CGSCELECTIVE",
+		"LINGADV"
 	],
 	"title": "Topics in Morphology"
 }

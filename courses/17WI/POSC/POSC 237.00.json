@@ -31,22 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -58,38 +46,14 @@
 	"summary": "This course will cover key thematic issues of Southeast Asian politics, including the challenges of democracy, regional integration, environmental politics, the rise of the power of non-state actors, and struggles for citizen-sovereignty of the people. We will examine these frontier issues against the background of Southeast Asia's societal evolution through kingdoms, colonial eras, emergence of nation-states, and the influence of globalization on politics.",
 	"synonym": "45364",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		},
-		{
-			"code": "SASTSUPPSI",
-			"name": "SAST Supprtng Social Inquiry"
-		}
+		"ASSTSOUTH",
+		"POSI-DSS2",
+		"POSI-AREAS2",
+		"ASSTEAST",
+		"POSIELECTIVE",
+		"ASSTSS",
+		"CCSTENCTR",
+		"SASTSUPPSI"
 	],
 	"title": "Southeast Asian Politics"
 }

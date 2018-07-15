@@ -43,26 +43,11 @@
 	"summary": null,
 	"synonym": "1000",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMELECTIVE"
 	],
 	"title": "Recent Trends:Pop Culture&Test"
 }

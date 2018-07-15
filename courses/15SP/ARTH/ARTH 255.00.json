@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Any art history course or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "How have images of Islam impacted European culture? How did existing pictorial traditions/practices frame the ways in which Islam was visualized in Europe? This course will interrogate the ways in which representational technologies facilitated and/or obstructed making sense of Islam from the twelfth to the nineteenth centuries. We will explore a wide range of images in diverse media, including, but not limited to, maps, costume books, panel paintings, sculpture, illuminated manuscripts, popular prints, ethnographic treatises, and early photographs.",
 	"synonym": "39939",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"FFSTHISARTH",
+		"FRSTELEC",
+		"MESTGRP2"
 	],
 	"title": "Islam in the Eyes of the West"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "An examination of western art music of the seventeenth and eighteenth centuries, including Monteverdi, Bach, Handel, Haydn, Mozart and Beethoven. Prerequisite: Music 200 or consent of the instructor.",
 	"synonym": "39041",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
 	"title": "Baroque and Classical Music"
 }

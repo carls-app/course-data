@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR1",
+		"AI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,14 +47,8 @@
 	"summary": null,
 	"synonym": "44748",
 	"tags": [
-		{
-			"code": "AFAMINTERDISC",
-			"name": "AFAM Interdisciplinary Course"
-		},
-		{
-			"code": "AFSTCORE",
-			"name": "Africana Studies Core"
-		}
+		"AFAMINTERDISC",
+		"AFSTCORE"
 	],
 	"title": "The Postcolonial Imagination and Africana Thought"
 }

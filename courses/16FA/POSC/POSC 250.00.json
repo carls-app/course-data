@@ -29,10 +29,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
 	"size": {
@@ -44,18 +41,9 @@
 	"summary": null,
 	"synonym": "45329",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"POSIELECTIVE",
+		"POSI-PLI2",
+		"MARSSUPP"
 	],
 	"title": "Ancient Political Philosophy: Plato's"
 }

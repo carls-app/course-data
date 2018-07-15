@@ -31,10 +31,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
 	"size": {
@@ -46,30 +43,12 @@
 	"summary": "Covers American constitutional law and history from the founding to the breakdown of the constitution in secession crisis. Extensive attention will be paid to the constitutional convention and other sources of constitutional law in addition to Supreme Court cases.",
 	"synonym": "45332",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"POSIELECTIVE",
+		"POSI-PLI2",
+		"POSI-AREAS2"
 	],
 	"title": "Constitutional Law I"
 }

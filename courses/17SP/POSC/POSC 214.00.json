@@ -28,14 +28,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LA",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -47,18 +41,9 @@
 	"summary": null,
 	"synonym": "45747",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"POSI-DSS2",
+		"POSIELECTIVE",
+		"CAMSXDEPT"
 	],
 	"title": "Visual Representations of Political Thought and Action"
 }

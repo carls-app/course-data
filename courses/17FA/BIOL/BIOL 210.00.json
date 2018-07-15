@@ -28,10 +28,7 @@
 	},
 	"prerequisites": "Prerequisite: One introductory science lab course (Biology 125, 126, Chemistry 123, 128, Geology 110, 115 or 120)",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -43,30 +40,12 @@
 	"summary": null,
 	"synonym": "47719",
 	"tags": [
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"ENTSCORE",
+		"CCSTGLOBAL",
+		"SPECINTSUSTAIN",
+		"CCSTREGIONAL",
+		"PPOLPH",
+		"BIOLELECTIVE"
 	],
 	"title": "Global Change Biology"
 }

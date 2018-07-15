@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,10 +47,7 @@
 	"summary": "The American landscape has shaped and has been shaped by the religious imaginations, beliefs, and practices of diverse inhabitants. This course explores the variety of ways of imagining relationships between land, community, and the sacred, and how religious traditions have been inscribed on land itself. Indigenous and Latino/a traditions will be considered, as will Euro-American traditions ranging from Puritans, Mormons, immigrant farmers, utopian communities, and Deep Ecologists.",
 	"synonym": "43053",
 	"tags": [
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"RELGTHLVDRELCLT"
 	],
 	"title": "Religion and the American Landscape"
 }

@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,14 +44,8 @@
 	"summary": "In recent years, the sports business in the United States has grown into a multibillion-dollar industry. Understanding the sports business from an economic viewpoint is the subject of this course. Topics will include player compensation, revenue-sharing, salary caps, free agency, tournaments, salary discrimination, professional franchise valuation, league competitiveness, college athletics, and the economics of sports stadiums and arenas.",
 	"synonym": "39171",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"AMSTTOPICAL3",
+		"POECUPAPP"
 	],
 	"title": "The Economics of Sports"
 }

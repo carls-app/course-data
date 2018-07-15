@@ -31,18 +31,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -54,30 +45,12 @@
 	"summary": null,
 	"synonym": "45309",
 	"tags": [
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "AFSTHI",
-			"name": "Africana Studies Humanistic in"
-		}
+		"AFAMHUMANINQ",
+		"AFAMDISTROHU",
+		"HISTAFRDIASPORA",
+		"RELGCHRISTNTRAD",
+		"RELGPERT",
+		"AFSTHI"
 	],
 	"title": "Christian Encounter, Conversion, and Conflict in Modern Africa"
 }

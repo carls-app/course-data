@@ -28,22 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111 and 240",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -55,10 +43,7 @@
 	"summary": null,
 	"synonym": "46843",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
 	"title": "Analysis of Microeconomic Development Models"
 }

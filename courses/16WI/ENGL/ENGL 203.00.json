@@ -31,14 +31,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
 	"size": {
@@ -50,22 +44,10 @@
 	"summary": "Although the Age of Beowulf ended almost one thousand years ago, its influence endures. Just as the CGI adaptation of Beowulf uses Old English--the language in England during this period--to mark the monstrous, the History Channel's Vikings uses this era as a historical backdrop, and Tolkien's LOTR finds much of its inspiration in Old English literature. In this class, then, we'll return to the source--to tales of demons, dragons, heroes, and saints found in various chronicles, poems, riddles, and more from the Age of Beowulf--and, hopefully, start to understand why this particular epoch looms so large. Texts will be read in modern translation.",
 	"synonym": "43017",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"MARSSUPP",
+		"MARSCORE",
+		"ENGLHE1",
+		"ENGLT1"
 	],
 	"title": "The Age of Beowulf"
 }

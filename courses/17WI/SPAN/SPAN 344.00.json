@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,42 +39,15 @@
 	"summary": "This course examines texts by women authors who write from a critical and gendered perspective about women, desire, and identity. Through the metaphor of the body, the narratives disclose both the limits and the implicit/explicit resistance the protagonists embody. Emphasis is on texts from the twentieth century to the present. Among the authors included: Bombal, Castellanos, Valenzuela, Peri Rossi, Poniatowska, Buitrago, Serrano, Luiselli.",
 	"synonym": "45256",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"LTAMLIT",
+		"WGSTADDL",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAM300LIT",
+		"ENGLLOE"
 	],
 	"title": "Women Writers in Latin America: Body and Text"
 }

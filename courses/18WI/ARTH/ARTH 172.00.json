@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,26 +39,11 @@
 	"summary": "This course explores developments in the visual arts, architecture, and theory in Europe and America between 1890 and 1945. The major Modernist artists and movements that sought to revolutionize vision, culture, and experience, from Symbolism to Surrealism, will be considered. The impact of World War I, the Great Depression, and the rise of fascism will be examined as well for their devastation of the Modernist dream of social-cultural renewal. Lectures will be integrated with discussions of artists' theoretical writings and group manifestoes, such as those of the Futurists, Dadaists, Surrealists, Constructivists, and DeStijl, in addition to select secondary readings.",
 	"synonym": "48214",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"EUSTTRANNATL",
+		"CAMSXDEPT",
+		"FFSTHISARTH",
+		"FRENPERT",
+		"FRSTELEC"
 	],
 	"title": "Modern Art: 1890-1945"
 }

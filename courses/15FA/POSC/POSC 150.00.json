@@ -26,14 +26,8 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "What justifies self-defense and retaliation in defending civil rights and liberty? What moral reasoning and strategies offer alternatives to using physical violence in a social movement to gain civil rights? Our seminar examines the American Civil Rights Movement 1954 and 1968, and compares the writings of Dr. Martin Luther King, Jr. and Malcolm X to learn about nonviolent direct action, self-defense, and the use of \"any means necessary\" to right the wrongs of racial injustice.",
 	"synonym": "43267",
 	"tags": [
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AFAMDISTROSS",
+		"AMSTTOPICAL3",
+		"POSIELECTIVE"
 	],
 	"title": "The Political Thought of Malcolm X and Martin Luther King, Jr. & the American Civil Rights Movement"
 }

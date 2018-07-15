@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,34 +25,13 @@
 	"summary": "Informed by the assigned readings, students will visit markets, factories, farms, and various cultural and natural sites to see first-hand the changes and challenges occurring in these areas. The course covers: (1) issues of livelihood transition from rural to urban; (2) the interaction between market systems and social relations; and (3) the impact on society of changes in physical infrastructures such as roads and telecommunication. Students will keep a journal and produce three thematic short essays, a 15-20-minute video, or a well-organized blog to document their learning.",
 	"synonym": "39261",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "SASTSUPPSI",
-			"name": "SAST Supprtng Social Inquiry"
-		}
+		"ASSTSS",
+		"ASSTSOUTH",
+		"POSI-DSS2",
+		"POSIELECTIVE",
+		"POECUPWTD",
+		"POSI-DSS",
+		"SASTSUPPSI"
 	],
 	"title": "Political Economy & Ecology of Southeast Asia: Social Changes in Southeast Asia"
 }

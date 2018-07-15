@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": "This course focuses on the respect for human diversity, especially as these relate to various racial, cultural and economic groups, and to women. It includes lectures and discussions intended to aid students in relating to a wide variety of persons, cultures, and life styles.",
 	"synonym": "45872",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "EDUCCORE",
-			"name": "Ed Studies Core Course"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS",
+		"EDUCCORE"
 	],
 	"title": "Multicultural Education"
 }

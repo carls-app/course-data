@@ -31,22 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -58,34 +46,13 @@
 	"summary": "A comparative study of dynamic economic components in the growth of western European countries, with particular attention to Great Britain, from the sixteenth to the twentieth century. Topics include the methodology of economic history, agriculture, technology, population, foreign trade, the role of the state, and monetary systems.",
 	"synonym": "41063",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		}
+		"POSI-AREAS2",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"POECUPWTD",
+		"FRENPERT",
+		"HISTPERT"
 	],
 	"title": "European Economic History"
 }

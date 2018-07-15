@@ -12,14 +12,8 @@
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -31,10 +25,7 @@
 	"summary": "In this course students learn about the role of urban agriculture in meeting the demand of urban population as well as explore the role of urban agriculture in the community building process. Case studies and conversations with figures from various components of the city agriculture structure make up the core of the course. Through readings, conversations, and brainstorming sessions with visits to farm sites, and independent research, students learn about aspects of urban agriculture and community building. Students learn how to effectively use their vast networks and community to gain perspectives of their role in the world.",
 	"synonym": "41282",
 	"tags": [
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"ENTSFASCP"
 	],
 	"title": "Ethiopia and Tanzania Program: Urban Agriculture"
 }

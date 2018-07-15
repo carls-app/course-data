@@ -26,18 +26,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -49,22 +40,10 @@
 	"summary": "How can the need for intensive human social and economic development be reconciled with the conservation of biodiversity? This course explores the wide range of actions that people take at a local, national, and international level to address this question. We will use political ecology and conservation biology as theoretical frameworks to examine the role of traditional and indigenous approaches to biodiversity conservation as well as contemporary debates about integrated conservation development across a spectrum of cultures in North America, Africa, Latin America, and Asia.",
 	"synonym": "38301",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"CCSTGLOBAL",
+		"SOANPERT",
+		"ENTSCDSCP"
 	],
 	"title": "Biodiversity Conservation and Development"
 }

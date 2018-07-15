@@ -26,14 +26,8 @@
 	},
 	"prerequisites": "Prerequisite: Latin American Studies gateway course",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -45,18 +39,9 @@
 	"summary": null,
 	"synonym": "48642",
 	"tags": [
-		{
-			"code": "LTAMREQUIRED",
-			"name": "LTAM Required Courses"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		}
+		"LTAMREQUIRED",
+		"CCSTREGIONAL",
+		"POSI-AREAS2"
 	],
 	"title": "Issues in Latin American Studies"
 }

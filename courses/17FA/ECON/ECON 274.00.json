@@ -32,14 +32,8 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -51,22 +45,10 @@
 	"summary": "Why do some people choose to work and others do not? Why are some people paid higher wages than others? What are the economic benefits of education for the individual and for society? How do government policies, such as subsidized child care, the Earned Income Tax Credit and the income tax influence whether people work and the number of hours they choose to work? These are some of the questions examined in labor economics. This course will focus on the labor supply and human capital decisions of individuals and households.",
 	"synonym": "48970",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"AMSTTOPICAL3",
+		"POSI-GDS2",
+		"POECUPAPP",
+		"PPOLECON"
 	],
 	"title": "Labor Economics"
 }

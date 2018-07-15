@@ -33,18 +33,9 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"size": {
@@ -56,22 +47,10 @@
 	"summary": null,
 	"synonym": "48638",
 	"tags": [
-		{
-			"code": "MESTPERT",
-			"name": "Middle East Studies Pertinent"
-		},
-		{
-			"code": "MELAPERT",
-			"name": "Middle Eastern Lang Pertinent"
-		},
-		{
-			"code": "CCSTSEEING",
-			"name": "Ccst Seeing & Being Cross Cult"
-		},
-		{
-			"code": "MESTCORE",
-			"name": "Middle East Studies Foundation"
-		}
+		"MESTPERT",
+		"MELAPERT",
+		"CCSTSEEING",
+		"MESTCORE"
 	],
 	"title": "Cross Cultural Perspectives on Israeli and Palestinian Identity"
 }

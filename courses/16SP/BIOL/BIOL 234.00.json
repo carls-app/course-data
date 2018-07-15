@@ -31,14 +31,8 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"size": {
@@ -50,10 +44,7 @@
 	"summary": "A study of the metabolism, genetics, structure, and function of microorganisms. While presented in the framework of the concepts of cellular and molecular biology, the emphasis will be on the uniqueness and diversity of the microbial world. The course integrates lecture and laboratory, and will fulfill requirements of a microbiology course with lab for veterinary or pharmacy schools. A one-credit trailing course, Philosophy 198, CRISPR and You, is available to interested students.",
 	"synonym": "43379",
 	"tags": [
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		}
+		"PPOLPH"
 	],
 	"title": "Microbiology with Laboratory"
 }
