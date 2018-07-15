@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "23704",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"PHILTHEORY"
 	],
-	"title": "Philosophy of Language"
+	"title": "Philosophy of Language",
+	"type": "Course"
 }

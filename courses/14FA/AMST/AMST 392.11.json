@@ -6,11 +6,12 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "392.11",
+	"number": "392",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "40328",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Independent Research"
+	"title": "Independent Research",
+	"type": "Course"
 }

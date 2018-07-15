@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -52,22 +47,11 @@
 	"summary": "An examination of the political, social, and cultural history of Central Europe from 1848 to the present day. We will explore the evolution of state and civil society in the multicultural/multinational regions of the present-day Czech Republic, Slovakia, Poland, Hungary, as well as eastern Germany and Austria. Much of the course will focus on the common experiences of authoritarianism, anti-Semitism, fascism/Nazism, and especially the Communist era and its dissolution.",
 	"synonym": "32708",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"POSI-AREAS"
 	],
-	"title": "Two Centuries of Tumult: Modern Central Europe"
+	"title": "Two Centuries of Tumult: Modern Central Europe",
+	"type": "Course"
 }

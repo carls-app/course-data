@@ -8,7 +8,7 @@
 	"instructors": [
 		"Guolong Lai"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2905",
 	"tags": [],
-	"title": "Archaeology of Writing"
+	"title": "Archaeology of Writing",
+	"type": "Course"
 }

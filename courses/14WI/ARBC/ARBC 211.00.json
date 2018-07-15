@@ -6,7 +6,7 @@
 	"instructors": [
 		"Zaki A Haidar"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Arabic 204",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "36219",
 	"tags": [],
-	"title": "Colloquial Arabic"
+	"title": "Colloquial Arabic",
+	"type": "Course"
 }

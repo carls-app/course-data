@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "317.00",
+	"number": "317",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "18068",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Topics in Phonology"
+	"title": "Topics in Phonology",
+	"type": "Course"
 }

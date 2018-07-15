@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "8113",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Contemp Styles and Techniques"
+	"title": "Contemp Styles and Techniques",
+	"type": "Course"
 }

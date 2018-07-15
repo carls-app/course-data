@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "374.00",
+	"number": "374",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1236",
 	"tags": [],
-	"title": "Paleoecology"
+	"title": "Paleoecology",
+	"type": "Course"
 }

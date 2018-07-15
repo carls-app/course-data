@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -38,30 +39,13 @@
 	"summary": null,
 	"synonym": "22033",
 	"tags": [
-		{
-			"code": "CAMSINTFILM",
-			"name": "CAMS International Film"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSINTFILM",
+		"ASSTPERT",
+		"ASSTEAST",
+		"CAMSXDEPT",
+		"ASSTAL",
+		"CAMSELECTIVE"
 	],
-	"title": "Chinese Cinema"
+	"title": "Chinese Cinema",
+	"type": "Course"
 }

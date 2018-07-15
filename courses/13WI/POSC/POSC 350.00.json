@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -41,26 +39,12 @@
 	"summary": null,
 	"synonym": "33027",
 	"tags": [
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSCADVSEM",
+		"FRSTELEC",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSI-DSS"
 	],
-	"title": "Montesquieu"
+	"title": "Montesquieu",
+	"type": "Course"
 }

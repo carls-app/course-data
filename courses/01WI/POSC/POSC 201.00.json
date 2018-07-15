@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "796",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "National Policymaking"
+	"title": "National Policymaking",
+	"type": "Course"
 }

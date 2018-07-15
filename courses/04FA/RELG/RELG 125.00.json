@@ -6,7 +6,7 @@
 	"instructors": [
 		"David B Hollenberg"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "11355",
 	"tags": [],
-	"title": "God's Rule: Politics in Islam"
+	"title": "God's Rule: Politics in Islam",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Jennifer Bader",
 		"Mikki Showers"
 	],
-	"number": "108.00",
+	"number": "108",
 	"offerings": {
 		"locations": [
 			"Recreation Center STU"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "16198",
 	"tags": [],
-	"title": "Ballet II"
+	"title": "Ballet II",
+	"type": "Course"
 }

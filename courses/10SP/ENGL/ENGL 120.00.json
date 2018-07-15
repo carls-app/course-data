@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "23183",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"LITFORLANG"
 	],
-	"title": "Introduction to Literarary Modernism"
+	"title": "Introduction to Literarary Modernism",
+	"type": "Course"
 }

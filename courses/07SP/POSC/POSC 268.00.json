@@ -6,7 +6,7 @@
 	"instructors": [
 		"John J Barry"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -36,38 +37,15 @@
 	"summary": null,
 	"synonym": "15665",
 	"tags": [
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"ENTSCDSCP",
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"EUSTTRANNATL",
+		"POSINTLPOLECON",
+		"ENTSFASCP"
 	],
-	"title": "Int'l Environ Politics&Policy"
+	"title": "Int'l Environ Politics&Policy",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Sharon A Akimoto",
 		"Nancy J Cho"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,20 +29,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 40,
@@ -52,10 +44,8 @@
 	"summary": null,
 	"synonym": "25479",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"CCSTETHNIC"
 	],
-	"title": "Introduction to American Studies: The Immigrant Experience"
+	"title": "Introduction to American Studies: The Immigrant Experience",
+	"type": "Course"
 }

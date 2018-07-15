@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "1844",
 	"tags": [],
-	"title": "The Image in the Mirror"
+	"title": "The Image in the Mirror",
+	"type": "Course"
 }

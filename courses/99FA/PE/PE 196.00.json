@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "196.00",
+	"number": "196",
 	"offerings": {
 		"locations": [
 			"Stadium PE"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "3308",
 	"tags": [],
-	"title": "Weight Training for Women"
+	"title": "Weight Training for Women",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": "This course explores the Islamic devotional tradition known as Sufism. We will spend the semester both re-situating Sufism within the Islamic tradition of which it is a part (but",
 	"synonym": "24539",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"CCSTGLOBAL",
+		"MARSCORE",
+		"ASSTHU",
+		"ASSTCENT",
+		"RELGISLAMICTRAD",
+		"RELGTHLVDRELCLT"
 	],
-	"title": "Sufism"
+	"title": "Sufism",
+	"type": "Course"
 }

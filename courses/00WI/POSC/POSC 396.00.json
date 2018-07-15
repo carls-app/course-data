@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2916",
 	"tags": [],
-	"title": "Questions in Political Science"
+	"title": "Questions in Political Science",
+	"type": "Course"
 }

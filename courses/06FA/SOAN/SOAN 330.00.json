@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "15540",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTPERT",
+		"ASSTMETH",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Sociological Thought & Theory"
+	"title": "Sociological Thought & Theory",
+	"type": "Course"
 }

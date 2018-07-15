@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,26 +41,12 @@
 	"summary": "Christopher Marlowe lived fast, died young, and left behind a beautiful body of work. The course will explore the major plays and poems, as well as the life, of this transgressive Elizabethan writer.",
 	"synonym": "25796",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLT1",
+		"ENGLHE1",
+		"EUSTCNTRY",
+		"THEAPERT",
+		"MARSSUPP"
 	],
-	"title": "Christopher Marlowe"
+	"title": "Christopher Marlowe",
+	"type": "Course"
 }

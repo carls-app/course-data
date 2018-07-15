@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 14"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "17950",
 	"tags": [
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSWRES",
+		"ENTSINTL",
+		"ENTSLAB",
+		"ENTSSCI"
 	],
-	"title": "Geochemistry of Natural Waters"
+	"title": "Geochemistry of Natural Waters",
+	"type": "Course"
 }

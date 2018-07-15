@@ -9,7 +9,7 @@
 		"Matt Rand",
 		"Stephan G Zweifel"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 240",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -44,14 +42,9 @@
 	"summary": "Recent advances in molecular biology have allowed researchers to test specific hypotheses concerning the genetic control of behavior. This course will examine information derived from various animal model systems, including humans, using a variety of techniques such as classical genetics, genome databases, transgenics, and behavioral neurobiology.",
 	"synonym": "35204",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"CGSCELECTIVE",
+		"NEURELEC"
 	],
-	"title": "Seminar: Behavioral Genetics"
+	"title": "Seminar: Behavioral Genetics",
+	"type": "Course"
 }

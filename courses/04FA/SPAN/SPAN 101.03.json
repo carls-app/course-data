@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cynthia J Kauffeld"
 	],
-	"number": "101.03",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "10632",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

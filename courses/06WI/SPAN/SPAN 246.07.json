@@ -8,11 +8,12 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "13662",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"LTAMPERT"
 	],
-	"title": "Intro to Mexican Literature"
+	"title": "Intro to Mexican Literature",
+	"type": "Course"
 }

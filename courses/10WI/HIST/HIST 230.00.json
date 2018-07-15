@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "24134",
 	"tags": [
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"RELGPERT",
+		"HISTANCNT/MDVL",
+		"EUSTTRANNATL",
+		"MARSCORE",
+		"FRSTHIST",
+		"MARSSUPP"
 	],
-	"title": "Institutional Structure and Culture in the Middle Ages"
+	"title": "Institutional Structure and Culture in the Middle Ages",
+	"type": "Course"
 }

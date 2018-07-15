@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "1170",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "Introduction to Amer Studies"
+	"title": "Introduction to Amer Studies",
+	"type": "Course"
 }

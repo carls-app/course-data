@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 35,
@@ -52,30 +47,13 @@
 	"summary": "This course focuses on the legacy of colonial rule and asks how nascent nation-states dealt with new challenges of political legitimacy, economic development, and the rights of citizens. Case studies from the experiences of individual nations will highlight concerns still pertinent today: the ongoing struggle to extend meaningful political participation and the benefits of economic growth to the majority of the region's inhabitants, popular struggles for political, economic, and cultural rights, and the emergence of a civic society.",
 	"synonym": "30306",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"LTAMSOCSCI",
+		"CCSTREGIONAL",
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"POSI-AREAS"
 	],
-	"title": "Modern Latin America 1810-Present"
+	"title": "Modern Latin America 1810-Present",
+	"type": "Course"
 }

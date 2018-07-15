@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15303",
 	"tags": [],
-	"title": "Chance in the News"
+	"title": "Chance in the News",
+	"type": "Course"
 }

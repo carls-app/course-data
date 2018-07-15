@@ -9,7 +9,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "4529",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Karimba Ensemble"
+	"title": "Karimba Ensemble",
+	"type": "Course"
 }

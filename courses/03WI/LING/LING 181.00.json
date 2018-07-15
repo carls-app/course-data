@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "181.00",
+	"number": "181",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "5735",
 	"tags": [],
-	"title": "Hist of Romance Languages"
+	"title": "Hist of Romance Languages",
+	"type": "Course"
 }

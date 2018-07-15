@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "321.02",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Mudd 269"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registraiton in Chemistry 320; CHEM 234 and either CHEM 230 or BIOL 380",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 11,
 		"total": 8,
@@ -33,5 +34,6 @@
 	"summary": "Purification and characterization of proteins and nucleic acids, with a focus on enzyme kinetics and mechanism, macromolecular interactions with small molecules and the basis of specificity in biological systems. One laboratory per week. Corequisite: Chemistry 320.",
 	"synonym": "22986",
 	"tags": [],
-	"title": "Biological Chemistry Laboratory"
+	"title": "Biological Chemistry Laboratory",
+	"type": "Course"
 }

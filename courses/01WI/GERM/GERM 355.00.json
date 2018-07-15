@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "1864",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Topics: 20th Century Drama"
+	"title": "Topics: 20th Century Drama",
+	"type": "Course"
 }

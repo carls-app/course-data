@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Psychology 216 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": "This course will cover the major categories of drugs that possess psychoactive properties, with an emphasis on their effects on the nervous system. In addition, drug use and abuse in a larger societal context will be examined.",
 	"synonym": "23645",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH"
 	],
-	"title": "Psychopharmacology"
+	"title": "Psychopharmacology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Patrick H Dust"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"LITFORLANG",
 		"PENINLIT"
 	],
-	"title": "Survey of Spanish Literature"
+	"title": "Survey of Spanish Literature",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "18087",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTLTAM",
+		"HISTERLYMODEUR",
+		"HISTATLANTWRLD"
 	],
-	"title": "The Atlantic World"
+	"title": "The Atlantic World",
+	"type": "Course"
 }

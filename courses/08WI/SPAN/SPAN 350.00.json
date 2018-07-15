@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -41,38 +42,15 @@
 	"summary": null,
 	"synonym": "19174",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"ENGLLOE",
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAM300LIT"
 	],
-	"title": "Recent Trends:Pop Culture&Test"
+	"title": "Recent Trends:Pop Culture&Test",
+	"type": "Course"
 }

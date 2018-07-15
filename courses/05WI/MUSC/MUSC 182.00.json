@@ -8,11 +8,12 @@
 	"instructors": [
 		"Gao Hong"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 8,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "10292",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Musical Instruments"
+	"title": "Chinese Musical Instruments",
+	"type": "Course"
 }

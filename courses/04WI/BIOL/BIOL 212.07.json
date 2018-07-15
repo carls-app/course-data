@@ -8,11 +8,12 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "212.07",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "6546",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"CCSTGLOBAL",
+		"ENTSSCI"
 	],
-	"title": "Biology Field Studies&Research"
+	"title": "Biology Field Studies&Research",
+	"type": "Course"
 }

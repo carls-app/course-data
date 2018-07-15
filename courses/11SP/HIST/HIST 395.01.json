@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "26263",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD"
 	],
-	"title": "Voyages of Understanding"
+	"title": "Voyages of Understanding",
+	"type": "Course"
 }

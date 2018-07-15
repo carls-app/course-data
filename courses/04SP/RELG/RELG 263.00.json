@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "7600",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		}
+		"CCSTGLOBAL",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTCENT"
 	],
-	"title": "Sufism"
+	"title": "Sufism",
+	"type": "Course"
 }

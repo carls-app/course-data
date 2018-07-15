@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "378.00",
+	"number": "378",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": "This seminar will center on contemporary theories of consciousness, exploring the topic from a variety of perspectives, including both psychological and biological ones. An examination of altered states of consciousness will also be an important part of this course, including hypnosis, meditation, coma, and out-of-body experiences, among others. We'll also consider unconscious processes and their relationship to conscious ones.",
 	"synonym": "40106",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "PSYCSEMINAR",
-			"name": "Psyc Seminar"
-		},
-		{
-			"code": "PSYCUPPERLEVEL",
-			"name": "Psyc Upper Level"
-		}
+		"CGSCELECTIVE",
+		"SPECINTHEALTH",
+		"PSYCSEMINAR",
+		"PSYCUPPERLEVEL"
 	],
-	"title": "Consciousness"
+	"title": "Consciousness",
+	"type": "Course"
 }

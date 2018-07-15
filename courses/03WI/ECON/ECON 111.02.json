@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "5321",
 	"tags": [],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

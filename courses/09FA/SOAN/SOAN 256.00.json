@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,34 +37,14 @@
 	"summary": "Pairing classics in Africanist anthropology with contemporary re-studies, we explore changes in African societies and in the questions anthropologists have posed about them. We address issues of representation and self-presentation in written ethnographies as well as in African portrait photography. We then turn from the visual to the invisible realm of African witchcraft. Initiation rituals, war, and migration place selfhood and belonging back in this-world contexts. In-depth case studies include, among others: the Cameroon Grassfields, the Bemba of Zambia, and the Nuer of South Sudan.",
 	"synonym": "24417",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"AFAMDISTROSS",
+		"FRSTELEC",
+		"ASSTCENT",
+		"ASSTSS",
+		"FRSTSUPP",
+		"POSI-AREAS"
 	],
-	"title": "Africa: Representation and Conflict"
+	"title": "Africa: Representation and Conflict",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 55,
 		"total": 40,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "13027",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"CGSCELECTIVE",
+		"NEURCORE"
 	],
-	"title": "Behavioral Neuroscience"
+	"title": "Behavioral Neuroscience",
+	"type": "Course"
 }

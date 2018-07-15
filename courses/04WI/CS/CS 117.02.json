@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard W Nau"
 	],
-	"number": "117.02",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 28,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "6778",
 	"tags": [
-		{
-			"code": "CGSTCORE",
-			"name": "CGST Core Course"
-		}
+		"CGSTCORE"
 	],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

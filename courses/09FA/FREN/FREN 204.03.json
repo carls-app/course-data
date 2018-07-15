@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "204.03",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: French 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": "Through discussion of book-length literary and cultural texts (film, etc.), and including in-depth grammar review, this course aims to help students acquire greater skill and confidence in both oral and written expression. Taught three days a week in French.",
 	"synonym": "24475",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

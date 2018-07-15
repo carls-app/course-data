@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "15670",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS",
+		"POSIADVSEM",
+		"POSCADVSEM"
 	],
-	"title": "Pol Thry/Dr Martin Luther King"
+	"title": "Pol Thry/Dr Martin Luther King",
+	"type": "Course"
 }

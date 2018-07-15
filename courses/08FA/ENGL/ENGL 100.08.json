@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "100.08",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "08",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "20979",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Spirit of Place"
+	"title": "Spirit of Place",
+	"type": "Course"
 }

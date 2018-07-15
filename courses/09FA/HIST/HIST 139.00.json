@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "139.00",
+	"number": "139",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -41,38 +42,15 @@
 	"summary": "A narrative and survey of the early modern period (fifteenth through eighteenth centuries). The course examines the Renaissance, Reformation, Contact with the Americas, the Scientific Revolution and Enlightenment. We compare the development of states and societies across Western Europe, with particularly close examination of the history of Spain.",
 	"synonym": "24119",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"HISTATLANTWRLD",
+		"FRSTSUPP",
+		"POSI-AREAS",
+		"MARSSUPP"
 	],
-	"title": "Foundations of Modern Europe"
+	"title": "Foundations of Modern Europe",
+	"type": "Course"
 }

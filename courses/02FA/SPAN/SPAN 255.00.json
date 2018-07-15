@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "4185",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"LTAMELECTIVE",
+		"ENGLFORLIT",
+		"WGSTADDL",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMLIT"
 	],
-	"title": "Wmn Dramatist:Staging Cnflic"
+	"title": "Wmn Dramatist:Staging Cnflic",
+	"type": "Course"
 }

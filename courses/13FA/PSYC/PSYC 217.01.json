@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "217.01",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Hulings B04"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 216 and Psychology 110",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -38,10 +36,8 @@
 	"summary": "The course provides instruction and experience in methods of behavioral neuroscience, the study of the inter-relation of the brain (and hormonal systems) and behavior. The focus of this laboratory will be on standard methods of inducing behavioral changes via neural and hormonal manipulations in mammals. Psychology 217 requires concurrent registration in Psychology 216. A grade of C- or better must be earned in both Psychology 216 and 217 to satisfy the LS requirement.",
 	"synonym": "35385",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Laboratory Research Methods in Behavioral Neuroscience"
+	"title": "Laboratory Research Methods in Behavioral Neuroscience",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -52,42 +47,16 @@
 	"summary": "Over the course of the eleventh century, monks and clerics, kings and princes, lay men and women, challenged the traditional order of European society, demanding purity, freedom, and justice for their church and the reform of institutions grown corrupt. Yet the traditional order had its defenders, too. In this course we will examine their intellectual and political struggles as they debate such issues as clerical marriage and purity, institutional corruption, the relationship of Church and King, the meaning of canon law, the concept of just war, and the power of the pope within the Church.",
 	"synonym": "30283",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"HISTANCNT/MDVL",
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"EUSTTRANNATL",
+		"RELGPERT",
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT",
+		"ARCNPERT"
 	],
-	"title": "Papacy, Church and Empire in the Age of Reform"
+	"title": "Papacy, Church and Empire in the Age of Reform",
+	"type": "Course"
 }

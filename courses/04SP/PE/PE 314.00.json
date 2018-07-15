@@ -6,7 +6,7 @@
 	"instructors": [
 		"Monica Erickson"
 	],
-	"number": "314.00",
+	"number": "314",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "8391",
 	"tags": [],
-	"title": "Ath Trng I:Gross Hmn Anatomy"
+	"title": "Ath Trng I:Gross Hmn Anatomy",
+	"type": "Course"
 }

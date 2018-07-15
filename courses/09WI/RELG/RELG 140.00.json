@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth A Perez"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "21699",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Religion & American Culture"
+	"title": "Religion & American Culture",
+	"type": "Course"
 }

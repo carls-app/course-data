@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "147.00",
+	"number": "147",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -44,5 +42,6 @@
 	"summary": "This course seeks to provide an underlying awareness of body structure and function. Using movement to expand knowledge of our anatomy will encourage participants to integrate information with experience. Heightened body awareness and class studies are designed to activate the general learning process.",
 	"synonym": "28496",
 	"tags": [],
-	"title": "Moving Anatomy"
+	"title": "Moving Anatomy",
+	"type": "Course"
 }

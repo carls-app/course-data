@@ -9,7 +9,7 @@
 		"Julie Klassen",
 		"Staff"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 50,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "4726",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSINTRO",
+		"ENTSLAB"
 	],
-	"title": "Envisioning Landscapes"
+	"title": "Envisioning Landscapes",
+	"type": "Course"
 }

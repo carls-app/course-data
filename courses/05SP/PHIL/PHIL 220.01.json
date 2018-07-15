@@ -6,7 +6,7 @@
 	"instructors": [
 		"Patti Ross"
 	],
-	"number": "220.01",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,10 +39,8 @@
 	"summary": null,
 	"synonym": "10490",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Topics: Philosophy of Language"
+	"title": "Topics: Philosophy of Language",
+	"type": "Course"
 }

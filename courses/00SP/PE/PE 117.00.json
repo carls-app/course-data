@@ -6,7 +6,7 @@
 	"instructors": [
 		"Heidi L Jaynes"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3426",
 	"tags": [],
-	"title": "Cote Fitness"
+	"title": "Cote Fitness",
+	"type": "Course"
 }

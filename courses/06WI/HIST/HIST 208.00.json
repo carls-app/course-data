@@ -9,7 +9,7 @@
 		"Serena R Zabin",
 		"Andrew B Fisher"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "12407",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTLTAM",
+		"HISTERLYMODEUR",
+		"HISTATLANTWRLD"
 	],
-	"title": "Atlantic World, 1492-1792"
+	"title": "Atlantic World, 1492-1792",
+	"type": "Course"
 }

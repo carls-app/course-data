@@ -8,7 +8,7 @@
 	"instructors": [
 		"William N Elison"
 	],
-	"number": "357.00",
+	"number": "357",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3081",
 	"tags": [],
-	"title": "Hinduism and Modernity"
+	"title": "Hinduism and Modernity",
+	"type": "Course"
 }

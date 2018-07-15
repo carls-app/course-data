@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "125.02",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 47,
 		"total": 48,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "11936",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Intro: Genes & Evolution"
+	"title": "Intro: Genes & Evolution",
+	"type": "Course"
 }

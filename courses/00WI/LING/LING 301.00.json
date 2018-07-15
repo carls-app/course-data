@@ -6,11 +6,12 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "4150",
 	"tags": [],
-	"title": "Language Survey"
+	"title": "Language Survey",
+	"type": "Course"
 }

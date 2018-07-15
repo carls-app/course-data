@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2020",
 	"tags": [],
-	"title": "Epistemology"
+	"title": "Epistemology",
+	"type": "Course"
 }

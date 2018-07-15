@@ -9,16 +9,14 @@
 		"Amy Erickson",
 		"Gerald L Young"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "5261",
 	"tags": [],
-	"title": "Softball Intercollegiate"
+	"title": "Softball Intercollegiate",
+	"type": "Course"
 }

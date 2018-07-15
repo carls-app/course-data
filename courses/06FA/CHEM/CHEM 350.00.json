@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "14970",
 	"tags": [],
-	"title": "Chemical and Biosynthesis"
+	"title": "Chemical and Biosynthesis",
+	"type": "Course"
 }

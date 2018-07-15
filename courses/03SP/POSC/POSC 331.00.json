@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Dosh"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -38,30 +39,13 @@
 	"summary": null,
 	"synonym": "4259",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAM300SOCSCI",
-			"name": "LTAM 300 Soc Science"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"CCSTREGIONAL",
+		"LTAM300SOCSCI",
+		"LTAMELECTIVE",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSC300LEVEL"
 	],
-	"title": "Urban Politics in Ltn America"
+	"title": "Urban Politics in Ltn America",
+	"type": "Course"
 }

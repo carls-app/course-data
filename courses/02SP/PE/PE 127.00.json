@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts FIELD"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "2141",
 	"tags": [],
-	"title": "Frisbee, Beginning Ultimate"
+	"title": "Frisbee, Beginning Ultimate",
+	"type": "Course"
 }

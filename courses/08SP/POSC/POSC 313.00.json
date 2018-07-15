@@ -9,7 +9,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "313.00",
+	"number": "313",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -44,22 +45,11 @@
 	"summary": null,
 	"synonym": "18320",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSI-GDS",
+		"POSCADVSEM"
 	],
-	"title": "Labor Pol in a Global Age"
+	"title": "Labor Pol in a Global Age",
+	"type": "Course"
 }

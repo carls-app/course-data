@@ -8,7 +8,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -38,34 +39,14 @@
 	"summary": null,
 	"synonym": "15600",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTEAST",
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "HongKong:Relic Past/Model Ftr"
+	"title": "HongKong:Relic Past/Model Ftr",
+	"type": "Course"
 }

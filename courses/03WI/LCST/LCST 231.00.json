@@ -9,7 +9,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -49,10 +47,8 @@
 	"summary": null,
 	"synonym": "5497",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Damsels, Dwarfs & Dragons"
+	"title": "Damsels, Dwarfs & Dragons",
+	"type": "Course"
 }

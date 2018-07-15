@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "234L.54",
+	"number": "234L",
 	"offerings": {
 		"locations": [
 			"Mudd 266"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6586",
 	"tags": [],
-	"title": "Organic Chemistry II Lab"
+	"title": "Organic Chemistry II Lab",
+	"type": "Lab"
 }

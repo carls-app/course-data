@@ -6,7 +6,7 @@
 	"instructors": [
 		"George A Soule"
 	],
-	"number": "109.02",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2861",
 	"tags": [],
-	"title": "Writing Seminar I"
+	"title": "Writing Seminar I",
+	"type": "Course"
 }

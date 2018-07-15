@@ -8,7 +8,7 @@
 	"instructors": [
 		"Karen M Wright"
 	],
-	"number": "269.00",
+	"number": "269",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4168",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"AMSTTOPICAL3",
+		"CCSTBINARY"
 	],
-	"title": "US & UK Philanthropy"
+	"title": "US & UK Philanthropy",
+	"type": "Course"
 }

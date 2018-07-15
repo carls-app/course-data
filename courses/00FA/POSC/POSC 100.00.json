@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "762",
 	"tags": [],
-	"title": "Media & Electoral Politics"
+	"title": "Media & Electoral Politics",
+	"type": "Course"
 }

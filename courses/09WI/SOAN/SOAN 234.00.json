@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -36,58 +37,20 @@
 	"summary": null,
 	"synonym": "21556",
 	"tags": [
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"ENTSCDSCP",
+		"ENTSENVPERS",
+		"CCSTGLOBAL",
+		"ENTSLPSCP",
+		"ENTSINTL",
+		"ENTSSP",
+		"LTAMELECTIVE",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"LTAMPERT",
+		"ENTSSCI",
+		"LTAMSOCSCI",
+		"POSI-GDS"
 	],
-	"title": "Economy, Ecology, Culture"
+	"title": "Economy, Ecology, Culture",
+	"type": "Course"
 }

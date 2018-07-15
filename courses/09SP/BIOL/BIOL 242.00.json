@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21113",
 	"tags": [],
-	"title": "Vertebrate Morphology"
+	"title": "Vertebrate Morphology",
+	"type": "Course"
 }

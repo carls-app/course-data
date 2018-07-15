@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "4384",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		}
+		"HISTEUR1451"
 	],
-	"title": "The English Civil War"
+	"title": "The English Civil War",
+	"type": "Course"
 }

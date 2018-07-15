@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18677",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Writing-Childrens Literature"
+	"title": "Writing-Childrens Literature",
+	"type": "Course"
 }

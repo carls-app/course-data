@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "340L.53",
+	"number": "340L",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 9,
 		"total": 10,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3921",
 	"tags": [],
-	"title": "Hydrology Laboratory"
+	"title": "Hydrology Laboratory",
+	"type": "Lab"
 }

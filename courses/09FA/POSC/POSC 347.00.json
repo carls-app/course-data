@@ -9,7 +9,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 15,
@@ -39,26 +40,12 @@
 	"summary": null,
 	"synonym": "24023",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		}
+		"POSI-LPS",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POSIELECTIVE",
+		"POSISECFRGNPOL"
 	],
-	"title": "America and Its Wars*"
+	"title": "America and Its Wars*",
+	"type": "Course"
 }

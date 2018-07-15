@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Harbison"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19941",
 	"tags": [],
-	"title": "Ornithology Laboratory"
+	"title": "Ornithology Laboratory",
+	"type": "Course"
 }

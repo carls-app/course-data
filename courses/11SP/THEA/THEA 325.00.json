@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -47,5 +42,6 @@
 	"summary": null,
 	"synonym": "28198",
 	"tags": [],
-	"title": "Performing Shakespeare"
+	"title": "Performing Shakespeare",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "15747",
 	"tags": [],
-	"title": "Introduction to Religion"
+	"title": "Introduction to Religion",
+	"type": "Course"
 }

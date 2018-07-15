@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 40,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Culture & Gender Postmod World"
+	"title": "Culture & Gender Postmod World",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "11161",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"CGSCELECTIVE",
+		"PHILTHEORY"
 	],
-	"title": "Advanced Logic"
+	"title": "Advanced Logic",
+	"type": "Course"
 }

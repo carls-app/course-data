@@ -7,7 +7,7 @@
 		"Sarah J Titus",
 		"Bill Titus"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: One Introductory 100-level Geology course and one Physics introductory course (131, 132, 141, 142) or consent of the instructors.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -42,5 +40,6 @@
 	"summary": "This applied geophysics course focuses on understanding the near-surface structure of the Earth using a hand-on approach. Students will collect, process, model, and interpret geophysical data using gravitational, magnetic, and seismic methods. Weekly laboratories and one weekend field trip will be required.",
 	"synonym": "35105",
 	"tags": [],
-	"title": "Geophysics"
+	"title": "Geophysics",
+	"type": "Course"
 }

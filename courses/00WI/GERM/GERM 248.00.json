@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"tags": [
 		"ENGLFORLIT"
 	],
-	"title": "Romantic Visions of the World"
+	"title": "Romantic Visions of the World",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Boliou 032"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 110 or 113.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -43,5 +41,6 @@
 	"summary": "Intaglio and relief printmaking using the facilities of host universities. Students will receive instruction in all of the processes of intaglio and relief printmaking. Students will explore the possibilities of this form of printmaking in conjunction with their work in a drawing class.",
 	"synonym": "25512",
 	"tags": [],
-	"title": "Studio Art Seminar in the South Pacific: Printmaking"
+	"title": "Studio Art Seminar in the South Pacific: Printmaking",
+	"type": "Course"
 }

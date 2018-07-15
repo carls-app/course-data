@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joel A Schlosser"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "24871",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"FRSTELEC",
+		"FRSTSUPP",
+		"POSCELECTIVE",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Modern Political Philosophy"
+	"title": "Modern Political Philosophy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2866",
 	"tags": [],
-	"title": "H.D.& Invention of Modernism"
+	"title": "H.D.& Invention of Modernism",
+	"type": "Course"
 }

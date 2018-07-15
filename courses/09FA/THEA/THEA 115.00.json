@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "24098",
 	"tags": [],
-	"title": "Introduction to Design and Technical Theater"
+	"title": "Introduction to Design and Technical Theater",
+	"type": "Course"
 }

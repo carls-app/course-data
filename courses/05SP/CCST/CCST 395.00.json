@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "10554",
 	"tags": [
-		{
-			"code": "HISTEASIA",
-			"name": "HIST East Asia"
-		},
-		{
-			"code": "CCSTSRSEM",
-			"name": "CCST Senior Seminar"
-		}
+		"HISTEASIA",
+		"CCSTSRSEM"
 	],
-	"title": "Man and Water"
+	"title": "Man and Water",
+	"type": "Course"
 }

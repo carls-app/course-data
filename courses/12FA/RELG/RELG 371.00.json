@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,10 +39,8 @@
 	"summary": "Study of selected Asian and Western poetical texts that are purported to express the experience of spiritual illumination. The major focus will be on understanding a range of poems both in their cultural settings and as exemplars of human spirituality. We also will consider Asian and Western theories of \"religious poetics;\" cross-cultural views of the relation among poetry, holiness and madness; philosophical discussions of the connection between silence and speech; and studies of the nature of metaphor.",
 	"synonym": "33926",
 	"tags": [
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		}
+		"RELGBUDDHSTTRAD"
 	],
-	"title": "The Poetics of Enlightenment"
+	"title": "The Poetics of Enlightenment",
+	"type": "Course"
 }

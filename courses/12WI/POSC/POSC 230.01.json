@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "230.01",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 115, 215, 245, or AP Statistics (score of 4 or 5)",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -54,14 +46,9 @@
 	"summary": "An introduction to research method, research design, and the analysis of political data. The course is intended to introduce students to the fundamentals of scientific inquiry as they are employed in the discipline. The course will consider the philosophy of scientific research generally, the philosophy of social science research, theory building and theory testing, the components of applied (quantitative and qualitative) research across the major sub-fields of political science, and basic methodological tools. Intended for majors only.",
 	"synonym": "30372",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTPERT",
+		"ASSTMETH"
 	],
-	"title": "Methods of Political Research"
+	"title": "Methods of Political Research",
+	"type": "Course"
 }

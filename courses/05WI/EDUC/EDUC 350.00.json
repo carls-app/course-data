@@ -9,7 +9,7 @@
 	"instructors": [
 		"Cris T Roosenraad"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "11395",
 	"tags": [],
-	"title": "Methods/Teaching Mathematics"
+	"title": "Methods/Teaching Mathematics",
+	"type": "Course"
 }

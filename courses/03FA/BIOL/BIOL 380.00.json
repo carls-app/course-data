@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shannon L Stevenson"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6485",
 	"tags": [],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

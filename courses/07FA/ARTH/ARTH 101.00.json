@@ -7,7 +7,7 @@
 		"Alison M Kettering",
 		"Baird E Jarman"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 38,
 		"total": 60,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "17426",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSCORE",
+		"EUSTTRANNATL"
 	],
-	"title": "Introduction to Art History I"
+	"title": "Introduction to Art History I",
+	"type": "Course"
 }

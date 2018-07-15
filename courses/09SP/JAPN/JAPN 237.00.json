@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "21884",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Lit & Art Japan: 1333-1868"
+	"title": "Lit & Art Japan: 1333-1868",
+	"type": "Course"
 }

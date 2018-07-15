@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 131, 132, 141, or 142 and Mathematics 211; or permission of the instructor",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": "An analytical treatment of classical mechanics from a Lagrangian and Hamiltonian standpoint. Equations of motion and their solutions are studied with special emphasis on the harmonic oscillator and central-force problems.",
 	"synonym": "34878",
 	"tags": [],
-	"title": "Analytical Mechanics"
+	"title": "Analytical Mechanics",
+	"type": "Course"
 }

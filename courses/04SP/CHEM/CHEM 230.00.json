@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 45,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6627",
 	"tags": [],
-	"title": "Equilibrium and Analysis"
+	"title": "Equilibrium and Analysis",
+	"type": "Course"
 }

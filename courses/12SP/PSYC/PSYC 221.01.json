@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "221.01",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 220",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -38,10 +36,8 @@
 	"summary": "This course accompanies Psychology 220. Students will replicate classical phenomena and plan and conduct original empirical research projects in the study of human perceptual processes. Psychology 221 requires concurrent or prior registration in Psychology 220. A grade of C- or better must be earned in both Psychology 220 and 221 to satisfy the LS requirement.",
 	"synonym": "28904",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Laboratory Research Methods in Sensation and Perception"
+	"title": "Laboratory Research Methods in Sensation and Perception",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "169.00",
+	"number": "169",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 48,
 		"total": 50,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "10443",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTLTAM",
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"HISTATLANTWRLD"
 	],
-	"title": "Colonial Latin Amer 1492-1810"
+	"title": "Colonial Latin Amer 1492-1810",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Bob Dobrow",
 		"Mark Krusemeyer"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "11423",
 	"tags": [],
-	"title": "Seminar/History of Mathematics"
+	"title": "Seminar/History of Mathematics",
+	"type": "Course"
 }

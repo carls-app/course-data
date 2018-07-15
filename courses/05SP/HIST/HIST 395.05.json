@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "395.05",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "10553",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTEUR1451",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"HISTERLYMODEUR"
 	],
-	"title": "Rev & Rebellion Eur History"
+	"title": "Rev & Rebellion Eur History",
+	"type": "Course"
 }

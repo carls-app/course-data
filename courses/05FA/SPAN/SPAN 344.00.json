@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,38 +42,15 @@
 	"summary": null,
 	"synonym": "13644",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"LTAMLIT",
+		"WGSTADDL",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAM300LIT"
 	],
-	"title": "Women Writers in LatAm:Challen"
+	"title": "Women Writers in LatAm:Challen",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "5259",
 	"tags": [],
-	"title": "Golf Intercollegiate"
+	"title": "Golf Intercollegiate",
+	"type": "Course"
 }

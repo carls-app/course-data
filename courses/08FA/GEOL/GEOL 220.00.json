@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20348",
 	"tags": [],
-	"title": "Tectonics"
+	"title": "Tectonics",
+	"type": "Course"
 }

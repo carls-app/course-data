@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -36,5 +37,6 @@
 		"ENTSSCI",
 		"ENTSLAB"
 	],
-	"title": "Aquatic Biology Laboratory"
+	"title": "Aquatic Biology Laboratory",
+	"type": "Course"
 }

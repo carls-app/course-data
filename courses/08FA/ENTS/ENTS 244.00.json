@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "21208",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"SOANPERT",
+		"ENTSCDSCP"
 	],
-	"title": "Biodiversity, Consvtn & Dev"
+	"title": "Biodiversity, Consvtn & Dev",
+	"type": "Course"
 }

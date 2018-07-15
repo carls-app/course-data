@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "9185",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"CCSTGLOBAL",
+		"ENTSINTL"
 	],
-	"title": "Economy, Ecology, Culture"
+	"title": "Economy, Ecology, Culture",
+	"type": "Course"
 }

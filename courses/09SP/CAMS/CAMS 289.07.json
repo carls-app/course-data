@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "289.07",
+	"number": "289",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 24,
 		"total": 45,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "20371",
 	"tags": [
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSSTUPROD",
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Digital Workshop"
+	"title": "Digital Workshop",
+	"type": "Course"
 }

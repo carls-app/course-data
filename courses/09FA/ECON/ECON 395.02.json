@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "24383",
 	"tags": [
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"ENTSWRSCP",
+		"ENTSFASCP",
+		"ENTSCDSCP"
 	],
-	"title": "Adv Topic-Environment Econ"
+	"title": "Adv Topic-Environment Econ",
+	"type": "Course"
 }

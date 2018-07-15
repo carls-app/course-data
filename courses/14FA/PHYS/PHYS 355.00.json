@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Physics 229 and 230",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -46,5 +44,6 @@
 	"summary": "Lagrangian and Hamiltonian methods including central force motion, coupled harmonic oscillators, and the study of continuous systems. Additional subjects may include fluid dynamics, classical field theory or other specialized topics.",
 	"synonym": "39319",
 	"tags": [],
-	"title": "Topics in Advanced Classical Mechanics"
+	"title": "Topics in Advanced Classical Mechanics",
+	"type": "Course"
 }

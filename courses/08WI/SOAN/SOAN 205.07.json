@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "205.07",
+	"number": "205",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "17662",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Indigenous Lang Instruction"
+	"title": "Indigenous Lang Instruction",
+	"type": "Course"
 }

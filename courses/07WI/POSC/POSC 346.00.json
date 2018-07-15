@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 15,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "15633",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSISECFRGNPOL",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
-	"title": "Spies, Rogues and Statesmen"
+	"title": "Spies, Rogues and Statesmen",
+	"type": "Course"
 }

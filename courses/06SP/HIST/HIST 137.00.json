@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 46,
 		"total": 45,
@@ -43,34 +44,14 @@
 	"summary": null,
 	"synonym": "12422",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL",
+		"FRSTHIST",
+		"FRSTSUPP"
 	],
-	"title": "Before Eur: Early Medvl World"
+	"title": "Before Eur: Early Medvl World",
+	"type": "Course"
 }

@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -20,5 +21,6 @@
 	"summary": "Each senior geology major must take a total of six credits of Geology 400. One of the credits will be awarded in the spring term for the preparation and delivery of a formal talk and attendance at the talks or other seniors. The other five credits must be taken in the fall and/or winter terms. Credits can be divided between those two terms or all five credits may be taken in the same term. All seniors must attend the Geology 400 seminars which will meet weekly fall and winter term. Geology 400 is a continuing course, and the grade will not be awarded until the end of spring term.",
 	"synonym": "25970",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

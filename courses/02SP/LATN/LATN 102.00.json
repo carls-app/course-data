@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "486",
 	"tags": [],
-	"title": "Intermediate Latin"
+	"title": "Intermediate Latin",
+	"type": "Course"
 }

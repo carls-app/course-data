@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13050",
 	"tags": [],
-	"title": "Intro to Educational Studies"
+	"title": "Intro to Educational Studies",
+	"type": "Course"
 }

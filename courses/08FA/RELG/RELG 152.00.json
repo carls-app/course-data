@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "21687",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTHU",
+		"ASSTEAST"
 	],
-	"title": "Religions in Japanese Culture"
+	"title": "Religions in Japanese Culture",
+	"type": "Course"
 }

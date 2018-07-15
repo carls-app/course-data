@@ -6,7 +6,7 @@
 	"instructors": [
 		"Suzie Nakasian"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "14143",
 	"tags": [],
-	"title": "Psyc&Relg:Freud, Jung & James"
+	"title": "Psyc&Relg:Freud, Jung & James",
+	"type": "Course"
 }

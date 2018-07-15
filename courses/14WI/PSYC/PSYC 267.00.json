@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": "This course will explore brain disorders with significant psychological manifestations, such as Alzheimer's disease, anxiety, depression, schizophrenia, and substance abuse, among others. Students will also receive a foundation in brain anatomy, physiology, and chemistry so that they may better understand the biological correlates of these clinical conditions.",
 	"synonym": "35418",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Clinical Neuroscience"
+	"title": "Clinical Neuroscience",
+	"type": "Course"
 }

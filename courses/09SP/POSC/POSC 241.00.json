@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 25,
@@ -36,34 +37,14 @@
 	"summary": null,
 	"synonym": "20682",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"CCSTREGIONAL",
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "Ethnic Conflict"
+	"title": "Ethnic Conflict",
+	"type": "Course"
 }

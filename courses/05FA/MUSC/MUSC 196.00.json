@@ -9,7 +9,7 @@
 		"Ben Allen",
 		"Mary B Martz"
 	],
-	"number": "196.00",
+	"number": "196",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 30,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "12575",
 	"tags": [],
-	"title": "Class Voice"
+	"title": "Class Voice",
+	"type": "Course"
 }

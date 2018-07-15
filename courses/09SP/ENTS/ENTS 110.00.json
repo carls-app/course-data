@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22187",
 	"tags": [],
-	"title": "Environment and Society"
+	"title": "Environment and Society",
+	"type": "Course"
 }

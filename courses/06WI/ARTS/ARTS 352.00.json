@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "12962",
 	"tags": [],
-	"title": "Post Hawaiian Seminar Class"
+	"title": "Post Hawaiian Seminar Class",
+	"type": "Course"
 }

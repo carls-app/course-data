@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -50,38 +45,15 @@
 	"summary": null,
 	"synonym": "26239",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"POSI-AREAS",
+		"RELGPERT",
+		"HISTASIA",
+		"SAST",
+		"ASSTSOUTH",
+		"ASSTHU",
+		"RELGISLAMICTRAD",
+		"RELGTHETHCLWPOL"
 	],
-	"title": "Hist of Islam in India"
+	"title": "Hist of Islam in India",
+	"type": "Course"
 }

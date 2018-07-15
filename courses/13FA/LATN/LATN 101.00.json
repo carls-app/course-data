@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -51,5 +52,6 @@
 	"summary": "Study of essential forms and grammar. This course should be elected by all students who have taken less than two years of secondary school Latin or who have not studied the subject for two or more years before entering college.",
 	"synonym": "36111",
 	"tags": [],
-	"title": "Elementary Latin"
+	"title": "Elementary Latin",
+	"type": "Course"
 }

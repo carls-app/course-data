@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125, 126 and 3-upper-level Biology courses; BIOL 400",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -22,5 +23,6 @@
 	"summary": "Guided instruction in reading and interpretation of contemporary primary literature in Biology.",
 	"synonym": "28720",
 	"tags": [],
-	"title": "Critical Reading and Analysis of Primary Literature"
+	"title": "Critical Reading and Analysis of Primary Literature",
+	"type": "Course"
 }

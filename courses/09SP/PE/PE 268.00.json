@@ -7,16 +7,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -26,5 +24,6 @@
 	"summary": null,
 	"synonym": "21202",
 	"tags": [],
-	"title": "Squash Club"
+	"title": "Squash Club",
+	"type": "Course"
 }

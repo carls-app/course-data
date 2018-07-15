@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven Jongewaard"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Senior standing and Instructor Permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "Structure, methodology, strategies, and materials for teaching sociology-anthropology, psychology, economics, political science, geography and history in grades 5-12.",
 	"synonym": "31927",
 	"tags": [],
-	"title": "Methods of Teaching Social Studies"
+	"title": "Methods of Teaching Social Studies",
+	"type": "Course"
 }

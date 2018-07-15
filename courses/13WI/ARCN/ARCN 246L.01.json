@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "246L.01",
+	"number": "246L",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32193",
 	"tags": [],
-	"title": "Archaeological Methodology Lab"
+	"title": "Archaeological Methodology Lab",
+	"type": "Lab"
 }

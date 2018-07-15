@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "6650",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"CCSTGLOBAL",
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Environmental Analysis"
+	"title": "Environmental Analysis",
+	"type": "Course"
 }

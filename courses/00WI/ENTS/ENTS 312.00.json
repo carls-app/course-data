@@ -9,7 +9,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 18,
@@ -44,5 +45,6 @@
 		"ENTSINTL",
 		"LTAMELECTIVE"
 	],
-	"title": "Third World \"Development\""
+	"title": "Third World \"Development\"",
+	"type": "Course"
 }

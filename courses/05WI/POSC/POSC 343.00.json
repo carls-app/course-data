@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noha S Shawki"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "9776",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"CCSTGLOBAL",
+		"POSCELECTIVE",
+		"POSIADVSEM",
+		"POSC300LEVEL"
 	],
-	"title": "Seminar in World Politics"
+	"title": "Seminar in World Politics",
+	"type": "Course"
 }

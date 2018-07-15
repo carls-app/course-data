@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 10,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "28202",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Tense Affinities: A History of German Jewish Culture"
+	"title": "Tense Affinities: A History of German Jewish Culture",
+	"type": "Course"
 }

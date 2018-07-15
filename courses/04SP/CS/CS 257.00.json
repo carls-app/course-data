@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6806",
 	"tags": [],
-	"title": "Software Design"
+	"title": "Software Design",
+	"type": "Course"
 }

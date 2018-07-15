@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: French 204, recommended preparation: French 206, 240, or 241.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "What do Persians, Peruvians, Tartars, Tahitians and Eldoradans have in common? For one thing, they're all present in eighteenth-century France's heavily fantasized view of the world beyond its borders. By looking at texts and events of the long eighteenth century, including travel literature, voyages of discovery, and the",
 	"synonym": "29991",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"EUSTCNTRY",
+		"FRSTELECAL"
 	],
-	"title": "Other Worlds"
+	"title": "Other Worlds",
+	"type": "Course"
 }

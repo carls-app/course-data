@@ -8,7 +8,7 @@
 	"instructors": [
 		"Guolong Lai"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2906",
 	"tags": [],
-	"title": "Archaeology&Cultural Heritage"
+	"title": "Archaeology&Cultural Heritage",
+	"type": "Course"
 }

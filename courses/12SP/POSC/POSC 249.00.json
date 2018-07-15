@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": null,
 	"synonym": "30407",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"POSIELECTIVE",
+		"POSI-LPS",
+		"EUSTTRANNATL",
+		"POSI-GDS"
 	],
-	"title": "Theories of International Relations"
+	"title": "Theories of International Relations",
+	"type": "Course"
 }

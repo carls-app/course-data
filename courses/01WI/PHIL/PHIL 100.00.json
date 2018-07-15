@@ -8,7 +8,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1129",
 	"tags": [],
-	"title": "The Socratic Turn"
+	"title": "The Socratic Turn",
+	"type": "Course"
 }

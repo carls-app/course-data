@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "25310",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
-	"title": "Uses and Abuses of Behavioral Research"
+	"title": "Uses and Abuses of Behavioral Research",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": null,
 	"synonym": "25836",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"ENGLF",
+		"ENGLT1",
+		"THEAPERT"
 	],
-	"title": "Introduction to English Drama"
+	"title": "Introduction to English Drama",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "19027",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"ASSTSOUTH",
+		"ENTSLPSCP",
+		"ENTSENVPERS",
+		"ENTSINTL"
 	],
-	"title": "Buddhism and Ecology"
+	"title": "Buddhism and Ecology",
+	"type": "Course"
 }

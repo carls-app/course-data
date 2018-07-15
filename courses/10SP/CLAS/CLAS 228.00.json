@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 54,
 		"total": 40,
@@ -41,10 +42,8 @@
 	"summary": "Introduction to Rome's political and social history from the Etruscan period to the end of the Republic. Topics include Roman political culture, the acquisition of empire, the role of the army, the psychology of Rome, and interpretation of historical evidence. Based largely on primary source readings.",
 	"synonym": "24291",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTANCNT/MDVL"
 	],
-	"title": "The Roman Republic"
+	"title": "The Roman Republic",
+	"type": "Course"
 }

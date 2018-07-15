@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lillian Stoltz"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "3266",
 	"tags": [],
-	"title": "Aerobics"
+	"title": "Aerobics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -41,42 +42,16 @@
 	"summary": null,
 	"synonym": "21825",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"FRSTCORE",
+		"FRSTSUPP",
+		"ASSTMETH",
+		"FRSTHIST",
+		"ASSTDISC",
+		"FRENPERT",
+		"GERMPERT",
+		"CAMSELECTIVE"
 	],
-	"title": "Crit Meth:Structure,Gender"
+	"title": "Crit Meth:Structure,Gender",
+	"type": "Course"
 }

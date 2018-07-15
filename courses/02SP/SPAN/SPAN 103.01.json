@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane Pearsall"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "1250",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

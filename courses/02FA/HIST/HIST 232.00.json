@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "4421",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"HISTEUR1450",
+		"HISTEUR1451",
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"FRSTHIST"
 	],
-	"title": "The Renaissance"
+	"title": "The Renaissance",
+	"type": "Course"
 }

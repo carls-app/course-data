@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "20642",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"AMSTTOPICAL3",
+		"POSI-DSS"
 	],
-	"title": "National Policymaking"
+	"title": "National Policymaking",
+	"type": "Course"
 }

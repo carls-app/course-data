@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "367.00",
+	"number": "367",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "7459",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS"
 	],
-	"title": "Suburbanization in America"
+	"title": "Suburbanization in America",
+	"type": "Course"
 }

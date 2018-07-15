@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristen C Kling"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 49,
 		"total": 60,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2579",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

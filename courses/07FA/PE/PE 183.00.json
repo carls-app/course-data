@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luciano H Battaglini"
 	],
-	"number": "183.00",
+	"number": "183",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18818",
 	"tags": [],
-	"title": "Tennis, Intermediate"
+	"title": "Tennis, Intermediate",
+	"type": "Course"
 }

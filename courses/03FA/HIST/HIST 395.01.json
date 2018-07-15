@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "8137",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR"
 	],
-	"title": "Fascism"
+	"title": "Fascism",
+	"type": "Course"
 }

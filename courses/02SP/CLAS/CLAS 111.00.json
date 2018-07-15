@@ -8,7 +8,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -48,14 +46,9 @@
 	"summary": null,
 	"synonym": "499",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Class Myth:Lang of Myth"
+	"title": "Class Myth:Lang of Myth",
+	"type": "Course"
 }

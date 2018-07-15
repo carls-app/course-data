@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Boliou 032"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9674",
 	"tags": [],
-	"title": "Printmaking"
+	"title": "Printmaking",
+	"type": "Course"
 }

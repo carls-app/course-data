@@ -8,11 +8,12 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -22,34 +23,14 @@
 	"summary": null,
 	"synonym": "15454",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"FRSTCULT",
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"FRSTHIST",
+		"EUSTTRANNATL"
 	],
-	"title": "Living in the City: Paris-Fes"
+	"title": "Living in the City: Paris-Fes",
+	"type": "Course"
 }

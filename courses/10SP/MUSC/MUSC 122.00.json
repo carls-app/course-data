@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Ability to read music not required.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": "A survey of orchestral symphonies and related genres from the late eighteenth through the late nineteenth centuries with emphasis on the works of Mozart, Beethoven, Berlioz, Schubert, Schumann, Brahms, Mahler, and others. Symphonies will be studied through listening and readings; connections to other aspects of nineteenth-century European culture will be explored.",
 	"synonym": "24951",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Symphonies from Mozart to Mahler"
+	"title": "Symphonies from Mozart to Mahler",
+	"type": "Course"
 }

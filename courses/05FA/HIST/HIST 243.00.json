@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -36,38 +37,15 @@
 	"summary": null,
 	"synonym": "12388",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELEC",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTERLYMODEUR",
+		"FRSTHIST",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"FRSTSUPP"
 	],
-	"title": "The Peasants Are Revolting"
+	"title": "The Peasants Are Revolting",
+	"type": "Course"
 }

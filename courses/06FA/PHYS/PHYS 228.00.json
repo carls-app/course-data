@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "16504",
 	"tags": [],
-	"title": "Atomic and Nuclear Physics"
+	"title": "Atomic and Nuclear Physics",
+	"type": "Course"
 }

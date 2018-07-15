@@ -6,7 +6,7 @@
 	"instructors": [
 		"John L Sullivan"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1066",
 	"tags": [],
-	"title": "Political Psychology"
+	"title": "Political Psychology",
+	"type": "Course"
 }

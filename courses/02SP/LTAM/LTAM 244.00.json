@@ -9,7 +9,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "1102",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Music of the Caribbean"
+	"title": "Music of the Caribbean",
+	"type": "Course"
 }

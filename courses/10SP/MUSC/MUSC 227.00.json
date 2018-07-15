@@ -8,7 +8,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: A previous course in Music or Psychology, or instructor permission; Concurrent registration in Music 228",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": "Covers basic issues in auditory perception and cognition with an emphasis on the perception of musical pitch, including sensory discrimination, categorical perception, roughness and dissonance, absolute pitch, and auditory streaming. Other topics to be covered include the processing of language and music, and emotional responses to music. A grade of C- or better must be earned in both Music 227 and 228 to satisfy the LS requirement.",
 	"synonym": "23559",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Perception and Cognition of Music"
+	"title": "Perception and Cognition of Music",
+	"type": "Course"
 }

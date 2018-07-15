@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "1179",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL3",
+		"CCSTREGIONAL",
+		"CCSTETHNIC"
 	],
-	"title": "Compartv Issues/Native N Amer"
+	"title": "Compartv Issues/Native N Amer",
+	"type": "Course"
 }

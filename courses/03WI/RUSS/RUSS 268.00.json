@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "4957",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Russian Fiction Soviet Era"
+	"title": "Russian Fiction Soviet Era",
+	"type": "Course"
 }

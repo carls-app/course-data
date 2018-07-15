@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "1865",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "16338",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Adv Photo: Digital Imaging"
+	"title": "Adv Photo: Digital Imaging",
+	"type": "Course"
 }

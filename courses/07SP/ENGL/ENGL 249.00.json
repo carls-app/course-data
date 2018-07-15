@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 35,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "17312",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGL4",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLT1"
 	],
-	"title": "Irish Literature"
+	"title": "Irish Literature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "7769",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMELECTIVE"
 	],
-	"title": "Ltam Prose:Revolutn &Dictator"
+	"title": "Ltam Prose:Revolutn &Dictator",
+	"type": "Course"
 }

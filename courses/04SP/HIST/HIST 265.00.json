@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -41,34 +42,14 @@
 	"summary": null,
 	"synonym": "8462",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"CCSTREGIONAL",
+		"HISTISLAM",
+		"MARSSUPP",
+		"ASSTPERT",
+		"HISTASIA",
+		"ASSTCENT",
+		"ASSTHU"
 	],
-	"title": "Empires of the Steppe"
+	"title": "Empires of the Steppe",
+	"type": "Course"
 }

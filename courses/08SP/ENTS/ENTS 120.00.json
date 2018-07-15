@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"CMC 206",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "19869",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ENTSSCI",
+		"ENTSQUANTV"
 	],
-	"title": "Intro to Geospatial Analysis"
+	"title": "Intro to Geospatial Analysis",
+	"type": "Course"
 }

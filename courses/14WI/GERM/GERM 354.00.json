@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -45,5 +40,6 @@
 	"summary": "An examination of the modern novella and lyric, including works by such authors as Kafka, Brecht, Hesse, Rilke, George, Hofmannsthal, Mann, Frisch, Wolf, Bäll, Frischmuth, Kaschnitz, and others, in their historical and cultural context.",
 	"synonym": "36104",
 	"tags": [],
-	"title": "Studies in Twentieth-Century Prose and Poetry"
+	"title": "Studies in Twentieth-Century Prose and Poetry",
+	"type": "Course"
 }

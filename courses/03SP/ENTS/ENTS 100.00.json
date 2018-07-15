@@ -9,7 +9,7 @@
 		"Joel M Weisberg",
 		"Robert C Rossi"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "4747",
 	"tags": [],
-	"title": "Science, Tech & Public Policy"
+	"title": "Science, Tech & Public Policy",
+	"type": "Course"
 }

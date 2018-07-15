@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Condon"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "2955",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Writing-Cultural Communities"
+	"title": "Writing-Cultural Communities",
+	"type": "Course"
 }

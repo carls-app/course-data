@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "10434",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTEAST",
+		"HISTASIA"
 	],
-	"title": "The Chinese Revolution of 1949"
+	"title": "The Chinese Revolution of 1949",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian W Fuller"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -46,18 +44,10 @@
 	"summary": "Do you feel lost without your iPhone? Did you feel empty when Breaking Bad ended? Have Twitter and Instagram improved your life? In this course we critically examine the socio-cultural origins and impact of media technologies. Using perspectives from sociology, critical theory and cultural studies, we investigate the ways in which media of communication help shape ourselves and our social world. From mass media to social media, we focus on issues of power and inequality to understand and evaluate our media-saturated world.",
 	"synonym": "40127",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"SPECINTSOCTHGHT",
+		"CAMSELECTIVE"
 	],
-	"title": "Media and Society"
+	"title": "Media and Society",
+	"type": "Course"
 }

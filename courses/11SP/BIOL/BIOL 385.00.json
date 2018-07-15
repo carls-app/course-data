@@ -8,7 +8,7 @@
 	"instructors": [
 		"Raka M Mitra"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and either Biology 240 or 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,10 +41,8 @@
 	"summary": null,
 	"synonym": "26180",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
-	"title": "Microbial Pathology"
+	"title": "Microbial Pathology",
+	"type": "Course"
 }

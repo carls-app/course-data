@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beatriz Pariente-Beltrán"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or its equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": "The focus of this course is to review some key grammatical structures through communicative translation exercises, as well as to become more aware of pragmatic and discursive differences between Spanish and English. Translation exercises are prepared at home and class time is devoted to discussion and constructive criticism about grammar and style. The course will be taught primarily in Spanish. This course will enhance students' skills in Spanish writing, reading, speaking and listening.",
 	"synonym": "37281",
 	"tags": [],
-	"title": "Improving Spanish through Translation"
+	"title": "Improving Spanish through Translation",
+	"type": "Course"
 }

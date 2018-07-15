@@ -8,7 +8,7 @@
 	"instructors": [
 		"Zachary K Rothschild"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -48,10 +46,8 @@
 	"summary": "This course will focus on a social psychological analysis of social cognition, perception and judgment. It includes the examination of attitudes, stereotyping, attribution and the self. Concurrent registration in Psychology 259 is strongly suggested. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "35437",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Social Cognition"
+	"title": "Social Cognition",
+	"type": "Course"
 }

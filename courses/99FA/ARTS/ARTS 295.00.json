@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kurt J Kemp"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Boliou 32"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2132",
 	"tags": [],
-	"title": "Special Topics:Printmaking"
+	"title": "Special Topics:Printmaking",
+	"type": "Course"
 }

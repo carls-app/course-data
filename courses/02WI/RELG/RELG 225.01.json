@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "225.01",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "930",
 	"tags": [],
-	"title": "Contemporary Catholic Theology"
+	"title": "Contemporary Catholic Theology",
+	"type": "Course"
 }

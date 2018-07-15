@@ -8,7 +8,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1066",
 	"tags": [],
-	"title": "Intergalactic Knowledge"
+	"title": "Intergalactic Knowledge",
+	"type": "Course"
 }

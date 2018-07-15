@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael S Griffin"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Scoville 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "19071",
 	"tags": [
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMS300THEORY",
+		"CAMSELECTIVE"
 	],
-	"title": "Critical Soc Thry & the Media"
+	"title": "Critical Soc Thry & the Media",
+	"type": "Course"
 }

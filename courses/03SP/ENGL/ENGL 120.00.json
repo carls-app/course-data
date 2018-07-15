@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4041",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"LITFORLANG"
 	],
-	"title": "Intro Modern Lit:Brit & Amer"
+	"title": "Intro Modern Lit:Brit & Amer",
+	"type": "Course"
 }

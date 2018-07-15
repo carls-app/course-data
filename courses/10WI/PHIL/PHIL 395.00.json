@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "23712",
 	"tags": [
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"PHILADV"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

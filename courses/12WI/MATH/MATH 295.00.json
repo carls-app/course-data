@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "31274",
 	"tags": [],
-	"title": "Differential Form&Vector Calc"
+	"title": "Differential Form&Vector Calc",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "This course studies theories of the multi-faceted interaction between the balance of international payments and foreign exchange market and the general levels of domestic prices, employment and economic activity. Topics include the balance of payments, foreign exchange markets, adjustment mechanisms in international payments, macroeconomic policies for internal and external balance, and international monetary systems.",
 	"synonym": "36347",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECMIDWTD",
-			"name": "POEC Wrld Trade&Dev Mid Div"
-		}
+		"POSI-GDS2",
+		"CCSTGLOBAL",
+		"POSI-GDS",
+		"POECMIDWTD"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

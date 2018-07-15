@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea K Kalis"
 	],
-	"number": "389.00",
+	"number": "389",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: One of the following: Biology 240, 242, 280, 342, or 350",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "32870",
 	"tags": [],
-	"title": "Evo-Devo: Evolutionary Developmental Biology"
+	"title": "Evo-Devo: Evolutionary Developmental Biology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "13440",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"ENGLFORLIT",
+		"FRSTLANGLIT",
+		"FRSTELECAL",
+		"FRSTSUPP"
 	],
-	"title": "Topics in 19th C. Literature"
+	"title": "Topics in 19th C. Literature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "298.01",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "17904",
 	"tags": [
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTDISC",
+		"ASSTMETH"
 	],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "11469",
 	"tags": [],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

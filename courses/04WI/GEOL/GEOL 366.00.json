@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Mudd 77"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6945",
 	"tags": [],
-	"title": "Computational Earth History"
+	"title": "Computational Earth History",
+	"type": "Course"
 }

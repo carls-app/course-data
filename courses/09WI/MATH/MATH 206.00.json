@@ -7,7 +7,7 @@
 		"Staff",
 		"Mark Krusemeyer"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "21449",
 	"tags": [],
-	"title": "Tour of Mathematics"
+	"title": "Tour of Mathematics",
+	"type": "Course"
 }

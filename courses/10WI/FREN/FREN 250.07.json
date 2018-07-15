@@ -8,16 +8,14 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "250.07",
+	"number": "250",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -27,34 +25,14 @@
 	"summary": "This course will concentrate on the dynamics of traditional orality within the art of cinema in Mali. Feature films and documentaries by award-winning filmmakers such as Soulemane Cissé, Cheick Oumar Sissoko, Adama Drabo, Dany Kouyaté, and Abderrahmane Sissako will be screened and analyzed. Discussions with some of these filmmakers will introduce the student to the challenges and success of filmmaking in economically-challenged countries such as Mali and Burkina Faso.",
 	"synonym": "23071",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"FRSTCULT",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"FRSTLANGLIT",
+		"FRSTHIST",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Mali Program: Film and Society in Mali"
+	"title": "Mali Program: Film and Society in Mali",
+	"type": "Course"
 }

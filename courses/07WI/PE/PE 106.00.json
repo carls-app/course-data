@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "106.00",
+	"number": "106",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "16239",
 	"tags": [],
-	"title": "Badminton, Intermediate"
+	"title": "Badminton, Intermediate",
+	"type": "Course"
 }

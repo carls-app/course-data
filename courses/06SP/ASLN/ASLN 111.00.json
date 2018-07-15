@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "13585",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTSS"
 	],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

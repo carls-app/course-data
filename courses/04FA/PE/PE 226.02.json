@@ -9,16 +9,14 @@
 		"Gerald L Young",
 		"Christian J Brann"
 	],
-	"number": "226.02",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 29,
 		"total": 75,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "11483",
 	"tags": [],
-	"title": "Football Intercollegiate"
+	"title": "Football Intercollegiate",
+	"type": "Course"
 }

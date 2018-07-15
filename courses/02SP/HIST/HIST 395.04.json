@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "2786",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "The Early Republic"
+	"title": "The Early Republic",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "249.07",
+	"number": "249",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "17672",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTCULT",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"FRSTELECAL"
 	],
-	"title": "Myth, Reality & Palimpsest"
+	"title": "Myth, Reality & Palimpsest",
+	"type": "Course"
 }

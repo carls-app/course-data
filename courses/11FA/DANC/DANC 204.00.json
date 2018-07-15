@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Weitz Center 168"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "Intensive rehearsal and performance of a work commissioned from a professional guest choreographer. Open to all levels.",
 	"synonym": "30190",
 	"tags": [],
-	"title": "Fall Dance"
+	"title": "Fall Dance",
+	"type": "Course"
 }

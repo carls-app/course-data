@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Weitz Center 242"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 110 or 113",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -43,5 +41,6 @@
 	"summary": "Understanding the basic techniques of drawing the human form is fundamental to an art education and is the emphasis of this class. Humans have been engaged in the act of self-representation since the beginning of time. The relationship artists have had with drawing the human body is complex and has been the subject of religious, philosophical and personal investigation for centuries. Concentrating on representational drawing techniques we will explore a variety of media and materials. Supplemented by lectures, readings and critiques, students will develop an understanding of both contemporary and historical approaches to drawing the human figure.",
 	"synonym": "31881",
 	"tags": [],
-	"title": "Life Drawing"
+	"title": "Life Drawing",
+	"type": "Course"
 }

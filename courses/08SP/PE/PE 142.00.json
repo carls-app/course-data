@@ -9,7 +9,7 @@
 		"",
 		"Aaron J Chaput"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "18924",
 	"tags": [],
-	"title": "Karate"
+	"title": "Karate",
+	"type": "Course"
 }

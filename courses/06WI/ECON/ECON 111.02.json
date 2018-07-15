@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13192",
 	"tags": [],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

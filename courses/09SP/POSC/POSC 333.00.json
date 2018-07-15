@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,38 +39,15 @@
 	"summary": null,
 	"synonym": "22022",
 	"tags": [
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"ENTSWRSCP",
+		"ENTSCDSCP",
+		"ENTSSP",
+		"POSIELECTIVE",
+		"POSINTLPOLECON",
+		"POSIADVSEM",
+		"POSI-GDS",
+		"ENTSFASCP"
 	],
-	"title": "Sustainability Science"
+	"title": "Sustainability Science",
+	"type": "Course"
 }

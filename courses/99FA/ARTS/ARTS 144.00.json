@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary Tortorici"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2128",
 	"tags": [],
-	"title": "Digital Photography"
+	"title": "Digital Photography",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pam Middleton"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2292",
 	"tags": [],
-	"title": "Oncogenes&Moleculr Bio-Cancer"
+	"title": "Oncogenes&Moleculr Bio-Cancer",
+	"type": "Course"
 }

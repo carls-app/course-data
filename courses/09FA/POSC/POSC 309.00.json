@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "24019",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSI-LPS",
+		"POSCADVSEM"
 	],
-	"title": "The American Presidency"
+	"title": "The American Presidency",
+	"type": "Course"
 }

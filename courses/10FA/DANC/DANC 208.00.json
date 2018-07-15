@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -44,5 +42,6 @@
 	"summary": "For the student with previous ballet experience. This course emphasizes articulation of technique and development of ballet vocabulary.",
 	"synonym": "26271",
 	"tags": [],
-	"title": "Ballet II"
+	"title": "Ballet II",
+	"type": "Course"
 }

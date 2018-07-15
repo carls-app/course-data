@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,18 +42,10 @@
 	"summary": null,
 	"synonym": "32993",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"MARSSUPP",
+		"SPECINTSOCTHGHT",
+		"POSI-DSS"
 	],
-	"title": "Ancient Political Philosophy"
+	"title": "Ancient Political Philosophy",
+	"type": "Course"
 }

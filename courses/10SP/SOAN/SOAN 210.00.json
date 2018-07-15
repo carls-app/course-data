@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "25201",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"ENTS2SCP",
+		"ENTSCDSCP",
+		"POECUPAPP"
 	],
-	"title": "Principles of Demography"
+	"title": "Principles of Demography",
+	"type": "Course"
 }

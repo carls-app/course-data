@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13257",
 	"tags": [],
-	"title": "Human Evolution and Prehistory"
+	"title": "Human Evolution and Prehistory",
+	"type": "Course"
 }

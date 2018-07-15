@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "397",
 	"tags": [],
-	"title": "Classical Mechanics"
+	"title": "Classical Mechanics",
+	"type": "Course"
 }

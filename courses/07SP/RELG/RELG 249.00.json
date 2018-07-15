@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "15766",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTTOPICAL2",
+		"SPECINTETHICS",
+		"SPECINTLEGAL"
 	],
-	"title": "Religion & Amer Public Life"
+	"title": "Religion & Amer Public Life",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sara E Johnson"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 10,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2897",
 	"tags": [],
-	"title": "Photography I"
+	"title": "Photography I",
+	"type": "Course"
 }

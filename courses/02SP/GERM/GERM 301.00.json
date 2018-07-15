@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 7,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1979",
 	"tags": [],
-	"title": "German in Review"
+	"title": "German in Review",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "200.02",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "740",
 	"tags": [],
-	"title": "Methods of Interpretation"
+	"title": "Methods of Interpretation",
+	"type": "Course"
 }

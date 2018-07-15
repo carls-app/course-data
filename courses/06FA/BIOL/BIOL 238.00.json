@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "15057",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		}
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSFAES"
 	],
-	"title": "Entomology"
+	"title": "Entomology",
+	"type": "Course"
 }

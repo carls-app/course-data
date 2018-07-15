@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 020"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "12948",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Adv Sculpture & Installation"
+	"title": "Adv Sculpture & Installation",
+	"type": "Course"
 }

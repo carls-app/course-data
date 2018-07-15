@@ -8,7 +8,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -38,30 +39,13 @@
 	"summary": "Considered by many historians the beginning of the II World War, the Spanish Civil war served as the arena where the main ideologies of the twentieth century--Capitalism, Fascism, and Communism--first clashed. The result was not only one of the bloodiest wars in history, but also was of the most idealistic, with 40,000 volunteers from all over the world willing to die in defense of a country they did not even know. This course will explore the meaning of the war through a variety of mediums and disciplines, including literature, history, graphic arts, and films.",
 	"synonym": "24586",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"PENINLIT",
+		"LTAMELECTIVE",
+		"EUSTCNTRY",
+		"LTAMPERT",
+		"LTAMLIT",
+		"LTAM300LIT"
 	],
-	"title": "The Spanish Civil War"
+	"title": "The Spanish Civil War",
+	"type": "Course"
 }

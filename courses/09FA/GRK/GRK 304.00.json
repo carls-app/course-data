@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "304.00",
+	"number": "304",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 204"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 204",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": "Intensive study of one play in the original and the remaining plays in translation. Offered simultaneously with Greek 204, with additional assignments for the advanced students.",
 	"synonym": "24278",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Greek Tragedy for Advanced Students"
+	"title": "Greek Tragedy for Advanced Students",
+	"type": "Course"
 }

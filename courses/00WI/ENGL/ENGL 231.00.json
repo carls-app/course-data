@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -43,5 +44,6 @@
 		"LITFORLANG",
 		"WGSTCORE"
 	],
-	"title": "Witness Narr:Memoirs-Survival"
+	"title": "Witness Narr:Memoirs-Survival",
+	"type": "Course"
 }

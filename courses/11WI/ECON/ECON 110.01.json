@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -50,5 +45,6 @@
 	"summary": "This course gives students a foundation in the general principles of economics as a basis for effective citizenship and, when combined with 111, as a preparation for all advanced study in economics. Topics include analysis of the measurement, level, and distribution of national income; the concepts of inflation and depression; the role and structure of the banking system; fiscal and monetary stabilization techniques; implications of and limits to economic growth; and international economic relations.",
 	"synonym": "26949",
 	"tags": [],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

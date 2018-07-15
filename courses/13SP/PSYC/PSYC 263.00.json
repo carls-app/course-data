@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 47,
 		"total": 35,
@@ -46,14 +44,9 @@
 	"summary": "This course will examine recent experimental findings and current perspectives on sleep, dreaming, sleep disorders, and states of consciousness.",
 	"synonym": "32296",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC"
 	],
-	"title": "Sleep and Dreaming"
+	"title": "Sleep and Dreaming",
+	"type": "Course"
 }

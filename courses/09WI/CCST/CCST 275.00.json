@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "21529",
 	"tags": [
-		{
-			"code": "CCSTCORE",
-			"name": "CCST Core Courses"
-		}
+		"CCSTCORE"
 	],
-	"title": "I'm a Stranger Here Myself"
+	"title": "I'm a Stranger Here Myself",
+	"type": "Course"
 }

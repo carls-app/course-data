@@ -8,7 +8,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20495",
 	"tags": [],
-	"title": "Lasers and Spectroscopy"
+	"title": "Lasers and Spectroscopy",
+	"type": "Course"
 }

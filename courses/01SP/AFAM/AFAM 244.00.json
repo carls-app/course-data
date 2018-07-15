@@ -9,7 +9,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"CCSTGLOBAL",
 		"AFAMSURVEY"
 	],
-	"title": "Music of Africa"
+	"title": "Music of Africa",
+	"type": "Course"
 }

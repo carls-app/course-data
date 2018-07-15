@@ -8,7 +8,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "20681",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"POSISECFRGNPOL",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "The Diplomat's Craft"
+	"title": "The Diplomat's Craft",
+	"type": "Course"
 }

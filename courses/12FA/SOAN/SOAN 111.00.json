@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -47,10 +42,8 @@
 	"summary": "An introduction to sociology, including analysis of the sociological perspective, culture, socialization, demography, and social class and caste institutions in modern industrial societies and cultures; stability and change in societies of the twentieth and twenty-first centuries. Pros and cons of various theoretical strategies will be emphasized.",
 	"synonym": "32786",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

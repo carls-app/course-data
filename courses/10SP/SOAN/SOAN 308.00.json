@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "24460",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"POECUPAPP"
 	],
-	"title": "Working Across the Life Course"
+	"title": "Working Across the Life Course",
+	"type": "Course"
 }

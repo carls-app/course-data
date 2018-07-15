@@ -9,7 +9,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "112.02",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2027",
 	"tags": [],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

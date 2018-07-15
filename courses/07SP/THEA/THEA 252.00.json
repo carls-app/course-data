@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "17214",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"AMSTTOPICAL1",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "African-American Theater"
+	"title": "African-American Theater",
+	"type": "Course"
 }

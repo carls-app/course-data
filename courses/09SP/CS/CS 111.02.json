@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 37,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21403",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "1162",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Justice Among Nations"
+	"title": "Justice Among Nations",
+	"type": "Course"
 }

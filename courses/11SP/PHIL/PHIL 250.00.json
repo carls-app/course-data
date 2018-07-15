@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,10 +39,8 @@
 	"summary": "A study of the implications that our best current physical theories have for our understanding of the world, as well as the implications that our best philosophical theories have for our understanding of physical theory. We will focus primarily on relativity theory and quantum mechanics. Possible topics include: the nature of causality, the relativity of simultaneity, the twin paradox, hidden variables, the measurement problem, nonlocality, the relationship between quantum theory and relativity theory, and the very idea of scientific truth.",
 	"synonym": "26919",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		}
+		"SPECINTPHILSCI"
 	],
-	"title": "Philosophy of Physics"
+	"title": "Philosophy of Physics",
+	"type": "Course"
 }

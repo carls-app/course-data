@@ -10,7 +10,7 @@
 		"John Schott",
 		"Melody S Gilbert"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -45,10 +46,8 @@
 	"summary": null,
 	"synonym": "19046",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Digital Foundations"
+	"title": "Digital Foundations",
+	"type": "Course"
 }

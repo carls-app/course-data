@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "169.00",
+	"number": "169",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 35,
@@ -52,30 +47,13 @@
 	"summary": "How did peoples from the Americas, the Iberian Peninsula, and Africa contribute to the creation of new colonial societies in Latin America and the Caribbean? The course examines the bewildering spectrum of indigenous societies Europeans and Africans encountered in the Americas, then turns to the introduction and proliferation of Hispanic institutions and culture, the development of mature colonial societies, and the increasing tensions and internal contradictions that plagued the region by the late eighteenth century. It asks how the colonized population managed to survive, adapt, and resist imperial pressures and examines the creation of new collective identities.",
 	"synonym": "32686",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMSOCSCI",
+		"HISTLTAM",
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"HISTATLANTWRLD",
+		"LTAMPERT"
 	],
-	"title": "Colonial Latin America 1492-1810"
+	"title": "Colonial Latin America 1492-1810",
+	"type": "Course"
 }

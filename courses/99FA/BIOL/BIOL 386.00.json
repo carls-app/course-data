@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2509",
 	"tags": [],
-	"title": "Neurobiology"
+	"title": "Neurobiology",
+	"type": "Course"
 }

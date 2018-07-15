@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3878",
 	"tags": [],
-	"title": "Graph Theory"
+	"title": "Graph Theory",
+	"type": "Course"
 }

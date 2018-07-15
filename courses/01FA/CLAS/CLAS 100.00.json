@@ -8,7 +8,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "495",
 	"tags": [],
-	"title": "Alexander the Great:Man-Myth"
+	"title": "Alexander the Great:Man-Myth",
+	"type": "Course"
 }

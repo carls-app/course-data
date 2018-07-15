@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "113.01",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 43,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15199",
 	"tags": [],
-	"title": "Newtonian Mechanics"
+	"title": "Newtonian Mechanics",
+	"type": "Course"
 }

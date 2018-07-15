@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "5471",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Psychology of Language"
+	"title": "Psychology of Language",
+	"type": "Course"
 }

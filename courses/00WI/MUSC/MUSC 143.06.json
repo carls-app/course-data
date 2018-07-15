@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "143.06",
+	"number": "143",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "3074",
 	"tags": [],
-	"title": "Music of the Caribbean"
+	"title": "Music of the Caribbean",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "108.00",
+	"number": "108",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": "A course in using the computer to make meaningful interventions into our practices as musicians. We'll explore a number of approaches to composing, producing, and hearing music, among them coding, visual programming, and working in a digital audio workstation. Students will ultimately combine and hybridize these different methods in order to create unique, individual systems, using them to make new work. Open to all interested students; no prior experience with music, programming, or production required.",
 	"synonym": "33817",
 	"tags": [],
-	"title": "Introduction to Music Technology"
+	"title": "Introduction to Music Technology",
+	"type": "Course"
 }

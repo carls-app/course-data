@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2035",
 	"tags": [],
-	"title": "Advanced Seminar"
+	"title": "Advanced Seminar",
+	"type": "Course"
 }

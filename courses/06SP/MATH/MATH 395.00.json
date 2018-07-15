@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12368",
 	"tags": [],
-	"title": "Topics in Graph Theory"
+	"title": "Topics in Graph Theory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -41,34 +42,14 @@
 	"summary": null,
 	"synonym": "18112",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"ASSTCENT",
+		"HISTASIA",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
-	"title": "Colonialism in East Asia"
+	"title": "Colonialism in East Asia",
+	"type": "Course"
 }

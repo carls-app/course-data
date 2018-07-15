@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -52,5 +47,6 @@
 	"summary": "Close readings of novels, short stories, and poetry by prominent modern and contemporary Japanese women such as Enchi Fumiko, Kono Taeko, Yamada Eimi, and Ito Hiromi, looking at how women suffer, challenge, violate, and change social norms and standards. Course conducted in English.",
 	"synonym": "29776",
 	"tags": [],
-	"title": "Contemporary Japanese Women in Translation: Bad Girls"
+	"title": "Contemporary Japanese Women in Translation: Bad Girls",
+	"type": "Course"
 }

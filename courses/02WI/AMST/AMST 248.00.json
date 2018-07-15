@@ -9,7 +9,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2828",
 	"tags": [],
-	"title": "Architecture Since 1950"
+	"title": "Architecture Since 1950",
+	"type": "Course"
 }

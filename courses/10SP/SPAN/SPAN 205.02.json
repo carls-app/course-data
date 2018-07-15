@@ -6,7 +6,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "205.02",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -36,10 +37,8 @@
 	"summary": "A course designed to develop the student's oral and written mastery of Spanish. Advanced study of grammar. Compositions and conversations based on cultural and literary topics. There is also an audio-video component focused on current affairs.",
 	"synonym": "24596",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Conversation and Composition"
+	"title": "Conversation and Composition",
+	"type": "Course"
 }

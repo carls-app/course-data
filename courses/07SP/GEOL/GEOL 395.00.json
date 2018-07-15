@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "17231",
 	"tags": [],
-	"title": "High Latitude Periglacial"
+	"title": "High Latitude Periglacial",
+	"type": "Course"
 }

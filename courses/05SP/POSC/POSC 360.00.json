@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 15,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "9833",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Seminar in Political Econ"
+	"title": "Seminar in Political Econ",
+	"type": "Course"
 }

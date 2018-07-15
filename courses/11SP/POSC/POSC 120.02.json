@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "120.02",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 35,
@@ -56,14 +48,9 @@
 	"summary": "An introduction to the fundamentals of government and the variety of ways politics is practiced in different countries. Capitalist democracies, transitional states and developing nations are compared.",
 	"synonym": "27053",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

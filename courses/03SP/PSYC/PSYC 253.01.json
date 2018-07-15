@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "253.01",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Olin 116"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3562",
 	"tags": [],
-	"title": "Personality Lab"
+	"title": "Personality Lab",
+	"type": "Course"
 }

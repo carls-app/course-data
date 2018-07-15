@@ -7,7 +7,7 @@
 		"Mark Hansell",
 		"Hong Zeng"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -52,10 +53,8 @@
 	"summary": null,
 	"synonym": "13571",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

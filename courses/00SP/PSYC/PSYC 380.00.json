@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2614",
 	"tags": [],
-	"title": "Seminar in Development"
+	"title": "Seminar in Development",
+	"type": "Course"
 }

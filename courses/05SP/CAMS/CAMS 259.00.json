@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kjel W Johnson"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "11171",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"AMSTTOPICAL1",
+		"CAMSELECTIVE"
 	],
-	"title": "Violent Screen:Hollywd Cinema"
+	"title": "Violent Screen:Hollywd Cinema",
+	"type": "Course"
 }

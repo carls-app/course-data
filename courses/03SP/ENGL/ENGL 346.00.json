@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah A Wadsworth"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "4057",
 	"tags": [],
-	"title": "Tradition in Children's Lit"
+	"title": "Tradition in Children's Lit",
+	"type": "Course"
 }

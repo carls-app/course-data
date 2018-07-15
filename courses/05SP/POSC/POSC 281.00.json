@@ -7,7 +7,7 @@
 		"Kelly L Kollman",
 		"Greg Marfleet"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -42,22 +43,11 @@
 	"summary": null,
 	"synonym": "9826",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Global Society-World Politics"
+	"title": "Global Society-World Politics",
+	"type": "Course"
 }

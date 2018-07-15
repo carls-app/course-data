@@ -8,7 +8,7 @@
 	"instructors": [
 		"Vern D Bailey"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 17,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "11353",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Films of Ingmar Bergman"
+	"title": "Films of Ingmar Bergman",
+	"type": "Course"
 }

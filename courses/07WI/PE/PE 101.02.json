@@ -7,7 +7,7 @@
 		"Nancy Stuckmayer",
 		"Mikki Showers"
 	],
-	"number": "101.02",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "16234",
 	"tags": [],
-	"title": "Aerobics"
+	"title": "Aerobics",
+	"type": "Course"
 }

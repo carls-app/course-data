@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -45,5 +46,6 @@
 	"tags": [
 		"HISTUS"
 	],
-	"title": "American Antebellum Slavery"
+	"title": "American Antebellum Slavery",
+	"type": "Course"
 }

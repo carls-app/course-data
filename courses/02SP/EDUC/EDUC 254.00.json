@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ann Leming"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2342",
 	"tags": [],
-	"title": "Teaching Exceptional Students"
+	"title": "Teaching Exceptional Students",
+	"type": "Course"
 }

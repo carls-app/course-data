@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "5472",
 	"tags": [],
-	"title": "Psychology of Language"
+	"title": "Psychology of Language",
+	"type": "Course"
 }

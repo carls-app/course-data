@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "18114",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"CCSTREGIONAL",
+		"HISTISLAM",
+		"HISTASIA",
+		"ASSTCENT",
+		"ASSTHU"
 	],
-	"title": "Empires of the Steppe"
+	"title": "Empires of the Steppe",
+	"type": "Course"
 }

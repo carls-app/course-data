@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "846",
 	"tags": [],
-	"title": "Latin Prose"
+	"title": "Latin Prose",
+	"type": "Course"
 }

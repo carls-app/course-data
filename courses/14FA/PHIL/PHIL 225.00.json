@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "What is the relationship between the mind and the brain? Are they identical? Or is there mental \"stuff\" in addition to physical stuff? Or perhaps some physical stuff has irreducibly mental properties? These, and related questions, are explored by philosophers under the heading of \"the mind-body problem.\" In this course, we will start with these questions, looking at classical and contemporary defenses of both materialism and dualism. This investigation will lead us to other important questions such as: What is the nature of mental representation, what is consciousness, and could a robot have conscious states and mental representations?",
 	"synonym": "38512",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"PHILTHEORY",
+		"CGSCELECTIVE"
 	],
-	"title": "Philosophy of Mind"
+	"title": "Philosophy of Mind",
+	"type": "Course"
 }

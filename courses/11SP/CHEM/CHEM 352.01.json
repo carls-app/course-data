@@ -9,7 +9,7 @@
 		"Marion E Cass",
 		"Gretchen E Hofmeister"
 	],
-	"number": "352.01",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Mudd 269",
@@ -30,12 +30,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 351; Chemistry 234 and 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -45,5 +43,6 @@
 	"summary": "Synthesis, purification and spectroscopic characterization of transition-metal complexes with an emphasis on methods for preparing and handling air-sensitive compounds. One laboratory per week. Corequisite: Chemistry 351.",
 	"synonym": "25674",
 	"tags": [],
-	"title": "Laboratory in Advanced Inorganic Chemistry"
+	"title": "Laboratory in Advanced Inorganic Chemistry",
+	"type": "Course"
 }

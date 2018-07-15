@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jean M Littlejohn"
 	],
-	"number": "138.00",
+	"number": "138",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "14481",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"EUSTCNTRY",
+		"FRSTSUPP"
 	],
-	"title": "Music & Clt in Paris-Turn 20C"
+	"title": "Music & Clt in Paris-Turn 20C",
+	"type": "Course"
 }

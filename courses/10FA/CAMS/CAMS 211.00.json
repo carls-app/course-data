@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -47,14 +42,9 @@
 	"summary": "This course charts the continued rise and development of cinema 1948-1968, focusing on monuments of world cinema and their industrial, cultural, aesthetic and political contexts. Topics include postwar Hollywood, melodrama, authorship, film style, labor strikes, runaway production, censorship, communist paranoia and the blacklist, film noir, Italian neorealism, widescreen aesthetics, the French New Wave, art cinema, Fellini, Bergman, the Polish School, the Czech New Wave, Japanese and Indian cinema, political filmmaking in the Third World, and the New Hollywood Cinema. Requirements include class attendance and participation, readings, evening film screenings, and various written assignments and exams.",
 	"synonym": "26809",
 	"tags": [
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CAMS200HIST",
+		"EUSTTRANNATL"
 	],
-	"title": "Film History II"
+	"title": "Film History II",
+	"type": "Course"
 }

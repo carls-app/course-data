@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "6888",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		}
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"AFAMDISTROAL"
 	],
-	"title": "African Literature in English"
+	"title": "African Literature in English",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "305.00",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -44,18 +42,10 @@
 	"summary": null,
 	"synonym": "27058",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"POSI-DSS",
+		"AMSTTOPICAL3",
+		"POSCADVSEM"
 	],
-	"title": "Issues in American Democracy*"
+	"title": "Issues in American Democracy*",
+	"type": "Course"
 }

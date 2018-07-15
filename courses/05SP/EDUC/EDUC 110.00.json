@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11918",
 	"tags": [],
-	"title": "Intro to Educational Studies"
+	"title": "Intro to Educational Studies",
+	"type": "Course"
 }

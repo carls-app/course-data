@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbra A Berlovitz"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "22664",
 	"tags": [],
-	"title": "Physical Theater Production"
+	"title": "Physical Theater Production",
+	"type": "Course"
 }

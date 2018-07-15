@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21475",
 	"tags": [],
-	"title": "Inverses and Integration"
+	"title": "Inverses and Integration",
+	"type": "Course"
 }

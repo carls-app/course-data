@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -50,18 +45,10 @@
 	"summary": "An introduction to the genre of epic poetry from Classical Antiquity. Students will read in translation examples from the Greek, Hellenistic, and Roman traditions in order to trace the development of the major features and themes of this genre and to understand the considerable influence this genre has exerted both during antiquity and thereafter. Authors will include Homer, Apollonius, Virgil, and Lucan.",
 	"synonym": "36124",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "The Epic in Classical Antiquity"
+	"title": "The Epic in Classical Antiquity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Max Holmes"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 47,
 		"total": 48,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21082",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"CCSTGLOBAL",
+		"ENTSINTRO",
+		"ENTSSCI"
 	],
-	"title": "Global Change Biology"
+	"title": "Global Change Biology",
+	"type": "Course"
 }

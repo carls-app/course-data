@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1265",
 	"tags": [],
-	"title": "Conducting"
+	"title": "Conducting",
+	"type": "Course"
 }

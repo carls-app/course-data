@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "19631",
 	"tags": [],
-	"title": "FRISC-E Colloquium"
+	"title": "FRISC-E Colloquium",
+	"type": "Course"
 }

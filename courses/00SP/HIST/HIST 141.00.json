@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 53,
 		"total": 60,
@@ -46,5 +47,6 @@
 		"FRSTELEC",
 		"FRSTHIST"
 	],
-	"title": "Europe in the 20th Century"
+	"title": "Europe in the 20th Century",
+	"type": "Course"
 }

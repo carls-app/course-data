@@ -6,7 +6,7 @@
 	"instructors": [
 		"Philip S Francis"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": "From action figures to images of Jesus, masculinities are ever-present if seldom acknowledged. This course explores the changing conceptions of masculinity in Christianity and the West in relation to issues of gender and sexuality, and in debates around God, morality, and family. We consider recurring tropes in Christian and Western conceptions of masculinity, but pay particular attention to images of suffering male bodies--from the crucified Christ to Robert Mapplethorpe's photographs. How do such images reinforce notions of male \"toughness\" and how do they reveal the vulnerability of male bodies and the agency-perhaps the redemptive power-of such vulnerability?",
 	"synonym": "33848",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Be a Man: Masculinity and Christianity"
+	"title": "Be a Man: Masculinity and Christianity",
+	"type": "Course"
 }

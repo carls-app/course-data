@@ -8,7 +8,7 @@
 	"instructors": [
 		"Russ Hanson"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "12499",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Federalism"
+	"title": "Federalism",
+	"type": "Course"
 }

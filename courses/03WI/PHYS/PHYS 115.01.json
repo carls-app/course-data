@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "115.01",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3624",
 	"tags": [],
-	"title": "Relativity and Particles"
+	"title": "Relativity and Particles",
+	"type": "Course"
 }

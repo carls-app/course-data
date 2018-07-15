@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "125L.57",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "19795",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

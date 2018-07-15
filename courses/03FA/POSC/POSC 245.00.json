@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "8092",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Compar Environ Pol & Policy"
+	"title": "Compar Environ Pol & Policy",
+	"type": "Course"
 }

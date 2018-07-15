@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "290.17",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "17",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "10711",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "Reading for Russia"
+	"title": "Reading for Russia",
+	"type": "Course"
 }

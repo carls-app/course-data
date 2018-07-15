@@ -6,7 +6,7 @@
 	"instructors": [
 		"Guy A Kalland"
 	],
-	"number": "129.00",
+	"number": "129",
 	"offerings": {
 		"locations": [
 			"West Gym 209"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "8278",
 	"tags": [],
-	"title": "Golf, Beginning"
+	"title": "Golf, Beginning",
+	"type": "Course"
 }

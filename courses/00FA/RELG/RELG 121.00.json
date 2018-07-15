@@ -6,7 +6,7 @@
 	"instructors": [
 		"Trish Beckman"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Introduction to Christianity"
+	"title": "Introduction to Christianity",
+	"type": "Course"
 }

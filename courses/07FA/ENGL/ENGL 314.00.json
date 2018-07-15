@@ -8,7 +8,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "314.00",
+	"number": "314",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "18702",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		}
+		"ENGL2",
+		"LITFORLANG",
+		"MARSCORE",
+		"EUSTCNTRY",
+		"ENGLHE1"
 	],
-	"title": "Paradise Lost"
+	"title": "Paradise Lost",
+	"type": "Course"
 }

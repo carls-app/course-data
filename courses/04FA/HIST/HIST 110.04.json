@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "110.04",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "10435",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		}
+		"MARSSUPP",
+		"HISTLTAM"
 	],
-	"title": "Conquest & Survl Indig Mexico"
+	"title": "Conquest & Survl Indig Mexico",
+	"type": "Course"
 }

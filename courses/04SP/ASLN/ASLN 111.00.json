@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -48,22 +46,11 @@
 	"summary": null,
 	"synonym": "7698",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

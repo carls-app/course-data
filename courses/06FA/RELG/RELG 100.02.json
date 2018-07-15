@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15738",
 	"tags": [],
-	"title": "Anatomy of Evil"
+	"title": "Anatomy of Evil",
+	"type": "Course"
 }

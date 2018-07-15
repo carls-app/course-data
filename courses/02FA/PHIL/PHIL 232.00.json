@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3721",
 	"tags": [],
-	"title": "Soc&Pol Phil:Justice & Pol"
+	"title": "Soc&Pol Phil:Justice & Pol",
+	"type": "Course"
 }

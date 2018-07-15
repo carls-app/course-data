@@ -7,7 +7,7 @@
 		"John L Tymoczko",
 		"Leon Lunder"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 232, 278, 280, 380 or Chemistry 320 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -42,14 +40,9 @@
 	"summary": null,
 	"synonym": "26176",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"SPECINTHEALTH",
+		"BIOCELEC"
 	],
-	"title": "Seminar: Selected Topics in Exercise Biochemistry"
+	"title": "Seminar: Selected Topics in Exercise Biochemistry",
+	"type": "Course"
 }

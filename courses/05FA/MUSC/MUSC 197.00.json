@@ -8,7 +8,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "197.00",
+	"number": "197",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 30,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "12576",
 	"tags": [],
-	"title": "Class Guitar"
+	"title": "Class Guitar",
+	"type": "Course"
 }

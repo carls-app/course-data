@@ -8,7 +8,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2963",
 	"tags": [],
-	"title": "Ethnicity and Race"
+	"title": "Ethnicity and Race",
+	"type": "Course"
 }

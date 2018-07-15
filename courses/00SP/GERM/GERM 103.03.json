@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "103.03",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "2699",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

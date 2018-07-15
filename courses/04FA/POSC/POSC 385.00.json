@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "9745",
 	"tags": [
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Compartv Democrat Institutions"
+	"title": "Compartv Democrat Institutions",
+	"type": "Course"
 }

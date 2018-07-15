@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "185.01",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Chapel MAIN"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 100,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "12658",
 	"tags": [],
-	"title": "Bella Cantemus"
+	"title": "Bella Cantemus",
+	"type": "Course"
 }

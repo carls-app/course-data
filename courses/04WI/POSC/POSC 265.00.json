@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "7509",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Pol-Global Economic Relations"
+	"title": "Pol-Global Economic Relations",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Mudd 269"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "715",
 	"tags": [],
-	"title": "Inorganic Chemistry Laboratory"
+	"title": "Inorganic Chemistry Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -43,38 +44,15 @@
 	"summary": null,
 	"synonym": "8010",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTEUR1450",
+		"FRSTELEC",
+		"MARSCORE",
+		"MARSSUPP",
+		"FRSTSUPP",
+		"HISTANCNT/MDVL",
+		"FRSTHIST",
+		"EUSTCNTRY"
 	],
-	"title": "France in the Making 987-1460"
+	"title": "France in the Making 987-1460",
+	"type": "Course"
 }

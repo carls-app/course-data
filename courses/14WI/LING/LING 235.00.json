@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J Medeiros"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: 100 level Linguistics course",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "37029",
 	"tags": [
-		{
-			"code": "LINGELEC",
-			"name": "Linguistics Elective"
-		}
+		"LINGELEC"
 	],
-	"title": "Language and Discrimination"
+	"title": "Language and Discrimination",
+	"type": "Course"
 }

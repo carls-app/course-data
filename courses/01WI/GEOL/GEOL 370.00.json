@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 10,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "633",
 	"tags": [
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSINTL",
+		"ENTSSCI"
 	],
-	"title": "Geochemistry"
+	"title": "Geochemistry",
+	"type": "Course"
 }

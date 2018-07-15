@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"QRE",
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -51,14 +43,9 @@
 	"summary": null,
 	"synonym": "26998",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"POSI-DSS",
+		"POSI-DSS2"
 	],
-	"title": "Political Communication in Comparative Context"
+	"title": "Political Communication in Comparative Context",
+	"type": "Course"
 }

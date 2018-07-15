@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "22482",
 	"tags": [
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSICOMPRTV",
+		"POSIELECTIVE"
 	],
-	"title": "Agda Sttg: Speeches&Debates"
+	"title": "Agda Sttg: Speeches&Debates",
+	"type": "Course"
 }

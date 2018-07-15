@@ -6,7 +6,7 @@
 	"instructors": [
 		"Radek Szulga"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "15695",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"POSINTLPOLECON",
+		"POSIELECTIVE"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

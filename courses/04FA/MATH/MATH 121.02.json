@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "121.02",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9858",
 	"tags": [],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

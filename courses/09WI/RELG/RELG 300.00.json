@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "21707",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		}
+		"ASSTMETH",
+		"ASSTDISC"
 	],
-	"title": "Theories & Methods"
+	"title": "Theories & Methods",
+	"type": "Course"
 }

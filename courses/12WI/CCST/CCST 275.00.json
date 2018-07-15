@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -45,10 +40,8 @@
 	"summary": "What do enculturation, tourism, culture shock, \"going native,\" haptics, cross-cultural adjustment, and third culture kids have in common? How do intercultural transitions shape identity? What is intercultural competence? This course explores theories about intercultural contact and tests their usefulness by applying them to the analysis of world literature, case studies, and the visual arts, and by employing students' intercultural experiences as evidence. From individualized, self-reflective exercises to community-oriented group endeavors, our activities will promote new intercultural paradigms in the classroom and the wider community. Course designed for off-campus returnees, students who have lived abroad, or who have experienced being outsiders.",
 	"synonym": "29041",
 	"tags": [
-		{
-			"code": "CCSTCORE",
-			"name": "CCST Core Courses"
-		}
+		"CCSTCORE"
 	],
-	"title": "I'm A Stranger Here Myself"
+	"title": "I'm A Stranger Here Myself",
+	"type": "Course"
 }

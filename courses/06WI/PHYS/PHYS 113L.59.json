@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "113L.59",
+	"number": "113L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 17,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "12153",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

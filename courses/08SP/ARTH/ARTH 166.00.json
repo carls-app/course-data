@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "166.00",
+	"number": "166",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "17438",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Art and Culture"
+	"title": "Chinese Art and Culture",
+	"type": "Course"
 }

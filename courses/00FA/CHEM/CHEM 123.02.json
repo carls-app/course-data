@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert C Rossi"
 	],
-	"number": "123.02",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 29,
 		"total": 32,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2893",
 	"tags": [],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

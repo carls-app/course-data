@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "250L.51",
+	"number": "250L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "51",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3914",
 	"tags": [],
-	"title": "Mineralogy Lab"
+	"title": "Mineralogy Lab",
+	"type": "Lab"
 }

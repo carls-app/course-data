@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "06",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "20978",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Poetry-Dickinson & Whitman"
+	"title": "Poetry-Dickinson & Whitman",
+	"type": "Course"
 }

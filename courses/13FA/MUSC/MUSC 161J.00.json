@@ -8,16 +8,14 @@
 	"instructors": [
 		"Nina E Olsen"
 	],
-	"number": "161J.00",
+	"number": "161J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 50,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "35541",
 	"tags": [],
-	"title": "Clarinet (Juried)"
+	"title": "Clarinet (Juried)",
+	"type": "Juried"
 }

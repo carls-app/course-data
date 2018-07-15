@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rafe Jones"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Properties of the integers. Topics include the Euclidean algorithm, classical unsolved problems in number theory, prime factorization, Diophantine equations, congruences, divisibility, Euler's phi function and other multiplicative functions, primitive roots, and quadratic reciprocity. Other topics may include integers as sums of squares, continued fractions, distribution of primes, integers in extension fields, p-adic numbers.",
 	"synonym": "31801",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
-	"title": "Elementary Theory of Numbers"
+	"title": "Elementary Theory of Numbers",
+	"type": "Course"
 }

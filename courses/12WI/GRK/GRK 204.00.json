@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 103 with a grade of at least C-",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": "Selected readings from",
 	"synonym": "29795",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Greek Poetry"
+	"title": "Greek Poetry",
+	"type": "Course"
 }

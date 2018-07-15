@@ -7,7 +7,7 @@
 		"Alison M Kettering",
 		"Kathleen M Ryor"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 48,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "4695",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Introduction to Art History I"
+	"title": "Introduction to Art History I",
+	"type": "Course"
 }

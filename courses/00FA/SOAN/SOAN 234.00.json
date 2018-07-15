@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,5 +42,6 @@
 		"CCSTGLOBAL",
 		"ENTSINTL"
 	],
-	"title": "Economy, Ecology, Culture"
+	"title": "Economy, Ecology, Culture",
+	"type": "Course"
 }

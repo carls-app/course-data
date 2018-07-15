@@ -8,7 +8,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "109.03",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15791",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

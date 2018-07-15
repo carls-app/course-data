@@ -7,7 +7,7 @@
 		"Lawrence Wichlinski",
 		"Steven F Kozberg"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -28,6 +28,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -37,14 +38,9 @@
 	"summary": "This seminar will focus on the biological and psychological components of psychiatric disorders in children and adolescents. We will also address the possible causes of these disorders, and examine some current controversies surrounding diagnosis and treatment.",
 	"synonym": "35446",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH"
 	],
-	"title": "Child and Adolescent Psychiatry"
+	"title": "Child and Adolescent Psychiatry",
+	"type": "Course"
 }

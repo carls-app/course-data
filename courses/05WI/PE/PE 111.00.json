@@ -6,7 +6,7 @@
 	"instructors": [
 		"Guy A Kalland"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"West Gym GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 18,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "10018",
 	"tags": [],
-	"title": "Basketball, 3 on 3"
+	"title": "Basketball, 3 on 3",
+	"type": "Course"
 }

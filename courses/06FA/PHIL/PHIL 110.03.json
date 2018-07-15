@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16429",
 	"tags": [],
-	"title": "Knowledge and Nebulae"
+	"title": "Knowledge and Nebulae",
+	"type": "Course"
 }

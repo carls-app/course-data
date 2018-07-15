@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "13249",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Anthro of Health and Illness"
+	"title": "Anthro of Health and Illness",
+	"type": "Course"
 }

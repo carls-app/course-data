@@ -9,7 +9,7 @@
 		"John E Campion",
 		"Linda K Luedke"
 	],
-	"number": "159.00",
+	"number": "159",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -24,12 +24,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -39,5 +37,6 @@
 	"summary": null,
 	"synonym": "18809",
 	"tags": [],
-	"title": "Scuba PADI Open Water"
+	"title": "Scuba PADI Open Water",
+	"type": "Course"
 }

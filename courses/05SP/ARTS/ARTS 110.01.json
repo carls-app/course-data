@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 160",
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 0,
@@ -49,5 +50,6 @@
 	"summary": null,
 	"synonym": "9703",
 	"tags": [],
-	"title": "Observational Drawing"
+	"title": "Observational Drawing",
+	"type": "Course"
 }

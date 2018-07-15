@@ -9,7 +9,7 @@
 		"John L Tymoczko",
 		"Stephan G Zweifel"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 76,
 		"total": 80,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "463",
 	"tags": [],
-	"title": "Intro I:Energetics&Genetics"
+	"title": "Intro I:Energetics&Genetics",
+	"type": "Course"
 }

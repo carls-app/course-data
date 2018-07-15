@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -46,22 +44,11 @@
 	"summary": "Selection from Horace's",
 	"synonym": "36115",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"MARSSUPP",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Seminar: Horace"
+	"title": "Seminar: Horace",
+	"type": "Course"
 }

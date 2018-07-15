@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "The Civil War, in which more than 620,000 died, was a cataclysmic event that reshaped American life. Using both original sources and the most recent scholarship, we will explore the causes, leadership, battles, and consequences of the war for ordinary Americans. Topics include the war's impact on men, women, slavery, legal rights, the economy, the confederacy, the presidency, and American memory. Special attention will be paid to Civil War photography, the problems of mapping the conflict, and the attempt to understand the war through modern movies and documentaries, including those of Ken Burns.",
 	"synonym": "30309",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"HISTUS",
+		"AFAMPERT"
 	],
-	"title": "Rethinking the American Civil War"
+	"title": "Rethinking the American Civil War",
+	"type": "Course"
 }

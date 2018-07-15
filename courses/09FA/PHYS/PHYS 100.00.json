@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "22779",
 	"tags": [],
-	"title": "Nanoscience&Nanotechnology"
+	"title": "Nanoscience&Nanotechnology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "377.00",
+	"number": "377",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "24210",
 	"tags": [],
-	"title": "Animal Behavior in Galapagos"
+	"title": "Animal Behavior in Galapagos",
+	"type": "Course"
 }

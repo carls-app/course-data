@@ -6,7 +6,7 @@
 	"instructors": [
 		"Colby D Carlson"
 	],
-	"number": "186.00",
+	"number": "186",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "12917",
 	"tags": [],
-	"title": "Tennis, Advanced Tournament"
+	"title": "Tennis, Advanced Tournament",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha A Easton"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "8888",
 	"tags": [],
-	"title": "Activism, Collective Action"
+	"title": "Activism, Collective Action",
+	"type": "Course"
 }

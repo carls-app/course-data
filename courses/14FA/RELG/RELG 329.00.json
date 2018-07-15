@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -41,26 +39,12 @@
 	"summary": "Is there one Christianity or are there many Christianities? Is Christianity separate from, or shaped by, its surrounding culture? Do religious traditions have boundaries? How and why do beliefs and doctrines change? How much should contemporary culture influence the ways we talk about God? In this course we analyze the complex relationship between theology and culture. We consider the influence of cultural identity on religious belief and practice, and we learn about theories of tradition and culture from a variety of disciplines. Throughout the term we explore the implications of relativism, pluralism, and diversity for theological reflection on the identity of Christianity.",
 	"synonym": "39327",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"EUSTTRANNATL",
+		"RELGCHRISTNTRAD",
+		"RELGAMERTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT"
 	],
-	"title": "Theology, Pluralism, and Culture"
+	"title": "Theology, Pluralism, and Culture",
+	"type": "Course"
 }

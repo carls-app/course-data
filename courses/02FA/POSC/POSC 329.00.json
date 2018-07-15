@@ -7,7 +7,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 35,
@@ -37,14 +38,9 @@
 	"summary": null,
 	"synonym": "4180",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"AMSTTOPICAL3",
+		"POSC300LEVEL"
 	],
-	"title": "Vietnam War & American Policy"
+	"title": "Vietnam War & American Policy",
+	"type": "Course"
 }

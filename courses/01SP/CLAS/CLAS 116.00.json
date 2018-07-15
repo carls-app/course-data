@@ -8,7 +8,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Truth in Performance"
+	"title": "Truth in Performance",
+	"type": "Course"
 }

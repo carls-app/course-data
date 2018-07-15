@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steve Hendrickson"
 	],
-	"number": "251.02",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2732",
 	"tags": [],
-	"title": "Speaking From the Heart"
+	"title": "Speaking From the Heart",
+	"type": "Course"
 }

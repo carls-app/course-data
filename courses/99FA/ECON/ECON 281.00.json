@@ -6,7 +6,7 @@
 	"instructors": [
 		"George H Lamson"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2838",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

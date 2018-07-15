@@ -10,7 +10,7 @@
 		"Julie G Landsman",
 		"Mary S Gustafson"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -26,6 +26,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "2332",
 	"tags": [],
-	"title": "Student Teaching"
+	"title": "Student Teaching",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 342 and instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 10,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "29004",
 	"tags": [],
-	"title": "Topics in Algebraic Number Theory"
+	"title": "Topics in Algebraic Number Theory",
+	"type": "Course"
 }

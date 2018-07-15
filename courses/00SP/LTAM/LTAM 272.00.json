@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeane H DeLaney"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Scoville 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 40,
@@ -46,5 +47,6 @@
 		"HISTLTAM",
 		"LTAMELECTIVE"
 	],
-	"title": "Mexico-Historical Perspective"
+	"title": "Mexico-Historical Perspective",
+	"type": "Course"
 }

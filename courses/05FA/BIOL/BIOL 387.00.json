@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Rosenberg"
 	],
-	"number": "387.00",
+	"number": "387",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "11955",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Neurobiology Laboratory"
+	"title": "Neurobiology Laboratory",
+	"type": "Course"
 }

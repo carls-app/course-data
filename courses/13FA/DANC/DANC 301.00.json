@@ -7,7 +7,7 @@
 		"Whitney McClusky",
 		"Judith A Howard"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -22,12 +22,10 @@
 	},
 	"prerequisites": "Prerequisite: Some previous dance experience.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -37,14 +35,9 @@
 	"summary": "A physical exploration of the technical, theoretical and stylistic bases of different approaches to modern dance movement chosen yearly from such techniques as: Body Mind Centering; Limon; Cunningham; Graham; African-Caribbean.",
 	"synonym": "35142",
 	"tags": [
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		}
+		"AFAMARTSPRAC",
+		"AFAMDISTROAL"
 	],
-	"title": "Contemporary Styles and Techniques: African Dance"
+	"title": "Contemporary Styles and Techniques: African Dance",
+	"type": "Course"
 }

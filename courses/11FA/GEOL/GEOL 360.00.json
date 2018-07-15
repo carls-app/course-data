@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nick Swanson-Hysell"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Three 200-level Geology courses.; GEOL 360L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -47,5 +42,6 @@
 	"summary": "This course is based on field examination of outcrops of Lower Paleozoic sedimentary rock. We will interpret the processes involved in the creation, movement, and deposition of these ancient sediments, and try to determine their paleoenvironments. Also of interest are the transformation of these sediments into rock and the analysis and correlation of strata. Weekly laboratories, one overnight trip, and one Saturday trip are required. Please note the late laboratory times. Both paleobiology and geomorphology prepare students for work in sedimentology. This course is intended for upperclass Geology majors, and much of the work is done in teams.",
 	"synonym": "28645",
 	"tags": [],
-	"title": "Sedimentology and Stratigraphy"
+	"title": "Sedimentology and Stratigraphy",
+	"type": "Course"
 }

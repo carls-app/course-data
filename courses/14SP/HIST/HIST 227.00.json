@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -45,34 +40,14 @@
 	"summary": "Somewhere on the sunset-side of the Mississippi River, the American West begins. It is a region steeped in nostalgia and freighted with stories and longings that Americans have now cherished for many generations. It is also a place as complex and tangled in dynamic cultural, political, and environmental forces as any place on earth. Among the themes we will focus on are relationships among Native American and Euro-American peoples, the transition from imperial frontier to American territory, the shaping power of economic and cultural initiatives, and the centrality of nature and environmental change in forging our western past and present.",
 	"synonym": "35978",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"HISTENVIRHEALTH",
+		"ENTS2SCP",
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"SPECINTSUSTAIN",
+		"ENTSCDSCP",
+		"ENTSLPSCP"
 	],
-	"title": "The American West"
+	"title": "The American West",
+	"type": "Course"
 }

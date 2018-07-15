@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "The planning, preparation, and completion of a philosophical paper under the direction of a member of the department and as part of a seminar group.",
 	"synonym": "26915",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

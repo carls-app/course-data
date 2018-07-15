@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "10552",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"EUSTTRANNATL"
 	],
-	"title": "Imperial America 1876-1904"
+	"title": "Imperial America 1876-1904",
+	"type": "Course"
 }

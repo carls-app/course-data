@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "19359",
 	"tags": [
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSENVPERS"
 	],
-	"title": "Aesthetics"
+	"title": "Aesthetics",
+	"type": "Course"
 }

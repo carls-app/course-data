@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1020",
 	"tags": [],
-	"title": "Language, Speech and Evolution"
+	"title": "Language, Speech and Evolution",
+	"type": "Course"
 }

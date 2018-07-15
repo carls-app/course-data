@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "103.02",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language Lab 110"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "2698",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

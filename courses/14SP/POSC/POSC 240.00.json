@@ -8,7 +8,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -47,18 +42,10 @@
 	"summary": "From a nation which prided itself on remaining aloof from the intrigues and struggles of foreign powers, the United States over the past century has become regularly involved in a series of major and limited wars. The course will examine a number of these conflicts and the debates that surrounded them in the hope of discerning the influence they may have on America's ongoing role and behavior in the international arena.",
 	"synonym": "36286",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "On America and Its Wars"
+	"title": "On America and Its Wars",
+	"type": "Course"
 }

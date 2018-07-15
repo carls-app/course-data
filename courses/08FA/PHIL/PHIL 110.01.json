@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21222",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Evolution and Mind"
+	"title": "Evolution and Mind",
+	"type": "Course"
 }

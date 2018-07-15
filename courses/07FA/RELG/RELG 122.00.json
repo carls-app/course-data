@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "19416",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"MARSCORE",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"ASSTCENT",
+		"AFAMSURVEY"
 	],
-	"title": "Introduction to Islam"
+	"title": "Introduction to Islam",
+	"type": "Course"
 }

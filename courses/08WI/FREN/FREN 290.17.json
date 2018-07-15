@@ -8,11 +8,12 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "290.17",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "17",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "17656",
 	"tags": [
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTSUPP"
 	],
-	"title": "Directed Reading"
+	"title": "Directed Reading",
+	"type": "Course"
 }

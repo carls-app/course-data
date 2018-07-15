@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -47,10 +42,8 @@
 	"summary": "This course is designed as a critical study of global filmmakers and the issues surrounding cinema and its circulation in the twenty-first century. The class will examine the growth and evolution of cinema as a global event and look at points of contact between different cultural discourses, cinematic styles, genres, and reception. It will look at national, transnational, and diasporic-exilic discourses as well as considering how film articulates both culture and cultural contexts. Artistic, social, political, and industrial issues will be examined each week to provide different models of cinematic creation and consumption.",
 	"synonym": "26829",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Contemporary Global Cinemas"
+	"title": "Contemporary Global Cinemas",
+	"type": "Course"
 }

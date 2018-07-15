@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "10911",
 	"tags": [],
-	"title": "I'm a Stranger Here Myself"
+	"title": "I'm a Stranger Here Myself",
+	"type": "Course"
 }

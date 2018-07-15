@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 35,
@@ -46,5 +47,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "The American Revolution"
+	"title": "The American Revolution",
+	"type": "Course"
 }

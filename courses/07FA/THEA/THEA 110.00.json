@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 14,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "18153",
 	"tags": [],
-	"title": "Beginning Acting"
+	"title": "Beginning Acting",
+	"type": "Course"
 }

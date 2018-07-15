@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lauren E Feiler"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22135",
 	"tags": [],
-	"title": "Experimental Economics"
+	"title": "Experimental Economics",
+	"type": "Course"
 }

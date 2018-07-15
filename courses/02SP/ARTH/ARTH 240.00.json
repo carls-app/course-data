@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeremy E Caslin"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "543",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Art Since 1945"
+	"title": "Art Since 1945",
+	"type": "Course"
 }

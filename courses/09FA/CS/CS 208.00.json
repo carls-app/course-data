@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "Computer processors are extraordinarily complex systems. The fact that they work at all, let alone as reliably as they do, is a monumental achievement of human collaboration. In this course, we will study the structure of computer processors, with attention to digital logic, assembly language, performance evaluation, computer arithmetic, data paths and control, pipelining, and memory hierarchies.",
 	"synonym": "22902",
 	"tags": [],
-	"title": "Computer Organization and Architecture"
+	"title": "Computer Organization and Architecture",
+	"type": "Course"
 }

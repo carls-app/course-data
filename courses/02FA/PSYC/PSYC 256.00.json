@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3497",
 	"tags": [],
-	"title": "Soc Behav & Interpers Process"
+	"title": "Soc Behav & Interpers Process",
+	"type": "Course"
 }

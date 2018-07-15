@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara J Mackenzie"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "22613",
 	"tags": [],
-	"title": "Signed Lang & Lang Structure"
+	"title": "Signed Lang & Lang Structure",
+	"type": "Course"
 }

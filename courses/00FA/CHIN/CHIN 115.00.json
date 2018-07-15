@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "602",
 	"tags": [],
-	"title": "Taoist Way-Hlth&Longvty:Taichi"
+	"title": "Taoist Way-Hlth&Longvty:Taichi",
+	"type": "Course"
 }

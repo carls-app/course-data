@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "301.01",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 6,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "3587",
 	"tags": [],
-	"title": "German Conversation"
+	"title": "German Conversation",
+	"type": "Course"
 }

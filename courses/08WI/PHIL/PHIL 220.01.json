@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian A Woodcock"
 	],
-	"number": "220.01",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18183",
 	"tags": [],
-	"title": "Induction & Scientific Reason"
+	"title": "Induction & Scientific Reason",
+	"type": "Course"
 }

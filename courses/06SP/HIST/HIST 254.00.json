@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,38 +44,15 @@
 	"summary": null,
 	"synonym": "12431",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTEAST",
+		"ASSTCENT",
+		"HISTASIA",
+		"POSICOMPRTV",
+		"POSIELECTIVE"
 	],
-	"title": "Colonialism in East Asia"
+	"title": "Colonialism in East Asia",
+	"type": "Course"
 }

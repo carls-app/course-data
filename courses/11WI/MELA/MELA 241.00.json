@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maureen B Jackson"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -52,14 +47,9 @@
 	"summary": null,
 	"synonym": "26679",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MUSCPERT",
-			"name": "Music Pertinent"
-		}
+		"EUSTCNTRY",
+		"MUSCPERT"
 	],
-	"title": "Ottoman-Turkish History Through Music"
+	"title": "Ottoman-Turkish History Through Music",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Loren C Larson"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2332",
 	"tags": [],
-	"title": "Mathematical Statistics"
+	"title": "Mathematical Statistics",
+	"type": "Course"
 }

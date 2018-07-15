@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tamara Feinstein"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -54,22 +46,11 @@
 	"summary": "Rooted in earlier social struggles and influenced by the advent of the Cold War, political violence and war pervaded the Latin American landscape throughout the latter half of the twentieth century. This violence impacted political horizons, social relations, cultural representations, and the very memory of those who lived through this era. This course explores three different genres of violence through in-depth case studies: Southern Cone dirty wars (Argentina); Central American civil wars (Guatemala) and Andean civil wars (Peru). Writing assignments will involve multiple forms of analysis, while challenging students to think comparatively about the different case studies.",
 	"synonym": "37115",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"POSIELECTIVE",
+		"POSI-DSS"
 	],
-	"title": "Political Violence and Human Rights in Latin America"
+	"title": "Political Violence and Human Rights in Latin America",
+	"type": "Course"
 }

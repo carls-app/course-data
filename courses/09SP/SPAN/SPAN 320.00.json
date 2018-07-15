@@ -8,7 +8,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "21941",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"EUSTCNTRY",
+		"PENINLIT"
 	],
-	"title": "New Spanish Voices"
+	"title": "New Spanish Voices",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -54,10 +46,8 @@
 	"summary": "Introduction to Rome's political and social history from the Etruscan period to the end of the Republic. Topics include Roman political culture, the acquisition of empire, the role of the army, the psychology of Rome, and interpretation of historical evidence. Based largely on primary source readings.",
 	"synonym": "29791",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTANCNT/MDVL"
 	],
-	"title": "The Roman Republic"
+	"title": "The Roman Republic",
+	"type": "Course"
 }

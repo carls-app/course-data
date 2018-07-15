@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "7492",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AMSTTOPICAL3",
+		"POSISECFRGNPOL",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "American Foreign Policy"
+	"title": "American Foreign Policy",
+	"type": "Course"
 }

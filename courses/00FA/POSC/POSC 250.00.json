@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "769",
 	"tags": [],
-	"title": "Ancient Political Philosophy"
+	"title": "Ancient Political Philosophy",
+	"type": "Course"
 }

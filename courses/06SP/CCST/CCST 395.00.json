@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim Fisher"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "14417",
 	"tags": [
-		{
-			"code": "CCSTSRSEM",
-			"name": "CCST Senior Seminar"
-		}
+		"CCSTSRSEM"
 	],
-	"title": "Capstone Seminar"
+	"title": "Capstone Seminar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim Fisher"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "10228",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTPERT",
+		"ASSTMETH"
 	],
-	"title": "Anthropologcl Thought & Theory"
+	"title": "Anthropologcl Thought & Theory",
+	"type": "Course"
 }

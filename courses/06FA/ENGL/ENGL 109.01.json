@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "109.01",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15789",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

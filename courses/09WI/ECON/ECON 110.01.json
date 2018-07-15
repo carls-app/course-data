@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "20574",
 	"tags": [],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

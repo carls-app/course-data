@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "21408",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		}
+		"CGSCELECTIVE",
+		"LINGPERT"
 	],
-	"title": "Automata & Computability"
+	"title": "Automata & Computability",
+	"type": "Course"
 }

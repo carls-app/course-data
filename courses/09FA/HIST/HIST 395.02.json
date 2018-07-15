@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "24127",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"AFAMSENIORSEM",
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD"
 	],
-	"title": "Voyages of Understanding"
+	"title": "Voyages of Understanding",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "15077",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTETHICS",
+		"SPECINTHEALTH"
 	],
-	"title": "Biotechnology, Health&Society"
+	"title": "Biotechnology, Health&Society",
+	"type": "Course"
 }

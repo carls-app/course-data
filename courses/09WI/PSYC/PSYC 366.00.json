@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "21297",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

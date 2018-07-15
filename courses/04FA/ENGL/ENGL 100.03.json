@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "9925",
 	"tags": [],
-	"title": "Writing About Children's Lit"
+	"title": "Writing About Children's Lit",
+	"type": "Course"
 }

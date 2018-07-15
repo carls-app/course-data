@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "A survey of major political and social developments from the fifteenth century to the beginning of World War I. Topics include: state and society, the military and bureaucracy, religious minorities (Jews and Christians), and women in premodern Muslim societies; the encounter with modernity.",
 	"synonym": "35946",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"CCSTREGIONAL",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "The Making of the Modern Middle East"
+	"title": "The Making of the Modern Middle East",
+	"type": "Course"
 }

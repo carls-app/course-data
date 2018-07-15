@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "110.05",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "15473",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTERLYMODEUR"
 	],
-	"title": "German Revolutions of 1848"
+	"title": "German Revolutions of 1848",
+	"type": "Course"
 }

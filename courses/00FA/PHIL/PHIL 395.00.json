@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1118",
 	"tags": [],
-	"title": "Quantum Information Theory"
+	"title": "Quantum Information Theory",
+	"type": "Course"
 }

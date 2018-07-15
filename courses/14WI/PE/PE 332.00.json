@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica J Mueller"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": "Research shows that the most successful athletes are those who are able to",
 	"synonym": "34797",
 	"tags": [],
-	"title": "Foundations of Sport Psychology and Performance Mentality"
+	"title": "Foundations of Sport Psychology and Performance Mentality",
+	"type": "Course"
 }

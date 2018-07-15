@@ -6,7 +6,7 @@
 	"instructors": [
 		"Suzanne L Wisniewski"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "13176",
 	"tags": [],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

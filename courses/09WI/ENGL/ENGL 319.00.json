@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "21018",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGL2",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"WGSTADDL",
+		"ENGLHE2",
+		"ENGLT1"
 	],
-	"title": "The Rise of the Novel"
+	"title": "The Rise of the Novel",
+	"type": "Course"
 }

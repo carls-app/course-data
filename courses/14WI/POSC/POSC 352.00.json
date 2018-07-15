@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -49,42 +41,16 @@
 	"summary": "This course will be devoted to close study of Tocqueville's",
 	"synonym": "36266",
 	"tags": [
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		}
+		"POSI-PLI2",
+		"AMSTTOPICAL3",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POSI-DSS",
+		"POSIELECTIVE",
+		"FRENPERT"
 	],
-	"title": "Political Theory of Alexis de Tocqueville*"
+	"title": "Political Theory of Alexis de Tocqueville*",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gretchen E Hofmeister"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 234; Concurrent registration in Chemistry 301, 343 or 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": "The correlation of structure and reactivity in organic molecular systems is studied through the analysis of reaction mechanisms. Topics will include linear free energy relationships, isotope effects, and molecular orbital theory. We will use these theories to analyze reactions, such as pericyclic, enantioselective, and organometallic transformations.",
 	"synonym": "32467",
 	"tags": [],
-	"title": "Organic Chemistry III"
+	"title": "Organic Chemistry III",
+	"type": "Course"
 }

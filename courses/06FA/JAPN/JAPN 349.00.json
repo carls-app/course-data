@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "15979",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Adv Rdg: Contemp Jpn Prose"
+	"title": "Adv Rdg: Contemp Jpn Prose",
+	"type": "Course"
 }

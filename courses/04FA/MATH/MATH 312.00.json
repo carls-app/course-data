@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9875",
 	"tags": [],
-	"title": "Elementary Theory of Numbers"
+	"title": "Elementary Theory of Numbers",
+	"type": "Course"
 }

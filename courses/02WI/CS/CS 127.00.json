@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "556",
 	"tags": [],
-	"title": "Data Structures"
+	"title": "Data Structures",
+	"type": "Course"
 }

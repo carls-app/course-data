@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "21230",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"PHILCORE"
 	],
-	"title": "Ancient Greek Philosophy"
+	"title": "Ancient Greek Philosophy",
+	"type": "Course"
 }

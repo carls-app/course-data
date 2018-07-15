@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -45,22 +40,11 @@
 	"summary": null,
 	"synonym": "26237",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL2",
+		"AMSTSURVEY2",
+		"HISTUS",
+		"WGSTADDL"
 	],
-	"title": "U.S. Women's History Since 1877"
+	"title": "U.S. Women's History Since 1877",
+	"type": "Course"
 }

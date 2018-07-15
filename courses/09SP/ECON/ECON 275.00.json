@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "22035",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTTOPICAL3",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS",
+		"SPECINTLEGAL"
 	],
-	"title": "Law and Economics"
+	"title": "Law and Economics",
+	"type": "Course"
 }

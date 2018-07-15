@@ -9,7 +9,7 @@
 		"Victoria Morse",
 		"Cathy Yandell"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -39,34 +40,14 @@
 	"summary": null,
 	"synonym": "21836",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"FRSTHIST",
+		"FRSTSUPP"
 	],
-	"title": "Renais Worlds France & Italy"
+	"title": "Renais Worlds France & Italy",
+	"type": "Course"
 }

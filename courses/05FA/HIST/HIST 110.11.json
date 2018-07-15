@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "110.11",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "12380",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "Trials in Early America"
+	"title": "Trials in Early America",
+	"type": "Course"
 }

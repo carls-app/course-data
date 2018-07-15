@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifton M Oyamot"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "9483",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

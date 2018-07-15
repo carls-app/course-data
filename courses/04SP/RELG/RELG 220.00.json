@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "7595",
 	"tags": [],
-	"title": "Hebrew Bible"
+	"title": "Hebrew Bible",
+	"type": "Course"
 }

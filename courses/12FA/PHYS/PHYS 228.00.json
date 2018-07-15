@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151; Concurrent registration in Physics 228L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 48,
@@ -52,5 +47,6 @@
 	"summary": "An elementary but analytical introduction to the physics of atoms and nuclei. Topics include the particle aspects of electromagnetic radiation, an introduction to quantum mechanics, the wave aspects of material particles, the structure of atoms, X-ray and optical spectra, instruments of nuclear and particle physics, nuclear structure and elementary particles. One laboratory per week.",
 	"synonym": "33520",
 	"tags": [],
-	"title": "Atomic and Nuclear Physics"
+	"title": "Atomic and Nuclear Physics",
+	"type": "Course"
 }

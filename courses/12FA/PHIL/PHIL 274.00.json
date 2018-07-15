@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,18 +39,10 @@
 	"summary": "We will consider the emergence and development of major themes of existentialism in the works of Kierkegaard and Nietzsche, as well as \"classical\" existentialists such as Heidegger, Sartre and De Beauvoir. We will discuss key issues put forward by the existentialist movement, such as \"the question of being\" and human historicity, freedom and responsibility and look at how different authors analyzed the nature and ambitions of the Self and diverse aspects of subjectivity.",
 	"synonym": "32661",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"EUSTTRANNATL",
+		"SPECINTETHICS",
+		"PHILTHEORY"
 	],
-	"title": "Existentialism"
+	"title": "Existentialism",
+	"type": "Course"
 }

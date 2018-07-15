@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": "The study of formal logic has obvious and direct applicability to a wide variety of disciplines (including mathematics, computer science, linguistics, philosophy, cognitive science, and many others). Indeed, the study of formal logic helps us to develop the tools and know-how to think more clearly about arguments and logical relationships in general; and arguments and logical relationships form the backbone of any rational inquiry. In this course we will focus on propositional logic and predicate logic, and look at the relationship that these have to ordinary language and thought.",
 	"synonym": "23708",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"CGSCCORE",
+		"LINGPERT",
+		"SPECINTPHILSCI",
+		"PHILCORE"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

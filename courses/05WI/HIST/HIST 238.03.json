@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.03",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,34 +44,14 @@
 	"summary": null,
 	"synonym": "10476",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL",
+		"WGSTADDL",
+		"MARSSUPP",
+		"RELGPERT",
+		"HISTANCNT/MDVL",
+		"FRSTHIST"
 	],
-	"title": "The World of Bede"
+	"title": "The World of Bede",
+	"type": "Course"
 }

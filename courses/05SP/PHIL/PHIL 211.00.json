@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10489",
 	"tags": [],
-	"title": "Metaphysics"
+	"title": "Metaphysics",
+	"type": "Course"
 }

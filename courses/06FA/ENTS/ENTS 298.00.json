@@ -6,7 +6,7 @@
 	"instructors": [
 		"Suzanne Savanick Hansen"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 50,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16354",
 	"tags": [],
-	"title": "Ethics & Values Colloquium"
+	"title": "Ethics & Values Colloquium",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2003",
 	"tags": [],
-	"title": "Virtue and Vice"
+	"title": "Virtue and Vice",
+	"type": "Course"
 }

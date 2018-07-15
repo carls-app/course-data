@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Sophomore Standing",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -52,14 +47,9 @@
 	"summary": "We will explore factors that influence public policy in the U.S., beginning with the politics of the policy formation process, including nongovernmental actors (corporations, media, nonprofit organizations, citizens, interest groups), and major governmental institutions. We will discuss fundamental American political concepts such as liberty, power, and democracy, and the role of citizens. Our goals are to increase understanding of the wide array of political factors that determine the feasibility and/or desirability of a particular course of action in response to a perceived problem, and to evaluate the status of various kinds of knowledge claims, including sources of credibility.",
 	"synonym": "26994",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"AMSTTOPICAL3",
+		"POSI-DSS"
 	],
-	"title": "National Policymaking"
+	"title": "National Policymaking",
+	"type": "Course"
 }

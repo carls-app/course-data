@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13058",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Violence Prevention in Schools"
+	"title": "Violence Prevention in Schools",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Paul Dosh"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "4251",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTGLOBAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Global Resurgence of Democracy"
+	"title": "Global Resurgence of Democracy",
+	"type": "Course"
 }

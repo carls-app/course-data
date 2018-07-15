@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald W Loeffler"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "7824",
 	"tags": [],
-	"title": "Metaphysics"
+	"title": "Metaphysics",
+	"type": "Course"
 }

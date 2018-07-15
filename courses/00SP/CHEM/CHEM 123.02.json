@@ -8,7 +8,7 @@
 	"instructors": [
 		"Trish Ferrett"
 	],
-	"number": "123.02",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2254",
 	"tags": [],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

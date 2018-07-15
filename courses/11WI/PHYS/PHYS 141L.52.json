@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Egbert"
 	],
-	"number": "141L.52",
+	"number": "141L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "26006",
 	"tags": [],
-	"title": "Gravity and the Cosmos Lab"
+	"title": "Gravity and the Cosmos Lab",
+	"type": "Lab"
 }

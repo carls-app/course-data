@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6495",
 	"tags": [],
-	"title": "Quantum Mechanics I"
+	"title": "Quantum Mechanics I",
+	"type": "Course"
 }

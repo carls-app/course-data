@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "15746",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTCENT"
 	],
-	"title": "God, Lovesickness, Wine"
+	"title": "God, Lovesickness, Wine",
+	"type": "Course"
 }

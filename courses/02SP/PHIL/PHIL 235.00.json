@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer C Manion"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "885",
 	"tags": [
-		{
-			"code": "WGSTMETH",
-			"name": "WGST Methods"
-		}
+		"WGSTMETH"
 	],
-	"title": "Feminist Philosophy"
+	"title": "Feminist Philosophy",
+	"type": "Course"
 }

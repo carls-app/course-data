@@ -8,16 +8,14 @@
 	"instructors": [
 		"Guy A Kalland"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "17072",
 	"tags": [],
-	"title": "Basketball Intercollegiate"
+	"title": "Basketball Intercollegiate",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "6896",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Postmodern American Novel"
+	"title": "Postmodern American Novel",
+	"type": "Course"
 }

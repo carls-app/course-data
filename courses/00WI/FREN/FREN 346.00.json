@@ -9,7 +9,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2283",
 	"tags": [],
-	"title": "Methods-Tch Modrn World Langs"
+	"title": "Methods-Tch Modrn World Langs",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "110.12",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "12",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "3153",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		}
+		"HISTSASIA"
 	],
-	"title": "\"Converting the Heathen\""
+	"title": "\"Converting the Heathen\"",
+	"type": "Course"
 }

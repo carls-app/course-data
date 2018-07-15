@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "121.01",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "5090",
 	"tags": [],
-	"title": "Fencing, Beginning"
+	"title": "Fencing, Beginning",
+	"type": "Course"
 }

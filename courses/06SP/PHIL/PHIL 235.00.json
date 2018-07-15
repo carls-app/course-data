@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jen Everett"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "13723",
 	"tags": [
-		{
-			"code": "WGSTMETH",
-			"name": "WGST Methods"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTMETH",
+		"WGSTADDL"
 	],
-	"title": "Feminist Philosophy"
+	"title": "Feminist Philosophy",
+	"type": "Course"
 }

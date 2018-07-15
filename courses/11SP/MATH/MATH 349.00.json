@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 	"prerequisites": "Prerequisite: Junior or senior standing and instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": "Methods of teaching mathematics in grades 7-12. Issues in contemporary mathematics education. Regular visits to school classrooms and teaching a class are required.",
 	"synonym": "25905",
 	"tags": [],
-	"title": "Methods of Teaching Mathematics"
+	"title": "Methods of Teaching Mathematics",
+	"type": "Course"
 }

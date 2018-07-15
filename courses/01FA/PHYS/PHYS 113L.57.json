@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "113L.57",
+	"number": "113L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1414",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

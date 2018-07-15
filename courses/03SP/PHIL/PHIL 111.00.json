@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "3750",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"CCSTGLOBAL",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Intro Wstrn Phil:Ancient&Med"
+	"title": "Intro Wstrn Phil:Ancient&Med",
+	"type": "Course"
 }

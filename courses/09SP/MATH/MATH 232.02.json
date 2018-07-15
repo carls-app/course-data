@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "232.02",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 31,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "22254",
 	"tags": [],
-	"title": "Linear Algebra"
+	"title": "Linear Algebra",
+	"type": "Course"
 }

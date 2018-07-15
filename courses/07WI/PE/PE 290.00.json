@@ -6,16 +6,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "290.00",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 100,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "16967",
 	"tags": [],
-	"title": "Men's Volleyball Club"
+	"title": "Men's Volleyball Club",
+	"type": "Course"
 }

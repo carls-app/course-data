@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Michaud"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22318",
 	"tags": [],
-	"title": "Women & Christian Traditions"
+	"title": "Women & Christian Traditions",
+	"type": "Course"
 }

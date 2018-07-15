@@ -9,7 +9,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 45,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "3490",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "American Social Hist to 1865"
+	"title": "American Social Hist to 1865",
+	"type": "Course"
 }

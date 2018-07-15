@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9415",
 	"tags": [],
-	"title": "Plant Development"
+	"title": "Plant Development",
+	"type": "Course"
 }

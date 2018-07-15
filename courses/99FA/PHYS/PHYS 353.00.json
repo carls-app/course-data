@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2409",
 	"tags": [],
-	"title": "Statistical Mechanics"
+	"title": "Statistical Mechanics",
+	"type": "Course"
 }

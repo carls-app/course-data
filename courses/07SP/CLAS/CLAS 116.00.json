@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "16106",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"THEAPERT"
 	],
-	"title": "Ancient Drama-Truth in Perform"
+	"title": "Ancient Drama-Truth in Perform",
+	"type": "Course"
 }

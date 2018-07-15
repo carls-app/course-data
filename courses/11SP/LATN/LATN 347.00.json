@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "Reading the poetry of Catullus, Tibullus, Propertius, and Ovid in Latin, we will explore how different poets conceived of love by embracing or rejecting cultural, societal, and political expectations in first century BCE Rome. We will examine how Greek literature and thought influenced Roman ideas about love, as well as how Latin authors shaped the course of love poetry and songs in the West. We will also consider a range of topics related to love in antiquity, including sexuality, gender, courtship rituals, marriage, and children.",
 	"synonym": "25721",
 	"tags": [],
-	"title": "Latin Love Poetry"
+	"title": "Latin Love Poetry",
+	"type": "Course"
 }

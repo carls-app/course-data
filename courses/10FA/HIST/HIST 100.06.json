@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -47,18 +42,10 @@
 	"summary": null,
 	"synonym": "26219",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTANCNT/MDVL",
+		"MARSSUPP",
+		"HISTERLYMODEUR"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

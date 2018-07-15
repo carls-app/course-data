@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "194.00",
+	"number": "194",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 100,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "3092",
 	"tags": [],
-	"title": "Chamber Music"
+	"title": "Chamber Music",
+	"type": "Course"
 }

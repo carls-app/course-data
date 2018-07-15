@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Computer Science 201 or consent of the instructor",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "22910",
 	"tags": [],
-	"title": "Software Design"
+	"title": "Software Design",
+	"type": "Course"
 }

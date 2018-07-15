@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lydia B. Tang"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course offers an introduction to German culture after 1945 through the lens of film. We will treat films over a broad range of topics, with a special emphasis on (1) the shifting angles from which filmmakers remember the Holocaust and World War II, (2) migration and multiculturalism, especially German-Turkish relations, and (3) reflections on the GDR past and on life in post-reunification Germany. The careful analysis of each film will be framed by a discussion of its socio-historical context, in order to reflect the unique manner in which cinema engages with historical, cultural and political debates. Taught in English.",
 	"synonym": "37539",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"CAMSELECTIVE",
+		"CAMSXDEPT",
+		"EUSTCNTRY"
 	],
-	"title": "\"Good Bye, Lenin!\" German Post War Culture, History and Politics through Film"
+	"title": "\"Good Bye, Lenin!\" German Post War Culture, History and Politics through Film",
+	"type": "Course"
 }

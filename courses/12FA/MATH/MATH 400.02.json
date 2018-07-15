@@ -6,11 +6,12 @@
 	"instructors": [
 		"Andrew R Gainer-Dewar"
 	],
-	"number": "400.02",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254",
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 4,
@@ -20,5 +21,6 @@
 	"summary": "Either a supervised small-group research project or an individual, independent reading. Required of all senior majors.",
 	"synonym": "31760",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

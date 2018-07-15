@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -54,22 +46,11 @@
 	"summary": "This course considers spirit possession in relation to religion, gender, and agency. Through surveying a number of works on spirit possession--recent and past, theoretical and ethnographic--we will analyze representations of the female subject in particular and arguments about agency that attend these representations. This class will explicitly look at post-colonial accounts of spirit possession and compare them to Euro-American Christian conceptions of personhood. We will consider how these Euro-Christian conceptions might undergird secular-liberal constructions of agency, and contribute to feminist ideas about the proper female subject.",
 	"synonym": "27583",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGHINDUTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Spirit Possession"
+	"title": "Spirit Possession",
+	"type": "Course"
 }

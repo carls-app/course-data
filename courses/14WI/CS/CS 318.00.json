@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jadrian J Miles"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 211, or consent of the instructor, as well as Computer Science 201. A statistics course (Mathematics 115 or 215) and Mathematics 232 are highly recommended, as is a willingness to learn new mathematical concepts at a fairly rapid pace.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 35,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "37094",
 	"tags": [],
-	"title": "Medical Image Analysis"
+	"title": "Medical Image Analysis",
+	"type": "Course"
 }

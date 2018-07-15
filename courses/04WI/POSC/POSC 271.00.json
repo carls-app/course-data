@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "7510",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL3"
 	],
-	"title": "Constitutional Law I"
+	"title": "Constitutional Law I",
+	"type": "Course"
 }

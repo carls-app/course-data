@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "193.00",
+	"number": "193",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 6,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "14883",
 	"tags": [],
-	"title": "African Mbira Ensemble"
+	"title": "African Mbira Ensemble",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19868",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTEAST"
 	],
-	"title": "Ling of Japn Writing System"
+	"title": "Ling of Japn Writing System",
+	"type": "Course"
 }

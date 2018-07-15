@@ -9,7 +9,7 @@
 		"John L Tymoczko",
 		"Fernán Jaramillo"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 61,
 		"total": 60,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "15085",
 	"tags": [],
-	"title": "Energy Flow Biol System"
+	"title": "Energy Flow Biol System",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "13159",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTTOPICAL1",
+		"ENGL4",
+		"LITFORLANG"
 	],
-	"title": "Borderlands: Places & People"
+	"title": "Borderlands: Places & People",
+	"type": "Course"
 }

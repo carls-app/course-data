@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aniko E Csirmaz"
 	],
-	"number": "185.00",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13985",
 	"tags": [],
-	"title": "The Structure of Hungarian"
+	"title": "The Structure of Hungarian",
+	"type": "Course"
 }

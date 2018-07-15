@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 234",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 16,
@@ -46,10 +44,8 @@
 	"summary": "This seminar course considers nature's biosynthetic pathways in conjunction with how organic chemists design the chemical synthesis of complex organic molecules. Important metabolic pathways for biochemical syntheses, as well as the methodology of chemical synthesis, will form the focus of the course.",
 	"synonym": "30634",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
-	"title": "Chemical and Biosynthesis"
+	"title": "Chemical and Biosynthesis",
+	"type": "Course"
 }

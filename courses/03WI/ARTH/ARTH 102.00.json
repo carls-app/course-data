@@ -7,7 +7,7 @@
 		"Kathleen M Ryor",
 		"Baird E Jarman"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 58,
 		"total": 60,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "4703",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Introduction to Art History II"
+	"title": "Introduction to Art History II",
+	"type": "Course"
 }

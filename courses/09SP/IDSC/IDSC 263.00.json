@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "22605",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
-	"title": "Uses&Abuses-Behavior Rsch"
+	"title": "Uses&Abuses-Behavior Rsch",
+	"type": "Course"
 }

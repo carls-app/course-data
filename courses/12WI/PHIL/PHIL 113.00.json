@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -50,14 +45,9 @@
 	"summary": "Although we tend not to think about it very often, killing is very much a part of our lives. We confront it whenever we eat an animal, talk about the wisdom of intervention in foreign conflicts, consider federal funding of abortion or ask whether people have the right to terminate their own lives. This course will explore killing in its various guises, with special focus on war, our relationship with animals, abortion and euthanasia. Students will be asked to consider various views on these matters while developing the skills to clearly state and defend, via philosophical argument, their own views.",
 	"synonym": "30513",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTHEALTH",
+		"SPECINTETHICS"
 	],
-	"title": "Killing"
+	"title": "Killing",
+	"type": "Course"
 }

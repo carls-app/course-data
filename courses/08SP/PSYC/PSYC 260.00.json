@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "17901",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Health Psychology"
+	"title": "Health Psychology",
+	"type": "Course"
 }

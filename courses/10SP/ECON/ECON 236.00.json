@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "24403",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"EUSTTRANNATL",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
-	"title": "Economics of the European Union"
+	"title": "Economics of the European Union",
+	"type": "Course"
 }

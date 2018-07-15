@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "13584",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Modern & Contemp Women Writers"
+	"title": "Modern & Contemp Women Writers",
+	"type": "Course"
 }

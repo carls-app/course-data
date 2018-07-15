@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Scoville 104"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "1953",
 	"tags": [],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

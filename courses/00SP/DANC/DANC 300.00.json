@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3480",
 	"tags": [],
-	"title": "Modern Dance III: Tech & Thry"
+	"title": "Modern Dance III: Tech & Thry",
+	"type": "Course"
 }

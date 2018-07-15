@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 12,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "9439",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Primate Cognition"
+	"title": "Primate Cognition",
+	"type": "Course"
 }

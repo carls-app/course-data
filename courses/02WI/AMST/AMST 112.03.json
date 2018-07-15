@@ -9,7 +9,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "112.03",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "734",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

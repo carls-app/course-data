@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Chemistry 233 and concurrent registration in Chemistry 234L; CHEM.234L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 44,
@@ -43,5 +44,6 @@
 	"summary": "The chemistry of functional groups is continued from Chemistry 233, and is extended to the multifunctional compounds found in nature, in particular carbohydrates and proteins. The laboratory focuses upon inquiry-based projects and spectroscopic analysis. One laboratory per week.",
 	"synonym": "22977",
 	"tags": [],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

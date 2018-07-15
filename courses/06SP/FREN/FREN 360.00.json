@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "13461",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"EUSTTRANNATL",
+		"FRSTLANGLIT",
+		"FRSTSUPP"
 	],
-	"title": "Topics Fren St: Algeria-France"
+	"title": "Topics Fren St: Algeria-France",
+	"type": "Course"
 }

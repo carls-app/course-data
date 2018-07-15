@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110. Psychology 216 recommended or permission of the instructor",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -45,10 +40,8 @@
 	"summary": "In this course, students will learn about the relationship between hormones and behavior. The approach in this course will be based in biological psychology and will emphasize the experimental evidence upon which our understanding of hormones and behavior is constructed. Students will learn about the techniques used to ask questions in neuroendocrinology. Topics will include the endocrine system, sexual differentiation, the stress response, and reproductive and parenting behaviors.",
 	"synonym": "32272",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Hormones and Behavior"
+	"title": "Hormones and Behavior",
+	"type": "Course"
 }

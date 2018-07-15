@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -49,34 +41,14 @@
 	"summary": "Mohandas Gandhi was among the most controversial and influential figures of the twentieth century. Whether as anti-colonial revolutionary, philosopher of non-violent resistance, proponent of social and religious tolerance, or reformer of Hindu traditions, he left a mark not only on India, but on the world at large. This course will seek to understand the complex relation among Gandhi's religious, social, and political stances. We will explore the religious and cultural sources of his ideas, the way they played out in real historical events, and the influence they have had, in India and elsewhere, in the six decades since his death.",
 	"synonym": "32778",
 	"tags": [
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"RELGHINDUTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"RELGTHTHGHTPHIL",
+		"ASSTHU",
+		"ASSTSOUTH"
 	],
-	"title": "Gandhi"
+	"title": "Gandhi",
+	"type": "Course"
 }

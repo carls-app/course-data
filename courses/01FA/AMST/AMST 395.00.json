@@ -9,7 +9,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -46,5 +47,6 @@
 	"tags": [
 		"HISTUS"
 	],
-	"title": "African American History"
+	"title": "African American History",
+	"type": "Course"
 }

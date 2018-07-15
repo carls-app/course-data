@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "4140",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"CCSTGLOBAL",
+		"MARSSUPP"
 	],
-	"title": "Millennialism Cross-Cult Persp"
+	"title": "Millennialism Cross-Cult Persp",
+	"type": "Course"
 }

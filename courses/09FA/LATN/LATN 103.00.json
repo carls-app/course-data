@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Latin 102 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": "The course is designed to help students make the transition from the discrete rules of morphology and syntax to the integrated reading of extended passages of Latin prose and poetry with fluency and understanding. The first half of the course will focus on the consolidation of grammar through a systematic review of morphology and syntax based on compositional exercises keyed to passages of medieval Latin and Cicero. The second half will equip students with the basic skills needed to engage ancient Latin poetry, including meter, genre, rhetorical devices and poetic tropes, as encountered in selections from Ovid's mythological epic, Metamorphoses.",
 	"synonym": "24271",
 	"tags": [],
-	"title": "Introduction to Latin Prose and Poetry"
+	"title": "Introduction to Latin Prose and Poetry",
+	"type": "Course"
 }

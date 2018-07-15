@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "125L.52",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6420",
 	"tags": [],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

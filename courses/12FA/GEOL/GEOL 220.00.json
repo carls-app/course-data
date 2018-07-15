@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jen Wright"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: One introductory (100-level) Geology course.; GEOL 220L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -52,5 +47,6 @@
 	"summary": "This course focuses on understanding the plate tectonics paradigm and its application to all types of plate boundaries. We will explore the historical development of the paradigm, geophysical tools used for imaging the structure of the Earth and determining plate motions, and possible driving mechanisms of this global system. Students will independently explore a particular tectonic plate in detail throughout the term. Laboratories included.",
 	"synonym": "32518",
 	"tags": [],
-	"title": "Tectonics"
+	"title": "Tectonics",
+	"type": "Course"
 }

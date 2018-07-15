@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maurice Clark"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 72,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3659",
 	"tags": [],
-	"title": "Elementary Physics"
+	"title": "Elementary Physics",
+	"type": "Course"
 }

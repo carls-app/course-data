@@ -9,7 +9,7 @@
 		"Lawrence Wichlinski",
 		"Elizabeth J Ciner"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2720",
 	"tags": [],
-	"title": "Emotion and Intellect"
+	"title": "Emotion and Intellect",
+	"type": "Course"
 }

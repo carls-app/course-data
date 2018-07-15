@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "8011",
 	"tags": [
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"HISTISLAM",
+		"CCSTREGIONAL",
+		"HISTASIA",
+		"POSICOMPRTV",
+		"POSIELECTIVE"
 	],
-	"title": "Making of Modern Middle East"
+	"title": "Making of Modern Middle East",
+	"type": "Course"
 }

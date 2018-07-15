@@ -8,7 +8,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21693",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTEAST"
 	],
-	"title": "Soc Engagement-Asian Relg"
+	"title": "Soc Engagement-Asian Relg",
+	"type": "Course"
 }

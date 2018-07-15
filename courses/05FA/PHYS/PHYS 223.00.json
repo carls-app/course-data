@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "12139",
 	"tags": [],
-	"title": "Presentation Skills-Physics"
+	"title": "Presentation Skills-Physics",
+	"type": "Course"
 }

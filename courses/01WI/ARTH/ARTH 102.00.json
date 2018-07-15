@@ -9,7 +9,7 @@
 		"Alison M Kettering",
 		"Kathleen M Ryor"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 60,
 		"total": 65,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "1898",
 	"tags": [],
-	"title": "Introduction to Art History II"
+	"title": "Introduction to Art History II",
+	"type": "Course"
 }

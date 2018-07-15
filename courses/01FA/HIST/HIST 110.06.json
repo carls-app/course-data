@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "110.06",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -45,5 +46,6 @@
 	"tags": [
 		"HISTEUR1451"
 	],
-	"title": "Russian Revolutions of 1917"
+	"title": "Russian Revolutions of 1917",
+	"type": "Course"
 }

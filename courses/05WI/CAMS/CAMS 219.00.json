@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 18,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "10869",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Audio Workshop"
+	"title": "Audio Workshop",
+	"type": "Course"
 }

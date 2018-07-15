@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "608",
 	"tags": [],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -51,18 +43,10 @@
 	"summary": null,
 	"synonym": "30264",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"SPECINTSOCTHGHT",
+		"ASSTEAST",
+		"HISTASIA"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

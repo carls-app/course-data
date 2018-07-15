@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"FRSTELEC",
 		"FRSTHIST"
 	],
-	"title": "Impressionism"
+	"title": "Impressionism",
+	"type": "Course"
 }

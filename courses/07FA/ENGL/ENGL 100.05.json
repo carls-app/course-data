@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sun Hee T Lee"
 	],
-	"number": "100.05",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "05",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18681",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Time, Place and Identity"
+	"title": "Time, Place and Identity",
+	"type": "Course"
 }

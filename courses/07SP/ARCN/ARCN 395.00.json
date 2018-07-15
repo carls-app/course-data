@@ -7,7 +7,7 @@
 		"Nancy C Wilkie",
 		"Mary E Savina"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 18,
@@ -32,14 +33,9 @@
 	"summary": null,
 	"synonym": "14934",
 	"tags": [
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		}
+		"SOANPERT",
+		"MARSCAP"
 	],
-	"title": "Archaeology Capstone Seminar"
+	"title": "Archaeology Capstone Seminar",
+	"type": "Course"
 }

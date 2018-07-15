@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -21,16 +21,11 @@
 	},
 	"prerequisites": "Prerequisite: Submit three poems to instructor for consideration",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -40,10 +35,8 @@
 	"summary": "For students with some experience in writing poetry, this workshop further develops craft and vision. Readings and exercises will be used to expand the poet's individual range, and to explore the power of poetic language. Over the ten weeks, each poet will write and revise a significant portfolio. Students must submit three poems to the instructor prior to registration. Final enrollment is based on the quality of the submitted work.",
 	"synonym": "27349",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
-	"title": "Advanced Poetry Workshop"
+	"title": "Advanced Poetry Workshop",
+	"type": "Course"
 }

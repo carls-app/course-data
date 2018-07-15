@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": "Various issues in aesthetics: the definition of art, the nature of the aesthetic, the description, interpretation, and evaluation of aesthetic objects. Readings will be drawn primarily from the works of philosophers and from case materials.",
 	"synonym": "23711",
 	"tags": [
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSENVPERS"
 	],
-	"title": "Aesthetics"
+	"title": "Aesthetics",
+	"type": "Course"
 }

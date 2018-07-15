@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "14944",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Utopia, Distopia & Myopia"
+	"title": "Utopia, Distopia & Myopia",
+	"type": "Course"
 }

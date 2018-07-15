@@ -8,7 +8,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "12857",
 	"tags": [],
-	"title": "Ice Skating, Beginning"
+	"title": "Ice Skating, Beginning",
+	"type": "Course"
 }

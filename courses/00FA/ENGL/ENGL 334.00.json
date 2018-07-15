@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +42,6 @@
 		"ENGL4",
 		"LITFORLANG"
 	],
-	"title": "Postmodern American Novel"
+	"title": "Postmodern American Novel",
+	"type": "Course"
 }

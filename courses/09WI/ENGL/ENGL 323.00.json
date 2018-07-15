@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "21019",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGL3",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLHE2",
+		"ENGLT1"
 	],
-	"title": "English Romantic Poets"
+	"title": "English Romantic Poets",
+	"type": "Course"
 }

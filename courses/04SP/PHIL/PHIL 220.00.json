@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "7858",
 	"tags": [],
-	"title": "Topics: Philosophy of Law"
+	"title": "Topics: Philosophy of Law",
+	"type": "Course"
 }

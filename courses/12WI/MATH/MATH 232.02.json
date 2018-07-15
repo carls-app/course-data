@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "232.02",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 21,
 		"total": 28,
@@ -46,5 +44,6 @@
 	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
 	"synonym": "31108",
 	"tags": [],
-	"title": "Linear Algebra"
+	"title": "Linear Algebra",
+	"type": "Course"
 }

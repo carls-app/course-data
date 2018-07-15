@@ -9,7 +9,7 @@
 	"instructors": [
 		"Vern D Bailey"
 	],
-	"number": "158.00",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 30,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "3624",
 	"tags": [],
-	"title": "American Fiction & Films"
+	"title": "American Fiction & Films",
+	"type": "Course"
 }

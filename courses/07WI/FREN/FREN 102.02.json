@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "102.02",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244",
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "16172",
 	"tags": [],
-	"title": "Elementary French"
+	"title": "Elementary French",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "383.00",
+	"number": "383",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: BIOL.382",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32869",
 	"tags": [],
-	"title": "Molecular Biology Laboratory"
+	"title": "Molecular Biology Laboratory",
+	"type": "Course"
 }

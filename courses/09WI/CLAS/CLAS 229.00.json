@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 40,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "21790",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Later Rmn Empire,Byzant&Islam"
+	"title": "Later Rmn Empire,Byzant&Islam",
+	"type": "Course"
 }

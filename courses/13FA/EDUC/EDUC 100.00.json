@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -52,5 +47,6 @@
 	"summary": null,
 	"synonym": "35863",
 	"tags": [],
-	"title": "Will This Be on the Test? Standardized Testing and American Education"
+	"title": "Will This Be on the Test? Standardized Testing and American Education",
+	"type": "Course"
 }

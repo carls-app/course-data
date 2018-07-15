@@ -9,7 +9,7 @@
 		"Kathleen M Galotti",
 		"Roy Elveton"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "9446",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Intro to Cognitive Science"
+	"title": "Intro to Cognitive Science",
+	"type": "Course"
 }

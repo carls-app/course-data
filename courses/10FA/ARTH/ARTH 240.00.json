@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: Any one term of art history",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": "Art from abstract expressionism to the present, with particular focus on issues such as the modernist artist-hero; the emergence of alternative or non-traditional media; the influence of the women's movement and the gay/lesbian liberation movement on contemporary art; and postmodern theory and practice.",
 	"synonym": "25493",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AMSTTOPICAL1",
+		"CAMS200HIST",
+		"EUSTTRANNATL"
 	],
-	"title": "Art Since 1945"
+	"title": "Art Since 1945",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -34,10 +35,8 @@
 	"summary": null,
 	"synonym": "23637",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Research-Cognitive Processes"
+	"title": "Research-Cognitive Processes",
+	"type": "Course"
 }

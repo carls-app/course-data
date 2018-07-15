@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tim Lloyd"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Boliou 46"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 11,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1405",
 	"tags": [],
-	"title": "Ceramics"
+	"title": "Ceramics",
+	"type": "Course"
 }

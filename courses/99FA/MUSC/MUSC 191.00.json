@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL13"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3003",
 	"tags": [],
-	"title": "Karimba Ensemble"
+	"title": "Karimba Ensemble",
+	"type": "Course"
 }

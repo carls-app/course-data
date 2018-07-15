@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -49,30 +41,13 @@
 	"summary": "Masterpieces of the \"Southern Renaissance\" of the early and mid-twentieth century, in the context of American regionalism and particularly the culture of the South, the legacy of slavery and race relations, social and gender roles, and the modernist movement in literature. Authors will include Allen Tate, Jean Toomer, William Faulkner, Robert Penn Warren, Zora Neale Hurston, Eudora Welty, Katherine Anne Porter, William Percy, and others.",
 	"synonym": "35298",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"AFAMPERT",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"ENGLHE3",
+		"ENGLT2",
+		"SPECINTSUSTAIN"
 	],
-	"title": "Literature of the American South"
+	"title": "Literature of the American South",
+	"type": "Course"
 }

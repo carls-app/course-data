@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "4343",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"CCSTGLOBAL",
+		"ENTSINTL"
 	],
-	"title": "Economy, Ecology, Culture"
+	"title": "Economy, Ecology, Culture",
+	"type": "Course"
 }

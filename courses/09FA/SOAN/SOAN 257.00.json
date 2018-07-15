@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": "India is a region of immense diversity where more than one billion people live. We will explore social structures in India--through a focus on key areas of everyday life such as family, religion, economy, systems of stratification and social movements. Close attention will be given to religious nationalism, globalization and militarism as dominant trends affecting contemporary India. We will consider: How has India been represented in the Western imagination and why do such representations matter? What are the forces of modernity and tradition in India? What are the similarities and differences in systems of stratification in India and the United States?",
 	"synonym": "24416",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTSOUTH"
 	],
-	"title": "Culture and Politics in India"
+	"title": "Culture and Politics in India",
+	"type": "Course"
 }

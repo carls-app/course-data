@@ -9,7 +9,7 @@
 		"Heidi L Jaynes",
 		"Linda K Luedke"
 	],
-	"number": "158.02",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "20779",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

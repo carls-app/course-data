@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melody S Gilbert"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Scoville 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "19059",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECPROD",
+		"CAMSELECTIVE",
+		"CAMSSTUPROD"
 	],
-	"title": "Special Projects Workshop"
+	"title": "Special Projects Workshop",
+	"type": "Course"
 }

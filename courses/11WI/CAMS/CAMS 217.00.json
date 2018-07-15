@@ -9,7 +9,7 @@
 		"Dana Strand",
 		"Sigi Leonhard"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -53,38 +48,15 @@
 	"summary": null,
 	"synonym": "26821",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"CAMSELECTIVE",
+		"EUSTTRANNATL",
+		"FRSTSUPP",
+		"FRENPERT",
+		"GERMPERT",
+		"CCSTREGIONAL",
+		"FRSTELECAL",
+		"FRSTELEC"
 	],
-	"title": "Border Crossings: Postmodern Perspectives on French and German Cinema"
+	"title": "Border Crossings: Postmodern Perspectives on French and German Cinema",
+	"type": "Course"
 }

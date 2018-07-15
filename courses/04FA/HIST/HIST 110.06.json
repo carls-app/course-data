@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "110.06",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "10437",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCNTRY",
+		"HISTERLYMODEUR"
 	],
-	"title": "German Revolutions of 1848"
+	"title": "German Revolutions of 1848",
+	"type": "Course"
 }

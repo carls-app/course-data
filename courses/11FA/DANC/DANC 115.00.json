@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"IS",
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,5 +40,6 @@
 	"summary": null,
 	"synonym": "30189",
 	"tags": [],
-	"title": "Cultures of Dance"
+	"title": "Cultures of Dance",
+	"type": "Course"
 }

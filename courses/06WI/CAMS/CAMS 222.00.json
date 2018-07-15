@@ -9,7 +9,7 @@
 		"John Schott",
 		"Paul Hager"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 18,
@@ -34,14 +35,9 @@
 	"summary": null,
 	"synonym": "14331",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"CAMSELECTIVE",
+		"CAMSXDEPT"
 	],
-	"title": "News Story Workshop"
+	"title": "News Story Workshop",
+	"type": "Course"
 }

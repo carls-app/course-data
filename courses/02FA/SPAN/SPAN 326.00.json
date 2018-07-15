@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "326.00",
+	"number": "326",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "4814",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTETHNIC",
+		"LTAMLIT",
+		"LTAMELECTIVE"
 	],
-	"title": "Writers in Exile"
+	"title": "Writers in Exile",
+	"type": "Course"
 }

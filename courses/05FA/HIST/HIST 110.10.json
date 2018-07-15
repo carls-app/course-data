@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "110.10",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "10",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "12379",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"HISTANCNT/MDVL",
+		"EUSTTRANNATL"
 	],
-	"title": "Transforming Relg Identities"
+	"title": "Transforming Relg Identities",
+	"type": "Course"
 }

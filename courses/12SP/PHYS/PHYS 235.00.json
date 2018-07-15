@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151, 161, or 165, and Mathematics 211 or instructor permission; Concurrent registration in Physics 235L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -52,5 +47,6 @@
 	"summary": "Electric and magnetic fields in free space, and their interactions with charges and currents. Topics include DC and AC circuits, Maxwells's equations, and electromagnetic waves. Weekly laboratory work.",
 	"synonym": "28819",
 	"tags": [],
-	"title": "Electricity and Magnetism"
+	"title": "Electricity and Magnetism",
+	"type": "Course"
 }

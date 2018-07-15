@@ -7,7 +7,7 @@
 		"Brooke M Plotz",
 		"Mikki Showers"
 	],
-	"number": "172.03",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "17227",
 	"tags": [],
-	"title": "Swimming, Fitness"
+	"title": "Swimming, Fitness",
+	"type": "Course"
 }

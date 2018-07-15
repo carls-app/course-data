@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "109.01",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"WR1"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "18684",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

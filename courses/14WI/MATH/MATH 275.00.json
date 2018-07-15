@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"CMC 102"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 265",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 35,
@@ -50,10 +45,8 @@
 	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
 	"synonym": "34970",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
-	"title": "Introduction to Statistical Inference"
+	"title": "Introduction to Statistical Inference",
+	"type": "Course"
 }

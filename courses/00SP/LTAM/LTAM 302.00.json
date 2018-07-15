@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"AFAMPERT",
 		"LTAM300SOCSCI"
 	],
-	"title": "Anthro & Indigenous Rights"
+	"title": "Anthro & Indigenous Rights",
+	"type": "Course"
 }

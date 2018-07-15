@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 50,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "18107",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTERLYMODEUR",
+		"EUSTCNTRY"
 	],
-	"title": "History of Russia to 1917"
+	"title": "History of Russia to 1917",
+	"type": "Course"
 }

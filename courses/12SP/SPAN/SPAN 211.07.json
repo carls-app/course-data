@@ -8,20 +8,15 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "211.07",
+	"number": "211",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -31,5 +26,6 @@
 	"summary": null,
 	"synonym": "29936",
 	"tags": [],
-	"title": "Peru Program: Writing and Conversation"
+	"title": "Peru Program: Writing and Conversation",
+	"type": "Course"
 }

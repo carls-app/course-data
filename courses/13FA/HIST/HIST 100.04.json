@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 16,
@@ -52,10 +47,8 @@
 	"summary": null,
 	"synonym": "35934",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		}
+		"HISTENVIRHEALTH"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

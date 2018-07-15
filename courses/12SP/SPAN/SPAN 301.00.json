@@ -8,7 +8,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"IS",
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -47,18 +42,10 @@
 	"summary": "This course is a comparative study of classical and Christian tragedy from Sophocles to Valle Inclán and from Aristotle to Nietzsche. Classes alternate between lectures and group discussions. Course requisites include a midterm exam and a final paper. All readings are in Spanish, Sophocles and Aristotle included.",
 	"synonym": "29940",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"SPECINTETHICS",
+		"EUSTCNTRY"
 	],
-	"title": "Greek and Christian Tragedy"
+	"title": "Greek and Christian Tragedy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tun Myint"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 35,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "20636",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

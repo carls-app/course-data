@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Mathematics 236 and instructor permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": "We will help local communities respond to the latest changes in GED requirements by observing how GED mathematics is currently taught and preparing new curricular materials to teach it in the future.",
 	"synonym": "37543",
 	"tags": [
-		{
-			"code": "ELECSTAT",
-			"name": "Elective Stats"
-		}
+		"ELECSTAT"
 	],
-	"title": "Designing a Curriculum for Math GED"
+	"title": "Designing a Curriculum for Math GED",
+	"type": "Course"
 }

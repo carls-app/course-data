@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Selected topics beyond the material of Mathematics 232. Topics may include the Cayley-Hamilton theorem, the spectral theorem, factorizations, canonical forms, determinant functions, estimation of eigenvalues, inner product spaces, dual vector spaces, unitary and Hermitian matrices, operators, infinite-dimensional spaces, and various applications.",
 	"synonym": "28982",
 	"tags": [],
-	"title": "Advanced Linear Algebra"
+	"title": "Advanced Linear Algebra",
+	"type": "Course"
 }

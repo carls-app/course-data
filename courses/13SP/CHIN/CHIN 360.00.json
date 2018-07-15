@@ -6,7 +6,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -41,18 +39,10 @@
 	"summary": "Classical Chinese dominated traditional Chinese culture with its concise grammar, powerful rhetoric, and graceful rhythm. It represents the dignity and glory of an enduring civilization of 5,000 years. Far from being dead, Classical Chinese is frequently referred to and quoted in modern Chinese texts. We will read the elegant essays, wise fables and charming poems written by Confucian masters, Taoist philosophers, and traditional poets. The class will pay attention to the modern application of classical Chinese. We will proceed slowly and thoroughly, immersing ourselves in words that are stronger than swords.",
 	"synonym": "33200",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Classical Chinese"
+	"title": "Classical Chinese",
+	"type": "Course"
 }

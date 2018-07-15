@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 22,
@@ -46,5 +47,6 @@
 		"MARSCORE",
 		"MARSSUPP"
 	],
-	"title": "Italian Renaissance Art"
+	"title": "Italian Renaissance Art",
+	"type": "Course"
 }

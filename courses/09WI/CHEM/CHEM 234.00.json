@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Gittins"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 51,
 		"total": 66,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20453",
 	"tags": [],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

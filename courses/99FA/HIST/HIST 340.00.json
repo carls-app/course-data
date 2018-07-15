@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "3508",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"HISTEUR1451",
+		"FRSTSUPP"
 	],
-	"title": "France in Revolution"
+	"title": "France in Revolution",
+	"type": "Course"
 }

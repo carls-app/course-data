@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "3879",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "10194",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AMSTTOPICAL3",
+		"POSICOMPRTV",
+		"POSIELECTIVE"
 	],
-	"title": "Law and Society"
+	"title": "Law and Society",
+	"type": "Course"
 }

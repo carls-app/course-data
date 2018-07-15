@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"LITFORLANG",
 		"AFAMPERT"
 	],
-	"title": "Cntmp Amer Playwrghts of Color"
+	"title": "Cntmp Amer Playwrghts of Color",
+	"type": "Course"
 }

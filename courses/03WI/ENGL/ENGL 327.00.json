@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "4017",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL3",
+		"LITFORLANG"
 	],
-	"title": "Nineteenth-Century Fiction"
+	"title": "Nineteenth-Century Fiction",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "4849",
 	"tags": [],
-	"title": "Speaking French"
+	"title": "Speaking French",
+	"type": "Course"
 }

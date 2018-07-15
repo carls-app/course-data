@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "4663",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTEUR1451",
+		"CCSTREGIONAL",
+		"HISTERLYMODEUR"
 	],
-	"title": "Hist/Working Class Modn Europe"
+	"title": "Hist/Working Class Modn Europe",
+	"type": "Course"
 }

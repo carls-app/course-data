@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adrienne L Falcón"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "16704",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"POSI-AREAS"
 	],
-	"title": "Ethnography of Latin America"
+	"title": "Ethnography of Latin America",
+	"type": "Course"
 }

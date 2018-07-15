@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 24,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "541",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Plant Physiological Ecology"
+	"title": "Plant Physiological Ecology",
+	"type": "Course"
 }

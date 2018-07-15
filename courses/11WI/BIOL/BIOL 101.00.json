@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 61,
 		"total": 48,
@@ -48,10 +46,8 @@
 	"summary": "The myths surrounding human reproduction and sexuality may out weigh our collective knowledge and understanding. This course will review the basic biology of all aspects of reproduction--from genes to behavior--in an attempt to better understand one of the more basic and important processes in nature. Topics will vary widely and will be generated in part by student interest. A sample of topics might include: hormones, PMS, fertilization, pregnancy, arousal, attraction, the evolution of the orgasm, and the biology of sexuality.",
 	"synonym": "27758",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Human Reproduction and Sexuality"
+	"title": "Human Reproduction and Sexuality",
+	"type": "Course"
 }

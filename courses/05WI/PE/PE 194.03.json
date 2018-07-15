@@ -6,7 +6,7 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "194.03",
+	"number": "194",
 	"offerings": {
 		"locations": [
 			"Stadium PE"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 13,
 		"total": 26,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "11609",
 	"tags": [],
-	"title": "Weight Training, Advanced"
+	"title": "Weight Training, Advanced",
+	"type": "Course"
 }

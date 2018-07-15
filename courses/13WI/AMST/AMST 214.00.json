@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": "Frequently derided as a nadir of musical culture, the 1970s featured extraordinary musical creativity and change. In addition to the flowering of funk, soft rock, heavy metal, disco, and punk, the era also saw debates over authenticity in country music, experimentation with minimalism, jazz, and technology in classical music, and the beginnings of a \"world music\" market. We'll approach these with deliberate interdisciplinarity, exploring the varied music and musical cultures through focused listening, analysis of period video and historic documents, and through the work of scholars from a variety of disciplines. No prior musical experience needed.",
 	"synonym": "31943",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "MUSCPERT",
-			"name": "Music Pertinent"
-		}
+		"AMMUGROUP2",
+		"AMSTTOPICAL1",
+		"MUSCPERT"
 	],
-	"title": "Music in the 1970s"
+	"title": "Music in the 1970s",
+	"type": "Course"
 }

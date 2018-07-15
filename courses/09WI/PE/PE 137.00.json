@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "20771",
 	"tags": [],
-	"title": "Indoor Soccer"
+	"title": "Indoor Soccer",
+	"type": "Course"
 }

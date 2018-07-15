@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mar Valdecantos"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "2939",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 10,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "16964",
 	"tags": [],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

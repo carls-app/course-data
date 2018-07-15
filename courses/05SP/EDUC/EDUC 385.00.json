@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Willis 102"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "10254",
 	"tags": [],
-	"title": "Schooling and Community"
+	"title": "Schooling and Community",
+	"type": "Course"
 }

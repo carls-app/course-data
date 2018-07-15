@@ -8,16 +8,14 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "212.07",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125 and 126 and at least one upper-level Biology course releated to ecology, evolution or organismal biology",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -27,10 +25,8 @@
 	"summary": null,
 	"synonym": "28712",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Australia Program: Ecological Field Research"
+	"title": "Australia Program: Ecological Field Research",
+	"type": "Course"
 }

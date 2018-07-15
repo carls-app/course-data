@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "185.02",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Chapel MAIN"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 3,
 		"total": 100,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "12749",
 	"tags": [],
-	"title": "Mens Chorus"
+	"title": "Mens Chorus",
+	"type": "Course"
 }

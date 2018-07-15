@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "7028",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		}
+		"AMSTTOPICAL1",
+		"AFAMSENIORSEM"
 	],
-	"title": "Senior Sem: Toni Morrison"
+	"title": "Senior Sem: Toni Morrison",
+	"type": "Course"
 }

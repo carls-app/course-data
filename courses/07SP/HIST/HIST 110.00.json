@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "15508",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"MARSSUPP",
+		"HISTERLYMODEUR"
 	],
-	"title": "The Age of Elizabeth"
+	"title": "The Age of Elizabeth",
+	"type": "Course"
 }

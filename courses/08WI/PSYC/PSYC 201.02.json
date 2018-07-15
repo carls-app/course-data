@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "201.02",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "17870",
 	"tags": [],
-	"title": "Measurement&Data Analysis Lab"
+	"title": "Measurement&Data Analysis Lab",
+	"type": "Course"
 }

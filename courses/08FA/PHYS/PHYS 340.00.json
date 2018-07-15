@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20903",
 	"tags": [],
-	"title": "Thermal & Statistical Phys II"
+	"title": "Thermal & Statistical Phys II",
+	"type": "Course"
 }

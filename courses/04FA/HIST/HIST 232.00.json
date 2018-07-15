@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -41,34 +42,14 @@
 	"summary": null,
 	"synonym": "10448",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"FRSTHIST"
 	],
-	"title": "The Renaissance"
+	"title": "The Renaissance",
+	"type": "Course"
 }

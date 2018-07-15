@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "947",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Religion & American Landscape"
+	"title": "Religion & American Landscape",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -47,14 +42,9 @@
 	"summary": "Through close reading and discussion of Latin texts on Christian martyrdom from the second and third centuries, including",
 	"synonym": "39461",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"SPECINTETHICS",
+		"MARSSUPP"
 	],
-	"title": "Martyr Texts from Roman North Africa"
+	"title": "Martyr Texts from Roman North Africa",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "110.08",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "08",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "18189",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Personal Identity"
+	"title": "Personal Identity",
+	"type": "Course"
 }

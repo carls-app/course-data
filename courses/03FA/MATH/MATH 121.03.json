@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "121.03",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 24,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6758",
 	"tags": [],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

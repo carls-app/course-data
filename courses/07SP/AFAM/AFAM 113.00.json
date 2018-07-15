@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "16537",
 	"tags": [
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AFAMSURVEY"
 	],
-	"title": "Intro-African/Afam Studies"
+	"title": "Intro-African/Afam Studies",
+	"type": "Course"
 }

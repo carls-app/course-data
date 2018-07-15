@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Library 170"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10798",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "Gutenberg-Gates:History Book"
+	"title": "Gutenberg-Gates:History Book",
+	"type": "Course"
 }

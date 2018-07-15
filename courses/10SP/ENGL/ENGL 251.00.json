@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": "Contemporary Indian writers, based either in India or abroad, have become significant figures in the global literary landscape. This can be traced to the publication of Salman Rushdie's second novel,",
 	"synonym": "23190",
 	"tags": [
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ENGLT3",
+		"SAST",
+		"ASSTSOUTH",
+		"ASSTAL"
 	],
-	"title": "Contemporary Indian Fiction"
+	"title": "Contemporary Indian Fiction",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "14399",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"HISTASIA",
+		"HISTISLAM",
+		"POSICOMPRTV",
+		"POSIELECTIVE"
 	],
-	"title": "History of Modern Turkey"
+	"title": "History of Modern Turkey",
+	"type": "Course"
 }

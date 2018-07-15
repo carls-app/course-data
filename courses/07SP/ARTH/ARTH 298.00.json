@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "15376",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTPERT",
+		"ASSTMETH"
 	],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

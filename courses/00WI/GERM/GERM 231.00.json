@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -47,5 +48,6 @@
 	"tags": [
 		"ENGLFORLIT"
 	],
-	"title": "Medieval German Literature"
+	"title": "Medieval German Literature",
+	"type": "Course"
 }

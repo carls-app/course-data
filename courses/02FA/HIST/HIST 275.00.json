@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeane H DeLaney"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4667",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"HISTLTAM",
+		"POSIELECTIVE"
 	],
-	"title": "20th Century Cuba"
+	"title": "20th Century Cuba",
+	"type": "Course"
 }

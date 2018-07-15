@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "234.",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "21877",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"WGSTADDL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
-	"title": "MdrnJpnNov/Trans:Mothers&Daug"
+	"title": "MdrnJpnNov/Trans:Mothers&Daug",
+	"type": "Course"
 }

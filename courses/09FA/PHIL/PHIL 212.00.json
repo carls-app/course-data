@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: 100-level Philosophy course or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": "Do you know that you're not just a brain, floating in a vat, receiving stimulations through electrodes? Or perhaps an immaterial soul being conned by a malicious demon? In this course, we will use these skeptical worries as a launching point for thinking about epistemological issues: What exactly is knowledge? Do we ever have it? If so, when, and how? We will approach these questions through an examination of theories of epistemic justification, including foundationalism, coherentism, internalism, externalism, and virtue epistemology. We will then consider some critiques of traditional epistemology, including feminist epistemology and naturalized epistemology.",
 	"synonym": "23703",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"CGSCELECTIVE",
+		"PHILTHEORY"
 	],
-	"title": "Epistemology"
+	"title": "Epistemology",
+	"type": "Course"
 }

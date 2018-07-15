@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shelby Boardman"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 27,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "804",
 	"tags": [],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

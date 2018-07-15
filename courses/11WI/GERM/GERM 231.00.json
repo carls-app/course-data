@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -48,26 +46,12 @@
 	"summary": "Around the year 1200 German poets wrote some of the most lasting works in the Western literary tradition. It was a time of courtly love and Arthurian romances, and themes vary widely from love and honor to revenge and murder. Special attention is given to the poetry of Walther von der Vogelweide and two major epics:",
 	"synonym": "27636",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"ENGLFORLIT",
+		"MARSSUPP",
+		"EUSTCNTRY",
+		"ENGLLOE",
+		"MARSCORE"
 	],
-	"title": "Damsels, Dwarfs, and Dragons: Medieval German Literature"
+	"title": "Damsels, Dwarfs, and Dragons: Medieval German Literature",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -48,5 +49,6 @@
 		"AMSTTOPICAL1",
 		"LITFORLANG"
 	],
-	"title": "20th C American Drama"
+	"title": "20th C American Drama",
+	"type": "Course"
 }

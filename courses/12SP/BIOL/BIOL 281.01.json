@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sabrice Guerrier"
 	],
-	"number": "281.01",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": "The focus of the laboratory will be on current techniques used to study cellular structure and function. Concurrent registration in Biology 280 required.",
 	"synonym": "28735",
 	"tags": [],
-	"title": "Cell Biology Laboratory"
+	"title": "Cell Biology Laboratory",
+	"type": "Course"
 }

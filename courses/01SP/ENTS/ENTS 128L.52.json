@@ -9,7 +9,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "128L.52",
+	"number": "128L",
 	"offerings": {
 		"locations": [
 			"Mudd 260"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "1606",
 	"tags": [],
-	"title": "Principles-Environ Chem Lab"
+	"title": "Principles-Environ Chem Lab",
+	"type": "Lab"
 }

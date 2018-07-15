@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"LITFORLANG",
 		"AFAMDISTROAL"
 	],
-	"title": "African American Autobiography"
+	"title": "African American Autobiography",
+	"type": "Course"
 }

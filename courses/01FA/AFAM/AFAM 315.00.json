@@ -9,7 +9,7 @@
 	"instructors": [
 		"Susan Robeson"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1122",
 	"tags": [],
-	"title": "Paul Robeson & Amer Culture"
+	"title": "Paul Robeson & Amer Culture",
+	"type": "Course"
 }

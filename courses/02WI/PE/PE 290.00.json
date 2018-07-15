@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "290.00",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "3094",
 	"tags": [],
-	"title": "Men's Volleyball Club"
+	"title": "Men's Volleyball Club",
+	"type": "Course"
 }

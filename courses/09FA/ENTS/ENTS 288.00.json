@@ -8,7 +8,7 @@
 	"instructors": [
 		"Trish Ferrett"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: One introductory course in Biology 125 or 126, Chemistry 123 or 128 or any 100-level Geology, or Physics (two five-week courses or one ten week course from 131 through 165)",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,18 +44,10 @@
 	"summary": "The field of abrupt climate change seeks to understand very fast changes, or \"tipping points,\" in historical climate records. Course topics include interpretation of historical climate data, methods of measuring abrupt changes in ancient climates, theories for abrupt change, the role of complex earth systems, and the connection to trends in global climate change. The course will directly address our future vulnerability to abrupt climate change through cases studies of past human civilizations. Includes a term-long multimedia team project, with an academic civic engagement component, at the intersection of abrupt climate change and an issue of human concern.",
 	"synonym": "23316",
 	"tags": [
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSWRES",
+		"ENTSFAES",
+		"ENTSCDES"
 	],
-	"title": "Abrupt Climate Change"
+	"title": "Abrupt Climate Change",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "In this course we will explore the history of Russia and other former Soviet states in the period after the death of Stalin, exploring the workings of the communist system and the challenges it faced internally and internationally. We will investigate the nature of the late Soviet state and look at the different trajectories Russia and other post-Soviet states have followed since the end of the Soviet Union.",
 	"synonym": "33844",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "RUSSIANPERT",
-			"name": "Russian Pertinent"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"HISTERLYMODEUR",
+		"RUSSIANPERT",
+		"POSI-AREAS"
 	],
-	"title": "Communism, Cold War, Collapse: Russia Since Stalin"
+	"title": "Communism, Cold War, Collapse: Russia Since Stalin",
+	"type": "Course"
 }

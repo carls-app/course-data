@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18202",
 	"tags": [],
-	"title": "Qualitative Thinking"
+	"title": "Qualitative Thinking",
+	"type": "Course"
 }

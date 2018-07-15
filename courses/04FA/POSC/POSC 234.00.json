@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martin Sampson"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "9731",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"CCSTREGIONAL",
+		"CCSTBINARY",
+		"POSCELECTIVE"
 	],
-	"title": "The Arab-Israeli Conflict"
+	"title": "The Arab-Israeli Conflict",
+	"type": "Course"
 }

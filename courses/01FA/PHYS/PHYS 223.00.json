@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1424",
 	"tags": [],
-	"title": "Research Seminar"
+	"title": "Research Seminar",
+	"type": "Course"
 }

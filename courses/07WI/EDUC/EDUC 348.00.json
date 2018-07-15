@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary S Gustafson"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 10,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "15878",
 	"tags": [],
-	"title": "Method Teaching Social Studies"
+	"title": "Method Teaching Social Studies",
+	"type": "Course"
 }

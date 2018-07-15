@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "24726",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"ENTS2SCP",
+		"ASSTSOUTH",
+		"ENTSLPSCP",
+		"ENTSENVPERS",
+		"ENTSINTL"
 	],
-	"title": "Buddhism and Ecology"
+	"title": "Buddhism and Ecology",
+	"type": "Course"
 }

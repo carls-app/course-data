@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "368.00",
+	"number": "368",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "21062",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Developmental Neurobiology"
+	"title": "Developmental Neurobiology",
+	"type": "Course"
 }

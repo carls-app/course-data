@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 100,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "4545",
 	"tags": [],
-	"title": "Voice"
+	"title": "Voice",
+	"type": "Course"
 }

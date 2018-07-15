@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -43,50 +44,18 @@
 	"summary": null,
 	"synonym": "21839",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "FFSTCORE",
-			"name": "FFST Conc Core"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"WGSTADDL",
+		"FFSTCORE",
+		"FRSTSUPP",
+		"FRSTELEC",
+		"ENGLLOE"
 	],
-	"title": "Women of the New France"
+	"title": "Women of the New France",
+	"type": "Course"
 }

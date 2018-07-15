@@ -9,7 +9,7 @@
 	"instructors": [
 		"Vern D Bailey"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 24,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2914",
 	"tags": [],
-	"title": "Hitchcock:The Classic Films"
+	"title": "Hitchcock:The Classic Films",
+	"type": "Course"
 }

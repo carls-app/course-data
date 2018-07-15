@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 211",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "11821",
 	"tags": [],
-	"title": "Biology of Disease"
+	"title": "Biology of Disease",
+	"type": "Course"
 }

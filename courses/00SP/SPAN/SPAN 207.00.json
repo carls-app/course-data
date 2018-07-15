@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maria E Cueto-Asin"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"SPAN205-209",
 		"LTAMELECTIVE"
 	],
-	"title": "Exploring Hispanic Culture"
+	"title": "Exploring Hispanic Culture",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -43,38 +44,15 @@
 	"summary": null,
 	"synonym": "4323",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTSASIA",
+		"CCSTREGIONAL",
+		"WGSTADDL",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"HISTASIA"
 	],
-	"title": "Women in South Asia"
+	"title": "Women in South Asia",
+	"type": "Course"
 }

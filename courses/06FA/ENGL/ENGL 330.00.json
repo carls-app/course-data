@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "15806",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"ENTSENVPERS"
 	],
-	"title": "Lit of the American West"
+	"title": "Lit of the American West",
+	"type": "Course"
 }

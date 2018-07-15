@@ -8,16 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 20,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "16098",
 	"tags": [],
-	"title": "Lacrosse"
+	"title": "Lacrosse",
+	"type": "Course"
 }

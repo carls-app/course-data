@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "13505",
 	"tags": [
-		{
-			"code": "ENTSAC",
-			"name": "ENTS Arts and Culture"
-		}
+		"ENTSAC"
 	],
-	"title": "Science,Authority&Conscience"
+	"title": "Science,Authority&Conscience",
+	"type": "Course"
 }

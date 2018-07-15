@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "343L.57",
+	"number": "343L",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 4,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17736",
 	"tags": [],
-	"title": "Electronics Lab"
+	"title": "Electronics Lab",
+	"type": "Lab"
 }

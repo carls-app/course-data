@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 and either Computer Science 202 or Mathematics 236, or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Computers are poor conversationalists, despite decades of attempts to change that fact. This course will provide an overview of the computational techniques developed in the attempt to enable computers to interpret and respond appropriately to ideas expressed using natural languages (such as English or French) as opposed to formal languages (such as C++ or Lisp). Topics in this course will include parsing, semantic analysis, machine translation, dialogue systems, and statistical methods in speech recognition.",
 	"synonym": "25739",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Natural Language Processing"
+	"title": "Natural Language Processing",
+	"type": "Course"
 }

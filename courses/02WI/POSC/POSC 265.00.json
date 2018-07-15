@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "1092",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Pol-Global Economic Relations"
+	"title": "Pol-Global Economic Relations",
+	"type": "Course"
 }

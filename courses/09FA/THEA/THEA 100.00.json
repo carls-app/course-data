@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "24097",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Performing Roles"
+	"title": "Performing Roles",
+	"type": "Course"
 }

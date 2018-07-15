@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "21038",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLHE2",
+		"ENGL2",
+		"WGSTADDL",
+		"EUSTCNTRY"
 	],
-	"title": "The Gothic Spirit"
+	"title": "The Gothic Spirit",
+	"type": "Course"
 }

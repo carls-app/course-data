@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tommy Occhipinti"
 	],
-	"number": "121.03",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 101, 111 or placement via Calculus Placement Exam # 2",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Integration techniques, improper integrals, the calculus of the logarithmic, exponential and inverse trigonometric functions, applications, Taylor polynomials and infinite series.",
 	"synonym": "34935",
 	"tags": [
-		{
-			"code": "MATHCALC",
-			"name": "Calculus for Cs Majors"
-		}
+		"MATHCALC"
 	],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

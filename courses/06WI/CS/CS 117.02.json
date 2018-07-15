@@ -8,7 +8,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "117.02",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 24,
 		"total": 28,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "12300",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

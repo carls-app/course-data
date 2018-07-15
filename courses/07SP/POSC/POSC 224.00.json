@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15661",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"AMSTTOPICAL3",
+		"POSI-GDS"
 	],
-	"title": "Migration Pol:Asian Amer Exp"
+	"title": "Migration Pol:Asian Amer Exp",
+	"type": "Course"
 }

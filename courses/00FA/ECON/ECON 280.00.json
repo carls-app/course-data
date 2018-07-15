@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "863",
 	"tags": [],
-	"title": "International Trade"
+	"title": "International Trade",
+	"type": "Course"
 }

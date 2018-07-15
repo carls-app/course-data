@@ -6,11 +6,12 @@
 	"instructors": [
 		"Karina A Eileraas"
 	],
-	"number": "396.02",
+	"number": "396",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 15,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "14029",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"WGSTCAP"
 	],
-	"title": "Capstone Seminar"
+	"title": "Capstone Seminar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "200.01",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "15823",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTPERT",
+		"ASSTMETH"
 	],
-	"title": "Methods of Interpretation"
+	"title": "Methods of Interpretation",
+	"type": "Course"
 }

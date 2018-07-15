@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "A survey of the works of the Roman Silver Age historian and rhetorician Gaius Cornelius Tacitus, reading Latin excerpts and selections in English translation.",
 	"synonym": "29803",
 	"tags": [],
-	"title": "Tacitus"
+	"title": "Tacitus",
+	"type": "Course"
 }

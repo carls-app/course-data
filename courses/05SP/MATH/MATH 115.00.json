@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11410",
 	"tags": [],
-	"title": "Statistics: Concepts & Applctn"
+	"title": "Statistics: Concepts & Applctn",
+	"type": "Course"
 }

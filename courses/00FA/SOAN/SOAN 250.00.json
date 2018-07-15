@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"CCSTREGIONAL",
 		"LTAMELECTIVE"
 	],
-	"title": "Ethnography of Latin America"
+	"title": "Ethnography of Latin America",
+	"type": "Course"
 }

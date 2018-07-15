@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "19432",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "VanEyck,Bosch,Bruegel:Vis Cult"
+	"title": "VanEyck,Bosch,Bruegel:Vis Cult",
+	"type": "Course"
 }

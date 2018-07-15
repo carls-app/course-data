@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -43,42 +44,16 @@
 	"summary": null,
 	"synonym": "13439",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTSEM",
-			"name": "FRST Seminar"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "FFSTCORE",
-			"name": "FFST Conc Core"
-		}
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"FRSTSEM",
+		"WGSTADDL",
+		"FFSTCORE"
 	],
-	"title": "Sexuality and Sagacity"
+	"title": "Sexuality and Sagacity",
+	"type": "Course"
 }

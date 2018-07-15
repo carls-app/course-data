@@ -8,16 +8,14 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "282.07",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -27,14 +25,9 @@
 	"summary": "Students will attend productions (at least two per week) of classic and contemporary plays in a range of London venues both on and off the West End, and will do related reading. We will also travel to Stratford-upon-Avon for a three-day theater trip. Class discussions will focus on dramatic genres and themes, dramaturgy, acting styles, and design. Guest speakers may include actors, critics, and directors. Students will keep a theater journal and write several full reviews of plays.",
 	"synonym": "35325",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLT1",
+		"EUSTCNTRY"
 	],
-	"title": "London Program: London Theater"
+	"title": "London Program: London Theater",
+	"type": "Course"
 }

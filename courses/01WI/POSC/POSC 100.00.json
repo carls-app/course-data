@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "787",
 	"tags": [],
-	"title": "Ethics and Politics"
+	"title": "Ethics and Politics",
+	"type": "Course"
 }

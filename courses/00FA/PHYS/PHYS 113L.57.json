@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "113L.57",
+	"number": "113L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "360",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

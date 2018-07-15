@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 204"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Greek 103 with a grade of at least C-",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -41,18 +42,10 @@
 	"summary": "Selected readings from",
 	"synonym": "24277",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Greek Poetry"
+	"title": "Greek Poetry",
+	"type": "Course"
 }

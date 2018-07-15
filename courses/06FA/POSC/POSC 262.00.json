@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "15605",
 	"tags": [
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"ENTSWRSCP",
+		"AMSTTOPICAL3",
+		"ENTSSP",
+		"ENTSFASCP"
 	],
-	"title": "Environmental Policy & Politic"
+	"title": "Environmental Policy & Politic",
+	"type": "Course"
 }

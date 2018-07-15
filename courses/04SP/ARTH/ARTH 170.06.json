@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "170.06",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "9121",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTTRANNATL",
+		"MARSSUPP"
 	],
-	"title": "History of Print Making"
+	"title": "History of Print Making",
+	"type": "Course"
 }

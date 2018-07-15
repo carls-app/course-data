@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 21,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18170",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Evolution and Mind"
+	"title": "Evolution and Mind",
+	"type": "Course"
 }

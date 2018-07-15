@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "303.00",
+	"number": "303",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -29,20 +29,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -52,30 +44,13 @@
 	"summary": null,
 	"synonym": "36243",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-DSS2",
+		"CAMSXDEPT",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POSI-DSS",
+		"POSIELECTIVE"
 	],
-	"title": "Political Communication: Political Advertising in Elections and Public Policy*"
+	"title": "Political Communication: Political Advertising in Elections and Public Policy*",
+	"type": "Course"
 }

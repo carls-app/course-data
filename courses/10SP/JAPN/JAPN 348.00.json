@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Japanese 206 or the equivalent.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "24304",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Advanced Japanese Conversation and Composition"
+	"title": "Advanced Japanese Conversation and Composition",
+	"type": "Course"
 }

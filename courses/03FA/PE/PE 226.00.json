@@ -10,16 +10,14 @@
 		"Gerald L Young",
 		"Doug Lichtenberger"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 61,
 		"total": 75,
@@ -29,5 +27,6 @@
 	"summary": null,
 	"synonym": "8806",
 	"tags": [],
-	"title": "Football Intercollegiate"
+	"title": "Football Intercollegiate",
+	"type": "Course"
 }

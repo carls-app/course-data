@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "Contemporary artists often look to the historical avant-garde movements of earlier generations for inspiration and ideological support. This course will examine how the strategies of one such historical movement, Constructivism, continue to resonate in the art world as artists question both the definition of art and its broader role in society. In particular, this course will consider how Russian artists in the 1920s and 30s used monochrome painting, industrial materials, installation art, public demonstrations and propaganda to alter the institution of art. We will then trace the legacies of these disruptive practices in art of the recent past.",
 	"synonym": "29095",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Legacies of the Avant-Garde: Constructivism Then and Now"
+	"title": "Legacies of the Avant-Garde: Constructivism Then and Now",
+	"type": "Course"
 }

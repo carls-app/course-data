@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "10877",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Fiction Video Production"
+	"title": "Fiction Video Production",
+	"type": "Course"
 }

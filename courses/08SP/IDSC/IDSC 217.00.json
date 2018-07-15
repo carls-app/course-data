@@ -7,7 +7,7 @@
 		"Arjendu K Pattanayak",
 		"Cindy Blaha"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "17802",
 	"tags": [],
-	"title": "Computational Modeling"
+	"title": "Computational Modeling",
+	"type": "Course"
 }

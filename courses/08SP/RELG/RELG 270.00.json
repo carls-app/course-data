@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19035",
 	"tags": [
-		{
-			"code": "PHILPERT",
-			"name": "Philosophy Pertinent Courses"
-		}
+		"PHILPERT"
 	],
-	"title": "Philosophy of Religion"
+	"title": "Philosophy of Religion",
+	"type": "Course"
 }

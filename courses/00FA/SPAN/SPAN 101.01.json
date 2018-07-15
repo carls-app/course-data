@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane Pearsall"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "1775",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

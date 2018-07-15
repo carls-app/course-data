@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "230L.52",
+	"number": "230L",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 20,
 		"total": 21,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "30635",
 	"tags": [],
-	"title": "Equilibrium and Analysis Lab"
+	"title": "Equilibrium and Analysis Lab",
+	"type": "Lab"
 }

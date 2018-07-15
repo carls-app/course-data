@@ -8,20 +8,15 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "295.07",
+	"number": "295",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -31,10 +26,8 @@
 	"summary": null,
 	"synonym": "29948",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Berlin Program: Berlin: The German Metropolis"
+	"title": "Berlin Program: Berlin: The German Metropolis",
+	"type": "Course"
 }

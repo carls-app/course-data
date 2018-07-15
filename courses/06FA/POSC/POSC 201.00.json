@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15595",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "National Policymaking"
+	"title": "National Policymaking",
+	"type": "Course"
 }

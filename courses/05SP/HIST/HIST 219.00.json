@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "11466",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "American in Era of Cold War"
+	"title": "American in Era of Cold War",
+	"type": "Course"
 }

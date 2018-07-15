@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -50,10 +45,8 @@
 	"summary": null,
 	"synonym": "30224",
 	"tags": [
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		}
+		"POECAPP"
 	],
-	"title": "Sport Economics"
+	"title": "Sport Economics",
+	"type": "Course"
 }

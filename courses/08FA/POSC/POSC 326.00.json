@@ -6,7 +6,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "326.00",
+	"number": "326",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,38 +37,15 @@
 	"summary": null,
 	"synonym": "20621",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"CCSTBINARY",
+		"ASSTSS",
+		"ASSTEAST",
+		"POSISECFRGNPOL",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSC300LEVEL",
+		"POSI-LPS"
 	],
-	"title": "America's China Policy"
+	"title": "America's China Policy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 38,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "17565",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		}
+		"CCSTGLOBAL",
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSCORE"
 	],
-	"title": "Ecosystems Ecology"
+	"title": "Ecosystems Ecology",
+	"type": "Course"
 }

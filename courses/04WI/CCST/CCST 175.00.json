@@ -7,7 +7,7 @@
 		"Éva S Pósfay",
 		"Petra E Crosby"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 18,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "7673",
 	"tags": [],
-	"title": "I'm a Stranger Here Myself"
+	"title": "I'm a Stranger Here Myself",
+	"type": "Course"
 }

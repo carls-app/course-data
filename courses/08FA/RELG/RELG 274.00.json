@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beth P Kissileff"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22159",
 	"tags": [],
-	"title": "SacrdJrny:ExodusOtherLitPilg"
+	"title": "SacrdJrny:ExodusOtherLitPilg",
+	"type": "Course"
 }

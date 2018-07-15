@@ -6,7 +6,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2636",
 	"tags": [],
-	"title": "HongKong:Relic Past/Model Ftr"
+	"title": "HongKong:Relic Past/Model Ftr",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -51,10 +43,8 @@
 	"summary": null,
 	"synonym": "30207",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Black and White in America: The Economics of Race"
+	"title": "Black and White in America: The Economics of Race",
+	"type": "Course"
 }

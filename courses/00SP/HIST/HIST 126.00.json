@@ -8,7 +8,7 @@
 	"instructors": [
 		"Takao Kitamura"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"HISTUS"
 	],
-	"title": "AfrcAmer Wrtrs&American Dream"
+	"title": "AfrcAmer Wrtrs&American Dream",
+	"type": "Course"
 }

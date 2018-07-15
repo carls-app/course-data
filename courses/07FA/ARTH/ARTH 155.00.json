@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "19276",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"MARSCORE"
 	],
-	"title": "Arts of Islam"
+	"title": "Arts of Islam",
+	"type": "Course"
 }

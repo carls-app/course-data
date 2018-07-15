@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 110 or permission of instructor.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "This course examines approaches to the question: \"How do artists who use language as a medium manipulate that medium, and to what effect?\"",
 	"synonym": "28949",
 	"tags": [
-		{
-			"code": "LINGELEC",
-			"name": "Linguistics Elective"
-		}
+		"LINGELEC"
 	],
-	"title": "Linguistics and Literary Art"
+	"title": "Linguistics and Literary Art",
+	"type": "Course"
 }

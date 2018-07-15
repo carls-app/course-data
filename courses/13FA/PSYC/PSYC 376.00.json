@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "376.00",
+	"number": "376",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Psychology 216.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": "This seminar will examine how the brain changes in response to experience, with a focus on the mammalian brain. Examples will be drawn from the literature on \"normal\" development as well as from recent clinical research, both basic and applied.",
 	"synonym": "35393",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC"
 	],
-	"title": "Neural Plasticity"
+	"title": "Neural Plasticity",
+	"type": "Course"
 }

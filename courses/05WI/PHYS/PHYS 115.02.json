@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "115.02",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 26,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "9578",
 	"tags": [],
-	"title": "Relativity and Particles"
+	"title": "Relativity and Particles",
+	"type": "Course"
 }

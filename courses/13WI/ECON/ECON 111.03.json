@@ -6,7 +6,7 @@
 	"instructors": [
 		"Theresa A Bauer"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -45,10 +40,8 @@
 	"summary": "This course gives the students a foundation in the general principles of economics as a basis for effective citizenship and, when combined with 110, as a preparation for all advanced study in economics. Topics include consumer choice theory; the formation of prices under competition, monopoly, and other market structures; the determination of wages, profits, and income from capital; the distribution of income; and an analysis of policy directed towards problems of public finance, pollution, natural resources, and public goods.",
 	"synonym": "34055",
 	"tags": [
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		}
+		"POECLOWER"
 	],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

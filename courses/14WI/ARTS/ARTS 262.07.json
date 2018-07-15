@@ -9,20 +9,15 @@
 		"Juliane B Shibata",
 		"Pierre Hecker"
 	],
-	"number": "262.07",
+	"number": "262",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -32,5 +27,6 @@
 	"summary": "What did the English Renaissance look like? Through on-site observational drawing, watercolor and gouache painting, and/or digital photography, students will investigate the paintings, ceramics, woodwork, metalwork, textiles, fashion, heraldry, architecture, and landscape gardening of early modern England. The critical observation and artistic rendering of these objects and spaces will afford students a window into the culture of the English Renaissance as they acquaint themselves with the visual vocabulary of the past.",
 	"synonym": "35352",
 	"tags": [],
-	"title": "English Theater and Literature in London: Visualizing the Renaissance"
+	"title": "English Theater and Literature in London: Visualizing the Renaissance",
+	"type": "Course"
 }

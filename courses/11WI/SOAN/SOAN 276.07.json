@@ -8,24 +8,16 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "276.07",
+	"number": "276",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Sociology/Anthropology 110 and Mathematics 115 or 215",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -35,5 +27,6 @@
 	"summary": null,
 	"synonym": "26868",
 	"tags": [],
-	"title": "Comparative Welfare Systems and Social Safety Nets in Australia Program: Comparative Welfare Systems"
+	"title": "Comparative Welfare Systems and Social Safety Nets in Australia Program: Comparative Welfare Systems",
+	"type": "Course"
 }

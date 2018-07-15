@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "464",
 	"tags": [],
-	"title": "Lab in Cognitive Processes"
+	"title": "Lab in Cognitive Processes",
+	"type": "Course"
 }

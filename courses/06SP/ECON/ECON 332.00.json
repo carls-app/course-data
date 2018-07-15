@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "13216",
 	"tags": [],
-	"title": "Econometrics"
+	"title": "Econometrics",
+	"type": "Course"
 }

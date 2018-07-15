@@ -9,7 +9,7 @@
 		"Charles Carlin",
 		"Andrei R Straumanis"
 	],
-	"number": "233L.52",
+	"number": "233L",
 	"offerings": {
 		"locations": [
 			"Mudd 267"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "2219",
 	"tags": [],
-	"title": "Organic Chemistry I Lab"
+	"title": "Organic Chemistry I Lab",
+	"type": "Lab"
 }

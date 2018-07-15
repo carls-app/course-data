@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 104"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -56,5 +48,6 @@
 	"summary": null,
 	"synonym": "26719",
 	"tags": [],
-	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues"
+	"title": "Measured Thinking: Reasoning with Numbers about World Events, Health, Science and Social Issues",
+	"type": "Course"
 }

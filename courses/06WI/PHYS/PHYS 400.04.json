@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "400.04",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 2,
 		"total": 4,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "12205",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

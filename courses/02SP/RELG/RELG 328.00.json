@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "952",
 	"tags": [],
-	"title": "Contemporary Jewish Thought"
+	"title": "Contemporary Jewish Thought",
+	"type": "Course"
 }

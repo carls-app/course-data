@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alan J Holland"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1532",
 	"tags": [],
-	"title": "Topic:Biotech, Ethics& Policy"
+	"title": "Topic:Biotech, Ethics& Policy",
+	"type": "Course"
 }

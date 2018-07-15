@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -47,5 +42,6 @@
 	"summary": "This seminar for first-year students will explore the relationship between the brain and mind and how the brain/mind influences bodily processes, both in health and in disease. In addition, we will examine how the scientific communities of psychology and neuroscience function, and students will develop skills applicable to a broad range of sciences.",
 	"synonym": "28853",
 	"tags": [],
-	"title": "Brain, Mind and Behavior"
+	"title": "Brain, Mind and Behavior",
+	"type": "Course"
 }

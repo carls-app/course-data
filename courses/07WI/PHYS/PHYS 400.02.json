@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "400.02",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 4,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "15249",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

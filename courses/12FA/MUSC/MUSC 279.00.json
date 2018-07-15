@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": "The study of the basic grammar and syntax of jazz improvisation styles, including transcribing solos, chord/scale materials and melodic patterns.",
 	"synonym": "32148",
 	"tags": [],
-	"title": "Jazz Improvisation"
+	"title": "Jazz Improvisation",
+	"type": "Course"
 }

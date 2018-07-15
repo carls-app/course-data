@@ -6,7 +6,7 @@
 	"instructors": [
 		"Natalie M Khazaal"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "21768",
 	"tags": [],
-	"title": "Intermediate Arabic"
+	"title": "Intermediate Arabic",
+	"type": "Course"
 }

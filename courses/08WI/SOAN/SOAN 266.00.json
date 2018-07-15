@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adrienne L Falcón"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "18222",
 	"tags": [
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"ENTSLPSCP",
+		"ENTSSP",
+		"POECUPAPP"
 	],
-	"title": "Urban Sociology"
+	"title": "Urban Sociology",
+	"type": "Course"
 }

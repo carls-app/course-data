@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 56,
 		"total": 50,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "12426",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"CCSTREGIONAL",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Hist Survey of East Africa"
+	"title": "Hist Survey of East Africa",
+	"type": "Course"
 }

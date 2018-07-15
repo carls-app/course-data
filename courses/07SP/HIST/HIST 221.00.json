@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "15516",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"AMSTSURVEY2",
+		"AFAMDISTROHU",
+		"AFAMSURVEY",
+		"HISTAFRDIASPORA"
 	],
-	"title": "African American History II"
+	"title": "African American History II",
+	"type": "Course"
 }

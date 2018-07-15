@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Holt"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center TBA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 50,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "4622",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "Carleton Pro Musica"
+	"title": "Carleton Pro Musica",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Language and Gender"
+	"title": "Language and Gender",
+	"type": "Course"
 }

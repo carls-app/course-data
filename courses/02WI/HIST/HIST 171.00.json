@@ -8,7 +8,7 @@
 	"instructors": [
 		"Javier Morillo-Alicea"
 	],
-	"number": "171.00",
+	"number": "171",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "1041",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		}
+		"HISTLTAM"
 	],
-	"title": "Spain & Its Empire,1492-1820"
+	"title": "Spain & Its Empire,1492-1820",
+	"type": "Course"
 }

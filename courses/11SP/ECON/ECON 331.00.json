@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pavel S Kapinos"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111, Mathematics 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -45,5 +40,6 @@
 	"summary": "Analysis of the forces determining the general level of output, employment, and prices with special emphasis on the role of money and on interest rate determination. This class is normally taken by juniors. Sophomores considering enrolling should speak to the instructor.",
 	"synonym": "26979",
 	"tags": [],
-	"title": "Intermediate Macro Theory"
+	"title": "Intermediate Macro Theory",
+	"type": "Course"
 }

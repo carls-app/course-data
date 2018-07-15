@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "16448",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"SPECINTETHICS",
+		"PHILCORE"
 	],
-	"title": "Ethics"
+	"title": "Ethics",
+	"type": "Course"
 }

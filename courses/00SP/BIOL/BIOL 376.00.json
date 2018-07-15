@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "376.00",
+	"number": "376",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2556",
 	"tags": [],
-	"title": "Sem:Sel Tpc Bhvl Endocrinolgy"
+	"title": "Sem:Sel Tpc Bhvl Endocrinolgy",
+	"type": "Course"
 }

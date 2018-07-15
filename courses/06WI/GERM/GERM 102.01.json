@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "13513",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

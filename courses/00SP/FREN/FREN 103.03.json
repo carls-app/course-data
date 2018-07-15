@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "103.03",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language Lab 110"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "2815",
 	"tags": [],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

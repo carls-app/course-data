@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -56,5 +48,6 @@
 	"summary": null,
 	"synonym": "26838",
 	"tags": [],
-	"title": "9-5 and then Bye Bye: Working Across our Lives"
+	"title": "9-5 and then Bye Bye: Working Across our Lives",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Smith"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4300",
 	"tags": [],
-	"title": "African Pre-History"
+	"title": "African Pre-History",
+	"type": "Course"
 }

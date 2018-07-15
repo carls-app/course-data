@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pavel S Kapinos"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18636",
 	"tags": [],
-	"title": "Investment Finance"
+	"title": "Investment Finance",
+	"type": "Course"
 }

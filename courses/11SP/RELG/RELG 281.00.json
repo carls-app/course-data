@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": "Visit a museum and it is not uncommon to find--along side visual displays--exhibitions of \"culture\" in the form of performances. Building upon the idea that \"art is a bridge to understanding,\" festivals, fairs, and classrooms have become venues for artists and religious leaders to bring the global local. Tracing the history of exhibiting cultures, beginning in the late nineteenth century, we will consider how religions and traditions are represented in different contexts with a range of political and social implications. We will also work with artists-in-residence to consider the role performance plays in constructions of rituals, religions and cultures.",
 	"synonym": "27582",
 	"tags": [
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		}
+		"SAST",
+		"RELGJEWISHTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGHINDUTRAD",
+		"RELGAMERTRAD"
 	],
-	"title": "Performing Tradition: Art, Religion, and Globalization"
+	"title": "Performing Tradition: Art, Religion, and Globalization",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marian E Smith"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "10177",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Romantic and Modern Music"
+	"title": "Romantic and Modern Music",
+	"type": "Course"
 }

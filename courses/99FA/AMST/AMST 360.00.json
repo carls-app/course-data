@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mary Hermes"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "4140",
 	"tags": [],
-	"title": "Issues in Native Amer Educ"
+	"title": "Issues in Native Amer Educ",
+	"type": "Course"
 }

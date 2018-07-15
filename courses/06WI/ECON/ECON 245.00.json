@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "13195",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Economics of Inequality"
+	"title": "Economics of Inequality",
+	"type": "Course"
 }

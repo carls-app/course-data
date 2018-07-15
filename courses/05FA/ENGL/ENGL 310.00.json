@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,30 +37,13 @@
 	"summary": null,
 	"synonym": "13120",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"ENGL1",
+		"LITFORLANG",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTCNTRY",
+		"THEAPERT"
 	],
-	"title": "Shakespeare: Hist & Comedies"
+	"title": "Shakespeare: Hist & Comedies",
+	"type": "Course"
 }

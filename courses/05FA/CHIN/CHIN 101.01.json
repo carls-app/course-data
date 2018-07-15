@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -52,6 +52,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -61,10 +62,8 @@
 	"summary": null,
 	"synonym": "13565",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

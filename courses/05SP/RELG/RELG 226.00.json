@@ -6,7 +6,7 @@
 	"instructors": [
 		"David B Hollenberg"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11356",
 	"tags": [],
-	"title": "Muhammad in History & Memory"
+	"title": "Muhammad in History & Memory",
+	"type": "Course"
 }

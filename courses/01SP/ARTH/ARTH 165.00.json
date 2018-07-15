@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,6 +31,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "2305",
 	"tags": [],
-	"title": "Japanese Art"
+	"title": "Japanese Art",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "16712",
 	"tags": [],
-	"title": "Winter Dance, Student Choreog"
+	"title": "Winter Dance, Student Choreog",
+	"type": "Course"
 }

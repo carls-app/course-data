@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 13,
@@ -43,10 +41,8 @@
 	"summary": null,
 	"synonym": "15370",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Netherlandish Art on Site"
+	"title": "Netherlandish Art on Site",
+	"type": "Course"
 }

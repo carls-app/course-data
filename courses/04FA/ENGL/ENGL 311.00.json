@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 35,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "11287",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGL1",
+		"LITFORLANG",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTCNTRY"
 	],
-	"title": "ShakespeareII:Tragedy&Romance"
+	"title": "ShakespeareII:Tragedy&Romance",
+	"type": "Course"
 }

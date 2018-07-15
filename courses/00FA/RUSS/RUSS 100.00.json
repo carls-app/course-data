@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1663",
 	"tags": [],
-	"title": "Dostoevsky"
+	"title": "Dostoevsky",
+	"type": "Course"
 }

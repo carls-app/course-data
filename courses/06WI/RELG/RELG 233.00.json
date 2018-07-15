@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeanne H Kilde"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13919",
 	"tags": [],
-	"title": "American Sacred Places"
+	"title": "American Sacred Places",
+	"type": "Course"
 }

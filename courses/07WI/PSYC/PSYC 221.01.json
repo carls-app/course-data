@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clark G Ohnesorge"
 	],
-	"number": "221.01",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "15003",
 	"tags": [],
-	"title": "Sensation & Perception Lab"
+	"title": "Sensation & Perception Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chemistry 234",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "This seminar course considers nature's biosynthetic pathways in conjunction with how organic chemists design the chemical synthesis of complex organic molecules. Important metabolic pathways for biochemical syntheses, as well as the methodology of chemical synthesis, will form the focus of the course.",
 	"synonym": "22958",
 	"tags": [],
-	"title": "Chemical and Biosynthesis"
+	"title": "Chemical and Biosynthesis",
+	"type": "Course"
 }

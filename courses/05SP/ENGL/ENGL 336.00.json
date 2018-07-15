@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "11454",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "Rmnc-Novl:Poe,Hawthorne,James"
+	"title": "Rmnc-Novl:Poe,Hawthorne,James",
+	"type": "Course"
 }

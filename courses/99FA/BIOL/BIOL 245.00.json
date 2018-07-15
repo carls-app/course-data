@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maura Maple"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 29,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2500",
 	"tags": [],
-	"title": "Animal Behavior"
+	"title": "Animal Behavior",
+	"type": "Course"
 }

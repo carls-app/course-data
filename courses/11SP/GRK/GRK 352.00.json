@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "Study in the original of selections from Thucydides",
 	"synonym": "25712",
 	"tags": [],
-	"title": "Thucydides"
+	"title": "Thucydides",
+	"type": "Course"
 }

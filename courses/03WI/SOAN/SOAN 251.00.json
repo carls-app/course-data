@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "5737",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Comm Devel, Cult Empowerment"
+	"title": "Comm Devel, Cult Empowerment",
+	"type": "Course"
 }

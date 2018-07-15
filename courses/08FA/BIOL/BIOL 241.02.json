@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "241.02",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "21055",
 	"tags": [],
-	"title": "Genetics Laboratory"
+	"title": "Genetics Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Russian 205 or permission of the instructor.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": "A study of the major poetry, drama and prose of Russia's most important poet.",
 	"synonym": "24254",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "Pushkin"
+	"title": "Pushkin",
+	"type": "Course"
 }

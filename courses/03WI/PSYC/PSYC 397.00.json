@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 12,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3527",
 	"tags": [],
-	"title": "Senior Tutorial"
+	"title": "Senior Tutorial",
+	"type": "Course"
 }

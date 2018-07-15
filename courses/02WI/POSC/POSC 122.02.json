@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bertram N Johnson"
 	],
-	"number": "122.02",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 34,
 		"total": 35,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "1076",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AFAMPERT",
+		"AMSTSURVEY1",
+		"AMSTTOPICAL3"
 	],
-	"title": "Politics-Amer:Liberty & Equal"
+	"title": "Politics-Amer:Liberty & Equal",
+	"type": "Course"
 }

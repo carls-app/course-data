@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CCSTREGIONAL"
 	],
-	"title": "African Cinema"
+	"title": "African Cinema",
+	"type": "Course"
 }

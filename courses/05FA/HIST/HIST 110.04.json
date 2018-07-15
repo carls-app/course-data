@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "110.04",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "12375",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "The Pacific War, 1941-45"
+	"title": "The Pacific War, 1941-45",
+	"type": "Course"
 }

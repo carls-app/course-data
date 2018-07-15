@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3465",
 	"tags": [],
-	"title": "Quantum Chemistry"
+	"title": "Quantum Chemistry",
+	"type": "Course"
 }

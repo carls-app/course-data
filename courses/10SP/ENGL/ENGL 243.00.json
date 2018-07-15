@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": "Each text selected for this course will be paired with its filmic adaptation for a series of discussions focused on narrative structures, points of view, frames of reference, and textual (in)fidelity. We will read the following texts and watch their film versions: Wright's",
 	"synonym": "23189",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AFAMINTERDISC",
-			"name": "AFAM Interdisciplinary Course"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ENGLHE3",
+		"AFAMINTERDISC",
+		"ENGL4",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Text and Film"
+	"title": "Text and Film",
+	"type": "Course"
 }

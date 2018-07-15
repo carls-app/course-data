@@ -8,11 +8,12 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "280.07",
+	"number": "280",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": "The aim of this course is to equip students with the necessary research, evaluation and communication skills in order to carryout their research projects successfully. Topics covered includes understanding of the frameworks within which knowledge is communicated and gained as well as the particular skills and techniques that make that possible.",
 	"synonym": "31616",
 	"tags": [
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"AFAMSOCINQ"
 	],
-	"title": "Ethiopia and Tanzania Program: Research Projects on Conservation and Development"
+	"title": "Ethiopia and Tanzania Program: Research Projects on Conservation and Development",
+	"type": "Course"
 }

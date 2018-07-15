@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "26122",
 	"tags": [
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSCDES"
 	],
-	"title": "Tropical Ecology-Field Invest"
+	"title": "Tropical Ecology-Field Invest",
+	"type": "Course"
 }

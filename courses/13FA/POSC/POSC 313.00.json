@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven G Poskanzer"
 	],
-	"number": "313.00",
+	"number": "313",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,26 +41,12 @@
 	"summary": "This seminar will explore pressing legal and policy issues facing American colleges and universities. The course will address the ways core academic values (e.g., academic freedom; the creation and maintenance of a community based on shared values) fit or conflict with legal rules and political dynamics that operate beyond the academy. Likely topics include how college admissions are shaped by legal principles, with particular emphasis on debates over affirmative action; on-campus speech; faculty tenure; intellectual property; student rights and student discipline (including discipline for sexual assault); and college and university relations with the outside world.",
 	"synonym": "36247",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"SPECINTLEGAL",
+		"POSCELECTIVE",
+		"POSI-DSS",
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
-	"title": "Legal Issues in Higher Education"
+	"title": "Legal Issues in Higher Education",
+	"type": "Course"
 }

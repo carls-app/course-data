@@ -8,7 +8,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"CL",
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -51,26 +43,12 @@
 	"summary": null,
 	"synonym": "25590",
 	"tags": [
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EASTCORE",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLFORLIT",
+		"ENGLLOE"
 	],
-	"title": "Literature and Society of Modern Japan in Translation"
+	"title": "Literature and Society of Modern Japan in Translation",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "4303",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Ethnography of Latin America"
+	"title": "Ethnography of Latin America",
+	"type": "Course"
 }

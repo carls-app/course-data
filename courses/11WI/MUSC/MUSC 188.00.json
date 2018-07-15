@@ -6,20 +6,15 @@
 	"instructors": [
 		"Gao Hong"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Previous experience in a music ensemble, Chinese Muscial instruments or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -29,5 +24,6 @@
 	"summary": "The ensemble will use indigenous instruments and a Chinese approach to musical training in order to learn and perform music from China.",
 	"synonym": "28080",
 	"tags": [],
-	"title": "Carleton Chinese Music Ensemble"
+	"title": "Carleton Chinese Music Ensemble",
+	"type": "Course"
 }

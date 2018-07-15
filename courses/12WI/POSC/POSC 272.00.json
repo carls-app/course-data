@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": "Covers American constitutional law and history from Reconstruction to the contemporary era. Extensive attention will be paid to the effort to refound the American constitution following the Civil War as manifest in the thirteenth, fourteenth, and fifteenth amendments, and to the successive transformations which the Supreme Court worked in the new constitutional order. Political Science 271 is not a prerequisite.",
 	"synonym": "30376",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"POSI-DSS"
 	],
-	"title": "Constitutional Law II"
+	"title": "Constitutional Law II",
+	"type": "Course"
 }

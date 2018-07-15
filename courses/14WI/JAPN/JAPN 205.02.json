@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ellen C Tilton-Cantrell"
 	],
-	"number": "205.02",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -51,10 +52,8 @@
 	"summary": "Continuation of Japanese 204. Completion of this course with a C- or better fulfills language requirement.",
 	"synonym": "36210",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

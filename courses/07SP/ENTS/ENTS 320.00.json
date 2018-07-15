@@ -8,7 +8,7 @@
 	"instructors": [
 		"John J Barry"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "16369",
 	"tags": [
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"ENTSSP",
+		"ENTSINTL"
 	],
-	"title": "Comparative Env & Dev Seminar"
+	"title": "Comparative Env & Dev Seminar",
+	"type": "Course"
 }

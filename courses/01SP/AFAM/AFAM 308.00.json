@@ -9,7 +9,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"AMSTTOPICAL3",
 		"AFAMDISTROSS"
 	],
-	"title": "Poverty and Public Policy"
+	"title": "Poverty and Public Policy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "19072",
 	"tags": [],
-	"title": "Views of Reality"
+	"title": "Views of Reality",
+	"type": "Course"
 }

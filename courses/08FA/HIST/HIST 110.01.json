@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21128",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTERLYMODEUR",
+		"MARSSUPP",
+		"EUSTCNTRY"
 	],
-	"title": "The Age of Elizabeth"
+	"title": "The Age of Elizabeth",
+	"type": "Course"
 }

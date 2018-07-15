@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "2312",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AMSTTOPICAL1",
+		"AFAMSURVEY"
 	],
-	"title": "Black Dance: An Histrcl Survey"
+	"title": "Black Dance: An Histrcl Survey",
+	"type": "Course"
 }

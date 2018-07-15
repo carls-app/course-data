@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "373",
 	"tags": [],
-	"title": "Electronics"
+	"title": "Electronics",
+	"type": "Course"
 }

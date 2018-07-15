@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "1766",
 	"tags": [
-		{
-			"code": "HISTEASIA",
-			"name": "HIST East Asia"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEASIA",
+		"CCSTREGIONAL"
 	],
-	"title": "East Asia Foreign Relations"
+	"title": "East Asia Foreign Relations",
+	"type": "Course"
 }

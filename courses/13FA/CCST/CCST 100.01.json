@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -56,5 +48,6 @@
 	"summary": null,
 	"synonym": "35132",
 	"tags": [],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

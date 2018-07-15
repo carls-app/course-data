@@ -6,7 +6,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": "This class will examine the American Revolution as both a process and a phenomenon. It will consider the relationship of the American Revolution to social, cultural, economic, political, and ideological change in the lives of Americans from the founding fathers to the disenfranchised, focusing on the period 1750-1800. The central question of the course is this: how revolutionary was the Revolution?",
 	"synonym": "36856",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"HISTATLANTWRLD",
+		"SPECINTLEGAL"
 	],
-	"title": "The Era of the American Revolution"
+	"title": "The Era of the American Revolution",
+	"type": "Course"
 }

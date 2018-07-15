@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 61,
 		"total": 48,
@@ -46,5 +47,6 @@
 		"CCSTGLOBAL",
 		"ENTSINTRO"
 	],
-	"title": "Global Change Biology"
+	"title": "Global Change Biology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jon Armel"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: MATH 321 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "Further topics in analysis such as measure theory, Lebesgue integration or Banach and Hilbert spaces.",
 	"synonym": "26560",
 	"tags": [],
-	"title": "Real Analysis II"
+	"title": "Real Analysis II",
+	"type": "Course"
 }

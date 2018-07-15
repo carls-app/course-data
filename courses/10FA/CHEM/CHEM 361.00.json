@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael W Burand"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 234; Concurrent registration in Chemistry 343 or Physics 339",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "25611",
 	"tags": [],
-	"title": "Materials Chemistry"
+	"title": "Materials Chemistry",
+	"type": "Course"
 }

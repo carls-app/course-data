@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "10884",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"WGSTCORE"
 	],
-	"title": "Memory to Memoir:Personal Nar"
+	"title": "Memory to Memoir:Personal Nar",
+	"type": "Course"
 }

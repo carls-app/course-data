@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 48,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2234",
 	"tags": [],
-	"title": "General Chemistry II"
+	"title": "General Chemistry II",
+	"type": "Course"
 }

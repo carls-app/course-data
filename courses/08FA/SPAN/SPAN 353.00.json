@@ -8,7 +8,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -38,30 +39,13 @@
 	"summary": null,
 	"synonym": "21910",
 	"tags": [
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"LTAMPERT",
+		"ENGLFORLIT",
+		"LTAM300LIT",
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"ENGLLOE"
 	],
-	"title": "Ltam Poetry-Hist&Subjectivity"
+	"title": "Ltam Poetry-Hist&Subjectivity",
+	"type": "Course"
 }

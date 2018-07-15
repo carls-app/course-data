@@ -9,16 +9,14 @@
 		"Leon Lunder",
 		"Steve Ambroe"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "3405",
 	"tags": [],
-	"title": "Track and Field/Indoor IC"
+	"title": "Track and Field/Indoor IC",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"West Gym 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "This class is designed to introduce you to the exciting sport of Water Polo. From learning how to tread water to shooting a ball, we will cover all the basics of the game of Water Polo. No experience with water polo required, but knowing how to swim is encouraged. Students should have intermediate swimming skills so that they are safe and comfortable in the water.",
 	"synonym": "34810",
 	"tags": [],
-	"title": "Water Polo, Beginning"
+	"title": "Water Polo, Beginning",
+	"type": "Course"
 }

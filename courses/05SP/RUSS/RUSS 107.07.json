@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "107.07",
+	"number": "107",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "10703",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Beginning Grammar"
+	"title": "Beginning Grammar",
+	"type": "Course"
 }

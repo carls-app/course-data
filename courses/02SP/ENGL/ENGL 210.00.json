@@ -6,7 +6,7 @@
 	"instructors": [
 		"Candace I Lines"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "741",
 	"tags": [],
-	"title": "Chivalry in Medieval Lit"
+	"title": "Chivalry in Medieval Lit",
+	"type": "Course"
 }

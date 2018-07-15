@@ -8,7 +8,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "131L.59",
+	"number": "131L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "26033",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

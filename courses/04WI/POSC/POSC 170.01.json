@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "170.01",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 44,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "7483",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH"
 	],
-	"title": "Intl Reltns & World Politics"
+	"title": "Intl Reltns & World Politics",
+	"type": "Course"
 }

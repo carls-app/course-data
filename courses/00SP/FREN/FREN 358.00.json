@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "20thC Lit:Theater of Derision"
+	"title": "20thC Lit:Theater of Derision",
+	"type": "Course"
 }

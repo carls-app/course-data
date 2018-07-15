@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"HEAD OTHER"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 8,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "16673",
 	"tags": [],
-	"title": "Public Service-Local Context"
+	"title": "Public Service-Local Context",
+	"type": "Course"
 }

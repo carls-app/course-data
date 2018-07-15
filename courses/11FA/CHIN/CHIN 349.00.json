@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233",
@@ -42,12 +42,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -57,18 +55,10 @@
 	"summary": "This course will focus on increasing students' ability to read, write, and speak about contemporary social issues through readings, essay writing, oral presentations, and class discussion. Readings will be from leading twentieth century Chinese reformers and social critics.",
 	"synonym": "29750",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Advanced Chinese: Social Commentary"
+	"title": "Advanced Chinese: Social Commentary",
+	"type": "Course"
 }

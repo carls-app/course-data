@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norris Armstrong"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "439",
 	"tags": [],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

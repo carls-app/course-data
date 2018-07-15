@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Ability to read music not required.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "This course will provide an overview of the song cycle genre from its beginning up to and including some popular albums. Our goal is to enhance listening and analytical skills through reading and listening assignments, in-class discussions, and analyses.",
 	"synonym": "23512",
 	"tags": [],
-	"title": "Songs from Beethoven to Ben Folds"
+	"title": "Songs from Beethoven to Ben Folds",
+	"type": "Course"
 }

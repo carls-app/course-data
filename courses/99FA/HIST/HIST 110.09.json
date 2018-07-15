@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "110.09",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "09",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "3484",
 	"tags": [
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		}
+		"HISTISLAM"
 	],
-	"title": "The Silk Road"
+	"title": "The Silk Road",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "6535",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP"
 	],
-	"title": "Ecosystem Management"
+	"title": "Ecosystem Management",
+	"type": "Course"
 }

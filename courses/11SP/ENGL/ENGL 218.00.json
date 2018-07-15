@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "The eighteenth and early nineteenth century saw the rise of the Gothic, a genre populated by brooding hero-villains, vulnerable virgins, mad monks, ghosts, and monsters. In this course, we will examine the conventions and concerns of the Gothic, addressing its preoccupation with terror, sex, and the supernatural. As we situate this genre within its literary and historical context, we will consider its relationship to realism and Romanticism, and we will explore how it reflects the political and cultural anxieties of the age. Authors include Walpole, Radcliffe, Lewis, Austen, M. Shelley, and E. Bronte.",
 	"synonym": "25841",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLHE2",
+		"ENGLT1",
+		"EUSTCNTRY",
+		"WGSTADDL"
 	],
-	"title": "The Gothic Spirit"
+	"title": "The Gothic Spirit",
+	"type": "Course"
 }

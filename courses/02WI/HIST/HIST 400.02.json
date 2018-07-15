@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "400.02",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1775",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

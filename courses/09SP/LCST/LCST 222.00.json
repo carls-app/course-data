@@ -9,7 +9,7 @@
 		"Walter G Andrews",
 		"Éva S Pósfay"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 21,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "22615",
 	"tags": [],
-	"title": "Ottoman Love & Today's World"
+	"title": "Ottoman Love & Today's World",
+	"type": "Course"
 }

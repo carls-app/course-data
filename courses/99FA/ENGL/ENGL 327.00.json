@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chiara F Briganti"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "2072",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "Nineteenth-Century Fiction"
+	"title": "Nineteenth-Century Fiction",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "21621",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ASSTMETH",
+		"CAMS300THEORY",
+		"CAMSELECTIVE"
 	],
-	"title": "Film Theory and Analysis"
+	"title": "Film Theory and Analysis",
+	"type": "Course"
 }

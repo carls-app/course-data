@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "15749",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		}
+		"ASSTSOUTH",
+		"ASSTHU",
+		"ASSTCENT"
 	],
-	"title": "Muhammad & Quran"
+	"title": "Muhammad & Quran",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "357.00",
+	"number": "357",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 24,
@@ -36,5 +37,6 @@
 	"tags": [
 		"ENTSLAB"
 	],
-	"title": "Ecosystem Ecology Lab"
+	"title": "Ecosystem Ecology Lab",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "233L.59",
+	"number": "233L",
 	"offerings": {
 		"locations": [
 			"Mudd 266"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 14,
 		"total": 22,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "38375",
 	"tags": [],
-	"title": "Organic Chemistry I Lab"
+	"title": "Organic Chemistry I Lab",
+	"type": "Lab"
 }

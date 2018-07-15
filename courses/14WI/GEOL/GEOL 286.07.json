@@ -8,16 +8,14 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "286.07",
+	"number": "286",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Enrollment in OCS program",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": "This reading and discussion course is tied to the half of the program focusing on the Geology of the North Island. Including topics such as: (a) risk and mitigation of flood, landslide, volcanic and seismic hazards in New Zealand (b) connections between the Gondwanan geologic heritage of New Zealand and its natural ecosystems, and (c) present environmental geology issues in New Zealand.",
 	"synonym": "35086",
 	"tags": [],
-	"title": "Geology in New Zealand: Topics in North Island Geology"
+	"title": "Geology in New Zealand: Topics in North Island Geology",
+	"type": "Course"
 }

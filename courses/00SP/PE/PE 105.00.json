@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "105.00",
+	"number": "105",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3422",
 	"tags": [],
-	"title": "Badminton, Beginning"
+	"title": "Badminton, Beginning",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "167.00",
+	"number": "167",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "5240",
 	"tags": [],
-	"title": "Social Dance I"
+	"title": "Social Dance I",
+	"type": "Course"
 }

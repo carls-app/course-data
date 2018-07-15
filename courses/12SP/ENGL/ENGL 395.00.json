@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"IDS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -45,18 +40,10 @@
 	"summary": null,
 	"synonym": "30081",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"ENGLHE3",
+		"ENGLT2",
+		"LTAMPERT"
 	],
-	"title": "Nabokov"
+	"title": "Nabokov",
+	"type": "Course"
 }

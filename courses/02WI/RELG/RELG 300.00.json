@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "934",
 	"tags": [],
-	"title": "Issues in Study of Religion"
+	"title": "Issues in Study of Religion",
+	"type": "Course"
 }

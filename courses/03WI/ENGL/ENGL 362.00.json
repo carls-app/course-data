@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 17,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4023",
 	"tags": [
-		{
-			"code": "CAMSCOGNATE",
-			"name": "Cams Cognate"
-		}
+		"CAMSCOGNATE"
 	],
-	"title": "Narrative Theory"
+	"title": "Narrative Theory",
+	"type": "Course"
 }

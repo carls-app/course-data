@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "4894",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"CCSTETHNIC"
 	],
-	"title": "Minority Voices"
+	"title": "Minority Voices",
+	"type": "Course"
 }

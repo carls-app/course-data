@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy T Oehmke"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 10,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "19586",
 	"tags": [],
-	"title": "Teach Reading-Content Areas"
+	"title": "Teach Reading-Content Areas",
+	"type": "Course"
 }

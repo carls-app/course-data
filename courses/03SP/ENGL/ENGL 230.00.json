@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "4046",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"AFAMDISTROAL"
 	],
-	"title": "African American Autobiography"
+	"title": "African American Autobiography",
+	"type": "Course"
 }

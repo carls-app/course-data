@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly A Baker"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3454",
 	"tags": [],
-	"title": "Molecular Biology"
+	"title": "Molecular Biology",
+	"type": "Course"
 }

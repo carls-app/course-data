@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "178.02",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "925",
 	"tags": [],
-	"title": "Tae Kwon Do, Intermediate"
+	"title": "Tae Kwon Do, Intermediate",
+	"type": "Course"
 }

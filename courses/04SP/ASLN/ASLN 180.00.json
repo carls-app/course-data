@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "7700",
 	"tags": [],
-	"title": "Structure of Japanese"
+	"title": "Structure of Japanese",
+	"type": "Course"
 }

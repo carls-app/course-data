@@ -9,7 +9,7 @@
 	"instructors": [
 		"Chiara F Briganti"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "5617",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGL4",
+		"WGSTADDL"
 	],
-	"title": "Women,Men,Modernism,Modernity"
+	"title": "Women,Men,Modernism,Modernity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"AMSTTOPICAL3",
 		"CCSTETHNIC"
 	],
-	"title": "Schooling and Opportunity"
+	"title": "Schooling and Opportunity",
+	"type": "Course"
 }

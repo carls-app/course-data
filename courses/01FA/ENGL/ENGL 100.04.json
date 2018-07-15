@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "640",
 	"tags": [],
-	"title": "Lit Sem: Growing Up Ironic"
+	"title": "Lit Sem: Growing Up Ironic",
+	"type": "Course"
 }

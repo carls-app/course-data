@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Library 170"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -48,22 +46,11 @@
 	"summary": "Gutenberg's invention of printing with movable type has had a far-reaching impact on the political, social, and intellectual development in the Western World. A similarly profound revolution is taking place today with the use of computers. This course focuses on the major developments in printing since 1450 against the relevant historical and social background. In addition to lectures and discussions there is a weekly \"lab,\" in which students will gain first-hand knowledge of such techniques as woodcutting, engraving, etching, lithography, bookbinding, and papermaking. In English translation.",
 	"synonym": "36107",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		}
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"MARSCORE",
+		"SPECINTBOOKSTD"
 	],
-	"title": "From Gutenberg to Gates: The History and Practice of Printing"
+	"title": "From Gutenberg to Gates: The History and Practice of Printing",
+	"type": "Course"
 }

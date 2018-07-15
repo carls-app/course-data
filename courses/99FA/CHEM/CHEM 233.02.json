@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrei R Straumanis"
 	],
-	"number": "233.02",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "4078",
 	"tags": [],
-	"title": "Organic Chemistry I"
+	"title": "Organic Chemistry I",
+	"type": "Course"
 }

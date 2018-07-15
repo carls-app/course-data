@@ -8,7 +8,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -51,14 +43,9 @@
 	"summary": null,
 	"synonym": "35932",
 	"tags": [
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTENVIRHEALTH",
+		"HISTUS"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

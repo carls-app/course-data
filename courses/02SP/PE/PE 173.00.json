@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tom Alcivar"
 	],
-	"number": "173.00",
+	"number": "173",
 	"offerings": {
 		"locations": [
 			"Cowling POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "2158",
 	"tags": [],
-	"title": "Swimming, Instructional"
+	"title": "Swimming, Instructional",
+	"type": "Course"
 }

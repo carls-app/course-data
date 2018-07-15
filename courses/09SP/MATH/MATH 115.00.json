@@ -6,7 +6,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "21473",
 	"tags": [],
-	"title": "Statistics: Concepts & Applctn"
+	"title": "Statistics: Concepts & Applctn",
+	"type": "Course"
 }

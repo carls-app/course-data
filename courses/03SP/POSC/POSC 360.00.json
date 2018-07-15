@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bryan R Daves"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4265",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Globalization & Its Critics"
+	"title": "Globalization & Its Critics",
+	"type": "Course"
 }

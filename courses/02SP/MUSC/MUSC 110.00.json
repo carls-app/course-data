@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1866",
 	"tags": [],
-	"title": "Intro to the Study of Music"
+	"title": "Intro to the Study of Music",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": "We will enter the poetic and philosophical world formed by Lao Tzu's",
 	"synonym": "33172",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ASSTAL",
+		"EASTSUPP",
+		"ASSTEAST",
+		"ENGLFORLIT",
+		"ENGLLOE",
+		"LITFORLANG"
 	],
-	"title": "Tao of Wisdom in Asian Literature"
+	"title": "Tao of Wisdom in Asian Literature",
+	"type": "Course"
 }

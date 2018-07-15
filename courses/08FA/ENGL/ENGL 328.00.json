@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "20995",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLHE2",
+		"ENGL3",
+		"LITFORLANG"
 	],
-	"title": "Victorian Poetry"
+	"title": "Victorian Poetry",
+	"type": "Course"
 }

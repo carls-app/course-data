@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer L Macalady"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "6578",
 	"tags": [],
-	"title": "Geomicrobiology"
+	"title": "Geomicrobiology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 30,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "720",
 	"tags": [],
-	"title": "Phonetics & Phonology"
+	"title": "Phonetics & Phonology",
+	"type": "Course"
 }

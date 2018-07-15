@@ -6,7 +6,7 @@
 	"instructors": [
 		"Norris Armstrong"
 	],
-	"number": "377.00",
+	"number": "377",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3723",
 	"tags": [],
-	"title": "Sem:SelTpc Cell Communication"
+	"title": "Sem:SelTpc Cell Communication",
+	"type": "Course"
 }

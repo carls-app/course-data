@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ines Talamantez"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "10530",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Native Trad of the Southwest"
+	"title": "Native Trad of the Southwest",
+	"type": "Course"
 }

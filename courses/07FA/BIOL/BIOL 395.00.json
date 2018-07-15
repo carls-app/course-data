@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "17581",
 	"tags": [],
-	"title": "Research Experience Seminar"
+	"title": "Research Experience Seminar",
+	"type": "Course"
 }

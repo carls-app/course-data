@@ -8,7 +8,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "10728",
 	"tags": [
-		{
-			"code": "FRSTSEM",
-			"name": "FRST Seminar"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"FRSTSEM",
+		"EUSTCNTRY",
+		"EUSTTRANNATL"
 	],
-	"title": "Francophone Switzerland"
+	"title": "Francophone Switzerland",
+	"type": "Course"
 }

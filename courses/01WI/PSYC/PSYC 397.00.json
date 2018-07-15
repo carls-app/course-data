@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "564",
 	"tags": [],
-	"title": "Senior Tutorial"
+	"title": "Senior Tutorial",
+	"type": "Course"
 }

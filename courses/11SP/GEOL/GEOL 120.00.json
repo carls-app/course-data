@@ -8,7 +8,7 @@
 	"instructors": [
 		"Isaac J Larsen"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another Geology 100-level course.; GEOL 120L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 36,
@@ -48,10 +46,8 @@
 	"summary": "An introduction to geology emphasizing environmental health and humankind's use and abuse of soil, water, fuels, and other resources. Field trips and laboratories included.",
 	"synonym": "25952",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		}
+		"ENTSINTRO"
 	],
-	"title": "Introduction to Environmental Geology"
+	"title": "Introduction to Environmental Geology",
+	"type": "Course"
 }

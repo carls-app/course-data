@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clark G Ohnesorge"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "15000",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Sensation and Perception"
+	"title": "Sensation and Perception",
+	"type": "Course"
 }

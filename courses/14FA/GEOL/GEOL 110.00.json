@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken Geology 100 or 120.; GEOL 110L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 36,
@@ -48,14 +46,9 @@
 	"summary": "An introduction to the study of earth systems, physical processes operating on the earth, and the history of the earth. Field trips, including an all-day trip, and laboratories included.",
 	"synonym": "38173",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTSINTRO",
+		"ARCNPERT"
 	],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

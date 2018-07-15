@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jerry R Mohrig"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 44,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3574",
 	"tags": [],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

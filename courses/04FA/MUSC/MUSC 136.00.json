@@ -6,7 +6,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "11277",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "History of Rock"
+	"title": "History of Rock",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,30 +37,13 @@
 	"summary": null,
 	"synonym": "12508",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"EUSTTRANNATL",
+		"POSINTLPOLECON"
 	],
-	"title": "Int'l Environ Pol & Policy"
+	"title": "Int'l Environ Pol & Policy",
+	"type": "Course"
 }

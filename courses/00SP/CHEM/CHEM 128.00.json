@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"ENTSSCI",
 		"ENTSLAB"
 	],
-	"title": "Principles-Environmental Chem"
+	"title": "Principles-Environmental Chem",
+	"type": "Course"
 }

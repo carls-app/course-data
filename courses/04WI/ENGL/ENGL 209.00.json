@@ -9,7 +9,7 @@
 		"Timothy Raylor",
 		"Ruth Weiner"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "6926",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL2",
+		"LITFORLANG"
 	],
-	"title": "Country Wife: a Project Course"
+	"title": "Country Wife: a Project Course",
+	"type": "Course"
 }

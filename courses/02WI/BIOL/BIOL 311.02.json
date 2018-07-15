@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "311.02",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "337",
 	"tags": [],
-	"title": "Immunology Laboratory"
+	"title": "Immunology Laboratory",
+	"type": "Course"
 }

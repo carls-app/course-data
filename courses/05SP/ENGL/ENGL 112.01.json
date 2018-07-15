@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "112.01",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "11436",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

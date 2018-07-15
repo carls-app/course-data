@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "14096",
 	"tags": [
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"HISTISLAM",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "Modern Middle East 1800-1939"
+	"title": "Modern Middle East 1800-1939",
+	"type": "Course"
 }

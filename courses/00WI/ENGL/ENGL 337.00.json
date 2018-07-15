@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "337.00",
+	"number": "337",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "2167",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"CCSTETHNIC"
 	],
-	"title": "Afam Novelists in Context"
+	"title": "Afam Novelists in Context",
+	"type": "Course"
 }

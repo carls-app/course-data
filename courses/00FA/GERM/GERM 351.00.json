@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"ENGLFORLIT"
 	],
-	"title": "Age of Goethe"
+	"title": "Age of Goethe",
+	"type": "Course"
 }

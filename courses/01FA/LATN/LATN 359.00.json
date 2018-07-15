@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -39,5 +40,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Seminar:Virgil"
+	"title": "Seminar:Virgil",
+	"type": "Course"
 }

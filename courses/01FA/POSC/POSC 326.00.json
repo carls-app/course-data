@@ -7,7 +7,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "326.00",
+	"number": "326",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -40,5 +41,6 @@
 		"CCSTBINARY",
 		"POSC300LEVEL"
 	],
-	"title": "America's China Policy"
+	"title": "America's China Policy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ken Tape"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19721",
 	"tags": [],
-	"title": "Changing Arctic Landscape"
+	"title": "Changing Arctic Landscape",
+	"type": "Course"
 }

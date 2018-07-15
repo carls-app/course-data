@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "21314",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH"
 	],
-	"title": "Health Psychology"
+	"title": "Health Psychology",
+	"type": "Course"
 }

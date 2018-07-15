@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -45,5 +40,6 @@
 	"summary": "This course covers various methodologies that are used to prosecute interdisciplinary academic research relating to the environment. Among the topics covered are: identification of a research question, methods of analysis, hypothesis testing, and effective rhetorical methods, both oral and written.",
 	"synonym": "35373",
 	"tags": [],
-	"title": "Research Methods in Environmental Studies"
+	"title": "Research Methods in Environmental Studies",
+	"type": "Course"
 }

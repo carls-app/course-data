@@ -8,7 +8,7 @@
 	"instructors": [
 		""
 	],
-	"number": "104.00",
+	"number": "104",
 	"offerings": {
 		"locations": [
 			"West Gym WRES"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 40,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "888",
 	"tags": [],
-	"title": "Aikido, Advanced"
+	"title": "Aikido, Advanced",
+	"type": "Course"
 }

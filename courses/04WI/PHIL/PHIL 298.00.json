@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald W Loeffler"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "7851",
 	"tags": [],
-	"title": "Junior Seminar"
+	"title": "Junior Seminar",
+	"type": "Course"
 }

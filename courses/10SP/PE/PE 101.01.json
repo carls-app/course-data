@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michelle Levi"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "Basic dance steps, calisthenic-type movements and locomotor skills (running, jumping, hopping, skipping, etc.) are combined into vigorous routines which are performed to the beat of popular music. All classes offer components of strength development, flexibility and cardio-vascular fitness. No experience necessary. Wear comfortable clothes and shoes with good support (no running shoes).",
 	"synonym": "23931",
 	"tags": [],
-	"title": "Aerobics"
+	"title": "Aerobics",
+	"type": "Course"
 }

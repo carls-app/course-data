@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Latin 103 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -41,18 +42,10 @@
 	"summary": "Students will consolidate their knowledge of the Latin language through a variety of readings of extended passages of both prose and poetry, supplemented by composition exercises. Attention will be paid to matters of literary style, context, and, where appropriate, meter. By the end of the course, students should be able to navigate the Latin language from the classical period with understanding and confidence.",
 	"synonym": "39464",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Intermediate Latin Prose and Poetry"
+	"title": "Intermediate Latin Prose and Poetry",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": "This class will examine recent political, economic and social transformations that have occurred in the so-called Celtic Fringe: Scotland, Ireland, Cornwall, Wales and Galicia. We will use these regions, which have long occupied marginal positions within much larger and more powerful states, as cases to explore a variety of issues, including center-periphery relations, migration, internal colonialism, autonomous and separatist movements, and regionalism in the context of the European Union.",
 	"synonym": "33050",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSI-DSS2",
+		"POSIELECTIVE",
+		"EUSTTRANNATL",
+		"POECUPWTD",
+		"POSI-DSS"
 	],
-	"title": "The Politics of the Celtic Fringe"
+	"title": "The Politics of the Celtic Fringe",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3413",
 	"tags": [],
-	"title": "Oncogene & Molecular Biology"
+	"title": "Oncogene & Molecular Biology",
+	"type": "Course"
 }

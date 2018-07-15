@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,30 +37,13 @@
 	"summary": null,
 	"synonym": "15575",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		}
+		"AMSTTOPICAL3",
+		"CCSTREGIONAL",
+		"CCSTETHNIC",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMSOCSCI"
 	],
-	"title": "Compartv Issues/Native N Amer"
+	"title": "Compartv Issues/Native N Amer",
+	"type": "Course"
 }

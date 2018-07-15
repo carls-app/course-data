@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter M Prenzel-Guthrie"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2582",
 	"tags": [],
-	"title": "Practicum/Mental Retardation"
+	"title": "Practicum/Mental Retardation",
+	"type": "Course"
 }

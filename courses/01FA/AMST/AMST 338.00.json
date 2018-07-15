@@ -9,7 +9,7 @@
 	"instructors": [
 		"Julie G Landsman"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2326",
 	"tags": [],
-	"title": "Multicultural Education"
+	"title": "Multicultural Education",
+	"type": "Course"
 }

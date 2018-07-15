@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy Salzman"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "6148",
 	"tags": [],
-	"title": "Ceramics"
+	"title": "Ceramics",
+	"type": "Course"
 }

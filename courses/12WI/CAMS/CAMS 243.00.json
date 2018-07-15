@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -48,14 +46,9 @@
 	"summary": "Although cinema is an audio-visual medium, there has long been a tendency to privilege the visual component of film over the elements of film sound. In an attempt to redress this imbalance, this course will focus on the technological, cultural, and theoretical histories of film sound throughout the twentieth century. We will examine the transition to sound in United States and European cinema, radio's role in the development of sound aesthetics, standardized and alternative sound practices, the role and use of music in cinema, and the complex effects of contemporary sound technologies on the medium and experience of film.",
 	"synonym": "29675",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		}
+		"CAMSELECTIVE",
+		"CAMS200HIST"
 	],
-	"title": "Film Sound History"
+	"title": "Film Sound History",
+	"type": "Course"
 }

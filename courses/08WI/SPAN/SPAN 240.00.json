@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Lynd"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "19431",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"PENINLIT",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "Intro to Spanish Literature"
+	"title": "Intro to Spanish Literature",
+	"type": "Course"
 }

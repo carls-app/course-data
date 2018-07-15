@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marek D Steedman"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7482",
 	"tags": [],
-	"title": "Political Philosophy"
+	"title": "Political Philosophy",
+	"type": "Course"
 }

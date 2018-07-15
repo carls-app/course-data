@@ -8,7 +8,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": "Prerequisite: Any one term of art history. Extra time.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -53,18 +48,10 @@
 	"summary": "This course surveys the history of ideal plans for the built urban environment. Particular attention will be given to examples from about 1800 to the present. Projects chosen by students will greatly influence the course content, but subjects likely to receive sustained attention include: Renaissance ideal cities, conceptions of public and private space, civic rituals, the industrial city, Baron Haussmann's renovations of Paris, suburbanization, the Garden City movement, zoning legislation, Le Corbusier's Ville Contemporaine, Frank Lloyd Wright's Broadacre City, New Urbanism and urban renewal, and planned capitals such as Brasílian, Canberra, Chandigarh, and Washington, D.C.",
 	"synonym": "29094",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		}
+		"ENTS2SCP",
+		"ENTSLPSCP",
+		"FFSTHISARTH"
 	],
-	"title": "Planning Utopia: Ideal Cities in Theory and Practice"
+	"title": "Planning Utopia: Ideal Cities in Theory and Practice",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2952",
 	"tags": [],
-	"title": "The Origins of Modern Science"
+	"title": "The Origins of Modern Science",
+	"type": "Course"
 }

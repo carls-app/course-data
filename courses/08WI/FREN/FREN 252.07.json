@@ -8,11 +8,12 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "252.07",
+	"number": "252",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "17659",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"FRSTELEC"
 	],
-	"title": "Literature and Society in Mali"
+	"title": "Literature and Society in Mali",
+	"type": "Course"
 }

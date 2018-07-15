@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol A Rutz"
 	],
-	"number": "109.01",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13104",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

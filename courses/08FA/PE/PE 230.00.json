@@ -9,16 +9,14 @@
 		"Eric Sieger",
 		"Linda K Luedke"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "20746",
 	"tags": [],
-	"title": "Golf Intercollegiate, Women's"
+	"title": "Golf Intercollegiate, Women's",
+	"type": "Course"
 }

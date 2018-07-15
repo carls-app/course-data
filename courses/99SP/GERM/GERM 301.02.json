@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "301.02",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 7,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "3523",
 	"tags": [],
-	"title": "German Conversation"
+	"title": "German Conversation",
+	"type": "Course"
 }

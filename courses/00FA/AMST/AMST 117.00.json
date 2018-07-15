@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"ENGL4",
 		"AMSTTOPICAL1"
 	],
-	"title": "African American Literature"
+	"title": "African American Literature",
+	"type": "Course"
 }

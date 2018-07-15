@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "21771",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTSS"
 	],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

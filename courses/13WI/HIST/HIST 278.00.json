@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -50,54 +45,19 @@
 	"summary": "The Inquisition was the Spanish crown's principal tool for combating heterodoxy and deviance. This course examines the Tribunal's campaigns to eradicate religious, cultural, racial, sexual, and political sources of contagion in both Spain and the New World. Through the prism of its sources, including the interrogations and confessions of the accused, we will study the Inquisition's prosecution of a range of alleged crimes, including relapsed conversion (of Jews, Muslims and Indians), witchcraft, diabolism, homosexuality, and female mysticism. Particular care will be given to the methodological challenges involved in using inquisition sources for the study of popular culture and religion.",
 	"synonym": "33495",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"RELGPERT",
+		"POSI-AREAS",
+		"HISTATLANTWRLD",
+		"LTAMSOCSCI",
+		"RELGCHRISTNTRAD",
+		"EUSTCNTRY",
+		"MARSCORE",
+		"MARSSUPP",
+		"JDSTPERT"
 	],
-	"title": "The Spanish Inquisition"
+	"title": "The Spanish Inquisition",
+	"type": "Course"
 }

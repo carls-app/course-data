@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -49,38 +41,15 @@
 	"summary": "A controversial statement: \"Modern Hinduism was defined in engagement with Western discourses of 'religion.'\" This course will begin with the ideas of such prominent Hindu thinkers as Rammohan Ray, Vivekananda, Savarkar, and Gandhi, looking to a range of historical and critical materials to ground their voices in the experience of colonialism. We'll move on to consider contemporary contexts: strains of Indian nationalism; migration and the growth of diasporic Hindu communities overseas; conversion and the transnational spread of modern guru movements; consumerism and globalization. Throughout we'll remain mindful of the question: Why is the theme of this class controversial?",
 	"synonym": "33584",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		}
+		"ASSTHU",
+		"ASSTSOUTH",
+		"SAST",
+		"RELGHINDUTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"RELGAMERTRAD"
 	],
-	"title": "Modern Hinduism: Encounters with the West"
+	"title": "Modern Hinduism: Encounters with the West",
+	"type": "Course"
 }

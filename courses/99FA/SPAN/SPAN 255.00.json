@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "2751",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL"
 	],
-	"title": "Wmn Dramatists:Staging Cnflic"
+	"title": "Wmn Dramatists:Staging Cnflic",
+	"type": "Course"
 }

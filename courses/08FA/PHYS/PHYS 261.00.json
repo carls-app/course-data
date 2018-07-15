@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 24,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "20898",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Medical Physics"
+	"title": "Medical Physics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "7850",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Existentialism"
+	"title": "Existentialism",
+	"type": "Course"
 }

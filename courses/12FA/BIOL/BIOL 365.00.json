@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": null,
 	"synonym": "32865",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"CGSCELECTIVE",
+		"NEURELEC"
 	],
-	"title": "Topics in Neuroscience"
+	"title": "Topics in Neuroscience",
+	"type": "Course"
 }

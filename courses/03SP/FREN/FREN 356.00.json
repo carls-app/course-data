@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "4860",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"ENGLFORLIT",
+		"FRSTLANGLIT",
+		"FRSTELECAL"
 	],
-	"title": "19th Century Literature"
+	"title": "19th Century Literature",
+	"type": "Course"
 }

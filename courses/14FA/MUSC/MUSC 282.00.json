@@ -8,16 +8,14 @@
 	"instructors": [
 		"Gao Hong"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 2,
@@ -27,14 +25,9 @@
 	"summary": "Beginning through advanced study on traditional Chinese instruments, pipa (Chinese lute), erhu (Chinese violin), guzheng (Chinese zither), zhongruan (Chinese moon guitar), hulusi, bawu and dizi (Chinese bamboo flutes).",
 	"synonym": "38916",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Musical Instruments"
+	"title": "Chinese Musical Instruments",
+	"type": "Course"
 }

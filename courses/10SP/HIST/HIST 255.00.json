@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "24160",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"HISTASIA",
+		"ASSTEAST",
+		"POSI-AREAS"
 	],
-	"title": "Print Culture and Nationalism in East Asia"
+	"title": "Print Culture and Nationalism in East Asia",
+	"type": "Course"
 }

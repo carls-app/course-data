@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": "This course presents the broader field of Sound Studies, its debates and issues. Drawing on a diverse set of interdisciplinary perspectives, the seminar explores the range of academic work on sound to examine the relationship between sound and listening, sound and perception, sound and memory, and sound and modern thought. Topics addressed include but are not limited to sound technologies and industries, acoustic perception, sound and image relations, sound in media, philosophies of listening, sound semiotics, speech and communication, voice and subject formation, sound art, the social history of noise, and hearing cultures.",
 	"synonym": "35908",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		}
+		"CAMSELECTIVE",
+		"CAMS300THEORY"
 	],
-	"title": "Sound Studies Seminar"
+	"title": "Sound Studies Seminar",
+	"type": "Course"
 }

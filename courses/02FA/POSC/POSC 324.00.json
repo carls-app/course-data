@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "4177",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSC300LEVEL"
 	],
-	"title": "Chinese Politics & Foreign Pol"
+	"title": "Chinese Politics & Foreign Pol",
+	"type": "Course"
 }

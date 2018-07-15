@@ -9,7 +9,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "112.01",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "681",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

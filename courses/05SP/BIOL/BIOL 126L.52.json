@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "126L.52",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Hulings 106"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9404",
 	"tags": [],
-	"title": "Energy Flow Biol Sys Lab"
+	"title": "Energy Flow Biol Sys Lab",
+	"type": "Lab"
 }

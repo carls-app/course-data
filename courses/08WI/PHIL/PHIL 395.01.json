@@ -7,7 +7,7 @@
 		"Ruth Weiner",
 		"Roy Elveton"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -37,10 +38,8 @@
 	"summary": null,
 	"synonym": "18187",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"THEAPERT"
 	],
-	"title": "Samuel Beckett"
+	"title": "Samuel Beckett",
+	"type": "Course"
 }

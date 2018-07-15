@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21446",
 	"tags": [],
-	"title": "Mathematical Modeling"
+	"title": "Mathematical Modeling",
+	"type": "Course"
 }

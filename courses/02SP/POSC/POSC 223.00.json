@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sharon A Navarro"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "1172",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Chicana Politics & Pub Policy"
+	"title": "Chicana Politics & Pub Policy",
+	"type": "Course"
 }

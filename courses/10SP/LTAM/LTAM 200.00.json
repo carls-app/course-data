@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "23124",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"POSI-AREAS"
 	],
-	"title": "Issues in Latin American Studies"
+	"title": "Issues in Latin American Studies",
+	"type": "Course"
 }

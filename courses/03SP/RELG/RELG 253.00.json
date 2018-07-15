@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "4139",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		}
+		"CCSTREGIONAL",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"ASSTCENT"
 	],
-	"title": "Tibetan Buddhism"
+	"title": "Tibetan Buddhism",
+	"type": "Course"
 }

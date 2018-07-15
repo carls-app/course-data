@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1506",
 	"tags": [],
-	"title": "Adolescent Cognitive Develop"
+	"title": "Adolescent Cognitive Develop",
+	"type": "Course"
 }

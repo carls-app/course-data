@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven P Dehmer"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "This course gives the students a foundation in the general principles of economics as a basis for effective citizenship and, when combined with 110, as a preparation for all advanced study in economics. Topics include consumer choice theory; the formation of prices under competition, monopoly, and other market structures; the determination of wages, profits, and income from capital; the distribution of income; and an analysis of policy directed towards problems of public finance, pollution, natural resources, and public goods.",
 	"synonym": "24739",
 	"tags": [],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeanne H Kilde"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13790",
 	"tags": [],
-	"title": "Creating Utopia in America"
+	"title": "Creating Utopia in America",
+	"type": "Course"
 }

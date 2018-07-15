@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "9700",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"AMSTTOPICAL3",
+		"ENTSSP"
 	],
-	"title": "Natural Resources&Environment"
+	"title": "Natural Resources&Environment",
+	"type": "Course"
 }

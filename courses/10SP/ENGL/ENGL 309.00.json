@@ -8,7 +8,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,30 +39,13 @@
 	"summary": null,
 	"synonym": "23192",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLHE1",
+		"MARSCAP",
+		"EUSTTRANNATL",
+		"ENGL1",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Renaissance Selves"
+	"title": "Renaissance Selves",
+	"type": "Course"
 }

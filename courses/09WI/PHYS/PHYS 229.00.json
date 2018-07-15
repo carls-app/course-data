@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20927",
 	"tags": [],
-	"title": "Analytical Mechanics"
+	"title": "Analytical Mechanics",
+	"type": "Course"
 }

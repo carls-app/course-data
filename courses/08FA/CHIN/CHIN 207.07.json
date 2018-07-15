@@ -9,11 +9,12 @@
 		"",
 		"Qiguang Zhao"
 	],
-	"number": "207.07",
+	"number": "207",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "20382",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Chinese Language"
+	"title": "Chinese Language",
+	"type": "Course"
 }

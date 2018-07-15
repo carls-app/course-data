@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "Nationalism is an ideology that political actors have frequently harnessed to support a wide variety of policies ranging from intensive economic development to genocide. But what is nationalism? Where does it come from? And what gives it such emotional and political power? This course investigates competing ideas about the sources of nationalism, its evolution, and its political uses in state building, legitimation, development, and war. We will consider both historic examples of nationalism, as well as contemporary cases drawn from Europe, the Middle East, Asia, and the United States.",
 	"synonym": "26999",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"ASSTSOUTH",
+		"ASSTSS",
+		"EUSTTRANNATL",
+		"POSI-DSS",
+		"POSIELECTIVE"
 	],
-	"title": "Comparative Nationalism"
+	"title": "Comparative Nationalism",
+	"type": "Course"
 }

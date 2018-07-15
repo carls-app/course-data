@@ -9,7 +9,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "8149",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"PENINLIT"
 	],
-	"title": "Poetry, Film & Painting -Spain"
+	"title": "Poetry, Film & Painting -Spain",
+	"type": "Course"
 }

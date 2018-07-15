@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 40,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "1966",
 	"tags": [],
-	"title": "Russian Culture & Society"
+	"title": "Russian Culture & Society",
+	"type": "Course"
 }

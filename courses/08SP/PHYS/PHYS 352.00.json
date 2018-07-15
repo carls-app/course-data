@@ -7,7 +7,7 @@
 		"Bill Titus",
 		"Joel M Weisberg"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "17790",
 	"tags": [],
-	"title": "Advanced Elect & Magnetism"
+	"title": "Advanced Elect & Magnetism",
+	"type": "Course"
 }

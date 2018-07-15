@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "10727",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FFSTCORE",
-			"name": "FFST Conc Core"
-		}
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"FFSTCORE"
 	],
-	"title": "Intro Lit: Search for Meaning"
+	"title": "Intro Lit: Search for Meaning",
+	"type": "Course"
 }

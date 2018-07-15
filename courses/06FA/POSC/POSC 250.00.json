@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15602",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"MARSSUPP",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Ancient Political Philosophy"
+	"title": "Ancient Political Philosophy",
+	"type": "Course"
 }

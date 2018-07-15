@@ -6,7 +6,7 @@
 	"instructors": [
 		"William Terriquez"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "928",
 	"tags": [],
-	"title": "Principals of Athletics"
+	"title": "Principals of Athletics",
+	"type": "Course"
 }

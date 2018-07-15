@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Cauchy-Riemann equations, analytic functions, complex integration, series, residues, applications.",
 	"synonym": "34997",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
-	"title": "Functions of a Complex Variable"
+	"title": "Functions of a Complex Variable",
+	"type": "Course"
 }

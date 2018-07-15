@@ -7,7 +7,7 @@
 		"Robert G Tisdale",
 		"Seymour Schuster"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "19789",
 	"tags": [],
-	"title": "Freedom of Speech"
+	"title": "Freedom of Speech",
+	"type": "Course"
 }

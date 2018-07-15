@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,42 +42,16 @@
 	"summary": "Did women have a Renaissance? Were women increasingly relegated to a separate sphere from men: \"domesticated\" into the household? Or, on the contrary, is the history of European women characterized by fundamental continuities? This course seeks to answer these questions through an exploration of women's place in the family and economy, laws and cultural assumptions about women, and women's role in religion. Throughout the term, we will be focusing not only on writings about women, but primarily on sources written by women themselves, as we seek a fuller understanding of the nature of European women's lives before the modern era.",
 	"synonym": "24135",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"MARSCORE",
+		"HISTERLYMODEUR",
+		"WGSTCORE",
+		"WGSTADDL",
+		"FRSTSUPP",
+		"MARSSUPP"
 	],
-	"title": "Women's Lives in Pre-Modern Europe"
+	"title": "Women's Lives in Pre-Modern Europe",
+	"type": "Course"
 }

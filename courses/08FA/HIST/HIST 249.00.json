@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "22245",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
-	"title": "Modern Central Europe"
+	"title": "Modern Central Europe",
+	"type": "Course"
 }

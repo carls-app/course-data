@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 64,
 		"total": 40,
@@ -48,18 +46,10 @@
 	"summary": null,
 	"synonym": "19115",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"SPECINTHEALTH"
 	],
-	"title": "Taoist Way-Hlth&Longvty:Taichi"
+	"title": "Taoist Way-Hlth&Longvty:Taichi",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "383.07",
+	"number": "383",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "9840",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Politics of the European Union"
+	"title": "Politics of the European Union",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "18086",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"ENTSENVPERS",
+		"ENTSCORE",
+		"SPECINTHEALTH"
 	],
-	"title": "American Environmental Hist"
+	"title": "American Environmental Hist",
+	"type": "Course"
 }

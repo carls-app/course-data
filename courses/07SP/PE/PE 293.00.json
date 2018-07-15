@@ -6,16 +6,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "293.00",
+	"number": "293",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 100,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "16985",
 	"tags": [],
-	"title": "Water Polo"
+	"title": "Water Polo",
+	"type": "Course"
 }

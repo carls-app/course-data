@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adam M Johnson"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or consent of the instructor",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "An examination of analytic models that attempt to characterize and explain aspects of behavior, thought, and emotion that are central to our conceptions of ourselves as distinctly human beings and as individuals. Original theoretical statements and relevant empirical literature will be consulted. Prerequisite: Psychology 110 or consent of the instructor.",
 	"synonym": "40001",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Personality"
+	"title": "Personality",
+	"type": "Course"
 }

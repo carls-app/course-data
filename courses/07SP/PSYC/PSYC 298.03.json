@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clark G Ohnesorge"
 	],
-	"number": "298.03",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17223",
 	"tags": [],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -42,5 +40,6 @@
 	"summary": "An instructional class for beginners. Students learn footwork, techniques and simple attacks and defense. Foils, masks and fencing jackets are provided. Students are encouraged to continue with intermediate fencing to further develop skills.",
 	"synonym": "31470",
 	"tags": [],
-	"title": "Fencing, Beginning"
+	"title": "Fencing, Beginning",
+	"type": "Course"
 }

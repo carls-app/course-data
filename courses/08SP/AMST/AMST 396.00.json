@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "19202",
 	"tags": [
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSENVPERS"
 	],
-	"title": "Jr Resrch: Visions of Calif"
+	"title": "Jr Resrch: Visions of Calif",
+	"type": "Course"
 }

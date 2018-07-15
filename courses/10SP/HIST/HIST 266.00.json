@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "24865",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"POSI-AREAS",
+		"RELGPERT",
+		"HISTASIA",
+		"ASSTSOUTH",
+		"ASSTHU"
 	],
-	"title": "Hist of Islam in India"
+	"title": "Hist of Islam in India",
+	"type": "Course"
 }

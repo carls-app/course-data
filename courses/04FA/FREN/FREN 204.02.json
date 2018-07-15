@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10722",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

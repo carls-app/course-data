@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Cauchy-Riemann equations, analytic functions, complex integration, series, residues, applications.",
 	"synonym": "29024",
 	"tags": [],
-	"title": "Functions of a Complex Variable"
+	"title": "Functions of a Complex Variable",
+	"type": "Course"
 }

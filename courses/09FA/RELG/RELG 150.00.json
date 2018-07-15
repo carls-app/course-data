@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -38,18 +39,10 @@
 	"summary": "A survey of the origins and classical development of the major religious traditions of the Indian subcontinent. Primary attention will be given to the Hindu and Buddhist communities, but Islam and the Jain and Sikh traditions also are considered. Readings are drawn mainly from Indian sources in English translation.",
 	"synonym": "24693",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"CCSTREGIONAL",
+		"ASSTHU",
+		"ASSTSOUTH"
 	],
-	"title": "Religions of South Asia"
+	"title": "Religions of South Asia",
+	"type": "Course"
 }

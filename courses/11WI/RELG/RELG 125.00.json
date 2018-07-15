@@ -6,7 +6,7 @@
 	"instructors": [
 		"Avaren E Ipsen"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "27622",
 	"tags": [
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		}
+		"RELGJEWISHTRAD",
+		"RELGAMERTRAD"
 	],
-	"title": "Jesus and the Gospels"
+	"title": "Jesus and the Gospels",
+	"type": "Course"
 }

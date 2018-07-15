@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3176",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Work & Occupations-Contem Scty"
+	"title": "Work & Occupations-Contem Scty",
+	"type": "Course"
 }

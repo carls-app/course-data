@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "4798",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Growing Up French"
+	"title": "Growing Up French",
+	"type": "Course"
 }

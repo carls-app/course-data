@@ -9,7 +9,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"LTAMLIT",
 		"LTAMELECTIVE"
 	],
-	"title": "Intro Latino Lits in US"
+	"title": "Intro Latino Lits in US",
+	"type": "Course"
 }

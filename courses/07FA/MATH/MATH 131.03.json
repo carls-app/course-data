@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "131.03",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19592",
 	"tags": [],
-	"title": "Inverses and Integration"
+	"title": "Inverses and Integration",
+	"type": "Course"
 }

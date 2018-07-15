@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "255L.54",
+	"number": "255L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28671",
 	"tags": [],
-	"title": "Petrology Lab"
+	"title": "Petrology Lab",
+	"type": "Lab"
 }

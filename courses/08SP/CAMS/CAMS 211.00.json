@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "19066",
 	"tags": [
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CAMS200HIST",
+		"EUSTTRANNATL"
 	],
-	"title": "Film History II"
+	"title": "Film History II",
+	"type": "Course"
 }

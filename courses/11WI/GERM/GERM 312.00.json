@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -46,18 +44,10 @@
 	"summary": "Rainer Maria Rilke, perhaps the foremost poet of his century, lived among a variety of artists, thinkers, and writers. Among them are Rodin, Lou Andreas-Salome, and the Worpswede group of artists. We will follow the threads of Rilke's life and poetry, and see where they lead us. The course will center on Rilke's poetry and prose fiction, but will also include correspondence, and the works of some of Rilke's associates. Class discussions and primary readings will be in German (sometimes with English translations provided); some secondary readings may be in English.",
 	"synonym": "26677",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EUSTCNTRY",
+		"ENGLFORLIT",
+		"ENGLLOE"
 	],
-	"title": "Rilke and His Circle"
+	"title": "Rilke and His Circle",
+	"type": "Course"
 }

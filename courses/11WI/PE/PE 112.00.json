@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron D Rushing"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 35,
@@ -41,5 +39,6 @@
 	"summary": "Advanced skills of the game are introduced, including pitching (including breaking balls), the catching position, advanced infield play, situational hitting and defense, and base running. An advanced rules test (ungraded) will be given to challenge students' knowledge of the game.",
 	"synonym": "28033",
 	"tags": [],
-	"title": "Advanced Baseball"
+	"title": "Advanced Baseball",
+	"type": "Course"
 }

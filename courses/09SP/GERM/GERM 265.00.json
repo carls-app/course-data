@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "21763",
 	"tags": [],
-	"title": "Minority Voices in German Lit"
+	"title": "Minority Voices in German Lit",
+	"type": "Course"
 }

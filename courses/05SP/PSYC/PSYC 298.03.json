@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "298.03",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "11826",
 	"tags": [],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

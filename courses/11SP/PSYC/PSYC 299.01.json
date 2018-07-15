@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "299.01",
+	"number": "299",
 	"offerings": {
 		"locations": [
 			"Olin 104"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": "This capstone seminar focuses on issues of interest to all students planning to choose a comprehensive project. The course is a lead in to the more specialized core seminars of Psychology 397, 398, and 399. The goal of the course is to provide a broad review of subject matter and options that would aid students in their selection of a specific topic. Students will then be assigned to Psychology 397, 398, or 399 depending upon discussions and expressed interest.",
 	"synonym": "26784",
 	"tags": [],
-	"title": "Capstone Seminar: General"
+	"title": "Capstone Seminar: General",
+	"type": "Course"
 }

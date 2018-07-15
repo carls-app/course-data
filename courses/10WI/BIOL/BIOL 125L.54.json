@@ -9,7 +9,7 @@
 		"Stephan G Zweifel",
 		"Mark McKone"
 	],
-	"number": "125L.54",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -34,10 +35,8 @@
 	"summary": null,
 	"synonym": "24191",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

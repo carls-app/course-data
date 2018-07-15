@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 35,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "21179",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"HISTANCNT/MDVL",
+		"HISTASIA"
 	],
-	"title": "Byzantium:710-1453"
+	"title": "Byzantium:710-1453",
+	"type": "Course"
 }

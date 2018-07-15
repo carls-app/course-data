@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244",
@@ -43,6 +43,7 @@
 	"prerequisites": "Prerequisite: Chinese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -52,10 +53,8 @@
 	"summary": "Continuation of Chinese 204. Completion of this course with a C- or better fulfills the language requirement.",
 	"synonym": "25570",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese"
+	"title": "Intermediate Chinese",
+	"type": "Course"
 }

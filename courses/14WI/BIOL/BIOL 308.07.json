@@ -8,16 +8,14 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "308.07",
+	"number": "308",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125 and 126, and one additional course in ecology, evolution, or physiology",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -27,10 +25,8 @@
 	"summary": "Australia and New Zealand have a diversity of ecosystem types and ecological communities, from eucalypt and beech forests, to desert shrublands and alpine grasslands. This course will explore the ecological processes that shape these landscapes, including climate variability, plant-animal interactions, and disturbance, as well as the conservation challenges resulting from land use change, invasive species, and climate change. Students will design and conduct research projects and present their findings in written and oral reports.",
 	"synonym": "35240",
 	"tags": [
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLELECTIVE"
 	],
-	"title": "Biology in Australia and New Zealand: Ecology and Conservation in New Zealand"
+	"title": "Biology in Australia and New Zealand: Ecology and Conservation in New Zealand",
+	"type": "Course"
 }

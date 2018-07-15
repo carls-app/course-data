@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeane H DeLaney"
 	],
-	"number": "110.10",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "10",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -40,5 +41,6 @@
 	"tags": [
 		"HISTLTAM"
 	],
-	"title": "The Maya:PreColumbian-Present"
+	"title": "The Maya:PreColumbian-Present",
+	"type": "Course"
 }

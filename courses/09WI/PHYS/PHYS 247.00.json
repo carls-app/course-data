@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 16,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "20929",
 	"tags": [
-		{
-			"code": "CSELECT",
-			"name": "CS Elective"
-		}
+		"CSELECT"
 	],
-	"title": "Digital Electronics"
+	"title": "Digital Electronics",
+	"type": "Course"
 }

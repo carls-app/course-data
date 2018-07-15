@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": "Prerequisite: History 205 or instructor permission",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -49,30 +41,13 @@
 	"summary": "This course is part of the off-campus spring break program, involving two-linked courses in winter and spring. To many Americans, wild lands are among the nation's most treasured places. Yosemite, Yellowstone, the Grand Canyon, Joshua Tree--the names alone evoke a sense of awe, naturalness, beauty, even love. But, where do those ideas and feelings come from, and how have they both reflected and shaped American cultural, political and environmental history over the last four centuries? These are the central issues and questions that we will pursue in this seminar.",
 	"synonym": "26242",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		}
+		"AMSTTOPICAL2",
+		"ENTSWRSCP",
+		"HISTUS",
+		"ENTSCDSCP",
+		"ENTSLPSCP",
+		"ENTSTOPICAL"
 	],
-	"title": "American Wilderness"
+	"title": "American Wilderness",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13222",
 	"tags": [],
-	"title": "The Myths of Crime"
+	"title": "The Myths of Crime",
+	"type": "Course"
 }

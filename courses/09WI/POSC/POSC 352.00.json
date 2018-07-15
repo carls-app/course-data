@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,34 +39,14 @@
 	"summary": null,
 	"synonym": "20657",
 	"tags": [
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSCADVSEM",
+		"AMSTTOPICAL3",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"FRSTSUPP",
+		"POSIADVSEM",
+		"POSI-DSS"
 	],
-	"title": "Pol Theory: Tocqueville"
+	"title": "Pol Theory: Tocqueville",
+	"type": "Course"
 }

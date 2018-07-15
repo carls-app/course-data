@@ -6,7 +6,7 @@
 	"instructors": [
 		"Audrey S Russek"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -45,10 +40,8 @@
 	"summary": "What is the role of the machine in American culture? Throughout U.S. history, Americans have both embraced mechanization and reviled it. This course asks how technological developments have helped give meaning to Americans social experiences through various periods in U.S. history. The class will introduce students to central themes, methods, and exemplary American studies texts in an attempt to define (and redefine) American identity through the history of technological design. In the process, we will look at the influential role of technology on American history and culture through the lenses of gender, class, race, religion, disability, immigration, regionalism, and food.",
 	"synonym": "34540",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "From Printing Press to iPhone: Technology in American Culture"
+	"title": "From Printing Press to iPhone: Technology in American Culture",
+	"type": "Course"
 }

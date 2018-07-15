@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3715",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Knowldg & Mind:Cartesian Med"
+	"title": "Knowldg & Mind:Cartesian Med",
+	"type": "Course"
 }

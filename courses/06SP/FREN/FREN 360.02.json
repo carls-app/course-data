@@ -6,11 +6,12 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "360.02",
+	"number": "360",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -20,22 +21,11 @@
 	"summary": null,
 	"synonym": "22563",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"EUSTTRANNATL",
+		"FRSTLANGLIT",
+		"FRSTSUPP"
 	],
-	"title": "Algeria-France"
+	"title": "Algeria-France",
+	"type": "Course"
 }

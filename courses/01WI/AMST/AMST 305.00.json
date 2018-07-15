@@ -8,7 +8,7 @@
 	"instructors": [
 		"Monica F Torres"
 	],
-	"number": "305.00",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2134",
 	"tags": [],
-	"title": "Borderlands"
+	"title": "Borderlands",
+	"type": "Course"
 }

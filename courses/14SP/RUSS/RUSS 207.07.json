@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "207.07",
+	"number": "207",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Russian 205 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": "This course aims at vocabulary expansion and the assimilation and activation of formulaic conversational structures and speech etiquette at the same time it develops familiarity with more complex principles of Russian grammar. This course is conducted by members of Moscow State University Philological Faculty and supervised by the program director.",
 	"synonym": "36181",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Moscow Program: Intermediate Grammar"
+	"title": "Moscow Program: Intermediate Grammar",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Scott D Carpenter",
 		"Sigi Leonhard"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "12392",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

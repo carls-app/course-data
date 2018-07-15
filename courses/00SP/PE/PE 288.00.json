@@ -9,13 +9,14 @@
 		"William Terriquez",
 		"Leon Lunder"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 40,
@@ -25,5 +26,6 @@
 	"summary": null,
 	"synonym": "3469",
 	"tags": [],
-	"title": "Track and Field/Outdoor IC"
+	"title": "Track and Field/Outdoor IC",
+	"type": "Course"
 }

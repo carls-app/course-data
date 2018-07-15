@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7409",
 	"tags": [],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

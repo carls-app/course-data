@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13479",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Intro to Media Studies"
+	"title": "Intro to Media Studies",
+	"type": "Course"
 }

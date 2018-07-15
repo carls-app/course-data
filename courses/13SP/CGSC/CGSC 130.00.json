@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Paxton"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -41,10 +39,8 @@
 	"summary": null,
 	"synonym": "33211",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Intuitn, Reflectn, Mind: Intro"
+	"title": "Intuitn, Reflectn, Mind: Intro",
+	"type": "Course"
 }

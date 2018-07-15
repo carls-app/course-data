@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "3977",
 	"tags": [],
-	"title": "Crafts of Writing: Poetry"
+	"title": "Crafts of Writing: Poetry",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3674",
 	"tags": [],
-	"title": "Schooling and Opportunity"
+	"title": "Schooling and Opportunity",
+	"type": "Course"
 }

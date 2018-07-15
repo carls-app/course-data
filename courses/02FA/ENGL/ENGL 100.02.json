@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3957",
 	"tags": [],
-	"title": "Reading Interp & Writing"
+	"title": "Reading Interp & Writing",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "9810",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Artificial Intelligence"
+	"title": "Artificial Intelligence",
+	"type": "Course"
 }

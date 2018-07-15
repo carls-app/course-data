@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20893",
 	"tags": [],
-	"title": "Atomic and Nuclear Physics"
+	"title": "Atomic and Nuclear Physics",
+	"type": "Course"
 }

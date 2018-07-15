@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Lucchesi"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2097",
 	"tags": [],
-	"title": "Sexuality and Modernity"
+	"title": "Sexuality and Modernity",
+	"type": "Course"
 }

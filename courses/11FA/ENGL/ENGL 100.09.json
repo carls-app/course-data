@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "100.09",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "09",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -56,10 +48,8 @@
 	"summary": null,
 	"synonym": "30020",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Imagining a Self"
+	"title": "Imagining a Self",
+	"type": "Course"
 }

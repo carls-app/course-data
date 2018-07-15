@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "Seneca the Younger was a key figure in the reigns of the Roman Emperors, Claudius and Nero. He was a prolific writer and a major force in shaping the moral philosophy of the later Roman world. This course will examine Seneca's thought and lively writing style by reading samples from a broad selection of his prose works (philosophical essays and letters) as well as his tragedies. There will be a short paper (six-eight pages) in addition to other assignments designed to familiarize students with some of the research tools and practices of the discipline.",
 	"synonym": "29808",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "Seneca the Younger"
+	"title": "Seneca the Younger",
+	"type": "Course"
 }

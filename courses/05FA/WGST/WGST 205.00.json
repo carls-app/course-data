@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13604",
 	"tags": [],
-	"title": "Womens Bodies-Health & Disease"
+	"title": "Womens Bodies-Health & Disease",
+	"type": "Course"
 }

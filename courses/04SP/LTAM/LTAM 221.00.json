@@ -9,7 +9,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "7531",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Latin American Politics"
+	"title": "Latin American Politics",
+	"type": "Course"
 }

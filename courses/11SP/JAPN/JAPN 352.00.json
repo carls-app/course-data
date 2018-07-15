@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "25591",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Adv-Manga&Contemp Material"
+	"title": "Adv-Manga&Contemp Material",
+	"type": "Course"
 }

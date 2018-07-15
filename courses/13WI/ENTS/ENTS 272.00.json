@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mikaela L Schmitt-Harsh"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"CMC 206",
@@ -28,6 +28,7 @@
 	"prerequisites": "Prerequisite: Environmental Studies 120 is recommended not required",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -37,18 +38,10 @@
 	"summary": "This course provides an introduction to the use of remotely sensed imagery and the application of remote sensing in environmental and natural resources management. Topics include raster-vector integration, geometric and atmospheric correction, spatial and spectral enhancement, image classification, change detection, and spatial modeling. This course will involve both lecture classes that will be used for presentation of fundamental topics and theory and sessions devoted to providing hands-on experience in the processing and interpretation of remotely sensed imagery.",
 	"synonym": "33930",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"ENTSCDES",
+		"ENTSLPES"
 	],
-	"title": "Remote Sensing of the Environment"
+	"title": "Remote Sensing of the Environment",
+	"type": "Course"
 }

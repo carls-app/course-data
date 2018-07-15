@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2863",
 	"tags": [],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

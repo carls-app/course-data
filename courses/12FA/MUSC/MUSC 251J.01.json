@@ -8,16 +8,14 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "251J.01",
+	"number": "251J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 1,
 		"total": 100,
@@ -27,5 +25,6 @@
 	"summary": "A study of voice production, breathing, tone development, diction, and pronunciation. Selection (according to the individual voice) of Italian, German, French, and English songs of the Classic, Romantic, and Modern periods. Arias and songs from operas, oratorios, musical theater and popular songs from Western and non-Western traditions. In addition, one studio class per week. Prerequisite: Music 151 or permission of the instructor.",
 	"synonym": "32081",
 	"tags": [],
-	"title": "Voice (Juried)"
+	"title": "Voice (Juried)",
+	"type": "Juried"
 }

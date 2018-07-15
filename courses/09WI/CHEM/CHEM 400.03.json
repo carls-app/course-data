@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "400.03",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20468",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

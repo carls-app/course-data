@@ -9,7 +9,7 @@
 		"Bill Titus",
 		"Bjorn E Graneli"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 48,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "12214",
 	"tags": [],
-	"title": "Elementary Physics"
+	"title": "Elementary Physics",
+	"type": "Course"
 }

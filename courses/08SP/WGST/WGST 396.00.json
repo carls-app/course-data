@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aureliano B DeSoto"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "19243",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"WGSTCAP",
+		"CAMSELECTIVE"
 	],
-	"title": "LGBT Film and Literature"
+	"title": "LGBT Film and Literature",
+	"type": "Course"
 }

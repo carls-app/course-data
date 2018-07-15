@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "102.02",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202",
@@ -46,6 +46,7 @@
 	"prerequisites": "Prerequisite: German 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -55,5 +56,6 @@
 	"summary": "Further study of the basic structural patterns of the German language.",
 	"synonym": "26671",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Deborah S Gross",
 		"Steven M Drew"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 67,
 		"total": 84,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "20479",
 	"tags": [],
-	"title": "Equilibrium and Analysis"
+	"title": "Equilibrium and Analysis",
+	"type": "Course"
 }

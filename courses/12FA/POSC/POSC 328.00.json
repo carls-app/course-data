@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -45,22 +40,11 @@
 	"summary": "Foreign policy analysis is a distinct sub-field within international relations that focuses on explaining the actions and choices of actors in world politics. After a review of the historical development of the sub-field, we will explore approaches to foreign policy that emphasize the empirical testing of hypotheses that explain how policies and choices are formulated and implemented. The psychological sources of foreign policy decisions (including leaders' beliefs and personalities and the effect of decision-making groups) are a central theme. Completion of a lower level IR course and the stats/methods sequence is recommended.",
 	"synonym": "32996",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSI-LPS",
+		"POSCADVSEM"
 	],
-	"title": "Foreign Policy Analysis*"
+	"title": "Foreign Policy Analysis*",
+	"type": "Course"
 }

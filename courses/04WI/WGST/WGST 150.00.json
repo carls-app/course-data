@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "8095",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Amazons,Valkyries,Naiads,Dyke"
+	"title": "Amazons,Valkyries,Naiads,Dyke",
+	"type": "Course"
 }

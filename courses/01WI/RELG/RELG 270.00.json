@@ -9,7 +9,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2099",
 	"tags": [],
-	"title": "Philosophy of Religion"
+	"title": "Philosophy of Religion",
+	"type": "Course"
 }

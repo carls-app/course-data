@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "108.00",
+	"number": "108",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18755",
 	"tags": [],
-	"title": "Life in the Age of Networks"
+	"title": "Life in the Age of Networks",
+	"type": "Course"
 }

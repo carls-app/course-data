@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carlos Vargas-Salgado"
 	],
-	"number": "101.04",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "21896",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

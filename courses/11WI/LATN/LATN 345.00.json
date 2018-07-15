@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": "Selected readings in the original from Plautus and/or Terence; study in translation of both Roman Comedy and its predecessor Greek New Comedy.",
 	"synonym": "25718",
 	"tags": [],
-	"title": "Roman Comedy"
+	"title": "Roman Comedy",
+	"type": "Course"
 }

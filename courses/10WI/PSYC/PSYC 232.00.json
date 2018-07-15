@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -36,6 +36,7 @@
 	"prerequisites": "Prerequisite: Psychology 110 or permission of the instructor. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; PSYC 233. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 24,
@@ -45,10 +46,8 @@
 	"summary": null,
 	"synonym": "23636",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Cognitive Processes"
+	"title": "Cognitive Processes",
+	"type": "Course"
 }

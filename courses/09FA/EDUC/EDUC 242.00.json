@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven Jongewaard"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": "This course is designed to engage students in an exploration of the promise of our democracy to educate everyone for the Common Good. It seeks a critical understanding of the so-called achievement gap. Students will look at public schools in the United States and determine how well they are interpreting and executing this mandate to create citizens both willing and able to sustain and improve the Republic. We will also look at TIMMS, PISA, OECD and other international data to compare our schooling system to systems in other countries.",
 	"synonym": "24938",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Developing Education Policy for Access and Equity"
+	"title": "Developing Education Policy for Access and Equity",
+	"type": "Course"
 }

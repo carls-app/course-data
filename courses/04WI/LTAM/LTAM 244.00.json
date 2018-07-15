@@ -9,7 +9,7 @@
 	"instructors": [
 		"Gregory M Diethrich"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "8534",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Music of the Caribbean"
+	"title": "Music of the Caribbean",
+	"type": "Course"
 }

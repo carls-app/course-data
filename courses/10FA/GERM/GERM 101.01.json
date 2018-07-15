@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -54,5 +55,6 @@
 	"summary": "This course stresses a firm understanding of the basic structural patterns of the German language through reading, writing, speaking, and listening drills. For students with no previous knowledge of German or for those whose test scores indicate that this is the appropriate level of placement.",
 	"synonym": "26665",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

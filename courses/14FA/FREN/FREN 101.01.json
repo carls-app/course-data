@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302",
@@ -43,6 +43,7 @@
 	"prerequisites": "Prerequisite: None. Placement score for students with previous expereience in French",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": "This course introduces the basic structures of the French language and everyday vocabulary in the context of common cultural situations. Students are exposed to all four skills (reading, writing, listening, and speaking). Taught five days a week in French.",
 	"synonym": "39566",
 	"tags": [],
-	"title": "Elementary French"
+	"title": "Elementary French",
+	"type": "Course"
 }

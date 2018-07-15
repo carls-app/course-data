@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "What does it for something to be statistically significant? This course will ask and answer this question by teaching social science students how to interpret data. This elementary statistics course covers descriptive and inferential statistics up to regression. Whenever possible, we will 'flip' the classroom -- using class time for activities and problem sets, and using out of class time for online lectures to introduce new material. We will focus on calculating and applying social statistics, rather than statistical theory. No prior knowledge of statistics is required.",
 	"synonym": "35782",
 	"tags": [
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"POECUPWTD"
 	],
-	"title": "Social Statistics"
+	"title": "Social Statistics",
+	"type": "Course"
 }

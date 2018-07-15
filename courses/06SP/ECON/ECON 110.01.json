@@ -7,7 +7,7 @@
 		"Bruce A Wambheim",
 		"Ann M May"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "13203",
 	"tags": [],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

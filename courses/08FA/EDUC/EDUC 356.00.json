@@ -9,7 +9,7 @@
 		"John G Ramsay",
 		"Mary S Gustafson"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Willis 102"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "22059",
 	"tags": [],
-	"title": "Student Teaching"
+	"title": "Student Teaching",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Debby R Walser-Kuntz",
 		"Jennifer M Wolff"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent enrollment in Biology 125L",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 63,
 		"total": 60,
@@ -53,14 +48,9 @@
 	"summary": "This offering of Biology 125 offers a problem solving approach and covers the same concepts as the winter version of Biology 125. The course format allows time in class to apply new concepts by working through case study type problems with faculty present. Students enter Carleton from a wide variety of academic experiences, and this offering of Biology 125 is designed to provide a level playing field for students regardless of previous science background. In addition, the active learning component of the course is beneficial for students who like to learn by doing. Students who complete this course are well-prepared to continue on to Biology 126.",
 	"synonym": "40140",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"BIOCCORE",
+		"NEURCORE"
 	],
-	"title": "Genes, Evolution, and Development: A Problem Solving Approach"
+	"title": "Genes, Evolution, and Development: A Problem Solving Approach",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		""
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "1399",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTELECAL",
+		"FRSTELEC"
 	],
-	"title": "City of Visions:Paris in Arts"
+	"title": "City of Visions:Paris in Arts",
+	"type": "Course"
 }

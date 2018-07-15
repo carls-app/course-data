@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 13,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "12427",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"ASSTEAST",
+		"HISTASIA"
 	],
-	"title": "Zen-Asian&Western Woodworking"
+	"title": "Zen-Asian&Western Woodworking",
+	"type": "Course"
 }

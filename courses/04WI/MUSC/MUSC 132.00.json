@@ -8,7 +8,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "132.00",
+	"number": "132",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "7298",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Music of the 1960's"
+	"title": "Music of the 1960's",
+	"type": "Course"
 }

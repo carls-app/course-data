@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 57,
 		"total": 60,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3476",
 	"tags": [],
-	"title": "Introduction to Astronomy"
+	"title": "Introduction to Astronomy",
+	"type": "Course"
 }

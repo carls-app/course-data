@@ -7,7 +7,7 @@
 		"Hong Zeng",
 		"Lan Tan"
 	],
-	"number": "205.02",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -52,10 +53,8 @@
 	"summary": null,
 	"synonym": "19110",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese"
+	"title": "Intermediate Chinese",
+	"type": "Course"
 }

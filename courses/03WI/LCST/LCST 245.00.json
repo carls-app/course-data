@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "4283",
 	"tags": [
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"FRSTCORE",
+		"FRSTSUPP",
+		"ASSTPERT",
+		"ASSTMETH",
+		"FRSTHIST"
 	],
-	"title": "Crit Meth:Structure,Gender"
+	"title": "Crit Meth:Structure,Gender",
+	"type": "Course"
 }

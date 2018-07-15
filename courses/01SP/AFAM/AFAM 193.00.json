@@ -9,7 +9,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "193.00",
+	"number": "193",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 6,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1589",
 	"tags": [],
-	"title": "Mbira Ensemble"
+	"title": "Mbira Ensemble",
+	"type": "Course"
 }

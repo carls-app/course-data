@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 4,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "9612",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

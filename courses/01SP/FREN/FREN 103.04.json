@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annick M Fritz-Smead"
 	],
-	"number": "103.04",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "27",
 	"tags": [],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

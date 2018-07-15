@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "19763",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

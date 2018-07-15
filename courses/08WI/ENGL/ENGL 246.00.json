@@ -10,7 +10,7 @@
 		"Susannah R Ottaway",
 		"Timothy Raylor"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -40,22 +41,11 @@
 	"summary": null,
 	"synonym": "18111",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"ENGL2",
+		"HISTERLYMODEUR",
+		"ENGLHE1",
+		"ENGLT1"
 	],
-	"title": "Texts in Hist, 1600-1700"
+	"title": "Texts in Hist, 1600-1700",
+	"type": "Course"
 }

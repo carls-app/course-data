@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2695",
 	"tags": [],
-	"title": "Topics-Parasitism/Mutualism"
+	"title": "Topics-Parasitism/Mutualism",
+	"type": "Course"
 }

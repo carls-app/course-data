@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "14377",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"AMSTTOPICAL2",
+		"HISTANCNT/MDVL"
 	],
-	"title": "America and the Classics"
+	"title": "America and the Classics",
+	"type": "Course"
 }

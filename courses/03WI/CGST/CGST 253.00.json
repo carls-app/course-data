@@ -9,7 +9,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "5466",
 	"tags": [],
-	"title": "Phil of Cognitive Science"
+	"title": "Phil of Cognitive Science",
+	"type": "Course"
 }

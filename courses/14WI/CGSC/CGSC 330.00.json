@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Cognitive Science 130, or Cognitive Science/Psychology 232 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": "This seminar will consider recent work in philosophy, cognitive science and linguistics critical of views of human cognition as \"disembodied\" and Cartesian. Philosophical sources of the early critiques of symbolic AI and \"cartesianism\" will be considered (Heidegger, Dewey), as will the linguistic theories of George Lakoff and Ray Jackendoff and recent and current work on embodied cognition by Eleanor Rosch, Hubert Dreyfus, John Haugeland, Andy Clark and Herbert Brooks. The seminar will include materials relevant to students in philosophy, linguistics, psychology and cognitive science.",
 	"synonym": "35129",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"SPECINTPHILSCI",
+		"CGSCELECTIVE"
 	],
-	"title": "Embodied Cognition"
+	"title": "Embodied Cognition",
+	"type": "Course"
 }

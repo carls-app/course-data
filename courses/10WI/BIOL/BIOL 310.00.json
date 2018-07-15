@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 and either Biology 240 or 280",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": "This course will examine the role of the immune system in defense, allergic reactions, and autoimmunity. Topics to be covered include the structure and function of antibodies, cytokines, the role of the major histocompatibility complex in antigen presentation, cellular immunity, immunodeficiencies, and current techniques used to study immune responses.",
 	"synonym": "24204",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Immunology"
+	"title": "Immunology",
+	"type": "Course"
 }

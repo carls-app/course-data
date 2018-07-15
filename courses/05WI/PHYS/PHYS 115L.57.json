@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "115L.57",
+	"number": "115L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9580",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

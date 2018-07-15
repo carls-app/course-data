@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 50,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "10538",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AFAMPERT",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Rethinking Amer Exp 1865-1945"
+	"title": "Rethinking Amer Exp 1865-1945",
+	"type": "Course"
 }

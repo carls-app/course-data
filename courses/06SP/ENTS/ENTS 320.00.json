@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Moseley"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "14322",
 	"tags": [
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"ENTSSP",
+		"ENTSINTL"
 	],
-	"title": "Comparative Env & Dev Seminar"
+	"title": "Comparative Env & Dev Seminar",
+	"type": "Course"
 }

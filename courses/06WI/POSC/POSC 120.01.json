@@ -6,7 +6,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "120.01",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "12464",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

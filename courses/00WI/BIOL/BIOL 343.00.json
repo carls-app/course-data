@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norris Armstrong"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2535",
 	"tags": [],
-	"title": "Animal Development Lab"
+	"title": "Animal Development Lab",
+	"type": "Course"
 }

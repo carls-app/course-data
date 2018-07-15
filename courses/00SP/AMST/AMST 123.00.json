@@ -9,7 +9,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -42,5 +43,6 @@
 		"AMSTSURVEY1",
 		"AMSTTOPICAL3"
 	],
-	"title": "Politics-Amer:Liberty & Equal"
+	"title": "Politics-Amer:Liberty & Equal",
+	"type": "Course"
 }

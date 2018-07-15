@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one additional 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,26 +39,12 @@
 	"summary": "We will get lost in the funhouse of postmodern fiction, in whose mirrored rooms we will encounter Maxwell's Demon, a depressed Krazy Kat, and the icy imagination of the King of Zembla. (Time will be budgeted for side-excursions into pastiche, dreck, and indeterminacy.) Authors read will include Nabokov, Pynchon, Barthelme, and DeLillo.",
 	"synonym": "37913",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		}
+		"ENGLHE3",
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"ENGLT2"
 	],
-	"title": "Postmodern American Fiction"
+	"title": "Postmodern American Fiction",
+	"type": "Course"
 }

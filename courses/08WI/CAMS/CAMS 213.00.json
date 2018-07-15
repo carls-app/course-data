@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "19056",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"EUSTCNTRY",
+		"CAMSELECTIVE"
 	],
-	"title": "Italian Neo-Realism"
+	"title": "Italian Neo-Realism",
+	"type": "Course"
 }

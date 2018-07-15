@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19016",
 	"tags": [],
-	"title": "Introduction to Religion"
+	"title": "Introduction to Religion",
+	"type": "Course"
 }

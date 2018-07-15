@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "13114",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTTOPICAL1",
+		"ENGL4",
+		"LITFORLANG"
 	],
-	"title": "Southern Literature"
+	"title": "Southern Literature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18340",
 	"tags": [],
-	"title": "Musical Biog and Autobiog"
+	"title": "Musical Biog and Autobiog",
+	"type": "Course"
 }

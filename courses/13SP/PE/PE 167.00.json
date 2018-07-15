@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "167.00",
+	"number": "167",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 40,
@@ -42,5 +40,6 @@
 	"summary": "Provides instruction in basic steps and patterns of ballroom dance such as waltz, cha-cha and swing. No previous experience is needed. Additional opportunities are provided by the Social Dance Club.",
 	"synonym": "31670",
 	"tags": [],
-	"title": "Social Dance I"
+	"title": "Social Dance I",
+	"type": "Course"
 }

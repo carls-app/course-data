@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 201"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 215 (or equivalent) or 275",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": "A second course in statistics covering simple linear regression, multiple regression and ANOVA, and logistic regression. Exploratory graphical methods, model building and model checking techniques will be emphasized with extensive use of statistical software to analyze real-life data.",
 	"synonym": "23253",
 	"tags": [],
-	"title": "Applied Regression Analysis"
+	"title": "Applied Regression Analysis",
+	"type": "Course"
 }

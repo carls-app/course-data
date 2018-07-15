@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "269.00",
+	"number": "269",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -46,26 +44,12 @@
 	"summary": null,
 	"synonym": "27570",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"JDSTPERT",
+		"RELGJEWISHTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Jewish Ethics"
+	"title": "Jewish Ethics",
+	"type": "Course"
 }

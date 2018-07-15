@@ -8,7 +8,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "18710",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLT1",
+		"ENGLF",
+		"LITFORLANG",
+		"MARSCORE",
+		"EUSTCNTRY"
 	],
-	"title": "English Literature I"
+	"title": "English Literature I",
+	"type": "Course"
 }

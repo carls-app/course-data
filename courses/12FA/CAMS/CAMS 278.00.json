@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael Elyanow"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -41,10 +39,8 @@
 	"summary": "TV is a very specific, time-driven medium. Using examples from scripts and DVDs, students will learn how to write for an existing TV show, keeping in mind character consistency, pacing, tone, and compelling storylines. Students will also get a taste of what it's like to be part of a writing staff as the class itself creates an episode from scratch. Topics such as creating the TV pilot, marketing, agents, managers, and more will be discussed. Finally, general storytelling tools such as creating better dialogue, developing fully-rounded characters, making scene work more exciting, etc., will also be addressed.",
 	"synonym": "33920",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Writing for Television"
+	"title": "Writing for Television",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Clifford E Clark",
 		"Beverly Y Nagel"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304",
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 45,
@@ -45,14 +46,9 @@
 	"summary": null,
 	"synonym": "4989",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "Intro Amer St: Immigrant Exper"
+	"title": "Intro Amer St: Immigrant Exper",
+	"type": "Course"
 }

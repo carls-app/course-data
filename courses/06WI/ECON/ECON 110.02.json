@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pavel S Kapinos"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13189",
 	"tags": [],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

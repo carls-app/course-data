@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Concurrent registraiton in Cognitive Science 2322. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; Cognitive Science 233. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"WR2",
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 24,
@@ -52,14 +47,9 @@
 	"summary": "An introduction to the study of mental activity. Topics include attention, pattern recognition and perception, memory, concept formation, categorization, and cognitive development. Some attention to gender and individual differences in cognition, as well as cultural settings for cognitive activities.",
 	"synonym": "35126",
 	"tags": [
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		},
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"PSYCPERT",
+		"CGSCCORE"
 	],
-	"title": "Cognitive Processes"
+	"title": "Cognitive Processes",
+	"type": "Course"
 }

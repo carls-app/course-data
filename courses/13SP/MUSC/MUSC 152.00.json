@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 45,
@@ -22,5 +23,6 @@
 	"summary": "Studies for the development of technique appropriate to the needs of the student. Music is chosen from all musical periods including folk picking, blues, ragtime, popular and classical styles. Students with no prior experience or lessons should take one term of class guitar (Music 197).",
 	"synonym": "33622",
 	"tags": [],
-	"title": "Guitar"
+	"title": "Guitar",
+	"type": "Course"
 }

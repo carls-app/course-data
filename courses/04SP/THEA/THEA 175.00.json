@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "8178",
 	"tags": [],
-	"title": "Drama/Theater/Text"
+	"title": "Drama/Theater/Text",
+	"type": "Course"
 }

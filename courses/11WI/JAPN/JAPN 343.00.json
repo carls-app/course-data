@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Japanese 206 or the equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "In this course we will subtitle in English language a recent Japanese film and also read the novel on which the film is based. The aims of this course are to understand Japanese spoken at a natural speed, to improve the reading skills of Japanese texts, and to comprehend some aspects of contemporary Japan. The students are expected to participate actively in the discussion of film/novel and of subtitles.",
 	"synonym": "28025",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Advanced Japanese Through Fiction and Film"
+	"title": "Advanced Japanese Through Fiction and Film",
+	"type": "Course"
 }

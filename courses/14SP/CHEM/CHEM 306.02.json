@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gretchen E Hofmeister"
 	],
-	"number": "306.02",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistory 234 and 344 or instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 2,
 		"total": 8,
@@ -36,5 +34,6 @@
 	"summary": "This combined lecture and lab course teaches students how to use modern spectrometric techniques for the structural characterization of molecules. Lectures will cover topics and problems in the theory and practical applications associated with GC-Mass Spectrometry, ESI-Mass Spectrometry, Infrared, and Nuclear Magnetic Resonance Spectroscopy (1H, 13C, and 2D experiments). Students will apply all of these techniques in the laboratory for the structural characterization of known and unknown molecules.",
 	"synonym": "37364",
 	"tags": [],
-	"title": "Spectrometric Characterization of Chemical Compounds"
+	"title": "Spectrometric Characterization of Chemical Compounds",
+	"type": "Course"
 }

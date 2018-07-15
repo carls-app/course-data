@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "123.02",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3553",
 	"tags": [],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

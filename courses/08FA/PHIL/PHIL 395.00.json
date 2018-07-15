@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "21231",
 	"tags": [
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"PHILADV",
+		"PHILTHEORY"
 	],
-	"title": "Freedom and the Self"
+	"title": "Freedom and the Self",
+	"type": "Course"
 }

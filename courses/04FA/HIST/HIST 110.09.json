@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "110.09",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "09",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "10438",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "The Pacific War"
+	"title": "The Pacific War",
+	"type": "Course"
 }

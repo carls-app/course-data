@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -38,20 +38,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 40,
@@ -61,42 +53,16 @@
 	"summary": "Through the intensive exploration of a variety of distinct \"worlds\" in the early Middle Ages, this course offers an introduction to formative political, social, religious, and cultural developments in Europe between c.450 and c.1050. We will pay special attention to the structures, ideologies, practices, and social dynamics that shaped and energized communities large and small and will develop skills in the historical interpretation of various kinds of primary sources. The development of a student-designed public exhibition on \"Word and Image in the Middle Ages\" is an essential element of the course and includes outreach projects in the public schools.",
 	"synonym": "32685",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"HISTANCNT/MDVL",
+		"FRSTHIST",
+		"FRSTSUPP",
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"SPECINTBOOKSTD"
 	],
-	"title": "Early Medieval Worlds"
+	"title": "Early Medieval Worlds",
+	"type": "Course"
 }

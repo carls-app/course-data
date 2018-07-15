@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -45,22 +40,11 @@
 	"summary": "During the sixteenth and seventeenth centuries in China, unprecedented economic development and urbanization expanded the number of educated elite who used their wealth to both display their status and distinguish themselves as cultural leaders. As a result, this period experienced a boom in estate and garden building, art collecting and luxury consumption. This course will examine a wide range of objects from painting and calligraphy to furniture and ceramics within the context of domestic architecture of the late Ming dynasty. It will also examine the role of taste and social class in determining the style of art and architecture.",
 	"synonym": "29097",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"EASTCORE",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Arts of the Chinese Scholar's Studio"
+	"title": "Arts of the Chinese Scholar's Studio",
+	"type": "Course"
 }

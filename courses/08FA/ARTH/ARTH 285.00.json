@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "20509",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Topic:Ceramics-Islamic World"
+	"title": "Topic:Ceramics-Islamic World",
+	"type": "Course"
 }

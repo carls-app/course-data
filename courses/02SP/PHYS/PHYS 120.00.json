@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 60,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1482",
 	"tags": [],
-	"title": "Revolutions in Physics"
+	"title": "Revolutions in Physics",
+	"type": "Course"
 }

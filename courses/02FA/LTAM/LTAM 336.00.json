@@ -9,7 +9,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -44,30 +45,13 @@
 	"summary": null,
 	"synonym": "4818",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMELECTIVE",
+		"LTAM300LIT"
 	],
-	"title": "Genealogies of the Modern"
+	"title": "Genealogies of the Modern",
+	"type": "Course"
 }

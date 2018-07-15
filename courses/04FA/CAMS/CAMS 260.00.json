@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "11170",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Cyberculture: Digital Seeing"
+	"title": "Cyberculture: Digital Seeing",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "A survey of some of the central movements and texts in American literature, from World War I to the present. Topics covered will include modernism, the Harlem Renaissance, the Beat generation and postmodernism.",
 	"synonym": "35314",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		}
+		"ENGLHE3",
+		"ENGLT2",
+		"AMSTTOPICAL1",
+		"AMSTSURVEY1"
 	],
-	"title": "Modern American Literature"
+	"title": "Modern American Literature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ann Pesavento"
 	],
-	"number": "163.00",
+	"number": "163",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -38,5 +36,6 @@
 	"summary": null,
 	"synonym": "38700",
 	"tags": [],
-	"title": "Bassoon"
+	"title": "Bassoon",
+	"type": "Course"
 }

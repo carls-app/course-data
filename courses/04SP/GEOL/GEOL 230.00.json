@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6985",
 	"tags": [],
-	"title": "Paleobiology"
+	"title": "Paleobiology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -41,10 +39,8 @@
 	"summary": null,
 	"synonym": "4724",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Syntax of an Unfamiliar Lang"
+	"title": "Syntax of an Unfamiliar Lang",
+	"type": "Course"
 }

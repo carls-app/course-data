@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 48,
@@ -52,5 +47,6 @@
 	"summary": null,
 	"synonym": "28785",
 	"tags": [],
-	"title": "Light and Optics"
+	"title": "Light and Optics",
+	"type": "Course"
 }

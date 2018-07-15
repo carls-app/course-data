@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -31,24 +31,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -58,10 +47,8 @@
 	"summary": null,
 	"synonym": "32948",
 	"tags": [
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		}
+		"POECAPP"
 	],
-	"title": "Advncd Topics in Econ Develpnt"
+	"title": "Advncd Topics in Econ Develpnt",
+	"type": "Course"
 }

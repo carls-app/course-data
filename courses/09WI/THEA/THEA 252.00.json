@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21341",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ENGLHE3",
+		"AMSTTOPICAL1",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "African-American Theater"
+	"title": "African-American Theater",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9926",
 	"tags": [],
-	"title": "Joseph Conrad"
+	"title": "Joseph Conrad",
+	"type": "Course"
 }

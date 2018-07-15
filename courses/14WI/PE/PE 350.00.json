@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron D Rushing"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 18,
@@ -36,5 +34,6 @@
 	"summary": "This course emphasizes the methods of teaching skills, structure, and strategies of team oriented sports. Emphasis is placed on understanding the coaching profession at different levels, developing coaching skills and creating a philosophy of coaching.",
 	"synonym": "34798",
 	"tags": [],
-	"title": "Methods: Principles and Philosophy of Coaching"
+	"title": "Methods: Principles and Philosophy of Coaching",
+	"type": "Course"
 }

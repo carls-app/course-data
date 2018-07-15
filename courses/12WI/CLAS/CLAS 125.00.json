@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn L Steed"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -46,18 +44,10 @@
 	"summary": "The novel is an unfamiliar but delightful area of Greek and Roman literature, with its heyday in the Roman empire of the second century AD. We will study most of the nine Greek ones, which are romantic short novels about ill-fated lovers and their wild, world-wide adventures. We will also read the two Latin ones, Petronius'",
 	"synonym": "29787",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE"
 	],
-	"title": "Love, Death and Destiny: The Ancient Novel"
+	"title": "Love, Death and Destiny: The Ancient Novel",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": "Prerequisite: Competence in any language other than English beyond four terms of study, or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -56,10 +48,8 @@
 	"summary": "We live in a world permeated by different languages at every level--from literary texts to multilingual instruction manuals, from newspapers and books to songs and films--and we all translate every day, whether we know it or not. This course aims to examine major issues related to translation, including its history, theory, and practice, as well as what ideological and ethical concerns translation poses today. We will also explore translation's relationship to issues of literature, religion, culture, race and ethnicity, and sex and gender.",
 	"synonym": "29783",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTELEC"
 	],
-	"title": "Translation Theory and Practice"
+	"title": "Translation Theory and Practice",
+	"type": "Course"
 }

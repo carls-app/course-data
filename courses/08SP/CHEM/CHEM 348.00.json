@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17415",
 	"tags": [],
-	"title": "Intro to Computational Chem"
+	"title": "Intro to Computational Chem",
+	"type": "Course"
 }

@@ -9,11 +9,12 @@
 	"instructors": [
 		"Diane Pearsall"
 	],
-	"number": "248.07",
+	"number": "248",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -23,22 +24,11 @@
 	"summary": null,
 	"synonym": "1810",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"LTAMELECTIVE"
 	],
-	"title": "Drama & Performance in LatAm"
+	"title": "Drama & Performance in LatAm",
+	"type": "Course"
 }

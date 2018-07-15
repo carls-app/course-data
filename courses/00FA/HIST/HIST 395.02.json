@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -39,5 +40,6 @@
 		"HISTEUR1451",
 		"CCSTGLOBAL"
 	],
-	"title": "War, State & Society"
+	"title": "War, State & Society",
+	"type": "Course"
 }

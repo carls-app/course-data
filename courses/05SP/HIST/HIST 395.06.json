@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "395.06",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "11727",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300HIST",
-			"name": "LTAM 300 History"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		}
+		"LTAMELECTIVE",
+		"LTAM300HIST",
+		"HISTLTAM"
 	],
-	"title": "Imagining the Nation in Latam"
+	"title": "Imagining the Nation in Latam",
+	"type": "Course"
 }

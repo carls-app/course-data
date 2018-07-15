@@ -6,7 +6,7 @@
 	"instructors": [
 		"David F Appleyard"
 	],
-	"number": "121.04",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 28,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6760",
 	"tags": [],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

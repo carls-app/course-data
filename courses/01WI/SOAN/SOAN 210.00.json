@@ -9,7 +9,7 @@
 	"instructors": [
 		"Javier Morillo-Alicea"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 35,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2742",
 	"tags": [],
-	"title": "Colonial Cultures-Modern World"
+	"title": "Colonial Cultures-Modern World",
+	"type": "Course"
 }

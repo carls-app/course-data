@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sara M Gorchoff"
 	],
-	"number": "259.02",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 258",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,5 +41,6 @@
 	"summary": "Students will participate in the design and replication of social psychological studies related to social cognition. This course requires concurrent registration in Psychology 258. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "26728",
 	"tags": [],
-	"title": "Laboratory Research Methods in Social Cognition"
+	"title": "Laboratory Research Methods in Social Cognition",
+	"type": "Course"
 }

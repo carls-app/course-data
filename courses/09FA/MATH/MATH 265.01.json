@@ -6,7 +6,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "265.01",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "Introduction to probability and its applications. Topics include discrete probability, random variables, independence, joint and conditional distributions, expectation, limit laws and properties of common probability distributions.",
 	"synonym": "23228",
 	"tags": [],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

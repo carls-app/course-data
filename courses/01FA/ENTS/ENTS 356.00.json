@@ -9,7 +9,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 24,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "292",
 	"tags": [],
-	"title": "Ecosystem Ecology"
+	"title": "Ecosystem Ecology",
+	"type": "Course"
 }

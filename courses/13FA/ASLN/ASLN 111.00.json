@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -46,22 +44,11 @@
 	"summary": "The structure and function of writing systems, with emphasis on a comparison of East Asian writing systems (Chinese, Japanese, Korean) to Western alphabetic systems. Topics covered include classification of writing systems, historical development, diffusion and borrowing of writing systems, and comparison with non-writing symbol systems.",
 	"synonym": "35131",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"EASTSUPP",
+		"ASSTEAST",
+		"LINGPERT",
+		"ASSTSS"
 	],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

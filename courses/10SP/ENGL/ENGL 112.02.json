@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "112.02",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "23031",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLT1",
+		"ENGLHE2",
+		"ENGLF",
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Intro to American Literature"
+	"title": "Intro to American Literature",
+	"type": "Course"
 }

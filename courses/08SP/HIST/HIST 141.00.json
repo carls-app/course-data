@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 60,
@@ -41,34 +42,14 @@
 	"summary": null,
 	"synonym": "18124",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"FRSTHIST",
+		"FRSTSUPP",
+		"POSI-AREAS"
 	],
-	"title": "Europe in the 20th Century"
+	"title": "Europe in the 20th Century",
+	"type": "Course"
 }

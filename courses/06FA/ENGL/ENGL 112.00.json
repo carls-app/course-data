@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "15799",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Intro to American Literature"
+	"title": "Intro to American Literature",
+	"type": "Course"
 }

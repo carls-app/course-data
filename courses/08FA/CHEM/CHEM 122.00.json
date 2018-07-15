@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael W Burand"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "20426",
 	"tags": [],
-	"title": "Introduction to Chemistry"
+	"title": "Introduction to Chemistry",
+	"type": "Course"
 }

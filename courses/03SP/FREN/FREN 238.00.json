@@ -10,7 +10,7 @@
 		"Dana Strand",
 		"Sigi Leonhard"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -35,12 +35,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -50,10 +48,8 @@
 	"summary": null,
 	"synonym": "4830",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Perspctv Fren & Germ Cinema"
+	"title": "Perspctv Fren & Germ Cinema",
+	"type": "Course"
 }

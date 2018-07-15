@@ -9,16 +9,14 @@
 		"Donna Ricks",
 		"Keren A Gudeman"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 40,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "18902",
 	"tags": [],
-	"title": "Indoor Track Intercollegiate"
+	"title": "Indoor Track Intercollegiate",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 18,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "755",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300SOCSCI",
-			"name": "LTAM 300 Soc Science"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"ENTSINTL",
+		"LTAMELECTIVE",
+		"LTAM300SOCSCI"
 	],
-	"title": "Third World \"Development\""
+	"title": "Third World \"Development\"",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "15691",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL3"
 	],
-	"title": "American Economic History"
+	"title": "American Economic History",
+	"type": "Course"
 }

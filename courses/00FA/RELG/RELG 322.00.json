@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,5 +42,6 @@
 		"AMSTTOPICAL2",
 		"WGSTADDL"
 	],
-	"title": "Christian Feminist Theologies"
+	"title": "Christian Feminist Theologies",
+	"type": "Course"
 }

@@ -6,16 +6,14 @@
 	"instructors": [
 		"Aaron J Chaput"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 100,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "23984",
 	"tags": [],
-	"title": "Lacrosse Club, Women"
+	"title": "Lacrosse Club, Women",
+	"type": "Course"
 }

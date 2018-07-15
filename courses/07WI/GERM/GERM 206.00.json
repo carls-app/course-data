@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "15911",
 	"tags": [],
-	"title": "Composition and Conversation"
+	"title": "Composition and Conversation",
+	"type": "Course"
 }

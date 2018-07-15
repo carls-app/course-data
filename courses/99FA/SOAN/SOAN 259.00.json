@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "2065",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL3",
+		"CCSTREGIONAL",
+		"CCSTETHNIC"
 	],
-	"title": "Compartv Issues/Native N Amer"
+	"title": "Compartv Issues/Native N Amer",
+	"type": "Course"
 }

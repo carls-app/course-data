@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nikki Melville"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10345",
 	"tags": [],
-	"title": "Intro to the Study of Music"
+	"title": "Intro to the Study of Music",
+	"type": "Course"
 }

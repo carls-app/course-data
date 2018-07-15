@@ -9,7 +9,7 @@
 	"instructors": [
 		"Stephen T Campagna-Pinto"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2102",
 	"tags": [],
-	"title": "American Religious Thought"
+	"title": "American Religious Thought",
+	"type": "Course"
 }

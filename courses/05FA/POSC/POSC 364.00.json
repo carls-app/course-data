@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "364.00",
+	"number": "364",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "12455",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
-	"title": "Capitalism and Its Critics"
+	"title": "Capitalism and Its Critics",
+	"type": "Course"
 }

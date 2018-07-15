@@ -10,7 +10,7 @@
 		"Jay L Johnson",
 		"David S Whetstone"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "4286",
 	"tags": [],
-	"title": "Anthropology of Music"
+	"title": "Anthropology of Music",
+	"type": "Course"
 }

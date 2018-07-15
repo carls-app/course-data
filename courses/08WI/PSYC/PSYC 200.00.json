@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17868",
 	"tags": [],
-	"title": "Measurement & Data Analysis"
+	"title": "Measurement & Data Analysis",
+	"type": "Course"
 }

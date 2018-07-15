@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "259.01",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Olin 112"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 258",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -38,5 +36,6 @@
 	"summary": "Students will participate in the design and replication of social psychological studies related to social cognition. This course requires concurrent registration in Psychology 258. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "28859",
 	"tags": [],
-	"title": "Laboratory Research Methods in Social Cognition"
+	"title": "Laboratory Research Methods in Social Cognition",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Physics 339",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "25998",
 	"tags": [],
-	"title": "Thermal and Statistical Physics II"
+	"title": "Thermal and Statistical Physics II",
+	"type": "Course"
 }

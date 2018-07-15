@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "184.00",
+	"number": "184",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -50,18 +45,10 @@
 	"summary": "This course surveys the history of West Africa during the colonial period, 1860-1960. It offers an introduction to the roles that Islam and Christianity played in establishing and maintaining colonial rule. It looks at the role of colonialism in shaping African ethnic identities and introducing new gender roles. In addition, we will examine the transition from slave labor to wage labor, and its role in exacerbating gender, generation, and class divisions among West Africans. The course also highlights some of the ritual traditions and cultural movements that flourished in response to colonial rule.",
 	"synonym": "26253",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"HISTAFRDIASPORA",
+		"AFAMSURVEY",
+		"POSI-AREAS"
 	],
-	"title": "Colonial West Africa"
+	"title": "Colonial West Africa",
+	"type": "Course"
 }

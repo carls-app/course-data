@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "23212",
 	"tags": [],
-	"title": "The Mathematics of Democracy"
+	"title": "The Mathematics of Democracy",
+	"type": "Course"
 }

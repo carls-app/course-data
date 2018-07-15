@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 18,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "19787",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Ragtime, Football & Wild West"
+	"title": "Ragtime, Football & Wild West",
+	"type": "Course"
 }

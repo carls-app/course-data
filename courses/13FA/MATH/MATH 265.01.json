@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "265.01",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Introduction to probability and its applications. Topics include discrete probability, random variables, independence, joint and conditional distributions, expectation, limit laws and properties of common probability distributions.",
 	"synonym": "34943",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

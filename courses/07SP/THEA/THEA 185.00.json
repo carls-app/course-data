@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "185.00",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 14,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "16663",
 	"tags": [],
-	"title": "The Speaking Voice"
+	"title": "The Speaking Voice",
+	"type": "Course"
 }

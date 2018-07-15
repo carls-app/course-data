@@ -8,7 +8,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,46 +44,17 @@
 	"summary": null,
 	"synonym": "16179",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "FFSTCORE",
-			"name": "FFST Conc Core"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELEC",
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"WGSTADDL",
+		"FFSTCORE",
+		"FRSTSUPP"
 	],
-	"title": "Identity Quests"
+	"title": "Identity Quests",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 24,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "6433",
 	"tags": [],
-	"title": "Agroecology"
+	"title": "Agroecology",
+	"type": "Course"
 }

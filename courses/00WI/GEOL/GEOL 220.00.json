@@ -6,7 +6,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1928",
 	"tags": [],
-	"title": "Tectonics"
+	"title": "Tectonics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "151L.52",
+	"number": "151L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 26,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "33570",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

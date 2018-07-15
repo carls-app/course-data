@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Catullus & Other Latin Poets"
+	"title": "Catullus & Other Latin Poets",
+	"type": "Course"
 }

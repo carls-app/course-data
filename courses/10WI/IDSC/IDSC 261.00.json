@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "24397",
 	"tags": [],
-	"title": "Economic and Social Justice"
+	"title": "Economic and Social Justice",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "1681",
 	"tags": [],
-	"title": "Russian Cinema: Hist & Theory"
+	"title": "Russian Cinema: Hist & Theory",
+	"type": "Course"
 }

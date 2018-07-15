@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -54,26 +46,12 @@
 	"summary": "In this seminar we will read the major works of Salman Rushdie, ranging from the novels that established and cemented his reputation in the 1980s to some of his more recent work. In addition to his fiction we will read selections from his essays as well as from the significant body of criticism on his fiction. We will seek to understand his place in the late twentieth century and contemporary literary landscape.",
 	"synonym": "37914",
 	"tags": [
-		{
-			"code": "ENGLADVSEM",
-			"name": "English Advanced Seminar"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ENGLADVSEM",
+		"ASSTAL",
+		"ENGLT3",
+		"ENGLHE3",
+		"ASSTSOUTH"
 	],
-	"title": "Salman Rushdie"
+	"title": "Salman Rushdie",
+	"type": "Course"
 }

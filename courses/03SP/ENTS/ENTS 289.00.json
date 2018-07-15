@@ -9,7 +9,7 @@
 		"Dale W Jamieson",
 		"Tsegaye H Nega"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "4750",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"CCSTGLOBAL",
+		"ENTSINTL",
+		"ENTSSP"
 	],
-	"title": "Climate & Society"
+	"title": "Climate & Society",
+	"type": "Course"
 }

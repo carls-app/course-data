@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Arena Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16384",
 	"tags": [],
-	"title": "Intro to Theatrical Environmnt"
+	"title": "Intro to Theatrical Environmnt",
+	"type": "Course"
 }

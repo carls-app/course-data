@@ -8,16 +8,14 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "288.07",
+	"number": "288",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Enrollment in OCS program",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "35088",
 	"tags": [],
-	"title": "Geology in New Zealand: Topics in South Island Geology"
+	"title": "Geology in New Zealand: Topics in South Island Geology",
+	"type": "Course"
 }

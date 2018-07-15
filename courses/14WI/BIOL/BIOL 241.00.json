@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jalean J Petricka"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "35235",
 	"tags": [],
-	"title": "Genetics Laboratory"
+	"title": "Genetics Laboratory",
+	"type": "Course"
 }

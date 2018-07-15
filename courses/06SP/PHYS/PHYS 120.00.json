@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12219",
 	"tags": [],
-	"title": "Revolutions in Physics"
+	"title": "Revolutions in Physics",
+	"type": "Course"
 }

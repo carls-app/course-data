@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -50,14 +45,9 @@
 	"summary": null,
 	"synonym": "33874",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		}
+		"EUSTCNTRY",
+		"GERMPERT"
 	],
-	"title": "Cult or Barbarity? Grmn Qstn"
+	"title": "Cult or Barbarity? Grmn Qstn",
+	"type": "Course"
 }

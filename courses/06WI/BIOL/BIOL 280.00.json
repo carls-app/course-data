@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine A Reinke"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11973",
 	"tags": [],
-	"title": "Cell Biology"
+	"title": "Cell Biology",
+	"type": "Course"
 }

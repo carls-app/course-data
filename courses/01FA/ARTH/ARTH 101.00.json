@@ -7,7 +7,7 @@
 		"Alison M Kettering",
 		"Kathleen M Ryor"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 48,
@@ -46,5 +47,6 @@
 		"MARSCORE",
 		"MARSSUPP"
 	],
-	"title": "Introduction to Art History I"
+	"title": "Introduction to Art History I",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "15667",
 	"tags": [
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"POSISECFRGNPOL",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
-	"title": "Foreign Policy Analysis"
+	"title": "Foreign Policy Analysis",
+	"type": "Course"
 }

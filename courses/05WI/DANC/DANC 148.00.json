@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "10791",
 	"tags": [],
-	"title": "Modern Dance I"
+	"title": "Modern Dance I",
+	"type": "Course"
 }

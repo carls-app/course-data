@@ -8,7 +8,7 @@
 	"instructors": [
 		"Karen A Wilson"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 40,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "3360",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Aquatic Biology"
+	"title": "Aquatic Biology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "131L.57",
+	"number": "131L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17743",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

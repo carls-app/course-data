@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "24798",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"MARSSUPP",
+		"MARSCORE"
 	],
-	"title": "Classical Arabic Literature (adab) in the Making"
+	"title": "Classical Arabic Literature (adab) in the Making",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Patrick H Dust"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "4765",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -52,14 +47,9 @@
 	"summary": "This course serves as a historical and critical survey of American film comedy from the late silent era through the end of the classical Hollywood period. It is designed to study the evolution of sound film comedy from its origins in slapstick and vaudeville-based skit routines through the sophisticated dialogue and screwball comedies of the 1930s and the social commentary comedies of the 1940s and 50s. The term will be spent studying the evolution of forms of film comedy, understanding how the genre has changed, and examining the social/historical factors that account for these changes.",
 	"synonym": "29678",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"CAMSELECTIVE",
+		"AMSTTOPICAL1"
 	],
-	"title": "Classical American Film Comedy"
+	"title": "Classical American Film Comedy",
+	"type": "Course"
 }

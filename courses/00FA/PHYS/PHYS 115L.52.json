@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "115L.52",
+	"number": "115L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "362",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

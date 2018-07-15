@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205",
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -53,10 +48,8 @@
 	"summary": null,
 	"synonym": "30017",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Imagining a Self"
+	"title": "Imagining a Self",
+	"type": "Course"
 }

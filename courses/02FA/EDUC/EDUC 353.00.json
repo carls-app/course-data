@@ -8,7 +8,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "4317",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTTOPICAL3",
+		"CCSTETHNIC",
+		"AFAMPERT"
 	],
-	"title": "Schooling and Opportunity"
+	"title": "Schooling and Opportunity",
+	"type": "Course"
 }

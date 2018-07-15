@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "446",
 	"tags": [],
-	"title": "Cognitive Processes"
+	"title": "Cognitive Processes",
+	"type": "Course"
 }

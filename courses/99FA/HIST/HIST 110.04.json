@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "110.04",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3487",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "Historians & Slavery"
+	"title": "Historians & Slavery",
+	"type": "Course"
 }

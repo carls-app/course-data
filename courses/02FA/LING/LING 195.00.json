@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tiffany L Kershner"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "5656",
 	"tags": [],
-	"title": "The Structure of Chisukwa"
+	"title": "The Structure of Chisukwa",
+	"type": "Course"
 }

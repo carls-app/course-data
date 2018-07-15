@@ -8,7 +8,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "7815",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"SPAN205-209",
+		"LTAMELECTIVE"
 	],
-	"title": "Exploring Hispanic Culture"
+	"title": "Exploring Hispanic Culture",
+	"type": "Course"
 }

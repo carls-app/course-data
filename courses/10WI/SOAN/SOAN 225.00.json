@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": "In this course we will consider questions of how ordinary women and men have come together to reshape the societies in which they live and the difficult choices they have faced in the process. We will explore factors affecting the emergence, growth, structure and impact of social movements as their participants intentionally attempt to bring about social change, transform social relationships and reshape social values. Major theoretical perspectives (concerning collective behavior, resource mobilization, and new social movements) will be examined in light of some of the most important social movements from around the world.",
 	"synonym": "24437",
 	"tags": [
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-DSS",
+		"AMSTTOPICAL3"
 	],
-	"title": "Social Movements"
+	"title": "Social Movements",
+	"type": "Course"
 }

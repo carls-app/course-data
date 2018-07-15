@@ -9,16 +9,14 @@
 		"Staff",
 		"Lawrence Archbold"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "33809",
 	"tags": [],
-	"title": "Juried Lessons for the Major"
+	"title": "Juried Lessons for the Major",
+	"type": "Course"
 }

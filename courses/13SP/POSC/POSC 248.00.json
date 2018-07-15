@@ -8,7 +8,7 @@
 	"instructors": [
 		"Burton Levin"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -47,26 +42,12 @@
 	"summary": "This course will examine the interaction between China and America from the inception in the late eighteenth century to the present, with greater emphasis on more recent events. The focus will be on evaluating the underlying and persisting factors which have made Sino-U.S. relations so special and difficult.",
 	"synonym": "34408",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"ASSTSS",
+		"POSI-LPS2",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "The U.S.-China Relationship"
+	"title": "The U.S.-China Relationship",
+	"type": "Course"
 }

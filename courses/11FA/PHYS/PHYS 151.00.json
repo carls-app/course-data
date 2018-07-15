@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 121 (completion or concurrent regisration) and Physics 131 (completion or concurrent registration) or 132, 141 or 142; Concurrent registration in Physics 151L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 48,
@@ -52,5 +47,6 @@
 	"summary": "An introduction to principles of physics in the domain of the very small and very fast. Topics include the special theory of relativity, and selected applications to atomic, nuclear, and particle physics. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
 	"synonym": "28759",
 	"tags": [],
-	"title": "Introduction to Physics: Relativity and Particles"
+	"title": "Introduction to Physics: Relativity and Particles",
+	"type": "Course"
 }

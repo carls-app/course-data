@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -50,5 +45,6 @@
 	"summary": "Reading Ovid's",
 	"synonym": "29806",
 	"tags": [],
-	"title": "Ovid's"
+	"title": "Ovid's",
+	"type": "Course"
 }

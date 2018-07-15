@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"FRSTELEC",
 		"FRSTHIST"
 	],
-	"title": "The Renaissance"
+	"title": "The Renaissance",
+	"type": "Course"
 }

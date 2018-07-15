@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish reading fluency a plus, but not required.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": "Latinas have a long history in Hollywood, from silent films to J. Lo. We will examine how the presence of Latinas onscreen reflects the pressures and needs of different eras. We will think about the pressure to \"pass\" as white and compare that to the insistent stereotypes about Latinas circulated through film. Throughout the course we'll be attentive to the relationship between film and other media, between the U.S. and other countries. What are the linguistic, social, and economic conditions that enable a \"cross-over\" artist? And how do Latino/a literatures, documentaries, and performances respond to the film and television industries?",
 	"synonym": "22756",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"AMSTTOPICAL1",
+		"CAMSELECTIVE",
+		"LTAMLIT",
+		"CAMSXDEPT"
 	],
-	"title": "Latinas in Hollywood"
+	"title": "Latinas in Hollywood",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "India, according to V.S. Naipal, is the land of \"a million mutinies.\" What are these uprisings, rebellions, and resistance movements? Who is rising up, and why? In this class we will look, through the lens of social movements, at the wide variety of efforts to bring about social change, justice, and equality that have been at work in modern India. Case studies will include movements focused on the caste system, women in search of gender justice, queer activism, farmers' challenges to corporate agricultural policies, environmentalism, struggles for localized control over resources, Maoist uprisings against the state, and religious nationalism.",
 	"synonym": "37518",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"ASSTSS",
+		"ASSTSOUTH",
+		"WGSTADDL",
+		"CCSTREGIONAL"
 	],
-	"title": "Resistance Struggles & People's Movements in India"
+	"title": "Resistance Struggles & People's Movements in India",
+	"type": "Course"
 }

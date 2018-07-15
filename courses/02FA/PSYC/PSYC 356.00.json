@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3502",
 	"tags": [],
-	"title": "Psychopathology"
+	"title": "Psychopathology",
+	"type": "Course"
 }

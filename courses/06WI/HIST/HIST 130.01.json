@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "130.01",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Leighton 402",
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -49,26 +50,12 @@
 	"summary": null,
 	"synonym": "12397",
 	"tags": [
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"RELGPERT",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL",
+		"SPECINTETHICS"
 	],
-	"title": "Early Christian Thought"
+	"title": "Early Christian Thought",
+	"type": "Course"
 }

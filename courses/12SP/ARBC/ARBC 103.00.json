@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shadi Bayadsy"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Arabic 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -51,5 +52,6 @@
 	"summary": "This course sequence introduces non-Arabic speakers to the sounds, script, and basic grammar of Arabic--the language of 200 million speakers in the Arab world and the liturgical language of over a billion Muslims. Students will develop basic listening, speaking, reading and writing skills in Modern Standard Arabic. Classes will incorporate readings and audio-visual material from contemporary Arabic media, as well as popular music.",
 	"synonym": "29814",
 	"tags": [],
-	"title": "Elementary Arabic"
+	"title": "Elementary Arabic",
+	"type": "Course"
 }

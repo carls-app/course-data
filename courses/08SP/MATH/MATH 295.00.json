@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "19999",
 	"tags": [],
-	"title": "Seminar - Set Theory"
+	"title": "Seminar - Set Theory",
+	"type": "Course"
 }

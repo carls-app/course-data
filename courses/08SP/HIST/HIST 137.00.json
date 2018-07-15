@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -52,34 +47,14 @@
 	"summary": null,
 	"synonym": "18123",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"HISTANCNT/MDVL",
+		"FRSTHIST",
+		"FRSTSUPP",
+		"MARSSUPP"
 	],
-	"title": "Before Eur: Early Medvl World"
+	"title": "Before Eur: Early Medvl World",
+	"type": "Course"
 }

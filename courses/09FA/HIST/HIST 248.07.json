@@ -8,11 +8,12 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "248.07",
+	"number": "248",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Enrollment in OCS program",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "23059",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		}
+		"HISTERLYMODEUR",
+		"EUSTCNTRY",
+		"GERMPERT"
 	],
-	"title": "Berlin Program: A German Crucible of European and Global Culture"
+	"title": "Berlin Program: A German Crucible of European and Global Culture",
+	"type": "Course"
 }

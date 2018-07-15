@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "11411",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "American Transcendentalism"
+	"title": "American Transcendentalism",
+	"type": "Course"
 }

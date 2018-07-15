@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen T Campagna-Pinto"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Religious Autobiography"
+	"title": "Religious Autobiography",
+	"type": "Course"
 }

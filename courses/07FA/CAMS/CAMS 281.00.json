@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "19052",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
-	"title": "Photography As New Media"
+	"title": "Photography As New Media",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Japanese 206 or the equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -41,26 +39,12 @@
 	"summary": "Introduction to the poetry of Takamura Kotaro, Hagiwara Sakutaro, Miyazawa Kenji, and others, plus one contemporary one-act play, to be read and performed; some consideration of the conventions of both genres. Discussion in Japanese.",
 	"synonym": "27873",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"EASTSUPP",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ENGLLOE",
+		"ASSTAL"
 	],
-	"title": "Advanced Reading in Modern Japanese Literature: Poetry and Drama"
+	"title": "Advanced Reading in Modern Japanese Literature: Poetry and Drama",
+	"type": "Course"
 }

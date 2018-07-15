@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1192",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

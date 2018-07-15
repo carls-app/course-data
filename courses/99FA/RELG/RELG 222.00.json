@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jon Armajani"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2626",
 	"tags": [],
-	"title": "The Islamic Revival"
+	"title": "The Islamic Revival",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 35,
@@ -48,14 +46,9 @@
 	"summary": null,
 	"synonym": "497",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Epic in Classical Antiquity"
+	"title": "Epic in Classical Antiquity",
+	"type": "Course"
 }

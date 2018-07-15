@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "22007",
 	"tags": [],
-	"title": "From Beethoven to Ben Folds"
+	"title": "From Beethoven to Ben Folds",
+	"type": "Course"
 }

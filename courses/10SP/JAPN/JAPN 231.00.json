@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -36,22 +37,11 @@
 	"summary": "This course examines the extraordinary achievement of Japanese cinema, from the classic films of Mizoguchi, Ozu, and Kurosawa to the pop cinema of Kitano and the phenomenon of anime. The films will be studied for their aesthetic, cultural, and auteur contexts. Particular attention will be paid to the relationship of the film to traditional arts, culture and society. This course is conducted in English and all the course materials are in English translation or in English subtitles.",
 	"synonym": "24303",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Japanese Cinema in Translation"
+	"title": "Japanese Cinema in Translation",
+	"type": "Course"
 }

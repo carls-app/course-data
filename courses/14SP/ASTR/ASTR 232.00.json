@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Physics 228, 229 & 230 or instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "A study of stellar structure and evolution with an emphasis on the physical principles underlying the observed phenomena. Topics include the birth, evolution, and death of stars, pulsars, black holes, and white dwarfs.",
 	"synonym": "34530",
 	"tags": [],
-	"title": "Astrophysics I"
+	"title": "Astrophysics I",
+	"type": "Course"
 }

@@ -9,16 +9,14 @@
 		"Donna Ricks",
 		"Mikki Showers"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 40,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "16858",
 	"tags": [],
-	"title": "Cross Country Intercollegiate"
+	"title": "Cross Country Intercollegiate",
+	"type": "Course"
 }

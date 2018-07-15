@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11949",
 	"tags": [],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

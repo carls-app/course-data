@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tina Garrett"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 328",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 28,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "6779",
 	"tags": [],
-	"title": "Calculus I with Review (2)"
+	"title": "Calculus I with Review (2)",
+	"type": "Course"
 }

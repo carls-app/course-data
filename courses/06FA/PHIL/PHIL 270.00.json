@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "16436",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"PHILCORE"
 	],
-	"title": "Ancient Philosophy"
+	"title": "Ancient Philosophy",
+	"type": "Course"
 }

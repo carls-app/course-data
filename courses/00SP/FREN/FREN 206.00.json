@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"tags": [
 		"FRSTLANGLIT"
 	],
-	"title": "Composition and Conversation"
+	"title": "Composition and Conversation",
+	"type": "Course"
 }

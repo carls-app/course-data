@@ -9,7 +9,7 @@
 		"Linda K Rossi",
 		"David Lefkowitz"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "16347",
 	"tags": [],
-	"title": "Junior Seminar"
+	"title": "Junior Seminar",
+	"type": "Course"
 }

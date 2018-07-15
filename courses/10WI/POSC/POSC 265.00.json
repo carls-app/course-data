@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -41,22 +42,11 @@
 	"summary": "This course examines the interaction of national politics and international economic activity. Topics include the relationship between national and international finance, global competitiveness, and economic development. Case studies drawn from every continent.",
 	"synonym": "24055",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"CCSTGLOBAL",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS"
 	],
-	"title": "Capitalist Crises, Power, and Policy"
+	"title": "Capitalist Crises, Power, and Policy",
+	"type": "Course"
 }

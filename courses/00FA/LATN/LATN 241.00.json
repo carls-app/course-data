@@ -8,7 +8,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -41,5 +42,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Petronius"
+	"title": "Petronius",
+	"type": "Course"
 }

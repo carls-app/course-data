@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "339.02",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 6,
 		"total": 6,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "30633",
 	"tags": [],
-	"title": "Survey-Instrument Chem Analys"
+	"title": "Survey-Instrument Chem Analys",
+	"type": "Course"
 }

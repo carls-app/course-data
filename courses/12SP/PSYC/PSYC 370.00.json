@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah H Meerts"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Psychology 110 and 216",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": "This seminar will provide an in depth look at a specific research area to explore how the brain is involved in the expression of motivated behaviors like reproduction and parenting. Readings will primarily come from empirical research articles. Discussions will be used to reflect on societal views of sexuality, sex differences and brain function.",
 	"synonym": "28911",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Neurobiology of Motivated Behaviors"
+	"title": "Neurobiology of Motivated Behaviors",
+	"type": "Course"
 }

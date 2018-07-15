@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "259.01",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Olin 112",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "17899",
 	"tags": [],
-	"title": "Lab Rsrch Meth/Soc Cognition"
+	"title": "Lab Rsrch Meth/Soc Cognition",
+	"type": "Course"
 }

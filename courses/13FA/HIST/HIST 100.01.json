@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -52,30 +47,13 @@
 	"summary": null,
 	"synonym": "35931",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"AFAMDISTROHU",
+		"HISTUS",
+		"HISTAFRICA",
+		"HISTATLANTWRLD",
+		"AFAMHUMANINQ",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

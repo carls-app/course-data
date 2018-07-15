@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2021",
 	"tags": [],
-	"title": "Folk Dance"
+	"title": "Folk Dance",
+	"type": "Course"
 }

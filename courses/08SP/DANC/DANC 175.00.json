@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "19267",
 	"tags": [],
-	"title": "Architectural Dances"
+	"title": "Architectural Dances",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "112.02",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"AMSTTOPICAL1",
 		"LITFORLANG"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

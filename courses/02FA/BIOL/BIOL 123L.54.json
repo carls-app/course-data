@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "123L.54",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3353",
 	"tags": [],
-	"title": "Intro I:Energetics&Genetic Lab"
+	"title": "Intro I:Energetics&Genetic Lab",
+	"type": "Lab"
 }

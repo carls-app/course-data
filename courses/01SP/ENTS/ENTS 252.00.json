@@ -9,7 +9,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 24,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "2317",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Aquatic Biology"
+	"title": "Aquatic Biology",
+	"type": "Course"
 }

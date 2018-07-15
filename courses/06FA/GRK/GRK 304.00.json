@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "304.00",
+	"number": "304",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "15928",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLLOE",
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Greek Tragedy"
+	"title": "Greek Tragedy",
+	"type": "Course"
 }

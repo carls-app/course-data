@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parker J Palmer"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "10249",
 	"tags": [],
-	"title": "Philosophies of Education"
+	"title": "Philosophies of Education",
+	"type": "Course"
 }

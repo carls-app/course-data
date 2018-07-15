@@ -9,7 +9,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -44,5 +42,6 @@
 	"summary": "A physical exploration at the introductory level of the elements of dance: time, motion, space, shape and energy. Students are challenged physically as they increase their bodily awareness, balance, control, strength and flexibility and get a glimpse of the art of dance.",
 	"synonym": "26287",
 	"tags": [],
-	"title": "Modern Dance I: Technique and Theory"
+	"title": "Modern Dance I: Technique and Theory",
+	"type": "Course"
 }

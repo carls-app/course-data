@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brad Lewis"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "8756",
 	"tags": [],
-	"title": "Econ of Financial Markets"
+	"title": "Econ of Financial Markets",
+	"type": "Course"
 }

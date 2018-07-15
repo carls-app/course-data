@@ -6,7 +6,7 @@
 	"instructors": [
 		"Henriette Warren"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2322",
 	"tags": [],
-	"title": "Marriage & Family Studies"
+	"title": "Marriage & Family Studies",
+	"type": "Course"
 }

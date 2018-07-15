@@ -8,7 +8,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 10,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1258",
 	"tags": [],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

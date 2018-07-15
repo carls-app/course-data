@@ -9,7 +9,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -44,5 +42,6 @@
 	"summary": "A continuation of Level I with more emphasis on the development of technique and expressive qualities.",
 	"synonym": "26280",
 	"tags": [],
-	"title": "Modern Dance II: Technique and Theory"
+	"title": "Modern Dance II: Technique and Theory",
+	"type": "Course"
 }

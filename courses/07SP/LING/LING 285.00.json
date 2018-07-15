@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yukinori Takubo"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15870",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		}
+		"ASSTPERT"
 	],
-	"title": "Modern Japanese Grammar"
+	"title": "Modern Japanese Grammar",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3537",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Behavioral Neuroscience"
+	"title": "Behavioral Neuroscience",
+	"type": "Course"
 }

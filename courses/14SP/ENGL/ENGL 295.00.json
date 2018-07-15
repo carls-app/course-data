@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: One English Foundations course and one prior 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -47,5 +42,6 @@
 	"summary": "Required of students majoring in English, this course explores practical and theoretical issues in literary analysis and contemporary criticism. Not open to first year students.",
 	"synonym": "35344",
 	"tags": [],
-	"title": "Critical Methods"
+	"title": "Critical Methods",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15280",
 	"tags": [],
-	"title": "Digital Storytelling"
+	"title": "Digital Storytelling",
+	"type": "Course"
 }

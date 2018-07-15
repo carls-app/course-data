@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cynthia J Kauffeld"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "1796",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

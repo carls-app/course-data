@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "110.08",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "08",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "24861",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"HISTASIA",
+		"ASSTSOUTH"
 	],
-	"title": "Gandhi & Nat'l in India"
+	"title": "Gandhi & Nat'l in India",
+	"type": "Course"
 }

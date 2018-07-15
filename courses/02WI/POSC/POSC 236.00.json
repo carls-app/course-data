@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kanishkan Sathasivam"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "1086",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "National Security Policy"
+	"title": "National Security Policy",
+	"type": "Course"
 }

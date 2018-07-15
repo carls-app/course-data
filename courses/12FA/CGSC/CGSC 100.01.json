@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		}
+		"WR1",
+		"AI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -52,10 +47,8 @@
 	"summary": null,
 	"synonym": "33206",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "How We Make Important Decisions"
+	"title": "How We Make Important Decisions",
+	"type": "Course"
 }

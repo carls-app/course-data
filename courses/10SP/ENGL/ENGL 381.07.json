@@ -8,11 +8,12 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "381.07",
+	"number": "381",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "23094",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLHE1",
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"ENGL1",
+		"MARSSUPP"
 	],
-	"title": "Early Modn City, 1400-1650"
+	"title": "Early Modn City, 1400-1650",
+	"type": "Course"
 }

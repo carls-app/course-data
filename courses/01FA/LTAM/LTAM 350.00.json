@@ -9,7 +9,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"LTAMLIT",
 		"LTAMELECTIVE"
 	],
-	"title": "Recent Trends:Pop Culture&Test"
+	"title": "Recent Trends:Pop Culture&Test",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 254"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "19349",
 	"tags": [],
-	"title": "Meth Literacy Instruction"
+	"title": "Meth Literacy Instruction",
+	"type": "Course"
 }

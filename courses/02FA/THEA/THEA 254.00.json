@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl Brown"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "5627",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "African American Drama"
+	"title": "African American Drama",
+	"type": "Course"
 }

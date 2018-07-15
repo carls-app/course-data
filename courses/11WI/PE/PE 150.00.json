@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "This is a course in techniques of spontaneous dancing shared by two or more people through a common point of physical contact. Basic skills such as support, counterbalance, rolling, falling and flying will be taught and developed in an environment of mutual creativity.",
 	"synonym": "26369",
 	"tags": [],
-	"title": "Contact Improvisation"
+	"title": "Contact Improvisation",
+	"type": "Course"
 }

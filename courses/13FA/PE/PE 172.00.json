@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "172.00",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"West Gym 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -41,5 +39,6 @@
 	"summary": "Designed for the accomplished swimmer who desires a vigorous workout as a means of improving or maintaining cardiovascular fitness. Instruction covers stroke mechanics, drills, use of training equipment and general workout design. Students must have the ability to swim front crawl, backstroke, and breaststroke.",
 	"synonym": "34663",
 	"tags": [],
-	"title": "Swimming, Fitness"
+	"title": "Swimming, Fitness",
+	"type": "Course"
 }

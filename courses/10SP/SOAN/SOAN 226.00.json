@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": "This course examines gender and gender relations from an anthropological perspective. We discuss such key concepts as gender, voice/mutedness, status, public and private spheres, and the gendered division of labor, and explore the intellectual history of these terms and how they have been used. The course focuses on two areas: 1) the role of sex, sexuality, and procreation in creating cultural notions of gender, and 2) the impacts of colonialism, globalization, and economic underdevelopment on Third World women. Readings include both theoretical articles and ethnographic case studies from around the world.",
 	"synonym": "24456",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"CCSTGLOBAL",
+		"WGSTADDL",
+		"AFAMPERT"
 	],
-	"title": "Anthropology of Gender"
+	"title": "Anthropology of Gender",
+	"type": "Course"
 }

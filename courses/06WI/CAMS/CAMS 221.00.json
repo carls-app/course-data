@@ -7,7 +7,7 @@
 		"John Schott",
 		"Paul Hager"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Scoville SDIO"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 18,
@@ -37,14 +38,9 @@
 	"summary": null,
 	"synonym": "14224",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Fiction Video Production"
+	"title": "Fiction Video Production",
+	"type": "Course"
 }

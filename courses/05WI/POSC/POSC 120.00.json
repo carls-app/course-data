@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "9757",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "7007",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTTOPICAL1",
+		"ENGL4",
+		"CCSTREGIONAL",
+		"LITFORLANG"
 	],
-	"title": "Contemporary Latino/a Poetry"
+	"title": "Contemporary Latino/a Poetry",
+	"type": "Course"
 }

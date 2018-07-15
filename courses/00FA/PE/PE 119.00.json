@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gerald L Young"
 	],
-	"number": "119.00",
+	"number": "119",
 	"offerings": {
 		"locations": [
 			"West Gym CLAS"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 35,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "892",
 	"tags": [],
-	"title": "Cycling, Recreational"
+	"title": "Cycling, Recreational",
+	"type": "Course"
 }

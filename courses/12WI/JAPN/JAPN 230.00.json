@@ -8,7 +8,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -48,22 +46,11 @@
 	"summary": "A topical focus on Japanese poetry and prose from different ages before 1868, with attention to literary, aesthetic, and cultural tradition, and to the relationship between text and society. Consideration of reading strategies appropriate to Japanese literature in translation, and some inquiry into the art and the process of literary translation.",
 	"synonym": "29770",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"EASTSUPP",
+		"ASSTPERT",
+		"ASSTEAST"
 	],
-	"title": "Topics in Pre-Modern Literature in Translation"
+	"title": "Topics in Pre-Modern Literature in Translation",
+	"type": "Course"
 }

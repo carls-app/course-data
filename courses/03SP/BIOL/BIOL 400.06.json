@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.06",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "06",
 	"size": {
 		"registered": 1,
 		"total": 30,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "8601",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

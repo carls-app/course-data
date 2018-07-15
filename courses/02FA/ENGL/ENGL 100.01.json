@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3956",
 	"tags": [],
-	"title": "The Narrative Creation of Self"
+	"title": "The Narrative Creation of Self",
+	"type": "Course"
 }

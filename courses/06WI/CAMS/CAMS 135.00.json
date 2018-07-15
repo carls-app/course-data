@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "13480",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"AMSTTOPICAL1",
+		"AMSTSURVEY1",
+		"CAMSELECTIVE"
 	],
-	"title": "American Film History"
+	"title": "American Film History",
+	"type": "Course"
 }

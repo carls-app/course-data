@@ -9,7 +9,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "655",
 	"tags": [],
-	"title": "Directing"
+	"title": "Directing",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course examines the relationship between globalization, gender and militarism to understand how globalization and militarism are gendered, and processes through which gender becomes globalized and militarized. We will focus on the field of transnational feminist theorizing which both \"genders the international\" and \"internationalizes gender.\" We will take up the different theoretical and disciplinary approaches to this project, as well as the perspectives and methods put forth for studying gender, race and class transnationally. We will explore how economic development, human rights, and the politics of resistance (particularly in the NGO sector) are gendered.",
 	"synonym": "28036",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"POSI-LPS",
+		"POSIELECTIVE",
+		"WGSTADDL"
 	],
-	"title": "Gender, Globalization and War"
+	"title": "Gender, Globalization and War",
+	"type": "Course"
 }

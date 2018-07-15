@@ -10,7 +10,7 @@
 		"Susan R Singer",
 		"Sarah Deel"
 	],
-	"number": "125.01",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -46,6 +46,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 53,
 		"total": 60,
@@ -55,10 +56,8 @@
 	"summary": null,
 	"synonym": "9278",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Intro: Genes & Evolution"
+	"title": "Intro: Genes & Evolution",
+	"type": "Course"
 }

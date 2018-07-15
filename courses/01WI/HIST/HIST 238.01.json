@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.01",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "1935",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"WGSTADDL",
+		"HISTEUR1450",
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"FRSTHIST"
 	],
-	"title": "Gender&Ethics-Medieval France"
+	"title": "Gender&Ethics-Medieval France",
+	"type": "Course"
 }

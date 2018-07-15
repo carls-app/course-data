@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235",
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 36,
@@ -44,14 +42,9 @@
 	"summary": null,
 	"synonym": "35231",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC"
 	],
-	"title": "Human Physiology"
+	"title": "Human Physiology",
+	"type": "Course"
 }

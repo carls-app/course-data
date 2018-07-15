@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "192.00",
+	"number": "192",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "12755",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "African Drum Ensemble"
+	"title": "African Drum Ensemble",
+	"type": "Course"
 }

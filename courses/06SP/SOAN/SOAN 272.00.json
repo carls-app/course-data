@@ -8,7 +8,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13261",
 	"tags": [],
-	"title": "Ethnicity and Race"
+	"title": "Ethnicity and Race",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ping Fu"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "4757",
 	"tags": [],
-	"title": "Chinese Cinema"
+	"title": "Chinese Cinema",
+	"type": "Course"
 }

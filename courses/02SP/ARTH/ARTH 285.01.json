@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "285.01",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 0,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "544",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		}
+		"AMSTTOPICAL1",
+		"MARSSUPP",
+		"MARSCAP"
 	],
-	"title": "Topics: Cezanne"
+	"title": "Topics: Cezanne",
+	"type": "Course"
 }

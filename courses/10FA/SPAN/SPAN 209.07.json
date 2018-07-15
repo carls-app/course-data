@@ -8,20 +8,15 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "209.07",
+	"number": "209",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or higher",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -31,30 +26,13 @@
 	"summary": null,
 	"synonym": "26625",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		}
+		"SPAN205-209",
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"ENGLFORLIT",
+		"ENGLLOE",
+		"SPAN204-219"
 	],
-	"title": "Madrid Program: Contemporary Spanish History"
+	"title": "Madrid Program: Contemporary Spanish History",
+	"type": "Course"
 }

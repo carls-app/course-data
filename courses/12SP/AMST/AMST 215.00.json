@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": "How has the U.S. historically and culturally handled diversity? This course looks at how difference has been negotiated, understood, legislated, represented. We will consider theoretical interventions into issues of race, ethnicity, gender, sexuality, and disability in order to better understand how embodiment matters to understandings of Americaness.",
 	"synonym": "29656",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"AMMUGROUP3",
+		"AMSTTOPICAL2",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Diverse Bodies, One Nation"
+	"title": "Diverse Bodies, One Nation",
+	"type": "Course"
 }

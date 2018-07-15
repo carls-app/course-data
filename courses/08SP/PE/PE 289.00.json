@@ -9,16 +9,14 @@
 		"Donna Ricks",
 		"Keren A Gudeman"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 45,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "18962",
 	"tags": [],
-	"title": "Outdoor Track Intercollegiate"
+	"title": "Outdoor Track Intercollegiate",
+	"type": "Course"
 }

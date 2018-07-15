@@ -6,7 +6,7 @@
 	"instructors": [
 		"Norris Armstrong"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2553",
 	"tags": [],
-	"title": "Developmental Genetics"
+	"title": "Developmental Genetics",
+	"type": "Course"
 }

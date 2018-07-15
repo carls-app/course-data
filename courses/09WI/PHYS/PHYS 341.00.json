@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 16,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "20933",
 	"tags": [],
-	"title": "Waves"
+	"title": "Waves",
+	"type": "Course"
 }

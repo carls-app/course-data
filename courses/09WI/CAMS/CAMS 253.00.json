@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shawn VanCour"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21618",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "History of Sound Reproduction"
+	"title": "History of Sound Reproduction",
+	"type": "Course"
 }

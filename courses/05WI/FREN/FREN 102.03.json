@@ -8,7 +8,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "102.03",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "10731",
 	"tags": [],
-	"title": "Elementary French"
+	"title": "Elementary French",
+	"type": "Course"
 }

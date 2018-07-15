@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13598",
 	"tags": [],
-	"title": "Archaeology of Greece"
+	"title": "Archaeology of Greece",
+	"type": "Course"
 }

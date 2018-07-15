@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sheila Wright"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "201",
 	"tags": [],
-	"title": "Social Factors in Urban Educ"
+	"title": "Social Factors in Urban Educ",
+	"type": "Course"
 }

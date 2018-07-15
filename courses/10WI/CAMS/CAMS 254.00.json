@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shawn VanCour"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": "How do new media come into being? What competing technologies and uses of them are proposed, what hope and fears surround them, and how do they find an enduring place in our society? This course surveys a growing body of historical and theoretical work on processes of media emergence past and present, from the beginnings of the newspaper, telephone, and telegraph, to the cinema, radio, television, internet, and beyond. Final paper required.",
 	"synonym": "24659",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "History and Theory of Emerging Media: From Newspapers to the Net"
+	"title": "History and Theory of Emerging Media: From Newspapers to the Net",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1065",
 	"tags": [],
-	"title": "Mind & Knowledge: Cartesian"
+	"title": "Mind & Knowledge: Cartesian",
+	"type": "Course"
 }

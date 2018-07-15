@@ -9,7 +9,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2590",
 	"tags": [],
-	"title": "Methods of Teaching Science"
+	"title": "Methods of Teaching Science",
+	"type": "Course"
 }

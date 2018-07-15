@@ -9,7 +9,7 @@
 	"instructors": [
 		"Rachel F Seidman"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 50,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "2701",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "American Social Hist to 1865"
+	"title": "American Social Hist to 1865",
+	"type": "Course"
 }

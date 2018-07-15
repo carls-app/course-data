@@ -8,7 +8,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "355.01",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Mudd B68"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 3,
 		"total": 4,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6612",
 	"tags": [],
-	"title": "Lasers and Spectroscopy Lab"
+	"title": "Lasers and Spectroscopy Lab",
+	"type": "Course"
 }

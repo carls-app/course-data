@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joel A Schlosser"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "19576",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL"
 	],
-	"title": "Constitutional Law I"
+	"title": "Constitutional Law I",
+	"type": "Course"
 }

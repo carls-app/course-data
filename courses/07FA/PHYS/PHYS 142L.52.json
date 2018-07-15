@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "142L.52",
+	"number": "142L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17723",
 	"tags": [],
-	"title": "Matter and Interactions Lab"
+	"title": "Matter and Interactions Lab",
+	"type": "Lab"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Misty L Heggeness"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -36,54 +37,19 @@
 	"summary": "This course explores household behavior in developing countries. We will cover areas including fertility decisions, health and mortality, investment in education, the intra-household allocation of resources, household structure, and the marriage market. We will also look at the characteristics of land, labor, and credit markets, particularly technology adoption; land tenure and tenancy arrangements; the role of agrarian institutions in the development process; and the impacts of alternative politics and strategies in developing countries. The course complements Economics 241.",
 	"synonym": "24736",
 	"tags": [
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"ENTSCDSCP",
+		"LTAMELECTIVE",
+		"LTAMSOCSCI",
+		"AFAMPERT",
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"ASSTCENT",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"LTAMPERT",
+		"POSI-GDS"
 	],
-	"title": "Microeconomics of Development"
+	"title": "Microeconomics of Development",
+	"type": "Course"
 }

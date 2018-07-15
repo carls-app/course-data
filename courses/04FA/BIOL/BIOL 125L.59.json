@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "125L.59",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "9282",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meherun Ahmed"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "15728",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE"
 	],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

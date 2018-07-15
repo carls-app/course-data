@@ -6,7 +6,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 40,
@@ -46,10 +44,8 @@
 	"summary": "Biochemistry is an examination of the molecular basis of life processes. The course provides an in depth investigation of metabolic pathways, their interrelationships and regulation, protein structure and function with special emphasis on enzymes. Other topics include the techniques of protein analysis and how they are employed to examine problems of fundamental biochemical importance. This course meets the requirement for the Biochemistry concentration.",
 	"synonym": "35205",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
-	"title": "Biochemistry"
+	"title": "Biochemistry",
+	"type": "Course"
 }

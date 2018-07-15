@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine E Walden"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course or instuctor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "This course investigates the origins and development of Islamic art and architecture from the seventh to the sixteenth centuries, with a particular focus on the Mediterranean basin. Under Muslim rule, patrons and artists produced a distinctive and sophisticated visual culture in religious and secular contexts. Topics to be addressed include the expression of cultural and religious identity through visual arts; palace architecture and Islamic court culture; the development of sacred spaces; and cross-cultural exchange with the Byzantine Empire and the Christian west through trade, travel, and at specific sites such as Islamic Spain, Norman Sicily, and Crusader Palestine.",
 	"synonym": "37097",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Islamic Art and the Medieval Mediterranean"
+	"title": "Islamic Art and the Medieval Mediterranean",
+	"type": "Course"
 }

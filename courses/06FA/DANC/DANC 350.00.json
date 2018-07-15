@@ -9,7 +9,7 @@
 		"Mary M Easter",
 		"Jane Shockley"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "16528",
 	"tags": [],
-	"title": "Semaphore Repertory Dance Comp"
+	"title": "Semaphore Repertory Dance Comp",
+	"type": "Course"
 }

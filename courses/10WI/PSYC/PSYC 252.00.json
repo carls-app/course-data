@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": "Prerequisite: Psychology 110 or consent of the instructor",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -42,10 +43,8 @@
 	"summary": "An examination of analytic models that attempt to characterize and explain aspects of behavior, thought, and emotion that are central to our conceptions of ourselves as distinctly human beings and as individuals. Original theoretical statements and relevant empirical literature will be consulted. Prerequisite: Psychology 110 or consent of the instructor.",
 	"synonym": "23639",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Personality"
+	"title": "Personality",
+	"type": "Course"
 }

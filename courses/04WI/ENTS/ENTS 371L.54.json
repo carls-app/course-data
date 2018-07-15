@@ -9,7 +9,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "371L.54",
+	"number": "371L",
 	"offerings": {
 		"locations": [
 			"Mudd 77"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "6955",
 	"tags": [],
-	"title": "Geochemistry Laboratory"
+	"title": "Geochemistry Laboratory",
+	"type": "Lab"
 }

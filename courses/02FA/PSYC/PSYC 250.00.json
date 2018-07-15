@@ -6,7 +6,7 @@
 	"instructors": [
 		"Henriette Warren"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "3491",
 	"tags": [],
-	"title": "Developmental Psychology"
+	"title": "Developmental Psychology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew R Gainer-Dewar"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Requires placement via the Calculus Placement Exam 1, see Mathematics web page. Not open to students who have received credit for Mathematics 101.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "An introduction to the differential and integral calculus. Derivatives, antiderivatives, the definite integral, applications, and the fundamental theorem of calculus.",
 	"synonym": "31741",
 	"tags": [],
-	"title": "Introduction to Calculus"
+	"title": "Introduction to Calculus",
+	"type": "Course"
 }

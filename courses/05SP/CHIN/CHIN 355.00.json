@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "11806",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Cont Chnse Short Stories/Films"
+	"title": "Cont Chnse Short Stories/Films",
+	"type": "Course"
 }

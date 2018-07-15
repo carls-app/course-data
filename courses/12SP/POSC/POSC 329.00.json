@@ -7,7 +7,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,16 +27,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 15,
@@ -46,34 +41,14 @@
 	"summary": null,
 	"synonym": "30415",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AMSTTOPICAL3",
+		"ASSTSS",
+		"ASSTEAST",
+		"POSIADVSEM",
+		"POSI-LPS",
+		"POSCADVSEM",
+		"POSIELECTIVE"
 	],
-	"title": "Vietnam and American Policy*"
+	"title": "Vietnam and American Policy*",
+	"type": "Course"
 }

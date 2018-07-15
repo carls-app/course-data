@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2599",
 	"tags": [],
-	"title": "Senior Tutorial"
+	"title": "Senior Tutorial",
+	"type": "Course"
 }

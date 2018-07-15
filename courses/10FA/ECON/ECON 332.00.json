@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite:",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "26945",
 	"tags": [],
-	"title": "Econometrics"
+	"title": "Econometrics",
+	"type": "Course"
 }

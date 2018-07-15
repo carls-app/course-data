@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": "This course focuses on transnational feminist activism in an era of globalization, militarism and religious fundamentalism. We will learn about the debates around different theories of social change, the challenges and pitfalls of global sisterhood and the various \"pedagogies of crossing\" borders. We will explore case studies of how feminists have collaborated, built networks, mobilized resources and coalitions for collective action, in addition to the obstacles and constraints they have encountered and surmounted in their search for gender and sexual justice.",
 	"synonym": "23695",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"AFAMPERT",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Transnational Feminist Activism"
+	"title": "Transnational Feminist Activism",
+	"type": "Course"
 }

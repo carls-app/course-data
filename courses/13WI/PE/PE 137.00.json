@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "Fundamental skills of indoor soccer are introduced. Skills will be developed using exercises, small-sided games and other methods. Rules and strategy will be introduced and full-sided games will be incorporated into each session. There is an emphasis on teamwork and enjoyment of the game.",
 	"synonym": "31563",
 	"tags": [],
-	"title": "Indoor Soccer"
+	"title": "Indoor Soccer",
+	"type": "Course"
 }

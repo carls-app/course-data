@@ -9,7 +9,7 @@
 		"John Schott",
 		"Paul Hager"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "13473",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Intro to Video Production"
+	"title": "Intro to Video Production",
+	"type": "Course"
 }

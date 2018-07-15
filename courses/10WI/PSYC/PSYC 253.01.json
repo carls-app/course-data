@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "253.01",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Olin 112",
@@ -30,6 +30,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 252",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": "A laboratory to be taken concurrently with Psychology 252, to undertake research on topics in personality.",
 	"synonym": "23640",
 	"tags": [],
-	"title": "Research Methods in Personality Laboratory"
+	"title": "Research Methods in Personality Laboratory",
+	"type": "Course"
 }

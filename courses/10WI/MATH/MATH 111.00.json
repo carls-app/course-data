@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Requires placement via the Calculus Placement Exam 1, see Mathematics web page. Not open to students who have received credit for Mathematics 101.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "An introduction to the differential and integral calculus. Derivatives, antiderivatives, the definite integral, applications, and the fundamental theorem of calculus.",
 	"synonym": "23241",
 	"tags": [],
-	"title": "Introduction to Calculus"
+	"title": "Introduction to Calculus",
+	"type": "Course"
 }

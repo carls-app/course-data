@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "115L.52",
+	"number": "115L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "27587",
 	"tags": [],
-	"title": "Paleoclimate Studies Lab"
+	"title": "Paleoclimate Studies Lab",
+	"type": "Lab"
 }

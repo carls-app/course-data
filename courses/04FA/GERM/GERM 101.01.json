@@ -8,7 +8,7 @@
 	"instructors": [
 		"Leo W Riegert"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "10773",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

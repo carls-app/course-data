@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helen M Wong"
 	],
-	"number": "211.02",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 121 or placement via Calculus Placement Exam #3",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Vectors, curves, partial derivatives, gradient, multiple and iterated integrals, line integrals, Green's theorem.",
 	"synonym": "34984",
 	"tags": [],
-	"title": "Introduction to Multivariable Calculus"
+	"title": "Introduction to Multivariable Calculus",
+	"type": "Course"
 }

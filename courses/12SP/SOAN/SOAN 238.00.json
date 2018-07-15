@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marion R Vance"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "30700",
 	"tags": [],
-	"title": "Poor As Proponents - Rdcl Expt"
+	"title": "Poor As Proponents - Rdcl Expt",
+	"type": "Course"
 }

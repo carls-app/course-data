@@ -10,11 +10,12 @@
 		"Philip Camill",
 		"Clint Cowan"
 	],
-	"number": "283.07",
+	"number": "283",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 32,
 		"total": 40,
@@ -24,10 +25,8 @@
 	"summary": null,
 	"synonym": "12114",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSSCI"
 	],
-	"title": "Coastal Biogeoscience"
+	"title": "Coastal Biogeoscience",
+	"type": "Course"
 }

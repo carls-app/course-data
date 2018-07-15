@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott A Hynek"
 	],
-	"number": "110L.53",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "20408",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

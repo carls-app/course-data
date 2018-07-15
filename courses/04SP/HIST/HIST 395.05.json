@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "395.05",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "8070",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"HISTASIA"
 	],
-	"title": "Topics in East Asian History"
+	"title": "Topics in East Asian History",
+	"type": "Course"
 }

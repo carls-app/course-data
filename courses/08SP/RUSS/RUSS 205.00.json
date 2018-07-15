@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19100",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Russian in Cultural Contexts"
+	"title": "Russian in Cultural Contexts",
+	"type": "Course"
 }

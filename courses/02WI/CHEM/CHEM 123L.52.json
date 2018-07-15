@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "123L.52",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Mudd 260"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "415",
 	"tags": [],
-	"title": "Principles of Chemistry Lab"
+	"title": "Principles of Chemistry Lab",
+	"type": "Lab"
 }

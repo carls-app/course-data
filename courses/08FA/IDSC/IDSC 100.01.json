@@ -9,7 +9,7 @@
 		"Stephen Mohring",
 		"David R Musicant"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Boliou 025"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "20308",
 	"tags": [],
-	"title": "Art, Interactivity & Robotics"
+	"title": "Art, Interactivity & Robotics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "21168",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"CCSTETHNIC",
+		"AFAMDISTROHU"
 	],
-	"title": "Civil Rights Movement"
+	"title": "Civil Rights Movement",
+	"type": "Course"
 }

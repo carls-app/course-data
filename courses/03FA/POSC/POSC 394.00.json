@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "7461",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Logic of Inquiry"
+	"title": "Logic of Inquiry",
+	"type": "Course"
 }

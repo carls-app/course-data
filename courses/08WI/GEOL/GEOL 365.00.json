@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "17948",
 	"tags": [],
-	"title": "Structural Geology"
+	"title": "Structural Geology",
+	"type": "Course"
 }

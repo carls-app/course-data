@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "18093",
 	"tags": [
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"RELGPERT",
+		"HISTANCNT/MDVL",
+		"MARSCAP",
+		"EUSTTRANNATL"
 	],
-	"title": "Iconoclasm"
+	"title": "Iconoclasm",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "1802",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"AMSTTOPICAL1",
+		"WGSTCORE"
 	],
-	"title": "Witness Narr:Memoirs-Survival"
+	"title": "Witness Narr:Memoirs-Survival",
+	"type": "Course"
 }

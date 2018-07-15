@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "126L.59",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 17,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9586",
 	"tags": [],
-	"title": "Phys Instrumentation Lab"
+	"title": "Phys Instrumentation Lab",
+	"type": "Lab"
 }

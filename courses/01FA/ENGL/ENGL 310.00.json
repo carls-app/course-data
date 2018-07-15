@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"ENGL1",
 		"LITFORLANG"
 	],
-	"title": "Shakespre I: Hist & Comedies"
+	"title": "Shakespre I: Hist & Comedies",
+	"type": "Course"
 }

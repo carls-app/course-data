@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melvin L Rogers"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "12503",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"CCSTREGIONAL",
+		"CCSTGLOBAL",
+		"FRSTELEC",
+		"FRSTSUPP"
 	],
-	"title": "Post-Modern Political Thought"
+	"title": "Post-Modern Political Thought",
+	"type": "Course"
 }

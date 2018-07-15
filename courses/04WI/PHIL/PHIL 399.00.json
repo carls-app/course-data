@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "7854",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

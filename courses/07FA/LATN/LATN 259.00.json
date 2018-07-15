@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "19594",
 	"tags": [],
-	"title": "Seminar:Virgil"
+	"title": "Seminar:Virgil",
+	"type": "Course"
 }

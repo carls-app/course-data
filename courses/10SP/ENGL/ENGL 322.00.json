@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "23193",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLT1",
+		"ENGLHE2",
+		"ENGL2",
+		"LITFORLANG",
+		"EUSTCNTRY"
 	],
-	"title": "The Art of Jane Austen"
+	"title": "The Art of Jane Austen",
+	"type": "Course"
 }

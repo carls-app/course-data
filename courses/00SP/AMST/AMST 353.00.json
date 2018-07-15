@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Feminist&Amer Separatist Mvmnt"
+	"title": "Feminist&Amer Separatist Mvmnt",
+	"type": "Course"
 }

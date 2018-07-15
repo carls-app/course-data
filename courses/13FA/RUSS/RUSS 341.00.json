@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Russian 205 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -45,10 +40,8 @@
 	"summary": "A survey of representative short stories from the past two hundred years. Works by Gogol, Leskov, Chekhov, Babel, Nabokov, Petrushevskaya, Ulitskaya and others. Conducted in Russian.",
 	"synonym": "36168",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "The Russian Short Story"
+	"title": "The Russian Short Story",
+	"type": "Course"
 }

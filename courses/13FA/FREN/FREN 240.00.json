@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -50,30 +45,13 @@
 	"summary": null,
 	"synonym": "36141",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "FFSTCORE",
-			"name": "FFST Conc Core"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTELEC",
+		"FFSTLIT",
+		"EUSTCNTRY",
+		"ENGLFORLIT",
+		"FFSTCORE",
+		"FRSTELECAL"
 	],
-	"title": "Sexuality & Sagacity"
+	"title": "Sexuality & Sagacity",
+	"type": "Course"
 }

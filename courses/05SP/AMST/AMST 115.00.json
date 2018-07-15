@@ -9,7 +9,7 @@
 		"Deborah Appleman",
 		"Adriana Estill"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 35,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "10822",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "Placing Identities"
+	"title": "Placing Identities",
+	"type": "Course"
 }

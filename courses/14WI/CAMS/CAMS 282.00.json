@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 and 111 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -46,18 +44,10 @@
 	"summary": "Provides students with essential skills for producing and publishing forceful, effective visual communication. We focus on the combination of typography and image in formats such as graphic-intensive print-style publications, posters, still and motion-based typography. Production tools are primarily digital, including Photoshop, Adobe InDesign, Apple iWorks, LiveType and OmniGraffle. Unlike traditional pre-professional graphic design classes that teach a \"design vocabulary,\" this class is predicated on the notion that the best design evolves from one's own specific, real-world design problems. Students read widely in the emerging literature of visual communication and the visualization of information.",
 	"synonym": "35905",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
-	"title": "Graphic Design: Type + Image + Message"
+	"title": "Graphic Design: Type + Image + Message",
+	"type": "Course"
 }

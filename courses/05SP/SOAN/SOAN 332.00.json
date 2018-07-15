@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "10229",
 	"tags": [],
-	"title": "Contemporary Social Theory"
+	"title": "Contemporary Social Theory",
+	"type": "Course"
 }

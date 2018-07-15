@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "18990",
 	"tags": [],
-	"title": "Greek Epigraphy"
+	"title": "Greek Epigraphy",
+	"type": "Course"
 }

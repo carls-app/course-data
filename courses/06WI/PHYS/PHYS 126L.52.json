@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "126L.52",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "12167",
 	"tags": [],
-	"title": "Phys Instrumentation Lab"
+	"title": "Phys Instrumentation Lab",
+	"type": "Lab"
 }

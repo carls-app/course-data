@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "32173",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

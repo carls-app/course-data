@@ -6,7 +6,7 @@
 	"instructors": [
 		"John L Sullivan"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course examines the intersection of politics, personality and social psychology as applied to the analysis of U.S. foreign policy. It investigates the impact of individuals, group processes, political and social cognition, and political context on foreign policy decision-making. It explores questions such as: How do personalities of political leaders affect decision-making? How do processes of group decision making affect outcomes? How do individual differences in social and political perception shape elite decision-making? Case studies will be drawn from major episodes in U.S. foreign policy during the Cold War and post-Cold War era.",
 	"synonym": "36241",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "Political Psychology of Presidential Foreign Policy Decision Making"
+	"title": "Political Psychology of Presidential Foreign Policy Decision Making",
+	"type": "Course"
 }

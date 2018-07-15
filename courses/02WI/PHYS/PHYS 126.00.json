@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1465",
 	"tags": [],
-	"title": "Physics of Lab Instrumentation"
+	"title": "Physics of Lab Instrumentation",
+	"type": "Course"
 }

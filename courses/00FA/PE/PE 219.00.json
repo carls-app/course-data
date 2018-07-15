@@ -6,13 +6,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "3054",
 	"tags": [],
-	"title": "Cycling Club"
+	"title": "Cycling Club",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "29520",
 	"tags": [],
-	"title": "Recorder"
+	"title": "Recorder",
+	"type": "Course"
 }

@@ -8,13 +8,14 @@
 	"instructors": [
 		"William Terriquez"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 40,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "914",
 	"tags": [],
-	"title": "Cross Country Intercollegiate"
+	"title": "Cross Country Intercollegiate",
+	"type": "Course"
 }

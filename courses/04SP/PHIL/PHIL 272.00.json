@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ronald W Loeffler"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7860",
 	"tags": [],
-	"title": "Modern Philosophy"
+	"title": "Modern Philosophy",
+	"type": "Course"
 }

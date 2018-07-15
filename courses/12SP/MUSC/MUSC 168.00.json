@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "168.00",
+	"number": "168",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": "Instruction on orchestral percussion instruments such as snare drum, mallets, and tympani. Equipment available for registered students.",
 	"synonym": "29435",
 	"tags": [],
-	"title": "Orchestral Percussion"
+	"title": "Orchestral Percussion",
+	"type": "Course"
 }

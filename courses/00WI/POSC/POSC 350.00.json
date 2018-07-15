@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2913",
 	"tags": [],
-	"title": "Political Theory of Hobbes"
+	"title": "Political Theory of Hobbes",
+	"type": "Course"
 }

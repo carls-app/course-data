@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "110.06",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2039",
 	"tags": [],
-	"title": "Worlds"
+	"title": "Worlds",
+	"type": "Course"
 }

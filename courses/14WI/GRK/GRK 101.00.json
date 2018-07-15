@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rob Hardy"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": "Study of essential forms and grammar, with reading of connected passages.",
 	"synonym": "36118",
 	"tags": [],
-	"title": "Elementary Greek"
+	"title": "Elementary Greek",
+	"type": "Course"
 }

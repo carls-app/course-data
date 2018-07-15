@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pam Middleton"
 	],
-	"number": "381.01",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17575",
 	"tags": [],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

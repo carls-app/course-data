@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "23714",
 	"tags": [],
-	"title": "Arguing About Politics"
+	"title": "Arguing About Politics",
+	"type": "Course"
 }

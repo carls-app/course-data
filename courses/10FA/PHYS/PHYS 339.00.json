@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Physics 228",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "25997",
 	"tags": [],
-	"title": "Thermal and Statistical Physics I"
+	"title": "Thermal and Statistical Physics I",
+	"type": "Course"
 }

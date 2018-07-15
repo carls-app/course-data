@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara L Gonzalez"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "32828",
 	"tags": [],
-	"title": "Indigenous Archaeology: New Pathways for Collaborative Research"
+	"title": "Indigenous Archaeology: New Pathways for Collaborative Research",
+	"type": "Course"
 }

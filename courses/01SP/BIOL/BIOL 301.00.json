@@ -9,7 +9,7 @@
 		"Matt Rand",
 		"Jennifer C Manion"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 0,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2166",
 	"tags": [],
-	"title": "Sexed Bodies/Sexed Science?"
+	"title": "Sexed Bodies/Sexed Science?",
+	"type": "Course"
 }

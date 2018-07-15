@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "18705",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGLHE2",
+		"ENGL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "Rmnc-Novl:Poe,Hawthorne,James"
+	"title": "Rmnc-Novl:Poe,Hawthorne,James",
+	"type": "Course"
 }

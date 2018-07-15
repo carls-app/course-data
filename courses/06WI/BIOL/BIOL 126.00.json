@@ -9,7 +9,7 @@
 		"John L Tymoczko",
 		"Myrna S Rezcallah"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 60,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "11964",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		}
+		"ENTSINTRO"
 	],
-	"title": "Intro: Energy Flow Biol System"
+	"title": "Intro: Energy Flow Biol System",
+	"type": "Course"
 }

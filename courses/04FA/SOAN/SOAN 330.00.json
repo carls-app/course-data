@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "10199",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTPERT",
+		"ASSTMETH"
 	],
-	"title": "Sociological Thought & Theory"
+	"title": "Sociological Thought & Theory",
+	"type": "Course"
 }

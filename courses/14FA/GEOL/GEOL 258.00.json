@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One introductory (100-level) geology course; GEOL.258L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 18,
@@ -50,26 +45,12 @@
 	"summary": "The study of soil formation, and physical and chemical properties of soils especially as related to geomorphology and land use. Laboratories and field trips will emphasize how to describe and interpret soils.",
 	"synonym": "38188",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ARCNPERT",
-			"name": "Archaeology Pertinent"
-		}
+		"ENTS2ENVSCI",
+		"ENTSLPES",
+		"ENTSFAES",
+		"SPECINTSUSTAIN",
+		"ARCNPERT"
 	],
-	"title": "Geology of Soils"
+	"title": "Geology of Soils",
+	"type": "Course"
 }

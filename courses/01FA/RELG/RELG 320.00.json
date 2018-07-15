@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "918",
 	"tags": [],
-	"title": "Conscience & Community:Challen"
+	"title": "Conscience & Community:Challen",
+	"type": "Course"
 }

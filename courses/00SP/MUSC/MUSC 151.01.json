@@ -8,7 +8,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "151.01",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 100,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3195",
 	"tags": [],
-	"title": "Voice"
+	"title": "Voice",
+	"type": "Course"
 }

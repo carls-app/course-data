@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gretchen E Hofmeister"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 56,
 		"total": 60,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "14958",
 	"tags": [],
-	"title": "Organic Chemistry I"
+	"title": "Organic Chemistry I",
+	"type": "Course"
 }

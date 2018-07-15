@@ -8,7 +8,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "7753",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"CCSTREGIONAL",
+		"LTAMLIT",
+		"LTAMELECTIVE",
+		"LTAM300LIT"
 	],
-	"title": "Texts & Nations: 19th C Ltam"
+	"title": "Texts & Nations: 19th C Ltam",
+	"type": "Course"
 }

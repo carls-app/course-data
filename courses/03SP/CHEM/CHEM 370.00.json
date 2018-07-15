@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert C Rossi"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3586",
 	"tags": [],
-	"title": "Solar Energy Conversion"
+	"title": "Solar Energy Conversion",
+	"type": "Course"
 }

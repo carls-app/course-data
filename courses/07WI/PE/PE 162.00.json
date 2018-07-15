@@ -6,7 +6,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "17049",
 	"tags": [],
-	"title": "Women's Health & Fitness"
+	"title": "Women's Health & Fitness",
+	"type": "Course"
 }

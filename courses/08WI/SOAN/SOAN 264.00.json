@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric P Tranby"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "19734",
 	"tags": [],
-	"title": "Social Policy and Inequality"
+	"title": "Social Policy and Inequality",
+	"type": "Course"
 }

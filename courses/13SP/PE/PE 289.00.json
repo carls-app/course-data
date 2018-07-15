@@ -8,7 +8,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -43,12 +43,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 60,
@@ -58,5 +56,6 @@
 	"summary": null,
 	"synonym": "31705",
 	"tags": [],
-	"title": "Track and Field/Outdoor Intercollegiate, Women"
+	"title": "Track and Field/Outdoor Intercollegiate, Women",
+	"type": "Course"
 }

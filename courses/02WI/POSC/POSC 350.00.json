@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1118",
 	"tags": [],
-	"title": "Problems in Political Phil"
+	"title": "Problems in Political Phil",
+	"type": "Course"
 }

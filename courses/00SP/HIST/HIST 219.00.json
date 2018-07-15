@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -39,5 +40,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "Postwar US:1945-1975"
+	"title": "Postwar US:1945-1975",
+	"type": "Course"
 }

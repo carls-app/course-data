@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 234 and 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Symmetry, molecular orbital theory and ligand field theory will provide a framework to explore the bonding, magnetism and spectroscopic properties of coordination complexes. Topics in reactivity (hard and soft acids and bases), bioinorganic chemistry, reaction mechanisms, and organometallic chemistry, will also be introduced.",
 	"synonym": "32499",
 	"tags": [],
-	"title": "Inorganic Chemistry"
+	"title": "Inorganic Chemistry",
+	"type": "Course"
 }

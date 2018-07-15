@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "302.02",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -42,5 +40,6 @@
 	"summary": "This lab course emphasizes spectroscopic studies relevant to quantum chemistry, including experiments utilizing UV-VIS, infrared absorption spectroscopy, and visible emission spectroscopy. Corequisite: Chemistry 344.",
 	"synonym": "34584",
 	"tags": [],
-	"title": "Quantum Spectroscopy Laboratory"
+	"title": "Quantum Spectroscopy Laboratory",
+	"type": "Course"
 }

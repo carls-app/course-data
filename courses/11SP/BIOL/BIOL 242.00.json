@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "26138",
 	"tags": [],
-	"title": "Vertebrate Morphology"
+	"title": "Vertebrate Morphology",
+	"type": "Course"
 }

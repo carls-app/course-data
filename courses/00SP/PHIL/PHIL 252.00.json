@@ -6,7 +6,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2047",
 	"tags": [],
-	"title": "Phil of the Social Sciences"
+	"title": "Phil of the Social Sciences",
+	"type": "Course"
 }

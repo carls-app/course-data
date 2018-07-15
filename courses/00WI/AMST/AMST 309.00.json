@@ -9,7 +9,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "The American Presidency"
+	"title": "The American Presidency",
+	"type": "Course"
 }

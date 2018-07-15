@@ -8,7 +8,7 @@
 	"instructors": [
 		"James Flegel"
 	],
-	"number": "197.01",
+	"number": "197",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "7281",
 	"tags": [],
-	"title": "Class Guitar"
+	"title": "Class Guitar",
+	"type": "Course"
 }

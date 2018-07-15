@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sun Hee T Lee"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "18745",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGLHE3",
+		"ENGL4",
+		"AMSTTOPICAL1"
 	],
-	"title": "Contemp Ethnic American Lit"
+	"title": "Contemp Ethnic American Lit",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara M Gorchoff"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Olin 104"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "26781",
 	"tags": [
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTCORE",
+		"WGSTADDL"
 	],
-	"title": "Psychology of Gender"
+	"title": "Psychology of Gender",
+	"type": "Course"
 }

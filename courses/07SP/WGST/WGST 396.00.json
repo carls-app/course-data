@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "15970",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"WGSTCAP"
 	],
-	"title": "Transnational Feminists"
+	"title": "Transnational Feminists",
+	"type": "Course"
 }

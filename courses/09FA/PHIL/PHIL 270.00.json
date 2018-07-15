@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": "This limited survey of ancient Greek philosophy will center around its three most prominent figures (i.e. - Socrates, Plato and Aristotle) and their positions on the following topics: (1) virtue: What is virtue? Why be virtuous? Is/How is virtue taught? (Ethics segment) (2) reality: What are the basic constituents of reality? What is being? (Metaphysics segment) (3) explanation: What are the principles of change? What are the principles of the universe? (Physics and Cosmology segment). When appropriate, we shall also consider how these thinkers' positions compare and contrast to the views of their contemporaries and predecessors.",
 	"synonym": "23700",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"PHILCORE"
 	],
-	"title": "Ancient Greek Philosophy: Virtue, Reality and Explanations"
+	"title": "Ancient Greek Philosophy: Virtue, Reality and Explanations",
+	"type": "Course"
 }

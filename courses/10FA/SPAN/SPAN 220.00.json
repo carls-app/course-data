@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -52,30 +47,13 @@
 	"summary": "Is it real? A concern with the interplay between reality and fiction rests at the heart of Magical Realism--a mode of discourse and a perspective on the problem of representation that informs a good many of the best known works in Latin American literature. This course will examine works in translation by authors such as Alejo Carpentier, Gabriel García Márquez, Julio Cortázar, Isabel Allende, Laura Esquivel. We'll close the course with a nod to those authors who reject Magical Realism as the primary mode of fiction in Latin American prose.",
 	"synonym": "26626",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"ENGLFORLIT",
+		"ENGLLOE",
+		"LTAMLIT",
+		"CCSTGLOBAL"
 	],
-	"title": "Magical Realism in Latin American Narrative"
+	"title": "Magical Realism in Latin American Narrative",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "244.07",
+	"number": "244",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "7683",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"ENGLFORLIT",
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "Fate of Enlightenment"
+	"title": "Fate of Enlightenment",
+	"type": "Course"
 }

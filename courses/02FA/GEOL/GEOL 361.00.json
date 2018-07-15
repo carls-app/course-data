@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3860",
 	"tags": [],
-	"title": "Carbonate Sedimentology"
+	"title": "Carbonate Sedimentology",
+	"type": "Course"
 }

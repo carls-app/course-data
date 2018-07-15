@@ -8,7 +8,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -51,5 +43,6 @@
 	"summary": "The study of dance is the study of culture. We will look at dance as culturally-coded, embodied knowledge and investigate dance forms, contexts and micro cultures across the globe, analyzing how social identities are \"signaled, formed, and negotiated through bodily movement.\" We will examine, cross-culturally, the function of dance in the lives of individuals and societies through various lenses including gender, Africanist and ethnograpic. We will read, write, view videos, attend live performances, discuss and move. This course in dance theory and practice will include a weekly movement lab. No previous dance experience necessary.",
 	"synonym": "35135",
 	"tags": [],
-	"title": "Meaning In Motion: Dance as Culture"
+	"title": "Meaning In Motion: Dance as Culture",
+	"type": "Course"
 }

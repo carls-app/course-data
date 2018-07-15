@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "7996",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"HISTAFRDIASPORA"
 	],
-	"title": "African Life Histories"
+	"title": "African Life Histories",
+	"type": "Course"
 }

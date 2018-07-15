@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chris Harbison"
 	],
-	"number": "125L.52",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "17584",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

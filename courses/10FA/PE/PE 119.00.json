@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "119.00",
+	"number": "119",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "The class is geared to beginning, recreational cyclists, not the competitive cyclist. Students must provide their own bicycles. Helmets are mandatory. Information on equipment, repair of equipment, and rules of the road are interspersed with opportunities to develop fitness by riding the various routes around Northfield.",
 	"synonym": "26304",
 	"tags": [],
-	"title": "Cycling, Recreational"
+	"title": "Cycling, Recreational",
+	"type": "Course"
 }

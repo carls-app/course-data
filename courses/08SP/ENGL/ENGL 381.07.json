@@ -8,11 +8,12 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "381.07",
+	"number": "381",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "17669",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"ENGL4",
+		"ENGLT1"
 	],
-	"title": "Novels of Place"
+	"title": "Novels of Place",
+	"type": "Course"
 }

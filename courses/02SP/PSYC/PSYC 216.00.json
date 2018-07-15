@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 38,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "441",
 	"tags": [],
-	"title": "Behavioral Neuroscience"
+	"title": "Behavioral Neuroscience",
+	"type": "Course"
 }

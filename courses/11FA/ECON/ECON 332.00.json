@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite:",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "30222",
 	"tags": [],
-	"title": "Econometrics"
+	"title": "Econometrics",
+	"type": "Course"
 }

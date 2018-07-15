@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 35,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "21521",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		}
+		"CCSTREGIONAL",
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"POSI-AREAS",
+		"LTAMSOCSCI"
 	],
-	"title": "Modn LatAmer - 1810-present"
+	"title": "Modn LatAmer - 1810-present",
+	"type": "Course"
 }

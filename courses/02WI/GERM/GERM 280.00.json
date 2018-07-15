@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "797",
 	"tags": [],
-	"title": "Memory & Represtn of Holocaust"
+	"title": "Memory & Represtn of Holocaust",
+	"type": "Course"
 }

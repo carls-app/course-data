@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "10839",
 	"tags": [
-		{
-			"code": "LTAMCOMPUS",
-			"name": "LTAM Comparative and/or US"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"LTAMCOMPUS",
+		"CCSTGLOBAL",
+		"LTAMELECTIVE",
+		"POSCELECTIVE"
 	],
-	"title": "Global Resurgence of Democracy"
+	"title": "Global Resurgence of Democracy",
+	"type": "Course"
 }

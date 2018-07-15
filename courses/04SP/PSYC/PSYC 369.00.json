@@ -7,7 +7,7 @@
 		"Lawrence Wichlinski",
 		"Steven F Kozberg"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "6740",
 	"tags": [],
-	"title": "Behavioral Medicine"
+	"title": "Behavioral Medicine",
+	"type": "Course"
 }

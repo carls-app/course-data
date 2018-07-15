@@ -6,7 +6,7 @@
 	"instructors": [
 		"Josh Davis"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 6,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "21434",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

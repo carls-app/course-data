@@ -8,16 +8,14 @@
 	"instructors": [
 		"Keren A Gudeman"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 60,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "28405",
 	"tags": [],
-	"title": "Soccer Intercollegiate, Women"
+	"title": "Soccer Intercollegiate, Women",
+	"type": "Course"
 }

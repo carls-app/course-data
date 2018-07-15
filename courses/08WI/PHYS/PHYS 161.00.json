@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17749",
 	"tags": [],
-	"title": "Elec, Magnetism & Circuits"
+	"title": "Elec, Magnetism & Circuits",
+	"type": "Course"
 }

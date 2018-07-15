@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "838",
 	"tags": [],
-	"title": "Intro to Cognitive Science"
+	"title": "Intro to Cognitive Science",
+	"type": "Course"
 }

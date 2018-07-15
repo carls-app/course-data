@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -48,18 +46,10 @@
 	"summary": "A study of a selection of significant American plays from Eugene O'Neill's Hairy Ape (1920) to August Wilson's Gem of the Ocean (2003) in the context of larger American themes and cultural preoccupations. The premise of this course is that these plays define the modern American theatre. By studying them we will gain a deeper understanding of American theater and the links that connect it to the larger culture and to some of the transformative events of American history.",
 	"synonym": "35181",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLHE3",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Modern American Drama"
+	"title": "Modern American Drama",
+	"type": "Course"
 }

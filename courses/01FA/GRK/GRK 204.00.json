@@ -6,7 +6,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Greek Tragedy"
+	"title": "Greek Tragedy",
+	"type": "Course"
 }

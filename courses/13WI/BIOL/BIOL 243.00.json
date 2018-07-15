@@ -4,11 +4,12 @@
 	"department": "BIOL",
 	"id": "BIOL 243.00",
 	"instructors": [],
-	"number": "243.00",
+	"number": "243",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -18,5 +19,6 @@
 	"summary": null,
 	"synonym": "34388",
 	"tags": [],
-	"title": "Vertebrate Morphology Laboratory"
+	"title": "Vertebrate Morphology Laboratory",
+	"type": "Course"
 }

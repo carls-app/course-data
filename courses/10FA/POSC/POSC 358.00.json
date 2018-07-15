@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -47,26 +42,12 @@
 	"summary": "This course will examine the role that social movements play in political life. The first part of the course will critically review the major theories that have been developed to explain how social movements form, operate and seek to influence politics at both the domestic and international levels. In the second part of the course, these theoretical approaches will be used to explore a number of case studies involving social movements that span several different issue areas and political regions. Potential case studies include the transnational environmental movement, religious movements in Latin America and the recent growth of far right activism in northern Europe.",
 	"synonym": "27007",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL",
+		"POSIADVSEM",
+		"POSI-DSS",
+		"POSCADVSEM"
 	],
-	"title": "Comparative Social Movements*"
+	"title": "Comparative Social Movements*",
+	"type": "Course"
 }

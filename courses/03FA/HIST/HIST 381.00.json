@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "8017",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"HISTAFRICA",
+		"AFAMDISTROHU",
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD"
 	],
-	"title": "Hist,Memory & Black Atlantic"
+	"title": "Hist,Memory & Black Atlantic",
+	"type": "Course"
 }

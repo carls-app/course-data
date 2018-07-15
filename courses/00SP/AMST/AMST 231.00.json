@@ -9,7 +9,7 @@
 	"instructors": [
 		"Rachel F Seidman"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "Race & Gender - American South"
+	"title": "Race & Gender - American South",
+	"type": "Course"
 }

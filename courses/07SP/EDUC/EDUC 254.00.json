@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ann Leming"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15882",
 	"tags": [],
-	"title": "Teaching Exceptional Students"
+	"title": "Teaching Exceptional Students",
+	"type": "Course"
 }

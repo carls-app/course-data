@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "235.01",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110; Take PSYC.234",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -43,5 +41,6 @@
 	"summary": "This laboratory experience will expose students to a variety of methodologies employed by researchers interested in studying language. Throughout the term, students will both participate in experiments and conduct experiments. We will spend time discussing and performing typical analyses. Finally, students will be expected to become proficient in writing their experimental work in APA format and in presenting their research ideas in an oral format. Psychology 235 requires concurrent registration in Psychology 234. A grade of C- or better must be earned in both Psychology 234 and 235 to satisfy the LS requirement.",
 	"synonym": "32274",
 	"tags": [],
-	"title": "Psychology of Language Laboratory"
+	"title": "Psychology of Language Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rebecca A Bryant"
 	],
-	"number": "381.01",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "449",
 	"tags": [],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

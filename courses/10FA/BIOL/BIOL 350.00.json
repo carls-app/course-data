@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 40,
@@ -46,10 +44,8 @@
 	"summary": "Principles and history of evolutionary change in wild populations, with consideration of both microevolutionary and macroevolutionary time scales. Topics covered include causes of change in gene frequency, the nature of adaptation, constraints on evolutionary change, the evolution of genes and proteins, rates of speciation and extinction, and the major events in evolutionary history.",
 	"synonym": "26086",
 	"tags": [
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSCDES"
 	],
-	"title": "Evolution"
+	"title": "Evolution",
+	"type": "Course"
 }

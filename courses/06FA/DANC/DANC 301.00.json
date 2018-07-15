@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "16527",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Contemp Styles and Techniques"
+	"title": "Contemp Styles and Techniques",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": "An intensive study of the nature of art history as an intellectual discipline and of the approaches scholars have taken to various art historical problems. Attention as well to principles of current art historical research and writing. Recommended for juniors who have declared art history as a major.",
 	"synonym": "24335",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		}
+		"ASSTMETH",
+		"ASSTDISC"
 	],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

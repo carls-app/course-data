@@ -9,7 +9,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 40,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "4202",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"HISTUS",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"WGSTADDL"
 	],
-	"title": "U.S. Women to 1877"
+	"title": "U.S. Women to 1877",
+	"type": "Course"
 }

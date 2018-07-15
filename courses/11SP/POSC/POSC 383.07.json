@@ -8,24 +8,16 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "383.07",
+	"number": "383",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -35,22 +27,11 @@
 	"summary": null,
 	"synonym": "27068",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"POSI-GDS",
+		"POECUPWTD"
 	],
-	"title": "Pol & Integration of Europe"
+	"title": "Pol & Integration of Europe",
+	"type": "Course"
 }

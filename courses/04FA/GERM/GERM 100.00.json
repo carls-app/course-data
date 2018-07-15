@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "11141",
 	"tags": [],
-	"title": "Searching for the Self"
+	"title": "Searching for the Self",
+	"type": "Course"
 }

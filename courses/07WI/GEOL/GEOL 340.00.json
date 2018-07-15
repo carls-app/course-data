@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "17102",
 	"tags": [
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		}
+		"ENTSWRES",
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSFAES"
 	],
-	"title": "Hydrology"
+	"title": "Hydrology",
+	"type": "Course"
 }

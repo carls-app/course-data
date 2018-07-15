@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 48,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2209",
 	"tags": [],
-	"title": "General Chemistry I"
+	"title": "General Chemistry I",
+	"type": "Course"
 }

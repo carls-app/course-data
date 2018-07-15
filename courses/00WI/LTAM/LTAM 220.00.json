@@ -9,7 +9,7 @@
 	"instructors": [
 		"Susana Nuccetelli"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "3688",
 	"tags": [],
-	"title": "Latin American Philosophy"
+	"title": "Latin American Philosophy",
+	"type": "Course"
 }

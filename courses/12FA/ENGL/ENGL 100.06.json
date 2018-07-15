@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol A Rutz"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -56,5 +48,6 @@
 	"summary": null,
 	"synonym": "32559",
 	"tags": [],
-	"title": "Imagining a Self"
+	"title": "Imagining a Self",
+	"type": "Course"
 }

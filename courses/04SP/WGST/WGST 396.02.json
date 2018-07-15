@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "396.02",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "11042",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"WGSTCAP"
 	],
-	"title": "Politics of Reproduction"
+	"title": "Politics of Reproduction",
+	"type": "Course"
 }

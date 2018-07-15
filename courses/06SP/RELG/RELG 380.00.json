@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "13098",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Radical Critiques-Christianity"
+	"title": "Radical Critiques-Christianity",
+	"type": "Course"
 }

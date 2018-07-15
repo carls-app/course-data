@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amna Khalid"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,30 +45,13 @@
 	"summary": "The objective of this course is to survey the historical institutions, practices and traditions that defined the position of women in India. We will examine the laws and religious traditions related to women in South Asia including marriage, inheritance,",
 	"synonym": "36959",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		}
+		"CCSTREGIONAL",
+		"WGSTADDL",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"HISTASIA",
+		"SAST"
 	],
-	"title": "Women in South Asia: Histories, Narratives and Representation"
+	"title": "Women in South Asia: Histories, Narratives and Representation",
+	"type": "Course"
 }

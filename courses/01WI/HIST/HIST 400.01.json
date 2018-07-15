@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1942",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gene Bauer"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "7876",
 	"tags": [],
-	"title": "Tch Engl As Second/Forgn Lang"
+	"title": "Tch Engl As Second/Forgn Lang",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1832",
 	"tags": [],
-	"title": "Orchestration"
+	"title": "Orchestration",
+	"type": "Course"
 }

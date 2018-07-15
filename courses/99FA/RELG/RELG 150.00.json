@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 40,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "2623",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"CCSTREGIONAL"
 	],
-	"title": "Religions of South Asia"
+	"title": "Religions of South Asia",
+	"type": "Course"
 }

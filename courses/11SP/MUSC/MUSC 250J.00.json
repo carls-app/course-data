@@ -11,16 +11,14 @@
 		"Matthew McCright",
 		""
 	],
-	"number": "250J.00",
+	"number": "250J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 100,
@@ -30,5 +28,6 @@
 	"summary": "Applied study on the instrument, with attention to both musical and technical development. Students will study appropriate works from the Baroque, Classical, Romantic, and Modern periods, with special reference to a composer's individual notation, technical challenges and stylistic interpretation. Music 250 is intended for the advanced piano student: permission of instructor is required.",
 	"synonym": "27493",
 	"tags": [],
-	"title": "Piano (Juried)"
+	"title": "Piano (Juried)",
+	"type": "Juried"
 }

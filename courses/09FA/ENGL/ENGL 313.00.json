@@ -8,7 +8,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "313.00",
+	"number": "313",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "23021",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLHE1",
+		"ENGL2",
+		"LITFORLANG",
+		"EUSTCNTRY"
 	],
-	"title": "Major Works of the English Renaissance:"
+	"title": "Major Works of the English Renaissance:",
+	"type": "Course"
 }

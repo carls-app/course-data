@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "192.00",
+	"number": "192",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Music 199 and/or instructor permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": "The ensemble will use indigenous instruments and an African approach to musical training in order to learn and perform rhythms and songs from West Africa.",
 	"synonym": "23554",
 	"tags": [],
-	"title": "West African Drum Ensemble"
+	"title": "West African Drum Ensemble",
+	"type": "Course"
 }

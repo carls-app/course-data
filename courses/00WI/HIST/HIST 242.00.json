@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 40,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "3530",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEUR1451",
+		"CCSTREGIONAL"
 	],
-	"title": "Working Class in Mod Europe"
+	"title": "Working Class in Mod Europe",
+	"type": "Course"
 }

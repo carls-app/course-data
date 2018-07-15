@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "9698",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"EUSTTRANNATL",
+		"POSINTLPOLECON",
+		"POSIELECTIVE"
 	],
-	"title": "Econ of European Union"
+	"title": "Econ of European Union",
+	"type": "Course"
 }

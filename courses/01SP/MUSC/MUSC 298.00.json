@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1645",
 	"tags": [],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4689",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"HISTAFRICA",
+		"EUSTTRANNATL"
 	],
-	"title": "Narrtv & Memory African Histry"
+	"title": "Narrtv & Memory African Histry",
+	"type": "Course"
 }

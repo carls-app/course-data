@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "2023",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"LITFORLANG"
 	],
-	"title": "English Literature II"
+	"title": "English Literature II",
+	"type": "Course"
 }

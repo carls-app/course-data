@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "3777",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Love,Death,Destiny:Ancnt Novel"
+	"title": "Love,Death,Destiny:Ancnt Novel",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -54,42 +46,16 @@
 	"summary": "An exploration of the \"meditation\" school of East Asian Buddhism. We will trace Zen back to its purported origins in India, through its development in China, while focusing on its history in Japan. In addition to its philosophy and practice, we will study its influence on various aspects of Japanese culture--ink painting, calligraphy, Noh theater, tea ceremony, samurai ethics, and martial arts. We will also consider Zen's participation in Japan's nationalism and wartime aggression as well as its place in America, where it has influenced art, literature, and religion for over a century.",
 	"synonym": "37505",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"ASSTHU",
+		"EASTSUPP",
+		"ASSTEAST",
+		"ASSTPERT",
+		"RELGBUDDHSTTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Zen Buddhism"
+	"title": "Zen Buddhism",
+	"type": "Course"
 }

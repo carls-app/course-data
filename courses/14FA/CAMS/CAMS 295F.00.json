@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cecilia M Cornejo"
 	],
-	"number": "295F.00",
+	"number": "295F",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Spanish 204 and concurrent registration in Cinema and Media Studies 295; Cinema and Media Studies 295",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -33,14 +34,9 @@
 	"summary": "This course is an ancillary reading/discussion-based trailer for CAMS 295; the FLAC section will be a Spanish-language addition to the English-language course. CAMS 295 will provide the set of background knowledge that students taking the trailer will use to discuss Spanish-language texts.",
 	"synonym": "40099",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"LTAMLIT",
+		"CAMSELECTIVE"
 	],
-	"title": "Cinema in Chile and Argentina-FLAC"
+	"title": "Cinema in Chile and Argentina-FLAC",
+	"type": "FLAC"
 }

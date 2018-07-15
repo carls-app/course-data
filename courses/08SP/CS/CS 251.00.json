@@ -8,7 +8,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18775",
 	"tags": [],
-	"title": "Programming Languages"
+	"title": "Programming Languages",
+	"type": "Course"
 }

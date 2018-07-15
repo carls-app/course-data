@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: There are no prerequisites but participation in a college-level study abroad program will be an asset.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -50,38 +45,15 @@
 	"summary": "As manufacturing has migrated to places with cheaper labor, many cities have turned to tourism to attract capital, employ low-skilled labor, and develop a niche in the global economy. We will pay particular attention to the consequences, for cities and their inhabitants, of the policy of tourism-driven economic development. We will also consider what it is that is being manufactured, marketed and sold in the tourist economy. Our investigation will proceed in an interdisciplinary manner, with inquiry into the political, sociological, anthropological, and economic consequences of tourism.",
 	"synonym": "36268",
 	"tags": [
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "PPOLECON",
-			"name": "Pub Pol Econ Pol Makng & Devel"
-		}
+		"POECUPWTD",
+		"POSI-GDS2",
+		"POSI-GDS",
+		"POSCADVSEM",
+		"POSIADVSEM",
+		"POECSEMINAR",
+		"POSIELECTIVE",
+		"PPOLECON"
 	],
-	"title": "Political Economy of Global Tourism*"
+	"title": "Political Economy of Global Tourism*",
+	"type": "Course"
 }

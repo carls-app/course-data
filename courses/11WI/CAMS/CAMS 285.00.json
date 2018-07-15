@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 14,
@@ -48,22 +46,11 @@
 	"summary": null,
 	"synonym": "26824",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSCORE",
-			"name": "CAMS Core Courses"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECPROD",
+		"CAMSCORE",
+		"CAMSSTUPROD",
+		"CAMSELECTIVE"
 	],
-	"title": "Community Video"
+	"title": "Community Video",
+	"type": "Course"
 }

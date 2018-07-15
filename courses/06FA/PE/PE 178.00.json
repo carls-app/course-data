@@ -8,7 +8,7 @@
 		"Guy A Kalland",
 		"Mikki Showers"
 	],
-	"number": "178.00",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Cowling DANC",
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "16222",
 	"tags": [],
-	"title": "Tae Kwon Do"
+	"title": "Tae Kwon Do",
+	"type": "Course"
 }

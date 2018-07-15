@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -52,5 +47,6 @@
 	"summary": null,
 	"synonym": "26199",
 	"tags": [],
-	"title": "The Noun"
+	"title": "The Noun",
+	"type": "Course"
 }

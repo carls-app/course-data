@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah Deel"
 	],
-	"number": "123L.52",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "274",
 	"tags": [],
-	"title": "Intro I:Energetics&Genetic Lab"
+	"title": "Intro I:Energetics&Genetic Lab",
+	"type": "Lab"
 }

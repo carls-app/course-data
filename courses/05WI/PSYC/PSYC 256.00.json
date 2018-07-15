@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifton M Oyamot"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "9447",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Soc Behav & Interpers Process"
+	"title": "Soc Behav & Interpers Process",
+	"type": "Course"
 }

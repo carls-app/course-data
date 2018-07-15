@@ -8,11 +8,12 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "250.07",
+	"number": "250",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125 and 126 and one upper-level Biology course related to ecology, evolution or organismal Biology",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "23081",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSSCI",
+		"ENTSCDES"
 	],
-	"title": "Australia Program: Marine Biology"
+	"title": "Australia Program: Marine Biology",
+	"type": "Course"
 }

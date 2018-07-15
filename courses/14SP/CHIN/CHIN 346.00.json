@@ -6,7 +6,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -45,26 +40,12 @@
 	"summary": "Readings from well-known writers such as Ba jin, Lao She, Lu Xun, Cao Xueqin and contemporary authors. The course will expose students to excerpts from modern Chinese novels and short stories. Emphasis on reading, writing, and speaking. Some practice in discussion, translation, review, literary criticism and dramatization. Some readings of classical fiction and other genres like essays and poerty will be included.",
 	"synonym": "36202",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
-	"title": "Advanced Readings: Chinese Fiction"
+	"title": "Advanced Readings: Chinese Fiction",
+	"type": "Course"
 }

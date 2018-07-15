@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 14,
@@ -47,5 +42,6 @@
 	"summary": null,
 	"synonym": "26607",
 	"tags": [],
-	"title": "Directing I"
+	"title": "Directing I",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Candace I Lines"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "2041",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL1",
+		"LITFORLANG"
 	],
-	"title": "Chaucer: Canterbury Tales"
+	"title": "Chaucer: Canterbury Tales",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 0,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "18825",
 	"tags": [],
-	"title": "Cross Country Intercollegiate"
+	"title": "Cross Country Intercollegiate",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "241.01",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "24224",
 	"tags": [],
-	"title": "Genetics Laboratory"
+	"title": "Genetics Laboratory",
+	"type": "Course"
 }

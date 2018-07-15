@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faye Merritt"
 	],
-	"number": "205.01",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Chinese 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -51,10 +52,8 @@
 	"summary": "Continuation of Chinese 204. Completion of this course with a C- or better fulfills the language requirement.",
 	"synonym": "29753",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese"
+	"title": "Intermediate Chinese",
+	"type": "Course"
 }

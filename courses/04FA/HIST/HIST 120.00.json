@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 35,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "10440",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"AFAMPERT"
 	],
-	"title": "Amer Soc Hist From 1607-1865"
+	"title": "Amer Soc Hist From 1607-1865",
+	"type": "Course"
 }

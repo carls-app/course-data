@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "246.01",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3357",
 	"tags": [],
-	"title": "Animal Behavior Lab"
+	"title": "Animal Behavior Lab",
+	"type": "Course"
 }

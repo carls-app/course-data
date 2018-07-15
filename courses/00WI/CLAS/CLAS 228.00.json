@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -39,5 +40,6 @@
 		"HISTEUR1450",
 		"HISTISLAM"
 	],
-	"title": "Roman Hist,Republic&Principate"
+	"title": "Roman Hist,Republic&Principate",
+	"type": "Course"
 }

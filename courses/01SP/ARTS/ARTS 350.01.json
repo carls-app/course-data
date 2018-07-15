@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sara E Johnson"
 	],
-	"number": "350.01",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 20"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1473",
 	"tags": [],
-	"title": "Adv Seminar: Photo/Digital"
+	"title": "Adv Seminar: Photo/Digital",
+	"type": "Course"
 }

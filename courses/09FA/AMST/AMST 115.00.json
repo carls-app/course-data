@@ -9,7 +9,7 @@
 		"Elizabeth McKinsey",
 		"Adriana Estill"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 40,
@@ -44,10 +45,8 @@
 	"summary": "This course will examine the different spaces that inform the production of U.S. identities. We will think about the ways the construction of neighborhoods (urban or suburban) affects our sense of place, ethnicity, and community; we'll consider the impact that border geographies, whether physical or cultural, have on national imaginings; we shall look at contemporary cultural expressions of small town vs. big city life and consider what they feature as particular and unique about Americanness.",
 	"synonym": "22753",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"CCSTETHNIC"
 	],
-	"title": "Introduction to American Studies: Placing Identities"
+	"title": "Introduction to American Studies: Placing Identities",
+	"type": "Course"
 }

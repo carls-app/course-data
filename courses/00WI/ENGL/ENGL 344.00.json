@@ -7,7 +7,7 @@
 		"Chiara F Briganti",
 		"Gregory G Hewett"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 35,
@@ -37,14 +38,9 @@
 	"summary": null,
 	"synonym": "2172",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL4",
+		"LITFORLANG"
 	],
-	"title": "Twentieth-Century Literature"
+	"title": "Twentieth-Century Literature",
+	"type": "Course"
 }

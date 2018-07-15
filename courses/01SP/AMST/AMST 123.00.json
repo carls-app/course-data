@@ -9,7 +9,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "2140",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL3"
 	],
-	"title": "Politics-Amer:Liberty & Equal"
+	"title": "Politics-Amer:Liberty & Equal",
+	"type": "Course"
 }

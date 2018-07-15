@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1021",
 	"tags": [],
-	"title": "Writing Systems"
+	"title": "Writing Systems",
+	"type": "Course"
 }

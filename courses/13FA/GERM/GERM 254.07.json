@@ -8,20 +8,15 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "254.07",
+	"number": "254",
 	"offerings": null,
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -31,5 +26,6 @@
 	"summary": null,
 	"synonym": "36097",
 	"tags": [],
-	"title": "Berlin Program: The World's a Stage â€“ Theater in Berlin"
+	"title": "Berlin Program: The World's a Stage â€“ Theater in Berlin",
+	"type": "Course"
 }

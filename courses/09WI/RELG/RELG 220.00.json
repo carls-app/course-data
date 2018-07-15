@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beth P Kissileff"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "21704",
 	"tags": [],
-	"title": "Hebrew Bible"
+	"title": "Hebrew Bible",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "15920",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Trials and Tribulations"
+	"title": "Trials and Tribulations",
+	"type": "Course"
 }

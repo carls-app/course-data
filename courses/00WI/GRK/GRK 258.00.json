@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cecil W Wooten"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3579",
 	"tags": [],
-	"title": "Greek Orators"
+	"title": "Greek Orators",
+	"type": "Course"
 }

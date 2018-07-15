@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12253",
 	"tags": [],
-	"title": "Electricity & Magnetism"
+	"title": "Electricity & Magnetism",
+	"type": "Course"
 }

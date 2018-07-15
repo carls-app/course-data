@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "110L.53",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "25948",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

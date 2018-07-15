@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "109.01",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18707",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

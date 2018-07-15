@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"tags": [
 		"HISTEUR1451"
 	],
-	"title": "History of Russia Since 1861"
+	"title": "History of Russia Since 1861",
+	"type": "Course"
 }

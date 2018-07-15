@@ -9,7 +9,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,5 +44,6 @@
 		"FRSTELEC",
 		"AFAMDISTROSS"
 	],
-	"title": "Ethnography of Africa"
+	"title": "Ethnography of Africa",
+	"type": "Course"
 }

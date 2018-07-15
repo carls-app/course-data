@@ -9,7 +9,7 @@
 		"Sigi Leonhard",
 		"Dana Strand"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "1862",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Perspctv Fren & Germ Cinema"
+	"title": "Perspctv Fren & Germ Cinema",
+	"type": "Course"
 }

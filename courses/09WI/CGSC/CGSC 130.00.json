@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "21219",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCCORE",
+		"CGSCELECTIVE"
 	],
-	"title": "How to Build a Mind"
+	"title": "How to Build a Mind",
+	"type": "Course"
 }

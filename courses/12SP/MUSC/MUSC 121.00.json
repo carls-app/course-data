@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Ability to read music not required.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -50,5 +45,6 @@
 	"summary": "This course will provide an overview of the song cycle genre from its beginning up to and including some popular albums. Our goal is to enhance listening and analytical skills through reading and listening assignments, in-class discussions, and analyses.",
 	"synonym": "29064",
 	"tags": [],
-	"title": "Songs from Beethoven to Ben Folds"
+	"title": "Songs from Beethoven to Ben Folds",
+	"type": "Course"
 }

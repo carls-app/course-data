@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"IS",
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -45,5 +40,6 @@
 	"summary": null,
 	"synonym": "20512",
 	"tags": [],
-	"title": "Architecture Across Cultures"
+	"title": "Architecture Across Cultures",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Physics 228, 229 & 230 or instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 24,
@@ -48,5 +46,6 @@
 	"summary": "A study of galactic and extragalactic astronomy with an emphasis on the physical principles underlying the observed phenomena. Topics include the structure and dynamics of the Milky Way Galaxy and other galaxies, the interstellar medium, quasars and active galaxies, clusters and superclusters, and cosmology.",
 	"synonym": "25979",
 	"tags": [],
-	"title": "Astrophysics II"
+	"title": "Astrophysics II",
+	"type": "Course"
 }

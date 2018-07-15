@@ -8,7 +8,7 @@
 	"instructors": [
 		"Thomas W Pope"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "19069",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Screenwriting"
+	"title": "Screenwriting",
+	"type": "Course"
 }

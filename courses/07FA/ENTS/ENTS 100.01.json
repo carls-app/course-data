@@ -8,7 +8,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19244",
 	"tags": [],
-	"title": "Painting Environmnt by Numbers"
+	"title": "Painting Environmnt by Numbers",
+	"type": "Course"
 }

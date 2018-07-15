@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,30 +37,13 @@
 	"summary": "Focusing on the early nineteenth century struggle to create an American nation and a national culture, we will look at the ways Americans adopted and adapted European ideas, particularly the aesthetic idea of the Sublime, in their attempt to come to terms with the conquest of the new land and its native inhabitants and with the nature of their national enterprise. Writers Irving, Cooper, Emerson, Thoreau, Hawthorne, Melville, Whitman, and Dickinson and painters Cole, Bierstadt, Church, Kensett, and Lane will be included. Major themes will include attitudes towards landscape and settlement, a distinctively American character, the nature and utility of art, and ideas of American empire.",
 	"synonym": "22762",
 	"tags": [
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ENGLT2",
+		"ENGLHE2",
+		"ENTSLPSCP",
+		"AMSTTOPICAL1",
+		"ENGL3",
+		"POSI-AREAS"
 	],
-	"title": "The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America"
+	"title": "The American Sublime: Landscape, Character & National Destiny in Nineteenth Century America",
+	"type": "Course"
 }

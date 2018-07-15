@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -45,46 +40,17 @@
 	"summary": "This course examines the ways in which economic goods are embedded in social relations. When does a thing become a commodity? What relationships exist between culture and ecology? Formulating an anthropological perspective for the interpretation of \"economic facts,\" we will examine similarities and differences among hunter-gatherers, horticulturalists, and peasants. We will also discuss the interpretation of traders in the brokering of culture, asymmetrical articulation of local and transnational economies, gender bias in classical exchange theory, Mauss on gift-giving and Marx on \"commodity fetishism.\" Theoretical material will be illustrated with ethnographic examples from Africa, Asia, Oceania, and the Americas.",
 	"synonym": "32789",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"ENTS2SCP",
+		"POSI-GDS2",
+		"ENTSLPSCP",
+		"ENTSCDSCP",
+		"CCSTGLOBAL",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"POSI-GDS",
+		"POECUPWTD"
 	],
-	"title": "Ecology, Economy, and Culture"
+	"title": "Ecology, Economy, and Culture",
+	"type": "Course"
 }

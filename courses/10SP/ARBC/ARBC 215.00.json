@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Arabic 205 or the equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": "The concept of",
 	"synonym": "25454",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "Readings in Medieval Arabic Anthologies"
+	"title": "Readings in Medieval Arabic Anthologies",
+	"type": "Course"
 }

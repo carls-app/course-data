@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "6900",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Lit, Authority & Social Change"
+	"title": "Lit, Authority & Social Change",
+	"type": "Course"
 }

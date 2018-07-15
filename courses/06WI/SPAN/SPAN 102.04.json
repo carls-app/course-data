@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael H Kidd"
 	],
-	"number": "102.04",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "13650",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

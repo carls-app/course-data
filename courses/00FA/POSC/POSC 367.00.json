@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "367.00",
+	"number": "367",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Suburbanization in America"
+	"title": "Suburbanization in America",
+	"type": "Course"
 }

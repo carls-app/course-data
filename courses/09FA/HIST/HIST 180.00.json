@@ -6,7 +6,7 @@
 	"instructors": [
 		"Masebo Masebo"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "24862",
 	"tags": [
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"AFAMSURVEY",
+		"CCSTREGIONAL",
+		"HISTAFRDIASPORA",
+		"POSI-AREAS"
 	],
-	"title": "An Historical Survey of East Africa"
+	"title": "An Historical Survey of East Africa",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -50,22 +45,11 @@
 	"summary": "This course offers a comprehensive examination of German history in the nineteenth and twentieth centuries. We will look at the German-speaking peoples of Central Europe through the prism of politics, society, culture, and the economy. Through a range of readings, we will grapple with the many complex and contentious issues that have made German history such an interesting area of intellectual inquiry.",
 	"synonym": "35963",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"HISTERLYMODEUR",
+		"EUSTCNTRY",
+		"POSI-AREAS"
 	],
-	"title": "Modern Germany"
+	"title": "Modern Germany",
+	"type": "Course"
 }

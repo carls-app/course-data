@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "141.03",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 4,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21420",
 	"tags": [],
-	"title": "Mathematical Modeling"
+	"title": "Mathematical Modeling",
+	"type": "Course"
 }

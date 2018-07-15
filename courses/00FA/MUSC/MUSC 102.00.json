@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yumiko Oshima-Ryan"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1058",
 	"tags": [],
-	"title": "Basic Musicianship"
+	"title": "Basic Musicianship",
+	"type": "Course"
 }

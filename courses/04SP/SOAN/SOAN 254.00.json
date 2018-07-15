@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bridget M Fitzpatrick"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "8585",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTSOUTH"
 	],
-	"title": "Anthropology of South Asia"
+	"title": "Anthropology of South Asia",
+	"type": "Course"
 }

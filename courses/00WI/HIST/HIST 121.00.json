@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 40,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL2",
 		"HISTUS"
 	],
-	"title": "American Social Hist 1865-1945"
+	"title": "American Social Hist 1865-1945",
+	"type": "Course"
 }

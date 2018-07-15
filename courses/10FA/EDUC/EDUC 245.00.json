@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Schneider"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "This course explores major issues in the history of school reform in the United States, with an emphasis on the twentieth century. Readings and discussions examine the role of education in American society, the various and often competing goals of school reformers, and the dynamics of educational change. With particular focus on the American high school, this course looks at why so much reform has produced so little change.",
 	"synonym": "27718",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "The History of American School Reform"
+	"title": "The History of American School Reform",
+	"type": "Course"
 }

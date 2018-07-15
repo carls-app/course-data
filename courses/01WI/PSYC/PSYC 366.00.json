@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "561",
 	"tags": [],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

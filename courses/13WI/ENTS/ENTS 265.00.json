@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 128, Biology 210, or another introductory science class with instructor's permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": "Different scientific disciplines are good at characterizing environmental systems. In this class, biogeochemical cycles relating to the rates of transport of matter and energy among water, soil, and the atmosphere will be studied as one way to sort out major local, regional, and global environmental issues. However, complex interactions among components forbid a detailed understanding of systems as they change over time. Rate modeling activities will be used in order to develop a better sense of the ways that systems change over time.",
 	"synonym": "33927",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"ENTSFAES",
+		"ENTSCDES",
+		"ENTSLPES"
 	],
-	"title": "Modeling Environmental Systems"
+	"title": "Modeling Environmental Systems",
+	"type": "Course"
 }

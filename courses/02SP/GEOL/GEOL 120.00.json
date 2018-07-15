@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 28,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "841",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSINTRO",
+		"ENTSLAB"
 	],
-	"title": "Intro Environmental Geology"
+	"title": "Intro Environmental Geology",
+	"type": "Course"
 }

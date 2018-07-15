@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger B Kirchner"
 	],
-	"number": "111.04",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 22,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2299",
 	"tags": [],
-	"title": "Calculus I"
+	"title": "Calculus I",
+	"type": "Course"
 }

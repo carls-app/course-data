@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "861",
 	"tags": [],
-	"title": "Philosophy of Law"
+	"title": "Philosophy of Law",
+	"type": "Course"
 }

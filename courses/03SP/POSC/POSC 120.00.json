@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 35,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "4238",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

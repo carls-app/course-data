@@ -6,7 +6,7 @@
 	"instructors": [
 		"Uttam Sharma"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "25302",
 	"tags": [],
-	"title": "Economics of Education"
+	"title": "Economics of Education",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13223",
 	"tags": [],
-	"title": "Introduction to Anthropology"
+	"title": "Introduction to Anthropology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara M Gorchoff"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Olin 104"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -41,10 +39,8 @@
 	"summary": "This course will focus on a social psychological analysis of social cognition, perception and judgment. It includes the examination of attitudes, stereotyping, attribution and the self. Concurrent registration in Psychology 259 is strongly suggested. A grade of C- or better must be earned in both Psychology 258 and 259 to satisfy the LS requirement.",
 	"synonym": "26726",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Social Cognition"
+	"title": "Social Cognition",
+	"type": "Course"
 }

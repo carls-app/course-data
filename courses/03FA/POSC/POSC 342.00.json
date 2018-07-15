@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "7452",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"CCSTGLOBAL",
+		"POSISECFRGNPOL",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSC300LEVEL"
 	],
-	"title": "Int'l Conflict and War"
+	"title": "Int'l Conflict and War",
+	"type": "Course"
 }

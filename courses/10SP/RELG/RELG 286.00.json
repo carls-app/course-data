@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth A Perez"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "24970",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Religion and Music in Cuba"
+	"title": "Religion and Music in Cuba",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "6482",
 	"tags": [],
-	"title": "Topics in Human Genetics"
+	"title": "Topics in Human Genetics",
+	"type": "Course"
 }

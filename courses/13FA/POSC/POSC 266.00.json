@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -50,30 +45,13 @@
 	"summary": "City revenue is increasingly dependent on tourism. Cities manufacture identity and entertainment, whether we think of Las Vegas or Jerusalem, Berlin or Bilbao, the ethnoscapes of Copenhagen or the red light district of Amsterdam. As cities compete in the global economy to become playgrounds for a transnational tourist class, what is the role of urban residents? Who governs? Who benefits? Short essays or exams will be required.",
 	"synonym": "36239",
 	"tags": [
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECMIDWTD",
-			"name": "POEC Wrld Trade&Dev Mid Div"
-		}
+		"POSI-GDS2",
+		"AFAMDISTROSS",
+		"POSI-GDS",
+		"AFAMSOCINQ",
+		"POSIELECTIVE",
+		"POECMIDWTD"
 	],
-	"title": "Urban Political Economy"
+	"title": "Urban Political Economy",
+	"type": "Course"
 }

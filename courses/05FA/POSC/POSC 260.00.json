@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brent E Cusher"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13909",
 	"tags": [],
-	"title": "Pol Philosophy of Rousseau"
+	"title": "Pol Philosophy of Rousseau",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -51,10 +52,8 @@
 	"summary": "Emphasis is on the development of reading skills, especially the mastery of kanji, with some work on spoken Japanese through the use of audiovisual materials.",
 	"synonym": "29764",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Japanese"
+	"title": "Intermediate Japanese",
+	"type": "Course"
 }

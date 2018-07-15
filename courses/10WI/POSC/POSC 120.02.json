@@ -8,7 +8,7 @@
 	"instructors": [
 		"Christopher R Heurlin"
 	],
-	"number": "120.02",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -43,14 +44,9 @@
 	"summary": "An introduction to the fundamentals of government and the variety of ways politics is practiced in different countries. Capitalist democracies, transitional states and developing nations are compared.",
 	"synonym": "24048",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "380.07",
+	"number": "380",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "23093",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"THEAPERT"
 	],
-	"title": "London Theater"
+	"title": "London Theater",
+	"type": "Course"
 }

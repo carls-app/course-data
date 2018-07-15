@@ -8,7 +8,7 @@
 	"instructors": [
 		"Karen M Wright"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "4222",
 	"tags": [],
-	"title": "Pol Phil of Martha Nussbaum"
+	"title": "Pol Phil of Martha Nussbaum",
+	"type": "Course"
 }

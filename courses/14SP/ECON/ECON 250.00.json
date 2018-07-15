@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -46,22 +44,11 @@
 	"summary": "A survey of the evolution of economic thought from the seventeenth century to the present, with emphasis on the intellectual and historical background which influenced economists.",
 	"synonym": "36340",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		}
+		"HISTERLYMODEUR",
+		"EUSTTRANNATL",
+		"SPECINTSOCTHGHT",
+		"POECLOWER"
 	],
-	"title": "History of Economic Ideas"
+	"title": "History of Economic Ideas",
+	"type": "Course"
 }

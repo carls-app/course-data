@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judy Nelson"
 	],
-	"number": "179.00",
+	"number": "179",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2260",
 	"tags": [],
-	"title": "Tap Dance, Beginning"
+	"title": "Tap Dance, Beginning",
+	"type": "Course"
 }

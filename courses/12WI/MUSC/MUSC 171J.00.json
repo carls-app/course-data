@@ -9,16 +9,14 @@
 		"Lawrence Archbold",
 		"Janean A Hall"
 	],
-	"number": "171J.00",
+	"number": "171J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -28,5 +26,6 @@
 	"summary": "Basic piano skills required.",
 	"synonym": "29363",
 	"tags": [],
-	"title": "Organ (Juried)"
+	"title": "Organ (Juried)",
+	"type": "Juried"
 }

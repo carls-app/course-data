@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Boliou 20",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1669",
 	"tags": [],
-	"title": "Intro to Studio Sculpture"
+	"title": "Intro to Studio Sculpture",
+	"type": "Course"
 }

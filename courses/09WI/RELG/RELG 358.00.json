@@ -8,7 +8,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21708",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTEAST"
 	],
-	"title": "Zen,Nationalsm&Orientalsm"
+	"title": "Zen,Nationalsm&Orientalsm",
+	"type": "Course"
 }

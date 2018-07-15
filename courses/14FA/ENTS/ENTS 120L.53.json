@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "120L.53",
+	"number": "120L",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "38310",
 	"tags": [],
-	"title": "Intro Geospatial Analysis Lab"
+	"title": "Intro Geospatial Analysis Lab",
+	"type": "Lab"
 }

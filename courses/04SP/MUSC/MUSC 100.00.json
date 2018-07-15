@@ -8,7 +8,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7292",
 	"tags": [],
-	"title": "Critical Study Popular Music"
+	"title": "Critical Study Popular Music",
+	"type": "Course"
 }

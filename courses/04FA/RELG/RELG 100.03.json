@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paula K Arai"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11363",
 	"tags": [],
-	"title": "Buddhist Christian Conversatn"
+	"title": "Buddhist Christian Conversatn",
+	"type": "Course"
 }

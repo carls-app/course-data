@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark T Unno"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2648",
 	"tags": [],
-	"title": "Jrnys Toward Spiritual Growth"
+	"title": "Jrnys Toward Spiritual Growth",
+	"type": "Course"
 }

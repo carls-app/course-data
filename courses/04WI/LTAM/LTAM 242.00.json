@@ -9,7 +9,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -44,22 +45,11 @@
 	"summary": null,
 	"synonym": "7761",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMELECTIVE"
 	],
-	"title": "Intro to Latin American Lit"
+	"title": "Intro to Latin American Lit",
+	"type": "Course"
 }

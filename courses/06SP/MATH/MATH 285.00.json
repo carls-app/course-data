@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "14000",
 	"tags": [],
-	"title": "Top: Probability & Statistics"
+	"title": "Top: Probability & Statistics",
+	"type": "Course"
 }

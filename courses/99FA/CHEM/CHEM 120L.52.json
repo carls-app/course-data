@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "120L.52",
+	"number": "120L",
 	"offerings": {
 		"locations": [
 			"Mudd 266"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 23,
 		"total": 24,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2210",
 	"tags": [],
-	"title": "General Chemistry I Lab"
+	"title": "General Chemistry I Lab",
+	"type": "Lab"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -50,30 +45,13 @@
 	"summary": null,
 	"synonym": "26662",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"LTAMLIT",
+		"ENGLFORLIT",
+		"LTAMELECTIVE",
+		"LTAM300LIT",
+		"LTAMPERT",
+		"ENGLLOE"
 	],
-	"title": "History and Subjectivity in Latin American Poetry"
+	"title": "History and Subjectivity in Latin American Poetry",
+	"type": "Course"
 }

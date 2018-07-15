@@ -6,7 +6,7 @@
 	"instructors": [
 		"Iona Italia"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "2944",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGL2",
+		"LITFORLANG",
+		"WGSTADDL"
 	],
-	"title": "Eighteenth-Century Fiction"
+	"title": "Eighteenth-Century Fiction",
+	"type": "Course"
 }

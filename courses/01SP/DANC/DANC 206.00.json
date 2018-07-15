@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2181",
 	"tags": [],
-	"title": "Spring Dance"
+	"title": "Spring Dance",
+	"type": "Course"
 }

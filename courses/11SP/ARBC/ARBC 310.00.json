@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yaron Klein"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Arabic 206",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -50,10 +45,8 @@
 	"summary": "Readings of excerpts from the Arabic press and listening to news editions, commentaries and other radio and TV programs from across the Arab world. Emphasis is on vocabulary expansion, text comprehension strategies, and further development of reading and listening comprehension. Class includes oral discussions and regular written assignments in Arabic.",
 	"synonym": "27642",
 	"tags": [
-		{
-			"code": "MELAPERT",
-			"name": "Middle Eastern Lang Pertinent"
-		}
+		"MELAPERT"
 	],
-	"title": "Advanced Media Arabic"
+	"title": "Advanced Media Arabic",
+	"type": "Course"
 }

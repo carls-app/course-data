@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1978",
 	"tags": [],
-	"title": "Cult of Stalin"
+	"title": "Cult of Stalin",
+	"type": "Course"
 }

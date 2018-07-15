@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah R Jansen"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -49,22 +41,11 @@
 	"summary": null,
 	"synonym": "35759",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		}
+		"SPECINTSOCTHGHT",
+		"PHILADV",
+		"PHILTHEORY",
+		"PHILPRACVAL"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

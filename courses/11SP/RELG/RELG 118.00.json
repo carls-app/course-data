@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terrance Wiley"
 	],
-	"number": "118.00",
+	"number": "118",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -46,30 +44,13 @@
 	"summary": null,
 	"synonym": "27578",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Religion and the Ethical"
+	"title": "Religion and the Ethical",
+	"type": "Course"
 }

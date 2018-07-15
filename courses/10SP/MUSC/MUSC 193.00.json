@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "193.00",
+	"number": "193",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -36,10 +37,8 @@
 	"summary": "An ensemble of 22-key Shona (Zimbabwe) mbira dza vadzimu. Playing techniques, improvisational practices, and traditional repertoire will be taught.  No previous musical experience required.",
 	"synonym": "25311",
 	"tags": [
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMARTSPRAC"
 	],
-	"title": "Mbira Ensemble"
+	"title": "Mbira Ensemble",
+	"type": "Course"
 }

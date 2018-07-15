@@ -9,7 +9,7 @@
 		"Sarah Deel",
 		"Susan R Singer"
 	],
-	"number": "125L.52",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 22,
 		"total": 21,
@@ -34,10 +35,8 @@
 	"summary": null,
 	"synonym": "17562",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

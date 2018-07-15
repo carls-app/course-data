@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course is an introduction to political psychology, an inter-disciplinary field of study that applies psychological theory and research to the study of politics, as a theoretical alternative to rational choice models. Study will include applying psychological models to elite decision making and to political behavior of ordinary citizens. Topics include personality and political leadership, group processes and foreign policy, theories of information processing and elite decision making, malignant political aggression and punitive politics, altruism and heroic political action, etc. in light of important political issues and events.",
 	"synonym": "33020",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-LPS",
+		"POSI-LPS2",
+		"POSIELECTIVE"
 	],
-	"title": "Political Psychology"
+	"title": "Political Psychology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "2697",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

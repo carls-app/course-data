@@ -6,7 +6,7 @@
 	"instructors": [
 		"Caitlin Coberly"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "17136",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		}
+		"ENTSSCI",
+		"ENTSFAES"
 	],
-	"title": "Plant Biology"
+	"title": "Plant Biology",
+	"type": "Course"
 }

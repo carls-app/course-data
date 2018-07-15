@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "103.02",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "7610",
 	"tags": [],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

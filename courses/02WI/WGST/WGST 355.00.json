@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "1197",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"WGSTADDL"
 	],
-	"title": "Contmp Fem Thght:Women & War"
+	"title": "Contmp Fem Thght:Women & War",
+	"type": "Course"
 }

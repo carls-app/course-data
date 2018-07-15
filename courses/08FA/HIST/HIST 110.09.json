@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "110.09",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "09",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "22244",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTERLYMODEUR"
 	],
-	"title": "Eur Music & Politics"
+	"title": "Eur Music & Politics",
+	"type": "Course"
 }

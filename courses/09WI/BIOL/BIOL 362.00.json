@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "21099",
 	"tags": [
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSLAB"
 	],
-	"title": "Field Invest-Tropical Ecology"
+	"title": "Field Invest-Tropical Ecology",
+	"type": "Course"
 }

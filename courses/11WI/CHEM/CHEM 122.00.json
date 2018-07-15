@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Students with high school chemistry should probably take Chemistry 123 or 128. (Determined by the self-administered Chemistry Placement Evaluation, Chemistry Home Page).",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "An introduction to the fundamentals of chemistry to prepare students to enter subsequent chemistry courses (Chemistry 123 or 128). Atoms and molecules, stoichiometry, and gases will be covered in the course. Although learning through discovery-based processes, small groups, and short laboratory experimentation will occur, this is not a lab course and doesn't fulfill the requirements for medical school. This course assumes competence with simple algebra, but no prior chemistry experience.",
 	"synonym": "25616",
 	"tags": [],
-	"title": "An Introduction to Chemistry"
+	"title": "An Introduction to Chemistry",
+	"type": "Course"
 }

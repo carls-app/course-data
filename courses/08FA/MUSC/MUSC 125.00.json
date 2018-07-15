@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nikki Melville"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "20006",
 	"tags": [],
-	"title": "The Piano in Society"
+	"title": "The Piano in Society",
+	"type": "Course"
 }

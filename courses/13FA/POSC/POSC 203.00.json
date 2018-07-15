@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"QRE",
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -51,22 +43,11 @@
 	"summary": "How does political advertising influence the electorate? Do \"negative ads\" turn voters off? Can advertising be used strategically to influence turnout, decreasing the participation of one of the major parties, while increasing the likelihood that others will vote? Election ads along with the six second \"sound bite\" are now among the major forms of political communication in modern democracies. We will study how ads are created and \"work\" from the standpoint of political psychology and film analysis. The course includes a research experience.",
 	"synonym": "36235",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-DSS2",
+		"CAMSXDEPT",
+		"POSI-DSS",
+		"POSIELECTIVE"
 	],
-	"title": "Political Communication: Election Campaign Advertising and Public Opinion"
+	"title": "Political Communication: Election Campaign Advertising and Public Opinion",
+	"type": "Course"
 }

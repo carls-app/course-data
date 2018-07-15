@@ -6,7 +6,7 @@
 	"instructors": [
 		"Audrey S Russek"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: African/African American Studies 113 or American Studies 115 or instructor permission",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,10 +39,8 @@
 	"summary": "Introduction to some of the animating debates within American Studies from the 1930s to the present. We will study select themes, theories, and methodologies in the writings of a number of scholars and try to understand 1) the often highly contested nature of debates about how best to study American culture; and 2) how various theories and forms of analysis in American Studies have evolved and transformed themselves over the last seventy years. Not designed to be a fine-grained institutional history of American Studies, but a vigorous exploration of some of the central questions of interpretation in the field. Normally taken by majors in their junior year.",
 	"synonym": "25481",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Theory and Practice of American Studies"
+	"title": "Theory and Practice of American Studies",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "281J.00",
+	"number": "281J",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 50,
@@ -27,14 +25,9 @@
 	"summary": "Beginning through advanced study of sitar in the gayaki ang style of Ustad Vilayat Khan. Previous musical experience is not necessary. Sitars are provided.",
 	"synonym": "35690",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTSOUTH",
+		"ASSTAL"
 	],
-	"title": "Sitar (Juried)"
+	"title": "Sitar (Juried)",
+	"type": "Juried"
 }

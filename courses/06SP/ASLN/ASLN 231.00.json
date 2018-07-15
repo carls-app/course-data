@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -43,26 +41,12 @@
 	"summary": null,
 	"synonym": "14601",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLFORLIT",
+		"CCSTBINARY",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"WGSTADDL"
 	],
-	"title": "Indian&Japanese Wmn Wrtng Abrd"
+	"title": "Indian&Japanese Wmn Wrtng Abrd",
+	"type": "Course"
 }

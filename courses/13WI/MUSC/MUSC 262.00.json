@@ -8,11 +8,12 @@
 	"instructors": [
 		"Greg Keel"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "33442",
 	"tags": [],
-	"title": "Saxophone"
+	"title": "Saxophone",
+	"type": "Course"
 }

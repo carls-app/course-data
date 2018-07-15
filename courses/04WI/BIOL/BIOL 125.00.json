@@ -9,7 +9,7 @@
 		"Mark McKone",
 		"Stephan G Zweifel"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 114,
 		"total": 120,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "6497",
 	"tags": [],
-	"title": "Intro I: Genes & Evolution"
+	"title": "Intro I: Genes & Evolution",
+	"type": "Course"
 }

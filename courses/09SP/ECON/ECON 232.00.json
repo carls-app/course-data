@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "20592",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL3",
+		"POECUPAPP"
 	],
-	"title": "American Economic History"
+	"title": "American Economic History",
+	"type": "Course"
 }

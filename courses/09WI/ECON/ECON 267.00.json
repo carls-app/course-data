@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa K Whitler"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "22136",
 	"tags": [],
-	"title": "Behavioral Economics"
+	"title": "Behavioral Economics",
+	"type": "Course"
 }

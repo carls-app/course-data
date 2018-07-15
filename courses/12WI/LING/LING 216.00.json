@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 115",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "This course has two primary goals: to provide participants with a forum to continue to develop their analytical skills (i.e. to 'do syntax'), and to acquaint them with generative syntactic theory, especially the Principles and Parameters approach. Participants will sharpen their technological acumen, through weekly problem solving, and engage in independent thinking and analysis, by means of formally proposing novel syntactic analyses for linguistic phenomena. By the conclusion of the course, participants will be prepared to read and critically evaluate primary literature couched within this theoretical framework.",
 	"synonym": "28953",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Generative Approaches to Syntax"
+	"title": "Generative Approaches to Syntax",
+	"type": "Course"
 }

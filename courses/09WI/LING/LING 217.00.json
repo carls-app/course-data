@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara J Mackenzie"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "20556",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Phonetics & Phonology"
+	"title": "Phonetics & Phonology",
+	"type": "Course"
 }

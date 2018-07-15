@@ -8,7 +8,7 @@
 	"instructors": [
 		"William N Elison"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "22027",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTSOUTH"
 	],
-	"title": "Hindu Hierarchies"
+	"title": "Hindu Hierarchies",
+	"type": "Course"
 }

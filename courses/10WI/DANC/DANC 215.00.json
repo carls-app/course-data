@@ -9,7 +9,7 @@
 		"Mathew J Janczewski",
 		"Judith A Howard"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -25,6 +25,7 @@
 	"prerequisites": "Prerequisite: Dance 205",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 20,
@@ -34,5 +35,6 @@
 	"summary": "For students enrolled in Dance 205, supervised student choreography with two public showings.",
 	"synonym": "24844",
 	"tags": [],
-	"title": "Winter Dance, Student Choreography"
+	"title": "Winter Dance, Student Choreography",
+	"type": "Course"
 }

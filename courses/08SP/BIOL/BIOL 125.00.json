@@ -9,7 +9,7 @@
 		"Debby R Walser-Kuntz",
 		"Jennifer M Wolff"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -54,10 +55,8 @@
 	"summary": null,
 	"synonym": "17614",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes&Evolution w/problm solv"
+	"title": "Genes&Evolution w/problm solv",
+	"type": "Course"
 }

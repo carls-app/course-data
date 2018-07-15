@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 0,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "978",
 	"tags": [],
-	"title": "Skiing/Nordic Intercollegiate"
+	"title": "Skiing/Nordic Intercollegiate",
+	"type": "Course"
 }

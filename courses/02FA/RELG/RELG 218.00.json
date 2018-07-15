@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "4104",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Hindu Classics"
+	"title": "Hindu Classics",
+	"type": "Course"
 }

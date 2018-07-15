@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "18719",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "Transatlantic Romanticism"
+	"title": "Transatlantic Romanticism",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18058",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "First Language Acquisition"
+	"title": "First Language Acquisition",
+	"type": "Course"
 }

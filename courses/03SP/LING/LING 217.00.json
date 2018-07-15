@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "4725",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Phonetics & Phonology"
+	"title": "Phonetics & Phonology",
+	"type": "Course"
 }

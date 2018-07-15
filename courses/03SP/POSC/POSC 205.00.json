@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bertram N Johnson"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "4244",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Congress and the Presidency"
+	"title": "Congress and the Presidency",
+	"type": "Course"
 }

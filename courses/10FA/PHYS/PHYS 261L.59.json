@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "261L.59",
+	"number": "261L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 7,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "25995",
 	"tags": [],
-	"title": "Medical Physics Lab"
+	"title": "Medical Physics Lab",
+	"type": "Lab"
 }

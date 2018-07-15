@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "25259",
 	"tags": [],
-	"title": "Techniques in Puppetry"
+	"title": "Techniques in Puppetry",
+	"type": "Course"
 }

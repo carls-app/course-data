@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ania Lubowicz"
 	],
-	"number": "317.00",
+	"number": "317",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 217",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -41,10 +39,8 @@
 	"summary": "More on phonology. This course examines a small number of topics in depth. Particular topics vary from year to year.",
 	"synonym": "28028",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Topics in Phonology"
+	"title": "Topics in Phonology",
+	"type": "Course"
 }

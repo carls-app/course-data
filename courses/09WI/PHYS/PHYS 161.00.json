@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hector H Calderon"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20921",
 	"tags": [],
-	"title": "Elec, Magnetism & Circuits"
+	"title": "Elec, Magnetism & Circuits",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -46,5 +47,6 @@
 		"CCSTREGIONAL",
 		"AFAMDISTROSS"
 	],
-	"title": "Government&Politics of Africa"
+	"title": "Government&Politics of Africa",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah R Jansen"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "As moviegoers we have all had that wondrous experience of gasping, laughing or sniffling in response to fictional scenarios. However, sometimes we emotionally disengage from a film altogether (e.g., if it is morally offensive). These phenomena raise several philosophical puzzles, to be raised in this class: (1) Why do we care about the lives of purely fictional film characters? (2) Why do we enjoy films which evoke unpleasant emotions, like fear or sadness? (3) Why do we feel suspense even when we know a film's ending? (4) Why do we resist emotionally engaging with morally repugnant films? In exploring these and related questions we will survey various philosophers' views on the subject, relating them to particular films.",
 	"synonym": "33902",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"CAMSELECTIVE",
+		"PHILPRACVAL",
+		"CAMSXDEPT"
 	],
-	"title": "Philosophy of Film and Emotion"
+	"title": "Philosophy of Film and Emotion",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael W Burand"
 	],
-	"number": "123.01",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20473",
 	"tags": [],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

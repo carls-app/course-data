@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "352.02",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104",
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 351; Chemistry 234 and 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 3,
 		"total": 6,
@@ -44,5 +42,6 @@
 	"summary": "Synthesis, purification and spectroscopic characterization of transition-metal complexes with an emphasis on methods for preparing and handling air-sensitive compounds. One laboratory per week. Corequisite: Chemistry 351.",
 	"synonym": "34625",
 	"tags": [],
-	"title": "Laboratory in Advanced Inorganic Chemistry"
+	"title": "Laboratory in Advanced Inorganic Chemistry",
+	"type": "Course"
 }

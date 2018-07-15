@@ -8,7 +8,7 @@
 	"instructors": [
 		"James J Ockuly"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1676",
 	"tags": [],
-	"title": "Introduction to Digital Art"
+	"title": "Introduction to Digital Art",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2162",
 	"tags": [],
-	"title": "Methods American Studies"
+	"title": "Methods American Studies",
+	"type": "Course"
 }

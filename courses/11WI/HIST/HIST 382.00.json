@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: History 381",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -52,22 +47,11 @@
 	"summary": "The first part of the seminar is the winter break field trip to three regional capitals in Ghana. Fieldwork and experiential living starts in Accra, continues in Kumasi, and ends in Cape Coast. The seminar resumes on campus with weekly reflection meetings. Public poster sessions on fieldwork will be held in Spring term 2015.",
 	"synonym": "26244",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD",
+		"AFAMHUMANINQ"
 	],
-	"title": "U.S. Relations with Ghana: The Field Trip and Beyond"
+	"title": "U.S. Relations with Ghana: The Field Trip and Beyond",
+	"type": "Course"
 }

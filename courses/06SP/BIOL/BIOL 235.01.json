@@ -8,7 +8,7 @@
 	"instructors": [
 		"Myrna S Rezcallah"
 	],
-	"number": "235.01",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "11990",
 	"tags": [],
-	"title": "Microbiology Laboratory"
+	"title": "Microbiology Laboratory",
+	"type": "Course"
 }

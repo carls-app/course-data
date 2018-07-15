@@ -9,11 +9,12 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "381.07",
+	"number": "381",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "5963",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"ENGL4"
 	],
-	"title": "Contemporary British Drama"
+	"title": "Contemporary British Drama",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "13682",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENGLFORLIT",
+		"LTAM300LIT",
+		"LTAMELECTIVE"
 	],
-	"title": "Latn Amer Poetry-1950-2000"
+	"title": "Latn Amer Poetry-1950-2000",
+	"type": "Course"
 }

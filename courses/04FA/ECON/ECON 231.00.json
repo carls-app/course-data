@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "9639",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"EUSTCNTRY",
+		"POSINTLPOLECON",
+		"POSIELECTIVE"
 	],
-	"title": "Soviet Economics"
+	"title": "Soviet Economics",
+	"type": "Course"
 }

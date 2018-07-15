@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "4019",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AFAMPERT",
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"CCSTETHNIC",
+		"LITFORLANG"
 	],
-	"title": "Cntmp Amer Playwrghts of Color"
+	"title": "Cntmp Amer Playwrghts of Color",
+	"type": "Course"
 }

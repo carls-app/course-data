@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -51,22 +43,11 @@
 	"summary": "An introduction to the study of historical biography. Instead of what we heard or think about Confucius, we will examine what his contemporaries, both his supporters and critics, thought he was. Students will scrutinize various sources gleaned from archaeology, heroic narratives, and court debates, as well as the",
 	"synonym": "38709",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"SPECINTSOCTHGHT",
+		"HISTASIA",
+		"ASSTEAST",
+		"ASSTHU"
 	],
-	"title": "Confucius and His Critics"
+	"title": "Confucius and His Critics",
+	"type": "Course"
 }

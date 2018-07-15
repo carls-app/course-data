@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "374.00",
+	"number": "374",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126, and one of Biology 210, 238, 248, 250, 308, 321 or 352 and instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "24238",
 	"tags": [
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		}
+		"ENTSCDES",
+		"ENTSFAES"
 	],
-	"title": "Seminar: Grassland Ecology"
+	"title": "Seminar: Grassland Ecology",
+	"type": "Course"
 }

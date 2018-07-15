@@ -9,7 +9,7 @@
 	"instructors": [
 		"Javier Morillo-Alicea"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 35,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1789",
 	"tags": [],
-	"title": "19th & 20th C Caribbean"
+	"title": "19th & 20th C Caribbean",
+	"type": "Course"
 }

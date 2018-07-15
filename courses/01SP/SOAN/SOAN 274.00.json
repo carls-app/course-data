@@ -8,7 +8,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "45",
 	"tags": [],
-	"title": "Language and Culture"
+	"title": "Language and Culture",
+	"type": "Course"
 }

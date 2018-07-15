@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 40,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "24197",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"SPECINTHEALTH",
+		"NEURELEC"
 	],
-	"title": "Human Physiology"
+	"title": "Human Physiology",
+	"type": "Course"
 }

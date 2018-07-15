@@ -8,7 +8,7 @@
 	"instructors": [
 		"Liz McDowell"
 	],
-	"number": "162L.54",
+	"number": "162L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 23,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22812",
 	"tags": [],
-	"title": "Light and Optics Lab"
+	"title": "Light and Optics Lab",
+	"type": "Lab"
 }

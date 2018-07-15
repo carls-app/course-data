@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mikaela L Schmitt-Harsh"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": "This course will examine the interdisciplinary field of urban ecology, seeking to address such questions as: How do cities function as social-ecological systems? What makes cities sustainable and resilient? How are urban dwellers implicated in the environmental processes around them? Topics include urban metabolism, cities as social-ecological systems, land use planning and design principles, and the hydrological, biogeochemical, and atmospheric processes of urban environments.",
 	"synonym": "35375",
 	"tags": [
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTSLPES",
+		"ENTS2SCP",
+		"SPECINTSUSTAIN",
+		"ENTSCDSCP",
+		"ENTSLPSCP"
 	],
-	"title": "Urban Ecology"
+	"title": "Urban Ecology",
+	"type": "Course"
 }

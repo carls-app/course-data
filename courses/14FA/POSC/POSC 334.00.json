@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -49,38 +41,15 @@
 	"summary": "This seminar covers a variety of public health issues in advanced capitalist and developing countries, including communicable diseases, neglected tropical diseases and scourges such as malaria, dengue, and AIDS, the effectiveness of foreign aid, and the challenges of reforming health care systems. Emphasis will be on how these issues interact with patterns of economic and social development and the capacity of states and international regimes. Students will develop a perspective on public policy using materials from diverse fields such as political science, epidemiology, history, economics, and sociology.",
 	"synonym": "39227",
 	"tags": [
-		{
-			"code": "PPOLPH",
-			"name": "Pub Pol Public Health"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"PPOLPH",
+		"POSI-GDS",
+		"POSI-GDS2",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POECSEMINAR",
+		"POECUPWTD"
 	],
-	"title": "Global Public Health*"
+	"title": "Global Public Health*",
+	"type": "Course"
 }

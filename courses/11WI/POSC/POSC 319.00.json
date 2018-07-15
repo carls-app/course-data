@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -47,22 +42,11 @@
 	"summary": null,
 	"synonym": "27025",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSI-DSS",
+		"POSCADVSEM"
 	],
-	"title": "Protest, Power and Grassroots Organizing: American Social Movements"
+	"title": "Protest, Power and Grassroots Organizing: American Social Movements",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,6 +31,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,5 +44,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Beauty Good&Evil-Chinese Lit"
+	"title": "Beauty Good&Evil-Chinese Lit",
+	"type": "Course"
 }

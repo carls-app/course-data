@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "109.02",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1995",
 	"tags": [],
-	"title": "Writing Seminar I"
+	"title": "Writing Seminar I",
+	"type": "Course"
 }

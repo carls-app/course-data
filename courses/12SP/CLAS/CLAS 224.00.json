@@ -9,7 +9,7 @@
 		"Clara S Hardy",
 		"Ruth Weiner"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": "Prerequisite: Theater 190",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -49,14 +47,9 @@
 	"summary": null,
 	"synonym": "29789",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"THEAPERT",
+		"ENGLLOE"
 	],
-	"title": "The Oresteia Project: Visualizing Greek Tragedy"
+	"title": "The Oresteia Project: Visualizing Greek Tragedy",
+	"type": "Course"
 }

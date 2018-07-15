@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "4220",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"ENTSINTL",
+		"POSIELECTIVE"
 	],
-	"title": "Int'l Environ Pol & Policy"
+	"title": "Int'l Environ Pol & Policy",
+	"type": "Course"
 }

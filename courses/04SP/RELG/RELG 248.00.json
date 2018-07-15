@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sue Bales"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "8440",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC"
 	],
-	"title": "Religions in the Borderlands"
+	"title": "Religions in the Borderlands",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel Williams"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -56,14 +48,9 @@
 	"summary": "For decades, sociologists have studied race, gender, and class as clearly-bounded social categories. This paradigm emphasized multiculturalism and focused on the experiences of subordinated groups--racial minorities, women, and the working and lower class. More recently, social, political, and economic changes such as increasing immigration, globalization, the \"war on terror,\" and marriage equality, have questioned who belongs to these categories, and where within them, as well as the implications and meaning of inclusion and diversity. In this A and I seminar, we will examine recent scholarship which considers these questions through the concept of \"difference' in the twenty-first century United States.",
 	"synonym": "40171",
 	"tags": [
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"AFAMSOCINQ",
+		"AFAMDISTROSS"
 	],
-	"title": "Debating Difference in Twenty-first Century America"
+	"title": "Debating Difference in Twenty-first Century America",
+	"type": "Course"
 }

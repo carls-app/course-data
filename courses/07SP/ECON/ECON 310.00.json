@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott Bierman"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 35,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "17139",
 	"tags": [],
-	"title": "Prmr Game Theo & Strat Behavr"
+	"title": "Prmr Game Theo & Strat Behavr",
+	"type": "Course"
 }

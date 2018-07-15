@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "15514",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTUS",
+		"HISTATLANTWRLD"
 	],
-	"title": "Colonial British America"
+	"title": "Colonial British America",
+	"type": "Course"
 }

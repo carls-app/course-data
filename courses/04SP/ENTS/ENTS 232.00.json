@@ -9,7 +9,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -49,5 +47,6 @@
 	"summary": null,
 	"synonym": "7695",
 	"tags": [],
-	"title": "Forest in German Literature"
+	"title": "Forest in German Literature",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"John L Sullivan"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Amer Poltcl Culture: Election"
+	"title": "Amer Poltcl Culture: Election",
+	"type": "Course"
 }

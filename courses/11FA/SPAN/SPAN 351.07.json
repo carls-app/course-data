@@ -8,20 +8,15 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "351.07",
+	"number": "351",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -31,14 +26,9 @@
 	"summary": null,
 	"synonym": "29878",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"EUSTCNTRY"
 	],
-	"title": "Madrid Program: Film and the City"
+	"title": "Madrid Program: Film and the City",
+	"type": "Course"
 }

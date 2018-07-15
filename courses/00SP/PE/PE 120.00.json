@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -24,6 +24,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "124",
 	"tags": [],
-	"title": "Diving"
+	"title": "Diving",
+	"type": "Course"
 }

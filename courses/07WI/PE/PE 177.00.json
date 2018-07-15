@@ -7,7 +7,7 @@
 		"Guy A Kalland",
 		"Mikki Showers"
 	],
-	"number": "177.00",
+	"number": "177",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 40,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "16467",
 	"tags": [],
-	"title": "Swing Dance"
+	"title": "Swing Dance",
+	"type": "Course"
 }

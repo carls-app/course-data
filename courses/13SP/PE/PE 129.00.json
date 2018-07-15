@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Pagel"
 	],
-	"number": "129.00",
+	"number": "129",
 	"offerings": {
 		"locations": [
 			"LAST 202B"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -43,5 +41,6 @@
 	"summary": "Basic instruction and opportunities to improve your game are provided. All equipment is provided. Experience not necessary.",
 	"synonym": "31655",
 	"tags": [],
-	"title": "Golf, Beginning"
+	"title": "Golf, Beginning",
+	"type": "Course"
 }

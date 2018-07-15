@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "15525",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		}
+		"AFAMSENIORSEM"
 	],
-	"title": "Narrative & Memory - Afr Hist"
+	"title": "Narrative & Memory - Afr Hist",
+	"type": "Course"
 }

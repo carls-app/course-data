@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: At least one 200- or 300-level course in Literary/Artistic Analysis (in any language) or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -54,34 +46,14 @@
 	"summary": "What does it mean to interpret? What questions do we ask of texts and images, and how do we go about finding our answers? In this course we will examine a number of strategies for reading works (such as novels, stories, images, films), drawing on a variety of national traditions. Topics include rhetoric, translation, post-structuralism, cultural studies, and gender studies.",
 	"synonym": "35998",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"FRSTELEC",
+		"FRSTCORE",
+		"ASSTMETH",
+		"ASSTDISC",
+		"FRENPERT",
+		"GERMPERT",
+		"CAMSXDEPT"
 	],
-	"title": "Introduction to Critical Methods: Structure, Gender, Culture"
+	"title": "Introduction to Critical Methods: Structure, Gender, Culture",
+	"type": "Course"
 }

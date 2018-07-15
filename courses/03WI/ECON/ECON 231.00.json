@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Chapel 17"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "6004",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		}
+		"EUSTCNTRY",
+		"POSINTLPOLECON"
 	],
-	"title": "Soviet Economics"
+	"title": "Soviet Economics",
+	"type": "Course"
 }

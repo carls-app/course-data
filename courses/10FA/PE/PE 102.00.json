@@ -9,7 +9,7 @@
 		"",
 		"Linda K Luedke"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"West Gym 213"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": "Prerequisite: PE 103",
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 40,
@@ -44,5 +42,6 @@
 	"summary": "Empty-hand techniques are continued and weapon techniques are introduced (traditional Japanese wooden weapons are required-cost approximately $50.) More varieties of breakfalls are learned as the emphasis of the class shifts to higher-level techniques. Class fee of $30 is required.",
 	"synonym": "26297",
 	"tags": [],
-	"title": "Aikido, Intermediate"
+	"title": "Aikido, Intermediate",
+	"type": "Course"
 }

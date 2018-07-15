@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 45,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "3784",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTEUR1450",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Greek History"
+	"title": "Greek History",
+	"type": "Course"
 }

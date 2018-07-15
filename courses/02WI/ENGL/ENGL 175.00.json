@@ -8,7 +8,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "684",
 	"tags": [],
-	"title": "Drama/Theater/Text"
+	"title": "Drama/Theater/Text",
+	"type": "Course"
 }

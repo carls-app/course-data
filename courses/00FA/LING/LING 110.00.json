@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "719",
 	"tags": [],
-	"title": "Introduction to Linguistics"
+	"title": "Introduction to Linguistics",
+	"type": "Course"
 }

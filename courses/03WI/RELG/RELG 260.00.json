@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "4110",
 	"tags": [],
-	"title": "Myth, Ritual and Symbolism"
+	"title": "Myth, Ritual and Symbolism",
+	"type": "Course"
 }

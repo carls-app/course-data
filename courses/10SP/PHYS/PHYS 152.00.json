@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 131 (completion or concurrent registration), 132, 141 or 142 and Mathematics 121 (completion or concurrent registration); PHYS 152L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -43,18 +44,10 @@
 	"summary": "An introduction to principles of physics and their application to the environment. Topics include energy and its flows, engines, energy efficiency, energy usage and conservation in vehicles and buildings, the atmosphere, and climate change. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work or field trips.",
 	"synonym": "22837",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		}
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSINTRO"
 	],
-	"title": "Introduction to Physics: Environmental Physics"
+	"title": "Introduction to Physics: Environmental Physics",
+	"type": "Course"
 }

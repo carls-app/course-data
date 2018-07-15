@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "15808",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"AFAMSENIORSEM",
+		"AMSTTOPICAL1",
+		"ENGL4"
 	],
-	"title": "Toni Morrison Nobel Laureate"
+	"title": "Toni Morrison Nobel Laureate",
+	"type": "Course"
 }

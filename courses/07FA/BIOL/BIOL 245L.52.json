@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "245L.52",
+	"number": "245L",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19545",
 	"tags": [],
-	"title": "Animal Behavior Laboratory"
+	"title": "Animal Behavior Laboratory",
+	"type": "Lab"
 }

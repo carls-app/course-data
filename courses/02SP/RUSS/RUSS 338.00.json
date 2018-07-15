@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3278",
 	"tags": [],
-	"title": "Masterworks of Russian Writing"
+	"title": "Masterworks of Russian Writing",
+	"type": "Course"
 }

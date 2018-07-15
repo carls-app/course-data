@@ -8,11 +8,12 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "282.07",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "20381",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"HISTASIA"
 	],
-	"title": "Chinese Civilization"
+	"title": "Chinese Civilization",
+	"type": "Course"
 }

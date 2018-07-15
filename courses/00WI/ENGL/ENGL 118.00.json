@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "118.00",
+	"number": "118",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"LITFORLANG"
 	],
-	"title": "Introduction to Poetry"
+	"title": "Introduction to Poetry",
+	"type": "Course"
 }

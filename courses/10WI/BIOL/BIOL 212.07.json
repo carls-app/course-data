@@ -8,11 +8,12 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "212.07",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125 and 126 and at least one upper-level Biology course releated to ecology, evolution or organismal biology",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "23080",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Australia Program: Ecological Field Research"
+	"title": "Australia Program: Ecological Field Research",
+	"type": "Course"
 }

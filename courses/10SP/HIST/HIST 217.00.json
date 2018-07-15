@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "24155",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Ragtime to Football:US 1890s"
+	"title": "Ragtime to Football:US 1890s",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "770",
 	"tags": [],
-	"title": "Managerial Economics II"
+	"title": "Managerial Economics II",
+	"type": "Course"
 }

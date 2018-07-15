@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 40,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "1778",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		}
+		"HISTSASIA"
 	],
-	"title": "Modern India-1525 to Present"
+	"title": "Modern India-1525 to Present",
+	"type": "Course"
 }

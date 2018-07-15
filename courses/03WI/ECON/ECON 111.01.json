@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parker Wheatley"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "5320",
 	"tags": [],
-	"title": "Principles of Microeconomics"
+	"title": "Principles of Microeconomics",
+	"type": "Course"
 }

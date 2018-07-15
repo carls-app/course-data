@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "178.00",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -42,5 +40,6 @@
 	"summary": "The traditional martial art of Korea. The class meets in conjunction with the Tae Kwon Do Club. Its goal is to strengthen the physical and mental abilities of its members. Tae Kwon Do offers a well-balanced practical approach to training, promoting physical fitness, self control, confidence, leadership, discipline and an understanding of the art of Tae Kwon Do and the Korean culture from which it originated.",
 	"synonym": "37616",
 	"tags": [],
-	"title": "Tae Kwon Do"
+	"title": "Tae Kwon Do",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clark G Ohnesorge"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "12978",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

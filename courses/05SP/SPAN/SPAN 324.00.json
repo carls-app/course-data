@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "10688",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"PENINLIT"
 	],
-	"title": "The Prose Poem in Spain"
+	"title": "The Prose Poem in Spain",
+	"type": "Course"
 }

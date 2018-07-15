@@ -7,7 +7,7 @@
 		"Jim Fisher",
 		"Clifford E Clark"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 17,
@@ -44,5 +45,6 @@
 	"tags": [
 		"CCSTBINARY"
 	],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

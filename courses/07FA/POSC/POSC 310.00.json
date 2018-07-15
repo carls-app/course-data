@@ -9,7 +9,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -39,26 +40,12 @@
 	"summary": null,
 	"synonym": "18262",
 	"tags": [
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSIADVSEM",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-DSS",
+		"POSI-AREAS"
 	],
-	"title": "Politics Across Borders"
+	"title": "Politics Across Borders",
+	"type": "Course"
 }

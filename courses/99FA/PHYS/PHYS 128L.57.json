@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "128L.57",
+	"number": "128L",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "4276",
 	"tags": [],
-	"title": "Atomic & Nuclear Physics Lab"
+	"title": "Atomic & Nuclear Physics Lab",
+	"type": "Lab"
 }

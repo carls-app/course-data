@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -56,22 +48,11 @@
 	"summary": null,
 	"synonym": "35999",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"SPECINTETHICS",
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"ENGLF"
 	],
-	"title": "The Politics of Memory in Latin American Literature"
+	"title": "The Politics of Memory in Latin American Literature",
+	"type": "Course"
 }

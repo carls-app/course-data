@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 35,
@@ -50,22 +45,11 @@
 	"summary": "At what point can we talk about the formation of China as an organized political entity? What did it mean to be a Chinese at different points in time? This course is an introduction to the history of China from its beginnings to the end of the Han dynasty in 220. Students will examine the emergence of philosophical debates on human nature, historical consciousness of time and recording, and ritual theories in formation. Students will focus on the interplay between statecraft and religion, between ethnicity and identity, and between intellectual (e.g., Confucianism) and socio-cultural history (e.g., feminine and popular mentalities).",
 	"synonym": "26232",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "Imperial China"
+	"title": "Imperial China",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michelle Levi"
 	],
-	"number": "143.00",
+	"number": "143",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "Basic introductory instruction in the use of kettlebells for strength development and aerobic conditioning. This course will have a general fitness focus.",
 	"synonym": "28372",
 	"tags": [],
-	"title": "Beginning Kettlebell Fitness"
+	"title": "Beginning Kettlebell Fitness",
+	"type": "Course"
 }

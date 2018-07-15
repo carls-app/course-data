@@ -6,11 +6,12 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 5,
@@ -20,14 +21,9 @@
 	"summary": null,
 	"synonym": "19729",
 	"tags": [
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTDISC",
+		"ASSTMETH"
 	],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

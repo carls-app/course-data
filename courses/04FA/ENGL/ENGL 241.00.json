@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "9939",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"AMSTTOPICAL1",
+		"WGSTADDL",
+		"ENGL4"
 	],
-	"title": "Lang Thieves: Wmn Amer Poetry"
+	"title": "Lang Thieves: Wmn Amer Poetry",
+	"type": "Course"
 }

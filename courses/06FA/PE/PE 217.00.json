@@ -10,16 +10,14 @@
 		"Dave Ricks",
 		"Mikki Showers"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -29,5 +27,6 @@
 	"summary": null,
 	"synonym": "16863",
 	"tags": [],
-	"title": "Cross Country Intercollegiate"
+	"title": "Cross Country Intercollegiate",
+	"type": "Course"
 }

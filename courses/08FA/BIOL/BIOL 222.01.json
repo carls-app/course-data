@@ -8,7 +8,7 @@
 	"instructors": [
 		"Max Holmes"
 	],
-	"number": "222.01",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -33,14 +34,9 @@
 	"summary": null,
 	"synonym": "21047",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Ecosystems Ecol Lab"
+	"title": "Ecosystems Ecol Lab",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Arena Theater THEA"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "21347",
 	"tags": [],
-	"title": "Topics-Thea: Prop Design"
+	"title": "Topics-Thea: Prop Design",
+	"type": "Course"
 }

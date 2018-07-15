@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -54,18 +46,10 @@
 	"summary": "This course is concerned with both the role of schools in society and the impact of society on schools. It deals with race, ethnicity, sex, social class and other factors which influence school achievement, and also examines the widespread assumption that the expansion of schooling can increase equality of opportunity in society.",
 	"synonym": "25899",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTTOPICAL3",
+		"CCSTETHNIC",
+		"AFAMPERT"
 	],
-	"title": "Schooling and Opportunity in American Society"
+	"title": "Schooling and Opportunity in American Society",
+	"type": "Course"
 }

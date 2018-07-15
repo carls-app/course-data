@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -40,5 +41,6 @@
 		"HISTUS",
 		"HISTEASIA"
 	],
-	"title": "Zen-Asian&Western Woodworking"
+	"title": "Zen-Asian&Western Woodworking",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Candace I Lines"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"LITFORLANG"
 	],
-	"title": "English Literature I"
+	"title": "English Literature I",
+	"type": "Course"
 }

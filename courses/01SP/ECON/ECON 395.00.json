@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "869",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Water,Land&the Environment"
+	"title": "Water,Land&the Environment",
+	"type": "Course"
 }

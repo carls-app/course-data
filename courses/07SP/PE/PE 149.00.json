@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kevin J Kortan"
 	],
-	"number": "149.00",
+	"number": "149",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "16290",
 	"tags": [],
-	"title": "Modern Dance II"
+	"title": "Modern Dance II",
+	"type": "Course"
 }

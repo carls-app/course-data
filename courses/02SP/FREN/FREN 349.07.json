@@ -8,11 +8,12 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "1401",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"FRSTHIST",
+		"FRSTELECAL"
 	],
-	"title": "Reading & Writing the City"
+	"title": "Reading & Writing the City",
+	"type": "Course"
 }

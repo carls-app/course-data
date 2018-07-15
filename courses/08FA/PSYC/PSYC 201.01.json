@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "201.01",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "21251",
 	"tags": [],
-	"title": "Lab Research in Data Analysis"
+	"title": "Lab Research in Data Analysis",
+	"type": "Course"
 }

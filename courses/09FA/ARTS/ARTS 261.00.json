@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Boliou 162"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Studio Art 110 or 113",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "24342",
 	"tags": [],
-	"title": "Water Based Painting"
+	"title": "Water Based Painting",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Gerald L Young",
 		"Linda K Luedke"
 	],
-	"number": "158.01",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "18807",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

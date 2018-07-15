@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,30 +44,13 @@
 	"summary": "Covers American constitutional law and history from the founding to the breakdown of the constitution in secession crisis. Extensive attention will be paid to the constitutional convention and other sources of constitutional law in addition to Supreme Court cases.",
 	"synonym": "39222",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"POSI-DSS",
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
-	"title": "Constitutional Law I"
+	"title": "Constitutional Law I",
+	"type": "Course"
 }

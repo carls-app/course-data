@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,22 +34,11 @@
 	"summary": "This seminar course will focus on a wide range of contemporary issues in archaeology, including case studies from many continents and time periods that shed light on archaeological theory and practice. Specific course content varies. The course serves as the capstone seminar for the Archaeology Concentration; enrollment is also open to non-concentrators.",
 	"synonym": "28622",
 	"tags": [
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCAP",
+		"SOANPERT",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Archaeology: Science, Ethics, Nationalism and Cultural Property"
+	"title": "Archaeology: Science, Ethics, Nationalism and Cultural Property",
+	"type": "Course"
 }

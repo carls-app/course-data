@@ -6,7 +6,7 @@
 	"instructors": [
 		"Timothy Raylor"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": "Radical, heretic, and revolutionary, John Milton wrote the most influential, and perhaps the greatest, poem in the English language. We will read the major poems (",
 	"synonym": "30349",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"MARSCORE",
+		"EUSTCNTRY"
 	],
-	"title": "Milton"
+	"title": "Milton",
+	"type": "Course"
 }

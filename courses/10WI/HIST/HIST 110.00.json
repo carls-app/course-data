@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "24129",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Music & Pol in Europe"
+	"title": "Music & Pol in Europe",
+	"type": "Course"
 }

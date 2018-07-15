@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martin A Klein"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "10501",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"AFAMSENIORSEM",
+		"HISTAFRICA",
+		"AMSTTOPICAL2",
+		"EUSTTRANNATL",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Comparative Slavery"
+	"title": "Comparative Slavery",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: French 230-level or equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": null,
 	"synonym": "36162",
 	"tags": [
-		{
-			"code": "FFSTSEM",
-			"name": "FFST Senior Sem Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"FFSTSEM",
+		"FRSTELEC",
+		"EUSTCNTRY",
+		"CCSTBINARY",
+		"ENGLFORLIT"
 	],
-	"title": "Francophone Switzerland"
+	"title": "Francophone Switzerland",
+	"type": "Course"
 }

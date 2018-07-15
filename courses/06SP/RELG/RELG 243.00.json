@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "13090",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC",
+		"ENTSENVPERS"
 	],
-	"title": "Native Amer Relg Freedom"
+	"title": "Native Amer Relg Freedom",
+	"type": "Course"
 }

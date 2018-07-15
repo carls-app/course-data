@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 35,
@@ -41,34 +42,14 @@
 	"summary": null,
 	"synonym": "15518",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTASIA",
+		"HISTISLAM",
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Byzantium: 710-1453"
+	"title": "Byzantium: 710-1453",
+	"type": "Course"
 }

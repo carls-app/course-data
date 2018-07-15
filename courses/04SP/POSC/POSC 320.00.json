@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,34 +44,14 @@
 	"summary": null,
 	"synonym": "7549",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		}
+		"CCSTREGIONAL",
+		"AFAMDISTROSS",
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSC300LEVEL"
 	],
-	"title": "Government&Politics of Africa"
+	"title": "Government&Politics of Africa",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "204.04",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1732",
 	"tags": [],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

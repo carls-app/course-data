@@ -9,7 +9,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "112.01",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "2026",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL1"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

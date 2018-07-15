@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cassie M Kosiba"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"West Gym GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -41,5 +39,6 @@
 	"summary": "Open to all experience levels. It provides an introduction to basic volleyball skills, rules, and offensive/defensive strategies within a structure that provides both skill practice and scrimmage opportunities. There is an emphasis on teamwork and social interaction.",
 	"synonym": "31680",
 	"tags": [],
-	"title": "Volleyball, Co-ed"
+	"title": "Volleyball, Co-ed",
+	"type": "Course"
 }

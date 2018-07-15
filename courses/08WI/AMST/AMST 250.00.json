@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19193",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Buffalo Bill Cody"
+	"title": "Buffalo Bill Cody",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shawn VanCour"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "21599",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Creativity in Mass Media"
+	"title": "Creativity in Mass Media",
+	"type": "Course"
 }

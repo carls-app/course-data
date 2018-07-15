@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 35,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "1763",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"HISTEUR1450",
+		"FRSTELEC",
+		"FRSTHIST"
 	],
-	"title": "France in the Making 987-1460"
+	"title": "France in the Making 987-1460",
+	"type": "Course"
 }

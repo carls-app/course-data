@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 201"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11430",
 	"tags": [],
-	"title": "Applied Regression Analysis"
+	"title": "Applied Regression Analysis",
+	"type": "Course"
 }

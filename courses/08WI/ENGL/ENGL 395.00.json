@@ -6,7 +6,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "18728",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		}
+		"ENGL1",
+		"EUSTCNTRY",
+		"ENGLHE1"
 	],
-	"title": "Medieval English Literature"
+	"title": "Medieval English Literature",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"William Terriquez"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "2124",
 	"tags": [],
-	"title": "Indoor Track Intercollegiate"
+	"title": "Indoor Track Intercollegiate",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "7842",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTTOPICAL3",
+		"CCSTETHNIC",
+		"AFAMPERT"
 	],
-	"title": "Schooling and Opportunity"
+	"title": "Schooling and Opportunity",
+	"type": "Course"
 }

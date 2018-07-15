@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nigel D Pollard"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "This class is an introduction to the history of Rome from the accession of the first Roman emperor Augustus in 31 BCE to the death of Severus Alexander in 235 CE. It examines the political and military events of the period (including the reigns of individual emperors like Augustus, Nero and Hadrian), as well as themes such as the nature of imperial power and the image of the emperor, social and economic structures, the nature and administration of empire and the relationship between central power and local cultures. Based largely on primary source readings and appropriate visual/material evidence.",
 	"synonym": "33171",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTANCNT/MDVL"
 	],
-	"title": "The Roman Principate"
+	"title": "The Roman Principate",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Chemistry 234 and Biology 125 or 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 16,
@@ -43,10 +44,8 @@
 	"summary": "This seminar course will center on current literature in chemical biology, an emerging field built around the use of small molecules both to gain an understanding of the molecular mechanisms of biological processes and to manipulate them in a defined and predictable fashion. Topics will include glycobiology, proteomics, chemical genetics, molecular recognition, and protein engineering.",
 	"synonym": "22940",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
-	"title": "Chemical Biology"
+	"title": "Chemical Biology",
+	"type": "Course"
 }

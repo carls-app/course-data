@@ -9,7 +9,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "1145",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Spirituals,Hymns & Gospel Mus"
+	"title": "Spirituals,Hymns & Gospel Mus",
+	"type": "Course"
 }

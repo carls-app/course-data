@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "152L.52",
+	"number": "152L",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 8,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28815",
 	"tags": [],
-	"title": "Environmental Physics Lab"
+	"title": "Environmental Physics Lab",
+	"type": "Lab"
 }

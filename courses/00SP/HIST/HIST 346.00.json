@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -45,5 +46,6 @@
 		"CCSTREGIONAL",
 		"CCSTGLOBAL"
 	],
-	"title": "Imperialism"
+	"title": "Imperialism",
+	"type": "Course"
 }

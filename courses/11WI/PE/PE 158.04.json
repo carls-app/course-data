@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "158.04",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "The beginning of the course covers climbing knots, belaying and commands. Efficient movement and climbing styles will also be addressed. The majority of the term will allow students to apply their new skills on the Recreation Center's climbing wall and in the Bouldering Cave.",
 	"synonym": "26374",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

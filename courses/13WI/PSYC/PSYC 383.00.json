@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kara D Sage"
 	],
-	"number": "383.00",
+	"number": "383",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "34183",
 	"tags": [],
-	"title": "Develop Psych Seminar: Infancy"
+	"title": "Develop Psych Seminar: Infancy",
+	"type": "Course"
 }

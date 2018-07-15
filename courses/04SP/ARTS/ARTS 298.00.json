@@ -9,7 +9,7 @@
 		"Stephen Mohring",
 		"Linda K Rossi"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 19,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "7501",
 	"tags": [],
-	"title": "Critical Issues in the Arts"
+	"title": "Critical Issues in the Arts",
+	"type": "Course"
 }

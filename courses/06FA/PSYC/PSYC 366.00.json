@@ -7,7 +7,7 @@
 		"Julie J Neiworth",
 		"Clark G Ohnesorge"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "14973",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

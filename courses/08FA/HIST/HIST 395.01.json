@@ -9,7 +9,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -39,30 +40,13 @@
 	"summary": null,
 	"synonym": "21147",
 	"tags": [
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"MARSCAP",
+		"WGSTADDL",
+		"EUSTCNTRY",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Gender,Ethics,Pwr Med France"
+	"title": "Gender,Ethics,Pwr Med France",
+	"type": "Course"
 }

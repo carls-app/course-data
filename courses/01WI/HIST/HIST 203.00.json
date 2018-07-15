@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "1927",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		}
+		"HISTEUR1450",
+		"HISTISLAM"
 	],
-	"title": "Later Rmn Empire,Byzan &Islam"
+	"title": "Later Rmn Empire,Byzan &Islam",
+	"type": "Course"
 }

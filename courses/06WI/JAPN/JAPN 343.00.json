@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "14103",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTEAST"
 	],
-	"title": "Adv Japanese-Film & Fiction"
+	"title": "Adv Japanese-Film & Fiction",
+	"type": "Course"
 }

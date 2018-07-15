@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "10347",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "From the Delta to Memphis"
+	"title": "From the Delta to Memphis",
+	"type": "Course"
 }

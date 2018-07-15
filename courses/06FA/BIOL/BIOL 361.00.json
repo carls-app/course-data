@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Hulings 120"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "15063",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"CCSTGLOBAL",
+		"ENTSLAB",
+		"ENTSSCI"
 	],
-	"title": "Tropical Rainforest Ecology"
+	"title": "Tropical Rainforest Ecology",
+	"type": "Course"
 }

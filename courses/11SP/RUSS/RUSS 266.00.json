@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisites and no knowledge of Russian literature or history required.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -52,22 +47,11 @@
 	"summary": "An introduction to the works of Dostoevsky. Readings include",
 	"synonym": "26479",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "Dostoevsky"
+	"title": "Dostoevsky",
+	"type": "Course"
 }

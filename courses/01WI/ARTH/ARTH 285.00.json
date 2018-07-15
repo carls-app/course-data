@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeremy E Caslin"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2942",
 	"tags": [],
-	"title": "Topics in Art History"
+	"title": "Topics in Art History",
+	"type": "Course"
 }

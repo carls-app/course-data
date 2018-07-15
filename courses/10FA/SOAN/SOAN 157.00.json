@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "157.00",
+	"number": "157",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -45,22 +40,11 @@
 	"summary": "India is a region of immense diversity where more than one billion people live. This course will explore social structures in India--through a focus on key areas of everyday life such as family, religion, economy, systems of stratification and social movements. Close attention will be given to religious nationalism, globalization and militarism as dominant trends affecting contemporary India. Questions we will consider include: How has India been represented in the Western imagination and why do such representations matter? What are the forces of modernity and tradition in India? What are the similarities and differences in systems of stratification in India and the United States?",
 	"synonym": "27846",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"ASSTSOUTH",
+		"POSI-AREAS"
 	],
-	"title": "Culture and Politics in India"
+	"title": "Culture and Politics in India",
+	"type": "Course"
 }

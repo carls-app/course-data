@@ -6,7 +6,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19185",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

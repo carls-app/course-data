@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "18726",
 	"tags": [
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		}
+		"ENGLT1",
+		"ENGL3",
+		"LITFORLANG",
+		"WGSTADDL",
+		"ENGLHE2"
 	],
-	"title": "The Victorian Novel"
+	"title": "The Victorian Novel",
+	"type": "Course"
 }

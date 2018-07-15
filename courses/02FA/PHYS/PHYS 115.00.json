@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3597",
 	"tags": [],
-	"title": "Relativity and Particles"
+	"title": "Relativity and Particles",
+	"type": "Course"
 }

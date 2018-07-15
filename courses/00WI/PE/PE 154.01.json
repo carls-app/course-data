@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gerald L Young"
 	],
-	"number": "154.01",
+	"number": "154",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "3376",
 	"tags": [],
-	"title": "Racquetball, Beginning"
+	"title": "Racquetball, Beginning",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Staff",
 		"Chico Zimmerman"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 10,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "13596",
 	"tags": [],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

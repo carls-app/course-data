@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "199.03",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "20738",
 	"tags": [],
-	"title": "Yoga"
+	"title": "Yoga",
+	"type": "Course"
 }

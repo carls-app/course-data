@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer B Joffee"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -48,26 +46,12 @@
 	"summary": null,
 	"synonym": "6845",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"CCSTREGIONAL",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTSOUTH"
 	],
-	"title": "History of South Asian Art"
+	"title": "History of South Asian Art",
+	"type": "Course"
 }

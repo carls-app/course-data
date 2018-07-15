@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Senior standing in Geology or permission of instructor",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "25120",
 	"tags": [],
-	"title": "Special Topics in Advanced Geology"
+	"title": "Special Topics in Advanced Geology",
+	"type": "Course"
 }

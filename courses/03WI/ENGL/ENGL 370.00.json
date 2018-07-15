@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison McGhee"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 8,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6066",
 	"tags": [],
-	"title": "Adv Crafts Writing:Short Story"
+	"title": "Adv Crafts Writing:Short Story",
+	"type": "Course"
 }

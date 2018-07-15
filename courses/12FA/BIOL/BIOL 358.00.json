@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125, 126 and 350",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "32864",
 	"tags": [],
-	"title": "Evolution of Sex and Sexes"
+	"title": "Evolution of Sex and Sexes",
+	"type": "Course"
 }

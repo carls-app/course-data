@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: German 345",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"IS",
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -47,10 +42,8 @@
 	"summary": null,
 	"synonym": "33103",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Viennese Culture on Site"
+	"title": "Viennese Culture on Site",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "This course will survey art and architecture in Japan from its prehistoric beginnings until the early twentieth century, and explore the relationship between indigenous art forms and the foreign (Korean, Chinese, European) concepts, art forms and techniques that influenced Japanese culture, as well as the social political and religious contexts for artistic production.",
 	"synonym": "31906",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "EASTCORE",
-			"name": "East Asian Core"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"EASTSUPP",
+		"EASTCORE",
+		"ASSTAL"
 	],
-	"title": "Japanese Art and Culture"
+	"title": "Japanese Art and Culture",
+	"type": "Course"
 }

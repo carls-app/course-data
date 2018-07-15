@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "578",
 	"tags": [],
-	"title": "Social Cognition"
+	"title": "Social Cognition",
+	"type": "Course"
 }

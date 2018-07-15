@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "Examination of the American electoral system and its components: parties, interest groups and the media. The impact of parties and interests on national policy making is also explored. The course will devote special attention to the 2008 and 2010 elections.",
 	"synonym": "30404",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"POSI-DSS",
+		"POSIELECTIVE",
+		"AMSTTOPICAL3",
+		"POSI-DSS2"
 	],
-	"title": "Parties, Interest Groups and Elections"
+	"title": "Parties, Interest Groups and Elections",
+	"type": "Course"
 }

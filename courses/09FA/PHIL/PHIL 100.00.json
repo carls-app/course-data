@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "23697",
 	"tags": [],
-	"title": "Utopias"
+	"title": "Utopias",
+	"type": "Course"
 }

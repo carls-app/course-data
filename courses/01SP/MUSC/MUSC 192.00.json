@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "192.00",
+	"number": "192",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1581",
 	"tags": [],
-	"title": "African Drum Ensemble"
+	"title": "African Drum Ensemble",
+	"type": "Course"
 }

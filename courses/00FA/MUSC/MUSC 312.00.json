@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1202",
 	"tags": [],
-	"title": "Romantic and Modern Music"
+	"title": "Romantic and Modern Music",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "350.02",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1474",
 	"tags": [],
-	"title": "Adv Seminar: Woodworking"
+	"title": "Adv Seminar: Woodworking",
+	"type": "Course"
 }

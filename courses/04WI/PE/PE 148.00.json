@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "8122",
 	"tags": [],
-	"title": "Modern Dance I"
+	"title": "Modern Dance I",
+	"type": "Course"
 }

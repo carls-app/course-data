@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dwight R Luhman"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 151; Concurrent registration in Physics 228L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": "An elementary but analytical introduction to the physics of atoms and nuclei. Topics include the particle aspects of electromagnetic radiation, an introduction to quantum mechanics, the wave aspects of material particles, the structure of atoms, X-ray and optical spectra, instruments of nuclear and particle physics, nuclear structure and elementary particles. One laboratory per week.",
 	"synonym": "22788",
 	"tags": [],
-	"title": "Atomic and Nuclear Physics"
+	"title": "Atomic and Nuclear Physics",
+	"type": "Course"
 }

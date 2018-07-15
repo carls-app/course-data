@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "What makes a programming language like \"Python\" or like \"Java?\" This course will look past superficial properties (like indentation) and into the soul of programming languages. We will explore a variety of topics in programming language construction and design: syntax and semantics, mechanisms for parameter passing, typing, scoping, and control structures. Students will expand their programming experience to include other programming paradigms, including functional languages like Scheme and ML.",
 	"synonym": "28924",
 	"tags": [],
-	"title": "Programming Languages: Design and Implementation"
+	"title": "Programming Languages: Design and Implementation",
+	"type": "Course"
 }

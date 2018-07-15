@@ -9,7 +9,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "1070",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"CCSTGLOBAL",
+		"LTAMELECTIVE",
+		"ENTSSP"
 	],
-	"title": "Population&Food in Global Syst"
+	"title": "Population&Food in Global Syst",
+	"type": "Course"
 }

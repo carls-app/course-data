@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "23719",
 	"tags": [
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"PHILADV"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

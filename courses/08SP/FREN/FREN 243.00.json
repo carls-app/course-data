@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "19232",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		}
+		"FRSTELECAL",
+		"CCSTETHNIC",
+		"FRSTSUPP",
+		"EUSTCNTRY",
+		"FRSTELEC",
+		"FRSTCULT"
 	],
-	"title": "Topic: Urban Periphery/Neg Cul"
+	"title": "Topic: Urban Periphery/Neg Cul",
+	"type": "Course"
 }

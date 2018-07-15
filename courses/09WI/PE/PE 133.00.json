@@ -9,7 +9,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -49,5 +47,6 @@
 	"summary": null,
 	"synonym": "20769",
 	"tags": [],
-	"title": "Ice Skating, Beginning"
+	"title": "Ice Skating, Beginning",
+	"type": "Course"
 }

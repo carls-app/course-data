@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -49,18 +41,10 @@
 	"summary": "One of the features of the Post-Cold War world has been the increased salience of issues such as terrorism, the environment, the influence of transnational corporations, the world-wide AIDS epidemic, the drug trade, and the crisis of refugees. The proliferation of such problems illustrates the limitations of state-centric international relations theory. This course examines new theoretical approaches to global politics that seek to understand how non-state actors and structures influence emerging patterns of global governance. We will debate as a class the extent to which a global society approach to world politics helps us to understand these transnational problems.",
 	"synonym": "30378",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"CCSTGLOBAL",
+		"POSI-DSS",
+		"POSI-DSS2"
 	],
-	"title": "Global Society: An Approach to World Politics"
+	"title": "Global Society: An Approach to World Politics",
+	"type": "Course"
 }

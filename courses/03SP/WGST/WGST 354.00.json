@@ -9,7 +9,7 @@
 	"instructors": [
 		"Karen M Wright"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "4261",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Feminist Political Theory"
+	"title": "Feminist Political Theory",
+	"type": "Course"
 }

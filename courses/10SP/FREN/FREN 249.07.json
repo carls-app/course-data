@@ -8,11 +8,12 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "249.07",
+	"number": "249",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -22,34 +23,14 @@
 	"summary": "Through literature, cultural texts, and experiential learning in the city, this course will explore the development of both the \"Frenchness\" and the hybridity that constitute contemporary Paris. Immigrant cultures, notably Moroccan, will also be highlighted. Plays, music, and visits to cultural sites will complement the readings.",
 	"synonym": "23088",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"FRSTCULT",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"FRSTELECAL",
+		"EUSTCNTRY",
+		"EUSTTRANNATL"
 	],
-	"title": "Paris Program: Hybrid Paris"
+	"title": "Paris Program: Hybrid Paris",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "173.02",
+	"number": "173",
 	"offerings": {
 		"locations": [
 			"Cowling POOL"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2043",
 	"tags": [],
-	"title": "Swimming, Instructional"
+	"title": "Swimming, Instructional",
+	"type": "Course"
 }

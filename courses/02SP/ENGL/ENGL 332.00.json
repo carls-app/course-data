@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "664",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Faulkner, Hemingway, Fitzgrld"
+	"title": "Faulkner, Hemingway, Fitzgrld",
+	"type": "Course"
 }

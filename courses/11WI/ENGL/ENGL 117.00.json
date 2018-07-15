@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,26 +46,12 @@
 	"summary": "This course pays particular attention to the tradition of African American literary expression and the individual talent that brings depth and diversity to that tradition. The course's broader aims will be complemented by an introduction to the concept of genre and by the cultivation of the relevant skills of literary analysis. Authors to be read include Baraka, Ed Bullins, Countee Cullen, Douglass, Ellison, Nikki Giovanni, Hughes, Weldon Johnson, Larsen, and Wheatley.",
 	"synonym": "25789",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"ENGLF",
+		"ENGL2",
+		"AFAMSURVEY"
 	],
-	"title": "African American Literature"
+	"title": "African American Literature",
+	"type": "Course"
 }

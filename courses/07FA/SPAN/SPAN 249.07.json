@@ -8,11 +8,12 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "249.07",
+	"number": "249",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "19158",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"EUSTCNTRY"
 	],
-	"title": "Thry & Practice, Urban Life"
+	"title": "Thry & Practice, Urban Life",
+	"type": "Course"
 }

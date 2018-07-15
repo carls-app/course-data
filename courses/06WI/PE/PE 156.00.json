@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gerald L Young"
 	],
-	"number": "156.00",
+	"number": "156",
 	"offerings": {
 		"locations": [
 			"Recreation Center 117"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 9,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "12864",
 	"tags": [],
-	"title": "Racquetball, Advanced"
+	"title": "Racquetball, Advanced",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "170.02",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 40,
 		"total": 30,
@@ -43,22 +44,11 @@
 	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
 	"synonym": "24050",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"AFAMPERT"
 	],
-	"title": "International Relations and World Politics"
+	"title": "International Relations and World Politics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "10453",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"WGSTCAP",
+		"EUSTTRANNATL",
+		"WGSTADDL"
 	],
-	"title": "Feminist Movements"
+	"title": "Feminist Movements",
+	"type": "Course"
 }

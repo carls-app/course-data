@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 31,
 		"total": 36,
@@ -50,10 +45,8 @@
 	"summary": "This course will introduce you to computer programming and the design of algorithms. By writing programs to solve problems in areas such as image processing, text processing, and simple games, you will learn about recursive and iterative algorithms, complexity analysis, graphics, data representation, software engineering, and object-oriented design. No previous programming experience is necessary. Students who have received credit for Computer Science 201 or above are not eligible to enroll in Computer Science 111. Students may not simultaneously enroll for CS 108 and CS 111 in the same term.",
 	"synonym": "22908",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Introduction to Computer Science"
+	"title": "Introduction to Computer Science",
+	"type": "Course"
 }

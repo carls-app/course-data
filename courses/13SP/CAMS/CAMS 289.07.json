@@ -8,16 +8,14 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "289.07",
+	"number": "289",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -27,18 +25,10 @@
 	"summary": null,
 	"synonym": "31603",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSSTUPROD",
+		"CAMSELECPROD"
 	],
-	"title": "New Media Seminar in Europe: Digital Workshop"
+	"title": "New Media Seminar in Europe: Digital Workshop",
+	"type": "Course"
 }

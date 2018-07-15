@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "24170",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		}
+		"CCSTGLOBAL",
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSCORE",
+		"ENTSCDES",
+		"ENTSLPES"
 	],
-	"title": "Ecosystems Ecology"
+	"title": "Ecosystems Ecology",
+	"type": "Course"
 }

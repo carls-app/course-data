@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine E Walden"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "Concerns about death, the afterlife, and personal commemoration resulted in rich visual expression in the medieval period. Three main areas of inquiry will be addressed in this class: pilgrimage and the commemoration of saints (the special dead); the death and commemoration of \"ordinary\" individuals; and depictions of and attitudes toward the body, death, burial, Purgatory, the Last Judgment, and resurrection.",
 	"synonym": "33963",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "The Art of Death in the Middle Ages"
+	"title": "The Art of Death in the Middle Ages",
+	"type": "Course"
 }

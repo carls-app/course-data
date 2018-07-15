@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Effinger-Dean"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "As multi-core machines become more prevalent, different programming paradigms have emerged for harnessing extra processors for better performance. This course explores parallel computation (programs that run on more than one core) as well as the related problem of distributed computation (programs that run on more than one machine). In particular, we will explore the two major paradigms for parallel programming, shared-memory multi-threading and message-passing, and the advantages and disadvantages of each. Other possible topics include synchronization mechanisms, debugging concurrent programs, fork/join parallelism, the theory of parallelism and concurrency, parallel algorithms, cloud computing, Map/Reduce, GPU programming, transactional memory, and memory models.",
 	"synonym": "31838",
 	"tags": [],
-	"title": "Parallel and Distributed Computing"
+	"title": "Parallel and Distributed Computing",
+	"type": "Course"
 }

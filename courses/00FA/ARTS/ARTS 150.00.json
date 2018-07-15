@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tim Lloyd"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Boliou 44"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 11,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1402",
 	"tags": [],
-	"title": "Metalsmithing"
+	"title": "Metalsmithing",
+	"type": "Course"
 }

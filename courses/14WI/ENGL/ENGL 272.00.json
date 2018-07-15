@@ -6,7 +6,7 @@
 	"instructors": [
 		"Doug McGill"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "In this workshop class, the classroom becomes a newsroom and students create and publish their own works of journalism in digital media of their choosing including but not limited to personal blogs, podcasts, videos, still photography, online graphics and multimedia. Journalism as a truth-finding and truth-telling discipline--using vernacular language and digital tools to communicate critical social truths accessibly--is the underlying skill set taught in a \"learning by doing\" (as opposed to lecture style) format. Short classroom discussions on ethics and craft, based on recent published journalism and current events, are interspersed throughout.",
 	"synonym": "37158",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"AMSTTOPICAL1",
+		"SPECINTETHICS"
 	],
-	"title": "Telling True Stories: A Journey in Journalism"
+	"title": "Telling True Stories: A Journey in Journalism",
+	"type": "Course"
 }

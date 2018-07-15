@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "110.11",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "1755",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		}
+		"HISTEUR1450"
 	],
-	"title": "Conversion in Medieval Europe"
+	"title": "Conversion in Medieval Europe",
+	"type": "Course"
 }

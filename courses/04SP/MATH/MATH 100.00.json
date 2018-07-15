@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6817",
 	"tags": [],
-	"title": "Sem: Math and Democracy"
+	"title": "Sem: Math and Democracy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "22870",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"CAMSELECTIVE",
+		"AMSTTOPICAL2"
 	],
-	"title": "Moviegoing and Film Exhibition in America"
+	"title": "Moviegoing and Film Exhibition in America",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary Ann Kelling"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Weitz Center 048"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -36,5 +34,6 @@
 	"summary": "Theory and practice of two and three dimensional makeup design for the performer. This course explores corrective, character and specialized makeup techniques as well as rendering techniques.",
 	"synonym": "33964",
 	"tags": [],
-	"title": "Makeup Design"
+	"title": "Makeup Design",
+	"type": "Course"
 }

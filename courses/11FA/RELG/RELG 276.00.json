@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terrance Wiley"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,42 +40,16 @@
 	"summary": "Nonviolent direct action has effectuated major sociopolitical change in an impressive array of societies during the past century. India and the United States are prominent examples. In this class we will give attention to the historical conditions and events that led to the emergence of the theory of nonviolence (from Gandhi to Chavez) and the nonviolent activist tradition, and analyze the social movements that have informed the development of and been animated by theories of nonviolent social change. Examining the interrelationship and cross influences among members of the transnational tradition will be a key focus of our class discussions.",
 	"synonym": "30661",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"RELGCHRISTNTRAD",
+		"RELGHINDUTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHSOCLPWR",
+		"RELGTHLVDRELCLT",
+		"RELGTHETHCLWPOL"
 	],
-	"title": "Nonviolent Social Change: Theory and Praxis"
+	"title": "Nonviolent Social Change: Theory and Praxis",
+	"type": "Course"
 }

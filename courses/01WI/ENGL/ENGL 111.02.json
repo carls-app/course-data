@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "1985",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"LITFORLANG"
 	],
-	"title": "English Literature II"
+	"title": "English Literature II",
+	"type": "Course"
 }

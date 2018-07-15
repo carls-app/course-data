@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Japanese 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -51,10 +52,8 @@
 	"summary": "Continuation of Japanese 102.",
 	"synonym": "36211",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Elementary Japanese"
+	"title": "Elementary Japanese",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy T Oehmke"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "22162",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Educational Psychology"
+	"title": "Educational Psychology",
+	"type": "Course"
 }

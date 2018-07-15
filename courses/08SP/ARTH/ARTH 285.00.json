@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 12,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "17442",
 	"tags": [
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCAP",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Rome:Michelangelo,Caravaggio"
+	"title": "Rome:Michelangelo,Caravaggio",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "16991",
 	"tags": [
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"ENTSWRSCP",
+		"ENTSENVPERS",
+		"AMSTTOPICAL2"
 	],
-	"title": "Topics Env Hist:World's Water"
+	"title": "Topics Env Hist:World's Water",
+	"type": "Course"
 }

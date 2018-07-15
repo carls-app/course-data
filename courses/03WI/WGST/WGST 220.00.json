@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "4198",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "The Politics of Reproduction"
+	"title": "The Politics of Reproduction",
+	"type": "Course"
 }

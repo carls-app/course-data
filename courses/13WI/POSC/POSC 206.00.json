@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "We will explore the political and institutional dimensions of courts, and consider whether and how judicial decision making differs from political decision making. Topics will include legal reasoning and the role of the judge, the institutional capacity of courts and their relation to the political branches, and the role of lawyers in the political system.",
 	"synonym": "33017",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL"
 	],
-	"title": "The American Courts"
+	"title": "The American Courts",
+	"type": "Course"
 }

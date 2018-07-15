@@ -6,11 +6,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -20,5 +21,6 @@
 	"summary": "A colloquium in which seniors defend their senior theses and discuss the senior theses of others.",
 	"synonym": "30102",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

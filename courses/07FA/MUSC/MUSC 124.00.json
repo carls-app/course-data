@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nikki Melville"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "18344",
 	"tags": [],
-	"title": "Survey of Piano Music"
+	"title": "Survey of Piano Music",
+	"type": "Course"
 }

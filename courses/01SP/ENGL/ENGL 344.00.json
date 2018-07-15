@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2044",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL4",
+		"LITFORLANG"
 	],
-	"title": "Twentieth-Century Fiction"
+	"title": "Twentieth-Century Fiction",
+	"type": "Course"
 }

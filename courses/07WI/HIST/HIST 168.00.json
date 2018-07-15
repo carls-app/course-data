@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "168.00",
+	"number": "168",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 41,
 		"total": 35,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15491",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		}
+		"HISTASIA",
+		"HISTISLAM"
 	],
-	"title": "Palestinian-Israeli Conflict"
+	"title": "Palestinian-Israeli Conflict",
+	"type": "Course"
 }

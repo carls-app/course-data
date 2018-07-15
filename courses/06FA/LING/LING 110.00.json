@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aniko E Csirmaz"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "15863",
 	"tags": [],
-	"title": "Introduction to Linguistics"
+	"title": "Introduction to Linguistics",
+	"type": "Course"
 }

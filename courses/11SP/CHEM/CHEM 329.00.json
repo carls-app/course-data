@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration Chemistry 328",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 7,
@@ -38,5 +36,6 @@
 	"summary": "Credit for the laboratory portion of Chemistry 328. Corequisite: Chemistry 328.",
 	"synonym": "25672",
 	"tags": [],
-	"title": "Environmental Analysis Laboratory"
+	"title": "Environmental Analysis Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"CCSTGLOBAL",
 		"FRSTELEC"
 	],
-	"title": "Post-Modern Political Thought"
+	"title": "Post-Modern Political Thought",
+	"type": "Course"
 }

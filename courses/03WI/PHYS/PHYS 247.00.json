@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3640",
 	"tags": [],
-	"title": "Digital Electronics"
+	"title": "Digital Electronics",
+	"type": "Course"
 }

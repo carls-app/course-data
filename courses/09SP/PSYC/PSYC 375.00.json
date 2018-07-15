@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "21320",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Language and Deception"
+	"title": "Language and Deception",
+	"type": "Course"
 }

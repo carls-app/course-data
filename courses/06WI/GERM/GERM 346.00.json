@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "13520",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Viennese Culture on Site"
+	"title": "Viennese Culture on Site",
+	"type": "Course"
 }

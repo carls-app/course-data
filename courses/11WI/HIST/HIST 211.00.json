@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -52,18 +47,10 @@
 	"summary": "An intensive exploration of particular topics in early American history in its context as part of an Atlantic world. Topics will include voluntary and involuntary migration from Europe and Africa, personal, political, and military relationships between Europeans and Native Americans, the pattern of colonial settlement and politics, concepts of family and community, strategies of cultural adaptation and resistance, slavery, religion, the making of racial, rank, and gender ideologies, and the development of British and American identities.",
 	"synonym": "27743",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"HISTATLANTWRLD",
+		"AMSTTOPICAL2"
 	],
-	"title": "More than Pilgrims: Colonial British America"
+	"title": "More than Pilgrims: Colonial British America",
+	"type": "Course"
 }

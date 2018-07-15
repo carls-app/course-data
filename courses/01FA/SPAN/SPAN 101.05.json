@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maria Elena Doleman"
 	],
-	"number": "101.05",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "1211",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

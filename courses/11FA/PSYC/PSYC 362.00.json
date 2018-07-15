@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Linguistics 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,10 +39,8 @@
 	"summary": "This course explores the cognitive and perceptual processes that allow humans to understand and produce spoken words. We will review major findings on word perception and production, and then focus on specific topics including the perception of accents in speech, language disorders, the links between music and speech, the connection between sounds and meaning, the influence of gesturing on word production, slips of the tongue, bilingualism, tip-of-tongue-states (being temporarily unable to recall a word), and other related issues.",
 	"synonym": "30567",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Psychology of Spoken Words"
+	"title": "Psychology of Spoken Words",
+	"type": "Course"
 }

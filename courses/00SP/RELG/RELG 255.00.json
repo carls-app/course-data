@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pori Park"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"CCSTREGIONAL"
 	],
-	"title": "East Asian Buddhist Thought"
+	"title": "East Asian Buddhist Thought",
+	"type": "Course"
 }

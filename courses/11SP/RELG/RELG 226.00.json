@@ -6,7 +6,7 @@
 	"instructors": [
 		"Avaren E Ipsen"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,10 +40,8 @@
 	"summary": null,
 	"synonym": "28197",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
-	"title": "Liberation and the Bible"
+	"title": "Liberation and the Bible",
+	"type": "Course"
 }

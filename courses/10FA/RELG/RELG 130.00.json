@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"WR2",
+		"IDS",
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -54,18 +46,10 @@
 	"summary": "This course explores the history and contemporary practice of Native American religious traditions, especially as they have developed amid colonization and resistance. While surveying a broad variety of ways that Native American traditions imagine land, community, and the sacred, the course focuses on the local traditions of the Ojibwe and Lakota communities. Materials include traditional beliefs and practices, the history of missions, intertribal new religious movements, and contemporary issues of treaty rights, religious freedom, and the revitalization of language and culture.",
 	"synonym": "24517",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC",
+		"RELGAMERTRAD"
 	],
-	"title": "Native American Religions"
+	"title": "Native American Religions",
+	"type": "Course"
 }

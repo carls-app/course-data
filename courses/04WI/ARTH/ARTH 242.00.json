@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "6848",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"FRSTELEC",
+		"FRSTHIST"
 	],
-	"title": "Impressionism"
+	"title": "Impressionism",
+	"type": "Course"
 }

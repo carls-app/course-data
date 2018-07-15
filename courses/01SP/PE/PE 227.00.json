@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 58,
 		"total": 65,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "2349",
 	"tags": [],
-	"title": "Frisbee"
+	"title": "Frisbee",
+	"type": "Course"
 }

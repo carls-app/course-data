@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1024",
 	"tags": [],
-	"title": "The Japanese Language"
+	"title": "The Japanese Language",
+	"type": "Course"
 }

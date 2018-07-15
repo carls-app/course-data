@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "8072",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR"
 	],
-	"title": "Nationalism"
+	"title": "Nationalism",
+	"type": "Course"
 }

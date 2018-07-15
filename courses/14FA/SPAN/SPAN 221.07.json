@@ -8,16 +8,14 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "221.07",
+	"number": "221",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"IS"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -27,5 +25,6 @@
 	"summary": "This course is a ten-week video workshop designed to prepare students to shoot and edit a short video by the end of their term in Madrid. Students will work in teams of four under the guidance of David Redondo, president of Walkabout Creatividad Audiovisual. Video projects need to focus on an aspect of urban life in Madrid.",
 	"synonym": "39375",
 	"tags": [],
-	"title": "Madrid Program: Filming Madrid"
+	"title": "Madrid Program: Filming Madrid",
+	"type": "Course"
 }

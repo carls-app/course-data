@@ -9,7 +9,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "6885",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "American Nature Writing"
+	"title": "American Nature Writing",
+	"type": "Course"
 }

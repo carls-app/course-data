@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2870",
 	"tags": [],
-	"title": "Adv Topics in Labor Economics"
+	"title": "Adv Topics in Labor Economics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "An exploration of the behavior of non-linear dynamical systems. Topics include one and two-dimensional dynamics, Sarkovskii's Theorem, chaos, symbolic dynamics,and the Hénon Map.",
 	"synonym": "31780",
 	"tags": [
-		{
-			"code": "STATSUPPER",
-			"name": "Stats Upper-Level"
-		}
+		"STATSUPPER"
 	],
-	"title": "Chaotic Dynamics"
+	"title": "Chaotic Dynamics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Lefkowitz"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Boliou 162"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "16346",
 	"tags": [],
-	"title": "Painting"
+	"title": "Painting",
+	"type": "Course"
 }

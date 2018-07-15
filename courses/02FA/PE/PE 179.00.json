@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "179.00",
+	"number": "179",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "5835",
 	"tags": [],
-	"title": "Tap Dance, I"
+	"title": "Tap Dance, I",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"William Terriquez"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "5265",
 	"tags": [],
-	"title": "Outdoor Track Intercollegiate"
+	"title": "Outdoor Track Intercollegiate",
+	"type": "Course"
 }

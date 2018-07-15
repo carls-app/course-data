@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "315.02",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 215 or 275 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "25408",
 	"tags": [],
-	"title": "Topics in Probability and Statistics: Statistical Computing"
+	"title": "Topics in Probability and Statistics: Statistical Computing",
+	"type": "Course"
 }

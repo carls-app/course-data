@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beth P Kissileff"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "22079",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Gender, Roles in Hebrew Bible"
+	"title": "Gender, Roles in Hebrew Bible",
+	"type": "Course"
 }

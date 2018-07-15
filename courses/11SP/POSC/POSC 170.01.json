@@ -8,7 +8,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "170.01",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -28,24 +28,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"WR2",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -55,26 +44,12 @@
 	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
 	"synonym": "27055",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"AFAMPERT",
+		"ASSTPERT"
 	],
-	"title": "International Relations and World Politics"
+	"title": "International Relations and World Politics",
+	"type": "Course"
 }

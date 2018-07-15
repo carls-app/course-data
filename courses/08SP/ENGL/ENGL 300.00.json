@@ -6,7 +6,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "18747",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLHE1",
+		"ENGL1",
+		"LITFORLANG",
+		"MARSCORE",
+		"EUSTCNTRY"
 	],
-	"title": "ChaucerI:The Canterbury Tales"
+	"title": "ChaucerI:The Canterbury Tales",
+	"type": "Course"
 }

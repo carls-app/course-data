@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1825",
 	"tags": [],
-	"title": "Sem:Ion Channels and Diseases"
+	"title": "Sem:Ion Channels and Diseases",
+	"type": "Course"
 }

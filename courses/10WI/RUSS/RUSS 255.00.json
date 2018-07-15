@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -41,18 +39,10 @@
 	"summary": null,
 	"synonym": "24253",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE",
+		"EUSTCNTRY"
 	],
-	"title": "Russian Cinema: History and Theory"
+	"title": "Russian Cinema: History and Theory",
+	"type": "Course"
 }

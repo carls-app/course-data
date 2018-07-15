@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "21737",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTTOPICAL3",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-DSS",
+		"SPECINTLEGAL"
 	],
-	"title": "Law and Society"
+	"title": "Law and Society",
+	"type": "Course"
 }

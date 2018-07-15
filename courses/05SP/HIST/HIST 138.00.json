@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "138.00",
+	"number": "138",
 	"offerings": {
 		"locations": [
 			"Leighton 402",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 50,
@@ -54,22 +55,11 @@
 	"summary": null,
 	"synonym": "10539",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTTRANNATL",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Making of Europe"
+	"title": "Making of Europe",
+	"type": "Course"
 }

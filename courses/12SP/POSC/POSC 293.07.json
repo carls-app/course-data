@@ -9,11 +9,12 @@
 		"Barbara Allen",
 		"Greg Marfleet"
 	],
-	"number": "293.07",
+	"number": "293",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "30414",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		}
+		"POSI-LPS2"
 	],
-	"title": "Washington D.C. Seminar: Global Conservation Internship"
+	"title": "Washington D.C. Seminar: Global Conservation Internship",
+	"type": "Course"
 }

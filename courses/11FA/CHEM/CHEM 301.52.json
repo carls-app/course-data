@@ -7,7 +7,7 @@
 		"Will Hollingsworth",
 		"Trish Ferrett"
 	],
-	"number": "301.52",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 230 and 233 and Mathematics 121",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -47,5 +42,6 @@
 	"summary": "A mixed class/lab course with one four hour laboratory and one lecture session per week. In class, the principles of kinetics will be developed with a mechanistic focus. In lab, experimental design and extensive independent project work will be emphasized.",
 	"synonym": "28557",
 	"tags": [],
-	"title": "Chemical Kinetics Laboratory"
+	"title": "Chemical Kinetics Laboratory",
+	"type": "Course"
 }

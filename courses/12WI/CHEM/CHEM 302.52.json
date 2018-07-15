@@ -7,7 +7,7 @@
 		"Will Hollingsworth",
 		"Daniela L Kohen"
 	],
-	"number": "302.52",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 344",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -43,5 +41,6 @@
 	"summary": "This lab course emphasizes spectroscopic studies relevant to quantum chemistry, including experiments utilizing UV-VIS, infrared absorption spectroscopy, and visible emission spectroscopy. Corequisite: Chemistry 344.",
 	"synonym": "28579",
 	"tags": [],
-	"title": "Quantum Spectroscopy Laboratory"
+	"title": "Quantum Spectroscopy Laboratory",
+	"type": "Course"
 }

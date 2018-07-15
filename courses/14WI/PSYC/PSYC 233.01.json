@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -24,12 +24,10 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Psychology 232. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; PSYC 110 or instructor permission. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -39,10 +37,8 @@
 	"summary": null,
 	"synonym": "35413",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Laboratory Research Methods in Cognitive Processes"
+	"title": "Laboratory Research Methods in Cognitive Processes",
+	"type": "Course"
 }

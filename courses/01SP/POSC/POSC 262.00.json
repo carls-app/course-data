@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL3",
 		"ENTSSP"
 	],
-	"title": "Environmental Policy & Politic"
+	"title": "Environmental Policy & Politic",
+	"type": "Course"
 }

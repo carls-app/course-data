@@ -9,16 +9,14 @@
 		"",
 		"Cherif Keïta"
 	],
-	"number": "251.07",
+	"number": "251",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -28,22 +26,11 @@
 	"summary": null,
 	"synonym": "13466",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"FRSTELEC",
+		"FRSTHIST",
+		"FRSTSUPP"
 	],
-	"title": "Chall Nation Building in Mali"
+	"title": "Chall Nation Building in Mali",
+	"type": "Course"
 }

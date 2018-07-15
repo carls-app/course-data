@@ -8,11 +8,12 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 50,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "20097",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTSOUTH",
+		"ASSTAL"
 	],
-	"title": "Sitar"
+	"title": "Sitar",
+	"type": "Course"
 }

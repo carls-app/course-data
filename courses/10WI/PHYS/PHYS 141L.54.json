@@ -8,7 +8,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "141L.54",
+	"number": "141L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22803",
 	"tags": [],
-	"title": "Gravity and the Cosmos Lab"
+	"title": "Gravity and the Cosmos Lab",
+	"type": "Lab"
 }

@@ -7,7 +7,7 @@
 		"Laura Goering",
 		"Staff"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "1693",
 	"tags": [],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "24330",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Topics-Italian Art,Post 1945"
+	"title": "Topics-Italian Art,Post 1945",
+	"type": "Course"
 }

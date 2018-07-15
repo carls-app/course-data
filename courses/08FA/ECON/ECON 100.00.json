@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "20561",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTTRANNATL",
+		"MARSSUPP"
 	],
-	"title": "Black Death-Changed Europe"
+	"title": "Black Death-Changed Europe",
+	"type": "Course"
 }

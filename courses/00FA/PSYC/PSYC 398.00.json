@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "534",
 	"tags": [],
-	"title": "Senior Colloquium"
+	"title": "Senior Colloquium",
+	"type": "Course"
 }

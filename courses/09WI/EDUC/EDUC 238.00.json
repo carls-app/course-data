@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "22060",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS"
 	],
-	"title": "Multicultural Education"
+	"title": "Multicultural Education",
+	"type": "Course"
 }

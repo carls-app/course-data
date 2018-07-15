@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "4171",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Topics in Constitutional Law"
+	"title": "Topics in Constitutional Law",
+	"type": "Course"
 }

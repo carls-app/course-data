@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"CMC 209",
@@ -53,6 +53,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 28,
@@ -62,5 +63,6 @@
 	"summary": null,
 	"synonym": "21410",
 	"tags": [],
-	"title": "Calculus With Problem Solving"
+	"title": "Calculus With Problem Solving",
+	"type": "Course"
 }

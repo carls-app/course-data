@@ -9,7 +9,7 @@
 		"Annette Igra",
 		"Parna Sengupta"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "4195",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "WGSTINTRO",
-			"name": "WGST Introductory"
-		}
+		"WGSTADDL",
+		"AFAMPERT",
+		"WGSTINTRO"
 	],
-	"title": "Intro Women's & Gender Studies"
+	"title": "Intro Women's & Gender Studies",
+	"type": "Course"
 }

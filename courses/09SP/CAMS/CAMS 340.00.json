@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shawn VanCour"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "21629",
 	"tags": [
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMS300THEORY",
+		"CAMSELECTIVE"
 	],
-	"title": "Media Thry:Objects & Methods"
+	"title": "Media Thry:Objects & Methods",
+	"type": "Course"
 }

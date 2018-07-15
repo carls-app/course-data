@@ -6,7 +6,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19248",
 	"tags": [],
-	"title": "Senior Colloquium"
+	"title": "Senior Colloquium",
+	"type": "Course"
 }

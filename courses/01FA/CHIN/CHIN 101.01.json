@@ -7,7 +7,7 @@
 		"Mark Hansell",
 		"Ping Fu"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 16,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "502",
 	"tags": [],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

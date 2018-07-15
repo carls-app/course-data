@@ -9,7 +9,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 35,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "3501",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2"
 	],
-	"title": "US Women's History to 1900"
+	"title": "US Women's History to 1900",
+	"type": "Course"
 }

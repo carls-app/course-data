@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302",
@@ -45,6 +45,7 @@
 	"prerequisites": "Prerequisite: German 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -54,5 +55,6 @@
 	"summary": "Completion of the study of basic structural patterns of the German language, and the reading and discussion of a longer literary work.",
 	"synonym": "26675",
 	"tags": [],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

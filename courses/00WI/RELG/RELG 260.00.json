@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2953",
 	"tags": [],
-	"title": "Myth, Ritual and Symbolism"
+	"title": "Myth, Ritual and Symbolism",
+	"type": "Course"
 }

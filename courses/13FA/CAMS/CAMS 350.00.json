@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": "Images abound: contemporary life increasingly is defined by the pervasiveness of visual images which inform, entertain, document, manipulate, and socialize us. This seminar explores a wide range of critical issues and methods--both historical and contemporary--that will provide students a theoretical and critical command of contemporary visual experience. Our primary focus will be the photographic image as the foundational logic not only of photochemical and digital photography, but of cinema, the web and emerging forms such as virtual reality and computational digital imagery. This seminar offers essential critical tools for students of film, photography and contemporary media.",
 	"synonym": "35895",
 	"tags": [
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMS300THEORY",
+		"CAMSELECTIVE"
 	],
-	"title": "Visual Studies Seminar"
+	"title": "Visual Studies Seminar",
+	"type": "Course"
 }

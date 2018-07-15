@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Political Science 206, 270 or 271",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "24872",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"POSC300LEVEL",
+		"POSCELECTIVE"
 	],
-	"title": "Topics in Constitutional Law*"
+	"title": "Topics in Constitutional Law*",
+	"type": "Course"
 }

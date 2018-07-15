@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "19385",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"AMSTTOPICAL1",
+		"ENGL4"
 	],
-	"title": "Native American Literature"
+	"title": "Native American Literature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "15635",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"AMSTTOPICAL3",
+		"FRSTELEC",
+		"EUSTTRANNATL",
+		"FRSTSUPP",
+		"POSIADVSEM"
 	],
-	"title": "Pol Theory: Tocqueville"
+	"title": "Pol Theory: Tocqueville",
+	"type": "Course"
 }

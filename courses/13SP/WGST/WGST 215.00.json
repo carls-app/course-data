@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anahi Russo Garrido"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "This course introduces students to the study of feminist practices. What is the relationship of feminist theory to feminist practice? What is feminist activism? What tactics and strategies have feminist individuals and collectives undertaken for social change? How have some strategies been successful, while others have failed? Through a set of course readings and open small-group dialogue the course will look at a variety of tactics and strategies feminists have undertaken for social change. The course will enable students to experiment with some strategies, learn through the process of doing and reflect on theory and practice through hands-on learning projects.",
 	"synonym": "33502",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Feminist Practices, Activism and Social Change"
+	"title": "Feminist Practices, Activism and Social Change",
+	"type": "Course"
 }

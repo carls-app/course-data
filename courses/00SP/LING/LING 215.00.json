@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2475",
 	"tags": [],
-	"title": "Syntax of an Unfamiliar Lang"
+	"title": "Syntax of an Unfamiliar Lang",
+	"type": "Course"
 }

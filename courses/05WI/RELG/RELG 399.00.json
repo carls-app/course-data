@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10526",
 	"tags": [],
-	"title": "Senior Research Seminar"
+	"title": "Senior Research Seminar",
+	"type": "Course"
 }

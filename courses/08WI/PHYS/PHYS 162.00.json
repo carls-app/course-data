@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17752",
 	"tags": [],
-	"title": "Light and Optics"
+	"title": "Light and Optics",
+	"type": "Course"
 }

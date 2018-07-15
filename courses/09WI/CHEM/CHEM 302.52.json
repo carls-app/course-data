@@ -7,7 +7,7 @@
 		"Marion E Cass",
 		"Will Hollingsworth"
 	],
-	"number": "302.52",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "20457",
 	"tags": [],
-	"title": "Quantum Spectroscopy Lab"
+	"title": "Quantum Spectroscopy Lab",
+	"type": "Course"
 }

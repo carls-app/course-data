@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -52,14 +47,9 @@
 	"summary": "This course serves as a historical and critical survey of Spanish cinema from the early 1970s to the present. Topics of study will include the redefinition of Spanish identity in the post-Franco era, the rewriting of national history through cinema, cinematic representations of gender and sexuality, emergent genres, regional cinemas and identities, stars and transnational film projects, and the emergence of new Spanish auteurs from the 1980s to the present.",
 	"synonym": "35916",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"CAMSELECTIVE",
+		"EUSTCNTRY"
 	],
-	"title": "Contemporary Spanish Cinema"
+	"title": "Contemporary Spanish Cinema",
+	"type": "Course"
 }

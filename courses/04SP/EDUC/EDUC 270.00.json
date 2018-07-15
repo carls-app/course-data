@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "8427",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS"
 	],
-	"title": "Brown Vs. Board of Education"
+	"title": "Brown Vs. Board of Education",
+	"type": "Course"
 }

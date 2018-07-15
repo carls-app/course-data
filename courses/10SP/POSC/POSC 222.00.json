@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pat Cavanaugh"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": "Although what we eat everyday is familiar and biologically intimate, it is also a part of a complex political system. In this course we will learn about and reflect upon the political aspects of food in the U.S. Topics include food history, agribusiness, local food movements, food policy, and social justice. What influences the way we eat? How did ignorance about food become the norm in the U.S.? The course will include guest speakers and possibly field trips.",
 	"synonym": "25315",
 	"tags": [
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		}
+		"ENTSFASCP"
 	],
-	"title": "The Politics of Food: Producers, Consumers and Citizenship"
+	"title": "The Politics of Food: Producers, Consumers and Citizenship",
+	"type": "Course"
 }

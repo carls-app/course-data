@@ -10,7 +10,7 @@
 		"Stephan G Zweifel",
 		"Sarah Deel"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 101,
 		"total": 100,
@@ -45,10 +46,8 @@
 	"summary": null,
 	"synonym": "11959",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Intro: Genes & Evolution"
+	"title": "Intro: Genes & Evolution",
+	"type": "Course"
 }

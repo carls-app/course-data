@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Barron"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 48,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "16612",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		}
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSINTRO"
 	],
-	"title": "Principles-Environmental Chem"
+	"title": "Principles-Environmental Chem",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6974",
 	"tags": [],
-	"title": "Crafts of Writing: the Essay"
+	"title": "Crafts of Writing: the Essay",
+	"type": "Course"
 }

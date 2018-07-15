@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "16180",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"FRSTELECAL"
 	],
-	"title": "20th C Lit: Novel & Memory"
+	"title": "20th C Lit: Novel & Memory",
+	"type": "Course"
 }

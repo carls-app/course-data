@@ -8,16 +8,14 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "269.00",
+	"number": "269",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 60,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "8814",
 	"tags": [],
-	"title": "Soccer Intercollegiate"
+	"title": "Soccer Intercollegiate",
+	"type": "Course"
 }

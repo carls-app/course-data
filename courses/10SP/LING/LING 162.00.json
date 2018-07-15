@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "25303",
 	"tags": [],
-	"title": "World's Language Systems"
+	"title": "World's Language Systems",
+	"type": "Course"
 }

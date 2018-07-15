@@ -8,16 +8,14 @@
 	"instructors": [
 		"Cassie M Kosiba"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "26390",
 	"tags": [],
-	"title": "Basketball Intercollegiate, Women"
+	"title": "Basketball Intercollegiate, Women",
+	"type": "Course"
 }

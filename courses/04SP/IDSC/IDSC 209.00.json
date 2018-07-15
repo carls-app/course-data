@@ -9,7 +9,7 @@
 		"Cindy Blaha",
 		"Carol A Rutz"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "8465",
 	"tags": [],
-	"title": "Writing Science"
+	"title": "Writing Science",
+	"type": "Course"
 }

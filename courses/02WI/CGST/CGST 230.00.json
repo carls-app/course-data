@@ -10,7 +10,7 @@
 		"Kathleen M Galotti",
 		"Roy Elveton"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "399",
 	"tags": [],
-	"title": "Intro to Cognitive Science"
+	"title": "Intro to Cognitive Science",
+	"type": "Course"
 }

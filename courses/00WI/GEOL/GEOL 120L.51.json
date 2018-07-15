@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ed Buchwald"
 	],
-	"number": "120L.51",
+	"number": "120L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "51",
 	"size": {
 		"registered": 11,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1927",
 	"tags": [],
-	"title": "Environmental Geology Lab"
+	"title": "Environmental Geology Lab",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Myrna S Rezcallah"
 	],
-	"number": "381.01",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "11950",
 	"tags": [],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

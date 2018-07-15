@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 40,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "7822",
 	"tags": [
-		{
-			"code": "CGSTCORE",
-			"name": "CGST Core Course"
-		}
+		"CGSTCORE"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

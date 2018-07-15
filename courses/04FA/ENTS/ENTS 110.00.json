@@ -9,7 +9,7 @@
 		"Tsegaye H Nega",
 		"Gary E Wagenbach"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 50,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "10890",
 	"tags": [],
-	"title": "Envisioning Landscapes"
+	"title": "Envisioning Landscapes",
+	"type": "Course"
 }

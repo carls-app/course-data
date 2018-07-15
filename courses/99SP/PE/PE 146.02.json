@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "146.02",
+	"number": "146",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "1420",
 	"tags": [],
-	"title": "Life Guard Training"
+	"title": "Life Guard Training",
+	"type": "Course"
 }

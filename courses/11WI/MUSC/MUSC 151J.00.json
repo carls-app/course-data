@@ -11,16 +11,14 @@
 		"Patricia A Kent",
 		""
 	],
-	"number": "151J.00",
+	"number": "151J",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 100,
@@ -30,5 +28,6 @@
 	"summary": "A study of voice production, breathing, tone development, diction, and pronunciation. Selection (according to the individual voice) of Italian, German, French, and English songs of the Classic, Romantic, and Modern periods. Arias and songs from operas, oratorios, musical theater and popular songs from Western and non-Western traditions. In addition, one studio class per week.",
 	"synonym": "27168",
 	"tags": [],
-	"title": "Voice (Juried)"
+	"title": "Voice (Juried)",
+	"type": "Juried"
 }

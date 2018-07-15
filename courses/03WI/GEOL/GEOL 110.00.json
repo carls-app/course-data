@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3906",
 	"tags": [],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

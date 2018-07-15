@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15861",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Seductive Fictions"
+	"title": "Seductive Fictions",
+	"type": "Course"
 }

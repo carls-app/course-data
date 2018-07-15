@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 50,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "19247",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTMETH"
 	],
-	"title": "Ethics and Values Colloquium"
+	"title": "Ethics and Values Colloquium",
+	"type": "Course"
 }

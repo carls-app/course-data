@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "874",
 	"tags": [],
-	"title": "Junior Seminar"
+	"title": "Junior Seminar",
+	"type": "Course"
 }

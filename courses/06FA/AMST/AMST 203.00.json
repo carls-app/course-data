@@ -8,7 +8,7 @@
 	"instructors": [
 		"Willy Stern"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "14937",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Investigative Reporting"
+	"title": "Investigative Reporting",
+	"type": "Course"
 }

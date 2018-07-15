@@ -6,7 +6,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 4,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "3950",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

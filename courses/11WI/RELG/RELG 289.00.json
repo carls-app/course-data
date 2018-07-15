@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "Somali Muslims in Rice County? Hindus in Maple Grove? Hmong shamans in St. Paul hospitals? Sun Dances in Pipestone? In light of globalization, the religious landscape of Minnesota, like America more broadly, has become more visibly diverse. Lake Wobegon stereotypes aside, Minnesota has always been characterized by some diversity but the realities of immigration, dispossession, dislocation, economics, and technology have made religious diversity more pressing in its implications for every arena of civic and cultural life. This course bridges theoretical knowledge with engaged field research focused on how Midwestern contexts shape global religious communities and how these communities challenge and transform Minnesota.",
 	"synonym": "27949",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"AMSTTOPICAL2",
+		"RELGAMERTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Global Religions in Minnesota"
+	"title": "Global Religions in Minnesota",
+	"type": "Course"
 }

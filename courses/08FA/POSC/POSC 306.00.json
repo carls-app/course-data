@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "20609",
 	"tags": [
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"POSCADVSEM",
+		"AFAMDISTROSS",
+		"AMSTTOPICAL3"
 	],
-	"title": "How Race Matters-Am Pol"
+	"title": "How Race Matters-Am Pol",
+	"type": "Course"
 }

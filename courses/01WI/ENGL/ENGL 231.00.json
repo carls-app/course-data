@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "1993",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"WGSTCORE"
 	],
-	"title": "Witness Narr:Memoirs-Survival"
+	"title": "Witness Narr:Memoirs-Survival",
+	"type": "Course"
 }

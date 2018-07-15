@@ -8,7 +8,7 @@
 	"instructors": [
 		"Blake D Ratner"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "757",
 	"tags": [],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

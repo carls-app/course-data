@@ -8,7 +8,7 @@
 	"instructors": [
 		"David F Appleyard"
 	],
-	"number": "177.00",
+	"number": "177",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 35,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "557",
 	"tags": [],
-	"title": "Algorithms I"
+	"title": "Algorithms I",
+	"type": "Course"
 }

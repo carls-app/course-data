@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151, 152, 153, or 165",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -48,10 +46,8 @@
 	"summary": "The course covers the basic concepts of medical physics. Particular attention is paid to electromagnetism, mechanics and nuclear physics when applied to medical and biological phenomena. Topics include medical imaging techniques, nuclear medicine radiation protection, dosimetry, and physics in biology. Students will visit medical imaging facilities. Note that this course is not appropriate for pre-medical, pre-dental or pre-veterinary requirements.",
 	"synonym": "25994",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Medical Physics"
+	"title": "Medical Physics",
+	"type": "Course"
 }

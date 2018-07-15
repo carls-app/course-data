@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anita P Chikkatur"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": "Prerequisite: One previous Educational Studies course",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -51,18 +43,10 @@
 	"summary": "This course will explore the unique qualities that make city schools places of great richness and diversity, as well as places that face financial challenges and declining enrollment. We will explore race, culture, language, and curricular developments in many cities in the United States that have placed urban schools in the forefront of innovative educational leadership. We will read and discuss research on the importance of outreach to communities around a school. Other topics for class reading include the effect of funding inequities on urban schools, political ramifications and their direct effect on children, and the effect of tracking on all students.",
 	"synonym": "25891",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"EDUCCLUSTER3",
+		"AMSTTOPICAL3",
+		"AFAMSOCINQ"
 	],
-	"title": "Issues in Urban Education"
+	"title": "Issues in Urban Education",
+	"type": "Course"
 }

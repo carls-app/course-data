@@ -8,11 +8,12 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "209.07",
+	"number": "209",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "17654",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"SPAN205-209",
+		"EUSTCNTRY",
+		"EUSTOFFCAMP",
+		"ENGLFORLIT"
 	],
-	"title": "Exploring Spanish Culture"
+	"title": "Exploring Spanish Culture",
+	"type": "Course"
 }

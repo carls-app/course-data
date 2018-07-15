@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": "Intensive work on technical, theoretical, and expressive problems for the experienced dancer.",
 	"synonym": "24005",
 	"tags": [],
-	"title": "Modern Dance III: Technique and Theory"
+	"title": "Modern Dance III: Technique and Theory",
+	"type": "Course"
 }

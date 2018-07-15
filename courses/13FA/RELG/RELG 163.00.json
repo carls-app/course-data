@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lauren E Osborne"
 	],
-	"number": "163.00",
+	"number": "163",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -54,30 +46,13 @@
 	"summary": null,
 	"synonym": "36945",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		}
+		"MARSCORE",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"MARSSUPP",
+		"RELGISLAMICTRAD",
+		"RELGTHTHGHTPHIL"
 	],
-	"title": "Qur'an"
+	"title": "Qur'an",
+	"type": "Course"
 }

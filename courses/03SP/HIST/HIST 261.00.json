@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 54,
 		"total": 80,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "4665",
 	"tags": [
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTISLAM",
+		"CCSTREGIONAL",
+		"HISTASIA"
 	],
-	"title": "Modern Middle East"
+	"title": "Modern Middle East",
+	"type": "Course"
 }

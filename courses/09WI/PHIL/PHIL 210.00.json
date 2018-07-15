@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "21234",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"CGSCCORE",
+		"LINGPERT",
+		"SPECINTPHILSCI",
+		"PHILCORE"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

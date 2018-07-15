@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah E Hurst"
 	],
-	"number": "158.01",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "8283",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

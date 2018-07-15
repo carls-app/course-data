@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "164.00",
+	"number": "164",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CCSTREGIONAL"
 	],
-	"title": "Buddhist Art"
+	"title": "Buddhist Art",
+	"type": "Course"
 }

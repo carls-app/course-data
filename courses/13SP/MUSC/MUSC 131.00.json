@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 35,
@@ -50,14 +45,9 @@
 	"summary": "A history of the Delta blues and its influence on later blues and popular music styles, tracing its movement from the Mississippi Delta in the 1920s to Chess Records and the Chicago Blues of the 1940s and 50s (especially Howlin' Wolf and Muddy Waters). Music and musicians discussed will include the classic blues singers of the 1920s, early country music (Jimmie Rodgers), and the legacy of Robert Johnson. Issues of authenticity and \"ownership\" of both the music and its cultural legacy will also be discussed. The course involves readings, listening assignments, and some transcriptions of early recorded blues. No prerequisite, although the ability to read music is helpful.",
 	"synonym": "33815",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		}
+		"AMSTTOPICAL1",
+		"AFAMLITARTANLYS"
 	],
-	"title": "The Blues From the Delta to Chicago"
+	"title": "The Blues From the Delta to Chicago",
+	"type": "Course"
 }

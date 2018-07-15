@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15355",
 	"tags": [],
-	"title": "Computational Number Theory"
+	"title": "Computational Number Theory",
+	"type": "Course"
 }

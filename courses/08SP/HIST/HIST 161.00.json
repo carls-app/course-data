@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "18125",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTSOUTH",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "History of Modern India"
+	"title": "History of Modern India",
+	"type": "Course"
 }

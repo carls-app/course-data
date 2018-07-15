@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cynthia L Shearer"
 	],
-	"number": "101.04",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 10,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "21810",
 	"tags": [],
-	"title": "Elementary French"
+	"title": "Elementary French",
+	"type": "Course"
 }

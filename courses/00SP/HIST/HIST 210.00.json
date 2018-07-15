@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 45,
@@ -42,5 +43,6 @@
 		"HISTUS",
 		"CCSTETHNIC"
 	],
-	"title": "Traditional Societies:Bandits"
+	"title": "Traditional Societies:Bandits",
+	"type": "Course"
 }

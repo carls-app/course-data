@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "122.02",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 28,
 		"total": 35,
@@ -47,5 +48,6 @@
 		"AMSTTOPICAL3",
 		"AFAMPERT"
 	],
-	"title": "Politics-Amer:Liberty & Equal"
+	"title": "Politics-Amer:Liberty & Equal",
+	"type": "Course"
 }

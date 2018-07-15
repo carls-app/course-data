@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 8,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "20153",
 	"tags": [
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMSOCINQ",
+		"AFAMARTSPRAC"
 	],
-	"title": "African Karimba Ensemble"
+	"title": "African Karimba Ensemble",
+	"type": "Course"
 }

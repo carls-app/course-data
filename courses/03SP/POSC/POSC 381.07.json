@@ -8,11 +8,12 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "381.07",
+	"number": "381",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "4270",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTEAST"
 	],
-	"title": "Politics of Economic Devlpmnt"
+	"title": "Politics of Economic Devlpmnt",
+	"type": "Course"
 }

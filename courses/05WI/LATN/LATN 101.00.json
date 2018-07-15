@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "10612",
 	"tags": [],
-	"title": "Elementary Latin"
+	"title": "Elementary Latin",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": null,
 	"synonym": "26088",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"CGSCELECTIVE",
+		"NEURELEC"
 	],
-	"title": "Sem: Topics in Neuroscience"
+	"title": "Sem: Topics in Neuroscience",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "100.10",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "10",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -52,10 +47,8 @@
 	"summary": null,
 	"synonym": "30348",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Imagining a Self"
+	"title": "Imagining a Self",
+	"type": "Course"
 }

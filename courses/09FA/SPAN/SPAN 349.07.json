@@ -8,11 +8,12 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": "More than a study of the image of Madrid in Spanish literature, this course examines the actual experience of living in a cosmopolitan city through a variety of disciplines, including Urban Studies, Philosophy, Architecture, Sociology, and Spanish poetry and fiction.",
 	"synonym": "23064",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY"
 	],
-	"title": "Madrid Program: Theory and Practice of Urban Life"
+	"title": "Madrid Program: Theory and Practice of Urban Life",
+	"type": "Course"
 }

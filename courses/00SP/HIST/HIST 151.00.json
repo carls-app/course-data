@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 40,
@@ -38,5 +39,6 @@
 	"tags": [
 		"HISTEASIA"
 	],
-	"title": "Japan Since 1868"
+	"title": "Japan Since 1868",
+	"type": "Course"
 }

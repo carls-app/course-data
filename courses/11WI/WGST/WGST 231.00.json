@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angie Willey"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "27640",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"SPECINTSOCTHGHT",
+		"WGSTADDL"
 	],
-	"title": "Race, Gender, and Sexuality in Science"
+	"title": "Race, Gender, and Sexuality in Science",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "21260",
 	"tags": [],
-	"title": "Positive Psychology"
+	"title": "Positive Psychology",
+	"type": "Course"
 }

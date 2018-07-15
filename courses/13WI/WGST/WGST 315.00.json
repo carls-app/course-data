@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anahi Russo Garrido"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "33500",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"SPECINTSOCTHGHT",
+		"LTAMELECTIVE"
 	],
-	"title": "Queer Ethnographies Across Latin America and the Caribbean"
+	"title": "Queer Ethnographies Across Latin America and the Caribbean",
+	"type": "Course"
 }

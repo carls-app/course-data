@@ -8,7 +8,7 @@
 	"instructors": [
 		"Russ Hanson"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "12498",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "U.S. State Politics"
+	"title": "U.S. State Politics",
+	"type": "Course"
 }

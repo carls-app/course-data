@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "20202",
 	"tags": [],
-	"title": "Juried Lessons for the Major"
+	"title": "Juried Lessons for the Major",
+	"type": "Course"
 }

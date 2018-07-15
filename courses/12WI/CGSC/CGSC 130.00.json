@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "29034",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "How to Build a Mind"
+	"title": "How to Build a Mind",
+	"type": "Course"
 }

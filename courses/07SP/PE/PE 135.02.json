@@ -4,16 +4,14 @@
 	"department": "PE",
 	"id": "PE 135.02",
 	"instructors": [],
-	"number": "135.02",
+	"number": "135",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 0,
@@ -23,5 +21,6 @@
 	"summary": null,
 	"synonym": "17361",
 	"tags": [],
-	"title": "Outdoor Activity"
+	"title": "Outdoor Activity",
+	"type": "Course"
 }

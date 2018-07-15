@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melvin L Rogers"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15634",
 	"tags": [],
-	"title": "Religion,Democracy&Pragmatism"
+	"title": "Religion,Democracy&Pragmatism",
+	"type": "Course"
 }

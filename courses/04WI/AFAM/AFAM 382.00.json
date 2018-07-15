@@ -9,7 +9,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -34,22 +35,11 @@
 	"summary": null,
 	"synonym": "8039",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		}
+		"AFAMDISTROHU",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"HISTAFRICA"
 	],
-	"title": "Hist,Memory in Ghana &Revisit"
+	"title": "Hist,Memory in Ghana &Revisit",
+	"type": "Course"
 }

@@ -8,20 +8,15 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "278.07",
+	"number": "278",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -31,5 +26,6 @@
 	"summary": null,
 	"synonym": "26734",
 	"tags": [],
-	"title": "Cross-Cultural Psychology Sem in Prague: Politics & Culture in Central Europe-Twentieth Century"
+	"title": "Cross-Cultural Psychology Sem in Prague: Politics & Culture in Central Europe-Twentieth Century",
+	"type": "Course"
 }

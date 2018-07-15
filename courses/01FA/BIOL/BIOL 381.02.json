@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "381.02",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "297",
 	"tags": [],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

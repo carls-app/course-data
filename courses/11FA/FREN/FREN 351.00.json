@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: French 240-level course or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -50,46 +45,17 @@
 	"summary": "The French Renaissance continues to intrigue students and critics by its propensity for paradox, ambiguity, and contradiction. Just as literature and the arts reached new levels of aesthetic achievement, the bloodiest civil war in French history was taking shape. Lyric poetry, bawdy tales, essays and chronicles depict beautiful bodies and monsters, war and peace, hatred and love. Through such authors as Rabelais, Marguerite de Navarre, Ronsard, Louise Labé and Montaigne, as well as artistic and musical works, we will investigate the multiple worlds of French renaissance culture.",
 	"synonym": "29971",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"MARSCORE",
+		"MARSCAP",
+		"EUSTCNTRY",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"MARSSUPP",
+		"ENGLLOE"
 	],
-	"title": "Love, War and Monsters in Early Modern France"
+	"title": "Love, War and Monsters in Early Modern France",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Russian 205 or faculty permission.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -50,14 +45,9 @@
 	"summary": "Many well-known Russian writers also wrote literature for children. Some sought new ways of educating; others sought refuge from the constraints of censorship. Some incorporated themes from folklore; others created new characters who became part of the literary culture shared by all Russians. This course will examine the evolution of Russian writing for children from the mid-nineteenth century to the present. Works by Tolstoy, Chukovskii, Zoshchenko, Olesha, Kharms, Marshak and others. Conducted in Russian.",
 	"synonym": "29831",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "Russian Literature for Children"
+	"title": "Russian Literature for Children",
+	"type": "Course"
 }

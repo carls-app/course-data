@@ -8,7 +8,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13725",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Android Epistemology"
+	"title": "Android Epistemology",
+	"type": "Course"
 }

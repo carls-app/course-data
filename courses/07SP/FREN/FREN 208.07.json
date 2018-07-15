@@ -9,11 +9,12 @@
 		"Dana Strand",
 		""
 	],
-	"number": "208.07",
+	"number": "208",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -23,18 +24,10 @@
 	"summary": null,
 	"synonym": "15451",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"EUSTOFFCAMP"
 	],
-	"title": "Composition and Conversation"
+	"title": "Composition and Conversation",
+	"type": "Course"
 }

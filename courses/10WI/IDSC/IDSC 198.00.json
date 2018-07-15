@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Mathematics 100",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 13,
@@ -43,5 +44,6 @@
 	"summary": "This colloquium is designed to give students participating in the Focusing on Cultivating Scientists program an opportunity to learn and use skills in scientific study, reasoning, and modeling. The topics of this project-based colloquium will vary each term, and allow students to develop competencies in areas relevant to multiple science disciplines.",
 	"synonym": "24782",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

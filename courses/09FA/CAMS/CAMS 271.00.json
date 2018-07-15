@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": "Through a series of exercises students will explore the fundamentals of making fictional media, including framing, staging, camera movement, working with actors, traditional 3-act structure, and alternative approaches. Through course readings, screenings, and writing exercises, we will analyze how mood, tone, and themes are constructed through formal techniques. Group and individual exercises will develop diverse strategies for narrative construction and cinematic storytelling. The course will culminate in individual short fiction projects.",
 	"synonym": "22868",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
-	"title": "Fiction"
+	"title": "Fiction",
+	"type": "Course"
 }

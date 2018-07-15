@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "19194",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Theory&Practice American Stds"
+	"title": "Theory&Practice American Stds",
+	"type": "Course"
 }

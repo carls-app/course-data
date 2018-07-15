@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "357.00",
+	"number": "357",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "25571",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTEAST",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Advanced Chinese: Contemporary Social Issues"
+	"title": "Advanced Chinese: Contemporary Social Issues",
+	"type": "Course"
 }

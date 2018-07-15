@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -44,5 +45,6 @@
 		"CCSTGLOBAL",
 		"POSC300LEVEL"
 	],
-	"title": "International Conflict and War"
+	"title": "International Conflict and War",
+	"type": "Course"
 }

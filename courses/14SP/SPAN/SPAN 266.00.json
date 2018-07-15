@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -45,30 +40,13 @@
 	"summary": "We study the resurgence of literature in Central America during the 1990s after the various political conflicts in the region (a civil war, a revolution and an insurgence). We will examine how the reconstruction of the public sphere in these countries included a rethinking of civil society via literature. We will study how literature from this period reimagines national frontiers as members of the diasporic communities that resulted from the political conflicts produced texts and posed difficult questions about what is a national literature. Among the authors studied will be Horacio Castellanos Moya, Jacinta Escudos Rodrigo Rey Rosa and Franz Galich.",
 	"synonym": "36402",
 	"tags": [
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "SPAN240-290",
-			"name": "Spanish 240-290 Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "CCSTENCTR",
-			"name": "Ccst Encounters"
-		}
+		"SPAN220-290",
+		"SPAN240-290",
+		"LTAMPERT",
+		"LTAMLIT",
+		"LTAMELECTIVE",
+		"CCSTENCTR"
 	],
-	"title": "Postwar Central American LIterature"
+	"title": "Postwar Central American LIterature",
+	"type": "Course"
 }

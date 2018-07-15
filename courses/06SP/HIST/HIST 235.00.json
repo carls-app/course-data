@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "12430",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		}
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL",
+		"HISTERLYMODEUR",
+		"HISTEUR1450"
 	],
-	"title": "Dantes Italy"
+	"title": "Dantes Italy",
+	"type": "Course"
 }

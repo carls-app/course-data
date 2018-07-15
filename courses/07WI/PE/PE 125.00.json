@@ -7,7 +7,7 @@
 		"Guy A Kalland",
 		"Mikki Showers"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "16245",
 	"tags": [],
-	"title": "Folk Dance"
+	"title": "Folk Dance",
+	"type": "Course"
 }

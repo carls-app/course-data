@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steve Ridgely"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "11814",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"LITFORLANG",
+		"ASSTEAST"
 	],
-	"title": "Cont & Mdrn Jpns Fic in Trans"
+	"title": "Cont & Mdrn Jpns Fic in Trans",
+	"type": "Course"
 }

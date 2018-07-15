@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "111L.53",
+	"number": "111L",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "11822",
 	"tags": [],
-	"title": "Biology of Diseases Lab"
+	"title": "Biology of Diseases Lab",
+	"type": "Lab"
 }

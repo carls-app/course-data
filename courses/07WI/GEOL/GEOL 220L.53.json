@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah J Titus"
 	],
-	"number": "220L.53",
+	"number": "220L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "16997",
 	"tags": [],
-	"title": "Tectonics Lab"
+	"title": "Tectonics Lab",
+	"type": "Lab"
 }

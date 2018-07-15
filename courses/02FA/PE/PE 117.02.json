@@ -6,16 +6,14 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "117.02",
+	"number": "117",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 12,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "6136",
 	"tags": [],
-	"title": "Cote Fitness"
+	"title": "Cote Fitness",
+	"type": "Course"
 }

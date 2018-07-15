@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kanishkan Sathasivam"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "American Foreign Policy"
+	"title": "American Foreign Policy",
+	"type": "Course"
 }

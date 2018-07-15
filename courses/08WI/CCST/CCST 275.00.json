@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "18072",
 	"tags": [
-		{
-			"code": "CCSTCORE",
-			"name": "CCST Core Courses"
-		}
+		"CCSTCORE"
 	],
-	"title": "I'm a Stranger Here Myself"
+	"title": "I'm a Stranger Here Myself",
+	"type": "Course"
 }

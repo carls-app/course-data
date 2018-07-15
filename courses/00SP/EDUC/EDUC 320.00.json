@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gene Bauer"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "122",
 	"tags": [],
-	"title": "Tch Engl As Second/Forgn Lang"
+	"title": "Tch Engl As Second/Forgn Lang",
+	"type": "Course"
 }

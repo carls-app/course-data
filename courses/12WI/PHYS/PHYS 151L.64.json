@@ -8,7 +8,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "151L.64",
+	"number": "151L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "64",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "31183",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

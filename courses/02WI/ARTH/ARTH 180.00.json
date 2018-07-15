@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy E Caslin"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "537",
 	"tags": [],
-	"title": "Medieval Art"
+	"title": "Medieval Art",
+	"type": "Course"
 }

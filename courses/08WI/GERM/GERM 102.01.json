@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "19079",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

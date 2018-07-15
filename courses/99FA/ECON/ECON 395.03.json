@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "395.03",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2843",
 	"tags": [],
-	"title": "Microeconomics & Public Policy"
+	"title": "Microeconomics & Public Policy",
+	"type": "Course"
 }

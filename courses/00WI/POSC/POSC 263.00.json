@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"CCSTREGIONAL"
 	],
-	"title": "European Political Economy"
+	"title": "European Political Economy",
+	"type": "Course"
 }

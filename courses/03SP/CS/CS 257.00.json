@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3813",
 	"tags": [],
-	"title": "Topics in Software Design"
+	"title": "Topics in Software Design",
+	"type": "Course"
 }

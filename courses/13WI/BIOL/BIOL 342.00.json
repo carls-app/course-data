@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126, and Biology 240 or 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -46,10 +44,8 @@
 	"summary": "An analysis of animal development from fertilization to the establishment of the adult body form. Lectures and discussions will examine the key processes of animal embryogenesis, as well as the molecular and cellular mechanisms that control these developmental processes.",
 	"synonym": "32903",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Animal Developmental Biology"
+	"title": "Animal Developmental Biology",
+	"type": "Course"
 }

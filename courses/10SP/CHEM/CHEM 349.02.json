@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "349.02",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 348",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 8,
@@ -33,5 +34,6 @@
 	"summary": "Credit for the laboratory portion of Chemistry 348. Corequisite: Chemistry 348.",
 	"synonym": "22989",
 	"tags": [],
-	"title": "Computational Chemistry Laboratory"
+	"title": "Computational Chemistry Laboratory",
+	"type": "Course"
 }

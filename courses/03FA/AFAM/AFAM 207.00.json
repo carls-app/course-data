@@ -9,7 +9,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "7429",
 	"tags": [
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AFAMDISTROSS",
+		"AMSTTOPICAL3"
 	],
-	"title": "Urban Politics"
+	"title": "Urban Politics",
+	"type": "Course"
 }

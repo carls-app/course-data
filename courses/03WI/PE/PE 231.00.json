@@ -8,16 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "6197",
 	"tags": [],
-	"title": "Ice Hockey Club"
+	"title": "Ice Hockey Club",
+	"type": "Course"
 }

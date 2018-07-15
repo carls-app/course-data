@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "7000",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGL1",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"MARSSUPP"
 	],
-	"title": "Shakespre I: Hist & Comedies"
+	"title": "Shakespre I: Hist & Comedies",
+	"type": "Course"
 }

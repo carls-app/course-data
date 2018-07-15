@@ -8,20 +8,15 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "247.07",
+	"number": "247",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -31,10 +26,8 @@
 	"summary": null,
 	"synonym": "31594",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Paris Program: France and the European Union"
+	"title": "Paris Program: France and the European Union",
+	"type": "Course"
 }

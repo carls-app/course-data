@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "265.02",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "Introduction to probability and its applications. Topics include discrete probability, random variables, independence, joint and conditional distributions, expectation, limit laws and properties of common probability distributions.",
 	"synonym": "31755",
 	"tags": [],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rosemary Rader"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2627",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Women and Religion"
+	"title": "Women and Religion",
+	"type": "Course"
 }

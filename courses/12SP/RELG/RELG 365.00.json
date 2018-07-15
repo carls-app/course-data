@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -41,26 +39,12 @@
 	"summary": "Drawing from selected traditional texts and modern analyses, we will investigate the human encounter with ultimate reality. Questions we will consider include: What is the definition and typology of mysticism? Is mystical experience truly ineffable? What are its modes of expression? Do all mystics experience the same reality? Is unmediated experience possible? Do mystical experiences show us the truth? Is there a place for reason on a mystical path? What is the role of the body and brain in mystical practice? Does mystical experience make us good? Does it free us? Are mystics critics of institutional religion or social injustice?",
 	"synonym": "30453",
 	"tags": [
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"RELGJEWISHTRAD",
+		"RELGCHRISTNTRAD",
+		"RELGBUDDHSTTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL"
 	],
-	"title": "Mysticism"
+	"title": "Mysticism",
+	"type": "Course"
 }

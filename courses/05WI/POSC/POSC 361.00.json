@@ -6,7 +6,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "361.00",
+	"number": "361",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "11588",
 	"tags": [
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"ENTSSP"
 	],
-	"title": "Rethinking Environmental Pol"
+	"title": "Rethinking Environmental Pol",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -50,10 +45,8 @@
 	"summary": "What makes a family? How has the conception of kinship and the 'normal' family changed over the generations? In this introductory class, we examine these questions, drawing on a variety of course materials ranging from classic works in sociology to contemporary blogs on family life. The class focuses on diversity in family life, paying particular attention to the intersection between the family, race and ethnicity, and social class. We'll examine these issues at the micro and macro level, incorporating texts that focus on individuals' stories as well as demographics of the family.",
 	"synonym": "32823",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Modern Families: An Introduction to the Sociology of the Family"
+	"title": "Modern Families: An Introduction to the Sociology of the Family",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "303.00",
+	"number": "303",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "24010",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"CAMSELECTIVE"
 	],
-	"title": "Political Communication: Political Advertising in Elections and Public Policy*"
+	"title": "Political Communication: Political Advertising in Elections and Public Policy*",
+	"type": "Course"
 }

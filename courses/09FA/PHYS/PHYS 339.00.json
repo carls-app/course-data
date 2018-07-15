@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 228",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "22792",
 	"tags": [],
-	"title": "Thermal and Statistical Physics I"
+	"title": "Thermal and Statistical Physics I",
+	"type": "Course"
 }

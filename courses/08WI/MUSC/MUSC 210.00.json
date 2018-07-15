@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen K Kelly"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "18483",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"CCSTGLOBAL",
+		"MARSCORE",
+		"EUSTTRANNATL"
 	],
-	"title": "Medieval and Renaissance Music"
+	"title": "Medieval and Renaissance Music",
+	"type": "Course"
 }

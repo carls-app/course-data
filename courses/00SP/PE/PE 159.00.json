@@ -8,7 +8,7 @@
 	"instructors": [
 		"John E Campion"
 	],
-	"number": "159.00",
+	"number": "159",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,6 +26,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "3447",
 	"tags": [],
-	"title": "Scuba"
+	"title": "Scuba",
+	"type": "Course"
 }

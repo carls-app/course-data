@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Boliou 130",
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 0,
@@ -49,18 +50,10 @@
 	"summary": null,
 	"synonym": "16326",
 	"tags": [
-		{
-			"code": "CAMSPHOTO",
-			"name": "CAMS Photography"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSPHOTO",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Adv Photo: Color Photo"
+	"title": "Adv Photo: Color Photo",
+	"type": "Course"
 }

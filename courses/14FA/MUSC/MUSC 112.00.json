@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dan Blim"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -49,14 +41,9 @@
 	"summary": "This course will survey the various styles and issues of American popular music from the beginnings of rock in the 1950s to the present. Particular attention will be given to issues of ownership, identity, and how music speaks to and for artists and audiences. Weekly readings and listening examples are given, and students will produce several short writing assignments and one in-class presentation.",
 	"synonym": "40154",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "American Popular Music after 1950"
+	"title": "American Popular Music after 1950",
+	"type": "Course"
 }

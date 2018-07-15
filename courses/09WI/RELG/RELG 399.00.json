@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "21709",
 	"tags": [],
-	"title": "Senior Research Seminar"
+	"title": "Senior Research Seminar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeremy E Caslin"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1922",
 	"tags": [],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

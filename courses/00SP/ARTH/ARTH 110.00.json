@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2108",
 	"tags": [],
-	"title": "History of Architecture"
+	"title": "History of Architecture",
+	"type": "Course"
 }

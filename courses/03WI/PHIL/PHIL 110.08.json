@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lilli K Alanen"
 	],
-	"number": "110.08",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "08",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "6137",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Cartesian Meditations"
+	"title": "Cartesian Meditations",
+	"type": "Course"
 }

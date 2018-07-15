@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "170.01",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "20675",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"AFAMPERT"
 	],
-	"title": "Intl Reltns & World Politics"
+	"title": "Intl Reltns & World Politics",
+	"type": "Course"
 }

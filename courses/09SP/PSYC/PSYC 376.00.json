@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "376.00",
+	"number": "376",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "21322",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"NEURELEC",
+		"SPECINTHEALTH"
 	],
-	"title": "Neural Plasticity"
+	"title": "Neural Plasticity",
+	"type": "Course"
 }

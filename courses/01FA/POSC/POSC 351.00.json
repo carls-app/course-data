@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Pol Thry/Dr Martin Luther King"
+	"title": "Pol Thry/Dr Martin Luther King",
+	"type": "Course"
 }

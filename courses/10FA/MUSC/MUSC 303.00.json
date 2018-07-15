@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "303.00",
+	"number": "303",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Music 201 or 204",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -47,5 +42,6 @@
 	"summary": "This course, required for the music major, is both an overall survey of the Western art music of the twentieth century, and an analysis class designed to equip the major with analytical techniques in non-formal music from Schoenberg to the avant-garde.",
 	"synonym": "27156",
 	"tags": [],
-	"title": "Music Since 1900"
+	"title": "Music Since 1900",
+	"type": "Course"
 }

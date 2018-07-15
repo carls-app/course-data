@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4091",
 	"tags": [],
-	"title": "The Sacred Body"
+	"title": "The Sacred Body",
+	"type": "Course"
 }

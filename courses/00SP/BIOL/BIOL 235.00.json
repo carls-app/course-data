@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bing Yang"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2544",
 	"tags": [],
-	"title": "Microbiology Laboratory"
+	"title": "Microbiology Laboratory",
+	"type": "Course"
 }

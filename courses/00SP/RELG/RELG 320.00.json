@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2658",
 	"tags": [],
-	"title": "Conscience & Community"
+	"title": "Conscience & Community",
+	"type": "Course"
 }

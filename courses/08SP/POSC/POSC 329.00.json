@@ -7,7 +7,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 25,
@@ -37,42 +38,16 @@
 	"summary": null,
 	"synonym": "18326",
 	"tags": [
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSC300LEVEL",
-			"name": "Polisci 300 Level"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSCADVSEM",
+		"AMSTTOPICAL3",
+		"ASSTSS",
+		"ASSTEAST",
+		"POSISECFRGNPOL",
+		"POSIADVSEM",
+		"POSC300LEVEL",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "Vietnam, Iraq & Amer Policy"
+	"title": "Vietnam, Iraq & Amer Policy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -41,34 +42,14 @@
 	"summary": "This course explores the colonialisms in East Asia, both internal and external. Students examine Chinese, Inner Asian, Japanese, and European colonialisms from the seventeenth century to the present. Geographically, students cover borderlands of East Asian empires (Tibet, Xinjiang, Mongolia, Manchuria, Fujian, Yunnan, Canton, Vietnam, Taiwan, Korea, Okinawa, and Hokkaido). Methodologically, students eschew power-politics and historical studies of \"frontier\" regions in order to analyze everyday aspects of colonial arrangements and communities in different historical moments from the bottom up. Topics include ethnic identities, racial discourses, colonial settlements, opium regimes, violence and memory (e.g. Nanjing massacre), and forced labor migrations (e.g. comfort women).",
 	"synonym": "24140",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"ASSTCENT",
+		"HISTASIA",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
-	"title": "Colonialism in East Asia"
+	"title": "Colonialism in East Asia",
+	"type": "Course"
 }

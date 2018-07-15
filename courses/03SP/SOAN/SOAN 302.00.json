@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "4363",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300SOCSCI",
-			"name": "LTAM 300 Soc Science"
-		}
+		"CCSTGLOBAL",
+		"AMSTTOPICAL3",
+		"CCSTETHNIC",
+		"LTAMELECTIVE",
+		"LTAM300SOCSCI"
 	],
-	"title": "Anthro & Indigenous Rights"
+	"title": "Anthro & Indigenous Rights",
+	"type": "Course"
 }

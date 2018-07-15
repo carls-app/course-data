@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -45,38 +40,15 @@
 	"summary": "This course offers a survey of Buddhism from its inception in India some 2500 years ago to the present. We first address fundamental Buddhist ideas and practices, then their elaboration in the Mahayana and tantric movements, which emerged in the first millennium CE in India. We also consider the diffusion of Buddhism throughout Asia and to the West. Attention will be given to both continuity and diversity within Buddhism--to its commonalities and transformations in specific historical and cultural settings. We also will address philosophical, social, political, and ethical problems that are debated among Buddhists and scholars of Buddhism today.",
 	"synonym": "36011",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTHU",
+		"EASTSUPP",
+		"RELGBUDDHSTTRAD",
+		"ASSTPERT",
+		"SAST",
+		"ASSTSOUTH",
+		"ASSTCENT",
+		"ASSTEAST"
 	],
-	"title": "Introduction to Buddhism"
+	"title": "Introduction to Buddhism",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "21064",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Topics in Virology"
+	"title": "Topics in Virology",
+	"type": "Course"
 }

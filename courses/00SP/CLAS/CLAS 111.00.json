@@ -6,7 +6,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Class Myth:Lang of Myth"
+	"title": "Class Myth:Lang of Myth",
+	"type": "Course"
 }

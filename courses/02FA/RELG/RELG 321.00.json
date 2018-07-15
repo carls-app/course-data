@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard E Crouter"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "4106",
 	"tags": [],
-	"title": "Kierkegaard"
+	"title": "Kierkegaard",
+	"type": "Course"
 }

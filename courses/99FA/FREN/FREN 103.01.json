@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cynthia L Shearer"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language Lab 110"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "2790",
 	"tags": [],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

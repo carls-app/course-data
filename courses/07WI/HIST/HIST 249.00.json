@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "15501",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-AREAS"
 	],
-	"title": "New Central Eur in Hist Perstv"
+	"title": "New Central Eur in Hist Perstv",
+	"type": "Course"
 }

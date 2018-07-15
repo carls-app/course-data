@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -45,18 +40,10 @@
 	"summary": "This course provides a basic introduction to the history of the wider Muslim world from the eighteenth century to the present. We will discuss the cultural and religious diversity of the Muslim world and its varied interactions with modernity. We will find that the history of the Muslim world is inextricably linked to that of its neighbors, and we will encounter colonialism, anti-colonialism, nationalism, and socialism, as well as a variety of different Islamic movements.",
 	"synonym": "35974",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "From Young Turks to Arab Revolutions: A Cultural History of the Modern Middle East"
+	"title": "From Young Turks to Arab Revolutions: A Cultural History of the Modern Middle East",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -33,18 +34,10 @@
 	"summary": null,
 	"synonym": "8014",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL",
+		"MARSSUPP"
 	],
-	"title": "Controversial Histories"
+	"title": "Controversial Histories",
+	"type": "Course"
 }

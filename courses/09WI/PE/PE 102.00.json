@@ -9,7 +9,7 @@
 		"",
 		"Linda K Luedke"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"West Gym WRES"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 40,
@@ -44,5 +42,6 @@
 	"summary": null,
 	"synonym": "22456",
 	"tags": [],
-	"title": "Aikido, Intermediate"
+	"title": "Aikido, Intermediate",
+	"type": "Course"
 }

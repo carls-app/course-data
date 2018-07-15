@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -47,5 +48,6 @@
 		"FRSTSUPP",
 		"FRSTHIST"
 	],
-	"title": "France:From 3rd-5th Republic"
+	"title": "France:From 3rd-5th Republic",
+	"type": "Course"
 }

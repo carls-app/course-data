@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael H Kidd"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104",
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "8899",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

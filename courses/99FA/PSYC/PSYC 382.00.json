@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristen C Kling"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "4087",
 	"tags": [],
-	"title": "Topics Social & Personality"
+	"title": "Topics Social & Personality",
+	"type": "Course"
 }

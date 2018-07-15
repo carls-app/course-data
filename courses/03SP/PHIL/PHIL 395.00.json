@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald W Loeffler"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3763",
 	"tags": [],
-	"title": "Advanced Seminar"
+	"title": "Advanced Seminar",
+	"type": "Course"
 }

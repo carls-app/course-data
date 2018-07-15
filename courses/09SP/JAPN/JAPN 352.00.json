@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "21885",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Adv Japn-Manga&Cntmp Material"
+	"title": "Adv Japn-Manga&Cntmp Material",
+	"type": "Course"
 }

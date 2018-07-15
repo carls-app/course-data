@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2450",
 	"tags": [],
-	"title": "Advanced Elect & Magnetism"
+	"title": "Advanced Elect & Magnetism",
+	"type": "Course"
 }

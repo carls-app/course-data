@@ -6,16 +6,14 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "290.11",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "INT"
-		}
+		"INT"
 	],
 	"scnc": true,
+	"section": "11",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "37493",
 	"tags": [],
-	"title": "Restaurants and Ethics"
+	"title": "Restaurants and Ethics",
+	"type": "Course"
 }

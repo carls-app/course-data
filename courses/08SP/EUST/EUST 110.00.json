@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "19361",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCORE",
+		"POSI-AREAS",
+		"SPECINTSOCTHGHT",
+		"HISTERLYMODEUR"
 	],
-	"title": "Intro to European Studies"
+	"title": "Intro to European Studies",
+	"type": "Course"
 }

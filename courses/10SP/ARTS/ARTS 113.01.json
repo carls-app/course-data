@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "113.01",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Boliou 160"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": "A beginning drawing course for students who are interested in developing their skills in drawing from nature. Much of the classwork will be done outdoors and deal directly with drawing from plant forms, geological sources, and the landscape as subjects. Emphasis will be placed on the development of the technical skills needed for visual note-taking and development of journals. Problems will deal with the analysis of space and objects through line, shape, volume, and tone.",
 	"synonym": "24363",
 	"tags": [
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSLPSCP",
+		"ENTSENVPERS"
 	],
-	"title": "Field Drawing"
+	"title": "Field Drawing",
+	"type": "Course"
 }

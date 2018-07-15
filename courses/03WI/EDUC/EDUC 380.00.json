@@ -6,7 +6,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "4945",
 	"tags": [],
-	"title": "Education and Ethics"
+	"title": "Education and Ethics",
+	"type": "Course"
 }

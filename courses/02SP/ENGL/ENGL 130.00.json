@@ -6,7 +6,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "722",
 	"tags": [],
-	"title": "Shakespeare I"
+	"title": "Shakespeare I",
+	"type": "Course"
 }

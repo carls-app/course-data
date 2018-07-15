@@ -10,7 +10,7 @@
 		"Qiguang Zhao",
 		"Kathleen M Ryor"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -35,12 +35,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -50,5 +48,6 @@
 	"summary": null,
 	"synonym": "511",
 	"tags": [],
-	"title": "Studies in Chinese Art & Lit"
+	"title": "Studies in Chinese Art & Lit",
+	"type": "Course"
 }

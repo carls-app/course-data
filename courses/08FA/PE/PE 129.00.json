@@ -9,7 +9,7 @@
 		"Guy A Kalland",
 		"Linda K Luedke"
 	],
-	"number": "129.00",
+	"number": "129",
 	"offerings": {
 		"locations": [
 			"West Gym GYM"
@@ -24,12 +24,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 12,
@@ -39,5 +37,6 @@
 	"summary": null,
 	"synonym": "20713",
 	"tags": [],
-	"title": "Golf, Beginning"
+	"title": "Golf, Beginning",
+	"type": "Course"
 }

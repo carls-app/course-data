@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts FIELD"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2022",
 	"tags": [],
-	"title": "Frisbee, Beginning Ultimate"
+	"title": "Frisbee, Beginning Ultimate",
+	"type": "Course"
 }

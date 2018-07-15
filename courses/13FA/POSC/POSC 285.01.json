@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jon R Olson"
 	],
-	"number": "285.01",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": "Intelligence affects every aspect of the development of national security strategy and foreign policy objectives, and many other governmental decisions as well. Students will study the entire spectrum of the U.S. Intelligence Community, including the intelligence cycle; the many collection capabilities; the role of policymakers; intelligence oversight; budgeting; and the ethical and moral dilemmas of things like spying, covert action, counterintelligence, interrogation, and drone operations.",
 	"synonym": "36419",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "The U.S. Intelligence Community"
+	"title": "The U.S. Intelligence Community",
+	"type": "Course"
 }

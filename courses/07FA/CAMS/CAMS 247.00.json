@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael S Griffin"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "19047",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"CAMSELECTIVE",
+		"AMSTTOPICAL1"
 	],
-	"title": "Deconstructing Journalism"
+	"title": "Deconstructing Journalism",
+	"type": "Course"
 }

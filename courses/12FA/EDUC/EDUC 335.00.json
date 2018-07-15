@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrea L Nixon"
 	],
-	"number": "335.00",
+	"number": "335",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": "Prerequisite: Previous Educational Studies course or instructor permission",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"QRE",
+		"IDS",
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -49,10 +41,8 @@
 	"summary": "In our data-driven world, individuals who are able to critically read and produce quality research are in powerful positions to effect educational change. What changes have the greatest promise? Once change is implemented, does it actually live up to that promise? This course will provide an introductory experience to being an educational researcher. Students will distinguish cases in which qualitative or quantitative research methods are warranted; examine the literature and identify gaps; and prepare a research plan. The topic of study will be the influence of cultural capital in the ways Carleton students study or choose courses of study.",
 	"synonym": "31921",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTELEC"
 	],
-	"title": "Educational Research: Cultural Capital and Carleton"
+	"title": "Educational Research: Cultural Capital and Carleton",
+	"type": "Course"
 }

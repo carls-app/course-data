@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "116.00",
+	"number": "116",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -46,22 +44,11 @@
 	"summary": "The tragic and comic stage offered the Greeks and Romans a public arena for addressing in an engaging way such fundamental topics as love, family, justice, and the divine. Although the written word has fortunately preserved for us many ancient plays, the proper media for their communication remains, as their authors intended, the stage, the voice, and the body. This course will therefore address a variety of ancient tragedies and comedies with special attention, not only to their themes, but to the manner of their staging and performance.",
 	"synonym": "25697",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"THEAPERT",
+		"ENGLLOE"
 	],
-	"title": "Ancient Drama: Truth in Performance"
+	"title": "Ancient Drama: Truth in Performance",
+	"type": "Course"
 }

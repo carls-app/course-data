@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maureen B Jackson"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "30347",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"HISTASIA",
+		"EUSTTRANNATL"
 	],
-	"title": "Jews in a Multiethnic Empire"
+	"title": "Jews in a Multiethnic Empire",
+	"type": "Course"
 }

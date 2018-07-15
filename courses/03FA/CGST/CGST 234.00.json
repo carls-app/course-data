@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -49,5 +47,6 @@
 	"summary": null,
 	"synonym": "6674",
 	"tags": [],
-	"title": "Psychology of Language"
+	"title": "Psychology of Language",
+	"type": "Course"
 }

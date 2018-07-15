@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard E Crouter"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "4138",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTTRANNATL",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Protestant Thought"
+	"title": "Protestant Thought",
+	"type": "Course"
 }

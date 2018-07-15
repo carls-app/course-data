@@ -8,7 +8,7 @@
 	"instructors": [
 		"Charles Carlin"
 	],
-	"number": "234.01",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "702",
 	"tags": [],
-	"title": "Organic Chemistry II"
+	"title": "Organic Chemistry II",
+	"type": "Course"
 }

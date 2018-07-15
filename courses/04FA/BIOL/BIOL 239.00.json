@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "9297",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSSCI"
 	],
-	"title": "Entomology Laboratory"
+	"title": "Entomology Laboratory",
+	"type": "Course"
 }

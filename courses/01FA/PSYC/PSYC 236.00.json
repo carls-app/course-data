@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 26,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2320",
 	"tags": [],
-	"title": "Thnkng,Reason&Decision Making"
+	"title": "Thnkng,Reason&Decision Making",
+	"type": "Course"
 }

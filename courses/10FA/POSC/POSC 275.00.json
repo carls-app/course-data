@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -45,30 +40,13 @@
 	"summary": null,
 	"synonym": "27001",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"WGSTADDL",
+		"AMSTTOPICAL3",
+		"AFAMPERT",
+		"RELGAMERTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Identity Politics in America: Ethnicity, Gender, Religion"
+	"title": "Identity Politics in America: Ethnicity, Gender, Religion",
+	"type": "Course"
 }

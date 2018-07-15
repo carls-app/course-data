@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3356",
 	"tags": [],
-	"title": "Animal Behavior"
+	"title": "Animal Behavior",
+	"type": "Course"
 }

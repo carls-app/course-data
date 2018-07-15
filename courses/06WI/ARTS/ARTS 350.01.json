@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "350.01",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 025"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "12961",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Adv Woodworking: the Table"
+	"title": "Adv Woodworking: the Table",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"ENTSSP",
 		"ENTSINTL"
 	],
-	"title": "Int'l Environ Law & Politics"
+	"title": "Int'l Environ Law & Politics",
+	"type": "Course"
 }

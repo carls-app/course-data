@@ -8,11 +8,12 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "275.07",
+	"number": "275",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "9695",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Physical & Cultural Environmnt"
+	"title": "Physical & Cultural Environmnt",
+	"type": "Course"
 }

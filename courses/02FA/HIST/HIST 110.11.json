@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew Rosa"
 	],
-	"number": "110.11",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 14,
 		"total": 18,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4406",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "Three Afr-Amer Voices Protest"
+	"title": "Three Afr-Amer Voices Protest",
+	"type": "Course"
 }

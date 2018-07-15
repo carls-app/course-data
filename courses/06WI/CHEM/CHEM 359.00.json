@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12053",
 	"tags": [],
-	"title": "Molecular Orbital Theory"
+	"title": "Molecular Orbital Theory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Physics 228",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 24,
@@ -41,5 +42,6 @@
 	"summary": "The fundamentals of classical thermodynamics and statistical mechanics. Topics include the laws of thermodynamics; heat engines and refrigerators; the Maxwell-Boltzmann distribution; the various canonical distributions; the statistical concepts of temperature and entropy; Fermi-Dirac, and Bose-Einstein distributions with applications to black-body radiation, phonons, and electrons in solids; the Ising model; and an introduction to critical phenomena.",
 	"synonym": "33923",
 	"tags": [],
-	"title": "Thermodynamics and Statistical Mechanics"
+	"title": "Thermodynamics and Statistical Mechanics",
+	"type": "Course"
 }

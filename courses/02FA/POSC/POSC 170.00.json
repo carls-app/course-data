@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 35,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "4164",
 	"tags": [],
-	"title": "Intl Reltns & World Politics"
+	"title": "Intl Reltns & World Politics",
+	"type": "Course"
 }

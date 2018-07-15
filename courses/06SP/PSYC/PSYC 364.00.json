@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seth N Greenberg"
 	],
-	"number": "364.00",
+	"number": "364",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13901",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Reading Words"
+	"title": "Reading Words",
+	"type": "Course"
 }

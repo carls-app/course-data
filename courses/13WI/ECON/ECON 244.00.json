@@ -8,7 +8,7 @@
 	"instructors": [
 		"Faress Bhuiyan"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -33,24 +33,13 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111 and 240",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -60,10 +49,8 @@
 	"summary": "This course is the second part of a two-term winter break course sequence beginning with Economics 240. This course will focus on critically analyzing the appropriateness of modern microeconomic development models in the context of Bangladesh. Students exposed to various on-site visits and lectures in Bangladesh during the winter break will be required to research, write and present their views on the reliability of different model assumptions and implications they studied in Economics 240.",
 	"synonym": "32956",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Analysis of Microeconomic Development Models"
+	"title": "Analysis of Microeconomic Development Models",
+	"type": "Course"
 }

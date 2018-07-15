@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "153.03",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"West Gym CLAS"
@@ -26,6 +26,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 13,
 		"total": 14,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "3444",
 	"tags": [],
-	"title": "Orienteering"
+	"title": "Orienteering",
+	"type": "Course"
 }

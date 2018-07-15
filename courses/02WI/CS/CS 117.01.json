@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "117.01",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "554",
 	"tags": [],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

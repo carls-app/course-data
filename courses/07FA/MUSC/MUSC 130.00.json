@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen K Kelly"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "18345",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AMSTTOPICAL1",
+		"AFAMSURVEY"
 	],
-	"title": "History of Jazz"
+	"title": "History of Jazz",
+	"type": "Course"
 }

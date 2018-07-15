@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Women Playwrights/Women's Role"
+	"title": "Women Playwrights/Women's Role",
+	"type": "Course"
 }

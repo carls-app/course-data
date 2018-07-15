@@ -6,7 +6,7 @@
 	"instructors": [
 		"Erica K Yamamura"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "17048",
 	"tags": [],
-	"title": "Urban College Access"
+	"title": "Urban College Access",
+	"type": "Course"
 }

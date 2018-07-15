@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 22,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "1148",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "Power,Place&Identity/America"
+	"title": "Power,Place&Identity/America",
+	"type": "Course"
 }

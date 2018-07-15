@@ -7,7 +7,7 @@
 		"Richard W Gran",
 		"Staff"
 	],
-	"number": "112L.54",
+	"number": "112L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "2440",
 	"tags": [],
-	"title": "Elementary Physics Lab"
+	"title": "Elementary Physics Lab",
+	"type": "Lab"
 }

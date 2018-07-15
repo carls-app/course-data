@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "733",
 	"tags": [],
-	"title": "Econometrics"
+	"title": "Econometrics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "228L.52",
+	"number": "228L",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "39300",
 	"tags": [],
-	"title": "Atomic & Nuclear Physics Lab"
+	"title": "Atomic & Nuclear Physics Lab",
+	"type": "Lab"
 }

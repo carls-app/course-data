@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gretchen E Hofmeister"
 	],
-	"number": "233L.57",
+	"number": "233L",
 	"offerings": {
 		"locations": [
 			"Mudd 267"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 19,
 		"total": 22,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "38373",
 	"tags": [],
-	"title": "Organic Chemistry I Lab"
+	"title": "Organic Chemistry I Lab",
+	"type": "Lab"
 }

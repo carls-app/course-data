@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dave Ricks"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "23850",
 	"tags": [],
-	"title": "Cross Country Intercollegiate, Men"
+	"title": "Cross Country Intercollegiate, Men",
+	"type": "Course"
 }

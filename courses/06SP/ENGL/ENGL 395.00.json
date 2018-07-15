@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13168",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "The Pre-Raphaelites"
+	"title": "The Pre-Raphaelites",
+	"type": "Course"
 }

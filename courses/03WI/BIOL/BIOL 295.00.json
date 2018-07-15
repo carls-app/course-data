@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3396",
 	"tags": [],
-	"title": "Sustainable Agriculture"
+	"title": "Sustainable Agriculture",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barry M Casper"
 	],
-	"number": "120.02",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2442",
 	"tags": [],
-	"title": "Revolutions in Physics"
+	"title": "Revolutions in Physics",
+	"type": "Course"
 }

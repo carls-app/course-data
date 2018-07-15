@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "168.02",
+	"number": "168",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 40,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "12869",
 	"tags": [],
-	"title": "Social Dance II, Swing"
+	"title": "Social Dance II, Swing",
+	"type": "Course"
 }

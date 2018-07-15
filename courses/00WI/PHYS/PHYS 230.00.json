@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2430",
 	"tags": [],
-	"title": "Computational Mechanics"
+	"title": "Computational Mechanics",
+	"type": "Course"
 }

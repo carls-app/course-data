@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "147.00",
+	"number": "147",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": "This course seeks to provide an underlying awareness of body structure and function. Using movement to expand knowledge of our anatomy will encourage participants to integrate information with experience. Heightened body awareness and class studies are designed to activate the general learning process.",
 	"synonym": "23952",
 	"tags": [],
-	"title": "Moving Anatomy"
+	"title": "Moving Anatomy",
+	"type": "Course"
 }

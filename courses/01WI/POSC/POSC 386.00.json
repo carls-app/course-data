@@ -7,7 +7,7 @@
 		"Roy Grow",
 		"Alfred P Montero"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -37,14 +38,9 @@
 	"summary": null,
 	"synonym": "3116",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "LTAM300SOCSCI",
-			"name": "LTAM 300 Soc Science"
-		}
+		"CCSTBINARY",
+		"LTAM300SOCSCI"
 	],
-	"title": "Comparing Mexico and China"
+	"title": "Comparing Mexico and China",
+	"type": "Course"
 }

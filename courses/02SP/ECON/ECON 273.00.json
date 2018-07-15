@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark T Kanazawa"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "1296",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"AMSTTOPICAL3",
+		"ENTSSP"
 	],
-	"title": "Water&Western Econ Development"
+	"title": "Water&Western Econ Development",
+	"type": "Course"
 }

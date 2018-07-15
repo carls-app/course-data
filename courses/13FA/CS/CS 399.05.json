@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sherri L Goings"
 	],
-	"number": "399.05",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Senior standing. Students are strongly encouraged to complete Computer Science 252 and either Computer Science 204 or 257 before starting Computer Science 399.",
 	"requirements": [],
 	"scnc": true,
+	"section": "05",
 	"size": {
 		"registered": 4,
 		"total": 6,
@@ -36,5 +37,6 @@
 	"summary": "As part of their senior capstone experience, majors will work together in teams (typically four to seven students per team) on faculty-specified topics to design and implement the first stage of a project. Required of all senior majors.",
 	"synonym": "35021",
 	"tags": [],
-	"title": "Senior Seminar"
+	"title": "Senior Seminar",
+	"type": "Course"
 }

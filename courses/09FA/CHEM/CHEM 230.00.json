@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 230L; CHEM 230L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 42,
@@ -43,5 +44,6 @@
 	"summary": "This course builds on topics from introductory chemistry and deals with quantitative aspects of acid-base and electron-transfer equilibria. Numerical and graphical methods are developed for the examination of these chemical systems. Several modern analytical methods of analysis are introduced including UV spectrophotometry, simultaneous spectrophotometric determinations of mixtures, potentiometry, and flow injection analysis. One laboratory per week.",
 	"synonym": "22925",
 	"tags": [],
-	"title": "Equilibrium and Analysis"
+	"title": "Equilibrium and Analysis",
+	"type": "Course"
 }

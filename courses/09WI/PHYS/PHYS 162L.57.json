@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hector H Calderon"
 	],
-	"number": "162L.57",
+	"number": "162L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 10,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "20926",
 	"tags": [],
-	"title": "Light and Optics Lab"
+	"title": "Light and Optics Lab",
+	"type": "Lab"
 }

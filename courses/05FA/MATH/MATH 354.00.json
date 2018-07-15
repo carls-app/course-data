@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Chapel 17"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12333",
 	"tags": [],
-	"title": "Topology"
+	"title": "Topology",
+	"type": "Course"
 }

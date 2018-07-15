@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "Do psychological principles apply universally or are they culture specific? How does the exploration of psychological phenomenon across cultures inform our understanding of human behavior? This course examines major theoretical and empirical work in the field of Cross-Cultural Psychology. A major component will be on applied products such as a web site containing 1) critical analysis of a particular cross cultural psychological phenomenon, and 2) evidence-based proposal for improving cross cultural interaction.",
 	"synonym": "35388",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CCSTC",
-			"name": "CCST Comparative"
-		}
+		"SPECINTSOCTHGHT",
+		"CCSTC"
 	],
-	"title": "Cross-Cultural Psychology"
+	"title": "Cross-Cultural Psychology",
+	"type": "Course"
 }

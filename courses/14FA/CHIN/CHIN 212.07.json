@@ -8,16 +8,14 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "212.07",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -27,22 +25,11 @@
 	"summary": "Local masters will teach Chinese calligraphy, art, Peking opera, Taichi, and/or other martial arts to students, immersing them in the Chinese artistic and spiritual world.",
 	"synonym": "39518",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Studies Seminar in Tianjin: Chinese Culture"
+	"title": "Chinese Studies Seminar in Tianjin: Chinese Culture",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "20684",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSIELECTIVE",
+		"POSICOMPRTV",
+		"AMSTTOPICAL3",
+		"POSI-DSS"
 	],
-	"title": "Citizen & Immigration Pol"
+	"title": "Citizen & Immigration Pol",
+	"type": "Course"
 }

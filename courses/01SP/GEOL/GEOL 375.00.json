@@ -6,7 +6,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -39,5 +40,6 @@
 		"ENTSINTL",
 		"ENTSSCI"
 	],
-	"title": "Oceans & Atmospheres"
+	"title": "Oceans & Atmospheres",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha A Easton"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "8889",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL3",
+		"WGSTADDL"
 	],
-	"title": "The Gender Matrix"
+	"title": "The Gender Matrix",
+	"type": "Course"
 }

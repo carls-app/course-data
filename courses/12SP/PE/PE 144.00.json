@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michelle Levi"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "This course will review basic kettlebell exercises early in the term but will move quickly into more advanced exercises with an emphasis on enhancing sport performance.",
 	"synonym": "28494",
 	"tags": [],
-	"title": "Advanced Kettlebell Fitness"
+	"title": "Advanced Kettlebell Fitness",
+	"type": "Course"
 }

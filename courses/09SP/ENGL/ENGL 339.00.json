@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "339.00",
+	"number": "339",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "21040",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"ENGLHE3",
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"THEAPERT"
 	],
-	"title": "Cntmp Amer Playwrghts of Color"
+	"title": "Cntmp Amer Playwrghts of Color",
+	"type": "Course"
 }

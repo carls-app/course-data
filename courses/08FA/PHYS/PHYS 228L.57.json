@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "228L.57",
+	"number": "228L",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "20896",
 	"tags": [],
-	"title": "Atomic & Nuclear Physics Lab"
+	"title": "Atomic & Nuclear Physics Lab",
+	"type": "Lab"
 }

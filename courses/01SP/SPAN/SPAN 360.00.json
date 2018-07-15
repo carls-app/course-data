@@ -8,7 +8,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "1833",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"LTAMLIT"
 	],
-	"title": "Topics: Avante-Garde in Spain"
+	"title": "Topics: Avante-Garde in Spain",
+	"type": "Course"
 }

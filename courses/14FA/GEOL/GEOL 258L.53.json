@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "258L.53",
+	"number": "258L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 12,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "38189",
 	"tags": [],
-	"title": "Geology of Soils Laboratory"
+	"title": "Geology of Soils Laboratory",
+	"type": "Lab"
 }

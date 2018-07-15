@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dwight R Luhman"
 	],
-	"number": "161L.57",
+	"number": "161L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22809",
 	"tags": [],
-	"title": "Elec, Magnetism & Circuits Lab"
+	"title": "Elec, Magnetism & Circuits Lab",
+	"type": "Lab"
 }

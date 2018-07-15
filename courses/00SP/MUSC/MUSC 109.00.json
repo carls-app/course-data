@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "123",
 	"tags": [],
-	"title": "Writing about Music"
+	"title": "Writing about Music",
+	"type": "Course"
 }

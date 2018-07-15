@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kristen C Kling"
 	],
-	"number": "253.01",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Olin 112"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3726",
 	"tags": [],
-	"title": "Personality Lab"
+	"title": "Personality Lab",
+	"type": "Course"
 }

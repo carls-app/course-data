@@ -6,7 +6,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2561",
 	"tags": [],
-	"title": "Sem:Sel Tpcs in Paleoecology"
+	"title": "Sem:Sel Tpcs in Paleoecology",
+	"type": "Course"
 }

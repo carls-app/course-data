@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -47,22 +42,11 @@
 	"summary": "India is a region of immense diversity where more than one billion people live. We will explore social structures in India--through a focus on key areas of everyday life such as family, religion, economy, systems of stratification and social movements. Close attention will be given to religious nationalism, globalization and militarism as dominant trends affecting contemporary India. We will consider: How has India been represented in the Western imagination and why do such representations matter? What are the forces of modernity and tradition in India? What are the similarities and differences in systems of stratification in India and the United States?",
 	"synonym": "30124",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"POSI-AREAS2",
+		"ASSTSOUTH",
+		"SAST",
+		"POSI-AREAS"
 	],
-	"title": "Culture and Politics in India"
+	"title": "Culture and Politics in India",
+	"type": "Course"
 }

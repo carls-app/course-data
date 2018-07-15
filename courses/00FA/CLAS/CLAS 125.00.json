@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Love,Death,Destiny:Ancnt Novel"
+	"title": "Love,Death,Destiny:Ancnt Novel",
+	"type": "Course"
 }

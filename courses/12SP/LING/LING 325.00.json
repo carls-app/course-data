@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "28961",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Syntax of Unfamiliar Lang"
+	"title": "Syntax of Unfamiliar Lang",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Anna M Dotlibova",
 		"Diane M Nemec Ignashev"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242",
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -53,10 +54,8 @@
 	"summary": null,
 	"synonym": "19091",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -35,5 +36,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Readings in American Politics"
+	"title": "Readings in American Politics",
+	"type": "Course"
 }

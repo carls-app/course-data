@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "400.04",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3572",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

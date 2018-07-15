@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"ARP",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -45,22 +40,11 @@
 	"summary": "A garden is usually defined as a piece of land that is cultivated or manipulated in some way by man for one or more purposes. Gardens often take the form of an aestheticized space that miniaturizes the natural landscape. This course will explore the historical phenomenon of garden building in China and Japan with a special emphasis on how cultural and religious attitudes towards nature contribute to the development of gardens in urban and suburban environments. In addition to studying historical source material, students will be required to apply their knowledge by building both virtual and physical re-creations of gardens.",
 	"synonym": "35061",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ENTS2SCP",
+		"ENTSLPSCP",
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Gardens in China and Japan"
+	"title": "Gardens in China and Japan",
+	"type": "Course"
 }

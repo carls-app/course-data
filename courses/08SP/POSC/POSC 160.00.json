@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel A Schlosser"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18317",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Political Philosophy"
+	"title": "Political Philosophy",
+	"type": "Course"
 }

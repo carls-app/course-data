@@ -8,7 +8,7 @@
 	"instructors": [
 		"Masebo Masebo"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "24863",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"HISTAFRDIASPORA",
+		"POSI-AREAS"
 	],
-	"title": "Disease, Health, and Healing in Modern African History"
+	"title": "Disease, Health, and Healing in Modern African History",
+	"type": "Course"
 }

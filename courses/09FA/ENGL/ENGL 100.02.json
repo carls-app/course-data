@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "23000",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Imagining a Self"
+	"title": "Imagining a Self",
+	"type": "Course"
 }

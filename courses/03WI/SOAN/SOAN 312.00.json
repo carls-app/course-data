@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 18,
@@ -38,42 +39,16 @@
 	"summary": null,
 	"synonym": "4331",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300SOCSCI",
-			"name": "LTAM 300 Soc Science"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"CCSTGLOBAL",
+		"ENTSINTL",
+		"ENTSSP",
+		"LTAMELECTIVE",
+		"LTAM300SOCSCI",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTSOUTH"
 	],
-	"title": "Actors & Issues 3rd Wrld Devlp"
+	"title": "Actors & Issues 3rd Wrld Devlp",
+	"type": "Course"
 }

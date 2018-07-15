@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth A Perez"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "22028",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMSOCSCI",
+		"WGSTADDL",
+		"LTAMELECTIVE",
+		"LTAMPERT"
 	],
-	"title": "Virgin of Guadalupe"
+	"title": "Virgin of Guadalupe",
+	"type": "Course"
 }

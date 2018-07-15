@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sabrice Guerrier"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 380; Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "32867",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
-	"title": "Biochemistry Laboratory"
+	"title": "Biochemistry Laboratory",
+	"type": "Course"
 }

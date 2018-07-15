@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard W Nau"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3900",
 	"tags": [],
-	"title": "Operations Research"
+	"title": "Operations Research",
+	"type": "Course"
 }

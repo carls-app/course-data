@@ -6,7 +6,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": "Chaucer’s",
 	"synonym": "32626",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"MARSCORE",
+		"MARSSUPP",
+		"SPECINTBOOKSTD"
 	],
-	"title": "Chaucer:"
+	"title": "Chaucer:",
+	"type": "Course"
 }

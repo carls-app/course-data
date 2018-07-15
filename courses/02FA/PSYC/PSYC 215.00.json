@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gretchen H Gotthard"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "5033",
 	"tags": [],
-	"title": "Memory and Amnesia"
+	"title": "Memory and Amnesia",
+	"type": "Course"
 }

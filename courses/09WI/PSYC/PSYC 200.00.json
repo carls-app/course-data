@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 36,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "21284",
 	"tags": [],
-	"title": "Measurement & Data Analysis"
+	"title": "Measurement & Data Analysis",
+	"type": "Course"
 }

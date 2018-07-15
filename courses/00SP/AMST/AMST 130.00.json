@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen K Kelly"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3165",
 	"tags": [],
-	"title": "History of Jazz"
+	"title": "History of Jazz",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -51,50 +43,18 @@
 	"summary": "This seminar will examine the \"post-neoliberal\" politics of Latin America, beginning with a reconsideration of the market-oriented turn in the region during the 1980s and 1990s. The seminar will then focus on the rise of leftist governments as diverse as Hugo Chávez' Venezuela, Evo Morales' Bolivia, and Lula da Silva's Brazil. Other topics will include the emergence of anti-neoliberal movements, the wave of indigenous politics, new social movements, environmental politics, and experiments with anti-poverty programs throughout Latin America.",
 	"synonym": "36244",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSI-DSS2",
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"POSIADVSEM",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"POSCADVSEM",
+		"POSIELECTIVE",
+		"POECUPWTD",
+		"POECSEMINAR",
+		"POSI-DSS"
 	],
-	"title": "Neoliberalism and the New Left in Latin America*"
+	"title": "Neoliberalism and the New Left in Latin America*",
+	"type": "Course"
 }

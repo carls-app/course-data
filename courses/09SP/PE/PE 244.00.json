@@ -7,16 +7,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 100,
@@ -26,5 +24,6 @@
 	"summary": null,
 	"synonym": "21197",
 	"tags": [],
-	"title": "Lacrosse Club, Men's"
+	"title": "Lacrosse Club, Men's",
+	"type": "Course"
 }

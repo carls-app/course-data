@@ -6,7 +6,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "222.02",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -31,14 +32,9 @@
 	"summary": null,
 	"synonym": "19554",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Ecosystems Ecol Lab"
+	"title": "Ecosystems Ecol Lab",
+	"type": "Course"
 }

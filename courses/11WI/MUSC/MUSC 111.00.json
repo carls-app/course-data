@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisite: the ability to read music is not necessary",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -50,14 +45,9 @@
 	"summary": "An introduction to the history of western art music from the Middle Ages to the present. The emphasis is on the various styles of the western tradition (Medieval, Renaissance, Baroque, Classical, Romantic, and Modern) and their relationships with other aspects of European and Euro-American high culture. Representative compositions from each of these periods will be studied through reading and guided listening.",
 	"synonym": "27161",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL"
 	],
-	"title": "Classical Music: An Introduction"
+	"title": "Classical Music: An Introduction",
+	"type": "Course"
 }

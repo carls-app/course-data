@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "American Environmental Thought"
+	"title": "American Environmental Thought",
+	"type": "Course"
 }

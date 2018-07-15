@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott A Homler"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "10725",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL"
 	],
-	"title": "Composition and Conversation"
+	"title": "Composition and Conversation",
+	"type": "Course"
 }

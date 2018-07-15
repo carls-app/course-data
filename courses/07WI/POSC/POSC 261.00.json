@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "17091",
 	"tags": [],
-	"title": "Pol Theory: Tocqueville"
+	"title": "Pol Theory: Tocqueville",
+	"type": "Course"
 }

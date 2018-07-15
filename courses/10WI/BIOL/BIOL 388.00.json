@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nidanie Henderson"
 	],
-	"number": "388.00",
+	"number": "388",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Biology 280 and Chemistry 233 or Biology 380 or Chemistry 320",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "24211",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		},
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"SPECINTHEALTH",
+		"BIOCELEC"
 	],
-	"title": "Molecular Mechanisms of Drug Action"
+	"title": "Molecular Mechanisms of Drug Action",
+	"type": "Course"
 }

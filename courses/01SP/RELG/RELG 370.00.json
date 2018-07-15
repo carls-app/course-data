@@ -6,7 +6,7 @@
 	"instructors": [
 		"Trish Beckman"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2722",
 	"tags": [],
-	"title": "Mysticism"
+	"title": "Mysticism",
+	"type": "Course"
 }

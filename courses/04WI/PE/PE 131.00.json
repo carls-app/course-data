@@ -8,7 +8,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "8229",
 	"tags": [],
-	"title": "Ice Hockey"
+	"title": "Ice Hockey",
+	"type": "Course"
 }

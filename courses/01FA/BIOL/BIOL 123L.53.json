@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "123L.53",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "275",
 	"tags": [],
-	"title": "Intro I:Energetics&Genetic Lab"
+	"title": "Intro I:Energetics&Genetic Lab",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martin A Trow"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3206",
 	"tags": [],
-	"title": "Hist & Comp Persp Higher Educ"
+	"title": "Hist & Comp Persp Higher Educ",
+	"type": "Course"
 }

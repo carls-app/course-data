@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 8,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "20060",
 	"tags": [],
-	"title": "African Karimba Ensemble"
+	"title": "African Karimba Ensemble",
+	"type": "Course"
 }

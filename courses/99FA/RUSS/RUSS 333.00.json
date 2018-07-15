@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2670",
 	"tags": [],
-	"title": "Russian Lit for Children"
+	"title": "Russian Lit for Children",
+	"type": "Course"
 }

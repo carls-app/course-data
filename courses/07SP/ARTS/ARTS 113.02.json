@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "113.02",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Boliou 160"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "17099",
 	"tags": [
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSLPSCP",
+		"ENTSENVPERS"
 	],
-	"title": "Field Drawing"
+	"title": "Field Drawing",
+	"type": "Course"
 }

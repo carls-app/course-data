@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dave Ricks"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -38,12 +38,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 50,
 		"total": 60,
@@ -53,5 +51,6 @@
 	"summary": null,
 	"synonym": "28539",
 	"tags": [],
-	"title": "Track and Field/Outdoor Intercollegiate, Men"
+	"title": "Track and Field/Outdoor Intercollegiate, Men",
+	"type": "Course"
 }

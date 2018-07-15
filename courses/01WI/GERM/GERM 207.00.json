@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1861",
 	"tags": [],
-	"title": "Young Adult Literature"
+	"title": "Young Adult Literature",
+	"type": "Course"
 }

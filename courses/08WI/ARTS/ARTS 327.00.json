@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Boliou 025",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "17467",
 	"tags": [],
-	"title": "Adv Woodworking:The Table"
+	"title": "Adv Woodworking:The Table",
+	"type": "Course"
 }

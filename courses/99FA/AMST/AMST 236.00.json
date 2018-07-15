@@ -9,7 +9,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "3541",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2"
 	],
-	"title": "Gender & Work in US History"
+	"title": "Gender & Work in US History",
+	"type": "Course"
 }

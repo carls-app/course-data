@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jose R Ovejero"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21937",
 	"tags": [],
-	"title": "Creative Writing in Span"
+	"title": "Creative Writing in Span",
+	"type": "Course"
 }

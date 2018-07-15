@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "307.00",
+	"number": "307",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": "Prerequisite: Any art history course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -49,18 +41,10 @@
 	"summary": "Early Modern Rome flourished as a center of art and architecture, reviving its position in classical antiquity. This course is organized around three major artists, Michelangelo, Caravaggio, and Bernini, and secondarily Annibale Carracci and Orazio and Artemisia Gentileschi in Rome, and such foreign artists as Rubens, Velazquez, and Poussin. Recurring themes will include the mechanisms of patronage, concepts of the naturalistic, artistic self-definition, church renewal, the urban landscape, and the interdependence of architecture and society. The major question throughout the term: What difference does it make that this art was produced in Rome?",
 	"synonym": "32414",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		}
+		"EUSTCNTRY",
+		"MARSSUPP",
+		"MARSCAP"
 	],
-	"title": "Rome: The Art of Michelangelo and Caravaggio"
+	"title": "Rome: The Art of Michelangelo and Caravaggio",
+	"type": "Course"
 }

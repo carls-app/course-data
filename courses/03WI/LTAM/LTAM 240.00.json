@@ -9,7 +9,7 @@
 	"instructors": [
 		"Tamar Khitarishvili"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "5530",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"LTAMELECTIVE",
+		"AFAMPERT"
 	],
-	"title": "Econ of Developing Countries"
+	"title": "Econ of Developing Countries",
+	"type": "Course"
 }

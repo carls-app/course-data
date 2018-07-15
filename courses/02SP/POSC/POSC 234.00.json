@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "3266",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTREGIONAL",
+		"HISTISLAM",
+		"CCSTBINARY"
 	],
-	"title": "The Arab-Israeli Conflict"
+	"title": "The Arab-Israeli Conflict",
+	"type": "Course"
 }

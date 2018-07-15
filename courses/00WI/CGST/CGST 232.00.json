@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lloyd K Komatsu"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2587",
 	"tags": [],
-	"title": "Cognitive Processes"
+	"title": "Cognitive Processes",
+	"type": "Course"
 }

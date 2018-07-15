@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 50,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "1788",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		}
+		"CCSTREGIONAL",
+		"HISTISLAM"
 	],
-	"title": "Empires of the Steppe"
+	"title": "Empires of the Steppe",
+	"type": "Course"
 }

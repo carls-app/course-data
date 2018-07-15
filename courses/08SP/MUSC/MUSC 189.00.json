@@ -6,11 +6,12 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "189.00",
+	"number": "189",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 100,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "18569",
 	"tags": [],
-	"title": "Carleton Symphony Band"
+	"title": "Carleton Symphony Band",
+	"type": "Course"
 }

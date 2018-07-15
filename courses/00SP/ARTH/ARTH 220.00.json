@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"WGSTADDL"
 	],
-	"title": "Gender&Genre:Japanese Prints"
+	"title": "Gender&Genre:Japanese Prints",
+	"type": "Course"
 }

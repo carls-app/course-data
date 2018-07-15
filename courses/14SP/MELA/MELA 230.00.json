@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stacy N Beckwith"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -54,30 +46,13 @@
 	"summary": "Judaism emphasizes transmitting memory from one generation to the next. How have pivotal events and experiences in Jewish history lived on in Jewish collective memory? How do they continue to speak through artistic/literary composition and museum/memorial design? How does Jewish collective memory compare with recorded Jewish history? We will study turning points in Jewish history including the Exodus from Egypt, Jewish expulsion from medieval Spain, the Holocaust, and Israeli independence, as Jews in different times and places have interpreted them with lasting influence. Research includes work with print, film, and other visual/ performative media.",
 	"synonym": "36871",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTPERT",
-			"name": "HIST Pertinent Courses"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		}
+		"JDSTPERT",
+		"HISTERLYMODEUR",
+		"EUSTTRANNATL",
+		"RELGPERT",
+		"HISTPERT",
+		"MESTGRP1"
 	],
-	"title": "Jewish Collective Memory"
+	"title": "Jewish Collective Memory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 02",
@@ -27,16 +27,11 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -46,10 +41,8 @@
 	"summary": "A study of the metabolism, genetics, structure, and function of microorganisms. While presented in the framework of the concepts of cellular and molecular biology, the emphasis will be on the uniqueness and diversity of the microbial world. The course integrates lecture and laboratory, and will fulfill requirements of a microbiology course with lab for veterinary or pharmacy schools.",
 	"synonym": "26133",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Microbiology with Laboratory"
+	"title": "Microbiology with Laboratory",
+	"type": "Course"
 }

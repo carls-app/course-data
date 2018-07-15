@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 35,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "2102",
 	"tags": [],
-	"title": "Skiing, Downhill"
+	"title": "Skiing, Downhill",
+	"type": "Course"
 }

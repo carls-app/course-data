@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "303.00",
+	"number": "303",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "13264",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL"
 	],
-	"title": "Criminology"
+	"title": "Criminology",
+	"type": "Course"
 }

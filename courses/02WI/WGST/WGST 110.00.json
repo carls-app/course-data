@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "1799",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Intro Women's & Gender Studies"
+	"title": "Intro Women's & Gender Studies",
+	"type": "Course"
 }

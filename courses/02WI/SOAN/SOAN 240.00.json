@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette M Nierobisz"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1619",
 	"tags": [],
-	"title": "Methods of Social Research"
+	"title": "Methods of Social Research",
+	"type": "Course"
 }

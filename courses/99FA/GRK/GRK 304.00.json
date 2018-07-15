@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "304.00",
+	"number": "304",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "1891",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Greek Tragedy"
+	"title": "Greek Tragedy",
+	"type": "Course"
 }

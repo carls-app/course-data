@@ -8,7 +8,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "197.00",
+	"number": "197",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 30,
@@ -33,5 +34,6 @@
 	"summary": "An introduction to classical and folk guitar: styles, chords and music notation for persons with little or no previous music instruction. Special fee: $83. Not to be taken concurrently with Music 152 or 252 (Guitar).",
 	"synonym": "29233",
 	"tags": [],
-	"title": "Class Guitar"
+	"title": "Class Guitar",
+	"type": "Course"
 }

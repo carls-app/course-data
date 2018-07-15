@@ -8,7 +8,7 @@
 	"instructors": [
 		"Angie Dickens"
 	],
-	"number": "123L.57",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Mudd 260"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9311",
 	"tags": [],
-	"title": "Principles of Chemistry Lab"
+	"title": "Principles of Chemistry Lab",
+	"type": "Lab"
 }

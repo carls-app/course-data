@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "18300",
 	"tags": [],
-	"title": "Pol Philosophy of Rousseau"
+	"title": "Pol Philosophy of Rousseau",
+	"type": "Course"
 }

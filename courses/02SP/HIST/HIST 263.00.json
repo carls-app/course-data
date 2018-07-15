@@ -8,7 +8,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 30,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "1787",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"HISTSASIA",
+		"CCSTBINARY"
 	],
-	"title": "Inventing the Nation"
+	"title": "Inventing the Nation",
+	"type": "Course"
 }

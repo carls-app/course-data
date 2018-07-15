@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "106.00",
+	"number": "106",
 	"offerings": {
 		"locations": [
 			"Severance CTR"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 11,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "738",
 	"tags": [],
-	"title": "Breakfast with the Times"
+	"title": "Breakfast with the Times",
+	"type": "Course"
 }

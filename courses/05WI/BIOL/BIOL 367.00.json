@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine A Reinke"
 	],
-	"number": "367.00",
+	"number": "367",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9387",
 	"tags": [],
-	"title": "Topics in Molecular Genetics"
+	"title": "Topics in Molecular Genetics",
+	"type": "Course"
 }

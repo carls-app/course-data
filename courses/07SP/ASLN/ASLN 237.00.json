@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "16621",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ASSTEAST",
+		"ENGLFORLIT"
 	],
-	"title": "Tao of Wisdom in Asian Lit"
+	"title": "Tao of Wisdom in Asian Lit",
+	"type": "Course"
 }

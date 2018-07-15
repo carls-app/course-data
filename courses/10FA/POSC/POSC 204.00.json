@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"QRE",
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "Our analysis of media influences on politics will draw from three fields of study: political psychology, political behavior and participation, and public opinion. Students will conduct a study of the effects of campaign ads and news using our multi-year data set of content analyzed election ads and news. We study a variety of quantitative and qualitative research methods to learn how political communication affects U.S. elections.",
 	"synonym": "26996",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"AMSTTOPICAL3",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Media and Electoral Politics: 2010 United States Election"
+	"title": "Media and Electoral Politics: 2010 United States Election",
+	"type": "Course"
 }

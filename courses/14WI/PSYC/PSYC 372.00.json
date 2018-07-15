@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julia F Strand"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 220 or Psychology/Cognitive Science 232 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,10 +39,8 @@
 	"summary": "Some people are able to play (and win!) a dozen games of chess simultaneously or remember thousands of digits of pi. Most people can effortlessly recognize thousands of faces and easily discriminate between similar speech sounds. How do people develop these levels of expertise? This course will explore the processes underlying perceptual and cognitive expertise. Topics include the development of expertise in music perception and performance, memory, sports, visual processing, and taste perception. We will also discuss how attaining expertise in a given domain changes information processing.",
 	"synonym": "35419",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Perceptual & Cognitive Expertise"
+	"title": "Perceptual & Cognitive Expertise",
+	"type": "Course"
 }

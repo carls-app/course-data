@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "172.01",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "8291",
 	"tags": [],
-	"title": "Swimming, Fitness"
+	"title": "Swimming, Fitness",
+	"type": "Course"
 }

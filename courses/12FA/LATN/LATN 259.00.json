@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Latin 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": "Intensive study of selections from Vergil. May be offered simultaneously with Latin 359 without the supplemental assignments for advanced students.",
 	"synonym": "33158",
 	"tags": [],
-	"title": "Seminar: Vergil"
+	"title": "Seminar: Vergil",
+	"type": "Course"
 }

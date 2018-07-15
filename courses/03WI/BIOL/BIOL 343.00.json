@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly A Baker"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3405",
 	"tags": [],
-	"title": "Animal Development Lab"
+	"title": "Animal Development Lab",
+	"type": "Course"
 }

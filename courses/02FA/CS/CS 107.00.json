@@ -8,7 +8,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "107.00",
+	"number": "107",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3791",
 	"tags": [],
-	"title": "The Structure of the Internet"
+	"title": "The Structure of the Internet",
+	"type": "Course"
 }

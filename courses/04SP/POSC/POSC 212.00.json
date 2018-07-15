@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marek D Steedman"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "9060",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Amer Pol Dev:Civ War-New Deal"
+	"title": "Amer Pol Dev:Civ War-New Deal",
+	"type": "Course"
 }

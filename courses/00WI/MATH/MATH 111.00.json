@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard W Nau"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2317",
 	"tags": [],
-	"title": "Calculus I"
+	"title": "Calculus I",
+	"type": "Course"
 }

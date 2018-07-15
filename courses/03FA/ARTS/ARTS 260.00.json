@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stacey R Davidson"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Boliou 162"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7454",
 	"tags": [],
-	"title": "Painting"
+	"title": "Painting",
+	"type": "Course"
 }

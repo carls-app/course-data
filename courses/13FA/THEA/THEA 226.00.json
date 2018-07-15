@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger K Bechtel"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "\"Make it new!\" was the rallying cry of the modernists, and ever since, the theater has never ceased its efforts to break both aesthetic and social conventions, boundaries, and taboos. Beginning with some of the important precursors of the twentieth century--Artaud, Brecht, and Meyerhold--this course will explore the history and theory of the contemporary avant-garde, charting the rise of interdisciplinary \"performance\" and exploring such topics as politics and aesthetics, site-specificity, body art, solo performance, and multimedia. Students will also spend significant time creating their own performance works.",
 	"synonym": "35170",
 	"tags": [],
-	"title": "Avant-garde Theater and Peformance"
+	"title": "Avant-garde Theater and Peformance",
+	"type": "Course"
 }

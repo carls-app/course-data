@@ -9,7 +9,7 @@
 	"instructors": [
 		"Javier Morillo-Alicea"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"HISTLTAM"
 	],
-	"title": "Archive&Field:Int Anthr&Hist"
+	"title": "Archive&Field:Int Anthr&Hist",
+	"type": "Course"
 }

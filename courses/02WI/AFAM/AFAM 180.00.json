@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 40,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "2806",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL",
+		"AFAMSURVEY"
 	],
-	"title": "Hist Survey-E.Africa&the Horn"
+	"title": "Hist Survey-E.Africa&the Horn",
+	"type": "Course"
 }

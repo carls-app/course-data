@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "211.01",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 28,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3863",
 	"tags": [],
-	"title": "Calculus III"
+	"title": "Calculus III",
+	"type": "Course"
 }

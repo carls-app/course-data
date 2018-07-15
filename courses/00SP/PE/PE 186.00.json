@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah E Hurst"
 	],
-	"number": "186.00",
+	"number": "186",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "3456",
 	"tags": [],
-	"title": "Tennis, Advanced Tournament"
+	"title": "Tennis, Advanced Tournament",
+	"type": "Course"
 }

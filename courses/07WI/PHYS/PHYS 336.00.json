@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15243",
 	"tags": [],
-	"title": "Quantum Mechanics I"
+	"title": "Quantum Mechanics I",
+	"type": "Course"
 }

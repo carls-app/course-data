@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": "Prerequisite: No prerequisites and no knowledge of Russian literature or history required.",
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"CL",
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -56,22 +48,11 @@
 	"summary": "Close reading and discussion of Tolstoy's magnum opus. Conducted entirely in English.",
 	"synonym": "26480",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "War and Peace"
+	"title": "War and Peace",
+	"type": "Course"
 }

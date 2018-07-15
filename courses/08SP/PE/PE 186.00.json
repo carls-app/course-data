@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luciano H Battaglini"
 	],
-	"number": "186.00",
+	"number": "186",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18947",
 	"tags": [],
-	"title": "Tennis, Advanced Tournament"
+	"title": "Tennis, Advanced Tournament",
+	"type": "Course"
 }

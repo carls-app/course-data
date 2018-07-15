@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 35,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "7895",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2"
 	],
-	"title": "American Environmental Hist"
+	"title": "American Environmental Hist",
+	"type": "Course"
 }

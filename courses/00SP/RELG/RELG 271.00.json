@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"CCSTETHNIC"
 	],
-	"title": "Contemp Rel Thought:Holocaust"
+	"title": "Contemp Rel Thought:Holocaust",
+	"type": "Course"
 }

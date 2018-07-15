@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steve Ridgely"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11596",
 	"tags": [],
-	"title": "Japanese Cinema"
+	"title": "Japanese Cinema",
+	"type": "Course"
 }

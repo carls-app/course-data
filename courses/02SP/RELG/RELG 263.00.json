@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3080",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Sufism"
+	"title": "Sufism",
+	"type": "Course"
 }

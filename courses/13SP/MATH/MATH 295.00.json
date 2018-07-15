@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "31800",
 	"tags": [],
-	"title": "Seminar in Set Theory"
+	"title": "Seminar in Set Theory",
+	"type": "Course"
 }

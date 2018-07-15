@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4215",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL"
 	],
-	"title": "West European Politics"
+	"title": "West European Politics",
+	"type": "Course"
 }

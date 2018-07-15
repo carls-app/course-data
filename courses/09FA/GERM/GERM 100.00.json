@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "24497",
 	"tags": [],
-	"title": "Views of Reality: Understanding Literary Works of the Past"
+	"title": "Views of Reality: Understanding Literary Works of the Past",
+	"type": "Course"
 }

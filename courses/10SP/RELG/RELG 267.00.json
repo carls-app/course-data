@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "24725",
 	"tags": [
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		}
+		"RELGJEWISHTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHETHCLWPOL"
 	],
-	"title": "Contemporary Jewish Thought"
+	"title": "Contemporary Jewish Thought",
+	"type": "Course"
 }

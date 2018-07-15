@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "241.07",
+	"number": "241",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": "Mesoamerica, a major area of pre-Columbian civilization, is a region generally extending from around the Tropic of Cancer in Mexico to northwestern Costa Rica. This course will examine both ancient and modern peoples of Mesoamerica, with special reference to the Maya peoples of Guatemala and southern Mexico. Students will cover topics including economic, social, political, and religious organization as well as cosmology and symbolism. Course materials should assist students in selecting a topic for their individual research projects.",
 	"synonym": "23097",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Guatemala Program: Mesoamerican Cultures"
+	"title": "Guatemala Program: Mesoamerican Cultures",
+	"type": "Course"
 }

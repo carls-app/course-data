@@ -9,7 +9,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "430",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSSCI"
 	],
-	"title": "Global Biogeochemistry"
+	"title": "Global Biogeochemistry",
+	"type": "Course"
 }

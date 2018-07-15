@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "10432",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"HISTEUR1451",
+		"EUSTCNTRY",
+		"MARSSUPP",
+		"HISTERLYMODEUR"
 	],
-	"title": "The Age of Elizabeth"
+	"title": "The Age of Elizabeth",
+	"type": "Course"
 }

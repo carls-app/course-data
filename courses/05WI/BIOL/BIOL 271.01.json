@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne E Carlson"
 	],
-	"number": "271.01",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "9380",
 	"tags": [],
-	"title": "Animal Physiology Lab"
+	"title": "Animal Physiology Lab",
+	"type": "Course"
 }

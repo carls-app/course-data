@@ -6,7 +6,7 @@
 	"instructors": [
 		"Radek Szulga"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "22034",
 	"tags": [],
-	"title": "Principles of Macroeconomics"
+	"title": "Principles of Macroeconomics",
+	"type": "Course"
 }

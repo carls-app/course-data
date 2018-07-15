@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "115.01",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1443",
 	"tags": [],
-	"title": "Relativity and Particles"
+	"title": "Relativity and Particles",
+	"type": "Course"
 }

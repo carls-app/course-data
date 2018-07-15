@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -52,5 +47,6 @@
 	"summary": "Combinatorial games are 2-player games in which players take turns making moves, there are no hidden elements, and there is no element of chance. Famous combinatorial games include Chess, Checkers, Go, Dots and Boxes, Hex, Hackenbush, and Nim. In this seminar we will study a variety of combinatorial games, as well as their connections with alternative number systems and mathematical methods of transmitting information over a noisy channel. No particular mathematical background is assumed, but we will spend some time learning to write mathematical arguments about games.",
 	"synonym": "38575",
 	"tags": [],
-	"title": "Combinatorial Games"
+	"title": "Combinatorial Games",
+	"type": "Course"
 }

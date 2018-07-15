@@ -8,11 +8,12 @@
 	"instructors": [
 		""
 	],
-	"number": "247.07",
+	"number": "247",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "4807",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"PENINLIT"
 	],
-	"title": "Span Art-El Greco to Picasso"
+	"title": "Span Art-El Greco to Picasso",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pavel S Kapinos"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18653",
 	"tags": [],
-	"title": "Intermediate Macro Theory"
+	"title": "Intermediate Macro Theory",
+	"type": "Course"
 }

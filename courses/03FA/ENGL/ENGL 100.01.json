@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "6861",
 	"tags": [],
-	"title": "Amer Autobio: Narrativ Creatn"
+	"title": "Amer Autobio: Narrativ Creatn",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 40,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9411",
 	"tags": [],
-	"title": "Visiting Speakers Seminars"
+	"title": "Visiting Speakers Seminars",
+	"type": "Course"
 }

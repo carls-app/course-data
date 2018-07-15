@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 14,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1948",
 	"tags": [],
-	"title": "Intermediate Acting"
+	"title": "Intermediate Acting",
+	"type": "Course"
 }

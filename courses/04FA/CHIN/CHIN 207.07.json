@@ -8,11 +8,12 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "207.07",
+	"number": "207",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "10576",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese Language"
+	"title": "Intermediate Chinese Language",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -33,10 +34,8 @@
 	"summary": "This five-week introductory course will explore a variety of topics in public health through readings, discussion, guest speakers, and a final research paper. The seminar will examine the social, environmental, economic, and political forces that influence health outcomes. An important goal of the course is to help each participant think about their position in public health, reflecting on past public health related experiences and/or looking ahead to upcoming opportunities.",
 	"synonym": "37376",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Topics in Public Health"
+	"title": "Topics in Public Health",
+	"type": "Course"
 }

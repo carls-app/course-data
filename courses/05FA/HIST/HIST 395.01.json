@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -33,14 +34,9 @@
 	"summary": null,
 	"synonym": "12390",
 	"tags": [
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"MARSCAP",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Controversial Histories"
+	"title": "Controversial Histories",
+	"type": "Course"
 }

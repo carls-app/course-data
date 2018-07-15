@@ -9,7 +9,7 @@
 		"Gary E Wagenbach",
 		"George Vrtis"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "19252",
 	"tags": [],
-	"title": "Env & Soc: Chal of 21st C"
+	"title": "Env & Soc: Chal of 21st C",
+	"type": "Course"
 }

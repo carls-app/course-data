@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "9623",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"MARSSUPP",
+		"EUSTCNTRY"
 	],
-	"title": "Rembrandt and VanGogh"
+	"title": "Rembrandt and VanGogh",
+	"type": "Course"
 }

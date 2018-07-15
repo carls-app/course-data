@@ -7,16 +7,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "293.00",
+	"number": "293",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 40,
@@ -26,5 +24,6 @@
 	"summary": null,
 	"synonym": "21203",
 	"tags": [],
-	"title": "Water Polo Club"
+	"title": "Water Polo Club",
+	"type": "Course"
 }

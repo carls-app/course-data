@@ -6,7 +6,7 @@
 	"instructors": [
 		"Asuka Sango"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": "An introduction to the major religious traditions of China, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining charactersistics of, and interactions among, various religious traditions, including Buddhism, Daoism, and the Confuciansim, as well as Christianity and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
 	"synonym": "24707",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTHU",
+		"ASSTEAST"
 	],
-	"title": "Religions in Chinese Culture"
+	"title": "Religions in Chinese Culture",
+	"type": "Course"
 }

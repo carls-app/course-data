@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "711",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1",
+		"LITFORLANG"
 	],
-	"title": "Major Modernist Poets"
+	"title": "Major Modernist Poets",
+	"type": "Course"
 }

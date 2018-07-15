@@ -9,7 +9,7 @@
 		"",
 		"Linda K Luedke"
 	],
-	"number": "104.00",
+	"number": "104",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": "Prerequisite: PE 103",
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 30,
@@ -44,5 +42,6 @@
 	"summary": "More complex empty-hand and weapon techniques are taught. Advanced breakfalls are added along with more intense physical and mental training. An additional fee of $30 is required. Prerequisite: Beginning Aikido.",
 	"synonym": "28361",
 	"tags": [],
-	"title": "Aikido, Advanced"
+	"title": "Aikido, Advanced",
+	"type": "Course"
 }

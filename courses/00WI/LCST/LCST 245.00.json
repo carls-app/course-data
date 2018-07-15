@@ -6,7 +6,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"FRSTSUPP",
 		"FRSTHIST"
 	],
-	"title": "Intro to Critical Methods"
+	"title": "Intro to Critical Methods",
+	"type": "Course"
 }

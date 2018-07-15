@@ -8,7 +8,7 @@
 	"instructors": [
 		""
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -38,5 +36,6 @@
 	"summary": null,
 	"synonym": "952",
 	"tags": [],
-	"title": "Karate"
+	"title": "Karate",
+	"type": "Course"
 }

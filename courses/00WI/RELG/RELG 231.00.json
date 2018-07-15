@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard E Crouter"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3715",
 	"tags": [],
-	"title": "Protestant Thought"
+	"title": "Protestant Thought",
+	"type": "Course"
 }

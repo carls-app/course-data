@@ -9,7 +9,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"tags": [
 		"HISTUS"
 	],
-	"title": "Women's History"
+	"title": "Women's History",
+	"type": "Course"
 }

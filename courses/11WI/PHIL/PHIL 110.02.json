@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "26909",
 	"tags": [],
-	"title": "Mind, Matter, Consciousness"
+	"title": "Mind, Matter, Consciousness",
+	"type": "Course"
 }

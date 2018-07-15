@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -48,26 +46,12 @@
 	"summary": null,
 	"synonym": "11698",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LCSTPERT",
-			"name": "Literary and Cultural Studies"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"ENGLLOE",
+		"EUSTCNTRY",
+		"ENGLFORLIT",
+		"LCSTPERT",
+		"CCSTETHNIC"
 	],
-	"title": "Holocaust:Memory&Reprsntatns"
+	"title": "Holocaust:Memory&Reprsntatns",
+	"type": "Course"
 }

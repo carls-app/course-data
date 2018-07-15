@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "109.04",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13107",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "166.00",
+	"number": "166",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 31,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "16737",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTASIA"
 	],
-	"title": "Modn Middle East 1939-present"
+	"title": "Modn Middle East 1939-present",
+	"type": "Course"
 }

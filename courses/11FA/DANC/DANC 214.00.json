@@ -6,16 +6,14 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 20,
@@ -25,5 +23,6 @@
 	"summary": "For students enrolled in Dance 204, supervised student choreography with two public showings.",
 	"synonym": "30191",
 	"tags": [],
-	"title": "Fall Dance, Student Choreography"
+	"title": "Fall Dance, Student Choreography",
+	"type": "Course"
 }

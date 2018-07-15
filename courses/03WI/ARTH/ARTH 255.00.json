@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer A Roberson"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "5659",
 	"tags": [],
-	"title": "Arts of Islam"
+	"title": "Arts of Islam",
+	"type": "Course"
 }

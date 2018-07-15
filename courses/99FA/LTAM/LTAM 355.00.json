@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4178",
 	"tags": [],
-	"title": "Wmn Dramatists:Staging Cnflic"
+	"title": "Wmn Dramatists:Staging Cnflic",
+	"type": "Course"
 }

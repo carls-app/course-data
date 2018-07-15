@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15398",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSSCI"
 	],
-	"title": "Energy and the Environment"
+	"title": "Energy and the Environment",
+	"type": "Course"
 }

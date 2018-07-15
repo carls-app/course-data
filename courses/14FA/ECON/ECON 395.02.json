@@ -6,7 +6,7 @@
 	"instructors": [
 		"Prathi Seneviratne"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -26,24 +26,13 @@
 	},
 	"prerequisites": "Prerequisite: Economics 330, 331, and concurrent or previous enrollment in Economics 329",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"WR2",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -53,5 +42,6 @@
 	"summary": "In this seminar, students will conduct detailed analyses of select topics from international finance and international trade. Possible topics include currency regimes, capital controls, sovereign debt, financial stability in emerging markets, financial contagion, the expansion of regional trade agreements, the impact of trade on labor markets and the environment, agricultural protection, and trade in services. Emphasis is given to linking theory with empirical evidence.",
 	"synonym": "39162",
 	"tags": [],
-	"title": "Advanced Topics in International Economics"
+	"title": "Advanced Topics in International Economics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "15390",
 	"tags": [
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		},
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSLPES",
+		"ENTSWRES",
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Geomorphology"
+	"title": "Geomorphology",
+	"type": "Course"
 }

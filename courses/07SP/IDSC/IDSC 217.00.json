@@ -8,7 +8,7 @@
 		"Bill Titus",
 		"Susan R Singer"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15279",
 	"tags": [],
-	"title": "Computational Modeling"
+	"title": "Computational Modeling",
+	"type": "Course"
 }

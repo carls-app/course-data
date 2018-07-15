@@ -9,7 +9,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "4174",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL2",
+		"WGSTADDL"
 	],
-	"title": "Christian Feminist Theologies"
+	"title": "Christian Feminist Theologies",
+	"type": "Course"
 }

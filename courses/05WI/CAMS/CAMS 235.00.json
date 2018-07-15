@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "10871",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"WGSTADDL",
+		"CAMSELECTIVE"
 	],
-	"title": "Film&Medodramatic Imagination"
+	"title": "Film&Medodramatic Imagination",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Mewes"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 36,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9771",
 	"tags": [],
-	"title": "What Physicists Do"
+	"title": "What Physicists Do",
+	"type": "Course"
 }

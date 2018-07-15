@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "12418",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Dan O'Brien",
 		"Mark T Kanazawa"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "25368",
 	"tags": [],
-	"title": "Writing the Great Plains"
+	"title": "Writing the Great Plains",
+	"type": "Course"
 }

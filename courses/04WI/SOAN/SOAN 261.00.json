@@ -9,7 +9,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "7395",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL3",
+		"WGSTADDL"
 	],
-	"title": "Gender, Sexuality & Schooling"
+	"title": "Gender, Sexuality & Schooling",
+	"type": "Course"
 }

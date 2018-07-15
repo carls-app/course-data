@@ -9,7 +9,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2096",
 	"tags": [],
-	"title": "American Art to 1940"
+	"title": "American Art to 1940",
+	"type": "Course"
 }

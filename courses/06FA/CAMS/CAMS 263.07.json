@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "263.07",
+	"number": "263",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 18,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "16376",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSSTUPROD"
 	],
-	"title": "Authoring New Media"
+	"title": "Authoring New Media",
+	"type": "Course"
 }

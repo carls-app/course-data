@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3874",
 	"tags": [],
-	"title": "Mathematical Statistics"
+	"title": "Mathematical Statistics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 10,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "7969",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

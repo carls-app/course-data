@@ -8,11 +8,12 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -22,30 +23,13 @@
 	"summary": null,
 	"synonym": "4862",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"FRSTCULT",
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"FRSTHIST"
 	],
-	"title": "Visions of Paris"
+	"title": "Visions of Paris",
+	"type": "Course"
 }

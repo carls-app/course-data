@@ -9,7 +9,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "696",
 	"tags": [],
-	"title": "Classic Drama:Shakespre-Mdsm"
+	"title": "Classic Drama:Shakespre-Mdsm",
+	"type": "Course"
 }

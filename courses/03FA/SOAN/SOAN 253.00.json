@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha A Easton"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "8570",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"CCSTREGIONAL"
 	],
-	"title": "The European Union"
+	"title": "The European Union",
+	"type": "Course"
 }

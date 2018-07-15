@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: 100 level Geology course or instructor permission; Concurrent registraiton in Geology 210L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 18,
@@ -43,22 +44,11 @@
 	"summary": "Study of the geological processes and factors which influence the origin and development of the surficial features of the earth, with an emphasis on some or all of the processes in Minnesota. Laboratories and field trips included.",
 	"synonym": "23135",
 	"tags": [
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		},
-		{
-			"code": "ENTSLPES",
-			"name": "ENTS Land Percp Env Sci"
-		}
+		"ENTSWRES",
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSLPES"
 	],
-	"title": "Geomorphology"
+	"title": "Geomorphology",
+	"type": "Course"
 }

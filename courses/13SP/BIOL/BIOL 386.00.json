@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -41,18 +39,10 @@
 	"summary": "An analysis of the biology of neurons and the nervous system. Topics include the molecular basis of electrical excitability in neurons, synaptic transmission and plasticity, motor control, mechanisms of sensation, and construction and modification of neural circuits.",
 	"synonym": "32929",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"CGSCELECTIVE",
+		"NEURCORE",
+		"SPECINTHEALTH"
 	],
-	"title": "Neurobiology"
+	"title": "Neurobiology",
+	"type": "Course"
 }

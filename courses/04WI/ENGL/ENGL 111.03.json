@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "8968",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"LITFORLANG",
+		"EUSTCNTRY"
 	],
-	"title": "English Literature II"
+	"title": "English Literature II",
+	"type": "Course"
 }

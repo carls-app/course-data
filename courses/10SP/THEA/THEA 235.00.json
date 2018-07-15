@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "25313",
 	"tags": [],
-	"title": "Introduction to Stage Combat"
+	"title": "Introduction to Stage Combat",
+	"type": "Course"
 }

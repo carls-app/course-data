@@ -8,7 +8,7 @@
 	"instructors": [
 		"Heidi L Jaynes"
 	],
-	"number": "310.02",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 12,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "988",
 	"tags": [],
-	"title": "First Aid and CPR"
+	"title": "First Aid and CPR",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "6715",
 	"tags": [],
-	"title": "Psychopharmacology"
+	"title": "Psychopharmacology",
+	"type": "Course"
 }

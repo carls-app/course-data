@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -49,14 +47,9 @@
 	"summary": null,
 	"synonym": "4722",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		}
+		"ASSTPERT",
+		"ASSTDISC"
 	],
-	"title": "Historical Linguistics"
+	"title": "Historical Linguistics",
+	"type": "Course"
 }

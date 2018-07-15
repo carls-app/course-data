@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10344",
 	"tags": [],
-	"title": "Music Fundamentals"
+	"title": "Music Fundamentals",
+	"type": "Course"
 }

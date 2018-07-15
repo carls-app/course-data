@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.03",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "432",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

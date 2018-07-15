@@ -9,7 +9,7 @@
 		"David Lefkowitz",
 		"Fred Hagstrom"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161",
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 0,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "3696",
 	"tags": [],
-	"title": "Critical Issues in the Arts"
+	"title": "Critical Issues in the Arts",
+	"type": "Course"
 }

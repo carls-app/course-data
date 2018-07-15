@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "158.03",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -24,6 +24,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "931",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

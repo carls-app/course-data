@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2474",
 	"tags": [],
-	"title": "Intro to Creative Writing"
+	"title": "Intro to Creative Writing",
+	"type": "Course"
 }

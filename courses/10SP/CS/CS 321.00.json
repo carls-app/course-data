@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Computer Science 201, additionally Computer Science 202 or Mathematics 236 are strongly recommended.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": "How can we design computer systems with behavior that seems \"intelligent?\" This course will examine a number of different approaches to this question, including intelligent search computer game playing, automated logic, machine learning (including neural networks), and reasoning with uncertainty. The coursework is a mix of problem solving and computer programming based on the ideas that we discuss.",
 	"synonym": "22920",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Artificial Intelligence"
+	"title": "Artificial Intelligence",
+	"type": "Course"
 }

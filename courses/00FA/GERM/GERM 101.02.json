@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "101.02",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "1847",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

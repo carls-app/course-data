@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "281.02",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17626",
 	"tags": [],
-	"title": "Cell Biology Laboratory"
+	"title": "Cell Biology Laboratory",
+	"type": "Course"
 }

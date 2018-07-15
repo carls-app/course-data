@@ -6,7 +6,7 @@
 	"instructors": [
 		"Wilson Valentin-Escobar"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "5825",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC"
 	],
-	"title": "Introduction to Latina/o Stds"
+	"title": "Introduction to Latina/o Stds",
+	"type": "Course"
 }

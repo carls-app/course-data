@@ -8,7 +8,7 @@
 	"instructors": [
 		""
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"West Gym WRES"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 40,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "3420",
 	"tags": [],
-	"title": "Aikido, Beginning"
+	"title": "Aikido, Beginning",
+	"type": "Course"
 }

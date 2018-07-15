@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -41,14 +39,9 @@
 	"summary": "Drawing from selected traditional texts and modern analyses, we will investigate the human encounter with ultimate reality. Questions we will consider include: What is the definition and typology of mysticism? Is mystical experience truly ineffable? What are its modes of expression? Do all mystics experience the same reality? Is unmediated experience possible? Do mystical experiences show us the truth? Is there a place for reason on a mystical path? What is the role of the body and brain in mystical practice? Does mystical experience make us good? Does it free us? Are mystics critics of institutional religion or social injustice?",
 	"synonym": "36028",
 	"tags": [
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"RELGTHTHGHTPHIL",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Mysticism"
+	"title": "Mysticism",
+	"type": "Course"
 }

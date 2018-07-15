@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "19241",
 	"tags": [
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"POSI-GDS"
 	],
-	"title": "Transnational Feminisms"
+	"title": "Transnational Feminisms",
+	"type": "Course"
 }

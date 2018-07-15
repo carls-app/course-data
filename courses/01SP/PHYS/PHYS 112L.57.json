@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ignacio Birriel"
 	],
-	"number": "112L.57",
+	"number": "112L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 9,
 		"total": 24,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "413",
 	"tags": [],
-	"title": "Elementary Physics Lab"
+	"title": "Elementary Physics Lab",
+	"type": "Lab"
 }

@@ -7,7 +7,7 @@
 		"Roy Elveton",
 		"Ruth Weiner"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -42,18 +40,10 @@
 	"summary": null,
 	"synonym": "26922",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"THEAPERT",
+		"ENGLHE3",
+		"PHILADV"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

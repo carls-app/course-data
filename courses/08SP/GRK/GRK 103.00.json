@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "103.00",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "18987",
 	"tags": [],
-	"title": "Greek Prose"
+	"title": "Greek Prose",
+	"type": "Course"
 }

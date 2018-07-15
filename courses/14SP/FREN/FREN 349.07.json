@@ -8,20 +8,15 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"IS",
+		"LA"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -31,30 +26,13 @@
 	"summary": null,
 	"synonym": "36158",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FFSTLIT",
-			"name": "FFST Literature & Culture"
-		}
+		"FRSTCULT",
+		"EUSTOFFCAMP",
+		"EUSTTRANNATL",
+		"CCSTGLOBAL",
+		"FRSTELEC",
+		"FFSTLIT"
 	],
-	"title": "Paris Program: Identity Crossings: France-Morocco"
+	"title": "Paris Program: Identity Crossings: France-Morocco",
+	"type": "Course"
 }

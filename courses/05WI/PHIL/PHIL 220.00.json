@@ -6,7 +6,7 @@
 	"instructors": [
 		"Patti Ross"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "11160",
 	"tags": [],
-	"title": "Topics: Disease and Values"
+	"title": "Topics: Disease and Values",
+	"type": "Course"
 }

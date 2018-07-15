@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary Ellen Childs"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 7,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2808",
 	"tags": [],
-	"title": "Composition"
+	"title": "Composition",
+	"type": "Course"
 }

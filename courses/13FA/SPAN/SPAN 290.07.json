@@ -8,11 +8,12 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "290.07",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "36373",
 	"tags": [
-		{
-			"code": "SPAN240-290",
-			"name": "Spanish 240-290 Courses"
-		},
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		}
+		"SPAN240-290",
+		"SPAN204-219"
 	],
-	"title": "Spanish Seminar in Madrid Program: Independent Reading"
+	"title": "Spanish Seminar in Madrid Program: Independent Reading",
+	"type": "Course"
 }

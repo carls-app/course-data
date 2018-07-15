@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "19070",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECPROD",
+		"CAMSELECTIVE",
+		"CAMSSTUPROD"
 	],
-	"title": "Site Specific Media"
+	"title": "Site Specific Media",
+	"type": "Course"
 }

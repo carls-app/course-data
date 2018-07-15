@@ -6,7 +6,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "12304",
 	"tags": [],
-	"title": "Database Systems"
+	"title": "Database Systems",
+	"type": "Course"
 }

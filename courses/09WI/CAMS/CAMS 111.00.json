@@ -9,7 +9,7 @@
 		"Paul Hager",
 		"John Schott"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "21607",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Digital Foundations"
+	"title": "Digital Foundations",
+	"type": "Course"
 }

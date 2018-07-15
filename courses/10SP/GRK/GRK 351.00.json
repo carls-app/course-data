@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": "Intensive study of one or two plays in the original and of the remaining plays in translation.",
 	"synonym": "24281",
 	"tags": [],
-	"title": "Aristophanes"
+	"title": "Aristophanes",
+	"type": "Course"
 }

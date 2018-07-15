@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martin A Klein"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 35,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "11071",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		}
+		"FRSTELEC",
+		"FRSTSUPP",
+		"HISTAFRDIASPORA",
+		"FRSTHIST",
+		"AFAMDISTROHU"
 	],
-	"title": "Colonial West Africa"
+	"title": "Colonial West Africa",
+	"type": "Course"
 }

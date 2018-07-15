@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judy Nelson"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "911",
 	"tags": [],
-	"title": "Tap Dance, Advanced"
+	"title": "Tap Dance, Advanced",
+	"type": "Course"
 }

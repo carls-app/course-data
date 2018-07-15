@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "18088",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2"
 	],
-	"title": "Era of Civil War & Reconstr"
+	"title": "Era of Civil War & Reconstr",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "110.05",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "4395",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		}
+		"HISTSASIA"
 	],
-	"title": "1947 Partition of India"
+	"title": "1947 Partition of India",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "305.00",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": "Intensive study of selections from Homer's",
 	"synonym": "33153",
 	"tags": [],
-	"title": "Homer"
+	"title": "Homer",
+	"type": "Course"
 }

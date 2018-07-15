@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -46,18 +44,10 @@
 	"summary": "What does it mean to be morally excellent? To be politically excellent? To be intellectually and spiritually excellent? Are these things mutually compatible? Do they lie within the reach of everyone? And what is the relation between excellence and pleasure? Between excellence and happiness? Aristotle addresses these questions in intricate and illuminating detail in the",
 	"synonym": "27030",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSCELECTIVE",
+		"MARSSUPP",
+		"POSI-DSS"
 	],
-	"title": "Freedom, Excellence, Happiness: Aristotle's"
+	"title": "Freedom, Excellence, Happiness: Aristotle's",
+	"type": "Course"
 }

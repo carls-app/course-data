@@ -6,7 +6,7 @@
 	"instructors": [
 		"Keren A Gudeman"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18841",
 	"tags": [],
-	"title": "Fitness for the Athlete"
+	"title": "Fitness for the Athlete",
+	"type": "Course"
 }

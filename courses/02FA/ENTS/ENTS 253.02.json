@@ -9,7 +9,7 @@
 	"instructors": [
 		"Karen A Wilson"
 	],
-	"number": "253.02",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -34,14 +35,9 @@
 	"summary": null,
 	"synonym": "3365",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Aquatic Biology Laboratory"
+	"title": "Aquatic Biology Laboratory",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chemistory 234 and either Chemistry 230 or Biology 380",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 41,
 		"total": 40,
@@ -41,5 +42,6 @@
 	"summary": "This course involves the natural extension of the principles of chemistry to biological systems. The topics to be examined center around the biochemical formation and cleavage of chemical bonds, with an emphasis on the structure and function of the proteins that mediate these processes.",
 	"synonym": "22984",
 	"tags": [],
-	"title": "Biological Chemistry"
+	"title": "Biological Chemistry",
+	"type": "Course"
 }

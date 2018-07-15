@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "7379",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		}
+		"LTAMELECTIVE",
+		"LTAM300LIT"
 	],
-	"title": "Idioms of Inequality"
+	"title": "Idioms of Inequality",
+	"type": "Course"
 }

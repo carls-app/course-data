@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jeane H DeLaney"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"tags": [
 		"HISTLTAM"
 	],
-	"title": "20th Century Cuba"
+	"title": "20th Century Cuba",
+	"type": "Course"
 }

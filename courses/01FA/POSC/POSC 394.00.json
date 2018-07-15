@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1062",
 	"tags": [],
-	"title": "Logic of Inquiry"
+	"title": "Logic of Inquiry",
+	"type": "Course"
 }

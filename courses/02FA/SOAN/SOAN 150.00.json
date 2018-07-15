@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terry Boychuk"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "5824",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "American Social Policy"
+	"title": "American Social Policy",
+	"type": "Course"
 }

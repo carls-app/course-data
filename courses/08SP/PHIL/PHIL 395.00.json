@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steve Stich"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "18195",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Moral Psychology"
+	"title": "Moral Psychology",
+	"type": "Course"
 }

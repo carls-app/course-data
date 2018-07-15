@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pat Cavanaugh"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -50,26 +45,12 @@
 	"summary": "Citizen mobilization often centers around environmental problems or other controversies about the shape of community landscapes. We will explore concepts of democracy, power, identity, and sense of place as we examine cases of citizen mobilization. The class will research a current case study of an environmental controversy that gave rise to citizen mobilization. When and why do people in a community mobilize? What are the obstacles to community-based political action? How do local communities mobilize to meet the challenge of broader issues, such as climate change? Are the Occupy protests similar to community-based mobilization?",
 	"synonym": "36276",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"ENTS2SCP",
+		"POSI-DSS2",
+		"POSI-DSS",
+		"ENTSCDSCP",
+		"POSIELECTIVE"
 	],
-	"title": "Place, Politics, and Citizen Mobilization"
+	"title": "Place, Politics, and Citizen Mobilization",
+	"type": "Course"
 }

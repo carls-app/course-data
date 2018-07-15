@@ -9,7 +9,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "112.01",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"AMSTTOPICAL1",
 		"AMSTSURVEY1"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

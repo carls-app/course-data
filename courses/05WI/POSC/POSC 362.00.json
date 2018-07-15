@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "11120",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
-	"title": "Globalization and the State"
+	"title": "Globalization and the State",
+	"type": "Course"
 }

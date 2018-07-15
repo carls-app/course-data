@@ -6,7 +6,7 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "Students are tested (cardiovascular efficiency, strength, flexibility and body composition) to determine base-fitness levels. Individualized programs are established based on test results and goal setting by the students.",
 	"synonym": "23941",
 	"tags": [],
-	"title": "Cote Fitness"
+	"title": "Cote Fitness",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Lucchesi"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2115",
 	"tags": [],
-	"title": "Seminar for Art History Majors"
+	"title": "Seminar for Art History Majors",
+	"type": "Course"
 }

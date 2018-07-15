@@ -6,7 +6,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "172.00",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9629",
 	"tags": [],
-	"title": "Modern Art: 1890-1945"
+	"title": "Modern Art: 1890-1945",
+	"type": "Course"
 }

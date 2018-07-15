@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Rosenberg"
 	],
-	"number": "271.02",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "11972",
 	"tags": [],
-	"title": "Animal Physiology Lab"
+	"title": "Animal Physiology Lab",
+	"type": "Course"
 }

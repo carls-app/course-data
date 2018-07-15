@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 3,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "27860",
 	"tags": [],
-	"title": "Meth Literacy Instruction"
+	"title": "Meth Literacy Instruction",
+	"type": "Course"
 }

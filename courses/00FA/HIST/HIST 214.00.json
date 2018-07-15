@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rachel F Seidman"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "Civil War Era"
+	"title": "Civil War Era",
+	"type": "Course"
 }

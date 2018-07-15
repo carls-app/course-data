@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Biology 125 or Psychology 216 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -45,14 +40,9 @@
 	"summary": "It should be obvious that every process that goes on in the mind has physiological underpinnings. But, whether we can unlock the secrets of learning, memory and perception as they are supported by neurons and neural connections is a longstanding and elusive problem in psychology. Contemporary articles are the text for this discussion-driven course. The student should leave the class with a working understanding of brain processes and of contemporary theories of brain processes that may support perception, memory, language, and consciousness.",
 	"synonym": "32280",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

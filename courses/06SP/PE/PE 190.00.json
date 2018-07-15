@@ -6,7 +6,7 @@
 	"instructors": [
 		"Heidi L Jaynes"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 26,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "12919",
 	"tags": [],
-	"title": "Volleyball, Co-ed"
+	"title": "Volleyball, Co-ed",
+	"type": "Course"
 }

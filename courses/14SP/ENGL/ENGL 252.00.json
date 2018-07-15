@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -54,30 +46,13 @@
 	"summary": "This course will examine Anglophone fiction in the Caribbean from the late colonial period through our contemporary moment. We will examine major developments in form and language as well as the writing of identity, personal and (trans)national. We will read works by canonical writers such as V.S Naipaul, George Lamming and Jamaica Kincaid, as well as by lesser known contemporary writers.",
 	"synonym": "35342",
 	"tags": [
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "AFSTLA",
-			"name": "Africana Stds Literary/Artisti"
-		}
+		"AFAMLITARTANLYS",
+		"ENGLHE3",
+		"AFAMDISTROAL",
+		"ENGLT3",
+		"ASSTSOUTH",
+		"AFSTLA"
 	],
-	"title": "Caribbean Fiction"
+	"title": "Caribbean Fiction",
+	"type": "Course"
 }

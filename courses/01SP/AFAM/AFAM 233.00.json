@@ -7,7 +7,7 @@
 		"Mary M Easter",
 		"Kofi Owusu"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"tags": [
 		"AMSTTOPICAL1"
 	],
-	"title": "Harlem Renaiss-Lit,Music&Dance"
+	"title": "Harlem Renaiss-Lit,Music&Dance",
+	"type": "Course"
 }

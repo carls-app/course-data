@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -48,34 +46,14 @@
 	"summary": "A close look at the great classic of Japanese fiction, with special attention to literary and aesthetic traditions and to the social and cultural context of Heian Japan.",
 	"synonym": "33904",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EASTSUPP",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"WGSTADDL",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
-	"title": "Classical Japanese Fiction: The Tale of Genji and Its World in Translation"
+	"title": "Classical Japanese Fiction: The Tale of Genji and Its World in Translation",
+	"type": "Course"
 }

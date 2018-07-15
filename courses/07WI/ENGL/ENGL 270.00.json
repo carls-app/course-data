@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "15828",
 	"tags": [],
-	"title": "Crafts of Writing:Short Story"
+	"title": "Crafts of Writing:Short Story",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Coville"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "21539",
 	"tags": [
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"LINGPERT",
+		"CGSCELECTIVE"
 	],
-	"title": "Language and Culture"
+	"title": "Language and Culture",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Caroline A Burke"
 	],
-	"number": "378.00",
+	"number": "378",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "14269",
 	"tags": [],
-	"title": "Psyc Womn: Mothers & Daughters"
+	"title": "Psyc Womn: Mothers & Daughters",
+	"type": "Course"
 }

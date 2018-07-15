@@ -8,7 +8,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "5658",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "History of Jazz"
+	"title": "History of Jazz",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"FRSTLANGLIT"
 	],
-	"title": "Beyond Words:Writing in Fren"
+	"title": "Beyond Words:Writing in Fren",
+	"type": "Course"
 }

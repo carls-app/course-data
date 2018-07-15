@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 24,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "15099",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Immunology"
+	"title": "Immunology",
+	"type": "Course"
 }

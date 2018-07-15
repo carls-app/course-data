@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark T Unno"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2657",
 	"tags": [],
-	"title": "Conception of Self:East&West"
+	"title": "Conception of Self:East&West",
+	"type": "Course"
 }

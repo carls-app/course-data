@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 236 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Properties of the integers. Topics include the Euclidean algorithm, classical unsolved problems in number theory, prime factorization, Diophantine equations, congruences, divisibility, Euler's phi function and other multiplicative functions, primitive roots, and quadratic reciprocity. Other topics may include integers as sums of squares, continued fractions, distribution of primes, integers in extension fields, p-adic numbers.",
 	"synonym": "26559",
 	"tags": [],
-	"title": "Elementary Theory of Numbers"
+	"title": "Elementary Theory of Numbers",
+	"type": "Course"
 }

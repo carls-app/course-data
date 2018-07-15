@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21056",
 	"tags": [],
-	"title": "Environ Animal Physiology"
+	"title": "Environ Animal Physiology",
+	"type": "Course"
 }

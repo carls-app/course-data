@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13592",
 	"tags": [],
-	"title": "Greek Orators"
+	"title": "Greek Orators",
+	"type": "Course"
 }

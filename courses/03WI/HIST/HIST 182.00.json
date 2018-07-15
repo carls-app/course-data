@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 40,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "4452",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL",
+		"AFAMSURVEY",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Survey-South African Hist"
+	"title": "Survey-South African Hist",
+	"type": "Course"
 }

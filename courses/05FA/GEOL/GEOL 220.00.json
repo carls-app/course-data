@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qing Zhang"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 18,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12189",
 	"tags": [],
-	"title": "Tectonics"
+	"title": "Tectonics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 321; Biology 126 and 1 of the following: Biology 125, Geology 110, Chemistry 123 or Chemistry 128",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": "Concurrent registration in Biology 321 required.",
 	"synonym": "38362",
 	"tags": [],
-	"title": "Ecosystem Ecology Laboratory"
+	"title": "Ecosystem Ecology Laboratory",
+	"type": "Course"
 }

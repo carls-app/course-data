@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126, and Biology 240 or 280; Concurrent registration in Biology 342",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -33,10 +34,8 @@
 	"summary": "Laboratory will introduce descriptive and experimental embryological techniques using a variety of model organisms.",
 	"synonym": "35273",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		}
+		"NEURELEC"
 	],
-	"title": "Animal Developmental Biology Laboratory"
+	"title": "Animal Developmental Biology Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7568",
 	"tags": [],
-	"title": "Faith, Hope, Love"
+	"title": "Faith, Hope, Love",
+	"type": "Course"
 }

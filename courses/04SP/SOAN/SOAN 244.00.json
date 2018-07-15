@@ -9,7 +9,7 @@
 		"Beverly Y Nagel",
 		"Tsegaye H Nega"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "7417",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP"
 	],
-	"title": "Biodivers,Consvtn,Cultr & Dev"
+	"title": "Biodivers,Consvtn,Cultr & Dev",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maria Elena Doleman"
 	],
-	"number": "103.03",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302",
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "10678",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

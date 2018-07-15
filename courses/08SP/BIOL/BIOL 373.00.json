@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "373.00",
+	"number": "373",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "17630",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Behavioral Endocrinology"
+	"title": "Behavioral Endocrinology",
+	"type": "Course"
 }

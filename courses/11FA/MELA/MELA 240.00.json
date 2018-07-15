@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maureen B Jackson"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": null,
 	"synonym": "29028",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"HISTASIA",
+		"EUSTCNTRY"
 	],
-	"title": "Turkey Today: An Introduction"
+	"title": "Turkey Today: An Introduction",
+	"type": "Course"
 }

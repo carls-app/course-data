@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": "Prerequisite: Russian 205 or instructor permission",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,5 +34,6 @@
 	"summary": "In this course we will analyze, sing, and stage some of the best-known Russian songs of the twentieth century, songs that have become the \"prayers\" of the new civic religion.",
 	"synonym": "37550",
 	"tags": [],
-	"title": "Russian History Through Song"
+	"title": "Russian History Through Song",
+	"type": "Course"
 }

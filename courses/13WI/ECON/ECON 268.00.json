@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: ECON 110 & 111. Some statistics background will be useful.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "Cost-benefit analysis is a tool commonly used by economists and policy makers to compare and choose among competing policy options. This course will cover the basic theory and empirical techniques necessary to quantify and aggregate the impacts of government policy, especially as related to the environment. Topics covered include the time value of money; uncertainty; sensitivity analysis; option value; contingent valuation; hedonic estimation; basic research design. Throughout the course case studies will be used to elucidate and bring life to the theoretical concepts.",
 	"synonym": "32959",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSFASCP",
+		"ENTSCDSCP",
+		"ENTSWRSCP"
 	],
-	"title": "Economics of Cost Benefit Analysis"
+	"title": "Economics of Cost Benefit Analysis",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "21850",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL"
 	],
-	"title": "Fr Media: Multifaceted Apprch"
+	"title": "Fr Media: Multifaceted Apprch",
+	"type": "Course"
 }

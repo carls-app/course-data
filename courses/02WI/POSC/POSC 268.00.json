@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 35,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "1098",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"ENTSINTL"
 	],
-	"title": "Int'l Environ Law & Politics"
+	"title": "Int'l Environ Law & Politics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -46,14 +44,9 @@
 	"summary": "This course explores the physiological adaptations animals employ to survive in a wide variety of environments. Animals maintain physiological functions in the face of environmental extremes in heat, cold, aridity, deep ocean pressure, salinity, and the lack of oxygen in water or at high altitude, to name a few. An organism's ability to cope with environmental extremes has a large impact on the geographic distribution of many species. Associated laboratory will emphasize experimentation and application of physiological concepts in living organisms. Concurrent registration in Biology 253 required.",
 	"synonym": "38371",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"ENTSCDES"
 	],
-	"title": "Environmental Animal Physiology"
+	"title": "Environmental Animal Physiology",
+	"type": "Course"
 }

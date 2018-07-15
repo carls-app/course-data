@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "5505",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"HISTAFRICA",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Narrtv & Memory African Histry"
+	"title": "Narrtv & Memory African Histry",
+	"type": "Course"
 }

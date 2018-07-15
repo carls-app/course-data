@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "3485",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		}
+		"HISTEUR1451"
 	],
-	"title": "English Civil War"
+	"title": "English Civil War",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly A Baker"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "298",
 	"tags": [],
-	"title": "Oncogenes & Moleclr Bio-Cancer"
+	"title": "Oncogenes & Moleclr Bio-Cancer",
+	"type": "Course"
 }

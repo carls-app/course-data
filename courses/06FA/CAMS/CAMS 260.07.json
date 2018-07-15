@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "260.07",
+	"number": "260",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "16375",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Cyberculture: Digital Seeing"
+	"title": "Cyberculture: Digital Seeing",
+	"type": "Course"
 }

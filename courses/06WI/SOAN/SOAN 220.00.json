@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "13240",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Class,Power&Inequality in Amer"
+	"title": "Class,Power&Inequality in Amer",
+	"type": "Course"
 }

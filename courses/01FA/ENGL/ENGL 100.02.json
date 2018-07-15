@@ -8,7 +8,7 @@
 	"instructors": [
 		"Iona Italia"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "638",
 	"tags": [],
-	"title": "Lit Sem:Harpies,Shrews,Whores"
+	"title": "Lit Sem:Harpies,Shrews,Whores",
+	"type": "Course"
 }

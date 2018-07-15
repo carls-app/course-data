@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": "A study of international trade theories and their policy implications. Classical and neo-classical trade models, the gains from trade, the terms of trade and the distribution of income, world trade patterns, international factor movements, tariffs, and the impact of commercial policy on developing and developed countries are analyzed.",
 	"synonym": "24379",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS"
 	],
-	"title": "International Trade"
+	"title": "International Trade",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sun Hee T Lee"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "20546",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"CCSTETHNIC"
 	],
-	"title": "Intro to Asian American Stds"
+	"title": "Intro to Asian American Stds",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17534",
 	"tags": [],
-	"title": "Inverses and Integration"
+	"title": "Inverses and Integration",
+	"type": "Course"
 }

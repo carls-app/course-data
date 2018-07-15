@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julian C Westerhout"
 	],
-	"number": "363.00",
+	"number": "363",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "9838",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSIADVSEM"
 	],
-	"title": "Political Econ Internal War"
+	"title": "Political Econ Internal War",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael H Kidd"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "10670",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"EUSTCNTRY",
+		"PENINLIT"
 	],
-	"title": "Span Lit: Love&Death in Drama"
+	"title": "Span Lit: Love&Death in Drama",
+	"type": "Course"
 }

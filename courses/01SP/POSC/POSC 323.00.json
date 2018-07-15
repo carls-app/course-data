@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "828",
 	"tags": [],
-	"title": "Russian Government&Foreign Pol"
+	"title": "Russian Government&Foreign Pol",
+	"type": "Course"
 }

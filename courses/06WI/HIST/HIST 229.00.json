@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "12410",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"WGSTADDL"
 	],
-	"title": "Gender and Work in US History"
+	"title": "Gender and Work in US History",
+	"type": "Course"
 }

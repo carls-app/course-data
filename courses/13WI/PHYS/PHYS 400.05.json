@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "400.05",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "05",
 	"size": {
 		"registered": 2,
 		"total": 4,
@@ -42,5 +43,6 @@
 	"summary": "An extensive study of a specific topic in physics, culminating in a 60-minute presentation during winter or spring term and a 7500 word paper. Students may arrange to complete the bulk of their work during winter or spring term (Physics 400, 6 credits), or divide their effort between terms (Physics 400, winter, 3 credits; Physics 400, spring, 3 credits).",
 	"synonym": "33558",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

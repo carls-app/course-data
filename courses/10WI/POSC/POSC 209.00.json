@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pat Cavanaugh"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": "Citizen mobilization often centers around environmental problems or other controversies about the shape of community landscapes. We will explore concepts of democracy, power, identity, and sense of place as we examine cases of citizen mobilization. The class will research a current case study of an environmental controversy that gave rise to citizen mobilization. When and why do people in a community mobilize? What are the obstacles to community-based political action? How do local communities mobilize to meet the challenge of broader issues, such as climate change? Are the Occupy protests similar to community-based mobilization?",
 	"synonym": "25176",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSI-DSS"
 	],
-	"title": "Place, Politics, and Citizen Mobilization"
+	"title": "Place, Politics, and Citizen Mobilization",
+	"type": "Course"
 }

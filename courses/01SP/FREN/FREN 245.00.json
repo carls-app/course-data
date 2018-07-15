@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -48,5 +49,6 @@
 		"FRSTLANGLIT",
 		"AFAMDISTROAL"
 	],
-	"title": "Franco Lit - Africa&Caribbean"
+	"title": "Franco Lit - Africa&Caribbean",
+	"type": "Course"
 }

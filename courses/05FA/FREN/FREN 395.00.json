@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "13430",
 	"tags": [
-		{
-			"code": "FRSTSEM",
-			"name": "FRST Seminar"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"FRSTSEM",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"EUSTCNTRY"
 	],
-	"title": "Autobiographical Lenses"
+	"title": "Autobiographical Lenses",
+	"type": "Course"
 }

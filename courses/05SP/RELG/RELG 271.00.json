@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10532",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"CCSTETHNIC"
 	],
-	"title": "Relg & Moral Issues-Holocaust"
+	"title": "Relg & Moral Issues-Holocaust",
+	"type": "Course"
 }

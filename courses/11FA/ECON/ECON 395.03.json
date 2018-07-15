@@ -6,7 +6,7 @@
 	"instructors": [
 		"Radek Szulga"
 	],
-	"number": "395.03",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -49,14 +41,9 @@
 	"summary": null,
 	"synonym": "30225",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		}
+		"CCSTGLOBAL",
+		"POECAPP"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

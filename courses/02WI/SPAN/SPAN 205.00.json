@@ -6,7 +6,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "1237",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Conversation & Composition"
+	"title": "Conversation & Composition",
+	"type": "Course"
 }

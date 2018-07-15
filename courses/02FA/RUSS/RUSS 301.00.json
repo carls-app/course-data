@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "5854",
 	"tags": [],
-	"title": "Language Skill Maintenance"
+	"title": "Language Skill Maintenance",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "11457",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "The American Long Poem"
+	"title": "The American Long Poem",
+	"type": "Course"
 }

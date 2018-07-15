@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah A Wadsworth"
 	],
-	"number": "109.10",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "10",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "676",
 	"tags": [],
-	"title": "Writing Seminar I"
+	"title": "Writing Seminar I",
+	"type": "Course"
 }

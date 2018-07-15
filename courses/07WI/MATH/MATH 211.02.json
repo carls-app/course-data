@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "211.02",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 29,
 		"total": 28,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "15330",
 	"tags": [],
-	"title": "Calculus III"
+	"title": "Calculus III",
+	"type": "Course"
 }

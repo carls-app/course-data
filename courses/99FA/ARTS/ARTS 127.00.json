@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Boliou 25"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2122",
 	"tags": [],
-	"title": "Intro to Woodworking"
+	"title": "Intro to Woodworking",
+	"type": "Course"
 }

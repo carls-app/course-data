@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judy Nelson"
 	],
-	"number": "179.00",
+	"number": "179",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "128",
 	"tags": [],
-	"title": "Tap Dance, Beginning"
+	"title": "Tap Dance, Beginning",
+	"type": "Course"
 }

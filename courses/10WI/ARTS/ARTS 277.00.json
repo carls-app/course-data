@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Boliou 032"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Studio Art 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": "This course provides an introductory instruction in printmaking while working in the book format. Students will learn at least one print technique in addition to various styles of binding. Through visits to special collections as well as narrative student projects, we will also begin an exploration of the medium of an artist's book.",
 	"synonym": "24854",
 	"tags": [],
-	"title": "Paper Arts: Artist's Books and Printmaking"
+	"title": "Paper Arts: Artist's Books and Printmaking",
+	"type": "Course"
 }

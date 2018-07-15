@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -46,10 +44,8 @@
 	"summary": "Semantics is the study of meaning (broadly construed) in language. In this course we explore several objects of inquiry within the field of semantics, including compositional semantics (i.e., the computation of meaning over syntactic structures), lexical semantics, argument structure, and pragmatics. Prerequisite: Linguistics 216.",
 	"synonym": "32184",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Topics in Semantics"
+	"title": "Topics in Semantics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "7507",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "American Environmental Thought"
+	"title": "American Environmental Thought",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110; Concurrent registration in Psychology",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 24,
@@ -48,14 +46,9 @@
 	"summary": "An introduction to the physiological bases of complex behaviors in mammals, with an emphasis on neural and hormonal mechanisms. A grade of C- or better must be earned in both Psychology 216 and 217 to satisfy the LS requirement. Requires concurrent registration in PSYC 217.",
 	"synonym": "32269",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"CGSCELECTIVE",
+		"NEURCORE"
 	],
-	"title": "Behavioral Neuroscience"
+	"title": "Behavioral Neuroscience",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "153L.59",
+	"number": "153L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28818",
 	"tags": [],
-	"title": "Fluid and Waves Lab"
+	"title": "Fluid and Waves Lab",
+	"type": "Lab"
 }

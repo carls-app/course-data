@@ -9,16 +9,14 @@
 		"William Terriquez",
 		"Willard Huyck"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 40,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "8804",
 	"tags": [],
-	"title": "Cross Country Intercollegiate"
+	"title": "Cross Country Intercollegiate",
+	"type": "Course"
 }

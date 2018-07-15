@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tiffany L Kershner"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "5657",
 	"tags": [],
-	"title": "The Verb"
+	"title": "The Verb",
+	"type": "Course"
 }

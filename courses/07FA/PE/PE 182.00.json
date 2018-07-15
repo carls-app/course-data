@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luciano H Battaglini"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18817",
 	"tags": [],
-	"title": "Tennis, Beginning"
+	"title": "Tennis, Beginning",
+	"type": "Course"
 }

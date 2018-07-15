@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ishan Joshi"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "12502",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Political Culture"
+	"title": "Political Culture",
+	"type": "Course"
 }

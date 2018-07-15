@@ -6,7 +6,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "16523",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"CCSTREGIONAL"
 	],
-	"title": "Issues-Latin American Studies"
+	"title": "Issues-Latin American Studies",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -50,10 +45,8 @@
 	"summary": "This course introduces students to several classic texts in the history of political thought and provides them with an opportunity to interpret these texts critically by concentrating on argument analysis. Students will also learn to construct and effectively communicate their own arguments about foundational issues in politics. We will discuss justifications of democracy, the challenge of diverse citizenship, the role of deliberation in politics and related questions. We will read works by Plato, Aristotle, Hobbes, Rousseau, Locke, de Tocqueville, Mill as well as some contemporary political theorists.",
 	"synonym": "30517",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Arguing about Politics"
+	"title": "Arguing about Politics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paula K Arai"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "4102",
 	"tags": [],
-	"title": "Chinese Religion and Culture"
+	"title": "Chinese Religion and Culture",
+	"type": "Course"
 }

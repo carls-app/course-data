@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,50 +37,18 @@
 	"summary": "This seminar will examine the \"post-neoliberal\" politics of Latin America, beginning with a reconsideration of the market-oriented turn in the region during the 1980s and 1990s. The seminar will then focus on the rise of leftist governments as diverse as Hugo Chávez' Venezuela, Evo Morales' Bolivia, and Lula da Silva's Brazil. Other topics will include the emergence of anti-neoliberal movements, the wave of indigenous politics, new social movements, environmental politics, and experiments with anti-poverty programs throughout Latin America.",
 	"synonym": "24021",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		}
+		"POSINTLPOLECON",
+		"POSCADVSEM",
+		"POSIELECTIVE",
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"POSIADVSEM",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"POSI-GDS",
+		"POECUPWTD",
+		"POECSEMINAR"
 	],
-	"title": "Neoliberalism and the New Left in Latin America*"
+	"title": "Neoliberalism and the New Left in Latin America*",
+	"type": "Course"
 }

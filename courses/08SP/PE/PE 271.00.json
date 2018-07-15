@@ -8,16 +8,14 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "18958",
 	"tags": [],
-	"title": "Softball Intercollegiate"
+	"title": "Softball Intercollegiate",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terah T Venzant-Chambers"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "13899",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL3",
+		"HISTUS"
 	],
-	"title": "Hist of African American Educ"
+	"title": "Hist of African American Educ",
+	"type": "Course"
 }

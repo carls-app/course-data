@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "235L.57",
+	"number": "235L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 5,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3682",
 	"tags": [],
-	"title": "Electricity & Magnetism Lab"
+	"title": "Electricity & Magnetism Lab",
+	"type": "Lab"
 }

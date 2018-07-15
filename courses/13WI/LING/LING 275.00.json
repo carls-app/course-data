@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine R Fortin"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: 100-level linguistics course",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "Humans are unique among animals in that we are able to attain native speaker competency in any language(s) we receive a sufficient amount of exposure to during our development. The path of acquisition is remarkably stable regardless of the language(s) being acquired, and is believed to yield insights into the nature of human language. In this course, we explore children's capacity to acquire language, with a focus on its implications for linguistic theory. Topics include acquisition of phonology, morphology, syntax, and semantics, and acquisition in extraordinary circumstances.",
 	"synonym": "32176",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "First Language Acquisition"
+	"title": "First Language Acquisition",
+	"type": "Course"
 }

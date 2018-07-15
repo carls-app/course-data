@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "255L.53",
+	"number": "255L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3939",
 	"tags": [],
-	"title": "Petrology Lab"
+	"title": "Petrology Lab",
+	"type": "Lab"
 }

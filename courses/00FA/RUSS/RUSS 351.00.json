@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -39,5 +40,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Chekhov's \"Wedding\""
+	"title": "Chekhov's \"Wedding\"",
+	"type": "Course"
 }

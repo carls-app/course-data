@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: German 204. Recommended preparation: at least one course above German 204.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -45,10 +40,8 @@
 	"summary": null,
 	"synonym": "33106",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Contemporary German Fiction"
+	"title": "Contemporary German Fiction",
+	"type": "Course"
 }

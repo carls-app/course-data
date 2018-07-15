@@ -10,16 +10,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -29,5 +27,6 @@
 	"summary": null,
 	"synonym": "18892",
 	"tags": [],
-	"title": "Ice Hockey Club"
+	"title": "Ice Hockey Club",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jalean J Petricka"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126; Biology 240 or 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,18 +39,10 @@
 	"summary": null,
 	"synonym": "32923",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"ENTS2ENVSCI",
+		"ENTSFAES",
+		"BIOCELEC"
 	],
-	"title": "Plant Development"
+	"title": "Plant Development",
+	"type": "Course"
 }

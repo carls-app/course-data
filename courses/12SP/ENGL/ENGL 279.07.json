@@ -8,16 +8,14 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "279.07",
+	"number": "279",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": "A combination of background readings, guided site visits, and personal exploration will give students tools for seeing London itself as a multilayered text under constant expansion and revision. Starting from the city's pre-urban geology and the still visible structures of its Roman past, students will gain a sense of London's rich history, its esthetic inspiration for writers and artists, and its complex status as a global metropolis.",
 	"synonym": "30072",
 	"tags": [],
-	"title": "London Program: Urban Field Studies"
+	"title": "London Program: Urban Field Studies",
+	"type": "Course"
 }

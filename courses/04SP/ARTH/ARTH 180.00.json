@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -42,10 +43,8 @@
 	"summary": null,
 	"synonym": "6851",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "Medieval Art"
+	"title": "Medieval Art",
+	"type": "Course"
 }

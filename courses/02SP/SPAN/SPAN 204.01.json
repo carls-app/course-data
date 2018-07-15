@@ -6,7 +6,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1257",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

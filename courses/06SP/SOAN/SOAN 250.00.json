@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adrienne L Falcón"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "14475",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMSOCSCI"
 	],
-	"title": "Ethnography of Latin America"
+	"title": "Ethnography of Latin America",
+	"type": "Course"
 }

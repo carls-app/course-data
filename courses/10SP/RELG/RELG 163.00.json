@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adil Ozdemir"
 	],
-	"number": "163.00",
+	"number": "163",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "24695",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"ASSTHU",
+		"ASSTSOUTH",
+		"MARSSUPP"
 	],
-	"title": "Qur'an"
+	"title": "Qur'an",
+	"type": "Course"
 }

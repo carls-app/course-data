@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -49,18 +47,10 @@
 	"summary": null,
 	"synonym": "7742",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"WGSTADDL"
 	],
-	"title": "Clsc Japn Fict in Trans:Genji"
+	"title": "Clsc Japn Fict in Trans:Genji",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "1938",
 	"tags": [
-		{
-			"code": "HISTEASIA",
-			"name": "HIST East Asia"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEASIA",
+		"CCSTREGIONAL"
 	],
-	"title": "East Asia Foreign Relations"
+	"title": "East Asia Foreign Relations",
+	"type": "Course"
 }

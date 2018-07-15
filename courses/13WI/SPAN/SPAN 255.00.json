@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or proficiency",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -50,42 +45,16 @@
 	"summary": "This course examines contemporary plays written by Latin American women from a gendered perspective. Issues range from women and political repression to a critique of gender roles. As we read the plays, we will consider both the literary qualities of dramatic texts and the semiotics of staging and its potential for reconceptualizing women's roles in Latin American society and culture. Possible dramatists are Luisa Josefina Hernández, Rosario Castellanos, Griselda Gambaro, Elena Garro, Sabina Berman, Susana Torres Molina, Marcela del Río.",
 	"synonym": "33238",
 	"tags": [
-		{
-			"code": "SPAN220-290",
-			"name": "Spanish 220-290"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"SPAN220-290",
+		"LTAMELECTIVE",
+		"WGSTADDL",
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMPERT",
+		"ENGLLOE"
 	],
-	"title": "Women Dramatists in Latin America: Staging Conflicts"
+	"title": "Women Dramatists in Latin America: Staging Conflicts",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2002",
 	"tags": [],
-	"title": "Mind and Knowledge"
+	"title": "Mind and Knowledge",
+	"type": "Course"
 }

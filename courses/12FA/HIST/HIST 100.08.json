@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brendan P LaRocque"
 	],
-	"number": "100.08",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "08",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -51,10 +43,8 @@
 	"summary": null,
 	"synonym": "34038",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTASIA"
 	],
-	"title": "Medicine and Disease in the Making of the Modern World"
+	"title": "Medicine and Disease in the Making of the Modern World",
+	"type": "Course"
 }

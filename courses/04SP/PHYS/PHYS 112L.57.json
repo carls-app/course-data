@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kris Wedding Crowell"
 	],
-	"number": "112L.57",
+	"number": "112L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6518",
 	"tags": [],
-	"title": "Elementary Physics Lab"
+	"title": "Elementary Physics Lab",
+	"type": "Lab"
 }

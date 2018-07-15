@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL3",
 		"AFAMDISTROSS"
 	],
-	"title": "Urban Politics"
+	"title": "Urban Politics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "243.02",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22719",
 	"tags": [],
-	"title": "Vertebrate Morphology Lab"
+	"title": "Vertebrate Morphology Lab",
+	"type": "Course"
 }

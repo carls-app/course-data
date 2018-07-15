@@ -8,7 +8,7 @@
 	"instructors": [
 		"George Vrtis"
 	],
-	"number": "307.00",
+	"number": "307",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -23,20 +23,12 @@
 	},
 	"prerequisites": "Prerequisite: History 306",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 14,
@@ -46,46 +38,17 @@
 	"summary": "This course is the second half of a two-course sequence focused on the study of wilderness in American society and culture. The course will begin with a two-week off-campus study program during spring break at the Grand Canyon, where we will learn about the natural and human history of the Grand Canyon, examine contemporary issues facing the park, meet with officials from the National Park Service and other local experts, conduct research, and experience the park though hiking and camping. The course will culminate in the spring term with the completion and presentation of a major research project.",
 	"synonym": "35986",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "HISTENVIRHEALTH",
-			"name": "History Environment and Health"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"ENTSTOPSEM",
+		"ENTS2SCP",
+		"HISTENVIRHEALTH",
+		"ENTSLPSCP",
+		"HISTUS",
+		"ENTSCDSCP",
+		"ENTSWRSCP",
+		"SPECINTSUSTAIN",
+		"ENTSTOPICAL",
+		"AMSTTOPICAL2"
 	],
-	"title": "Wilderness Field Studies: Grand Canyon"
+	"title": "Wilderness Field Studies: Grand Canyon",
+	"type": "Course"
 }

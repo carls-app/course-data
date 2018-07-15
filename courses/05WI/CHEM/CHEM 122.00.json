@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -37,6 +37,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "9307",
 	"tags": [],
-	"title": "Introduction to Chemistry"
+	"title": "Introduction to Chemistry",
+	"type": "Course"
 }

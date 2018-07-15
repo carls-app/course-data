@@ -9,7 +9,7 @@
 		"Kathleen M Ryor",
 		"Alison M Kettering"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Boliou 104",
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 50,
 		"total": 60,
@@ -45,14 +46,9 @@
 	"summary": "An introduction to the art and architecture of various geographical areas around the world from the fifteenth century through the present. The course will provide foundational skills (tools of analysis and interpretation) as well as general, historical understanding. It will focus on a select number of major developments in a range of media and cultures, emphasizing the way that works of art function both as aesthetic and material objects and as cultural artifacts and forces. Issues include, for example, humanist and Reformation redefinitions of art in the Italian and Northern Renaissance, realism, modernity and tradition, the tension between self-expression and the art market, and the use of art for political purposes.",
 	"synonym": "24326",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTTRANNATL",
+		"MARSSUPP"
 	],
-	"title": "Introduction to Art History II"
+	"title": "Introduction to Art History II",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "1437",
 	"tags": [],
-	"title": "Viola"
+	"title": "Viola",
+	"type": "Course"
 }

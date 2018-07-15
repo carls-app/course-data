@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tina Garrett"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11439",
 	"tags": [],
-	"title": "Topics in Combinatorics"
+	"title": "Topics in Combinatorics",
+	"type": "Course"
 }

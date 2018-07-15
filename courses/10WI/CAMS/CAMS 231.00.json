@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "22881",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Cinema Auteurs: Bergman"
+	"title": "Cinema Auteurs: Bergman",
+	"type": "Course"
 }

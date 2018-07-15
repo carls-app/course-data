@@ -9,7 +9,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "4113",
 	"tags": [],
-	"title": "Philosophy of Religion"
+	"title": "Philosophy of Religion",
+	"type": "Course"
 }

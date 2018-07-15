@@ -6,7 +6,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2071",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		}
+		"ENGL1"
 	],
-	"title": "Shakespre I: Hist & Comedies"
+	"title": "Shakespre I: Hist & Comedies",
+	"type": "Course"
 }

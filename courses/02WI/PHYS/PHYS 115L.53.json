@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "115L.53",
+	"number": "115L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1446",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

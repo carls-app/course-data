@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "111.01",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "15842",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"ENGLF"
 	],
-	"title": "English Literature II"
+	"title": "English Literature II",
+	"type": "Course"
 }

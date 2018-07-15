@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barry M Casper"
 	],
-	"number": "337.00",
+	"number": "337",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2432",
 	"tags": [],
-	"title": "Quantum Mechanics II"
+	"title": "Quantum Mechanics II",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 41,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17773",
 	"tags": [],
-	"title": "Newtonian Mechanics"
+	"title": "Newtonian Mechanics",
+	"type": "Course"
 }

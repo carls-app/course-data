@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard W Nau"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1266",
 	"tags": [],
-	"title": "Object-Oriented Design"
+	"title": "Object-Oriented Design",
+	"type": "Course"
 }

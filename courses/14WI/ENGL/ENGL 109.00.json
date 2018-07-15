@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol A Rutz"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -50,5 +45,6 @@
 	"summary": "English 109 is the single Carleton course devoted exclusively to the study and practice of expository prose. It is designed to provide students with the organizational and argumentative skills they will need in order to write effectively at the college level and beyond. All sections of the course feature diverse readings, weekly writing exercises and essays, and individual tutorials.",
 	"synonym": "35307",
 	"tags": [],
-	"title": "Introduction to Rhetoric"
+	"title": "Introduction to Rhetoric",
+	"type": "Course"
 }

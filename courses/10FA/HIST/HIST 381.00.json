@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -52,22 +47,11 @@
 	"summary": "This seminar prepares students for, participation in, and reflection upon the winter-break field trip to Ghana. Assignments involve readings in history, the social sciences, and intercultural communication. Preliminary research on history or social science projects required.",
 	"synonym": "26229",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD",
+		"AFAMHUMANINQ"
 	],
-	"title": "U.S. Relations with Ghana"
+	"title": "U.S. Relations with Ghana",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "16103",
 	"tags": [],
-	"title": "Intro to Classical Studies"
+	"title": "Intro to Classical Studies",
+	"type": "Course"
 }

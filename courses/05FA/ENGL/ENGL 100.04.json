@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13102",
 	"tags": [],
-	"title": "The Carleton Miscellany"
+	"title": "The Carleton Miscellany",
+	"type": "Course"
 }

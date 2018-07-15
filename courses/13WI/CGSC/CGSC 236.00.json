@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Paxton"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Cognitive Science 100 or 130",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "An examination of the way people think and reason, both when given formal laboratory tasks and when facing problems and decisions in everyday life. Students consider their own reasoning and decision making through course exercises. Topics include models of formal reasoning, decision making, heuristics and biases in thinking and problem-solving, moral reasoning, improving skills of higher order cognition.",
 	"synonym": "33969",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
-	"title": "Thinking, Reasoning, and Decision Making"
+	"title": "Thinking, Reasoning, and Decision Making",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "2754",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LTAMLIT"
 	],
-	"title": "Genealogies of the Modern"
+	"title": "Genealogies of the Modern",
+	"type": "Course"
 }

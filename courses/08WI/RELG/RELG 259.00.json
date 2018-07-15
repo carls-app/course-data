@@ -6,7 +6,7 @@
 	"instructors": [
 		"William N Elison"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19536",
 	"tags": [
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTSOUTH"
 	],
-	"title": "Visual Cultures of South Asia"
+	"title": "Visual Cultures of South Asia",
+	"type": "Course"
 }

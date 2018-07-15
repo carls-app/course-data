@@ -9,7 +9,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 26,
@@ -43,5 +44,6 @@
 		"AMSTSURVEY2",
 		"AMSTTOPICAL2"
 	],
-	"title": "US Women's History Since 1900"
+	"title": "US Women's History Since 1900",
+	"type": "Course"
 }

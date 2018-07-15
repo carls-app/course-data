@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2734",
 	"tags": [],
-	"title": "Language Skill Maintenance"
+	"title": "Language Skill Maintenance",
+	"type": "Course"
 }

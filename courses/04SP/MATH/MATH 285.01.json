@@ -6,11 +6,12 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "285.01",
+	"number": "285",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "13999",
 	"tags": [],
-	"title": "Intro-Stochastic Processes"
+	"title": "Intro-Stochastic Processes",
+	"type": "Course"
 }

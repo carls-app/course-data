@@ -8,7 +8,7 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "120.01",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 30,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Comparative Political Regimes"
+	"title": "Comparative Political Regimes",
+	"type": "Course"
 }

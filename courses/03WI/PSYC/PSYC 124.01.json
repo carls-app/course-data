@@ -6,7 +6,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "124.01",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "3507",
 	"tags": [],
-	"title": "Measurement&Data Analysis"
+	"title": "Measurement&Data Analysis",
+	"type": "Course"
 }

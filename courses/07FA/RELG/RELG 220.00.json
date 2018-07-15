@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "19014",
 	"tags": [],
-	"title": "Patriarchs, Priests, Prophets"
+	"title": "Patriarchs, Priests, Prophets",
+	"type": "Course"
 }

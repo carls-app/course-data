@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1331",
 	"tags": [],
-	"title": "Differential Geometry"
+	"title": "Differential Geometry",
+	"type": "Course"
 }

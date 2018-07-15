@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10256",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		}
+		"EUSTCORE"
 	],
-	"title": "European Studies"
+	"title": "European Studies",
+	"type": "Course"
 }

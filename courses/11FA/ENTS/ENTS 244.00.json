@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -54,18 +46,10 @@
 	"summary": "How can the need for intensive human social and economic development be reconciled with the conservation of biodiversity? This course explores the wide range of actions that people take at a local, national, and international level to address this question. We will use political ecology and conservation biology as theoretical frameworks to examine the role of traditional and indigenous approaches to biodiversity conservation as well as contemporary debates about integrated conservation development across a spectrum of cultures in North America, Africa, Latin America, and Asia.",
 	"synonym": "30553",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"CCSTGLOBAL",
+		"SOANPERT",
+		"ENTSCDSCP"
 	],
-	"title": "Biodiversity Conservation and Development"
+	"title": "Biodiversity Conservation and Development",
+	"type": "Course"
 }

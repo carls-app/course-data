@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "19087",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"EUSTCNTRY",
+		"ENGLFORLIT",
+		"ENGLLOE"
 	],
-	"title": "Rilke and His Circle"
+	"title": "Rilke and His Circle",
+	"type": "Course"
 }

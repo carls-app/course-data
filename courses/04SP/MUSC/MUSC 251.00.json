@@ -8,11 +8,12 @@
 	"instructors": [
 		"Mary B Martz"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 100,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "7239",
 	"tags": [],
-	"title": "Voice"
+	"title": "Voice",
+	"type": "Course"
 }

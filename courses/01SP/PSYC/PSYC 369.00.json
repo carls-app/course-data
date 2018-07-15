@@ -7,7 +7,7 @@
 		"Lawrence Wichlinski",
 		"Steven F Kozberg"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 25,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "584",
 	"tags": [],
-	"title": "Behavioral Medicine"
+	"title": "Behavioral Medicine",
+	"type": "Course"
 }

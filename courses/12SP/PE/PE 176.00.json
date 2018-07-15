@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "176.00",
+	"number": "176",
 	"offerings": {
 		"locations": [
 			"Cowling 012"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "This class will be an introduction to synchronized swimming. We will teach basic skills, including sculling, eggbeater, hybrids, lifts and figures, during the first part of the course, and we will teach a simple routine during the second part of the course. It will culminate with a small performance. Students should have intermediate swimming skills so that they are safe and comfortable in the water.",
 	"synonym": "31407",
 	"tags": [],
-	"title": "Swimming, Synchronized"
+	"title": "Swimming, Synchronized",
+	"type": "Course"
 }

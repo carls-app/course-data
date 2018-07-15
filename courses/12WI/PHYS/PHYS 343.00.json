@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 235; Concurrent registration in Physics 343L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -52,10 +47,8 @@
 	"summary": "A study of the electrical circuits and electronics underlying modern physics instrumentation. Includes an introduction to microprocessor and microcomputer design. Approximately equal emphasis on analog and digital electronics. One laboratory per week.",
 	"synonym": "30647",
 	"tags": [
-		{
-			"code": "CSELECT",
-			"name": "CS Elective"
-		}
+		"CSELECT"
 	],
-	"title": "Electronics"
+	"title": "Electronics",
+	"type": "Course"
 }

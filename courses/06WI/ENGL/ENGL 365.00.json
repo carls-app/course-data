@@ -6,7 +6,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "13142",
 	"tags": [],
-	"title": "British Comedy"
+	"title": "British Comedy",
+	"type": "Course"
 }

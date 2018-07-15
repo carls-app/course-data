@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "11433",
 	"tags": [],
-	"title": "Partial Differential Equations"
+	"title": "Partial Differential Equations",
+	"type": "Course"
 }

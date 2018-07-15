@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "729",
 	"tags": [],
-	"title": "Soviet Economics"
+	"title": "Soviet Economics",
+	"type": "Course"
 }

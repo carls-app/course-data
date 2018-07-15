@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seth N Greenberg"
 	],
-	"number": "374.00",
+	"number": "374",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15038",
 	"tags": [],
-	"title": "Eyewitness Testimony-Children"
+	"title": "Eyewitness Testimony-Children",
+	"type": "Course"
 }

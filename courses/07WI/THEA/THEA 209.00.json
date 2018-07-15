@@ -9,7 +9,7 @@
 		"Ruth Weiner",
 		"Stephen F Kennedy"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "16390",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MATHPERT",
-			"name": "Mathematics Pertinent"
-		},
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"LITFORLANG",
+		"MATHPERT",
+		"CGSTELECTIVE"
 	],
-	"title": "Project Course"
+	"title": "Project Course",
+	"type": "Course"
 }

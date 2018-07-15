@@ -8,20 +8,15 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "279.07",
+	"number": "279",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -31,10 +26,8 @@
 	"summary": "In this course students will be introduced to the complex phenomena of migration, nationalism, and the formation of ethnic minorities in modern Europe through theory and historical examples. among the topics covered will be European attitudes and policies toward minorities (including Jews, Roma, Muslims, and Africans) and the responses of those minorities to them from assimilation to dual identity to nationalism.",
 	"synonym": "31537",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Cross Cultural Psychology in Prague: Nationalism, Minorities, Migrations"
+	"title": "Cross Cultural Psychology in Prague: Nationalism, Minorities, Migrations",
+	"type": "Course"
 }

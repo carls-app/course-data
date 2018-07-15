@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary Hermes"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3584",
 	"tags": [],
-	"title": "Method Teaching Social Studies"
+	"title": "Method Teaching Social Studies",
+	"type": "Course"
 }

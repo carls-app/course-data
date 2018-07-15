@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Health & Illness"
+	"title": "Health & Illness",
+	"type": "Course"
 }

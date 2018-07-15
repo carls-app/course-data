@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Boliou 160"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1687",
 	"tags": [],
-	"title": "Life Drawing"
+	"title": "Life Drawing",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18778",
 	"tags": [],
-	"title": "Operating Systems"
+	"title": "Operating Systems",
+	"type": "Course"
 }

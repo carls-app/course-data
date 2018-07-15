@@ -8,7 +8,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -47,5 +42,6 @@
 	"summary": "An introduction to the interdisciplinary study of musical rhythm. In this class you will, among other things, design and make a clock, invent a new form of rhythmic notation, read some Greek philosophy, recreate some classic experiments in time perception, study the nuances of musical performance, and explore the neurobiological underpinnings of \"groove.\" Class readings will be drawn from philosophy, psychology, music theory, evolutionary biology, anthropology, phonology, and mathematics. Musical examples discussed will range from Gregorian chant to Stevie Wonder. Course assignments will involve group projects and various short writing assignments. No prerequisite, though the ability to read music will be helpful.",
 	"synonym": "40124",
 	"tags": [],
-	"title": "I Got Rhythm: The Science of Musical Time"
+	"title": "I Got Rhythm: The Science of Musical Time",
+	"type": "Course"
 }

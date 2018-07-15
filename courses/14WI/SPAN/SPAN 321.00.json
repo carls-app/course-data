@@ -6,7 +6,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -50,38 +45,15 @@
 	"summary": "We will study the socio-historical factors that gave rise to the genre as well as some of its classical predecessors (Poe, Chandler). We will then turn our attention to some prominent heirs of this genre in Latin America (Borges, Piglia, Bolaño) and end by studying why in contemporary Central American literature the genre is enjoying a resurgence (Menjívar, Castellanos Moya and Rey Rosa). We will study the specific traits the genre has adopted in Latin America and how it has become a mirror that often reflects the political and social realities confronting the region, particularly in Central America.",
 	"synonym": "36388",
 	"tags": [
-		{
-			"code": "SPAN204-219",
-			"name": "Spanish 204-219"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"SPAN204-219",
+		"SPECINTSOCTHGHT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMLIT",
+		"LTAMELECTIVE",
+		"LTAM300LIT",
+		"LTAMPERT"
 	],
-	"title": "Murder as a Fine Art: The Detective Novel in Latin America"
+	"title": "Murder as a Fine Art: The Detective Novel in Latin America",
+	"type": "Course"
 }

@@ -9,16 +9,14 @@
 		"Heidi L Jaynes",
 		"Amy Erickson"
 	],
-	"number": "291.00",
+	"number": "291",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 50,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "14107",
 	"tags": [],
-	"title": "Volleyball Intercollegiate"
+	"title": "Volleyball Intercollegiate",
+	"type": "Course"
 }

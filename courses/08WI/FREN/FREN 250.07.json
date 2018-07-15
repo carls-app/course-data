@@ -8,16 +8,14 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "250.07",
+	"number": "250",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -27,34 +25,14 @@
 	"summary": null,
 	"synonym": "17657",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"FRSTCULT",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"FRSTLANGLIT",
+		"FRSTHIST",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Film & Society in Mali"
+	"title": "Film & Society in Mali",
+	"type": "Course"
 }

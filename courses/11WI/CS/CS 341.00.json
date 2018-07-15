@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 and either Computer Science 202 or Mathematics 236, or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 30,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "25742",
 	"tags": [],
-	"title": "Cryptography"
+	"title": "Cryptography",
+	"type": "Course"
 }

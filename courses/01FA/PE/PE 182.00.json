@@ -8,7 +8,7 @@
 	"instructors": [
 		"Guy A Kalland"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Arboretum COUR"
@@ -36,6 +36,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "2047",
 	"tags": [],
-	"title": "Tennis, Beginning"
+	"title": "Tennis, Beginning",
+	"type": "Course"
 }

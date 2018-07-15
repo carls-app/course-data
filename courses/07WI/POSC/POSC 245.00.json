@@ -6,7 +6,7 @@
 	"instructors": [
 		"John J Barry"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,34 +37,14 @@
 	"summary": null,
 	"synonym": "15628",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"POSICOMPRTV",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"ENTSINTL",
+		"POSI-GDS"
 	],
-	"title": "Compar Environ Pol & Policy"
+	"title": "Compar Environ Pol & Policy",
+	"type": "Course"
 }

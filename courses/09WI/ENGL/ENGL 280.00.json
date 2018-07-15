@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dennis M Cass"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22152",
 	"tags": [],
-	"title": "Crafts of Writ: Crtv Non-Fictn"
+	"title": "Crafts of Writ: Crtv Non-Fictn",
+	"type": "Course"
 }

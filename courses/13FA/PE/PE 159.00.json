@@ -9,7 +9,7 @@
 		"John E Campion",
 		"Linda K Luedke"
 	],
-	"number": "159.00",
+	"number": "159",
 	"offerings": {
 		"locations": [
 			"West Gym 101"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -44,5 +42,6 @@
 	"summary": "PADI Open Water SCUBA certification can be earned. A SCUBA class involves three parts: class, pool and open water. Classroom and pool sessions are conducted over six nights at the West Gym classroom and Thorpe Pool. The open water portion (optional for PE activity credit but required for PADI certification) is conducted off campus. Lab fees apply, please contact instructor.",
 	"synonym": "34657",
 	"tags": [],
-	"title": "Scuba"
+	"title": "Scuba",
+	"type": "Course"
 }

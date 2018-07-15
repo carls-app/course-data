@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gerald L Young"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": {
 		"locations": [
 			"Recreation Center 117"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3446",
 	"tags": [],
-	"title": "Racquetball, Intermediate"
+	"title": "Racquetball, Intermediate",
+	"type": "Course"
 }

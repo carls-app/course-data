@@ -6,7 +6,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Environmental Ethics"
+	"title": "Environmental Ethics",
+	"type": "Course"
 }

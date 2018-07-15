@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kurt M Ramler"
 	],
-	"number": "124.01",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"LAST PE"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": "For the off-season or pre-season competitor (IM, club, or varsity). The winter term course will focus on those who want to stay in shape and hone their flexibility, balance, strength and an aerobic threshold. This is a challenging course that will teach techniques and strategies to work out on your own as well as motivate you to improve or work weaker areas. Incorporating training on the track, free weights, bosu, plyometrics and much more.",
 	"synonym": "26356",
 	"tags": [],
-	"title": "Fitness for the Athlete"
+	"title": "Fitness for the Athlete",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christopher R Heurlin"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": "Why do protest movements form and who joins? How do grassroots movements achieve their aims? This class examines the strategies of grassroots political actors as they organize protest movements in civil society, forge coalitions, and give a voice to the voiceless. Comparisons are drawn between the United States, European, Asian, and Latin American experiences.",
 	"synonym": "24052",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"AMSTTOPICAL3",
+		"POSIELECTIVE",
+		"POSICOMPRTV",
+		"POSI-DSS"
 	],
-	"title": "Protest, Power & Grassroots Organizing: American Social Movements"
+	"title": "Protest, Power & Grassroots Organizing: American Social Movements",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "10797",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Young Adult Literature"
+	"title": "Young Adult Literature",
+	"type": "Course"
 }

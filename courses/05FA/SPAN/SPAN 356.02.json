@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "356.02",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "14121",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "CAMSCOGNATE",
-			"name": "Cams Cognate"
-		}
+		"PENINLIT",
+		"CAMSCOGNATE"
 	],
-	"title": "Poetry, Film & Painting-Spain"
+	"title": "Poetry, Film & Painting-Spain",
+	"type": "Course"
 }

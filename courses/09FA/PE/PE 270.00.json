@@ -9,16 +9,14 @@
 		"Keren A Gudeman",
 		"Linda K Luedke"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 60,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "23858",
 	"tags": [],
-	"title": "Soccer Intercollegiate, Women"
+	"title": "Soccer Intercollegiate, Women",
+	"type": "Course"
 }

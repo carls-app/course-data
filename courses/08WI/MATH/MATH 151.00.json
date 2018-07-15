@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19285",
 	"tags": [],
-	"title": "Sequences and Series"
+	"title": "Sequences and Series",
+	"type": "Course"
 }

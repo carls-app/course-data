@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21124",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"CGSCELECTIVE",
+		"NEURCORE",
+		"SPECINTHEALTH"
 	],
-	"title": "Neurobiology"
+	"title": "Neurobiology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George H Lamson"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "734",
 	"tags": [],
-	"title": "Adv Topics of Macrotheory"
+	"title": "Adv Topics of Macrotheory",
+	"type": "Course"
 }

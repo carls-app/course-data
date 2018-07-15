@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "182.02",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Bell Field Courts COUR"
@@ -36,6 +36,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "3455",
 	"tags": [],
-	"title": "Tennis, Beginning"
+	"title": "Tennis, Beginning",
+	"type": "Course"
 }

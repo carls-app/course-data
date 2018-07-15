@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course focuses on the respect for human diversity, especially as these relate to various racial, cultural and economic groups, and to women. It includes lectures and discussions intended to aid students in relating to a wide variety of persons, cultures, and life styles.",
 	"synonym": "31924",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS",
+		"AFAMPERT"
 	],
-	"title": "Multicultural Education: Race, Gender and Education"
+	"title": "Multicultural Education: Race, Gender and Education",
+	"type": "Course"
 }

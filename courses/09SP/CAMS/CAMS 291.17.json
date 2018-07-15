@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "291.17",
+	"number": "291",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "17",
 	"size": {
 		"registered": 24,
 		"total": 45,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "20369",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Directed Reading"
+	"title": "Directed Reading",
+	"type": "Course"
 }

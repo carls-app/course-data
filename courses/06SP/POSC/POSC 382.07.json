@@ -9,11 +9,12 @@
 		"Roy Grow",
 		""
 	],
-	"number": "382.07",
+	"number": "382",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -23,34 +24,14 @@
 	"summary": null,
 	"synonym": "12517",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTEAST",
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Chinese Economics in Transitn"
+	"title": "Chinese Economics in Transitn",
+	"type": "Course"
 }

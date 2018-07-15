@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "110.06",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "4399",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		}
+		"HISTEUR1450"
 	],
-	"title": "Saints, Sinners & Philosophers"
+	"title": "Saints, Sinners & Philosophers",
+	"type": "Course"
 }

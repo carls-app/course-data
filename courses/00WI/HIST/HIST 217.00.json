@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clifford E Clark"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 45,
@@ -46,5 +47,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "Ragtime to Football:US 1890s"
+	"title": "Ragtime to Football:US 1890s",
+	"type": "Course"
 }

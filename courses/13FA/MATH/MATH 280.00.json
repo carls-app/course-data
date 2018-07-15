@@ -8,7 +8,7 @@
 	"instructors": [
 		"Katie St. Clair"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"CMC 201"
@@ -23,16 +23,11 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 245 and instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 0,
@@ -42,5 +37,6 @@
 	"summary": "Students will apply their statistical knowledge by analyzing data problems solicited from the Northfield community. Students will also learn basic consulting skills, including communication and ethics.",
 	"synonym": "34945",
 	"tags": [],
-	"title": "Statistical Consulting"
+	"title": "Statistical Consulting",
+	"type": "Course"
 }

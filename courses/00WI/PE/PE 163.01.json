@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "163.01",
+	"number": "163",
 	"offerings": {
 		"locations": [
 			"Stadium PE"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "3380",
 	"tags": [],
-	"title": "Skiing, Cross Country"
+	"title": "Skiing, Cross Country",
+	"type": "Course"
 }

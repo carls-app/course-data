@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Media & Amer Pol: Election"
+	"title": "Media & Amer Pol: Election",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 50,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "14681",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTSOUTH"
 	],
-	"title": "Raga:Voc/Instr Stdy Hindustani"
+	"title": "Raga:Voc/Instr Stdy Hindustani",
+	"type": "Course"
 }

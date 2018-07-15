@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "382.00",
+	"number": "382",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Biology 240 and Chemistry 233; Biology.383",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "24182",
 	"tags": [],
-	"title": "Molecular Biology"
+	"title": "Molecular Biology",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15522",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
-	"title": "Topics: the Ethics of Service"
+	"title": "Topics: the Ethics of Service",
+	"type": "Course"
 }

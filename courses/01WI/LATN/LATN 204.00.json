@@ -6,7 +6,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "850",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Catullus & Other Latin Poets"
+	"title": "Catullus & Other Latin Poets",
+	"type": "Course"
 }

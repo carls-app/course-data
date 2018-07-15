@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 35,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "12415",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		}
+		"CCSTREGIONAL",
+		"HISTAFRDIASPORA",
+		"AFAMDISTROHU",
+		"ENTSENVPERS",
+		"ENTSINTL"
 	],
-	"title": "Farm & Forest in African Hist"
+	"title": "Farm & Forest in African Hist",
+	"type": "Course"
 }

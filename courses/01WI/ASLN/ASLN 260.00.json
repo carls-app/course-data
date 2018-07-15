@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -32,6 +32,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "593",
 	"tags": [],
-	"title": "Historical Linguistics"
+	"title": "Historical Linguistics",
+	"type": "Course"
 }

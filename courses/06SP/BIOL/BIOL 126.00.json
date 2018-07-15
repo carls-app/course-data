@@ -9,7 +9,7 @@
 		"Philip Camill",
 		"Bob Rosenberg"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 103,
 		"total": 100,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "11983",
 	"tags": [],
-	"title": "Intro: Energy Flow Biol System"
+	"title": "Intro: Energy Flow Biol System",
+	"type": "Course"
 }

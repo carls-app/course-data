@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "912",
 	"tags": [],
-	"title": "Weight Training, Advanced"
+	"title": "Weight Training, Advanced",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18998",
 	"tags": [],
-	"title": "Silver Age Latin"
+	"title": "Silver Age Latin",
+	"type": "Course"
 }

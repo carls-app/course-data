@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Smith"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9546",
 	"tags": [],
-	"title": "Sedimentology & Stratigraphy"
+	"title": "Sedimentology & Stratigraphy",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1536",
 	"tags": [],
-	"title": "Hist Econ Ideas & Pricing Pol"
+	"title": "Hist Econ Ideas & Pricing Pol",
+	"type": "Course"
 }

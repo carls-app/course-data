@@ -7,7 +7,7 @@
 		"Will Hollingsworth",
 		"Trish Ferrett"
 	],
-	"number": "302.54",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Chemistry 344",
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": "This lab course emphasizes spectroscopic studies relevant to quantum chemistry, including experiments utilizing UV-VIS, infrared absorption spectroscopy, and visible emission spectroscopy. Corequisite: Chemistry 344.",
 	"synonym": "22956",
 	"tags": [],
-	"title": "Quantum Spectroscopy Laboratory"
+	"title": "Quantum Spectroscopy Laboratory",
+	"type": "Course"
 }

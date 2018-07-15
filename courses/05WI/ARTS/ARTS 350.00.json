@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 025"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "9701",
 	"tags": [],
-	"title": "Advanced Woodworking"
+	"title": "Advanced Woodworking",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Physics 151, 152, 153, or 165",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "25112",
 	"tags": [],
-	"title": "Presentation Skills in Physics"
+	"title": "Presentation Skills in Physics",
+	"type": "Course"
 }

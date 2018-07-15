@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "9340",
 	"tags": [],
-	"title": "Mass Spectrometry in Chem Sci"
+	"title": "Mass Spectrometry in Chem Sci",
+	"type": "Course"
 }

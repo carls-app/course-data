@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "399.02",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 0,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10467",
 	"tags": [],
-	"title": "Senior Thesis"
+	"title": "Senior Thesis",
+	"type": "Course"
 }

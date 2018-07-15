@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer C Manion"
 	],
-	"number": "396.02",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "11041",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"WGSTCAP"
 	],
-	"title": "Sexualities"
+	"title": "Sexualities",
+	"type": "Course"
 }

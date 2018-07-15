@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21534",
 	"tags": [],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

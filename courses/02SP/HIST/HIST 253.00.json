@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 50,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "1785",
 	"tags": [
-		{
-			"code": "HISTEASIA",
-			"name": "HIST East Asia"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEASIA",
+		"CCSTREGIONAL"
 	],
-	"title": "Bureau, Law & Relg in E Asia"
+	"title": "Bureau, Law & Relg in E Asia",
+	"type": "Course"
 }

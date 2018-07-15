@@ -9,7 +9,7 @@
 		"Mary Brandl",
 		"Linda K Luedke"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"West Gym WRES"
@@ -24,12 +24,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -39,5 +37,6 @@
 	"summary": null,
 	"synonym": "20726",
 	"tags": [],
-	"title": "Self Defense for Women"
+	"title": "Self Defense for Women",
+	"type": "Course"
 }

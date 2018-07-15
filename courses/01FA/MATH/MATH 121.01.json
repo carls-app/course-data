@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cris T Roosenraad"
 	],
-	"number": "121.01",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "584",
 	"tags": [],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

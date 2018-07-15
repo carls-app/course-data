@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shawn VanCour"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": "The recent rise of \"visual studies\" in the American academy has spurred an interest in a parallel field of \"sound studies.\" Examining scholarship on sound media and auditory culture from a variety of disciplinary and interdisciplinary perspectives, this course explores the varied subject matter and approaches pursued by major advocates and exemplars of this emerging field. Topics addressed include semiotics of sound and sound-image relations, sound perception and arts of listening, philosophies of fidelity and politics of noise, sound technologies and audio industries, audio engineering and sound art. Final paper or creative project required.",
 	"synonym": "22889",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Sound Studies: Methods and Debates"
+	"title": "Sound Studies: Methods and Debates",
+	"type": "Course"
 }

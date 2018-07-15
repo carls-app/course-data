@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -52,38 +47,15 @@
 	"summary": "What roles do images play in society? What are these images thought to be and to do? Why, at particular moments, have certain groups attempted to do away with images either completely or in specific settings? How do images create and threaten communities and power structures, and how is the management of the visual integrated with and shaped by other values, structures, and objectives? This course will examine these questions by looking in depth at the theory and practice of iconoclasm in Byzantium, early Islam, and the early medieval West.",
 	"synonym": "30282",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"HISTANCNT/MDVL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"MARSSUPP",
+		"RELGPERT",
+		"EUSTTRANNATL",
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT"
 	],
-	"title": "Iconoclasm in the Early Middle Ages"
+	"title": "Iconoclasm in the Early Middle Ages",
+	"type": "Course"
 }

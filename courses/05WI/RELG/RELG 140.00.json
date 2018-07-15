@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sue Bales"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "10518",
 	"tags": [
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTSURVEY1",
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Religion in American Culture"
+	"title": "Religion in American Culture",
+	"type": "Course"
 }

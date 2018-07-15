@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael S Griffin"
 	],
-	"number": "216.00",
+	"number": "216",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "16672",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSCORE07",
+		"AMSTTOPICAL1",
+		"CAMS200HIST",
+		"CAMSELECTIVE"
 	],
-	"title": "Hist of TV & Amer Mass Media"
+	"title": "Hist of TV & Amer Mass Media",
+	"type": "Course"
 }

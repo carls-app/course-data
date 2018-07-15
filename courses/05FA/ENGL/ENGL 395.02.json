@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "13123",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"AMSTTOPICAL1",
+		"ENGL3"
 	],
-	"title": "Moby Dick & Its Context"
+	"title": "Moby Dick & Its Context",
+	"type": "Course"
 }

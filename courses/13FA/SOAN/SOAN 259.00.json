@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,38 +40,15 @@
 	"summary": "This course examines the cultural and historical situation of indigenous groups in the United States, Mexico, and Canada to develop a comparative perspective for understanding native peoples in North America. How have indigenous peoples variously coped with continuity and change? What strategies have they employed in pursuit of political sovereignty, economic survival, and cultural vitality? In answering these questions, we will explore the politics of representation regarding \"the Indian\" as a symbol in national consciousness; the negotiation of identity in inter-ethnic contexts; patterns of resistance; the impact of European powers and state agendas; and the resurgence of tradition.",
 	"synonym": "35783",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"AMMUGROUP3",
+		"AMSTTOPICAL3",
+		"CCSTREGIONAL",
+		"CCSTETHNIC",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMSOCSCI",
+		"EDUCCLUSTER2"
 	],
-	"title": "Comparative Issues in Native North America"
+	"title": "Comparative Issues in Native North America",
+	"type": "Course"
 }

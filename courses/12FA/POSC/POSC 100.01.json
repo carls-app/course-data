@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		}
+		"AI",
+		"WR1"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -52,5 +47,6 @@
 	"summary": null,
 	"synonym": "32982",
 	"tags": [],
-	"title": "Cosmos or Chaos: Views of the World, Views of the Good Life"
+	"title": "Cosmos or Chaos: Views of the World, Views of the Good Life",
+	"type": "Course"
 }

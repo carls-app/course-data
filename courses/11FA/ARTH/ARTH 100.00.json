@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -51,5 +43,6 @@
 	"summary": null,
 	"synonym": "29082",
 	"tags": [],
-	"title": "Art-Age of Globalization"
+	"title": "Art-Age of Globalization",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Library 170"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "19514",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSSUPP",
+		"EUSTTRANNATL"
 	],
-	"title": "Gutenberg-Gates:History Book"
+	"title": "Gutenberg-Gates:History Book",
+	"type": "Course"
 }

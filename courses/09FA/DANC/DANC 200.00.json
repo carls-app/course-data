@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": "A continuation of Level I with more emphasis on the development of technique and expressive qualities.",
 	"synonym": "23751",
 	"tags": [],
-	"title": "Modern Dance II: Technique and Theory"
+	"title": "Modern Dance II: Technique and Theory",
+	"type": "Course"
 }

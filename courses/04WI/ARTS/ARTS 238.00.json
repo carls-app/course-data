@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Boliou 030"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7480",
 	"tags": [],
-	"title": "Photography I"
+	"title": "Photography I",
+	"type": "Course"
 }

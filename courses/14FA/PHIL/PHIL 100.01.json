@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah R Jansen"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR1",
+		"AI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -56,18 +48,10 @@
 	"summary": "What is the soul? Does it exist? Is it immortal? Divided or undivided? Material or immaterial? Are plants, animals and even the cosmos ensouled? Starting in the sixth and fifth centuries BCE, the western conception of 'soul' (psuche) underwent massive development, in the hands of Greek thinkers like the Presocratics, Plato and Aristotle, and Hellenistic philosophers. Not only was the soul a principle of life, but also a source of motion, a subject of cognition and a bearer of moral qualities. Through our analysis of 'psuche,' this course will substantially intersect with ancient Greek science and moral philosophy.",
 	"synonym": "38501",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTPHILSCI",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS"
 	],
-	"title": "Soul: Mind, Morality and Cosmos"
+	"title": "Soul: Mind, Morality and Cosmos",
+	"type": "Course"
 }

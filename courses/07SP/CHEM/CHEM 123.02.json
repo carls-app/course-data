@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "123.02",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "15148",
 	"tags": [],
-	"title": "Principles of Chem-Prob Solvng"
+	"title": "Principles of Chem-Prob Solvng",
+	"type": "Course"
 }

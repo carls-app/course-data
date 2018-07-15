@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gretchen H Gotthard"
 	],
-	"number": "368.00",
+	"number": "368",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "5634",
 	"tags": [],
-	"title": "Topics in Physiological Psych"
+	"title": "Topics in Physiological Psych",
+	"type": "Course"
 }

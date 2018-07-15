@@ -6,7 +6,7 @@
 	"instructors": [
 		"Van Dusenbery"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Leighton 330",
@@ -32,16 +32,11 @@
 	},
 	"prerequisites": "Prerequisite: Sociology/Anthropology 110 or 111 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -51,18 +46,10 @@
 	"summary": "A systematic introduction to the theoretical foundations of social and cultural anthropology with special emphasis given to twentieth century British, French and American schools. The course deals with such seminal figures as Morgan, Boas, Malinowski, Radcliffe-Brown, Levi-Straus, Harris, Sahlins, Bourdieu, Geertz, and Appadurai. The reading strikes a balance between ethnographic accounts and theoretical statements.",
 	"synonym": "26870",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTMETH",
+		"ASSTDISC",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Anthropological Thought and Theory"
+	"title": "Anthropological Thought and Theory",
+	"type": "Course"
 }

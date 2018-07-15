@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Mudd 68",
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "12160",
 	"tags": [
-		{
-			"code": "GEOLPERT",
-			"name": "GEOL Pertinent Course"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"GEOLPERT",
+		"ENTSSCI"
 	],
-	"title": "Geology and Human Health"
+	"title": "Geology and Human Health",
+	"type": "Course"
 }

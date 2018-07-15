@@ -8,7 +8,7 @@
 	"instructors": [
 		"Thomas L Herron"
 	],
-	"number": "314.00",
+	"number": "314",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2003",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL2",
+		"LITFORLANG"
 	],
-	"title": "Paradise Lost"
+	"title": "Paradise Lost",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Phillip C Rhodes"
 	],
-	"number": "121.01",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2316",
 	"tags": [],
-	"title": "Beethoven Symphonies"
+	"title": "Beethoven Symphonies",
+	"type": "Course"
 }

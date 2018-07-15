@@ -9,7 +9,7 @@
 	"instructors": [
 		"Chiara F Briganti"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "8538",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"CCSTGLOBAL",
+		"LITFORLANG",
+		"WGSTADDL"
 	],
-	"title": "Women, Men and War"
+	"title": "Women, Men and War",
+	"type": "Course"
 }

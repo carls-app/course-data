@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: 100-level Linguistics course",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": "Topics include: the history of the field, agrammatism, fluent aphasia, acquired dyslexias, the role of the non-dominant hemisphere, bilingualism, and subcortical structures.",
 	"synonym": "23302",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Language and Brain"
+	"title": "Language and Brain",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brian A Sundermeier"
 	],
-	"number": "232.01",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3049",
 	"tags": [],
-	"title": "Cognitive Processes"
+	"title": "Cognitive Processes",
+	"type": "Course"
 }

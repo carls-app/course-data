@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "103.01",
+	"number": "103",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335",
@@ -55,6 +55,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -64,10 +65,8 @@
 	"summary": null,
 	"synonym": "4898",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

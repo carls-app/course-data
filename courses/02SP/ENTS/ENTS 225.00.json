@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "1269",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "American Environmental Thought"
+	"title": "American Environmental Thought",
+	"type": "Course"
 }

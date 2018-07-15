@@ -8,20 +8,15 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "238.07",
+	"number": "238",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -31,18 +26,10 @@
 	"summary": "This course uses international football (soccer) as a lens to analyze topics in globalization, such as immigration and labor, inequality, foreign investment, trade in services, and intellectual property. Students will be presented with key debates in these areas and then use cases from international football as illustrations. Focusing on the two wealthiest leagues in Europe, the English Premier League and the Spanish",
 	"synonym": "34835",
 	"tags": [
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-GDS2",
-			"name": "Global Dev & Sustainability 2"
-		}
+		"POSIELECTIVE",
+		"POSI-DSS",
+		"POSI-GDS2"
 	],
-	"title": "Sport & Globalization London/Seville Pgm: Globalization and Development: Lessons from Int'l Football"
+	"title": "Sport & Globalization London/Seville Pgm: Globalization and Development: Lessons from Int'l Football",
+	"type": "Course"
 }

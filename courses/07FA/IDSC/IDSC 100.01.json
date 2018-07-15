@@ -8,7 +8,7 @@
 	"instructors": [
 		"Neil S Lutsky"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "18146",
 	"tags": [],
-	"title": "Reasoning With Numbers"
+	"title": "Reasoning With Numbers",
+	"type": "Course"
 }

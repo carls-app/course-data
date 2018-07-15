@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Sophomore Standing",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -52,5 +47,6 @@
 	"summary": "What can scholarship tell us about educational strategies to reduce achievement gaps and economic opportunity? Do the policies promoted at the city, state and federal levels reflect that knowledge? How are these policies made? What is the relationship between schools and the economic class, racial composition and housing stock of their neighborhoods?",
 	"synonym": "27023",
 	"tags": [],
-	"title": "Schools, Scholarship and Policy in the United States"
+	"title": "Schools, Scholarship and Policy in the United States",
+	"type": "Course"
 }

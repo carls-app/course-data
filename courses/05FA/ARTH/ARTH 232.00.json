@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12928",
 	"tags": [],
-	"title": "Spanish Art"
+	"title": "Spanish Art",
+	"type": "Course"
 }

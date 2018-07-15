@@ -10,7 +10,7 @@
 		"Rachel F Seidman",
 		"Robert G Tisdale"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 47,
 		"total": 60,
@@ -40,14 +41,9 @@
 	"summary": null,
 	"synonym": "2138",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "Growing Up American"
+	"title": "Growing Up American",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Misty L Heggeness"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "24743",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSCDSCP"
 	],
-	"title": "Economic Demography"
+	"title": "Economic Demography",
+	"type": "Course"
 }

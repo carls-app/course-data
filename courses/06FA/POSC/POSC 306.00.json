@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15606",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL3",
+		"CCSTETHNIC"
 	],
-	"title": "Racial & Ethnic Politics"
+	"title": "Racial & Ethnic Politics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "21860",
 	"tags": [],
-	"title": "Ancient Greek Composition"
+	"title": "Ancient Greek Composition",
+	"type": "Course"
 }

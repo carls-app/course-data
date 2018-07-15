@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12331",
 	"tags": [],
-	"title": "Advanced Linear Algebra"
+	"title": "Advanced Linear Algebra",
+	"type": "Course"
 }

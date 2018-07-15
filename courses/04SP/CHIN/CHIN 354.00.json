@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ping Fu"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7729",
 	"tags": [],
-	"title": "Reading Chinese Theatre"
+	"title": "Reading Chinese Theatre",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan E Marino"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11825",
 	"tags": [],
-	"title": "Promise of Neuropharmacology"
+	"title": "Promise of Neuropharmacology",
+	"type": "Course"
 }

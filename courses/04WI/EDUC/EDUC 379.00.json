@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7867",
 	"tags": [],
-	"title": "Mthd Literacy Instruction"
+	"title": "Mthd Literacy Instruction",
+	"type": "Course"
 }

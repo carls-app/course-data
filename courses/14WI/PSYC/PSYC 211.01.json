@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "211.01",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Hulings B12"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission; Concurrent registration in Psychology 210",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"QRE",
+		"LS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -51,5 +43,6 @@
 	"summary": "This course accompanies Psychology 210. Students will replicate classical studies and plan and conduct original empirical research projects in the study of human and animal learning. Psychology 211 requires concurrent or prior registration in Psychology 210. A grade of C- or better must be earned in both Psychology 210 and 211 to satisfy the LS requirement.",
 	"synonym": "35410",
 	"tags": [],
-	"title": "Laboratory Research Methods in Learning"
+	"title": "Laboratory Research Methods in Learning",
+	"type": "Course"
 }

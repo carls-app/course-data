@@ -8,11 +8,12 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "283.07",
+	"number": "283",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "17600",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"ENTSSCI",
+		"BIOLELECTIVE"
 	],
-	"title": "Coastal-Marine Ecology"
+	"title": "Coastal-Marine Ecology",
+	"type": "Course"
 }

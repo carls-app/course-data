@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 36,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "28774",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		}
+		"SPECINTPHILSCI"
 	],
-	"title": "Revolutions in Physics"
+	"title": "Revolutions in Physics",
+	"type": "Course"
 }

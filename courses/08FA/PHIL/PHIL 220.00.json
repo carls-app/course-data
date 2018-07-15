@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "21227",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"CGSCELECTIVE",
+		"NEURELEC",
+		"PHILTHEORY"
 	],
-	"title": "Philosophy of Mind"
+	"title": "Philosophy of Mind",
+	"type": "Course"
 }

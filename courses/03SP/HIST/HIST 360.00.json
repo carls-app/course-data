@@ -10,7 +10,7 @@
 		"Shahzad Bashir",
 		"Adeeb Khalid"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -45,38 +46,15 @@
 	"summary": null,
 	"synonym": "4143",
 	"tags": [
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTISLAM",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTCENT",
+		"HISTASIA"
 	],
-	"title": "Muslims and Modernity"
+	"title": "Muslims and Modernity",
+	"type": "Course"
 }

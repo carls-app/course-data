@@ -7,7 +7,7 @@
 		"Keren A Gudeman",
 		"Linda K Luedke"
 	],
-	"number": "158.03",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "22166",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel P Bruggeman"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 160"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 20,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "16331",
 	"tags": [],
-	"title": "Observational Drawing"
+	"title": "Observational Drawing",
+	"type": "Course"
 }

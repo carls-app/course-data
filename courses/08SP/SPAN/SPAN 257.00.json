@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Lynd"
 	],
-	"number": "257.00",
+	"number": "257",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "22000",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"PENINLIT"
 	],
-	"title": "Cinema & Dictatorship in Spain"
+	"title": "Cinema & Dictatorship in Spain",
+	"type": "Course"
 }

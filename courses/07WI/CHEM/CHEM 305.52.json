@@ -7,7 +7,7 @@
 		"Marion E Cass",
 		"Will Hollingsworth"
 	],
-	"number": "305.52",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15136",
 	"tags": [],
-	"title": "Chem Kinetics Lab"
+	"title": "Chem Kinetics Lab",
+	"type": "Course"
 }

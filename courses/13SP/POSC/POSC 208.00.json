@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -47,22 +42,11 @@
 	"summary": "A study of the contemporary presidency, with a focus on the development of the institutional presidency, presidential personality, and the presidency's relations with other institutions in the American and international political systems. Particular attention will be devoted to the presidencies of Barack Obama and George W. Bush.",
 	"synonym": "33046",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"POSI-LPS2",
+		"POSIELECTIVE",
+		"POSI-LPS",
+		"AMSTTOPICAL3"
 	],
-	"title": "The American Presidency"
+	"title": "The American Presidency",
+	"type": "Course"
 }

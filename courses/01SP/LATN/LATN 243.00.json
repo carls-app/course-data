@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "852",
 	"tags": [],
-	"title": "Medieval Latin"
+	"title": "Medieval Latin",
+	"type": "Course"
 }

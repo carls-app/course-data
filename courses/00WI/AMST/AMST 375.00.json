@@ -9,7 +9,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "American Children:Poor & Priv"
+	"title": "American Children:Poor & Priv",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stacey L Halpern"
 	],
-	"number": "353.01",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "367",
 	"tags": [],
-	"title": "Population Ecology Laboratory"
+	"title": "Population Ecology Laboratory",
+	"type": "Course"
 }

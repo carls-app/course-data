@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6493",
 	"tags": [],
-	"title": "Computational Mechanics"
+	"title": "Computational Mechanics",
+	"type": "Course"
 }

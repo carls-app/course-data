@@ -8,7 +8,7 @@
 	"instructors": [
 		"David R Musicant"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "16620",
 	"tags": [],
-	"title": "Artificial Intelligence"
+	"title": "Artificial Intelligence",
+	"type": "Course"
 }

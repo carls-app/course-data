@@ -8,7 +8,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21150",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTUS",
+		"AFAMSENIORSEM",
+		"HISTATLANTWRLD"
 	],
-	"title": "Black Hist Global Vision"
+	"title": "Black Hist Global Vision",
+	"type": "Course"
 }

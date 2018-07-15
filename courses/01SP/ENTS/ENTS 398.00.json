@@ -6,11 +6,12 @@
 	"instructors": [
 		"Norman J Vig"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 50,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "1652",
 	"tags": [],
-	"title": "Senior Colloquium"
+	"title": "Senior Colloquium",
+	"type": "Course"
 }

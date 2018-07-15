@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dan O'Brien"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "10906",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		}
+		"AMSTTOPICAL3",
+		"ENTSSP",
+		"SOANPERT"
 	],
-	"title": "Practical Conservation"
+	"title": "Practical Conservation",
+	"type": "Course"
 }

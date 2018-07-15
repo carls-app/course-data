@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 18,
@@ -45,5 +46,6 @@
 		"CCSTGLOBAL",
 		"CCSTETHNIC"
 	],
-	"title": "Modern Muslim Movements"
+	"title": "Modern Muslim Movements",
+	"type": "Course"
 }

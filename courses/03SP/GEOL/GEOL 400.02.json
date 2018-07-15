@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "400.02",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 4,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "3951",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

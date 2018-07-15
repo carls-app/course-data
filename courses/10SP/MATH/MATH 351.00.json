@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 211.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 49,
 		"total": 55,
@@ -41,5 +42,6 @@
 	"summary": "Cauchy-Riemann equations, analytic functions, complex integration, series, residues, applications.",
 	"synonym": "23284",
 	"tags": [],
-	"title": "Functions of a Complex Variable"
+	"title": "Functions of a Complex Variable",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -45,5 +46,6 @@
 	"tags": [
 		"MARSSUPP"
 	],
-	"title": "Rembrandt and Van Gogh"
+	"title": "Rembrandt and Van Gogh",
+	"type": "Course"
 }

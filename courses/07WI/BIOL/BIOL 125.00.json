@@ -9,7 +9,7 @@
 		"Stephan G Zweifel",
 		"Mark McKone"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 107,
 		"total": 100,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "15079",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution"
+	"title": "Genes & Evolution",
+	"type": "Course"
 }

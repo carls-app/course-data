@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "141L.57",
+	"number": "141L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28102",
 	"tags": [],
-	"title": "Gravity and the Cosmos Lab"
+	"title": "Gravity and the Cosmos Lab",
+	"type": "Lab"
 }

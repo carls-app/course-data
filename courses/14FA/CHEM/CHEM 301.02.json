@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "301.02",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Olin 04",
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 230 and 233 and Mathematics 121",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 8,
@@ -42,5 +40,6 @@
 	"summary": "A mixed class/lab course with one four hour laboratory and one lecture session per week. In class, the principles of kinetics will be developed with a mechanistic focus. In lab, experimental design and extensive independent project work will be emphasized.",
 	"synonym": "38378",
 	"tags": [],
-	"title": "Chemical Kinetics Laboratory"
+	"title": "Chemical Kinetics Laboratory",
+	"type": "Course"
 }

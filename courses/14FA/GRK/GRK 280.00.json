@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -47,14 +42,9 @@
 	"summary": "Through the close reading and discussion of two texts from Late Antiquity in their original Greek, Lucian's",
 	"synonym": "39458",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"SPECINTETHICS",
+		"MARSSUPP"
 	],
-	"title": "Philosophers and Martyrs"
+	"title": "Philosophers and Martyrs",
+	"type": "Course"
 }

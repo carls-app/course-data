@@ -8,11 +8,12 @@
 	"instructors": [
 		"Hector L Valdivia"
 	],
-	"number": "255.01",
+	"number": "255",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "36549",
 	"tags": [],
-	"title": "Violin"
+	"title": "Violin",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,34 +37,14 @@
 	"summary": null,
 	"synonym": "8294",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"CCSTGLOBAL",
+		"HISTEUR1451",
+		"MARSCORE",
+		"MARSSUPP",
+		"MARSCAP",
+		"EUSTTRANNATL",
+		"HISTERLYMODEUR"
 	],
-	"title": "War, State and Society"
+	"title": "War, State and Society",
+	"type": "Course"
 }

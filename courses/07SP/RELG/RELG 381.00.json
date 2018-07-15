@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aimee A Chor"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "16868",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSI-DSS"
 	],
-	"title": "Religion and Nationalism"
+	"title": "Religion and Nationalism",
+	"type": "Course"
 }

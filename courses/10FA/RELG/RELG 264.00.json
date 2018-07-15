@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noah Salomon"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -45,38 +40,15 @@
 	"summary": "The specter of Islamic politics haunts much policy discussion in the United States and abroad. Behind phrases such as \"radical Islam,\" \"political Islam,\" and \"liberal Islam\" do we understand what a political theory which draws its inspiration from an Islamic tradition means? Can Muslim political positions/institutions exist comfortably in a secular, democratic state or international order, or must they always necessarily be at odds with them? This course will examine scriptural paradigms in Muslim politics, several modern Muslim political theorists, and contemporary attempts at Islamic political formations in Iran, Sudan and Turkey to shed light on this complicated topic.",
 	"synonym": "27719",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHETHCLWPOL",
-			"name": "RELG Theme Ethics, Law & Pol"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		}
+		"POSI-AREAS",
+		"POSI-DSS",
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"RELGISLAMICTRAD",
+		"RELGTHETHCLWPOL",
+		"RELGTHSOCLPWR",
+		"ASSTHU"
 	],
-	"title": "Islamic Politics"
+	"title": "Islamic Politics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2205",
 	"tags": [],
-	"title": "Im a Stranger Here Myself"
+	"title": "Im a Stranger Here Myself",
+	"type": "Course"
 }

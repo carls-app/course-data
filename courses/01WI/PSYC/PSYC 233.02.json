@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brian A Sundermeier"
 	],
-	"number": "233.02",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 11,
 		"total": 14,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3051",
 	"tags": [],
-	"title": "Lab in Cognitive Processes"
+	"title": "Lab in Cognitive Processes",
+	"type": "Course"
 }

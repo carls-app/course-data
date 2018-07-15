@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"ENGL1",
 		"LITFORLANG"
 	],
-	"title": "Shakespeare: Tragedy & Romance"
+	"title": "Shakespeare: Tragedy & Romance",
+	"type": "Course"
 }

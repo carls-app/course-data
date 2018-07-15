@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -52,14 +47,9 @@
 	"summary": "This course surveys the \"other cinemas\" of Europe: of Poland, the Czech Republic, Finland, Hungary, Romania, the states of the former Yugoslavia, and Turkey, from WWII through the present day. Directors include Bilge Ceylan, Chytilová, Forman, Holland, Jancsó, Kaurismäki, Kieslowski, Kovács, Kusturica, Loznitsa, Makavejev, Menzel, Muratova, Nemec, Polanski, Svankmajer, Szabó, Tarr, Wajda. Brief lectures and readings place the films in national and political context, discussions focus on analyzing the eclectic cinematic strategies and diversity of styles--from Hollywood, Western Europe, Soviet and auteur--these filmmakers have employed in their anthological masterpieces of the cinematic canon.",
 	"synonym": "35892",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CAMSELECTIVE",
+		"EUSTTRANNATL"
 	],
-	"title": "Cinemas and Contexts: East European Film"
+	"title": "Cinemas and Contexts: East European Film",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 24,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6536",
 	"tags": [],
-	"title": "Solid State Physics"
+	"title": "Solid State Physics",
+	"type": "Course"
 }

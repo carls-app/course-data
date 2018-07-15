@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judy Nelson"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3453",
 	"tags": [],
-	"title": "Tap Dance, Intermediate"
+	"title": "Tap Dance, Intermediate",
+	"type": "Course"
 }

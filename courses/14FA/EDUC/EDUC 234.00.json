@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,14 +41,9 @@
 	"summary": "Human development and learning theories are studied in relation to the teaching-learning process and the sociocultural contexts of schools. Three hours outside of class per week are devoted to observing learning activities in public school elementary and secondary classrooms and working with students.",
 	"synonym": "39546",
 	"tags": [
-		{
-			"code": "EDUCCORE",
-			"name": "Ed Studies Core Course"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"EDUCCORE",
+		"CGSCELECTIVE"
 	],
-	"title": "Educational Psychology"
+	"title": "Educational Psychology",
+	"type": "Course"
 }

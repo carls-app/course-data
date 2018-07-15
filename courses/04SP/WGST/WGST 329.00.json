@@ -9,7 +9,7 @@
 	"instructors": [
 		"Allison L Wee"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "8765",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Sex&City:Late Victorian Londn"
+	"title": "Sex&City:Late Victorian Londn",
+	"type": "Course"
 }

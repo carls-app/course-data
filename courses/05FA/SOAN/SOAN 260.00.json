@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "13232",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		}
+		"CGSCELECTIVE",
+		"RELGPERT"
 	],
-	"title": "Myth, Ritual and Symbolism"
+	"title": "Myth, Ritual and Symbolism",
+	"type": "Course"
 }

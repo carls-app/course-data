@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "367L.52",
+	"number": "367L",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "6951",
 	"tags": [],
-	"title": "Earth History Analysis Lab"
+	"title": "Earth History Analysis Lab",
+	"type": "Lab"
 }

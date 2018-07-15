@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "23198",
 	"tags": [
-		{
-			"code": "ENGLCREATVWRTG",
-			"name": "English Creative Writing"
-		}
+		"ENGLCREATVWRTG"
 	],
-	"title": "Adv Crafts Writing:Short Story"
+	"title": "Adv Crafts Writing:Short Story",
+	"type": "Course"
 }

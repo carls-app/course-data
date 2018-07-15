@@ -9,7 +9,7 @@
 		"Sigi Leonhard",
 		"Dana Strand"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -39,30 +40,13 @@
 	"summary": null,
 	"synonym": "10746",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "GERMPERT",
-			"name": "German Pertinent Course"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CCSTBINARY",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"FRENPERT",
+		"GERMPERT",
+		"CAMSELECTIVE"
 	],
-	"title": "Perspctv Fren & Germ Cinema"
+	"title": "Perspctv Fren & Germ Cinema",
+	"type": "Course"
 }

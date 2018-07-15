@@ -9,16 +9,14 @@
 		"Joanne E Kutzler",
 		"Linda K Luedke"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "23919",
 	"tags": [],
-	"title": "Synchronized Swim Club"
+	"title": "Synchronized Swim Club",
+	"type": "Course"
 }

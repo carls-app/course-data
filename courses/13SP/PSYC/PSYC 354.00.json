@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Psychology 252 is recommended",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": "An introduction to theories, research, techniques, and issues in the field of counseling psychology. This course will be run as a seminar.",
 	"synonym": "32300",
 	"tags": [],
-	"title": "Counseling Psychology"
+	"title": "Counseling Psychology",
+	"type": "Course"
 }

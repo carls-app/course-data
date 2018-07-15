@@ -8,7 +8,7 @@
 	"instructors": [
 		"George H Lamson"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "1568",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"CCSTREGIONAL"
 	],
-	"title": "Contemporary Econ of East Asia"
+	"title": "Contemporary Econ of East Asia",
+	"type": "Course"
 }

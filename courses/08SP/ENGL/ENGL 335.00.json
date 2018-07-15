@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "335.00",
+	"number": "335",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "18750",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		}
+		"ENGLHE3",
+		"ENGL4",
+		"AFAMDISTROAL"
 	],
-	"title": "(Post)Colonialism & Identity"
+	"title": "(Post)Colonialism & Identity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15301",
 	"tags": [],
-	"title": "Computational Aspects of Econ"
+	"title": "Computational Aspects of Econ",
+	"type": "Course"
 }

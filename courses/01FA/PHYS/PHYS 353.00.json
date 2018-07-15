@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1431",
 	"tags": [],
-	"title": "Statistical Mechanics"
+	"title": "Statistical Mechanics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "20869",
 	"tags": [],
-	"title": "Triathlon Training"
+	"title": "Triathlon Training",
+	"type": "Course"
 }

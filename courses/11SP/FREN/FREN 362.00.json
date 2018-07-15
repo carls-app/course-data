@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "362.00",
+	"number": "362",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -50,26 +45,12 @@
 	"summary": null,
 	"synonym": "26513",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		}
+		"FRSTELEC",
+		"ENGLFORLIT",
+		"ENGLLOE",
+		"FRSTELECAL",
+		"FRSTCULT"
 	],
-	"title": "Transnational Writers in Quebec"
+	"title": "Transnational Writers in Quebec",
+	"type": "Course"
 }

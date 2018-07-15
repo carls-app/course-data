@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "113L.54",
+	"number": "113L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "359",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

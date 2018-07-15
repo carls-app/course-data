@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathryn W Sparling"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "1949",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "AdvRdngModnJapnLit:Poetry&Dram"
+	"title": "AdvRdngModnJapnLit:Poetry&Dram",
+	"type": "Course"
 }

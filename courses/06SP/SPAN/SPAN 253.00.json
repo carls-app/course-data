@@ -8,7 +8,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "13681",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"LTAMLIT"
 	],
-	"title": "Latn Amer Poetry-1950-2000"
+	"title": "Latn Amer Poetry-1950-2000",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "17433",
 	"tags": [],
-	"title": "Architecture Across Cultures"
+	"title": "Architecture Across Cultures",
+	"type": "Course"
 }

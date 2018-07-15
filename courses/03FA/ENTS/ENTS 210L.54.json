@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sara G Mitchell"
 	],
-	"number": "210L.54",
+	"number": "210L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "8413",
 	"tags": [],
-	"title": "Geomorphology Lab"
+	"title": "Geomorphology Lab",
+	"type": "Lab"
 }

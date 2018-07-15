@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -44,5 +42,6 @@
 	"summary": "This is an advanced class for students who have some capabilities and proficiency in ballet technique. Content is sophisticated and demanding in its use of ballet vocabulary and musical phrasing.",
 	"synonym": "26293",
 	"tags": [],
-	"title": "Ballet III"
+	"title": "Ballet III",
+	"type": "Course"
 }

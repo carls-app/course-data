@@ -8,7 +8,7 @@
 	"instructors": [
 		"Guolong Lai"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2855",
 	"tags": [],
-	"title": "Intro to Chinese Archaeology"
+	"title": "Intro to Chinese Archaeology",
+	"type": "Course"
 }

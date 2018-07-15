@@ -10,16 +10,14 @@
 		"Gerald L Young",
 		"Leon Lunder"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 40,
@@ -29,5 +27,6 @@
 	"summary": null,
 	"synonym": "3406",
 	"tags": [],
-	"title": "Track and Field/Indoor IC"
+	"title": "Track and Field/Indoor IC",
+	"type": "Course"
 }

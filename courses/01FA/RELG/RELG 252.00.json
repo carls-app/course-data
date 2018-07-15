@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sara L McClintock"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "917",
 	"tags": [],
-	"title": "Indian Mahayana Buddhism"
+	"title": "Indian Mahayana Buddhism",
+	"type": "Course"
 }

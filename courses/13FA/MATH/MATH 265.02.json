@@ -6,7 +6,7 @@
 	"instructors": [
 		"Miles Q Ott"
 	],
-	"number": "265.02",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 211",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Introduction to probability and its applications. Topics include discrete probability, random variables, independence, joint and conditional distributions, expectation, limit laws and properties of common probability distributions.",
 	"synonym": "34944",
 	"tags": [],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

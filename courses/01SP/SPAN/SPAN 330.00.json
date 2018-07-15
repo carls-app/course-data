@@ -8,7 +8,7 @@
 	"instructors": [
 		"Patrick H Dust"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "1832",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"PENINLIT"
 	],
-	"title": "Cervante:Quijote:Hero or Fool"
+	"title": "Cervante:Quijote:Hero or Fool",
+	"type": "Course"
 }

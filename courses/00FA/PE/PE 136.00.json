@@ -8,13 +8,14 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "3074",
 	"tags": [],
-	"title": "Independent Activities"
+	"title": "Independent Activities",
+	"type": "Course"
 }

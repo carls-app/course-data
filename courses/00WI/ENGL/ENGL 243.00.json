@@ -8,7 +8,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2129",
 	"tags": [],
-	"title": "Classic Drama:Aesch-Shakespre"
+	"title": "Classic Drama:Aesch-Shakespre",
+	"type": "Course"
 }

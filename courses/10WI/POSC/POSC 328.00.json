@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 15,
@@ -36,26 +37,12 @@
 	"summary": "Foreign policy analysis is a distinct sub-field within international relations that focuses on explaining the actions and choices of actors in world politics. After a review of the historical development of the sub-field, we will explore approaches to foreign policy that emphasize the empirical testing of hypotheses that explain how policies and choices are formulated and implemented. The psychological sources of foreign policy decisions (including leaders' beliefs and personalities and the effect of decision-making groups) are a central theme. Completion of a lower level IR course and the stats/methods sequence is recommended.",
 	"synonym": "24059",
 	"tags": [
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		}
+		"POSIADVSEM",
+		"POSIELECTIVE",
+		"POSI-LPS",
+		"POSCADVSEM",
+		"POSISECFRGNPOL"
 	],
-	"title": "Foreign Policy Analysis*"
+	"title": "Foreign Policy Analysis*",
+	"type": "Course"
 }

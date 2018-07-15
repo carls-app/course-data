@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "How do representations of politics in film influence our ideas about governance, citizenship, power, and authority? How do film and TV reflect values and beliefs of democratic society, particularly in the United States? These are two questions that we will consider in the course as we study films representing politics and historical events in fiction and non-fiction genres for entertainment and education. Films to be analyzed include:",
 	"synonym": "27026",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"POSI-LPS",
+		"AMSTTOPICAL3",
+		"CAMSXDEPT",
+		"CAMSELECTIVE",
+		"POSI-DSS2"
 	],
-	"title": "Politics and Political History in Film"
+	"title": "Politics and Political History in Film",
+	"type": "Course"
 }

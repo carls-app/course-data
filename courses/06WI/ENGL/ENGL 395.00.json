@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "13143",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGLHE2",
+		"AMSTTOPICAL1",
+		"ENGLT2",
+		"ENGL3"
 	],
-	"title": "Wharton and James"
+	"title": "Wharton and James",
+	"type": "Course"
 }

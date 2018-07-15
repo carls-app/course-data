@@ -8,7 +8,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "3189",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Jpnse Autobiography in Trans"
+	"title": "Jpnse Autobiography in Trans",
+	"type": "Course"
 }

@@ -9,11 +9,12 @@
 		"",
 		"Diane Pearsall"
 	],
-	"number": "206.07",
+	"number": "206",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "10667",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Spanish Conversation&Compositi"
+	"title": "Spanish Conversation&Compositi",
+	"type": "Course"
 }

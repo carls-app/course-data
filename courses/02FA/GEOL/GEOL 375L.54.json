@@ -8,7 +8,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "375L.54",
+	"number": "375L",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3870",
 	"tags": [],
-	"title": "Oceans & Atmospheres Lab"
+	"title": "Oceans & Atmospheres Lab",
+	"type": "Lab"
 }

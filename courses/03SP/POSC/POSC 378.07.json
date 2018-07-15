@@ -8,11 +8,12 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "378.07",
+	"number": "378",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "4266",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTSS",
+		"ASSTEAST"
 	],
-	"title": "Chinese Social&Political Inst"
+	"title": "Chinese Social&Political Inst",
+	"type": "Course"
 }

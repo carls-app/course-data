@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "110L.51",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "51",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28660",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

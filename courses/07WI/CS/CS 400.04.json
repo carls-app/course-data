@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Goldfeather"
 	],
-	"number": "400.04",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16425",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

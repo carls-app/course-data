@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tammy R Feldman"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7413",
 	"tags": [],
-	"title": "Org & Decision Making"
+	"title": "Org & Decision Making",
+	"type": "Course"
 }

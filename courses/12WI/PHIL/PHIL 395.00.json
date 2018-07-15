@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,26 +39,12 @@
 	"summary": null,
 	"synonym": "30094",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"SPECINTSOCTHGHT",
+		"CGSCELECTIVE",
+		"EUSTTRANNATL",
+		"PHILADV",
+		"PHILTHEORY"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

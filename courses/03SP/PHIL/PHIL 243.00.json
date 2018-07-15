@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "5838",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Animals: Minds and Morals"
+	"title": "Animals: Minds and Morals",
+	"type": "Course"
 }

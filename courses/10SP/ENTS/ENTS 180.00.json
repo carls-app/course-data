@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sarah A Wolbert"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "25413",
 	"tags": [
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTSLPSCP"
 	],
-	"title": "Basic Principles of Sustainable Design"
+	"title": "Basic Principles of Sustainable Design",
+	"type": "Course"
 }

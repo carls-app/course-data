@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or the equivalent",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"IS",
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -52,10 +47,8 @@
 	"summary": null,
 	"synonym": "33095",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Vienna: Dream and Reality"
+	"title": "Vienna: Dream and Reality",
+	"type": "Course"
 }

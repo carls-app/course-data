@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3457",
 	"tags": [],
-	"title": "Triathlon Training"
+	"title": "Triathlon Training",
+	"type": "Course"
 }

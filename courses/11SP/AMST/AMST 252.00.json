@@ -6,7 +6,7 @@
 	"instructors": [
 		"Audrey S Russek"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -49,10 +41,8 @@
 	"summary": "We explore the creation, exchange, and consumption of food in America, and the spaces in which it is produced, sold, shared, and eaten, focusing especially on food as a cultural artifact that is intricately tied to individual and group identification. We will study what Americans eat now, how American cuisine has changed, and how food is intertwined with ideas about cultural and national identity. We'll consider geography, home and community cooking, business and industry, and globalization in the formation and evolution of eating culture in the U.S. and ways in which food practices overlap with politics, power, and national identity.",
 	"synonym": "27595",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Food Culture in the United States"
+	"title": "Food Culture in the United States",
+	"type": "Course"
 }

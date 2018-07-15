@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "13589",
 	"tags": [],
-	"title": "Intermediate Greek"
+	"title": "Intermediate Greek",
+	"type": "Course"
 }

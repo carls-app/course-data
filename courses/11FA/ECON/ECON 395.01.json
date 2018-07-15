@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -54,10 +46,8 @@
 	"summary": null,
 	"synonym": "30223",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"POECUPAPP"
 	],
-	"title": "Housing and the Environment"
+	"title": "Housing and the Environment",
+	"type": "Course"
 }

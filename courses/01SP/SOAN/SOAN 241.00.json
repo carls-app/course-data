@@ -9,7 +9,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2306",
 	"tags": [],
-	"title": "Dialects"
+	"title": "Dialects",
+	"type": "Course"
 }

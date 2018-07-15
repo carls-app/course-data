@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 30,
@@ -43,22 +41,11 @@
 	"summary": null,
 	"synonym": "3779",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTEUR1450",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Later Rmn Empire,Byzant&Islam"
+	"title": "Later Rmn Empire,Byzant&Islam",
+	"type": "Course"
 }

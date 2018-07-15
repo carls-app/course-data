@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "20645",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Issues in American Democracy"
+	"title": "Issues in American Democracy",
+	"type": "Course"
 }

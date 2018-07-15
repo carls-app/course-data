@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "220.01",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1185",
 	"tags": [],
-	"title": "Medical Ethics"
+	"title": "Medical Ethics",
+	"type": "Course"
 }

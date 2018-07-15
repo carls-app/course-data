@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One 100 level Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "Pictures of the floating world, or",
 	"synonym": "35058",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"WGSTADDL",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "The Origins of Manga: Japanese Prints"
+	"title": "The Origins of Manga: Japanese Prints",
+	"type": "Course"
 }

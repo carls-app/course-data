@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "157.00",
+	"number": "157",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "5163",
 	"tags": [],
-	"title": "Int/Adv Modern Dance Technique"
+	"title": "Int/Adv Modern Dance Technique",
+	"type": "Course"
 }

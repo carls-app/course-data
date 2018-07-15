@@ -9,7 +9,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Scoville 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "13898",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"THEAPERT",
+		"LTAMELECTIVE"
 	],
-	"title": "Ltam Thea:Nation,Power,Gender"
+	"title": "Ltam Thea:Nation,Power,Gender",
+	"type": "Course"
 }

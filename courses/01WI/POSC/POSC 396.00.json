@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 45,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "813",
 	"tags": [],
-	"title": "Questions in Political Science"
+	"title": "Questions in Political Science",
+	"type": "Course"
 }

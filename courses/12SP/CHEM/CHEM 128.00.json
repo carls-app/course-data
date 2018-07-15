@@ -8,7 +8,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Exam (Chemistry Home Page) or Chemistry 122.; CHEM 128L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -52,14 +47,9 @@
 	"summary": "The core topics of chemistry (i.e. thermodynamics, kinetics, equilibrium, and bonding) are central to understanding major environmental topics such as greenhouse warming, ozone depletion, acid-rain deposition, and general chemical contamination in air, water, and soil. These topics and the chemical principles behind them are addressed through an emphasis on the earth's atmosphere. One four-hour laboratory per week. Because this course covers the major topics of Chemistry 123 (but with an environmental emphasis), students cannot receive credit for both Chemistry 123 and 128.",
 	"synonym": "28591",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"ENTSINTRO",
+		"BIOCCORE"
 	],
-	"title": "Principles of Environmental Chemistry"
+	"title": "Principles of Environmental Chemistry",
+	"type": "Course"
 }

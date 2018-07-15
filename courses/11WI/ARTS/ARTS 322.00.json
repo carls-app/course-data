@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "322.00",
+	"number": "322",
 	"offerings": {
 		"locations": [
 			"Boliou 020"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 122 or Instructor Permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -43,5 +41,6 @@
 	"summary": "In this seminar we will expand on our exploration of sculpture--further developing the studio based investigation of Arts 122 while adding interior and exterior site specific installation, robotics, and digital media, to the range of possibilities.",
 	"synonym": "25527",
 	"tags": [],
-	"title": "Sculpture 2: Form and Context"
+	"title": "Sculpture 2: Form and Context",
+	"type": "Course"
 }

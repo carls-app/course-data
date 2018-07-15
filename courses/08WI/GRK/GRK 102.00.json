@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge J Bravo"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 204"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "18985",
 	"tags": [],
-	"title": "Intermediate Greek"
+	"title": "Intermediate Greek",
+	"type": "Course"
 }

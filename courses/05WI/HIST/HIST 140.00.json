@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -61,6 +61,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 99,
@@ -70,26 +71,12 @@
 	"summary": null,
 	"synonym": "10455",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"HISTERLYMODEUR",
+		"FRSTHIST"
 	],
-	"title": "Modern Europe 1789-1914"
+	"title": "Modern Europe 1789-1914",
+	"type": "Course"
 }

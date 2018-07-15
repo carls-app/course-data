@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Smith"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4311",
 	"tags": [],
-	"title": "Image of Africa: Colonial Wrld"
+	"title": "Image of Africa: Colonial Wrld",
+	"type": "Course"
 }

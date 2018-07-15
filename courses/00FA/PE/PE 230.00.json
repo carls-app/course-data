@@ -8,13 +8,14 @@
 	"instructors": [
 		"Betsy Larey"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "918",
 	"tags": [],
-	"title": "Golf, Intercollegiate"
+	"title": "Golf, Intercollegiate",
+	"type": "Course"
 }

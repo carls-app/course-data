@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clarke Hudson"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16867",
 	"tags": [],
-	"title": "Religion and Sexuality"
+	"title": "Religion and Sexuality",
+	"type": "Course"
 }

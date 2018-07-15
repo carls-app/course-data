@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16709",
 	"tags": [],
-	"title": "Movement, Words, Meaning"
+	"title": "Movement, Words, Meaning",
+	"type": "Course"
 }

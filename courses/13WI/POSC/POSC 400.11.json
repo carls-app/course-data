@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "400.11",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "11",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "33039",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

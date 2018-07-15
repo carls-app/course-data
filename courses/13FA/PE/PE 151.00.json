@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -44,5 +42,6 @@
 	"summary": "Continues to challenge the dance student with more intensive work on technical, theoretical and expressive movement problems. Since students are more able and experienced, exploration of unusual and intricate forms and movements is possible and the goal of each class is to go as deeply into each idea as the limits of time and ability allow.",
 	"synonym": "34653",
 	"tags": [],
-	"title": "Modern Dance III"
+	"title": "Modern Dance III",
+	"type": "Course"
 }

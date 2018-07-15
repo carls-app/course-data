@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6830",
 	"tags": [],
-	"title": "Intro-Stochastic Processes"
+	"title": "Intro-Stochastic Processes",
+	"type": "Course"
 }

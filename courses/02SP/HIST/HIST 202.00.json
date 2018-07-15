@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 40,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "501",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		}
+		"HISTEUR1450"
 	],
-	"title": "Roman Hist,RepublicPrincipate"
+	"title": "Roman Hist,RepublicPrincipate",
+	"type": "Course"
 }

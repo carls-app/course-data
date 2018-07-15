@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -54,58 +46,20 @@
 	"summary": "The Mediterranean was a dynamic hub of cultural exchange in the Middle Ages. We will draw on Jewish, Muslim, and Latin Christian sources to explore this contact from 1050-1492 and the role of the sea itself in joining and separating the peoples who surrounded it. What did it mean to be a Muslim pilgrim in Christian-held Palestine? A Jewish vizier serving a Muslim ruler in Spain? A Christian courtier courting martyrdom in North Africa? We will explore lives led between coexistence and violence, intellectual and legal structures that helped to negotiate difference, and the textures of daily life.",
 	"synonym": "38719",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "MESTGRP1",
-			"name": "Middle East Supporting Group 1"
-		},
-		{
-			"code": "MESTGRP2",
-			"name": "Middle East Support Group 2"
-		}
+		"CCSTREGIONAL",
+		"MARSCORE",
+		"HISTANCNT/MDVL",
+		"HISTASIA",
+		"MARSSUPP",
+		"SPECINTBOOKSTD",
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"EUSTTRANNATL",
+		"JDSTPERT",
+		"MESTGRP1",
+		"MESTGRP2"
 	],
-	"title": "Jews, Christians and Muslims in the Medieval Mediterranean"
+	"title": "Jews, Christians and Muslims in the Medieval Mediterranean",
+	"type": "Course"
 }

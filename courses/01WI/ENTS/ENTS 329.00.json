@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -34,14 +35,9 @@
 	"summary": null,
 	"synonym": "1593",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Environmental Analysis Lab"
+	"title": "Environmental Analysis Lab",
+	"type": "Course"
 }

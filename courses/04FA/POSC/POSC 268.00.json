@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "268.00",
+	"number": "268",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 25,
@@ -41,30 +42,13 @@
 	"summary": null,
 	"synonym": "9733",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"ENTSINTL",
+		"POSINTLPOLECON",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "Int'l Environ Politics&Policy"
+	"title": "Int'l Environ Politics&Policy",
+	"type": "Course"
 }

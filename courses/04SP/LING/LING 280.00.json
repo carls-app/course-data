@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tiffany L Kershner"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7811",
 	"tags": [],
-	"title": "Field Methods in Linguistics"
+	"title": "Field Methods in Linguistics",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Myla T Vicenti Carpio"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "3256",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2"
 	],
-	"title": "Amer Indian Hist:Rmvl to Pres"
+	"title": "Amer Indian Hist:Rmvl to Pres",
+	"type": "Course"
 }

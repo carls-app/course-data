@@ -6,7 +6,7 @@
 	"instructors": [
 		"William S Dinklage"
 	],
-	"number": "265L.51",
+	"number": "265L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "51",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2744",
 	"tags": [],
-	"title": "Structural Geology Lab"
+	"title": "Structural Geology Lab",
+	"type": "Lab"
 }

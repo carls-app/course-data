@@ -8,11 +8,12 @@
 	"instructors": [
 		"Connie Martin"
 	],
-	"number": "158.00",
+	"number": "158",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 30,
@@ -22,5 +23,6 @@
 	"summary": "The study of the acoustic string bass in the Classical style.",
 	"synonym": "35532",
 	"tags": [],
-	"title": "Classical String Bass"
+	"title": "Classical String Bass",
+	"type": "Course"
 }

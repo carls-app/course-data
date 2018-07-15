@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: There are no prerequisites but participation in a college-level study abroad program will be an asset.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -45,30 +40,13 @@
 	"summary": "As manufacturing has migrated to places with cheaper labor, many cities have turned to tourism to attract capital, employ low-skilled labor, and develop a niche in the global economy. We will pay particular attention to the consequences, for cities and their inhabitants, of the policy of tourism-driven economic development. We will also consider what it is that is being manufactured, marketed and sold in the tourist economy. Our investigation will proceed in an interdisciplinary manner, with inquiry into the political, sociological, anthropological, and economic consequences of tourism.",
 	"synonym": "30386",
 	"tags": [
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POECMIDWTD",
-			"name": "POEC Wrld Trade&Dev Mid Div"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"POSI-GDS",
+		"POSCADVSEM",
+		"POSIADVSEM",
+		"POECMIDWTD",
+		"POECSEMINAR",
+		"POECUPWTD"
 	],
-	"title": "Political Economy of Global Tourism*"
+	"title": "Political Economy of Global Tourism*",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Religion 300 and acceptance of proposal for senior integrative exercise and instructor permission.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": "This seminar will acquaint students with research tools in various fields of religious studies, provide an opportunity to present and discuss research work in progress, hone writing skills, and improve oral presentation techniques.",
 	"synonym": "30442",
 	"tags": [],
-	"title": "Senior Research Seminar"
+	"title": "Senior Research Seminar",
+	"type": "Course"
 }

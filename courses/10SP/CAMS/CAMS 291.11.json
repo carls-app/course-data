@@ -6,11 +6,12 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "291.11",
+	"number": "291",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "25433",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Short Film: Genre History"
+	"title": "Short Film: Genre History",
+	"type": "Course"
 }

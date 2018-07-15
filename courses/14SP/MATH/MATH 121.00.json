@@ -6,7 +6,7 @@
 	"instructors": [
 		"Andrew R Gainer-Dewar"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 101, 111 or placement via Calculus Placement Exam # 2",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": "Integration techniques, improper integrals, the calculus of the logarithmic, exponential and inverse trigonometric functions, applications, Taylor polynomials and infinite series.",
 	"synonym": "34982",
 	"tags": [
-		{
-			"code": "MATHCALC",
-			"name": "Calculus for Cs Majors"
-		}
+		"MATHCALC"
 	],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

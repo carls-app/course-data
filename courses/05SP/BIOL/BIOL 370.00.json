@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "9420",
 	"tags": [],
-	"title": "Selected Topics: Virology"
+	"title": "Selected Topics: Virology",
+	"type": "Course"
 }

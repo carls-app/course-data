@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "196.00",
+	"number": "196",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "8918",
 	"tags": [],
-	"title": "Weight Training for Women"
+	"title": "Weight Training for Women",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "6255",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Popular Music Seminar"
+	"title": "Popular Music Seminar",
+	"type": "Course"
 }

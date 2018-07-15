@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: German 204 or the equivalent.",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -41,18 +39,10 @@
 	"summary": "The literary movements of Enlightenment, Storm and Stress, and Classicism as seen through selected works of Goethe, Schiller, Lessing and Herder.",
 	"synonym": "29956",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "The Age of Goethe"
+	"title": "The Age of Goethe",
+	"type": "Course"
 }

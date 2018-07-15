@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Intro to Western Philosophy II"
+	"title": "Intro to Western Philosophy II",
+	"type": "Course"
 }

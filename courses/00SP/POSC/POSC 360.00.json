@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sidney L Jones"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Seminar in Political Econ"
+	"title": "Seminar in Political Econ",
+	"type": "Course"
 }

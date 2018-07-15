@@ -9,7 +9,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "7598",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"CCSTREGIONAL",
+		"WGSTADDL"
 	],
-	"title": "Wmn &Islam Constructn Gender"
+	"title": "Wmn &Islam Constructn Gender",
+	"type": "Course"
 }

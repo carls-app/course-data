@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"HISTISLAM",
 		"CCSTREGIONAL"
 	],
-	"title": "Byzantium:850-1453"
+	"title": "Byzantium:850-1453",
+	"type": "Course"
 }

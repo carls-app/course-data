@@ -8,7 +8,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "10672",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"EUSTCNTRY",
+		"PENINLIT"
 	],
-	"title": "Melancholy in Art & Lit"
+	"title": "Melancholy in Art & Lit",
+	"type": "Course"
 }

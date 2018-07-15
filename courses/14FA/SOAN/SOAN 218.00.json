@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "Are Asian Americans forever foreigners or honorary white? This class introduces you to the sociological research on Asian Americans. We begin by a brief introduction of U.S. immigration history and sociological theories about assimilation and racial stratification. We then cover research on racial and ethnic identity, educational stratification, mass media images, interracial marriage, multiracials, transracial adoption, and the viability of an Asian American panethnic identity. We will also examine the similarities and differences of Asian Americans relative to other minority groups when applicable.",
 	"synonym": "39475",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"AMSTTOPICAL3",
+		"EDUCCLUSTER2"
 	],
-	"title": "Asians in the United States"
+	"title": "Asians in the United States",
+	"type": "Course"
 }

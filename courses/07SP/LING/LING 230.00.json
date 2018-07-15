@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aniko E Csirmaz"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15869",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Language and Aspect"
+	"title": "Language and Aspect",
+	"type": "Course"
 }

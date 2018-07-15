@@ -6,7 +6,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "What are the greatest threats to national and global security? In this course we will explore a range of traditional security topics including: the proliferation of WMDs, terrorism, piracy, insurgencies, arms races, territorial disputes and strategic rivalries. In addition to these classic concerns, we also consider newer ones such as cyber-security, the threat of global pandemics, unmanned warfare and the impact of climate change. Our study begins and concludes with the debate over the concept of security in the twenty-first century.",
 	"synonym": "36284",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-LPS2",
+		"POSI-LPS",
+		"POSIELECTIVE"
 	],
-	"title": "Global, National and Human Security"
+	"title": "Global, National and Human Security",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18802",
 	"tags": [],
-	"title": "Contact Improvisation"
+	"title": "Contact Improvisation",
+	"type": "Course"
 }

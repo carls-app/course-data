@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "356.01",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "14119",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "CAMSCOGNATE",
-			"name": "Cams Cognate"
-		}
+		"PENINLIT",
+		"CAMSCOGNATE"
 	],
-	"title": "Films of Luis Bunuel"
+	"title": "Films of Luis Bunuel",
+	"type": "Course"
 }

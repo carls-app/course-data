@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18773",
 	"tags": [],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

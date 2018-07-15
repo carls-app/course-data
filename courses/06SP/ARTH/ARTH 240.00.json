@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine G O'Malley"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "12935",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Art Since 1945"
+	"title": "Art Since 1945",
+	"type": "Course"
 }

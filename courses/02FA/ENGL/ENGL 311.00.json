@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "3980",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL1",
+		"LITFORLANG"
 	],
-	"title": "ShakespeareII:Tragedy&Romance"
+	"title": "ShakespeareII:Tragedy&Romance",
+	"type": "Course"
 }

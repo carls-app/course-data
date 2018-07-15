@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "152.00",
+	"number": "152",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 41,
 		"total": 45,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2303",
 	"tags": [
-		{
-			"code": "HISTEASIA",
-			"name": "HIST East Asia"
-		}
+		"HISTEASIA"
 	],
-	"title": "Imperial China"
+	"title": "Imperial China",
+	"type": "Course"
 }

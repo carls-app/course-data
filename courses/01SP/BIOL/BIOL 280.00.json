@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "513",
 	"tags": [],
-	"title": "Cell Biology"
+	"title": "Cell Biology",
+	"type": "Course"
 }

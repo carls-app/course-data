@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": null,
 	"synonym": "19434",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"EUSTTRANNATL",
+		"FRSTLANGLIT",
+		"FRSTSUPP"
 	],
-	"title": "Faces of Marginality"
+	"title": "Faces of Marginality",
+	"type": "Course"
 }

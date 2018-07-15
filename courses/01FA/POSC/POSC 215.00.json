@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bertram N Johnson"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Federalism,State & Local Pol"
+	"title": "Federalism,State & Local Pol",
+	"type": "Course"
 }

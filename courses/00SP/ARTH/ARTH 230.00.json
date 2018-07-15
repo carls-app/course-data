@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "94",
 	"tags": [],
-	"title": "Sistine Chapel&Its Contexts"
+	"title": "Sistine Chapel&Its Contexts",
+	"type": "Course"
 }

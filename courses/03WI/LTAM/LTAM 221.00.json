@@ -9,7 +9,7 @@
 	"instructors": [
 		"Paul Dosh"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "4212",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTREGIONAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Latin American Politics"
+	"title": "Latin American Politics",
+	"type": "Course"
 }

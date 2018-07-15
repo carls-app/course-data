@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "236.02",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "Peace studies is an evolving and emerging holistic interdisciplinary study of collective harmony and collective violence. In this course we will study the alternative definitions of peace and examine the relation between peace and a variety of societal factors including modernity, post modernity, international anarchy, forms of state, cultural construction of violence, religious prejudice, patriarchy, nuclear weapon, ecology, militarism, globalization and a global civil society and culture.",
 	"synonym": "32826",
 	"tags": [
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSI-LPS2",
+		"POSI-LPS"
 	],
-	"title": "Introduction to Peace Studies"
+	"title": "Introduction to Peace Studies",
+	"type": "Course"
 }

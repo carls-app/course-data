@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10875",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Intro to Video Production"
+	"title": "Intro to Video Production",
+	"type": "Course"
 }

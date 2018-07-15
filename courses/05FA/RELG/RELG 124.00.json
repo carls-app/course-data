@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "13063",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Jews & American Experience"
+	"title": "Jews & American Experience",
+	"type": "Course"
 }

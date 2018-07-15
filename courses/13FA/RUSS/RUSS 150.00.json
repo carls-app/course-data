@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": "Prerequisite: No knowledge of Russian language or Russian studies assumed",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -56,14 +48,9 @@
 	"summary": "This course explores issues central to life in Russia today--e.g., ethnic and religious diversity, gender equality, ecology, poverty (and wealth), demographics, and corruption--through the lens of Russia's arts as developed over the last thousand years. Media include architecture, folklore, nineteenth- and twentieth-century fiction, painting, music, and cinema. Theoretical texts address different approaches to the study of national cultures. Discussions are supplemented by occasional lectures; student assessment is based on participation, a final exam, and short papers desinged for inclusion in the portfolio. No knowledge of Russian language or Russian studies assumed or required.",
 	"synonym": "36166",
 	"tags": [
-		{
-			"code": "POSI-AREAS2",
-			"name": "Posi Area Studies 2"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"POSI-AREAS2",
+		"EUSTCNTRY"
 	],
-	"title": "Facts and Fairy Tales: Introduction to Russian Cultural History"
+	"title": "Facts and Fairy Tales: Introduction to Russian Cultural History",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Physics 131, 132, 141, 142, 151, 152, 153, or 165.",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 48,
@@ -33,5 +34,6 @@
 	"summary": "A program of five lectures by invited speakers that is intended to give students some perspective on the kinds of work done by people with a physics background. Visitors from industry, government, business, and research and educational institutions will discuss their work and work-related experiences.",
 	"synonym": "28802",
 	"tags": [],
-	"title": "What Physicists Do"
+	"title": "What Physicists Do",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maria E Cueto-Asin"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"CCSTETHNIC",
 		"LTAMLIT"
 	],
-	"title": "Topics in Hispanic Literature"
+	"title": "Topics in Hispanic Literature",
+	"type": "Course"
 }

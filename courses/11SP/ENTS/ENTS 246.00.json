@@ -6,7 +6,7 @@
 	"instructors": [
 		"Garrett Graddy"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -54,26 +46,12 @@
 	"summary": null,
 	"synonym": "27593",
 	"tags": [
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		}
+		"ENTSFASCP",
+		"SPECINTETHICS",
+		"SPECINTSOCTHGHT",
+		"SPECINTLEGAL",
+		"LTAMSOCSCI"
 	],
-	"title": "Environmental and Agricultural Politics of the Americas"
+	"title": "Environmental and Agricultural Politics of the Americas",
+	"type": "Course"
 }

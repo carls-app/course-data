@@ -8,11 +8,12 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -22,30 +23,13 @@
 	"summary": null,
 	"synonym": "17679",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"LTAMPERT",
+		"ENGLLOE"
 	],
-	"title": "Intro to Mexican Literature"
+	"title": "Intro to Mexican Literature",
+	"type": "Course"
 }

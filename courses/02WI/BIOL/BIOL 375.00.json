@@ -8,7 +8,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1242",
 	"tags": [],
-	"title": "Paleoecology Lab"
+	"title": "Paleoecology Lab",
+	"type": "Course"
 }

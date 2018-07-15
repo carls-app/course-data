@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "203.00",
+	"number": "203",
 	"offerings": {
 		"locations": [
 			"Weitz Center 136"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: By application only",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 12,
@@ -43,10 +41,8 @@
 	"summary": "This course prepares students to facilitate peer-led conversations about diversity. Students learn about categories and theories related to social identity, power, and inequality, and explore how race, gender, class, and sexual orientation affect individual experience and communal structures. Students complete readings and engage in experiential exercises that invite them to reflect on their own social identities and their reactions to difference, diversity, and conflict. Students are required to keep a weekly journal and to participate in class leadership. Participants in this class may apply to facilitate sections of IDSC 103, a 2-credit student-led course in winter term.",
 	"synonym": "35854",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"SPECINTETHICS"
 	],
-	"title": "Talking about Diversity"
+	"title": "Talking about Diversity",
+	"type": "Course"
 }

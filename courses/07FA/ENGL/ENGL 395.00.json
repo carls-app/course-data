@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "18706",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		}
+		"AFAMSENIORSEM"
 	],
-	"title": "Toni Morrison"
+	"title": "Toni Morrison",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -36,34 +37,14 @@
 	"summary": null,
 	"synonym": "18724",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		}
+		"ENGL1",
+		"LITFORLANG",
+		"MARSCORE",
+		"EUSTCNTRY",
+		"THEAPERT",
+		"MARSSUPP",
+		"ENGLHE1"
 	],
-	"title": "Shakespeare II"
+	"title": "Shakespeare II",
+	"type": "Course"
 }

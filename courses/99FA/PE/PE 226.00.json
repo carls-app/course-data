@@ -9,16 +9,14 @@
 		"Bob A Sullivan",
 		"Gerald L Young"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 59,
 		"total": 75,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "3312",
 	"tags": [],
-	"title": "Football Intercollegiate"
+	"title": "Football Intercollegiate",
+	"type": "Course"
 }

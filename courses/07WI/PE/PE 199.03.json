@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin J Kortan"
 	],
-	"number": "199.03",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Recreation Center STU"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "17082",
 	"tags": [],
-	"title": "Yoga"
+	"title": "Yoga",
+	"type": "Course"
 }

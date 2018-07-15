@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2852",
 	"tags": [],
-	"title": "History of Economic Ideas"
+	"title": "History of Economic Ideas",
+	"type": "Course"
 }

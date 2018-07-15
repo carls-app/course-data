@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Goldfeather"
 	],
-	"number": "117.01",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 28,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "6775",
 	"tags": [
-		{
-			"code": "CGSTCORE",
-			"name": "CGST Core Course"
-		}
+		"CGSTCORE"
 	],
-	"title": "Intro to Computer Science"
+	"title": "Intro to Computer Science",
+	"type": "Course"
 }

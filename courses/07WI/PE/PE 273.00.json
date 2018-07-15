@@ -8,16 +8,14 @@
 	"instructors": [
 		"Andy Clark"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 30,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "17124",
 	"tags": [],
-	"title": "Swimng/Diving Intercollegiate"
+	"title": "Swimng/Diving Intercollegiate",
+	"type": "Course"
 }

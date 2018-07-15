@@ -9,7 +9,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 20,
@@ -42,5 +43,6 @@
 		"CCSTETHNIC",
 		"LTAMLIT"
 	],
-	"title": "Topics: Sex With God"
+	"title": "Topics: Sex With God",
+	"type": "Course"
 }

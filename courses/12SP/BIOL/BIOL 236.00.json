@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 24,
@@ -41,14 +39,9 @@
 	"summary": "How do plants work? This course is framed in the context of advances in evolution and genomics, which offer insight into physiological, developmental, morphological, and anatomical adaptations to diverse environments. Emphasis is placed on experimental approaches to the study of plants. The biology behind current issues related to food and agriculture, including genetically modified organisms, will be investigated.",
 	"synonym": "28728",
 	"tags": [
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"ENTSFAES",
+		"SPECINTHEALTH"
 	],
-	"title": "Plant Biology"
+	"title": "Plant Biology",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Nancy J Cho",
 		"Audrey S Russek"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 40,
@@ -53,18 +48,10 @@
 	"summary": "This course is an introduction to the field of American Studies--its pleasures, challenges, and central questions--through the lens of immigration and migration. Using interdisciplinary readings and assignments, we will explore the richness and complexity of American culture by placing immigration and migration at the center of our investigations. Throughout the term, our study of diverse topics (Borders and Boundaries, World War II, and Sound) will model different ways of making connections and analyzing relationships between immigration, identity, and culture in the United States.",
 	"synonym": "39409",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		}
+		"EDUCCLUSTER2",
+		"CCSTETHNIC",
+		"AMMUGROUP1"
 	],
-	"title": "Introduction to American Studies: Immigration and American Culture"
+	"title": "Introduction to American Studies: Immigration and American Culture",
+	"type": "Course"
 }

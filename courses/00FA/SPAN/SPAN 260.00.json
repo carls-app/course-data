@@ -8,7 +8,7 @@
 	"instructors": [
 		"Patrick H Dust"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -50,5 +51,6 @@
 		"LTAMELECTIVE",
 		"LTAMLIT"
 	],
-	"title": "Fictional Autobios in Spain"
+	"title": "Fictional Autobios in Spain",
+	"type": "Course"
 }

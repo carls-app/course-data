@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "198.00",
+	"number": "198",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Mathematics 100",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": "This colloquium is designed to give students participating in the Focusing on Cultivating Scientists program an opportunity to learn and use skills in scientific study, reasoning, and modeling. The topics of this project-based colloquium will vary each term, and allow students to develop competencies in areas relevant to multiple science disciplines.",
 	"synonym": "38242",
 	"tags": [],
-	"title": "FOCUS Colloquium"
+	"title": "FOCUS Colloquium",
+	"type": "Course"
 }

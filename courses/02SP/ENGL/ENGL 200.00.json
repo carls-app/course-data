@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "739",
 	"tags": [],
-	"title": "Methods of Interpretation"
+	"title": "Methods of Interpretation",
+	"type": "Course"
 }

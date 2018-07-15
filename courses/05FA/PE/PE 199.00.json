@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lynda Grady Schweich"
 	],
-	"number": "199.00",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "12836",
 	"tags": [],
-	"title": "Power Yoga"
+	"title": "Power Yoga",
+	"type": "Course"
 }

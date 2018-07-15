@@ -9,11 +9,12 @@
 		"",
 		"Scott D Carpenter"
 	],
-	"number": "208.07",
+	"number": "208",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -23,22 +24,11 @@
 	"summary": null,
 	"synonym": "20358",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"EUSTOFFCAMP",
+		"FRSTSUPP"
 	],
-	"title": "Conversation and Composition"
+	"title": "Conversation and Composition",
+	"type": "Course"
 }

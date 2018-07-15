@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "331.02",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "339",
 	"tags": [],
-	"title": "Animal Physiology Laboratory"
+	"title": "Animal Physiology Laboratory",
+	"type": "Course"
 }

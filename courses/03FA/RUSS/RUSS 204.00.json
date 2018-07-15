@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -37,6 +37,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "7907",
 	"tags": [],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

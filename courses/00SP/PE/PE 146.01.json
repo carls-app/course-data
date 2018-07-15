@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "146.01",
+	"number": "146",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3437",
 	"tags": [],
-	"title": "Life Guard Training"
+	"title": "Life Guard Training",
+	"type": "Course"
 }

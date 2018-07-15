@@ -6,7 +6,7 @@
 	"instructors": [
 		"Patrick H Dust"
 	],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1781",
 	"tags": [],
-	"title": "Intermediate Spanish"
+	"title": "Intermediate Spanish",
+	"type": "Course"
 }

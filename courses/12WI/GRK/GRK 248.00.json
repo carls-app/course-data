@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Greek 103 or any higher-level Greek course.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": "Practice in composing Greek prose.",
 	"synonym": "29796",
 	"tags": [],
-	"title": "Ancient Greek Composition"
+	"title": "Ancient Greek Composition",
+	"type": "Course"
 }

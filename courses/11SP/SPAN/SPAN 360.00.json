@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yansi Y Pérez"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -47,26 +42,12 @@
 	"summary": null,
 	"synonym": "28024",
 	"tags": [
-		{
-			"code": "SPAN300LEVEL",
-			"name": "Spanish 300 Level Requirements"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"SPAN300LEVEL",
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"LTAM300LIT",
+		"LTAMPERT"
 	],
-	"title": "Race and Nation in Caribbean Literature"
+	"title": "Race and Nation in Caribbean Literature",
+	"type": "Course"
 }

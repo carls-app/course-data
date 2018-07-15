@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim Fisher"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1642",
 	"tags": [],
-	"title": "Anthropologcl Thought & Theory"
+	"title": "Anthropologcl Thought & Theory",
+	"type": "Course"
 }

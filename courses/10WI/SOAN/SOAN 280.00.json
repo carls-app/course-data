@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 115 or 215 or with permission of instructor.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "24443",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "POECWTD",
-			"name": "Polit Econ World Trade&Develo"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"POECUPAPP",
+		"POECWTD",
+		"POECUPWTD"
 	],
-	"title": "Statistical Tools for Quantitative Reasoning"
+	"title": "Statistical Tools for Quantitative Reasoning",
+	"type": "Course"
 }

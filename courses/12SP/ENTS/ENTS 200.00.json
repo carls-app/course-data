@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -41,22 +42,11 @@
 	"summary": "The production and consumption of food is a seemingly mundane activity in our lives. Yet, how we respond to food and our consumptive practices mirror our sense of place, our capacity for self-control, our health, the ways in which we impact the world food production system, and the natural environment. In this course, students will study modern agro-food systems and their social and ecological impacts in Ethiopia. The group will visit various sites throughout the program, including large and small scale farms, agro-forestry systems, and examples of urban agriculture.",
 	"synonym": "29729",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSCDSCP",
+		"ENTSFASCP",
+		"ENTSLPSCP"
 	],
-	"title": "Food and Agriculture"
+	"title": "Food and Agriculture",
+	"type": "Course"
 }

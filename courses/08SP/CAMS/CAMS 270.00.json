@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melody S Gilbert"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "19067",
 	"tags": [
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSSTUPROD",
+		"CAMSELECPROD",
+		"CAMSELECTIVE"
 	],
-	"title": "Nonfiction Video Production"
+	"title": "Nonfiction Video Production",
+	"type": "Course"
 }

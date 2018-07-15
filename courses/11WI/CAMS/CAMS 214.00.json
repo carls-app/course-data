@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,18 +41,10 @@
 	"summary": "This course is designed to introduce students to film history, 1970-present, and the multiple permutations of cinema around the globe. The course charts the development of the New American cinema since the mid-1970s while examining the effects of media consolidation and convergence. Moreover, the course seeks to examine how global cinemas have reacted to and dealt with the formal influence and economic domination of Hollywood film making on international audiences. Class lectures, screenings, and discussions will consider how cinema has changed from a primarily national phenomenon to a transnational form of communication in the twenty-first century.",
 	"synonym": "26820",
 	"tags": [
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"CAMS200HIST",
+		"CAMSELECTIVE",
+		"EUSTTRANNATL"
 	],
-	"title": "Film History III"
+	"title": "Film History III",
+	"type": "Course"
 }

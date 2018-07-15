@@ -8,7 +8,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "100.04",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "20976",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Milton,Shelley & Pullman"
+	"title": "Milton,Shelley & Pullman",
+	"type": "Course"
 }

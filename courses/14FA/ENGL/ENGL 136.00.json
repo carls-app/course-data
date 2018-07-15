@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aisha E Sloan"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -54,22 +46,11 @@
 	"summary": "What does it mean to be black in the twenty-first century? In this course, we will practice literary analysis by engaging with texts that explore this question across continents and genres, including: Hilton Als'",
 	"synonym": "37897",
 	"tags": [
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMDISTROAL",
+		"ENGLF",
+		"ENGLT3",
+		"AFAMARTSPRAC"
 	],
-	"title": "Twenty-first Century Black Voices"
+	"title": "Twenty-first Century Black Voices",
+	"type": "Course"
 }

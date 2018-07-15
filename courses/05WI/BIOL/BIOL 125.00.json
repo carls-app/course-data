@@ -9,7 +9,7 @@
 		"Mark McKone",
 		"Catherine A Reinke"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 104,
 		"total": 110,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "9341",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Intro: Genes & Evolution"
+	"title": "Intro: Genes & Evolution",
+	"type": "Course"
 }

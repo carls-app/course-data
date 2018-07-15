@@ -6,7 +6,7 @@
 	"instructors": [
 		"Iona Italia"
 	],
-	"number": "324.00",
+	"number": "324",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "2157",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "Scotland & the Scot in Lit"
+	"title": "Scotland & the Scot in Lit",
+	"type": "Course"
 }

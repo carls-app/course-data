@@ -8,20 +8,15 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "269.07",
+	"number": "269",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -31,18 +26,10 @@
 	"summary": null,
 	"synonym": "29939",
 	"tags": [
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMPERT",
+		"LTAMLIT",
+		"LTAMELECTIVE"
 	],
-	"title": "Peru Program: Diversity, Conflict and Culture in Peru"
+	"title": "Peru Program: Diversity, Conflict and Culture in Peru",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Staff",
 		"John G Ramsay"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "2212",
 	"tags": [],
-	"title": "Student Teaching"
+	"title": "Student Teaching",
+	"type": "Course"
 }

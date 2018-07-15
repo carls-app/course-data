@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "19077",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"EUSTCNTRY",
+		"ENGLLOE"
 	],
-	"title": "Community and the Individual"
+	"title": "Community and the Individual",
+	"type": "Course"
 }

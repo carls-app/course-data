@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -22,6 +22,7 @@
 	"prerequisites": "Prerequisite: Classics 394",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 10,
@@ -31,5 +32,6 @@
 	"summary": "From proposals (\"abstracts\") developed in Classics 394, departmental majors will compose a twenty minute presentation to be delivered at a symposium on the model of professional conferences. The talks will then be revised into articles to be submitted to a journal of professional style, accepted and edited by the group into a presentable volume. Prerequisite: Classics 394.",
 	"synonym": "25703",
 	"tags": [],
-	"title": "Senior Symposium"
+	"title": "Senior Symposium",
+	"type": "Course"
 }

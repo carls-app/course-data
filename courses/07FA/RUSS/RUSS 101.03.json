@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "101.03",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "19606",
 	"tags": [],
-	"title": "Elementary Russian"
+	"title": "Elementary Russian",
+	"type": "Course"
 }

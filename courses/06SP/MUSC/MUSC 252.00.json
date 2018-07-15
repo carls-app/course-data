@@ -9,11 +9,12 @@
 		"John Ellinger",
 		"James Flegel"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 5,
@@ -23,5 +24,6 @@
 	"summary": null,
 	"synonym": "12766",
 	"tags": [],
-	"title": "Guitar"
+	"title": "Guitar",
+	"type": "Course"
 }

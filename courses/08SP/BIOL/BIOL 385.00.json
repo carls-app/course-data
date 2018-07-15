@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pam Middleton"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "19841",
 	"tags": [],
-	"title": "Sel Tpcs in Cell Signaling"
+	"title": "Sel Tpcs in Cell Signaling",
+	"type": "Course"
 }

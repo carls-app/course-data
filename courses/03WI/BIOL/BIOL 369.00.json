@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3412",
 	"tags": [],
-	"title": "Topics-Parasitism/Mutualism"
+	"title": "Topics-Parasitism/Mutualism",
+	"type": "Course"
 }

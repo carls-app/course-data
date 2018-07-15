@@ -6,7 +6,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 14,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1992",
 	"tags": [],
-	"title": "Beginning Acting"
+	"title": "Beginning Acting",
+	"type": "Course"
 }

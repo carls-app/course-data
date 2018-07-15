@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 20,
@@ -44,5 +45,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Homer:The Odyssey"
+	"title": "Homer:The Odyssey",
+	"type": "Course"
 }

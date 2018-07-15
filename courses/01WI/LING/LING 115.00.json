@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "722",
 	"tags": [],
-	"title": "Intro to the Theory of Syntax"
+	"title": "Intro to the Theory of Syntax",
+	"type": "Course"
 }

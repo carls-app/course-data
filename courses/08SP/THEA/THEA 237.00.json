@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "19585",
 	"tags": [],
-	"title": "Topics in Theater Design"
+	"title": "Topics in Theater Design",
+	"type": "Course"
 }

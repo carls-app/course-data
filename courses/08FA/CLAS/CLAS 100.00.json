@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21783",
 	"tags": [],
-	"title": "Power and Persuasion"
+	"title": "Power and Persuasion",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jon Armajani"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2634",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Introduction to Christianity"
+	"title": "Introduction to Christianity",
+	"type": "Course"
 }

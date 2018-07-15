@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "350.02",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "12974",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Advanced Ceramics"
+	"title": "Advanced Ceramics",
+	"type": "Course"
 }

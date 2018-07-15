@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "106.00",
+	"number": "106",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": "This course is designed to provide an understanding of fundamental concepts, and examples of applications, of mathematics. It attempts to provide insights into the nature of mathematics and its relation to other branches of knowledge, and helps students develop skill in mathematical reasoning. No prerequisites.",
 	"synonym": "23268",
 	"tags": [],
-	"title": "Introduction to Mathematics"
+	"title": "Introduction to Mathematics",
+	"type": "Course"
 }

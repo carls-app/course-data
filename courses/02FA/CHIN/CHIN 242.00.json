@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ping Fu"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4296",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Women and World Cinema"
+	"title": "Women and World Cinema",
+	"type": "Course"
 }

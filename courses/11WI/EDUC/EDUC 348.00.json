@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Schneider"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Senior standing and Instructor Permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 3,
@@ -38,5 +39,6 @@
 	"summary": "Structure, methodology, strategies, and materials for teaching sociology-anthropology, psychology, economics, political science, geography and history in grades 5-12.",
 	"synonym": "25898",
 	"tags": [],
-	"title": "Methods of Teaching Social Studies"
+	"title": "Methods of Teaching Social Studies",
+	"type": "Course"
 }

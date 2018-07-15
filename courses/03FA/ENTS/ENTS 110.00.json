@@ -9,7 +9,7 @@
 		"Julie Klassen",
 		"Gary E Wagenbach"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "7865",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSINTRO",
+		"ENTSLAB"
 	],
-	"title": "Intro: Envisioning Landscapes"
+	"title": "Intro: Envisioning Landscapes",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Lawrence Wichlinski",
 		""
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -40,10 +41,8 @@
 	"summary": null,
 	"synonym": "21221",
 	"tags": [
-		{
-			"code": "NEURCAP",
-			"name": "NEUR Capstone"
-		}
+		"NEURCAP"
 	],
-	"title": "Neuroscience Capstone Seminar"
+	"title": "Neuroscience Capstone Seminar",
+	"type": "Course"
 }

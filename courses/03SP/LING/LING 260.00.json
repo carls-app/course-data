@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "4723",
 	"tags": [],
-	"title": "Historical Linguistics"
+	"title": "Historical Linguistics",
+	"type": "Course"
 }

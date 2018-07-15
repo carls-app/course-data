@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"AMSTTOPICAL1",
 		"LITFORLANG"
 	],
-	"title": "American Literature"
+	"title": "American Literature",
+	"type": "Course"
 }

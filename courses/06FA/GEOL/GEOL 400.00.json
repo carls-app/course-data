@@ -6,11 +6,12 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "15397",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

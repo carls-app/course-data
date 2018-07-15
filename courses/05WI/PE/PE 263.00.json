@@ -8,16 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 40,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "11782",
 	"tags": [],
-	"title": "Skiing/Nordic Club"
+	"title": "Skiing/Nordic Club",
+	"type": "Course"
 }

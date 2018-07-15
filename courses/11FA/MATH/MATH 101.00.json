@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -41,12 +41,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have received credit for Math 111.",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -56,5 +54,6 @@
 	"summary": "An introduction to the central ideas of calculus with review and practice of those skills needed for the continued study of calculus. Problem solving strategies will be emphasized. (Meets Monday through Friday).",
 	"synonym": "28963",
 	"tags": [],
-	"title": "Calculus with Problem Solving"
+	"title": "Calculus with Problem Solving",
+	"type": "Course"
 }

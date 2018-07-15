@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -46,26 +44,12 @@
 	"summary": "This course introduces students to the diverse literature and theologies of the New Testament and to the origins and social worlds of early Christian movements. Possible topics include: Jesus and his message; Paul and women's spiritual authority; non-canonical gospels (Mary, Thomas, Judas, etc.); relations between Christians and Jews in the first century; and more. Attention is given to the interpretation of New Testament texts in their historical settings, and to the various ways contemporary scholars and groups interpret the New Testament as a source for theological reflection.",
 	"synonym": "37360",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"MARSCORE",
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHSOCLPWR",
+		"ENGLFORLIT"
 	],
-	"title": "Jesus, Paul, and Christian Origins (New Testament)"
+	"title": "Jesus, Paul, and Christian Origins (New Testament)",
+	"type": "Course"
 }

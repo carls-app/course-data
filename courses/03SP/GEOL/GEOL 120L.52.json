@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "120L.52",
+	"number": "120L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "6156",
 	"tags": [],
-	"title": "Environmental Geology Lab"
+	"title": "Environmental Geology Lab",
+	"type": "Lab"
 }

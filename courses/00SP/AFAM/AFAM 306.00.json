@@ -8,7 +8,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -42,5 +43,6 @@
 		"CCSTETHNIC",
 		"AFAMDISTROSS"
 	],
-	"title": "Urban Racial&Ethnic Politics"
+	"title": "Urban Racial&Ethnic Politics",
+	"type": "Course"
 }

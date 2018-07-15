@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "1385",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		}
+		"FRSTELECAL",
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"FRSTLANGLIT"
 	],
-	"title": "Literature of the Other"
+	"title": "Literature of the Other",
+	"type": "Course"
 }

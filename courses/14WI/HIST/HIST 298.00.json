@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -46,14 +44,9 @@
 	"summary": "In the junior year, majors must take six-credit reading and discussion course taught each year by different members of the department faculty. The general purpose of History 298 is to help students reach a more sophisticated understanding of the nature of history as a discipline and of the approaches and methods of historians. A major who is considering off-campus study in the junior year should consult with their adviser on when to take History 298.",
 	"synonym": "35966",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		}
+		"ASSTMETH",
+		"ASSTDISC"
 	],
-	"title": "Junior-year History Colloquium"
+	"title": "Junior-year History Colloquium",
+	"type": "Course"
 }

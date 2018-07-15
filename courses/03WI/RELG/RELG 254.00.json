@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paula K Arai"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "4125",
 	"tags": [],
-	"title": "Delusion & Enlightenment"
+	"title": "Delusion & Enlightenment",
+	"type": "Course"
 }

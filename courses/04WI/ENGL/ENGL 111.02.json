@@ -8,7 +8,7 @@
 	"instructors": [
 		"Allison L Wee"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "6915",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"LITFORLANG",
+		"EUSTCNTRY"
 	],
-	"title": "English Literature II"
+	"title": "English Literature II",
+	"type": "Course"
 }

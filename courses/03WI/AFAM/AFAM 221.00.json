@@ -9,7 +9,7 @@
 	"instructors": [
 		"Andrew Rosa"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 35,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "4527",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"AMSTSURVEY2",
+		"AFAMDISTROHU"
 	],
-	"title": "African American History II"
+	"title": "African American History II",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "14091",
 	"tags": [
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"PHILTHEORY"
 	],
-	"title": "Philosophy of Biology"
+	"title": "Philosophy of Biology",
+	"type": "Course"
 }

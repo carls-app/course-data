@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron D Rushing"
 	],
-	"number": "194.00",
+	"number": "194",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18952",
 	"tags": [],
-	"title": "Weight Training"
+	"title": "Weight Training",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "23025",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		}
+		"ENGLHE3",
+		"AFAMSENIORSEM"
 	],
-	"title": "Nabokov"
+	"title": "Nabokov",
+	"type": "Course"
 }

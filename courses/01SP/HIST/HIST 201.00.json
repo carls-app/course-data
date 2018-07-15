@@ -9,7 +9,7 @@
 	"instructors": [
 		"Donald Lateiner"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -46,5 +47,6 @@
 	"tags": [
 		"HISTEUR1450"
 	],
-	"title": "Greek History"
+	"title": "Greek History",
+	"type": "Course"
 }

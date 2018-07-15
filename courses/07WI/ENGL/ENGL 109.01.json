@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "109.01",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15809",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

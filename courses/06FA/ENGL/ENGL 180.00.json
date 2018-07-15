@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dennis M Cass"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "16856",
 	"tags": [],
-	"title": "Creative Non-Fiction"
+	"title": "Creative Non-Fiction",
+	"type": "Course"
 }

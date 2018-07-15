@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "21492",
 	"tags": [],
-	"title": "Methods/Teaching Mathematics"
+	"title": "Methods/Teaching Mathematics",
+	"type": "Course"
 }

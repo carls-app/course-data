@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -39,5 +40,6 @@
 		"ENGL3",
 		"LITFORLANG"
 	],
-	"title": "Nineteenth-Century Fiction"
+	"title": "Nineteenth-Century Fiction",
+	"type": "Course"
 }

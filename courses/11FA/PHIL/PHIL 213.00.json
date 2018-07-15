@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "213.00",
+	"number": "213",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -45,14 +40,9 @@
 	"summary": "How should we live? This is the fundamental question for the study of ethics. This course looks at classic and contemporary answers to the fundamental question from Socrates to Kant to modern day thinkers. Along the way, we consider slightly (but only slightly) more tractable questions such as: What reason is there to be moral? Is there such a thing as moral knowledge (and if so, how do we get it)? What are the fundamental principles of right and wrong (if there are any at all)? Is morality objective?",
 	"synonym": "30086",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"SPECINTETHICS",
+		"PHILCORE"
 	],
-	"title": "Ethics"
+	"title": "Ethics",
+	"type": "Course"
 }

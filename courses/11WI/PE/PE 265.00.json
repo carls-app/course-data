@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron J Chaput"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -38,5 +36,6 @@
 	"summary": null,
 	"synonym": "26394",
 	"tags": [],
-	"title": "Alpine Ski Club"
+	"title": "Alpine Ski Club",
+	"type": "Course"
 }

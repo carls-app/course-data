@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 215 or 275 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"FSR",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 28,
@@ -50,5 +45,6 @@
 	"summary": null,
 	"synonym": "29022",
 	"tags": [],
-	"title": "Topics in Probability and Statistics: Statistical Computing"
+	"title": "Topics in Probability and Statistics: Statistical Computing",
+	"type": "Course"
 }

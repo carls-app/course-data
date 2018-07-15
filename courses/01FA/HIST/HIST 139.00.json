@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "139.00",
+	"number": "139",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 50,
@@ -44,5 +45,6 @@
 		"HISTEUR1451",
 		"CCSTREGIONAL"
 	],
-	"title": "Foundations of Modern Europe"
+	"title": "Foundations of Modern Europe",
+	"type": "Course"
 }

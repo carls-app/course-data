@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "303.00",
+	"number": "303",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "20104",
 	"tags": [],
-	"title": "Music of the 20th Century II"
+	"title": "Music of the 20th Century II",
+	"type": "Course"
 }

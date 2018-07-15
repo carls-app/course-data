@@ -6,11 +6,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "227.07",
+	"number": "227",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "25429",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Russia: East & West"
+	"title": "Russia: East & West",
+	"type": "Course"
 }

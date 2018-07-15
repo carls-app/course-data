@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111 and Mathematics 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -41,5 +42,6 @@
 	"summary": "An analysis of the forces determining relative prices within the framework of production and distribution. This class is normally taken by juniors. Sophomores considering enrolling should speak to the instructor.",
 	"synonym": "24392",
 	"tags": [],
-	"title": "Intermediate Price Theory"
+	"title": "Intermediate Price Theory",
+	"type": "Course"
 }

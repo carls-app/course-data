@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "801",
 	"tags": [],
-	"title": "Politics and Ambition"
+	"title": "Politics and Ambition",
+	"type": "Course"
 }

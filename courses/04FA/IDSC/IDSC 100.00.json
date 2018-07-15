@@ -9,7 +9,7 @@
 		"Ronald Rodman",
 		"Susan Jaret McKinstry"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "10844",
 	"tags": [],
-	"title": "Music and Narrative"
+	"title": "Music and Narrative",
+	"type": "Course"
 }

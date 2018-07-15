@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9400",
 	"tags": [],
-	"title": "Computational Chem Lab"
+	"title": "Computational Chem Lab",
+	"type": "Course"
 }

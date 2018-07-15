@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 40,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "16431",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		},
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		}
+		"CGSCCORE",
+		"SPECINTPHILSCI"
 	],
-	"title": "Logic"
+	"title": "Logic",
+	"type": "Course"
 }

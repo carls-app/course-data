@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3797",
 	"tags": [],
-	"title": "Natural Language Processing"
+	"title": "Natural Language Processing",
+	"type": "Course"
 }

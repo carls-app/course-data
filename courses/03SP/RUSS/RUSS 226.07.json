@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "226.07",
+	"number": "226",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "4969",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "Family Happiness"
+	"title": "Family Happiness",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Stephen T Campagna-Pinto"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "2299",
 	"tags": [],
-	"title": "Religion & American Culture I"
+	"title": "Religion & American Culture I",
+	"type": "Course"
 }

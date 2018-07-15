@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "12011",
 	"tags": [],
-	"title": "Introduction to Chemistry"
+	"title": "Introduction to Chemistry",
+	"type": "Course"
 }

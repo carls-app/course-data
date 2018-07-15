@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,14 +41,9 @@
 	"summary": "Is personal ambition a threat to peace and the public good or is it a prod to nobility and heroism? Does it exemplify the opposition between self and society or does it represent their intersection and mutual support­--or both? Drawing on literary, philosophical, and historical works this course will take up these and other questions as part of a broad examination of the role of ambition in politics.",
 	"synonym": "27064",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"POSI-LPS",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Politics and Ambition"
+	"title": "Politics and Ambition",
+	"type": "Course"
 }

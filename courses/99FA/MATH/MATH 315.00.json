@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric R Westlund"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2312",
 	"tags": [],
-	"title": "Probability Theory"
+	"title": "Probability Theory",
+	"type": "Course"
 }

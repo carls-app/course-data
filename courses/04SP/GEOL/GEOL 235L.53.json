@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jennifer L Macalady"
 	],
-	"number": "235L.53",
+	"number": "235L",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "8434",
 	"tags": [],
-	"title": "Geomicrobiology Laboratory"
+	"title": "Geomicrobiology Laboratory",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "152L.52",
+	"number": "152L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22838",
 	"tags": [],
-	"title": "Environmental Physics Lab"
+	"title": "Environmental Physics Lab",
+	"type": "Lab"
 }

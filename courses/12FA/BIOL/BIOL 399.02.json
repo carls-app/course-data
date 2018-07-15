@@ -8,11 +8,12 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "399.02",
+	"number": "399",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Biology 125, 126 and 3-upper-level Biology courses; BIOL 400",
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 40,
@@ -22,5 +23,6 @@
 	"summary": "Guided instruction in reading and interpretation of contemporary primary literature in Biology.",
 	"synonym": "34170",
 	"tags": [],
-	"title": "Critical Reading and Analysis of Primary Literature"
+	"title": "Critical Reading and Analysis of Primary Literature",
+	"type": "Course"
 }

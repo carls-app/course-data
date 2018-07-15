@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -54,30 +46,13 @@
 	"summary": "Contemporary Indian writers, based either in India or abroad, have become significant figures in the global literary landscape. This can be traced to the publication of Salman Rushdie's second novel,",
 	"synonym": "25847",
 	"tags": [
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"SAST",
+		"ENGLHE3",
+		"ENGLT3",
+		"ASSTSOUTH",
+		"ASSTAL",
+		"ENGL4"
 	],
-	"title": "Contemporary Indian Fiction"
+	"title": "Contemporary Indian Fiction",
+	"type": "Course"
 }

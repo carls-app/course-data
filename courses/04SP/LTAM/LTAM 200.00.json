@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "7772",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"CCSTREGIONAL"
 	],
-	"title": "Issues-Latin American Studies"
+	"title": "Issues-Latin American Studies",
+	"type": "Course"
 }

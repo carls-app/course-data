@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kai Herklotz"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "19610",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		}
+		"CAMSELECTIVE",
+		"CAMSXDEPT"
 	],
-	"title": "German Film after WWII"
+	"title": "German Film after WWII",
+	"type": "Course"
 }

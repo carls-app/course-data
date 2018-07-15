@@ -8,20 +8,15 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "229.07",
+	"number": "229",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 205 or higher",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -31,10 +26,8 @@
 	"summary": "This course offers a fresh look of Spain's current political life as seen through the eyes of a committed journalist with hands-on experience in the matter.",
 	"synonym": "39374",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Madrid Program: Current Issues in Spanish Politics"
+	"title": "Madrid Program: Current Issues in Spanish Politics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Physics 335 or 346",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 24,
@@ -41,5 +42,6 @@
 	"summary": "An introduction to the physics of solids. Particular attention is paid to the properties exhibited by atoms and molecules because of their association and regular periodic arrangement in crystals. Topics include crystal structure and diffraction, the reciprocal lattice, phonons and lattice vibrations, thermal properties, free-electron theory and band structure.",
 	"synonym": "24843",
 	"tags": [],
-	"title": "Solid State Physics"
+	"title": "Solid State Physics",
+	"type": "Course"
 }

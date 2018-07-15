@@ -8,7 +8,7 @@
 	"instructors": [
 		"Blake D Ratner"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "51",
 	"tags": [],
-	"title": "Sociology of Environmental Chg"
+	"title": "Sociology of Environmental Chg",
+	"type": "Course"
 }

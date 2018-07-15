@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "24415",
 	"tags": [
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"ENTSCDSCP"
 	],
-	"title": "Demography of the Family"
+	"title": "Demography of the Family",
+	"type": "Course"
 }

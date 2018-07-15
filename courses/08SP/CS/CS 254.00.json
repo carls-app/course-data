@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18776",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Automata & Computability"
+	"title": "Automata & Computability",
+	"type": "Course"
 }

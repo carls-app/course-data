@@ -6,7 +6,7 @@
 	"instructors": [
 		"Suzanne L Wisniewski"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "13181",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE"
 	],
-	"title": "International Trade"
+	"title": "International Trade",
+	"type": "Course"
 }

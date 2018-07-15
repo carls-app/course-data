@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "110.09",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "09",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "8003",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"HISTLTAM",
+		"MARSSUPP"
 	],
-	"title": "Conquest&Survival Indig Mex"
+	"title": "Conquest&Survival Indig Mex",
+	"type": "Course"
 }

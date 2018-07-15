@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sheila Wright"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "3037",
 	"tags": [],
-	"title": "Methods of Teaching Art"
+	"title": "Methods of Teaching Art",
+	"type": "Course"
 }

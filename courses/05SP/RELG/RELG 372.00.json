@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paula K Arai"
 	],
-	"number": "372.00",
+	"number": "372",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "10535",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Medicine, Healing & Spiritlty"
+	"title": "Medicine, Healing & Spiritlty",
+	"type": "Course"
 }

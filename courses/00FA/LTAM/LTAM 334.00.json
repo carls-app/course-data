@@ -9,7 +9,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"LTAMELECTIVE",
 		"LTAM300LIT"
 	],
-	"title": "Texts & Nations: 19th C Ltam"
+	"title": "Texts & Nations: 19th C Ltam",
+	"type": "Course"
 }

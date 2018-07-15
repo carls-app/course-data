@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pori Park"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "3800",
 	"tags": [],
-	"title": "Korean Religion & Culture"
+	"title": "Korean Religion & Culture",
+	"type": "Course"
 }

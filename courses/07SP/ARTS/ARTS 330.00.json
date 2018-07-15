@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "16348",
 	"tags": [],
-	"title": "Advanced Ceramics"
+	"title": "Advanced Ceramics",
+	"type": "Course"
 }

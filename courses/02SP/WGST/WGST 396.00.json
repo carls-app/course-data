@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer C Manion"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2664",
 	"tags": [],
-	"title": "Sexualities"
+	"title": "Sexualities",
+	"type": "Course"
 }

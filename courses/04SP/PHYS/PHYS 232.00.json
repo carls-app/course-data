@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6411",
 	"tags": [],
-	"title": "Astrophysics I"
+	"title": "Astrophysics I",
+	"type": "Course"
 }

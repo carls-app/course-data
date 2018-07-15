@@ -8,16 +8,14 @@
 	"instructors": [
 		"Gerald L Young"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "22372",
 	"tags": [],
-	"title": "Independent Activities"
+	"title": "Independent Activities",
+	"type": "Course"
 }

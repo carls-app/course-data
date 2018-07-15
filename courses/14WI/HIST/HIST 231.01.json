@@ -8,7 +8,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "231.01",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -33,24 +33,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -60,30 +49,13 @@
 	"summary": "This course will explore early maps primarily in medieval and early modern Europe. After an introduction to the rhetoric of maps and world cartography, we will examine the functions and forms of medieval European and Islamic maps and then look closely at the continuities and transformations in map-making during the period of European exploration. The focus of the course will be on understanding each map within its own cultural context and how maps can be used to answer historical questions. We will work closely with the maps in Gould Library Special Collections to expand campus awareness of the collection.",
 	"synonym": "36418",
 	"tags": [
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		},
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"SPECINTBOOKSTD",
+		"SPECINTPHILSCI",
+		"HISTANCNT/MDVL",
+		"MARSCORE",
+		"MARSSUPP",
+		"EUSTTRANNATL"
 	],
-	"title": "Mapping the World Before Mercator"
+	"title": "Mapping the World Before Mercator",
+	"type": "Course"
 }

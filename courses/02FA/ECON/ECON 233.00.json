@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "5309",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTELEC"
 	],
-	"title": "European Economic History"
+	"title": "European Economic History",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "18292",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSI-DSS",
+		"POSCADVSEM"
 	],
-	"title": "Power, Protest & Grassroots"
+	"title": "Power, Protest & Grassroots",
+	"type": "Course"
 }

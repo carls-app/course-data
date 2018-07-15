@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "220.03",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 9,
 		"total": 14,
@@ -38,5 +39,6 @@
 	"summary": "Instruction and practice in being a speaker and an audience in formal and informal settings.",
 	"synonym": "25428",
 	"tags": [],
-	"title": "Arts of Oral Presentation"
+	"title": "Arts of Oral Presentation",
+	"type": "Course"
 }

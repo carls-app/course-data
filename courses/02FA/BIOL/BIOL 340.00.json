@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly A Baker"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3368",
 	"tags": [],
-	"title": "Developmental Genetics"
+	"title": "Developmental Genetics",
+	"type": "Course"
 }

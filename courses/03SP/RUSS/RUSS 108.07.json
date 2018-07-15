@@ -9,11 +9,12 @@
 		"",
 		"Diane M Nemec Ignashev"
 	],
-	"number": "108.07",
+	"number": "108",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "4964",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Beginning Phonetics"
+	"title": "Beginning Phonetics",
+	"type": "Course"
 }

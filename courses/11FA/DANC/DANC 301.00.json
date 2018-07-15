@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kenna J Sarge"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": "Prerequisite: Some previous dance experience.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -36,14 +34,9 @@
 	"summary": "A physical exploration of the technical, theoretical and stylistic bases of different approaches to modern dance movement chosen yearly from such techniques as: Body Mind Centering; Limon; Cunningham; Graham; African-Caribbean.",
 	"synonym": "30192",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AFAMARTSPRAC",
-			"name": "AFAM Arts Practice"
-		}
+		"AFAMPERT",
+		"AFAMARTSPRAC"
 	],
-	"title": "Contemporary Styles and Techniques: African Dance"
+	"title": "Contemporary Styles and Techniques: African Dance",
+	"type": "Course"
 }

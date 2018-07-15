@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Cinema and Media Studies 111 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "22890",
 	"tags": [
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSSTUPROD",
+		"CAMSELECPROD",
+		"CAMSELECTIVE"
 	],
-	"title": "Nonfiction I"
+	"title": "Nonfiction I",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "4387",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		}
+		"HISTEUR1451"
 	],
-	"title": "German Revolutions of 1848"
+	"title": "German Revolutions of 1848",
+	"type": "Course"
 }

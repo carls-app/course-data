@@ -8,7 +8,7 @@
 	"instructors": [
 		"John W Weiss"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 42,
@@ -48,10 +46,8 @@
 	"summary": null,
 	"synonym": "22828",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		}
+		"SPECINTPHILSCI"
 	],
-	"title": "Revolutions in Physics"
+	"title": "Revolutions in Physics",
+	"type": "Course"
 }

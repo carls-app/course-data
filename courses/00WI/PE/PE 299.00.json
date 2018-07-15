@@ -8,16 +8,14 @@
 	"instructors": [
 		"Jerry Pardue"
 	],
-	"number": "299.00",
+	"number": "299",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "3407",
 	"tags": [],
-	"title": "Wrestling Intercollegiate"
+	"title": "Wrestling Intercollegiate",
+	"type": "Course"
 }

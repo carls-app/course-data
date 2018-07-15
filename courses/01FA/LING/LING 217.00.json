@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1018",
 	"tags": [],
-	"title": "Phonetics & Phonology"
+	"title": "Phonetics & Phonology",
+	"type": "Course"
 }

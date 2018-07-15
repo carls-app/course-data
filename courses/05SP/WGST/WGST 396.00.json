@@ -8,7 +8,7 @@
 	"instructors": [
 		"Karina A Eileraas"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "10886",
 	"tags": [
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"WGSTCAP"
 	],
-	"title": "Sexuality Revolution in Exile"
+	"title": "Sexuality Revolution in Exile",
+	"type": "Course"
 }

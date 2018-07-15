@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kara D Sage"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "An introduction to the concept of development, examining both theoretical models and empirical evidence. Prenatal through late childhood is covered with some discussion of adolescence when time permits. Topics include the development of personality and identity, social behavior and knowledge, and cognition. In addition, attention is paid to current applications of theory to such topics as: day care, the role of the media, and parenting.",
 	"synonym": "32251",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Developmental Psychology"
+	"title": "Developmental Psychology",
+	"type": "Course"
 }

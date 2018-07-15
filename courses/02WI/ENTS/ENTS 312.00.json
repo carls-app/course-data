@@ -9,7 +9,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 18,
@@ -39,22 +40,11 @@
 	"summary": null,
 	"synonym": "1206",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTGLOBAL",
+		"ENTSSP",
+		"ENTSINTL",
+		"LTAMELECTIVE"
 	],
-	"title": "Third World \"Development\""
+	"title": "Third World \"Development\"",
+	"type": "Course"
 }

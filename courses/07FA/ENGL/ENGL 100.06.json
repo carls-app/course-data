@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "06",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "18682",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Reading,Interpreting&Writing"
+	"title": "Reading,Interpreting&Writing",
+	"type": "Course"
 }

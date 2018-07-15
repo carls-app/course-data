@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "9416",
 	"tags": [],
-	"title": "Plant Development Laboratory"
+	"title": "Plant Development Laboratory",
+	"type": "Course"
 }

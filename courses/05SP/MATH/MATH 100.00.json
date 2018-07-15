@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steve Galovich"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "11813",
 	"tags": [],
-	"title": "Surreal Numbers"
+	"title": "Surreal Numbers",
+	"type": "Course"
 }

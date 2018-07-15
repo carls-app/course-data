@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "10485",
 	"tags": [],
-	"title": "Embodied Cognition"
+	"title": "Embodied Cognition",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -41,22 +42,11 @@
 	"summary": "This course offers a critical survey of the modern transformation of the trajectory of China's recent past spanning from the eighteenth century through the present. Students will analyze deep structural issues that cut across political narratives of Chinese elites. Themes for discussion will include the debates on Chinese \"capitalism,\" new religious currents as a form of legitimation (e.g., Tibetan Buddhism), bureaucratic behaviors, cultural refinements, peasant and sectarian rebellions, the interaction with the West, the (non-)existence of civil society, nationalism, party politics, the dynamics of Communist rule, and alternative Chinese societies both inside and outside of Mainland China.",
 	"synonym": "24151",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "History of Modern China"
+	"title": "History of Modern China",
+	"type": "Course"
 }

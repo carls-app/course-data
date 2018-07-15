@@ -6,7 +6,7 @@
 	"instructors": [
 		"Victoria Morse"
 	],
-	"number": "138.00",
+	"number": "138",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 50,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "1776",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL"
 	],
-	"title": "Making of Europe,1050-1500"
+	"title": "Making of Europe,1050-1500",
+	"type": "Course"
 }

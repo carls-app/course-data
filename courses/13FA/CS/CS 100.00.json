@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"CMC 301"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"AI",
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -56,5 +48,6 @@
 	"summary": "Technology permeates every aspect of our lives: how we work, play, and communicate; our finances and health; etc. Technology can facilitate these, or make it difficult to perform simple tasks or express what we want to accomplish. We'll take a critical look at the interfaces between technology and people, examining what makes these user interfaces effective, practicing key design principles through case studies and design projects, and discussing legal, ethical, and social issues in interface design, particularly the accessibility, privacy, and environmental impacts. No computer science experience is necessary.",
 	"synonym": "35006",
 	"tags": [],
-	"title": "Human Centered Computing"
+	"title": "Human Centered Computing",
+	"type": "Course"
 }

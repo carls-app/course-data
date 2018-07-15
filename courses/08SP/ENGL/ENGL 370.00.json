@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane H Hamilton"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19427",
 	"tags": [],
-	"title": "Adv Crafts Writing:Short Story"
+	"title": "Adv Crafts Writing:Short Story",
+	"type": "Course"
 }

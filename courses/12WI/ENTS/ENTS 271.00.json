@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": null,
 	"synonym": "29726",
 	"tags": [
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECWTD",
-			"name": "Polit Econ World Trade&Develo"
-		}
+		"ENTSCORE",
+		"POSI-GDS",
+		"POECWTD"
 	],
-	"title": "Environmental Economics and Policy"
+	"title": "Environmental Economics and Policy",
+	"type": "Course"
 }

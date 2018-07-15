@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary Ann Kelling"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Arena Theater THEA"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "22150",
 	"tags": [],
-	"title": "Topics-Thea: Costume Design"
+	"title": "Topics-Thea: Costume Design",
+	"type": "Course"
 }

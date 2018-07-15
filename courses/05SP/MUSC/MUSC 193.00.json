@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "193.00",
+	"number": "193",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 6,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "10389",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Mbira Ensemble"
+	"title": "Mbira Ensemble",
+	"type": "Course"
 }

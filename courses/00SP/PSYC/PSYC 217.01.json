@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Wichlinski"
 	],
-	"number": "217.01",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Hulings 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2606",
 	"tags": [],
-	"title": "Rsch Mthds/Behavioral Neurosci"
+	"title": "Rsch Mthds/Behavioral Neurosci",
+	"type": "Course"
 }

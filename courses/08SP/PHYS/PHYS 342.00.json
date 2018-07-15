@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 48,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17786",
 	"tags": [],
-	"title": "Contemp Experimental Physics"
+	"title": "Contemp Experimental Physics",
+	"type": "Course"
 }

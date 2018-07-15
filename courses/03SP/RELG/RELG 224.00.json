@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4135",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Women and Christianity"
+	"title": "Women and Christianity",
+	"type": "Course"
 }

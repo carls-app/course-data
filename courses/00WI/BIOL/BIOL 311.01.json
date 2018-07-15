@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bing Yang"
 	],
-	"number": "311.01",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Hulings 206"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2528",
 	"tags": [],
-	"title": "Immunology Laboratory"
+	"title": "Immunology Laboratory",
+	"type": "Course"
 }

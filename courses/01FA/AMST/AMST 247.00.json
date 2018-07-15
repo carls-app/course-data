@@ -9,7 +9,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"AMSTTOPICAL1"
 	],
-	"title": "Modern Architecture"
+	"title": "Modern Architecture",
+	"type": "Course"
 }

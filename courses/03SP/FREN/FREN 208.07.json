@@ -8,11 +8,12 @@
 	"instructors": [
 		""
 	],
-	"number": "208.07",
+	"number": "208",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "4847",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		}
+		"FRSTELECAL",
+		"EUSTOFFCAMP",
+		"FRSTLANGLIT"
 	],
-	"title": "Composition and Conversation"
+	"title": "Composition and Conversation",
+	"type": "Course"
 }

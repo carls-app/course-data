@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "20974",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ENGLF",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Shakespeare on Film"
+	"title": "Shakespeare on Film",
+	"type": "Course"
 }

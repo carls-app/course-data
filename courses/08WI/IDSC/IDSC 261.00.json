@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19790",
 	"tags": [],
-	"title": "Economics and Social Justice"
+	"title": "Economics and Social Justice",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David B Hollenberg"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "11800",
 	"tags": [],
-	"title": "Introduction to Judaism"
+	"title": "Introduction to Judaism",
+	"type": "Course"
 }

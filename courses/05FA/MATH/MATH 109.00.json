@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 28,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "12314",
 	"tags": [],
-	"title": "Calculus I with Review (1)"
+	"title": "Calculus I with Review (1)",
+	"type": "Course"
 }

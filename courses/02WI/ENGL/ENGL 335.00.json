@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carol W Oliver"
 	],
-	"number": "335.00",
+	"number": "335",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "710",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "Std in Amer Lit: Amer Realism"
+	"title": "Std in Amer Lit: Amer Realism",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David W Singley"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 50,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "4409",
 	"tags": [],
-	"title": "Carleton Jazz Ensemble"
+	"title": "Carleton Jazz Ensemble",
+	"type": "Course"
 }

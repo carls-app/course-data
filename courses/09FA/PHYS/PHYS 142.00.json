@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 121 (completion or concurrent registration) and strong preparation in physics. Not open to students who have completed Physics 131, 132, or 141 at Carleton; Concurrent registration in Physics 142L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": "An introduction to Newtonian mechanics using calculus. The kinematics and dynamics of objects in motion are investigated using Newton's laws and related conservation laws. Examples of systems studied include table-top objects, simple astronomical systems, or objects in harmonic motion. This section emphasizes a bottom-up atomic perspective and introduces a computational approach to allow the consideration of atoms and molecules inside solids as well. Weekly laboratory or computational work.",
 	"synonym": "22783",
 	"tags": [],
-	"title": "Introductory Mechanics: Matter and Interactions"
+	"title": "Introductory Mechanics: Matter and Interactions",
+	"type": "Course"
 }

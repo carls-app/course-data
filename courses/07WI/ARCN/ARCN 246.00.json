@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "14932",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		}
+		"MARSSUPP",
+		"MARSCORE",
+		"SOANPERT"
 	],
-	"title": "Archaeological Methodology"
+	"title": "Archaeological Methodology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": null,
 	"synonym": "27032",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"AMSTTOPICAL3",
+		"POSI-DSS"
 	],
-	"title": "Citizen and Immigration Politics"
+	"title": "Citizen and Immigration Politics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL2",
 		"CCSTETHNIC"
 	],
-	"title": "Native American Religions"
+	"title": "Native American Religions",
+	"type": "Course"
 }

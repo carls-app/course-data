@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "121.02",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 1,
 		"total": 15,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "2084",
 	"tags": [],
-	"title": "Fencing, Intermediate"
+	"title": "Fencing, Intermediate",
+	"type": "Course"
 }

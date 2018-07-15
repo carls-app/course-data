@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael Leming"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2717",
 	"tags": [],
-	"title": "Death, Dying and Bereavement"
+	"title": "Death, Dying and Bereavement",
+	"type": "Course"
 }

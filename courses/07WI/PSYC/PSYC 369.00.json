@@ -7,7 +7,7 @@
 		"Steven F Kozberg",
 		"Lawrence Wichlinski"
 	],
-	"number": "369.00",
+	"number": "369",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15010",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Behavioral Medicine"
+	"title": "Behavioral Medicine",
+	"type": "Course"
 }

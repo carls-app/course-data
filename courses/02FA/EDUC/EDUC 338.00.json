@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lance T McCready"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4939",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS"
 	],
-	"title": "Multicultural Education"
+	"title": "Multicultural Education",
+	"type": "Course"
 }

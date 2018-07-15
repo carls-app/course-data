@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brent E Cusher"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "13792",
 	"tags": [
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELEC",
+		"FRSTSUPP"
 	],
-	"title": "Modern Political Philosophy"
+	"title": "Modern Political Philosophy",
+	"type": "Course"
 }

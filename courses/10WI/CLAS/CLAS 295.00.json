@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 10,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "24287",
 	"tags": [],
-	"title": "Junior Skills Portfolio"
+	"title": "Junior Skills Portfolio",
+	"type": "Course"
 }

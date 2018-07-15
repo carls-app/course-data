@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "186.00",
+	"number": "186",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center PL16"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -43,5 +41,6 @@
 	"summary": "The Carleton Singers is a small, highly select vocal group dedicated to performing a cappella choral music of all periods and styles. The Singers comprise the core of the Carleton Choir. Membership is offered to students who demonstrate exceptional vocal and musical skills. The need to balance all parts (Soprano, Alto, Tenor and Bass) dictates the size of the ensemble. With few exceptions, membership is for the full year. Admission by audition and concurrent registration in Music 185 are required.",
 	"synonym": "29226",
 	"tags": [],
-	"title": "Carleton Singers"
+	"title": "Carleton Singers",
+	"type": "Course"
 }

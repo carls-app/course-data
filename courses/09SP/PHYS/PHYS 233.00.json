@@ -9,7 +9,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 24,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "22075",
 	"tags": [],
-	"title": "Astrophysics II"
+	"title": "Astrophysics II",
+	"type": "Course"
 }

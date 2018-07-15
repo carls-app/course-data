@@ -9,7 +9,7 @@
 	"instructors": [
 		"Paula K Arai"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "7587",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"CCSTGLOBAL",
+		"WGSTADDL"
 	],
-	"title": "Women in Buddhist Tradition"
+	"title": "Women in Buddhist Tradition",
+	"type": "Course"
 }

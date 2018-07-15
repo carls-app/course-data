@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21554",
 	"tags": [],
-	"title": "Intro to Demographic Methods"
+	"title": "Intro to Demographic Methods",
+	"type": "Course"
 }

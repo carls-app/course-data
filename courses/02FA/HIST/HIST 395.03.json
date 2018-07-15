@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "395.03",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4427",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"HISTEUR1451",
+		"CCSTGLOBAL"
 	],
-	"title": "War, State and Society"
+	"title": "War, State and Society",
+	"type": "Course"
 }

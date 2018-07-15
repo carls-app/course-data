@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "122.01",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,24 +31,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IDS",
+		"QRE",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -58,22 +47,11 @@
 	"summary": "An introduction to American government and politics. Focus on the Congress, Presidency, political parties and interest groups, the courts and the Constitution. Particular attention will be given to the public policy debates that divide liberals and conservatives and how these divisions are rooted in American political culture.",
 	"synonym": "30323",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "AMSTSURVEY1",
-			"name": "AMST 1 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"POSI-AREAS",
+		"AMSTSURVEY1",
+		"AMSTTOPICAL3",
+		"AFAMPERT"
 	],
-	"title": "Politics in America: Liberty and Equality"
+	"title": "Politics in America: Liberty and Equality",
+	"type": "Course"
 }

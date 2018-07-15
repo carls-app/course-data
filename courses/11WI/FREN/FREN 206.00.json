@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -48,14 +46,9 @@
 	"summary": "This course aims to improve knowledge of France and the Francophone world and written and oral expression. Through an analysis of texts written by novelist and sociologist Azouz Begag, journalist Françoise Laborde and novelist Maryse Condé, we will discuss various aspects of national, racial and family identity in France.",
 	"synonym": "26497",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL"
 	],
-	"title": "Contemporary Francophone Culture"
+	"title": "Contemporary Francophone Culture",
+	"type": "Course"
 }

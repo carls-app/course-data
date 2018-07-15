@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Rand"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17571",
 	"tags": [],
-	"title": "Environ Animal Physiol Lab"
+	"title": "Environ Animal Physiol Lab",
+	"type": "Course"
 }

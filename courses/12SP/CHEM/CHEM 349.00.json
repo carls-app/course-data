@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 348",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": "Credit for the laboratory portion of Chemistry 348. Corequisite: Chemistry 348.",
 	"synonym": "28613",
 	"tags": [],
-	"title": "Computational Chemistry Laboratory"
+	"title": "Computational Chemistry Laboratory",
+	"type": "Course"
 }

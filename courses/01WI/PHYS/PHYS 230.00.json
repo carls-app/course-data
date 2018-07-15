@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "398",
 	"tags": [],
-	"title": "Computational Mechanics"
+	"title": "Computational Mechanics",
+	"type": "Course"
 }

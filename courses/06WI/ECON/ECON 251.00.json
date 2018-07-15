@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13196",
 	"tags": [],
-	"title": "Econ of Arts & Culture"
+	"title": "Econ of Arts & Culture",
+	"type": "Course"
 }

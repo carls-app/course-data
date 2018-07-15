@@ -6,7 +6,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "19741",
 	"tags": [],
-	"title": "Fields of Performance"
+	"title": "Fields of Performance",
+	"type": "Course"
 }

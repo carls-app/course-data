@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "364.00",
+	"number": "364",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Any 200-level or 300-level Biology organismic course or Psychology 216.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "25301",
 	"tags": [],
-	"title": "Neurological Diseases and Disorders: Behind the Scenes"
+	"title": "Neurological Diseases and Disorders: Behind the Scenes",
+	"type": "Course"
 }

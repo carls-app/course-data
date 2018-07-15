@@ -9,7 +9,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "943",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTGLOBAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Liberation Theologies"
+	"title": "Liberation Theologies",
+	"type": "Course"
 }

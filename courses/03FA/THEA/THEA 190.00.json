@@ -8,11 +8,12 @@
 	"instructors": [
 		"Ed Berkeley"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 20,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "8168",
 	"tags": [],
-	"title": "Carleton Players Productions"
+	"title": "Carleton Players Productions",
+	"type": "Course"
 }

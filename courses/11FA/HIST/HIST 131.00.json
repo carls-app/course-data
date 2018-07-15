@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Leighton 304",
@@ -39,20 +39,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 35,
@@ -62,42 +54,16 @@
 	"summary": "In Late Antiquity, pagans and Christians asked with particular intensity: How should I live? Those answering these questions successfully could become figures of authority and influence in their worlds. In this course we will explore what roles education; gender; discipline of the mind and body; physical location and social status; and acts of power played in the making of an exemplary life. Was the best life to be achieved through material renunciation, psychological transformation, or both? What institutional forms fostered such a life? We will ask these and other questions of a wide array of primary sources while employing the insights of modern scholarship.",
 	"synonym": "30564",
 	"tags": [
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "CLASPERT",
-			"name": "Classics Pertinent"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		}
+		"HISTANCNT/MDVL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"MARSCORE",
+		"CLASPERT",
+		"RELGPERT",
+		"MARSSUPP",
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT"
 	],
-	"title": "Saints, Sinners, and Philosophers in Late Antiquity"
+	"title": "Saints, Sinners, and Philosophers in Late Antiquity",
+	"type": "Course"
 }

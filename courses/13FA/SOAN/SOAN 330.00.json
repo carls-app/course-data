@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Sohrabi"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -46,18 +44,10 @@
 	"summary": "Classical sociological theory has been concerned with at least three fundamental questions. They are the nature of the historic transition from feudalism to capitalism, the appropriate method of social studies, and the form of a rational society. Beginning with the Enlightenment and romanticism, we study nineteenth century positivism, liberalism, Marxism and nihilism, and investigate the ideas of Weber and Durkheim at the turn of the century.",
 	"synonym": "35785",
 	"tags": [
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTMETH",
+		"ASSTDISC",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Sociological Thought and Theory"
+	"title": "Sociological Thought and Theory",
+	"type": "Course"
 }

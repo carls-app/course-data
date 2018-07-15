@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gretchen E Hofmeister"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3406",
 	"tags": [],
-	"title": "The Chemistry of Drugs"
+	"title": "The Chemistry of Drugs",
+	"type": "Course"
 }

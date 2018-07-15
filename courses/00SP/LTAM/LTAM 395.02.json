@@ -9,7 +9,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -42,5 +43,6 @@
 		"LTAMELECTIVE",
 		"LTAM300LIT"
 	],
-	"title": "Social Mvmnts & Change Lat Am"
+	"title": "Social Mvmnts & Change Lat Am",
+	"type": "Course"
 }

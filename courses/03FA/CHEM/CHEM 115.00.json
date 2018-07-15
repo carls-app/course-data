@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "6559",
 	"tags": [],
-	"title": "Chemistry in Context"
+	"title": "Chemistry in Context",
+	"type": "Course"
 }

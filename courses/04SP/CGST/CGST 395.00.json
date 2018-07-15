@@ -9,7 +9,7 @@
 	"instructors": [
 		"Ronald W Loeffler"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "8975",
 	"tags": [],
-	"title": "Contemp Theory-Consciousness"
+	"title": "Contemp Theory-Consciousness",
+	"type": "Course"
 }

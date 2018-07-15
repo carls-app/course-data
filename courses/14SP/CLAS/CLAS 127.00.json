@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel W Moore"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -45,5 +40,6 @@
 	"summary": "Technology--humanity's efforts to manipulate its physical environment--stands as a central concern of the modern world. This course examines the technology of the ancient world and investigates its integral relationship to other facets of human activity. Theories of technological change will be explored initially in order to develop a socially-informed understanding of technology. In the second part, students will investigate specific ancient technologies using archaeological and textual evidence and present their findings to the class. The goal of this course is to understand technology as a social phenomenon in both the ancient and modern worlds.",
 	"synonym": "37118",
 	"tags": [],
-	"title": "Ancient Technology"
+	"title": "Ancient Technology",
+	"type": "Course"
 }

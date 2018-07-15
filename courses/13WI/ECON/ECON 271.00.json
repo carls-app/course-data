@@ -6,7 +6,7 @@
 	"instructors": [
 		"Theresa A Bauer"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "This course focuses on environmental economics, energy economics, and the relationship between them. Economic incentives for pollution abatement, the industrial organization of energy production, optimal depletion rates of energy sources, and the environmental and economic consequences of alternate energy sources are analyzed.",
 	"synonym": "34056",
 	"tags": [
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"ENTSWRSCP",
+		"ENTSCDSCP",
+		"AMSTTOPICAL3",
+		"ENTSFASCP",
+		"POECUPAPP"
 	],
-	"title": "Economics of Natural Resources and the Environment"
+	"title": "Economics of Natural Resources and the Environment",
+	"type": "Course"
 }

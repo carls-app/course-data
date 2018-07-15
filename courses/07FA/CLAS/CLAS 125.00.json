@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -48,18 +46,10 @@
 	"summary": null,
 	"synonym": "19000",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGLLOE",
+		"ENGLFORLIT",
+		"LITFORLANG"
 	],
-	"title": "Love,Death,Destiny:Ancnt Novel"
+	"title": "Love,Death,Destiny:Ancnt Novel",
+	"type": "Course"
 }

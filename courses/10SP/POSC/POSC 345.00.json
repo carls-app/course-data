@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 40,
 		"total": 20,
@@ -36,30 +37,13 @@
 	"summary": null,
 	"synonym": "24982",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"ASSTSS",
+		"POSIELECTIVE",
+		"ASSTEAST",
+		"POSIADVSEM",
+		"POSI-LPS",
+		"POSCADVSEM"
 	],
-	"title": "Guerillas, Warlords and Bandits: The Art of Asymmetric War*"
+	"title": "Guerillas, Warlords and Bandits: The Art of Asymmetric War*",
+	"type": "Course"
 }

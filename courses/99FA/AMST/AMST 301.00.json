@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "3673",
 	"tags": [],
-	"title": "American Constitutional Law I"
+	"title": "American Constitutional Law I",
+	"type": "Course"
 }

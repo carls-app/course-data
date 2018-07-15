@@ -9,20 +9,15 @@
 		"Pierre Hecker",
 		"Juliane B Shibata"
 	],
-	"number": "261.07",
+	"number": "261",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -32,5 +27,6 @@
 	"summary": "With a focus on the intersections of art, culture, and literature, the course explores various aspects of art in the English Renaissance, including patronage, politics and power, religion, and the role of the artist in society. Students will research specific artworks (for example, Holbein's",
 	"synonym": "35326",
 	"tags": [],
-	"title": "English Theater and Literature in London: The Art of Tudor and Stuart Britain"
+	"title": "English Theater and Literature in London: The Art of Tudor and Stuart Britain",
+	"type": "Course"
 }

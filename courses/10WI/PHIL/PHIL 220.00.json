@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "23710",
 	"tags": [
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		}
+		"PHILPRACVAL"
 	],
-	"title": "Philosophy of Law"
+	"title": "Philosophy of Law",
+	"type": "Course"
 }

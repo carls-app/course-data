@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brian L Rachford"
 	],
-	"number": "113.01",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Goodsell 104"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9270",
 	"tags": [],
-	"title": "Observational&laboratory Astro"
+	"title": "Observational&laboratory Astro",
+	"type": "Course"
 }

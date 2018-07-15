@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda A Christianson"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 047"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7460",
 	"tags": [],
-	"title": "Advanced Ceramics"
+	"title": "Advanced Ceramics",
+	"type": "Course"
 }

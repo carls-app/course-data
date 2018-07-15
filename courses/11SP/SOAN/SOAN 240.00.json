@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Sociology/Anthropology 110 or 111; Sociology/Anthropology 239 or Mathematics 115 or 215",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "The course is concerned with social scientific inquiry and explanation, particularly with reference to sociology and anthropology. Topics covered include research design, data collection, and analysis of data. Both quantitative and qualitative methods are considered. Student will demonstrate their knowledge by developing a research proposal that is implementable.",
 	"synonym": "26888",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Methods of Social Research"
+	"title": "Methods of Social Research",
+	"type": "Course"
 }

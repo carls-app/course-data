@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 239",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -48,10 +46,8 @@
 	"summary": "Insects are one of the most successful groups of organisms on the planet, playing major roles in all terrestrial and freshwater ecosystems. In addition, since insects are ubiquitous they affect human endeavors on many fronts, both positively (e.g., crop pollination) and negatively (damage to crops and transmitting disease). This class will focus on the biology of insects, including physiology, behavior, and ecology. Many examples will highlight current environmental issues.",
 	"synonym": "26078",
 	"tags": [
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		}
+		"ENTSFAES"
 	],
-	"title": "Entomology"
+	"title": "Entomology",
+	"type": "Course"
 }

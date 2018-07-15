@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chad W Alladin"
 	],
-	"number": "314.00",
+	"number": "314",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "20883",
 	"tags": [],
-	"title": "Ath Trng I:Gross Hmn Anatomy"
+	"title": "Ath Trng I:Gross Hmn Anatomy",
+	"type": "Course"
 }

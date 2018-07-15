@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "131.01",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17510",
 	"tags": [],
-	"title": "Inverses and Integration"
+	"title": "Inverses and Integration",
+	"type": "Course"
 }

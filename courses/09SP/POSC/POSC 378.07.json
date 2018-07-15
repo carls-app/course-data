@@ -9,11 +9,12 @@
 		"Roy Grow",
 		""
 	],
-	"number": "378.07",
+	"number": "378",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -23,26 +24,12 @@
 	"summary": null,
 	"synonym": "20365",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-DSS"
 	],
-	"title": "Chinese Social&Political Inst"
+	"title": "Chinese Social&Political Inst",
+	"type": "Course"
 }

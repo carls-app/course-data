@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "134.00",
+	"number": "134",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -48,5 +46,6 @@
 	"summary": "Designed for students with previous skating experience, this course develops skills with emphasis on edges, backward stroking, basic combinations, jumps and figures. Classes meet outdoors on the Bald Spot rink. Students must provide their own figure skates.",
 	"synonym": "26362",
 	"tags": [],
-	"title": "Ice Skating, Intermediate"
+	"title": "Ice Skating, Intermediate",
+	"type": "Course"
 }

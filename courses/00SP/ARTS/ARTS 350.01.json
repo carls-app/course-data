@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "350.01",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 20"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2155",
 	"tags": [],
-	"title": "Sculpture Seminar"
+	"title": "Sculpture Seminar",
+	"type": "Course"
 }

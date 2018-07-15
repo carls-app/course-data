@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "352.00",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2915",
 	"tags": [],
-	"title": "Pol Theory: Tocqueville"
+	"title": "Pol Theory: Tocqueville",
+	"type": "Course"
 }

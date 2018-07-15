@@ -8,7 +8,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "23720",
 	"tags": [
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"PHILPRACVAL",
+		"PHILADV"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

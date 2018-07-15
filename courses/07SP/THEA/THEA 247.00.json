@@ -6,7 +6,7 @@
 	"instructors": [
 		"Walter F Wojciechowski"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"CMC 109"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "16391",
 	"tags": [],
-	"title": "Appl of CAD to Design Process"
+	"title": "Appl of CAD to Design Process",
+	"type": "Course"
 }

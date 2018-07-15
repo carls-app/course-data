@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annick M Fritz-Smead"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: French 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": "Through discussion of book-length literary and cultural texts (film, etc.), and including in-depth grammar review, this course aims to help students acquire greater skill and confidence in both oral and written expression. Taught three days a week in French.",
 	"synonym": "26496",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"FRSTELECAL",
+		"EUSTLANG"
 	],
-	"title": "Intermediate French"
+	"title": "Intermediate French",
+	"type": "Course"
 }

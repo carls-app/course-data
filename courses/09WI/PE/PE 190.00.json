@@ -7,7 +7,7 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"West Gym GYM"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 26,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "20789",
 	"tags": [],
-	"title": "Volleyball, Co-ed"
+	"title": "Volleyball, Co-ed",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "The capacity to acquire and use natural languages such as English is surely one of the more remarkable features of human nature. In this course, we explore several aspects of this ability. Topics include the sound systems of natural languages, the structure of words, principles that regulate word order, the course of language acquisition in children, and what these reveal about the nature of the mind.",
 	"synonym": "25161",
 	"tags": [],
-	"title": "Introduction to Linguistics"
+	"title": "Introduction to Linguistics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2284",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"CCSTREGIONAL",
+		"WGSTADDL"
 	],
-	"title": "Wmn &Islam Constructn Gender"
+	"title": "Wmn &Islam Constructn Gender",
+	"type": "Course"
 }

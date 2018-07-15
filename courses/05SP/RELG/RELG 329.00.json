@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "10534",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Theology, Tradition & Culture"
+	"title": "Theology, Tradition & Culture",
+	"type": "Course"
 }

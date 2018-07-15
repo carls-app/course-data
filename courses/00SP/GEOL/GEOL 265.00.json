@@ -8,7 +8,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1986",
 	"tags": [],
-	"title": "Structural Geology"
+	"title": "Structural Geology",
+	"type": "Course"
 }

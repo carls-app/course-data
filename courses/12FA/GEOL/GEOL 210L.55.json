@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carrie E Jennings"
 	],
-	"number": "210L.55",
+	"number": "210L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "55",
 	"size": {
 		"registered": 24,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32517",
 	"tags": [],
-	"title": "Geomorphology Lab"
+	"title": "Geomorphology Lab",
+	"type": "Lab"
 }

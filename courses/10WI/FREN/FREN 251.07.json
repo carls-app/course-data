@@ -8,16 +8,14 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "251.07",
+	"number": "251",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -27,22 +25,11 @@
 	"summary": "This course will look at various issues in Malian history (ancient and modern) and the process of political and economic change. A component of this course will be an introduction to conversational Bambara, the lingua franca of Mali.",
 	"synonym": "23072",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"FRSTELEC",
+		"FRSTHIST",
+		"FRSTSUPP"
 	],
-	"title": "Mali Program: Negotiating the Past: The Challenges of Nation-building in Mali"
+	"title": "Mali Program: Negotiating the Past: The Challenges of Nation-building in Mali",
+	"type": "Course"
 }

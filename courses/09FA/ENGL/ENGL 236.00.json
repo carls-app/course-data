@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,34 +42,14 @@
 	"summary": "A study of the environmental imagination in American literature. We will explore the relationship between literature and the natural sciences and examine questions of style, narrative, and representation in the light of larger social, ethical, and political concerns about the environment. Authors read will include Thoreau, Muir, Jeffers, Abbey, and Leopold. Students will write a creative Natural History essay as part of the course requirements.",
 	"synonym": "23015",
 	"tags": [
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENGLT2",
+		"ENGLHE3",
+		"AMSTTOPICAL1",
+		"ENGL4",
+		"LITFORLANG",
+		"ENTSENVPERS",
+		"ENTSLPSCP"
 	],
-	"title": "American Nature Writing"
+	"title": "American Nature Writing",
+	"type": "Course"
 }

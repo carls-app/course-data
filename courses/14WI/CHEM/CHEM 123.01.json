@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chris Calderone"
 	],
-	"number": "123.01",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Evaluation (Chemistry Home Page) or Chemistry 122.; CHEM 123L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -52,10 +47,8 @@
 	"summary": "An introduction to chemistry for students who have taken high school chemistry or Chemistry 122. Topics include the electronic structure of atoms, periodicity, molecular geometry, thermodynamics, bonding, equilibrium, reaction kinetics, and acids and bases. Substantial independent project work is included in the lab. Each offering will also focus on a special topic(s) selected by the instructor. Students cannot receive credit for both Chemistry 123 and 128.",
 	"synonym": "34571",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
-	"title": "Principles of Chemistry"
+	"title": "Principles of Chemistry",
+	"type": "Course"
 }

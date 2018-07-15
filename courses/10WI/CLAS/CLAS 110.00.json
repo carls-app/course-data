@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": "This course will examine in depth the two most content-rich focal points of Classical antiquity--Periclean Athens and Early Imperial Rome--since they provide a context for so much of what Classics is about and, just as important, what different ages have imagined antiquity to be about. The course will cover Athens and Rome in roughly equal units, providing different perspectives on the material from the variety of approaches that currently make up the study of the Classics: history, archaeology, anthropology, gender studies, literary criticism, philology, religious studies, etc.",
 	"synonym": "24285",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLLOE"
 	],
-	"title": "Introduction to Classical Studies"
+	"title": "Introduction to Classical Studies",
+	"type": "Course"
 }

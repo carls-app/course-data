@@ -8,7 +8,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7818",
 	"tags": [],
-	"title": "Minds, Genes & Quanta"
+	"title": "Minds, Genes & Quanta",
+	"type": "Course"
 }

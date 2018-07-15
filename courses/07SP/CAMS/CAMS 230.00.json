@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 18,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "17241",
 	"tags": [],
-	"title": "Studio Prod: the Sports Show"
+	"title": "Studio Prod: the Sports Show",
+	"type": "Course"
 }

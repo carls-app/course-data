@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Recreation Center STU"
@@ -31,6 +31,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -40,5 +41,6 @@
 	"summary": null,
 	"synonym": "901",
 	"tags": [],
-	"title": "Modern Dance I"
+	"title": "Modern Dance I",
+	"type": "Course"
 }

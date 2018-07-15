@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kent Freeze"
 	],
-	"number": "337.00",
+	"number": "337",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,24 +26,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -53,34 +42,14 @@
 	"summary": "This course explores the political determinants of happiness in the United States and around the world. What makes citizens happier in one country compared to another? When might political institutions be most successful at producing happiness among people? What is the relationship between economic inequality, development, redistribution and happiness? The course starts by examining how happiness is conceptualized and measured in public opinion data, before exploring the political economy of happiness globally.",
 	"synonym": "39228",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POECSEMINAR",
-			"name": "Political Economy Seminar"
-		},
-		{
-			"code": "POECUPWTD",
-			"name": "POEC Wrld Trade&dev Upper Lvl"
-		}
+		"POSI-DSS",
+		"POSI-DSS2",
+		"POSCADVSEM",
+		"POSIADVSEM",
+		"POSIELECTIVE",
+		"POECSEMINAR",
+		"POECUPWTD"
 	],
-	"title": "Political Economy of Happiness*"
+	"title": "Political Economy of Happiness*",
+	"type": "Course"
 }

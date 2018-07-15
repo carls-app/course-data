@@ -9,7 +9,7 @@
 		"Beverly Y Nagel",
 		"Kathryn W Sparling"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "5005",
 	"tags": [
-		{
-			"code": "AFAMINTERDISC",
-			"name": "AFAM Interdisciplinary Course"
-		}
+		"AFAMINTERDISC"
 	],
-	"title": "Thry & Practice-Cross Culturl"
+	"title": "Thry & Practice-Cross Culturl",
+	"type": "Course"
 }

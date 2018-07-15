@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ignacio Birriel"
 	],
-	"number": "113L.52",
+	"number": "113L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "358",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

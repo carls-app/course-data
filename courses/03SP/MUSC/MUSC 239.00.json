@@ -9,7 +9,7 @@
 		"Gary H Iseminger",
 		"Justin M London"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "3754",
 	"tags": [],
-	"title": "Topics: Philosophy of Music"
+	"title": "Topics: Philosophy of Music",
+	"type": "Course"
 }

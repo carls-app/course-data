@@ -6,16 +6,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "5882",
 	"tags": [],
-	"title": "Men's Rugby Club"
+	"title": "Men's Rugby Club",
+	"type": "Course"
 }

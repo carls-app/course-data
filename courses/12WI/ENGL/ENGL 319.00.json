@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jessica L Leiman"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: One English foundations course and one other 6 credit English course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -50,26 +45,12 @@
 	"summary": "A study of the origin and development of the English novel throughout the long eighteenth century. We will situate the early novel within its historical and cultural context, paying particular attention to its concern with courtship and marriage, writing and reading, the real and the fantastic. We will also consider eighteenth-century debates about the social function of novels and the dangers of reading fiction. Authors include Behn, Defoe, Haywood, Richardson, Fielding, Sterne, Walpole, and Austen.",
 	"synonym": "30049",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		}
+		"LITFORLANG",
+		"EUSTCNTRY",
+		"WGSTADDL",
+		"ENGLHE2",
+		"ENGLT1"
 	],
-	"title": "The Rise of the Novel"
+	"title": "The Rise of the Novel",
+	"type": "Course"
 }

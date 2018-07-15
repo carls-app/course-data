@@ -9,7 +9,7 @@
 		"Clifford E Clark",
 		"Sharon A Akimoto"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304",
@@ -41,6 +41,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 40,
@@ -50,14 +51,9 @@
 	"summary": null,
 	"synonym": "14942",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"CCSTETHNIC",
+		"HISTUS"
 	],
-	"title": "The Immigrant Experience"
+	"title": "The Immigrant Experience",
+	"type": "Course"
 }

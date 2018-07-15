@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "105.00",
+	"number": "105",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "19511",
 	"tags": [],
-	"title": "Badminton, Beginning"
+	"title": "Badminton, Beginning",
+	"type": "Course"
 }

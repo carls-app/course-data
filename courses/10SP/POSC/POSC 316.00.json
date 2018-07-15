@@ -9,7 +9,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "316.00",
+	"number": "316",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "24020",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		}
+		"AMSTTOPICAL3",
+		"POSCADVSEM",
+		"POSIADVSEM"
 	],
-	"title": "The Initiative, Referendum and Public Policy*"
+	"title": "The Initiative, Referendum and Public Policy*",
+	"type": "Course"
 }

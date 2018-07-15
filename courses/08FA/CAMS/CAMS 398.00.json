@@ -7,11 +7,12 @@
 		"Carol Donelan",
 		"John Schott"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -21,10 +22,8 @@
 	"summary": null,
 	"synonym": "22363",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Comps Research Colloquium"
+	"title": "Comps Research Colloquium",
+	"type": "Course"
 }

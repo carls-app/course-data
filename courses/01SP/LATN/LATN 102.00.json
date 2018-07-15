@@ -6,7 +6,7 @@
 	"instructors": [
 		"Keyne A Cheshire"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -42,6 +42,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -51,5 +52,6 @@
 	"summary": null,
 	"synonym": "854",
 	"tags": [],
-	"title": "Intermediate Latin"
+	"title": "Intermediate Latin",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "22031",
 	"tags": [
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSSP",
+		"ENTSCDSCP",
+		"ENTSCDES"
 	],
-	"title": "Biodiversity, Consvtn & Dev"
+	"title": "Biodiversity, Consvtn & Dev",
+	"type": "Course"
 }

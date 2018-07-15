@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "178.00",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3452",
 	"tags": [],
-	"title": "Tae Kwon Do"
+	"title": "Tae Kwon Do",
+	"type": "Course"
 }

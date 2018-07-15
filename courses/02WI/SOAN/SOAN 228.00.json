@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2965",
 	"tags": [],
-	"title": "Sociology of Religion"
+	"title": "Sociology of Religion",
+	"type": "Course"
 }

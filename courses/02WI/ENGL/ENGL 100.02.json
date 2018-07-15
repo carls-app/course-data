@@ -8,7 +8,7 @@
 	"instructors": [
 		"Candace I Lines"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3051",
 	"tags": [],
-	"title": "The Invention of Love"
+	"title": "The Invention of Love",
+	"type": "Course"
 }

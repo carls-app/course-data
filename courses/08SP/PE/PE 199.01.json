@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lynda Grady Schweich"
 	],
-	"number": "199.01",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "18953",
 	"tags": [],
-	"title": "Yoga"
+	"title": "Yoga",
+	"type": "Course"
 }

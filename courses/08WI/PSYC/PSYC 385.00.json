@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Olin 110"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "17882",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Cognitive Develop-Childhood"
+	"title": "Cognitive Develop-Childhood",
+	"type": "Course"
 }

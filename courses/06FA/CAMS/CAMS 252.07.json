@@ -8,11 +8,12 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "252.07",
+	"number": "252",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "15435",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"AMSTTOPICAL1",
+		"CAMSELECTIVE",
+		"CAMSSTUPROD"
 	],
-	"title": "Understanding New Media"
+	"title": "Understanding New Media",
+	"type": "Course"
 }

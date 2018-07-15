@@ -6,7 +6,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "17824",
 	"tags": [],
-	"title": "Education and Ethics"
+	"title": "Education and Ethics",
+	"type": "Course"
 }

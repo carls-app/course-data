@@ -8,7 +8,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 10,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "16413",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Architectr-Frank Lloyd Wright"
+	"title": "Architectr-Frank Lloyd Wright",
+	"type": "Course"
 }

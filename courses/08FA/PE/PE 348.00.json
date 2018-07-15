@@ -6,7 +6,7 @@
 	"instructors": [
 		"Luciano H Battaglini"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"West Gym 209"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 16,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22002",
 	"tags": [],
-	"title": "Principles of Athletics"
+	"title": "Principles of Athletics",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "206.07",
+	"number": "206",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "23075",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Grammar and Conversation"
+	"title": "Grammar and Conversation",
+	"type": "Course"
 }

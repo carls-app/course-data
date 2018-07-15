@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "155.00",
+	"number": "155",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "20513",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Islamic Art&Architecture"
+	"title": "Islamic Art&Architecture",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Cindy Blaha",
 		"Carol A Rutz"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,20 +34,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"WR2",
+		"QRE",
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -57,5 +49,6 @@
 	"summary": "This course will explore how scientists communicate. Focused on communication expected in the sciences. The assignments will range among math and natural science disciplines, using data, graphics and text for a variety of purposes. Students should expect reading, writing, and speaking assignments tailored to a variety of audiences, including professional scientific audiences and the broader community. This course is intended for students with at least one previous or concurrent introductory mathematics or natural science course.",
 	"synonym": "26720",
 	"tags": [],
-	"title": "Writing Science"
+	"title": "Writing Science",
+	"type": "Course"
 }

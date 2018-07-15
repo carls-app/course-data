@@ -8,13 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "2788",
 	"tags": [],
-	"title": "Ultimate Frisbee"
+	"title": "Ultimate Frisbee",
+	"type": "Course"
 }

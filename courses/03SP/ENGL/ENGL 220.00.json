@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 14,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "4045",
 	"tags": [],
-	"title": "Arts of Oral Presentation"
+	"title": "Arts of Oral Presentation",
+	"type": "Course"
 }

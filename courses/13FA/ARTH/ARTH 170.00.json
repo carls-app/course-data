@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -52,10 +47,8 @@
 	"summary": "The course explores printmaking's effects on Western ways of understanding the world; until photography prints were the only exactly repeatable pictorial statements their audiences knew. It examines how prints functioned in their cultures (their originality, production, marketing, collecting). Woodcut, engraving, etching, aquatint, and lithography, c.1400-1930, are studied through such artists as Dürer, Rembrandt, Goya, Daumier, Toulouse-Lautrec, Cassatt, and Kollwitz. The class works extensively with prints in the collections of the Minneapolis Institute of Arts (three field trips) and the Carleton Art Gallery. Students taking the course for 4 credits write one fewer paper and a shortened final exam.",
 	"synonym": "35052",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSSUPP"
 	],
-	"title": "History of Printmaking"
+	"title": "History of Printmaking",
+	"type": "Course"
 }

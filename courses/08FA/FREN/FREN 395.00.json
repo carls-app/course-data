@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "21823",
 	"tags": [
-		{
-			"code": "FRSTSEM",
-			"name": "FRST Seminar"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"FRSTSEM",
+		"FRSTELECAL",
+		"ENGLLOE"
 	],
-	"title": "The Mande of West Africa"
+	"title": "The Mande of West Africa",
+	"type": "Course"
 }

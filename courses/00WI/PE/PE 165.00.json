@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob A Sullivan"
 	],
-	"number": "165.00",
+	"number": "165",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 35,
@@ -38,5 +36,6 @@
 	"summary": null,
 	"synonym": "3382",
 	"tags": [],
-	"title": "Skiing, Downhill"
+	"title": "Skiing, Downhill",
+	"type": "Course"
 }

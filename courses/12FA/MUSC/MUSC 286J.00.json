@@ -8,16 +8,14 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "286J.00",
+	"number": "286J",
 	"offerings": null,
 	"prerequisites": "Prerequisite: MUSC 220 or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": "Individual instruction focusing on the student's original compositions. Course work includes the study of compositional techniques, analysis of relevant works, and computer/MIDI/synthesizer technologies. The course is particularly directed toward the major who wishes to pursue the composition option in the Senior Integrative Exercise. Prerequisite: Music 220 or permission of the instructor.",
 	"synonym": "32161",
 	"tags": [],
-	"title": "Composition (Juried)"
+	"title": "Composition (Juried)",
+	"type": "Juried"
 }

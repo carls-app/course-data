@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "127.00",
+	"number": "127",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": "For the beginning or moderately experienced player who wants to develop basic skills. See what all the fuss is about. If a golden retriever can do it, so can you!",
 	"synonym": "26307",
 	"tags": [],
-	"title": "Frisbee, Beginning Ultimate"
+	"title": "Frisbee, Beginning Ultimate",
+	"type": "Course"
 }

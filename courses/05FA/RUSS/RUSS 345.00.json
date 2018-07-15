@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "13546",
 	"tags": [],
-	"title": "19th C Russian Cultural Idioms"
+	"title": "19th C Russian Cultural Idioms",
+	"type": "Course"
 }

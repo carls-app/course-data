@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Latin 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": "Representative readings, in Latin, across the range of Cicero's literary activity, including oratory, philosophy, criticism, and correspondence.",
 	"synonym": "24274",
 	"tags": [],
-	"title": "Cicero"
+	"title": "Cicero",
+	"type": "Course"
 }

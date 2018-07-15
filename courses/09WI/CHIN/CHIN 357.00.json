@@ -6,7 +6,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "357.00",
+	"number": "357",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "22469",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"ASSTEAST",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Contemporary Social Issues"
+	"title": "Contemporary Social Issues",
+	"type": "Course"
 }

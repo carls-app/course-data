@@ -9,7 +9,7 @@
 		"Nancy J Cho",
 		"Clifford E Clark"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,20 +34,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -57,10 +49,8 @@
 	"summary": null,
 	"synonym": "33855",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "Introduction to American Studies: The Immigrant Experience"
+	"title": "Introduction to American Studies: The Immigrant Experience",
+	"type": "Course"
 }

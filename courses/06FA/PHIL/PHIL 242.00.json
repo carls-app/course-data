@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,18 +42,10 @@
 	"summary": null,
 	"synonym": "16435",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"CCSTGLOBAL",
+		"ENTSENVPERS",
+		"SPECINTETHICS"
 	],
-	"title": "Environmental Ethics"
+	"title": "Environmental Ethics",
+	"type": "Course"
 }

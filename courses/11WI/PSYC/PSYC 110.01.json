@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara M Gorchoff"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 33,
 		"total": 35,
@@ -46,5 +44,6 @@
 	"summary": "This course surveys major topics in psychology. We consider the approaches different psychologists take to describe and explain behavior. We will consider a broad range of topics, including how animals learn and remember contexts and behaviors, how personality develops and influences functioning, how the nervous system is structured and how it supports mental events, how knowledge of the nervous system may inform an understanding of conditions such as schizophrenia, how people acquire, remember and process information, how psychopathology is diagnosed, explained, and treated, how infants and children develop, and how people behave in groups and think about their social environment.",
 	"synonym": "26750",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

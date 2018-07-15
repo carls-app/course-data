@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven F Kozberg"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "560",
 	"tags": [],
-	"title": "Counseling Psychology"
+	"title": "Counseling Psychology",
+	"type": "Course"
 }

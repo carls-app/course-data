@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: German 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": "In this course, students build on basic communication skills to engage in more in-depth spoken and written discussions of German-speaking culture. By analyzing longer and more challenging texts, films and cultural media, continuing grammar review, and writing compositions, students acquire greater facility and confidence in all four language skills (writing, speaking, listening, and reading).",
 	"synonym": "24500",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

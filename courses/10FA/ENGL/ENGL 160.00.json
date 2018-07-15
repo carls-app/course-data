@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan Jaret McKinstry"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -52,5 +47,6 @@
 	"summary": "This course offers training in the writing and revision of poetry and prose fiction, supplemented by examples from published writers and some essays on the creative process. Discussion of each participant's writing is the central mode of instruction.",
 	"synonym": "25773",
 	"tags": [],
-	"title": "Introduction to Creative Writing"
+	"title": "Introduction to Creative Writing",
+	"type": "Course"
 }

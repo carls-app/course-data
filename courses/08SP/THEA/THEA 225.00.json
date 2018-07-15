@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "18159",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Performing Shakespeare"
+	"title": "Performing Shakespeare",
+	"type": "Course"
 }

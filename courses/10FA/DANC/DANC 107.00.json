@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "107.00",
+	"number": "107",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -44,5 +42,6 @@
 	"summary": "A beginning course in ballet technique, including basic positions, beginning patterns and exercises. Students develop an awareness of the many ways their body can move, an appreciation of dance as an artistic expression and a recognition of the dancer as an athlete.",
 	"synonym": "26266",
 	"tags": [],
-	"title": "Ballet I"
+	"title": "Ballet I",
+	"type": "Course"
 }

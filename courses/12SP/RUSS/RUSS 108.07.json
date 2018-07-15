@@ -8,11 +8,12 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "108.07",
+	"number": "108",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 0,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": "This course is taken in combination with Russian 107. Students focus on the essentials of Russian pronunciation with preliminary work in intonation. This course is conducted by members of Moscow State University Philological Faculty and supervised by the program director.",
 	"synonym": "29839",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Moscow Program: Beginning Phonetics"
+	"title": "Moscow Program: Beginning Phonetics",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "7926",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "WGSTINTRO",
-			"name": "WGST Introductory"
-		}
+		"AFAMPERT",
+		"WGSTINTRO"
 	],
-	"title": "Intro Women's & Gender Studies"
+	"title": "Intro Women's & Gender Studies",
+	"type": "Course"
 }

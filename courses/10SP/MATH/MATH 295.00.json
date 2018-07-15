@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 236",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "23280",
 	"tags": [],
-	"title": "Seminar in Set Theory"
+	"title": "Seminar in Set Theory",
+	"type": "Course"
 }

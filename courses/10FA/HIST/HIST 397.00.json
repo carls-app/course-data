@@ -7,16 +7,14 @@
 		"Annette Igra",
 		"Serena R Zabin"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 45,
@@ -26,5 +24,6 @@
 	"summary": null,
 	"synonym": "26231",
 	"tags": [],
-	"title": "Senior Research Proposal"
+	"title": "Senior Research Proposal",
+	"type": "Course"
 }

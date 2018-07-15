@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,14 +44,9 @@
 	"summary": "This course begins by considering the international triumph of architecture's Modern Movement as seen in key works by Mies van der Rohe, Le Corbusier and their followers. Soon after modernisms rise, however, architects began to question the movement's tenets and the role that architecture as a discipline plays in the fashioning of society. This course will examine the central actors in this backlash from Britain, France, Italy, Japan, the United States and elsewhere before exploring the architectural debates surrounding definitions of postmodernism. The course will conclude by considering the impact of both modernism and postmodernism on contemporary architectural practice.",
 	"synonym": "35059",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AMSTTOPICAL1",
+		"EUSTTRANNATL"
 	],
-	"title": "Architecture Since 1950"
+	"title": "Architecture Since 1950",
+	"type": "Course"
 }

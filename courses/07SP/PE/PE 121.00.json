@@ -7,7 +7,7 @@
 		"Guy A Kalland",
 		"Mikki Showers"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "16281",
 	"tags": [],
-	"title": "Fencing, Beginning"
+	"title": "Fencing, Beginning",
+	"type": "Course"
 }

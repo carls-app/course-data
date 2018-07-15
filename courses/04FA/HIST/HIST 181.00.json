@@ -8,7 +8,7 @@
 	"instructors": [
 		"Martin A Klein"
 	],
-	"number": "181.00",
+	"number": "181",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 35,
@@ -43,26 +44,12 @@
 	"summary": null,
 	"synonym": "10444",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"FRSTSUPP",
+		"HISTAFRDIASPORA",
+		"FRSTHIST"
 	],
-	"title": "W Afrcn Society-Hist Perspectv"
+	"title": "W Afrcn Society-Hist Perspectv",
+	"type": "Course"
 }

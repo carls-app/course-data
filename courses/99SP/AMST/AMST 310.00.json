@@ -8,7 +8,7 @@
 	"instructors": [
 		""
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1424",
 	"tags": [],
-	"title": "Magazine in American Culture"
+	"title": "Magazine in American Culture",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Caroline A Burke"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "14014",
 	"tags": [
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTCORE",
+		"WGSTADDL"
 	],
-	"title": "Psyc of Sexual Behavior"
+	"title": "Psyc of Sexual Behavior",
+	"type": "Course"
 }

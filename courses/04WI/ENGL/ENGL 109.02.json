@@ -8,7 +8,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "109.02",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "6905",
 	"tags": [],
-	"title": "Writing Seminar I"
+	"title": "Writing Seminar I",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Hansell"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132",
@@ -38,6 +38,7 @@
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -47,18 +48,10 @@
 	"summary": "Readings from PRC and Taiwan newspapers will expose students to formal written Chinese. Emphasis is on vocabulary expansion, text comprehension strategies, and differences between colloquial and written usage. Active use of the language (including oral discussion and regular written compositions) will be stressed.",
 	"synonym": "33195",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"EASTSUPP",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Advanced Readings in Contemporary Chinese Prose: Newspapers"
+	"title": "Advanced Readings in Contemporary Chinese Prose: Newspapers",
+	"type": "Course"
 }

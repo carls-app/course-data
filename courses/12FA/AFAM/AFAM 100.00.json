@@ -8,7 +8,7 @@
 	"instructors": [
 		"LaToya S Beck"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"WR1",
+		"AI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -56,10 +48,8 @@
 	"summary": null,
 	"synonym": "33961",
 	"tags": [
-		{
-			"code": "AFAMINTERDISC",
-			"name": "AFAM Interdisciplinary Course"
-		}
+		"AFAMINTERDISC"
 	],
-	"title": "Here, There, and Everywhere: African Diaspora Formations in and Beyond The Atlantic"
+	"title": "Here, There, and Everywhere: African Diaspora Formations in and Beyond The Atlantic",
+	"type": "Course"
 }

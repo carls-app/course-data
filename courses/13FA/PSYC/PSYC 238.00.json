@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 and concurrent registration in Psychology 239",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -48,14 +46,9 @@
 	"summary": "Memory is a key foundational component of most human activities. This course will explore different types of memory (working memory, episodic memory, semantic memory, implicit memory, procedural memory), how we encode and retrieve memories, methods of studying memory, memory changes over the lifespan, and applications of this knowledge to day-to-day life (education, law, medicine, advertising). A grade of C- or better must be earned in both Psychology 238 and 239 to satisfy the LS requirement.",
 	"synonym": "35387",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCELECTIVE",
+		"CGSCCORE"
 	],
-	"title": "Memory Processes"
+	"title": "Memory Processes",
+	"type": "Course"
 }

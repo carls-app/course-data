@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "387.00",
+	"number": "387",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 386; Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32930",
 	"tags": [],
-	"title": "Neurobiology Laboratory"
+	"title": "Neurobiology Laboratory",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Carl D Weiner"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -40,5 +41,6 @@
 	"tags": [
 		"HISTEUR1451"
 	],
-	"title": "Balzacs France:Manners&Morals"
+	"title": "Balzacs France:Manners&Morals",
+	"type": "Course"
 }

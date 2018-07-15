@@ -8,7 +8,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "9618",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Material Culture & Amer Hist"
+	"title": "Material Culture & Amer Hist",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Barry M Casper"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "2197",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"LITFORLANG",
+		"ENGLFORLIT"
 	],
-	"title": "Topic:Congress, Amer Democ"
+	"title": "Topic:Congress, Amer Democ",
+	"type": "Course"
 }

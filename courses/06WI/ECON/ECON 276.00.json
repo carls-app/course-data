@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "13198",
 	"tags": [],
-	"title": "Money and Banking"
+	"title": "Money and Banking",
+	"type": "Course"
 }

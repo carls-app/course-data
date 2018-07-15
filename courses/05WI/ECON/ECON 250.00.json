@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "9678",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "History of Economic Ideas"
+	"title": "History of Economic Ideas",
+	"type": "Course"
 }

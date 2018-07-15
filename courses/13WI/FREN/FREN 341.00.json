@@ -8,7 +8,7 @@
 	"instructors": [
 		"Scott D Carpenter"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: French 204; recommended preparation: French 206, 240, or 241",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -52,34 +47,14 @@
 	"summary": "Decried as scandalous, heralded as the first \"modern\" novel, Gustave Flaubert's",
 	"synonym": "33278",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"EUSTCNTRY",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"FRSTELEC",
+		"FRSTELECAL",
+		"ENGLLOE"
 	],
-	"title": "Madame Bovary and Her Avatars"
+	"title": "Madame Bovary and Her Avatars",
+	"type": "Course"
 }

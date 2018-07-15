@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeff Snyder"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Educational Studies 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "This course will survey current approaches to educational change. Students will explore the current systems and structures that constitute the policy framework, scrutinize the assumptions and ideological underpinnings of different political camps, and examine the dynamic interactions between and among those shaping American education. Additionally, they will look at various reform efforts and models, considering their use in the effort to transform schools.",
 	"synonym": "36955",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Fixing Schools: Politics and Policy in American Education"
+	"title": "Fixing Schools: Politics and Policy in American Education",
+	"type": "Course"
 }

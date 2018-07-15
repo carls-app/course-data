@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15745",
 	"tags": [
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTETHICS",
+		"SPECINTHEALTH"
 	],
-	"title": "Bioethcs:Christian Approaches"
+	"title": "Bioethcs:Christian Approaches",
+	"type": "Course"
 }

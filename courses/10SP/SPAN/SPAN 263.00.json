@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": "This course proposes a genealogical study of the concept of Human Rights. The course will begin with the debates in sixteenth century Spain about the theological, political and juridical rights of \"Indians.\" The course will cover four centuries and the following topics will be discussed: the debates about poverty in sixteenth century Spain; the birth of the concept of tolerance in the eighteenth century; the creation of the modern political constitution in the United States, France and Spain; the debates about women's rights, abortion and euthanasia, etc.",
 	"synonym": "24599",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMLIT",
+		"LTAMPERT"
 	],
-	"title": "History of Human Rights"
+	"title": "History of Human Rights",
+	"type": "Course"
 }

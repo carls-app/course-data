@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"QRE",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -54,34 +46,14 @@
 	"summary": "The environmental justice movement seeks greater participation by marginalized communities in environmental policy, and equity in the distribution of environmental harms and benefits. This course will examine the meaning of \"environmental justice,\" the history of the movement, the empirical foundation for the movement's claims, and specific policy questions. Our focus is the United States, but students will have the opportunity to research environmental justice in other countries.",
 	"synonym": "30370",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"ENTS2SCP",
+		"POSI-GDS",
+		"POSCELECTIVE",
+		"ENTSCDSCP",
+		"ENTSFASCP",
+		"ENTSLPSCP",
+		"AMSTTOPICAL3"
 	],
-	"title": "Environmental Justice"
+	"title": "Environmental Justice",
+	"type": "Course"
 }

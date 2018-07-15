@@ -6,7 +6,7 @@
 	"instructors": [
 		"David F Appleyard"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "567",
 	"tags": [],
-	"title": "Algorithms II"
+	"title": "Algorithms II",
+	"type": "Course"
 }

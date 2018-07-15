@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3183",
 	"tags": [],
-	"title": "Topics:Chinese Landscape"
+	"title": "Topics:Chinese Landscape",
+	"type": "Course"
 }

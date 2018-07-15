@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "18632",
 	"tags": [],
-	"title": "Econ of Arts & Culture"
+	"title": "Econ of Arts & Culture",
+	"type": "Course"
 }

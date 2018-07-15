@@ -8,11 +8,12 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 20,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "4110",
 	"tags": [],
-	"title": "Carleton Players Productions"
+	"title": "Carleton Players Productions",
+	"type": "Course"
 }

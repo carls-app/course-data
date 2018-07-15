@@ -8,11 +8,12 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "207.07",
+	"number": "207",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Chinese 103 or the equivalent.",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": "This course builds oral and written proficiency, emphasizing expressive ability, accuracy of grammar, and pronunciation. Students learn to read, write, and speak Chinese inside and outside of the classroom.",
 	"synonym": "25558",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Chinese Studies Seminar in Tianjin: Chinese Language"
+	"title": "Chinese Studies Seminar in Tianjin: Chinese Language",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary S Gustafson"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2341",
 	"tags": [],
-	"title": "Educational Psychology"
+	"title": "Educational Psychology",
+	"type": "Course"
 }

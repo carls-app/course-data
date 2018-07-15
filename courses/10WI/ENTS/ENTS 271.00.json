@@ -8,7 +8,7 @@
 	"instructors": [
 		"Aaron M Swoboda"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "23315",
 	"tags": [
-		{
-			"code": "ENTSCORE",
-			"name": "ENTS Core Course"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"ENTSCORE",
+		"POSI-GDS"
 	],
-	"title": "Environmental Economics and Policy"
+	"title": "Environmental Economics and Policy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 236 required winter term",
 	"requirements": [
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -38,10 +36,8 @@
 	"summary": "This course will explore the many dimensions of public health within the United States and provide an introduction to community based work and research. Public health is by nature interdisciplinary and the course will address local public health issues through the lenses of social, biological, and physical determinants of health. In addition to readings and discussions, the course will incorporate the expertise of visiting public health practitioners and include site visits to local public health agencies. Students will work collaboratively with a community partner on a public health-related civic engagement project selected during Fall term and continued during Winter Break. This is the first course of a two course winter break program.",
 	"synonym": "38246",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Perspectives in Public Health"
+	"title": "Perspectives in Public Health",
+	"type": "Course"
 }

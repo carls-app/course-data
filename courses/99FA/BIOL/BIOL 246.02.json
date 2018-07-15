@@ -8,7 +8,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "246.02",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 15,
 		"total": 13,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2502",
 	"tags": [],
-	"title": "Animal Behavior Laboratory"
+	"title": "Animal Behavior Laboratory",
+	"type": "Course"
 }

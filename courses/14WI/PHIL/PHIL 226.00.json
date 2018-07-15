@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"HI",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -54,22 +46,11 @@
 	"summary": "This course will consider various philosophical views on the nature of love and friendship. It will focus on both the history of philosophical thinking about these notions from Plato and Aristotle to the twentieth century and a variety of contemporary views on the meaning of love and friendship that derive their insight from the most recent studies of emotion, agency, action, rationality, moral value, and motivation. We will also look at the variations in the understanding of love and friendship among the members of the same culture and across cultures.",
 	"synonym": "35765",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"PHILPRACVAL",
+		"PHILTHEORY"
 	],
-	"title": "Love and Friendship"
+	"title": "Love and Friendship",
+	"type": "Course"
 }

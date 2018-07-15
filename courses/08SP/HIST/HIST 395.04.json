@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "395.04",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "04",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "18144",
 	"tags": [
-		{
-			"code": "AFAMSENIORSEM",
-			"name": "AFAM Senior Seminar"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"AFAMSENIORSEM",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Narrative & Memory in Af Hist"
+	"title": "Narrative & Memory in Af Hist",
+	"type": "Course"
 }

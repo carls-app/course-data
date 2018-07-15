@@ -9,7 +9,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -48,5 +49,6 @@
 		"CCSTBINARY",
 		"AFAMDISTROHU"
 	],
-	"title": "Hist,Memory & Black Atlantic"
+	"title": "Hist,Memory & Black Atlantic",
+	"type": "Course"
 }

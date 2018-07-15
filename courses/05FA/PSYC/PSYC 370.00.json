@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clark G Ohnesorge"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "13997",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Topic-Cognitn:Attention&Consc"
+	"title": "Topic-Cognitn:Attention&Consc",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beth P Kissileff"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "21686",
 	"tags": [],
-	"title": "Intro Judaism:Ancient Texts"
+	"title": "Intro Judaism:Ancient Texts",
+	"type": "Course"
 }

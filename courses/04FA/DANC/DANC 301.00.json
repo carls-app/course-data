@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "9972",
 	"tags": [],
-	"title": "Contemp Style&Tech:Afr Dancer"
+	"title": "Contemp Style&Tech:Afr Dancer",
+	"type": "Course"
 }

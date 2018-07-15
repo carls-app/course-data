@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carolyn Wong"
 	],
-	"number": "219.00",
+	"number": "219",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -45,26 +40,12 @@
 	"summary": "Why do protest movements form and who joins? How do grassroots movements achieve their aims? This class examines the strategies of grassroots political actors as they organize protest movements in civil society, forge coalitions, and give a voice to the voiceless. Comparisons are drawn between the United States, European, Asian, and Latin American experiences.",
 	"synonym": "27024",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"AMMUGROUP3",
+		"WGSTADDL",
+		"AMSTTOPICAL3",
+		"POSI-DSS",
+		"POSI-DSS2"
 	],
-	"title": "Protest, Power & Grassroots Organizing: American Social Movements"
+	"title": "Protest, Power & Grassroots Organizing: American Social Movements",
+	"type": "Course"
 }

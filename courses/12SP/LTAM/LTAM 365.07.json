@@ -6,16 +6,14 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "365.07",
+	"number": "365",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -25,14 +23,9 @@
 	"summary": null,
 	"synonym": "30479",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMSOCSCI",
+		"LTAMELECTIVE"
 	],
-	"title": "Peru Program: Current Issues in Development and Social Movements in Peru"
+	"title": "Peru Program: Current Issues in Development and Social Movements in Peru",
+	"type": "Course"
 }

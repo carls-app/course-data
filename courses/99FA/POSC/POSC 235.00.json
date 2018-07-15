@@ -9,7 +9,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2882",
 	"tags": [],
-	"title": "Cold War:US & Soviet Frgn Pol"
+	"title": "Cold War:US & Soviet Frgn Pol",
+	"type": "Course"
 }

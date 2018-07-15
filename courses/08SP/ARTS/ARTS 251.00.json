@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paulette J Werger"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Boliou 044"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "17554",
 	"tags": [],
-	"title": "Metalsmithing"
+	"title": "Metalsmithing",
+	"type": "Course"
 }

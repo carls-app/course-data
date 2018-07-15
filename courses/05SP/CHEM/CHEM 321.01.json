@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "321.01",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Mudd 185"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 6,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9388",
 	"tags": [],
-	"title": "Biological Chemistry Lab"
+	"title": "Biological Chemistry Lab",
+	"type": "Course"
 }

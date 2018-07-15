@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1425",
 	"tags": [],
-	"title": "Cmptr Simulatn/Complex Phys Sy"
+	"title": "Cmptr Simulatn/Complex Phys Sy",
+	"type": "Course"
 }

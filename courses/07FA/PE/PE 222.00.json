@@ -8,16 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "18827",
 	"tags": [],
-	"title": "Field Hockey"
+	"title": "Field Hockey",
+	"type": "Course"
 }

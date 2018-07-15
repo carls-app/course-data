@@ -8,16 +8,14 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "208.07",
+	"number": "208",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -27,22 +25,11 @@
 	"summary": "Focusing on topics of current interest in French society, this course is designed to help students gain ease and proficiency in spoken and written French. While providing some focused work on language skills, emphasis will be placed on cultural issues, often drawing on current events. Work will include regular writing, discussion, and short presentations.",
 	"synonym": "26506",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"EUSTOFFCAMP",
+		"FRSTELEC"
 	],
-	"title": "Paris Program: Cultural Themes"
+	"title": "Paris Program: Cultural Themes",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Thomas C Stillinger"
 	],
-	"number": "313.00",
+	"number": "313",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2153",
 	"tags": [
-		{
-			"code": "ENGL2",
-			"name": "ENGL Group II"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		}
+		"ENGL2",
+		"LITFORLANG"
 	],
-	"title": "The Faerie Queene"
+	"title": "The Faerie Queene",
+	"type": "Course"
 }

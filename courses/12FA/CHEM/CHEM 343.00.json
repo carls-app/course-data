@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128, Mathematics 211 and one of the following: Physics 151, 152, 153, or 165",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 48,
@@ -46,10 +44,8 @@
 	"summary": "The major topic is chemical thermodynamics, including the First and Second Laws, the conditions for spontaneous change, thermochemistry, and chemical equilibrium. To showcase how chemists utilize energy concepts to solve problems, thermodynamics will be regularly applied to a number of real-world examples and scientific problems.",
 	"synonym": "32430",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		}
+		"BIOCELEC"
 	],
-	"title": "Chemical Thermodynamics"
+	"title": "Chemical Thermodynamics",
+	"type": "Course"
 }

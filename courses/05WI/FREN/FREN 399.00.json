@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "399.00",
+	"number": "399",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "10740",
 	"tags": [],
-	"title": "Senior Essay"
+	"title": "Senior Essay",
+	"type": "Course"
 }

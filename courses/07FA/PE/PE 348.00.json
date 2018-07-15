@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "18840",
 	"tags": [],
-	"title": "Principles of Athletics"
+	"title": "Principles of Athletics",
+	"type": "Course"
 }

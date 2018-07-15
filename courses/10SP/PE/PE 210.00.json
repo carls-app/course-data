@@ -9,16 +9,14 @@
 		"Aaron D Rushing",
 		"Linda K Luedke"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 20,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "23974",
 	"tags": [],
-	"title": "Baseball Intercollegiate, Men"
+	"title": "Baseball Intercollegiate, Men",
+	"type": "Course"
 }

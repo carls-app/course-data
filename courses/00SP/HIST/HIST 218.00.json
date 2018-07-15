@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "History, Memory & Vietnam"
+	"title": "History, Memory & Vietnam",
+	"type": "Course"
 }

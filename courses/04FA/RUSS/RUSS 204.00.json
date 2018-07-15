@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "10692",
 	"tags": [],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Melody S Gilbert"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Scoville 105"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "19051",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"CAMSSTUPROD"
 	],
-	"title": "Studio Prod: Carleton Show"
+	"title": "Studio Prod: Carleton Show",
+	"type": "Course"
 }

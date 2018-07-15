@@ -6,7 +6,7 @@
 	"instructors": [
 		"Avraham Sela"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,10 +40,8 @@
 	"summary": null,
 	"synonym": "30332",
 	"tags": [
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"POSI-DSS"
 	],
-	"title": "State, Society and International Relations of the Middle East"
+	"title": "State, Society and International Relations of the Middle East",
+	"type": "Course"
 }

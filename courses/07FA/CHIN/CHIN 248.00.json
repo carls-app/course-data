@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lan Tan"
 	],
-	"number": "248.00",
+	"number": "248",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "22029",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		}
+		"ASSTEAST",
+		"ASSTSS"
 	],
-	"title": "Structure of Chinese"
+	"title": "Structure of Chinese",
+	"type": "Course"
 }

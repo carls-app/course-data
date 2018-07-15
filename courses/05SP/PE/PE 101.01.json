@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michelle Levi"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "10102",
 	"tags": [],
-	"title": "Aerobics"
+	"title": "Aerobics",
+	"type": "Course"
 }

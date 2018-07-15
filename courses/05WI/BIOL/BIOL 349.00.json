@@ -6,7 +6,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -31,14 +32,9 @@
 	"summary": null,
 	"synonym": "9383",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Paleoecology Laboratory"
+	"title": "Paleoecology Laboratory",
+	"type": "Course"
 }

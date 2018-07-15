@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "15173",
 	"tags": [],
-	"title": "Lasers and Spectroscopy"
+	"title": "Lasers and Spectroscopy",
+	"type": "Course"
 }

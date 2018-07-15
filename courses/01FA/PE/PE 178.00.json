@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "178.00",
+	"number": "178",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2044",
 	"tags": [],
-	"title": "Tae Kwon Do"
+	"title": "Tae Kwon Do",
+	"type": "Course"
 }

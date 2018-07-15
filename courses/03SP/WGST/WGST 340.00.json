@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "6277",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"AMSTTOPICAL1",
+		"WGSTCORE"
 	],
-	"title": "From Memory to Memoir"
+	"title": "From Memory to Memoir",
+	"type": "Course"
 }

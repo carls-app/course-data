@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael S Griffin"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "16668",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"CAMSELECTIVE",
+		"ENTSSP"
 	],
-	"title": "Environ Issues & Media Rep"
+	"title": "Environ Issues & Media Rep",
+	"type": "Course"
 }

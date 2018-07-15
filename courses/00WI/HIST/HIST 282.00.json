@@ -8,7 +8,7 @@
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "3506",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL",
+		"WGSTADDL"
 	],
-	"title": "Women in African History"
+	"title": "Women in African History",
+	"type": "Course"
 }

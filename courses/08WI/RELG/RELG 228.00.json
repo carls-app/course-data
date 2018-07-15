@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne E Patrick"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "19024",
 	"tags": [
-		{
-			"code": "ENTSENVPERS",
-			"name": "ENTS Environ Perspective"
-		}
+		"ENTSENVPERS"
 	],
-	"title": "Issues in Christian Ethics"
+	"title": "Issues in Christian Ethics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Harbison"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "19940",
 	"tags": [
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOLELECTIVE"
 	],
-	"title": "Ornithology"
+	"title": "Ornithology",
+	"type": "Course"
 }

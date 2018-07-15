@@ -9,7 +9,7 @@
 	"instructors": [
 		"Frank Reilly"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "8559",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTGLOBAL",
+		"LTAMELECTIVE"
 	],
-	"title": "Liberation Theologies"
+	"title": "Liberation Theologies",
+	"type": "Course"
 }

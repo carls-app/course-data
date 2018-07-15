@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seth N Greenberg"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 38,
 		"total": 35,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "21248",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

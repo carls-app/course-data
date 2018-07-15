@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "494",
 	"tags": [],
-	"title": "Plato, Selected Readings"
+	"title": "Plato, Selected Readings",
+	"type": "Course"
 }

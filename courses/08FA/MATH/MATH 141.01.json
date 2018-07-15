@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "141.01",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "21418",
 	"tags": [],
-	"title": "Mathematical Modeling"
+	"title": "Mathematical Modeling",
+	"type": "Course"
 }

@@ -10,7 +10,7 @@
 		"Victoria Morse",
 		"Susannah R Ottaway"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -36,6 +36,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,18 +46,10 @@
 	"summary": null,
 	"synonym": "4208",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL",
+		"WGSTADDL"
 	],
-	"title": "Women's Lives Pre-Modern Eur"
+	"title": "Women's Lives Pre-Modern Eur",
+	"type": "Course"
 }

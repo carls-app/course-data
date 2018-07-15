@@ -6,7 +6,7 @@
 	"instructors": [
 		"Heidi L Jaynes"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 18,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22054",
 	"tags": [],
-	"title": "Methods of Coaching Org Sports"
+	"title": "Methods of Coaching Org Sports",
+	"type": "Course"
 }

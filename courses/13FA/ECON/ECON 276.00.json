@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bruce A Wambheim"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "This course examines the role of money and monetary institutions in determination of income, employment, and prices in the domestic and world economies. It also examines the role of commercial banking and financial markets in a market-based economy.",
 	"synonym": "36309",
 	"tags": [
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		}
+		"POECUPAPP"
 	],
-	"title": "Money and Banking"
+	"title": "Money and Banking",
+	"type": "Course"
 }

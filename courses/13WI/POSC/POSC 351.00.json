@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -45,42 +40,16 @@
 	"summary": "This seminar will examine the speeches, writings, and life of Dr. Martin Luther King, Jr. Students will study King as an example of the responsible citizen envisioned by the theory expressed in",
 	"synonym": "33028",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"AMSTTOPICAL3",
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"SPECINTSOCTHGHT",
+		"POSI-LPS",
+		"POSIELECTIVE",
+		"AFAMDISTROSS",
+		"AFAMSOCINQ",
+		"POSI-PLI2"
 	],
-	"title": "Political Theory of Martin Luther King, Jr."
+	"title": "Political Theory of Martin Luther King, Jr.",
+	"type": "Course"
 }

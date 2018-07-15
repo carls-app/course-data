@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -52,18 +47,10 @@
 	"summary": "This course addresses the legacy of Russian film director and cult figure Andrei Tarkovsky, his contribution to the revival of Russian cinema and film theory, and his influence on other filmmakers--in Russia and around the world. Readings will focus on Tarkovsky's own writing about film and art. Close analysis of the films (",
 	"synonym": "32212",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "RUSSIANPERT",
-			"name": "Russian Pertinent"
-		}
+		"CAMSELECTIVE",
+		"EUSTCNTRY",
+		"RUSSIANPERT"
 	],
-	"title": "Cinema Directors: Tarkovsky"
+	"title": "Cinema Directors: Tarkovsky",
+	"type": "Course"
 }

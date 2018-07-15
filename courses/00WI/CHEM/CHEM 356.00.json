@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 10,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2249",
 	"tags": [],
-	"title": "Instrmntn for Chem Analysis"
+	"title": "Instrmntn for Chem Analysis",
+	"type": "Course"
 }

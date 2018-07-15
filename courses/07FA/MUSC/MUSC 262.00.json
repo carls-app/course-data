@@ -8,11 +8,12 @@
 	"instructors": [
 		"Dave Saunders"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 50,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "18402",
 	"tags": [],
-	"title": "Saxophone"
+	"title": "Saxophone",
+	"type": "Course"
 }

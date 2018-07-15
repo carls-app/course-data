@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "3603",
 	"tags": [],
-	"title": "Hegel and His Critics"
+	"title": "Hegel and His Critics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 40,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "2738",
 	"tags": [
-		{
-			"code": "HISTSASIA",
-			"name": "HIST South Asia"
-		}
+		"HISTSASIA"
 	],
-	"title": "History of Classical India"
+	"title": "History of Classical India",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "290.17",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "17",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "13251",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Directed Reading"
+	"title": "Directed Reading",
+	"type": "Course"
 }

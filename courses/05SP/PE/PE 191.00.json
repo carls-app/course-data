@@ -6,7 +6,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "11812",
 	"tags": [],
-	"title": "Water Polo"
+	"title": "Water Polo",
+	"type": "Course"
 }

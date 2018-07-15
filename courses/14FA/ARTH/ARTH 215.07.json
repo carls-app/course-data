@@ -8,16 +8,14 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "215.07",
+	"number": "215",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": "The course provides an introduction to various aspects of contemporary arts and architecture in Czech culture. Students will examine the relationship between the construction of memory and the construction of contemporary art, architecture, and writings through lectures, discussions, and visits to galleries and architectural sites within the city of Prague.",
 	"synonym": "37995",
 	"tags": [],
-	"title": "Cross Cultural Psychology in Prague: Modern Art in the Czech Lands:Nineteenth-Twenty-First Centuries"
+	"title": "Cross Cultural Psychology in Prague: Modern Art in the Czech Lands:Nineteenth-Twenty-First Centuries",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "110.06",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "24118",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCNTRY",
+		"HISTERLYMODEUR"
 	],
-	"title": "Russ Revolution - 1917"
+	"title": "Russ Revolution - 1917",
+	"type": "Course"
 }

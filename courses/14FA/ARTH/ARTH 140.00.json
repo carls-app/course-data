@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "This course will survey the art and architecture of African peoples from prehistory to the present. Focusing on significant case studies in various mediums (including sculpture, painting, architecture, masquerades and body arts), this course will consider the social, cultural, aesthetic and political contexts in which artistic practices developed both on the African continent and beyond. Major themes will include the use of art for status production, the use of aesthetic objects in social rituals and how the history of African and African diaspora art has been written and institutionally framed.",
 	"synonym": "37985",
 	"tags": [
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "FFSTHISARTH",
-			"name": "FFST Hist & Art Hist Conc"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRENPERT",
-			"name": "French Pertinent Course"
-		},
-		{
-			"code": "AFSTSURV",
-			"name": "Africana Studies Survey Course"
-		}
+		"AFAMSURVEY",
+		"FFSTHISARTH",
+		"FRSTELEC",
+		"FRENPERT",
+		"AFSTSURV"
 	],
-	"title": "African Art and Culture"
+	"title": "African Art and Culture",
+	"type": "Course"
 }

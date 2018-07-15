@@ -9,7 +9,7 @@
 		"Roy Grow",
 		"Burton Levin"
 	],
-	"number": "329.00",
+	"number": "329",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Vietnam War & American Policy"
+	"title": "Vietnam War & American Policy",
+	"type": "Course"
 }

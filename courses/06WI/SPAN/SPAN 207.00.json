@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "13658",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"CCSTREGIONAL",
+		"SPAN205-209",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"LTAMLIT"
 	],
-	"title": "Exploring Hispanic Culture"
+	"title": "Exploring Hispanic Culture",
+	"type": "Course"
 }

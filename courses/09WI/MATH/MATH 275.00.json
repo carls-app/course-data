@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 23,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "21462",
 	"tags": [],
-	"title": "Intro to Stats Inference"
+	"title": "Intro to Stats Inference",
+	"type": "Course"
 }

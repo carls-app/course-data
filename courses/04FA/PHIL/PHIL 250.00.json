@@ -6,7 +6,7 @@
 	"instructors": [
 		"David J MacCallum"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "11155",
 	"tags": [],
-	"title": "Philosophy of Physics"
+	"title": "Philosophy of Physics",
+	"type": "Course"
 }

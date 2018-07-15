@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert G Tisdale"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "11449",
 	"tags": [],
-	"title": "Essay: Imitation to Invention"
+	"title": "Essay: Imitation to Invention",
+	"type": "Course"
 }

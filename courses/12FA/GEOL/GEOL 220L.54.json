@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jen Wright"
 	],
-	"number": "220L.54",
+	"number": "220L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32519",
 	"tags": [],
-	"title": "Tectonics Lab"
+	"title": "Tectonics Lab",
+	"type": "Lab"
 }

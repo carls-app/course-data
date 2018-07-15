@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "An introduction to the concept of development, examining both theoretical models and empirical evidence. Prenatal through late childhood is covered with some discussion of adolescence when time permits. Topics include the development of personality and identity, social behavior and knowledge, and cognition. In addition, attention is paid to current applications of theory to such topics as: day care, the role of the media, and parenting.",
 	"synonym": "35436",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER1",
-			"name": "EDUC Cluster 1 Learn, Cogntn,"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"EDUCCLUSTER1",
+		"CGSCELECTIVE"
 	],
-	"title": "Developmental Psychology"
+	"title": "Developmental Psychology",
+	"type": "Course"
 }

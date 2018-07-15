@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"IS",
+		"WR2",
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 30,
@@ -54,30 +46,13 @@
 	"summary": "This course explores the role of the nation and nationalism within modern Europe and the ways in which ideas and myths about the nation have complemented and competed with conceptions of Europe as a geographic, cultural and political unity. We will explore the intellectual roots of nationalism in different countries as well as their artistic, literary and musical expressions. In addition to examining nationalism from a variety of disciplinary perspectives--sociology, anthropology, history, political science--we will explore some of the watershed, moments of European nationalism such as the French Revolution, the two world wars, and the Maastricht treaty.",
 	"synonym": "26989",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"EUSTCORE",
+		"POSI-AREAS",
+		"SPECINTSOCTHGHT",
+		"HISTERLYMODEUR",
+		"MARSSUPP",
+		"HISTANCNT/MDVL"
 	],
-	"title": "The Nation State in Europe"
+	"title": "The Nation State in Europe",
+	"type": "Course"
 }

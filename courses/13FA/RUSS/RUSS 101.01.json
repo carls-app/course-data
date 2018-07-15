@@ -7,7 +7,7 @@
 		"Laura Goering",
 		"Anna M Dotlibova"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 10,
@@ -52,5 +53,6 @@
 	"summary": "For students with no previous training in or minimal knowledge of Russian. Simultaneous development of skills in speaking, reading, aural comprehension, writing. Students with prior instruction or who speak Russian at home should consult the department for placement information. Class meets five days a week.",
 	"synonym": "36163",
 	"tags": [],
-	"title": "Elementary Russian"
+	"title": "Elementary Russian",
+	"type": "Course"
 }

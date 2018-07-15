@@ -9,7 +9,7 @@
 		"Jim Fisher",
 		"Éva S Pósfay"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 17,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "5000",
 	"tags": [
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"CCSTBINARY"
 	],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

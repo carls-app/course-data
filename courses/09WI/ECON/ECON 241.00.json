@@ -6,7 +6,7 @@
 	"instructors": [
 		"Radek Szulga"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "20579",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS",
+		"LTAMSOCSCI",
+		"LTAMPERT"
 	],
-	"title": "Growth and Development"
+	"title": "Growth and Development",
+	"type": "Course"
 }

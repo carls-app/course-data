@@ -9,7 +9,7 @@
 		"Matt Rand",
 		"Stephan G Zweifel"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "19303",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Behavioral Genetics"
+	"title": "Behavioral Genetics",
+	"type": "Course"
 }

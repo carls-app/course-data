@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "106.00",
+	"number": "106",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": "The objective of the course is to review basic skills and strategies of badminton, in addition to learn new techniques and strategies of singles and doubles play with greater emphasis on competition. Advanced singles and doubles strategies will be covered as well as involvement in tournament play.",
 	"synonym": "28416",
 	"tags": [],
-	"title": "Badminton, Intermediate"
+	"title": "Badminton, Intermediate",
+	"type": "Course"
 }

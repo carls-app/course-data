@@ -6,11 +6,12 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "113L.52",
+	"number": "113L",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 8,
 		"total": 16,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "3090",
 	"tags": [],
-	"title": "Newtonian Mechanics Lab"
+	"title": "Newtonian Mechanics Lab",
+	"type": "Lab"
 }

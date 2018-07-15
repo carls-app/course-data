@@ -8,11 +8,12 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "244.07",
+	"number": "244",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "2690",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Century Lit & Cult in Munich"
+	"title": "Century Lit & Cult in Munich",
+	"type": "Course"
 }

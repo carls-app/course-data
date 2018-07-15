@@ -8,7 +8,7 @@
 	"instructors": [
 		"Karen M Wright"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4226",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL"
 	],
-	"title": "Soc Capital: Critical Perspctv"
+	"title": "Soc Capital: Critical Perspctv",
+	"type": "Course"
 }

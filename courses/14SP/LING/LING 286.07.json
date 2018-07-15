@@ -8,20 +8,15 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "286.07",
+	"number": "286",
 	"offerings": null,
 	"prerequisites": "Prerequisite: 100-level Linguistics course",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"FSR",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -31,10 +26,8 @@
 	"summary": "This course examines the nature of the Japanese language through the lens of contemporary linguistic theory. Topics include the history of the language, its sound structure, word formation operations, syntax, and its use in social and artistic contexts. This course is not intended to teach students to speak Japanese, and while experience with Japanese would be helpful, it is not necessary.",
 	"synonym": "35122",
 	"tags": [
-		{
-			"code": "EASTSUPP",
-			"name": "East Asian Supporting"
-		}
+		"EASTSUPP"
 	],
-	"title": "Japanese Linguistics in Kyoto Seminar: The Structure of Japanese"
+	"title": "Japanese Linguistics in Kyoto Seminar: The Structure of Japanese",
+	"type": "Course"
 }

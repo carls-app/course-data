@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "318.00",
+	"number": "318",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -41,5 +42,6 @@
 		"AMSTTOPICAL3",
 		"ENTSSP"
 	],
-	"title": "The American Farm"
+	"title": "The American Farm",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"George G Shuffelton"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": "This course surveys the poetry and prose of later medieval England, from about 1350-1475--an era of great accomplishment and considerable variety in English writing and great changes and considerable upheaval in English society, a period of plague, heresy, rebellion, and civil war. Readings (in modern translation) will include travel literature and autobiography, dream visions and Arthurian romances, sermons, saints' lives, and allegories.",
 	"synonym": "25168",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"EUSTTRANNATL",
+		"MARSSUPP"
 	],
-	"title": "Introduction to Medieval Literature"
+	"title": "Introduction to Medieval Literature",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Chris Polt"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,24 +31,13 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -58,22 +47,11 @@
 	"summary": "As moderns, we often think of Nature as an ancient concept. But how old is our idea of the Natural exactly, and what did people think about the environment before the advent of environmentalism, Romanticism, and Christianity as prevailing modes of Western thought? This course will explore how Greeks and Romans conceived of and engaged with their natural environment(s), with special attention to the ways in which ancient ideas differ from modern ones. Using textual and material sources, we will examine ancient attitudes towards nature and the environment through literature, philosophy, religion, politics, science, etc.",
 	"synonym": "33170",
 	"tags": [
-		{
-			"code": "ENTS2SCP",
-			"name": "ENTS2 Sci, Cul, Pol"
-		},
-		{
-			"code": "ENTSFASCP",
-			"name": "ENTS Food AG Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "ENTSWRSCP",
-			"name": "ENTS Wtr Res Soc,Cul,Pol"
-		}
+		"ENTS2SCP",
+		"ENTSFASCP",
+		"ENTSLPSCP",
+		"ENTSWRSCP"
 	],
-	"title": "Nature and the Environment in the Ancient World"
+	"title": "Nature and the Environment in the Ancient World",
+	"type": "Course"
 }

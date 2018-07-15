@@ -9,7 +9,7 @@
 		"Sarah Deel",
 		"Mark McKone"
 	],
-	"number": "125L.53",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -34,10 +35,8 @@
 	"summary": null,
 	"synonym": "11961",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

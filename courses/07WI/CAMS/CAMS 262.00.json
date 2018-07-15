@@ -8,7 +8,7 @@
 	"instructors": [
 		"Paul Hager"
 	],
-	"number": "262.00",
+	"number": "262",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 12,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "16378",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Advanced Editing Techniques"
+	"title": "Advanced Editing Techniques",
+	"type": "Course"
 }

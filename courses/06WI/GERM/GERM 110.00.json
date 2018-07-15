@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "13516",
 	"tags": [],
-	"title": "German for Reading Knowledge"
+	"title": "German for Reading Knowledge",
+	"type": "Course"
 }

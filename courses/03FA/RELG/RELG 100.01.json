@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shahzad Bashir"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7567",
 	"tags": [],
-	"title": "The Sacred Body"
+	"title": "The Sacred Body",
+	"type": "Course"
 }

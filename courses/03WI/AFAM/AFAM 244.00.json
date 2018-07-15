@@ -9,7 +9,7 @@
 	"instructors": [
 		"Melinda Russell"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -49,14 +47,9 @@
 	"summary": null,
 	"synonym": "4542",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"CCSTGLOBAL",
+		"AFAMSURVEY"
 	],
-	"title": "Music of Africa"
+	"title": "Music of Africa",
+	"type": "Course"
 }

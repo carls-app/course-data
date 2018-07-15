@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jonathan Hibbard"
 	],
-	"number": "121.03",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 101, 111 or placement via Calculus Placement Exam # 2",
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "Integration techniques, improper integrals, the calculus of the logarithmic, exponential and inverse trigonometric functions, applications, Taylor polynomials and infinite series.",
 	"synonym": "25200",
 	"tags": [],
-	"title": "Calculus II"
+	"title": "Calculus II",
+	"type": "Course"
 }

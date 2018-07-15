@@ -9,7 +9,7 @@
 		"Marion E Cass",
 		"Gretchen E Hofmeister"
 	],
-	"number": "352.02",
+	"number": "352",
 	"offerings": {
 		"locations": [
 			"Mudd 269"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 8,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "17420",
 	"tags": [],
-	"title": "Inorganic Chemistry Laboratory"
+	"title": "Inorganic Chemistry Laboratory",
+	"type": "Course"
 }

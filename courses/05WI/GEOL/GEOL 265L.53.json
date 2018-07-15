@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qing Zhang"
 	],
-	"number": "265L.53",
+	"number": "265L",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9555",
 	"tags": [],
-	"title": "Structural Geology Lab"
+	"title": "Structural Geology Lab",
+	"type": "Lab"
 }

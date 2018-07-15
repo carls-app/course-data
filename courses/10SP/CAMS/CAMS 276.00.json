@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Cinema and Media Studies 271, or permission of the instructor; Cinema and Media Studies 279 strongly recommended.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "22891",
 	"tags": [
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECPROD",
+		"CAMSSTUPROD",
+		"CAMSELECTIVE"
 	],
-	"title": "Fiction II: Producing and Directing the Short Film"
+	"title": "Fiction II: Producing and Directing the Short Film",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "299.00",
+	"number": "299",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 30,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "14734",
 	"tags": [],
-	"title": "Recital"
+	"title": "Recital",
+	"type": "Course"
 }

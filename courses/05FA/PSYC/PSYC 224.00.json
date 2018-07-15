@@ -6,7 +6,7 @@
 	"instructors": [
 		"Caroline A Burke"
 	],
-	"number": "224.00",
+	"number": "224",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "14015",
 	"tags": [
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTCORE",
+		"WGSTADDL"
 	],
-	"title": "Psychology of Gender"
+	"title": "Psychology of Gender",
+	"type": "Course"
 }

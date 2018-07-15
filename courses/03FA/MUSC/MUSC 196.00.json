@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ben Allen"
 	],
-	"number": "196.00",
+	"number": "196",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 30,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "8418",
 	"tags": [],
-	"title": "Class Voice"
+	"title": "Class Voice",
+	"type": "Course"
 }

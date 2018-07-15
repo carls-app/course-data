@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jerry R Mohrig"
 	],
-	"number": "234L.54",
+	"number": "234L",
 	"offerings": {
 		"locations": [
 			"Mudd 267"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2268",
 	"tags": [],
-	"title": "Organic Chemistry II Lab"
+	"title": "Organic Chemistry II Lab",
+	"type": "Lab"
 }

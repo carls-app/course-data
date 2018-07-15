@@ -6,7 +6,7 @@
 	"instructors": [
 		"Allison M Koster"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center PL16"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +34,6 @@
 	"summary": "An introduction to and practice in stage lighting for the performing arts. Coursework will cover the function of light in design; lighting equipment and terminology; communication graphics through practical laboratory explorations. Application of principles for performance events and contemporary lighting problems will be studied through hands-on applications.",
 	"synonym": "26605",
 	"tags": [],
-	"title": "Lighting Design for the Performing Arts"
+	"title": "Lighting Design for the Performing Arts",
+	"type": "Course"
 }

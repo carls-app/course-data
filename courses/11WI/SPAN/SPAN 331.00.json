@@ -6,7 +6,7 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 330"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "According to Graciáns influential",
 	"synonym": "26649",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "SPAN300LEVEL",
-			"name": "Spanish 300 Level Requirements"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"PENINLIT",
+		"SPAN300LEVEL",
+		"EUSTCNTRY",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Baroque Desires"
+	"title": "Baroque Desires",
+	"type": "Course"
 }

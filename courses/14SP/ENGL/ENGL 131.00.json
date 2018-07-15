@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,10 +45,8 @@
 	"summary": "Selected texts to be read in this course include those by Daniel Defoe, Thomas Hardy, Charles Johnson, J.M. Coetzee, Zadie Smith, and Sherman Alexie. We will pay close attention to the language of fiction, to the nature of narrative, and to narrative traditions in our ten-week journey from the world of Defoe's",
 	"synonym": "35332",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Reading Fiction"
+	"title": "Reading Fiction",
+	"type": "Course"
 }

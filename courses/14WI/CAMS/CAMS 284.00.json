@@ -6,7 +6,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "284.00",
+	"number": "284",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Students should have their own digital camera; software is provided.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -46,10 +44,8 @@
 	"summary": "This edition of the workshop will focus on photographic portraiture. Students will begin reading on the history and theory of portraiture and representation in photography, art, and cinema. With this grounding, they will undertake multiple creative portrait assignments in a wide variety of styles, including street styles, studio set-ups and lighting, editorial/fashion, documentary portraiture, and conceptual projects. This class will take advantage of the CAMS studios in The Weitz Center for Creativity.",
 	"synonym": "35906",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSELECTIVE"
 	],
-	"title": "Digital Photography Workshop"
+	"title": "Digital Photography Workshop",
+	"type": "Course"
 }

@@ -8,11 +8,12 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "283.07",
+	"number": "283",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "23120",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSSCI"
 	],
-	"title": "Modern Geologic Processes"
+	"title": "Modern Geologic Processes",
+	"type": "Course"
 }

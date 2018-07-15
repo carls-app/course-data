@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "235.02",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "3429",
 	"tags": [],
-	"title": "Microbiology Laboratory"
+	"title": "Microbiology Laboratory",
+	"type": "Course"
 }

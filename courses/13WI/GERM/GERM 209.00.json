@@ -6,11 +6,12 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": null,
 	"prerequisites": "Prerequisite: German 204 or the equivalent",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -20,5 +21,6 @@
 	"summary": "This course is designed to help students make the transition to reading German texts of their own choosing in any academic discipline. May be retaken for additional credits.",
 	"synonym": "34222",
 	"tags": [],
-	"title": "Reading German"
+	"title": "Reading German",
+	"type": "Course"
 }

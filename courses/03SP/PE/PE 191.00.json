@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tom Alcivar"
 	],
-	"number": "191.00",
+	"number": "191",
 	"offerings": {
 		"locations": [
 			"West Gym POOL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "6263",
 	"tags": [],
-	"title": "Water Polo"
+	"title": "Water Polo",
+	"type": "Course"
 }

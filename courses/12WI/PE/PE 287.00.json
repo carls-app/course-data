@@ -9,16 +9,14 @@
 		"Donna Ricks",
 		"Linda K Luedke"
 	],
-	"number": "287.00",
+	"number": "287",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 60,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "28471",
 	"tags": [],
-	"title": "Track and Field/Indoor Intercollegiate, Women"
+	"title": "Track and Field/Indoor Intercollegiate, Women",
+	"type": "Course"
 }

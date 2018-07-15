@@ -8,16 +8,14 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "386.15",
+	"number": "386",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "15",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "29140",
 	"tags": [],
-	"title": "Juried Lessons for the Major"
+	"title": "Juried Lessons for the Major",
+	"type": "Course"
 }

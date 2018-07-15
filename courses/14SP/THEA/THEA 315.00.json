@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger K Bechtel"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"Weitz Center 172"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -41,10 +39,8 @@
 	"summary": "With the rise of the \"creative economy\" and the \"creative class,\" \"creativity\" itself has become a buzzword. But what do we talk about when we talk about creativity? This course will begin with the premise that creativity is not necessarily an innate attribute, but one that can be cultivated, and students will explore and expand their own creative resources. Importantly, we will explore the intersection of personal creativity and cultural aesthetics. How is creativity released, restrained, or channeled through aesthetics? In addition to theoretical readings, student artists of all kinds will have the opportunity to create a variety of projects.",
 	"synonym": "35183",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Creativity and Aesthetics"
+	"title": "Creativity and Aesthetics",
+	"type": "Course"
 }

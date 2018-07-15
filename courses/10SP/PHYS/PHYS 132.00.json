@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "132.00",
+	"number": "132",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 111, not open to students who have completed Physics 131, 132, 141, or 142 at Carleton; Concurrent registration in Physics 132L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": "An introduction to the basic principles of Newtonian mechanics and conservation laws using the earth and the gravitational force law as a conceptual framework. The many influences of gravity on the structure of the earth from its shape to the tides, and techniques for measuring gravity will be discussed. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory.",
 	"synonym": "22832",
 	"tags": [],
-	"title": "Introduction to Physics: Gravity and the Earth"
+	"title": "Introduction to Physics: Gravity and the Earth",
+	"type": "Course"
 }

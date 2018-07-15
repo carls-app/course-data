@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "126L.54",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "17620",
 	"tags": [],
-	"title": "Energy Flow Biol Sys Lab"
+	"title": "Energy Flow Biol Sys Lab",
+	"type": "Lab"
 }

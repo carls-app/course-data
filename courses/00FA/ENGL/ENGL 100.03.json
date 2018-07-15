@@ -8,7 +8,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "100.03",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "03",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1479",
 	"tags": [],
-	"title": "Lit Sem: Spirit of Place"
+	"title": "Lit Sem: Spirit of Place",
+	"type": "Course"
 }

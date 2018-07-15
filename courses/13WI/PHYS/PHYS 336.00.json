@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Physics 228, 229/23 and Mathematics 232. Familiarity with matrix algebra is assumed",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "33924",
 	"tags": [],
-	"title": "Quantum Mechanics I"
+	"title": "Quantum Mechanics I",
+	"type": "Course"
 }

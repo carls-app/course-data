@@ -8,20 +8,15 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "252.07",
+	"number": "252",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -31,22 +26,11 @@
 	"summary": "This course will focus on the theme of social change in different genres of Malian literature, from the colonial period to the present. By studying oral and written works by traditional and modern poets, novelists, and playwrights such as Seydou Badian and Massa Makan Diabaté, Moussa Konaté, and Amadou Hampaté, the student will get an understanding of issues such as education, marriage, and traditional vs. modern political power in contemporary Malian society. Meeting will be arranged with many writers and oral performers.",
 	"synonym": "29996",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"FRSTELEC"
 	],
-	"title": "Mali Program: Literature and Society in Mali"
+	"title": "Mali Program: Literature and Society in Mali",
+	"type": "Course"
 }

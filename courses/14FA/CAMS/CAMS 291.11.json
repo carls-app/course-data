@@ -6,16 +6,14 @@
 	"instructors": [
 		"Jay S Beck"
 	],
-	"number": "291.11",
+	"number": "291",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "INT"
-		}
+		"INT"
 	],
 	"scnc": true,
+	"section": "11",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "40174",
 	"tags": [],
-	"title": "Independent Study"
+	"title": "Independent Study",
+	"type": "Course"
 }

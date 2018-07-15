@@ -6,7 +6,7 @@
 	"instructors": [
 		"William N Elison"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "19428",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTHU",
+		"ASSTSOUTH"
 	],
-	"title": "Hindu Traditions"
+	"title": "Hindu Traditions",
+	"type": "Course"
 }

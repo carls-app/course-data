@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qing Zhang"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 17,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12231",
 	"tags": [],
-	"title": "Introduction to Geology"
+	"title": "Introduction to Geology",
+	"type": "Course"
 }

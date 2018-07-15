@@ -7,7 +7,7 @@
 		"Hong Zeng",
 		"Mark Hansell"
 	],
-	"number": "102.01",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -43,6 +43,7 @@
 	"prerequisites": "Prerequisite: Chinese 101 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -52,10 +53,8 @@
 	"summary": "Continuation of Chinese 101.",
 	"synonym": "25568",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Elementary Chinese"
+	"title": "Elementary Chinese",
+	"type": "Course"
 }

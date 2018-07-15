@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "364.00",
+	"number": "364",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"IS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -49,18 +41,10 @@
 	"summary": "This research seminar examines the major debates in studies of contemporary capitalism in advanced capitalist and developing countries around the world. Moving beyond the classic theoretical debates of liberal, Marxist, developmentalist, and post-industrial arguments, the seminar will focus on recent debates concerning changes in labor markets, class structures, production systems, political institutions and social distribution, corporate governance, the multilateral system (e.g., IMF, the World Bank), supranational entities such as the European Union, and critical approaches on economic development, including new studies of the informal labor market.",
 	"synonym": "27008",
 	"tags": [
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"POSIADVSEM",
+		"POSI-GDS",
+		"POSCADVSEM"
 	],
-	"title": "Capitalism and Its Critics*"
+	"title": "Capitalism and Its Critics*",
+	"type": "Course"
 }

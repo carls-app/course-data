@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "107.00",
+	"number": "107",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6796",
 	"tags": [],
-	"title": "Explorations in Computer Sci"
+	"title": "Explorations in Computer Sci",
+	"type": "Course"
 }

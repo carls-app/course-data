@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "136.00",
+	"number": "136",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 1,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "8371",
 	"tags": [],
-	"title": "Independent Activities"
+	"title": "Independent Activities",
+	"type": "Course"
 }

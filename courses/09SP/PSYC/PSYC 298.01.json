@@ -7,7 +7,7 @@
 		"Sharon A Akimoto",
 		"Mija M Van Der Wege"
 	],
-	"number": "298.01",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Olin 141",
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "21317",
 	"tags": [
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		}
+		"ASSTDISC",
+		"ASSTMETH"
 	],
-	"title": "Junior Colloquium"
+	"title": "Junior Colloquium",
+	"type": "Course"
 }

@@ -10,7 +10,7 @@
 		"Mark McKone",
 		"Annie Bosacker"
 	],
-	"number": "125L.53",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -26,6 +26,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -35,10 +36,8 @@
 	"summary": null,
 	"synonym": "15082",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution Lab"
+	"title": "Genes & Evolution Lab",
+	"type": "Lab"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lauren E Osborne"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -54,34 +46,14 @@
 	"summary": "This course explores the ways in which religion, Islam in particular, has been conceived and represented through sound. How does hearing or saying affect the practice of religion? What makes a particular sound religious, with regard to either its production or its experience? Topics will include the call to prayer, recitation of the Qur'an, genres of Islamic music from a wide range of historical and cultural contexts (such as ghazals--love poems set as songs --and Islamic rap, for example), sermons, and other audio artifacts. The course will draw on both reading and listening assignments.",
 	"synonym": "36948",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "RELGISLAMICTRAD",
-			"name": "RELG Islamic Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "MUSCPERT",
-			"name": "Music Pertinent"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"ASSTHU",
+		"ASSTSOUTH",
+		"RELGISLAMICTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGAMERTRAD",
+		"MUSCPERT",
+		"MARSCORE"
 	],
-	"title": "Hearing Islam"
+	"title": "Hearing Islam",
+	"type": "Course"
 }

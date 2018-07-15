@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Biology 240 or 280",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -41,10 +42,8 @@
 	"summary": "An examination of selected animal viruses. The course will focus on the most recent developments in HIV-related research, including implications for HIV-treatment and vaccines and the impact of viral infection on the immune system of the host. In addition to studying the structure and replication of particular viruses we will also discuss the current laboratory techniques used in viral research.",
 	"synonym": "24176",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Seminar: Selected Topics in Virology"
+	"title": "Seminar: Selected Topics in Virology",
+	"type": "Course"
 }

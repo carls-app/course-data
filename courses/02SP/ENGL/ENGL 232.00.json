@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie G Landsman"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3074",
 	"tags": [],
-	"title": "Reading, Writing and Teaching"
+	"title": "Reading, Writing and Teaching",
+	"type": "Course"
 }

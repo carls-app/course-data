@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Computer Science 201 and either Computer Science 202 or Mathematics 236",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "A course on techniques used in the design and analysis of efficient algorithms. We will cover several major algorithmic design paradigms (greedy algorithms, dynamic programming, divide and conquer, and network flow). Along the way, we will explore the application of these techniques to a variety of domains (natural language processing, economics, computational biology, and data mining, for example). As time permits, we will include supplementary topics like randomized algorithms, advanced data structures, and amortized analysis.",
 	"synonym": "22911",
 	"tags": [],
-	"title": "Algorithms"
+	"title": "Algorithms",
+	"type": "Course"
 }

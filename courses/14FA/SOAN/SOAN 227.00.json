@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel Williams"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 426"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": "In the study of gender, masculinity has been largely hidden as a social construct; yet masculinity informs and shapes nearly all aspects of social life. In this course, we examine how masculinity operates in institutions such as schools, the workplace, sports, and the family; in social interactions and identities in everyday life; and in popular culture, media, and national and social formations. As a socio-historical construct, there is not one, but multiple masculinities. We will therefore adopt a comparative, intersectional lens, examining how masculinity is simultaneously constructed through categories of difference such as race, nationality, class, and sexuality.",
 	"synonym": "40122",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		}
+		"WGSTADDL",
+		"AMMUGROUP3",
+		"EDUCCLUSTER2"
 	],
-	"title": "Masculinities and Gender"
+	"title": "Masculinities and Gender",
+	"type": "Course"
 }

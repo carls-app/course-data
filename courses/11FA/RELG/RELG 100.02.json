@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -56,26 +48,12 @@
 	"summary": null,
 	"synonym": "30663",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGAMERTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Christianity & Colonialism"
+	"title": "Christianity & Colonialism",
+	"type": "Course"
 }

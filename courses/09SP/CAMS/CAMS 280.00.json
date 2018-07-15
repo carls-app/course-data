@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rachel A Raimist"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "21628",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSSTUPROD",
-			"name": "CAMS Studio"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSSTUPROD",
+		"CAMSELECPROD"
 	],
-	"title": "We Media: Theories & Prac"
+	"title": "We Media: Theories & Prac",
+	"type": "Course"
 }

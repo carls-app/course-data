@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "6902",
 	"tags": [],
-	"title": "Crafts of Writing:Short Story"
+	"title": "Crafts of Writing:Short Story",
+	"type": "Course"
 }

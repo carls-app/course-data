@@ -8,7 +8,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,30 +44,13 @@
 	"summary": null,
 	"synonym": "16187",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		}
+		"FRSTELECAL",
+		"CCSTETHNIC",
+		"FRSTSUPP",
+		"EUSTCNTRY",
+		"FRSTELEC",
+		"FRSTCULT"
 	],
-	"title": "culture with a Small 'c'"
+	"title": "culture with a Small 'c'",
+	"type": "Course"
 }

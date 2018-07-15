@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 24,
@@ -49,14 +47,9 @@
 	"summary": "This course will cover a range of aspects of language use. We will spend time discussing language production and comprehension, discourse processing, the relationship between language and thought, and language acquisition. Additionally, we will touch on issues of memory, perception, concepts, mental representation, and neuroscience. Throughout the course, we will emphasize both the individual and social aspects of language as well as the dynamic and fluid nature of language use. Requires concurrent registration in Psychology 235. A grade of C- or better must be earned in both Psychology 234 and 235 to satisfy the LS requirement.",
 	"synonym": "26758",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		}
+		"CGSCELECTIVE",
+		"LINGPERT"
 	],
-	"title": "Psychology of Language"
+	"title": "Psychology of Language",
+	"type": "Course"
 }

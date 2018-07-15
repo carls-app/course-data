@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "6250",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2"
 	],
-	"title": "American Environmental Hist"
+	"title": "American Environmental Hist",
+	"type": "Course"
 }

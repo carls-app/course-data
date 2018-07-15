@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "208.02",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Computer processors are extraordinarily complex systems. The fact that they work at all, let alone as reliably as they do, is a monumental achievement of human collaboration. In this course, we will study the structure of computer processors, with attention to digital logic, assembly language, performance evaluation, computer arithmetic, data paths and control, pipelining, and memory hierarchies.",
 	"synonym": "33988",
 	"tags": [],
-	"title": "Computer Organization and Architecture"
+	"title": "Computer Organization and Architecture",
+	"type": "Course"
 }

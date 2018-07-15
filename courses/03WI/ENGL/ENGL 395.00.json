@@ -8,7 +8,7 @@
 	"instructors": [
 		"Frank R Morral"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "4028",
 	"tags": [],
-	"title": "Ulysses"
+	"title": "Ulysses",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 35,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "7765",
 	"tags": [
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"CCSTETHNIC",
+		"LTAMELECTIVE"
 	],
-	"title": "African Slavery in Latin Amer"
+	"title": "African Slavery in Latin Amer",
+	"type": "Course"
 }

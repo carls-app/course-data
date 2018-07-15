@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Arena Theater THEA"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "16524",
 	"tags": [],
-	"title": "Movement for the Performer"
+	"title": "Movement for the Performer",
+	"type": "Course"
 }

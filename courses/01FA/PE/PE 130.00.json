@@ -6,7 +6,7 @@
 	"instructors": [
 		"Guy A Kalland"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"West Gym CLAS"
@@ -24,6 +24,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2024",
 	"tags": [],
-	"title": "Golf, Advanced"
+	"title": "Golf, Advanced",
+	"type": "Course"
 }

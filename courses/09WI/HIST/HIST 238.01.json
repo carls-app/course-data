@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.01",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,38 +44,15 @@
 	"summary": null,
 	"synonym": "21159",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"MARSSUPP",
+		"RELGPERT",
+		"HISTANCNT/MDVL",
+		"POSIELECTIVE",
+		"POSICOMPRTV",
+		"EUSTTRANNATL",
+		"POSI-AREAS",
+		"SPECINTLEGAL"
 	],
-	"title": "Church, Papacy and Empire"
+	"title": "Church, Papacy and Empire",
+	"type": "Course"
 }

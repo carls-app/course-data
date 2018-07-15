@@ -8,16 +8,14 @@
 	"instructors": [
 		"Martha N Jamsa"
 	],
-	"number": "386.12",
+	"number": "386",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "12",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "27700",
 	"tags": [],
-	"title": "Juried Lessons for the Major"
+	"title": "Juried Lessons for the Major",
+	"type": "Course"
 }

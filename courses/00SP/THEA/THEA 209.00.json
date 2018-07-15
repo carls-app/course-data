@@ -9,7 +9,7 @@
 		"Ruth Weiner",
 		"Clara S Hardy"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 35,
@@ -44,5 +45,6 @@
 		"LITFORLANG",
 		"ENGLFORLIT"
 	],
-	"title": "Euripides:Project Course"
+	"title": "Euripides:Project Course",
+	"type": "Course"
 }

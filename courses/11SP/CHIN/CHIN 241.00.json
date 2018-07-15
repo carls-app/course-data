@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -43,18 +41,10 @@
 	"summary": null,
 	"synonym": "25575",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLLOE"
 	],
-	"title": "Twentieth Century Chinese Literature and Film in Translation"
+	"title": "Twentieth Century Chinese Literature and Film in Translation",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim McDonnell"
 	],
-	"number": "249.00",
+	"number": "249",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -44,5 +45,6 @@
 		"ENGL4",
 		"LITFORLANG"
 	],
-	"title": "Irish Literature"
+	"title": "Irish Literature",
+	"type": "Course"
 }

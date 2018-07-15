@@ -9,7 +9,7 @@
 		"Fernán Jaramillo",
 		"John L Tymoczko"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 40,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "6516",
 	"tags": [],
-	"title": "Intro II:Energetics & Ecology"
+	"title": "Intro II:Energetics & Ecology",
+	"type": "Course"
 }

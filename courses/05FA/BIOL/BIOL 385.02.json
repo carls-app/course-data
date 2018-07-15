@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy McCall"
 	],
-	"number": "385.02",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "11953",
 	"tags": [],
-	"title": "Evol Ecol - Plant-Insect"
+	"title": "Evol Ecol - Plant-Insect",
+	"type": "Course"
 }

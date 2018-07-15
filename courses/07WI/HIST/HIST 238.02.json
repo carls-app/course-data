@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.02",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "15500",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"MARSSUPP",
+		"RELGPERT",
+		"HISTANCNT/MDVL",
+		"EUSTCNTRY"
 	],
-	"title": "The World of Bede"
+	"title": "The World of Bede",
+	"type": "Course"
 }

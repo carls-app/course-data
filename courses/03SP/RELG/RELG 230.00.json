@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eitan P Fishbane"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "5866",
 	"tags": [],
-	"title": "Kabbalah: Jewish Mysticism"
+	"title": "Kabbalah: Jewish Mysticism",
+	"type": "Course"
 }

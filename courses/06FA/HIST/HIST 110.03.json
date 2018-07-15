@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "110.03",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15471",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"HISTASIA"
 	],
-	"title": "Conflicts in Middle East"
+	"title": "Conflicts in Middle East",
+	"type": "Course"
 }

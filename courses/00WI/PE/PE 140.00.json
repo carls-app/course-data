@@ -6,7 +6,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Stadium 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "3369",
 	"tags": [],
-	"title": "Jogging"
+	"title": "Jogging",
+	"type": "Course"
 }

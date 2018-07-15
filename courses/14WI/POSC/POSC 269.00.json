@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "269.00",
+	"number": "269",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -50,34 +45,14 @@
 	"summary": "This course will introduce several critiques of modern political thought and practice that considered \"the project of modernity\" to be either fatally flawed or at least deficient. Important themes in their work are the critique of the enlightenment and mass society, of power, agency as well as liberal concepts of the state and the political. In class discussion we will also address questions of method and language through the work of Nietzsche, Schmitt, Foucault, Habermas, Ricoeur, Bourdieu, Gadamer, among others.",
 	"synonym": "36263",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"EUSTTRANNATL",
+		"CCSTGLOBAL",
+		"CCSTREGIONAL",
+		"POSI-PLI2",
+		"SPECINTSOCTHGHT",
+		"POSIELECTIVE",
+		"POSI-DSS"
 	],
-	"title": "Issues in Postmodern Political Thought"
+	"title": "Issues in Postmodern Political Thought",
+	"type": "Course"
 }

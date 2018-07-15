@@ -7,7 +7,7 @@
 		"Nancy C Wilkie",
 		"Bereket Haileab"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -28,6 +28,7 @@
 	"prerequisites": "Prerequisite: No prerequisite",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -37,5 +38,6 @@
 	"summary": null,
 	"synonym": "30165",
 	"tags": [],
-	"title": "Human Evolution and Prehistory"
+	"title": "Human Evolution and Prehistory",
+	"type": "Course"
 }

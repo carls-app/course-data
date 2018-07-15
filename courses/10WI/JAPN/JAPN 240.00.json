@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kendall R Heitzman"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -46,22 +44,11 @@
 	"summary": null,
 	"synonym": "24855",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLFORLIT",
+		"ENGLLOE"
 	],
-	"title": "Literature and Society of Modern Japan in Translation"
+	"title": "Literature and Society of Modern Japan in Translation",
+	"type": "Course"
 }

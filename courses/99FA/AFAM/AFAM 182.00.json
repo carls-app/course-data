@@ -9,7 +9,7 @@
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 35,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "3494",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL"
 	],
-	"title": "Southern African History"
+	"title": "Southern African History",
+	"type": "Course"
 }

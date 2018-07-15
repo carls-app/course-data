@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6415",
 	"tags": [],
-	"title": "Complexity and Chaos"
+	"title": "Complexity and Chaos",
+	"type": "Course"
 }

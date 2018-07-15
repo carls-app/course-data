@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Hulings 115",
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -49,5 +50,6 @@
 	"summary": null,
 	"synonym": "6438",
 	"tags": [],
-	"title": "Plnt Taxonomy&pollinatn Ecol"
+	"title": "Plnt Taxonomy&pollinatn Ecol",
+	"type": "Course"
 }

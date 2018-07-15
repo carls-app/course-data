@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "111.03",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1596",
 	"tags": [],
-	"title": "Introduction to Sociology"
+	"title": "Introduction to Sociology",
+	"type": "Course"
 }

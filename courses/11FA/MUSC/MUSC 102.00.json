@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nikki Melville"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "29045",
 	"tags": [],
-	"title": "Basic Musicianship"
+	"title": "Basic Musicianship",
+	"type": "Course"
 }

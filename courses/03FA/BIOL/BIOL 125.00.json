@@ -9,7 +9,7 @@
 		"Debby R Walser-Kuntz",
 		"Susan R Singer"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 50,
 		"total": 60,
@@ -54,5 +55,6 @@
 	"summary": null,
 	"synonym": "6412",
 	"tags": [],
-	"title": "IntI:Genes&Evol w/Prob Solve"
+	"title": "IntI:Genes&Evol w/Prob Solve",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Catherine A Reinke"
 	],
-	"number": "383.02",
+	"number": "383",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "12003",
 	"tags": [],
-	"title": "Molecular Biology Laboratory"
+	"title": "Molecular Biology Laboratory",
+	"type": "Course"
 }

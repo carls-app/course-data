@@ -9,7 +9,7 @@
 		"Debby R Walser-Kuntz",
 		"Susan R Singer"
 	],
-	"number": "125.01",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -45,6 +45,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 38,
 		"total": 50,
@@ -54,10 +55,8 @@
 	"summary": null,
 	"synonym": "15048",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes & Evolution"
+	"title": "Genes & Evolution",
+	"type": "Course"
 }

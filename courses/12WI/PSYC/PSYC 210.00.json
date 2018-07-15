@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"WR2",
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 24,
@@ -54,5 +46,6 @@
 	"summary": "A summary of theoretical approaches, historical influences and contemporary research in the area of human and animal learning. The course provides a background in classical, operant, and contemporary conditioning models, and these are applied to issues such as behavioral therapy, drug addiction, decision-making, education, and choice. It is recommended that students enroll concurrently in Psychology 211. A grade of C- or better must be earned in both Psychology 210 and 211 to satisfy the LS requirement.",
 	"synonym": "28880",
 	"tags": [],
-	"title": "Psychology of Learning"
+	"title": "Psychology of Learning",
+	"type": "Course"
 }

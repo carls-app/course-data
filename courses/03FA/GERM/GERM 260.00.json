@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "7685",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"ENGLLOE"
 	],
-	"title": "Community and the Individual"
+	"title": "Community and the Individual",
+	"type": "Course"
 }

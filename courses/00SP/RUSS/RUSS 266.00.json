@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "266.00",
+	"number": "266",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -46,5 +47,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "Dostoevsky"
+	"title": "Dostoevsky",
+	"type": "Course"
 }

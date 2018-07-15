@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jules N LaRocque"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2716",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"AFAMPERT",
+		"LTAMELECTIVE"
 	],
-	"title": "Econ of Developing Countries"
+	"title": "Econ of Developing Countries",
+	"type": "Course"
 }

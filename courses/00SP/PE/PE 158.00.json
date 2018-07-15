@@ -7,7 +7,7 @@
 		"Sarah E Hurst",
 		"Heidi L Jaynes"
 	],
-	"number": "158.00",
+	"number": "158",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -30,6 +30,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "125",
 	"tags": [],
-	"title": "Rock Climbing"
+	"title": "Rock Climbing",
+	"type": "Course"
 }

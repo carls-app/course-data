@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "9412",
 	"tags": [],
-	"title": "Introduction to Biochemistry"
+	"title": "Introduction to Biochemistry",
+	"type": "Course"
 }

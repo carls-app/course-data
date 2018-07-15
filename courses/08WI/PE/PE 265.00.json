@@ -10,16 +10,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -29,5 +27,6 @@
 	"summary": null,
 	"synonym": "18895",
 	"tags": [],
-	"title": "Skiing/Alpine Club"
+	"title": "Skiing/Alpine Club",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 40,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "3500",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Technology in American History"
+	"title": "Technology in American History",
+	"type": "Course"
 }

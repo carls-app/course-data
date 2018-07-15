@@ -8,16 +8,14 @@
 	"instructors": [
 		"Jocelyn B Keller"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 60,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "37630",
 	"tags": [],
-	"title": "Soccer Intercollegiate, Women"
+	"title": "Soccer Intercollegiate, Women",
+	"type": "Course"
 }

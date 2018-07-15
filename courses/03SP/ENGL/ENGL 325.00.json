@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eleanor C Courtemanche"
 	],
-	"number": "325.00",
+	"number": "325",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "4056",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "Dickens & the Victorian City"
+	"title": "Dickens & the Victorian City",
+	"type": "Course"
 }

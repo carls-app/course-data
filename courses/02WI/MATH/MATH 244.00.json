@@ -6,7 +6,7 @@
 	"instructors": [
 		"David S Romano"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "613",
 	"tags": [],
-	"title": "Geometries"
+	"title": "Geometries",
+	"type": "Course"
 }

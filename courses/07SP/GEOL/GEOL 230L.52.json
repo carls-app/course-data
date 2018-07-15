@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "230L.52",
+	"number": "230L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 24,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "15403",
 	"tags": [],
-	"title": "Paleobiology Lab"
+	"title": "Paleobiology Lab",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deepali Dewan"
 	],
-	"number": "182.00",
+	"number": "182",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 22,
@@ -47,5 +48,6 @@
 	"tags": [
 		"CCSTREGIONAL"
 	],
-	"title": "History of South Asian Art"
+	"title": "History of South Asian Art",
+	"type": "Course"
 }

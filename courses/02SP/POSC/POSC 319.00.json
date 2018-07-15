@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Navarro"
 	],
-	"number": "319.00",
+	"number": "319",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "2864",
 	"tags": [
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "U.S. Mexico Border Relations"
+	"title": "U.S. Mexico Border Relations",
+	"type": "Course"
 }

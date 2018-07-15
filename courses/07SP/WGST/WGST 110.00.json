@@ -8,7 +8,7 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "15968",
 	"tags": [
-		{
-			"code": "WGSTINTRO",
-			"name": "WGST Introductory"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"WGSTINTRO",
+		"AFAMPERT"
 	],
-	"title": "Intro Women's & Gender Studies"
+	"title": "Intro Women's & Gender Studies",
+	"type": "Course"
 }

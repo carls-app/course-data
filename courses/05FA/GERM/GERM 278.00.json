@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "13510",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LCSTPERT",
-			"name": "Literary and Cultural Studies"
-		}
+		"CCSTGLOBAL",
+		"LCSTPERT"
 	],
-	"title": "Sports, Nationalism & Identity"
+	"title": "Sports, Nationalism & Identity",
+	"type": "Course"
 }

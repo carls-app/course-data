@@ -6,7 +6,7 @@
 	"instructors": [
 		"Peter D Brandon"
 	],
-	"number": "215.00",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "24414",
 	"tags": [],
-	"title": "Social Welfare"
+	"title": "Social Welfare",
+	"type": "Course"
 }

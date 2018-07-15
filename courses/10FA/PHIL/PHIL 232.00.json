@@ -6,7 +6,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,14 +39,9 @@
 	"summary": "We will study several prominent late twentieth century philosophers writing about social and political justice and representing a variety of views, such as liberalism, socialism, libertarianism, communitarianism, feminism and post-modernism. The following are some of the authors we will read: John Rawls, Gerald Cohen, Robert Nozick, Charles Taylor, Iris Marion Young, Seyla Benhabib, Jurgen Habermas, Jean-Francois Lyotard.",
 	"synonym": "26906",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		}
+		"SPECINTSOCTHGHT",
+		"PHILPRACVAL"
 	],
-	"title": "Social and Political Philosophy"
+	"title": "Social and Political Philosophy",
+	"type": "Course"
 }

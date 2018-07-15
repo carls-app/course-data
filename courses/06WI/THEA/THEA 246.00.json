@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara J Field"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13760",
 	"tags": [],
-	"title": "Playwriting"
+	"title": "Playwriting",
+	"type": "Course"
 }

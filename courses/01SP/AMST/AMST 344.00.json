@@ -9,7 +9,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "2736",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Youth, Culture and Schooling"
+	"title": "Youth, Culture and Schooling",
+	"type": "Course"
 }

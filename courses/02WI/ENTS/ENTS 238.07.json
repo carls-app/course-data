@@ -8,11 +8,12 @@
 	"instructors": [
 		"Gary E Wagenbach"
 	],
-	"number": "238.07",
+	"number": "238",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "1202",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"CCSTREGIONAL",
+		"ENTSINTL",
+		"ENTSSCI"
 	],
-	"title": "Environ-New Zealand&Australia"
+	"title": "Environ-New Zealand&Australia",
+	"type": "Course"
 }

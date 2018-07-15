@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pavel S Kapinos"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": "The main objective of this course is to investigate various aspects of modern portfolio theory and develop basic techniques for applying this theoretical framework to real-world data. Topics covered include portfolio and asset pricing theories, and derivatives with the primary focus on option pricing. The class will develop and actively use univariate calculus for theory-building and statistical techniques for data analysis.",
 	"synonym": "24391",
 	"tags": [],
-	"title": "The Theory of Investment Finance"
+	"title": "The Theory of Investment Finance",
+	"type": "Course"
 }

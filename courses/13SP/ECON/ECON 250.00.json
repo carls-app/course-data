@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "A survey of the evolution of economic thought from the seventeenth century to the present, with emphasis on the intellectual and historical background which influenced economists.",
 	"synonym": "32973",
 	"tags": [
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		}
+		"HISTERLYMODEUR",
+		"EUSTTRANNATL",
+		"SPECINTSOCTHGHT",
+		"POECLOWER"
 	],
-	"title": "History of Economic Ideas"
+	"title": "History of Economic Ideas",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric R Westlund"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1323",
 	"tags": [],
-	"title": "Intro/Probability & Statistics"
+	"title": "Intro/Probability & Statistics",
+	"type": "Course"
 }

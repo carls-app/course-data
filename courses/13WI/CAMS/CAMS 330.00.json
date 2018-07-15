@@ -6,7 +6,7 @@
 	"instructors": [
 		"Carol Donelan"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: At least one film history course (Cinema and Media Studies 210, 211 or 214) or instructor permission",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 15,
@@ -46,22 +44,11 @@
 	"summary": "The purpose of this seminar is guide students in developing and consolidating their conceptual understanding of theories central to the field of cinema studies. Emphasis is on close reading and discussion of classical and contemporary theories ranging from Eisenstein, Kracauer, Balazs, Bazin and Barthes to theories of authorship, genre and ideology and trends in contemporary theory influenced by psychoanalysis, phenomenology and cognitive studies.",
 	"synonym": "32217",
 	"tags": [
-		{
-			"code": "CAMS300THEORY",
-			"name": "CAMS 300-Level Theroy"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "ASSTMETH",
-			"name": "Asian Studies Methodology"
-		},
-		{
-			"code": "CAMSCORE",
-			"name": "CAMS Core Courses"
-		}
+		"CAMS300THEORY",
+		"CAMSELECTIVE",
+		"ASSTMETH",
+		"CAMSCORE"
 	],
-	"title": "Cinema Studies Seminar"
+	"title": "Cinema Studies Seminar",
+	"type": "Course"
 }

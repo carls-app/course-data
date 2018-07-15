@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "246L.52",
+	"number": "246L",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "14933",
 	"tags": [
-		{
-			"code": "SOANPERT",
-			"name": "SOAN Pertinent Course"
-		}
+		"SOANPERT"
 	],
-	"title": "Archaeological Methodology Lab"
+	"title": "Archaeological Methodology Lab",
+	"type": "Lab"
 }

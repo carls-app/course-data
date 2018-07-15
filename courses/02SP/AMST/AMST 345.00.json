@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1182",
 	"tags": [],
-	"title": "Methods Seminar/Amer Studies"
+	"title": "Methods Seminar/Amer Studies",
+	"type": "Course"
 }

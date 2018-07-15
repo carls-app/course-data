@@ -6,7 +6,7 @@
 	"instructors": [
 		"Angie Willey"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -45,14 +40,9 @@
 	"summary": "This course focuses on transnational feminist activism in an era of globalization, militarism and religious fundamentalism. We will learn about the debates around different theories of social change, the challenges and pitfalls of global sisterhood and the various \"pedagogies of crossing\" borders. We will explore case studies of how feminists have collaborated, built networks, mobilized resources and coalitions for collective action, in addition to the obstacles and constraints they have encountered and surmounted in their search for gender and sexual justice.",
 	"synonym": "26591",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "WGSTCAP",
-			"name": "WGST Capstone"
-		}
+		"SPECINTSOCTHGHT",
+		"WGSTCAP"
 	],
-	"title": "Transnational Feminist Activism"
+	"title": "Transnational Feminist Activism",
+	"type": "Course"
 }

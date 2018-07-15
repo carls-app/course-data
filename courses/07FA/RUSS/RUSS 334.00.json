@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "334.00",
+	"number": "334",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 203"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 20,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "19093",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"EUSTCNTRY"
 	],
-	"title": "Russian Poetry"
+	"title": "Russian Poetry",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fernán Jaramillo"
 	],
-	"number": "233.03",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "22498",
 	"tags": [],
-	"title": "Human Physiology Lab"
+	"title": "Human Physiology Lab",
+	"type": "Course"
 }

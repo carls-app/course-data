@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "7846",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		}
+		"CGSTELECTIVE"
 	],
-	"title": "Epistemology"
+	"title": "Epistemology",
+	"type": "Course"
 }

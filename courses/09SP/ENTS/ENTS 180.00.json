@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kevin M Flynn"
 	],
-	"number": "180.00",
+	"number": "180",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "22717",
 	"tags": [
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		}
+		"ENTSLPSCP"
 	],
-	"title": "Prin-Sustainable Design"
+	"title": "Prin-Sustainable Design",
+	"type": "Course"
 }

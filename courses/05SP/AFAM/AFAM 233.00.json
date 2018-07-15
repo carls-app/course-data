@@ -7,7 +7,7 @@
 		"Mary M Easter",
 		"Kofi Owusu"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -37,10 +38,8 @@
 	"summary": null,
 	"synonym": "10185",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Harlem Renaiss-Lit,Music&Dance"
+	"title": "Harlem Renaiss-Lit,Music&Dance",
+	"type": "Course"
 }

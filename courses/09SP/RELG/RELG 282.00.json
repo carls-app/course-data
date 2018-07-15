@@ -8,7 +8,7 @@
 	"instructors": [
 		"William N Elison"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21721",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMSOCSCI",
+		"LTAMELECTIVE",
+		"LTAMPERT"
 	],
-	"title": "World Turned Upside Down"
+	"title": "World Turned Upside Down",
+	"type": "Course"
 }

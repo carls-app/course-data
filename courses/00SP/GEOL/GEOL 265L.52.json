@@ -6,7 +6,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "265L.52",
+	"number": "265L",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1987",
 	"tags": [],
-	"title": "Structural Geology Lab"
+	"title": "Structural Geology Lab",
+	"type": "Lab"
 }

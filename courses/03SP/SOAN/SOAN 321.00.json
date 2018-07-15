@@ -9,7 +9,7 @@
 	"instructors": [
 		"Wilson Valentin-Escobar"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "5829",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Diasporic Musical Cultures"
+	"title": "Diasporic Musical Cultures",
+	"type": "Course"
 }

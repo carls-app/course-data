@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tim Lloyd"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Boliou 44"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1672",
 	"tags": [],
-	"title": "Metals"
+	"title": "Metals",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Paul Petzschmann"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": "This discussion seminar introduces key texts of Karl Marx and Friedrich Engels as well as the writings of Marxists since Marx's death, such as Lenin, Gramsci, Bernstein and others. The course will address concepts in their writings such as alienation, historical materialism, class, the state, science and ideology, socialism and social democracy. While a lot of attention is paid to Marxist theory, we will also consider the political contexts in which theories and debates emerged and their implications for political practice.",
 	"synonym": "36288",
 	"tags": [
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSI-GDS",
+		"POSI-PLI2",
+		"POSIELECTIVE"
 	],
-	"title": "Marxist Political Thought"
+	"title": "Marxist Political Thought",
+	"type": "Course"
 }

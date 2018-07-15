@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elyse Carter Vosen"
 	],
-	"number": "264.00",
+	"number": "264",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -46,5 +47,6 @@
 		"AMSTTOPICAL1",
 		"CCSTETHNIC"
 	],
-	"title": "Native-American Music"
+	"title": "Native-American Music",
+	"type": "Course"
 }

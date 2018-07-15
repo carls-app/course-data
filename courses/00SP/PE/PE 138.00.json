@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "138.00",
+	"number": "138",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3435",
 	"tags": [],
-	"title": "Jazz Dance"
+	"title": "Jazz Dance",
+	"type": "Course"
 }

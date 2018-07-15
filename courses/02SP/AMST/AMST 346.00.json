@@ -10,7 +10,7 @@
 		"Serena R Zabin",
 		"Carl D Weiner"
 	],
-	"number": "346.00",
+	"number": "346",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -40,18 +41,10 @@
 	"summary": null,
 	"synonym": "1791",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		}
+		"HISTUS",
+		"AMSTTOPICAL2",
+		"CCSTBINARY"
 	],
-	"title": "Atlantic Revltn, France&Amer"
+	"title": "Atlantic Revltn, France&Amer",
+	"type": "Course"
 }

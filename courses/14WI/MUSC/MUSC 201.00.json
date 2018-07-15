@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "201.00",
+	"number": "201",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -41,12 +41,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -56,10 +54,8 @@
 	"summary": null,
 	"synonym": "36829",
 	"tags": [
-		{
-			"code": "AMMUGROUP1",
-			"name": "American Music Foundations"
-		}
+		"AMMUGROUP1"
 	],
-	"title": "Music Theory II"
+	"title": "Music Theory II",
+	"type": "Course"
 }

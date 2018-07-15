@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gregory M Diethrich"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "8531",
 	"tags": [],
-	"title": "Intro to World Music I"
+	"title": "Intro to World Music I",
+	"type": "Course"
 }

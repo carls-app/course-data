@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kelly A Connole"
 	],
-	"number": "330.00",
+	"number": "330",
 	"offerings": {
 		"locations": [
 			"Boliou 046"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 230 or 232",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 0,
@@ -43,5 +41,6 @@
 	"summary": "This course is a continuation of either or both beginning courses, focusing on sophisticated handbuilding and throwing techniques and advanced problem solving in ceramics. Development of a personal voice is encouraged through open-ended assignments deepening exploration into the expressive nature of clay. Glaze calculations, kiln firing theory, and alternative firing techniques will broaden approaches to surface design.",
 	"synonym": "29132",
 	"tags": [],
-	"title": "Advanced Ceramics"
+	"title": "Advanced Ceramics",
+	"type": "Course"
 }

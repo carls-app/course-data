@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "13691",
 	"tags": [],
-	"title": "Theory&Practice American Stds"
+	"title": "Theory&Practice American Stds",
+	"type": "Course"
 }

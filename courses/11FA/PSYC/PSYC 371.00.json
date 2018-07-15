@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or Biology 126 or Psychology 216 or instructor permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 12,
@@ -45,22 +40,11 @@
 	"summary": "Recent findings have brought to light some very compelling examples of humanlike cognition in nonhuman primates: tool use and tool making, family bonding, complex social behaviors such as cooperation, altruism, communication, and emotion. The study of infant cognition has also revealed more complex cognitive abilities in developing humans. Each of these topics is considered in the context of the cognitive workings of the primate mind, with emphases on apes (gorilla, chimpanzee), monkeys (particularly cebus and rhesus varieties) and human children. The goal is to evaluate the uniqueness of primate cognition, both human and nonhuman.",
 	"synonym": "28865",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"SPECINTETHICS",
+		"SPECINTSOCTHGHT",
+		"CGSCELECTIVE"
 	],
-	"title": "Evolutionary and Developmental Trends in Cognition"
+	"title": "Evolutionary and Developmental Trends in Cognition",
+	"type": "Course"
 }

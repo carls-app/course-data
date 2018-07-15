@@ -9,7 +9,7 @@
 		"Naran Bilik",
 		"Tal Fishman"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "15941",
 	"tags": [],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

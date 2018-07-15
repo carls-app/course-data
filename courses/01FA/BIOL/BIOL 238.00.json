@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 24,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "280",
 	"tags": [],
-	"title": "Entomology"
+	"title": "Entomology",
+	"type": "Course"
 }

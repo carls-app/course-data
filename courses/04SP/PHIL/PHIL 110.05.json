@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gary H Iseminger"
 	],
-	"number": "110.05",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "7855",
 	"tags": [
-		{
-			"code": "CGSTELECTIVE",
-			"name": "CGST Elective Course"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSTELECTIVE",
+		"CGSCELECTIVE"
 	],
-	"title": "Cartesian Meditations"
+	"title": "Cartesian Meditations",
+	"type": "Course"
 }

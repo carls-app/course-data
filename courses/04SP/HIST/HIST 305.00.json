@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "305.00",
+	"number": "305",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "8572",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS"
 	],
-	"title": "Topic: Amer Environ History"
+	"title": "Topic: Amer Environ History",
+	"type": "Course"
 }

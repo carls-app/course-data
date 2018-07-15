@@ -8,13 +8,14 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "250.07",
+	"number": "250",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"CL"
 	],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -24,5 +25,6 @@
 	"summary": null,
 	"synonym": "1419",
 	"tags": [],
-	"title": "Physical & Cultural Envrnmt"
+	"title": "Physical & Cultural Envrnmt",
+	"type": "Course"
 }

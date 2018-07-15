@@ -8,20 +8,15 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "288.07",
+	"number": "288",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -31,30 +26,13 @@
 	"summary": "Students will participate in a seminar involving meetings with leading Washington figures in areas of global policy making and regular discussions of related readings.",
 	"synonym": "30412",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "POECAPP",
-			"name": "Politi Econ Amer Public Policy"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		},
-		{
-			"code": "POECUPAPP",
-			"name": "POEC Amer Pub Pol Upper Lvl"
-		},
-		{
-			"code": "POSI-LPS2",
-			"name": "Leadership, Peace, Security 2"
-		}
+		"POSI-LPS",
+		"POECAPP",
+		"POSIELECTIVE",
+		"POSI-GDS",
+		"POECUPAPP",
+		"POSI-LPS2"
 	],
-	"title": "Washington D.C.: A Global Conversation Part I"
+	"title": "Washington D.C.: A Global Conversation Part I",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Hebrew 222 or Religion 222",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -48,10 +46,8 @@
 	"summary": "This course is the second part of a two-term sequence beginning with Religion 222 and will give students an opportunity to develop a research project on a topic of their choice on the state of Judaism in Israel. It is anticipated that research projects will be shared in a public symposium at the end of the term.",
 	"synonym": "30438",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		}
+		"JDSTPERT"
 	],
-	"title": "Research on Israel"
+	"title": "Research on Israel",
+	"type": "Course"
 }

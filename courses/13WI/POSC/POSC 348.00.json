@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mihaela Czobor-Lupp"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -45,30 +40,13 @@
 	"summary": "The course explores the role that strangers play in human life, the challenges that foreigners create for democratic politics, the promises they bring to it, as well as the role of exiles in improving the cultural capacity of societies to live with difference. We will read texts by Arendt, Kafka, Derrida, Sophocles, Said, Joseph Conrad, Tzvetan Todorov, and Julia Kristeva. Special attention will be given to the plight of Roma in Europe, as a typical case of strangers that are still perceived nowadays as a menace to the modern sedentary civilization.",
 	"synonym": "34167",
 	"tags": [
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"POSI-DSS2",
+		"SPECINTSOCTHGHT",
+		"POSI-DSS",
+		"POSIADVSEM",
+		"POSIELECTIVE",
+		"POSCADVSEM"
 	],
-	"title": "Strangers, Foreigners and Exiles*"
+	"title": "Strangers, Foreigners and Exiles*",
+	"type": "Course"
 }

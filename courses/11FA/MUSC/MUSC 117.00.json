@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Freeman"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: The ability to read music.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -46,5 +44,6 @@
 	"summary": "Two class meetings and one individual session per week. In contrast to Music 220, this class does not require a background in music theory. It is designed for the person who has an interest in exploring the process of writing music. Class meetings will introduce techniques of composition and present structured exercises. Individual sessions will focus on the student's own projects. Class assignments will involve the opportunity to use computer/midi/synthesizer technologies.",
 	"synonym": "29046",
 	"tags": [],
-	"title": "Introduction to Composition"
+	"title": "Introduction to Composition",
+	"type": "Course"
 }

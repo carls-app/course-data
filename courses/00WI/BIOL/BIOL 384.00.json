@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 18,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2537",
 	"tags": [],
-	"title": "Oncogenes & Molecbio of Cancer"
+	"title": "Oncogenes & Molecbio of Cancer",
+	"type": "Course"
 }

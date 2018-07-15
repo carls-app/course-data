@@ -6,7 +6,7 @@
 	"instructors": [
 		"Radek Szulga"
 	],
-	"number": "281.00",
+	"number": "281",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "18671",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"CCSTGLOBAL",
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS"
 	],
-	"title": "International Finance"
+	"title": "International Finance",
+	"type": "Course"
 }

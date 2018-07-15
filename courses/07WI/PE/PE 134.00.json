@@ -9,7 +9,7 @@
 		"Guy A Kalland",
 		"Mikki Showers"
 	],
-	"number": "134.00",
+	"number": "134",
 	"offerings": {
 		"locations": [
 			"Skating Rink RINK"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -49,5 +47,6 @@
 	"summary": null,
 	"synonym": "16249",
 	"tags": [],
-	"title": "Ice Skating, Intermediate"
+	"title": "Ice Skating, Intermediate",
+	"type": "Course"
 }

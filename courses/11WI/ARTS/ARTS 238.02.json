@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Rossi"
 	],
-	"number": "238.02",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Boliou 130"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 110 or 113",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -43,14 +41,9 @@
 	"summary": "This course introduces the student to the operation of the 35mm camera, film processing and black and white printing techniques. Through lectures, demonstrations, readings, field trips and critiques we rigorously view and question the nature of photography. Assignments will cover a range of photographic genres. A personal investigation of these photographic experiences will result in a final portfolio of finished prints and accompanying field guide. Manual film cameras provided, check with instructor.",
 	"synonym": "28027",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Photography I"
+	"title": "Photography I",
+	"type": "Course"
 }

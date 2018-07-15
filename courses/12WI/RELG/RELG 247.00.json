@@ -6,7 +6,7 @@
 	"instructors": [
 		"Terrance Wiley"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -49,42 +41,16 @@
 	"summary": "We will explore the origins, existential, and ethical dimensions of Rhythm and Poetry (RAP) music. Giving attention to RAP songs written and produced by African American artists, including Tupac, Nas, Cee-lo Green, Dante Smith, Michael Franti, The Roots, and Lauryn Hill, we will analyze their work with an interest in understanding the conceptions of God and the good reflected in them, and how these conceptions connect to and reflect African American cultural practices. Weekly, we will read one theoretical, biographical, or sociological book and listen to one album. Assignments will include book review essays, music reviews, and a final paper.",
 	"synonym": "30664",
 	"tags": [
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGAMERTRAD",
-			"name": "RELG Traditions in Americas"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"AFAMDISTROHU",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"RELGCHRISTNTRAD",
+		"RELGAMERTRAD",
+		"RELGTHTHGHTPHIL",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR",
+		"AFAMHUMANINQ"
 	],
-	"title": "RAP and Religion: Rhymes about God and the Good"
+	"title": "RAP and Religion: Rhymes about God and the Good",
+	"type": "Course"
 }

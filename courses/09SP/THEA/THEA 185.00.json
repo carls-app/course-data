@@ -6,7 +6,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "185.00",
+	"number": "185",
 	"offerings": {
 		"locations": [
 			"Arena Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 14,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "21345",
 	"tags": [],
-	"title": "The Speaking Voice"
+	"title": "The Speaking Voice",
+	"type": "Course"
 }

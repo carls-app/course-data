@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "4864",
 	"tags": [],
-	"title": "Understand Lit Works of Past"
+	"title": "Understand Lit Works of Past",
+	"type": "Course"
 }

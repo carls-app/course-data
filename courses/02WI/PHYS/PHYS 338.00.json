@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maurice Clark"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1473",
 	"tags": [],
-	"title": "Thermal Physics"
+	"title": "Thermal Physics",
+	"type": "Course"
 }

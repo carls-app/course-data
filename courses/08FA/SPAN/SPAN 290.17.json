@@ -8,11 +8,12 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "290.17",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "17",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -22,10 +23,8 @@
 	"summary": null,
 	"synonym": "20385",
 	"tags": [
-		{
-			"code": "SPAN240-290",
-			"name": "Spanish 240-290 Courses"
-		}
+		"SPAN240-290"
 	],
-	"title": "Directed Reading"
+	"title": "Directed Reading",
+	"type": "Course"
 }

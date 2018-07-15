@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "267.00",
+	"number": "267",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -48,5 +49,6 @@
 		"ENGLFORLIT",
 		"LITFORLANG"
 	],
-	"title": "War and Peace"
+	"title": "War and Peace",
+	"type": "Course"
 }

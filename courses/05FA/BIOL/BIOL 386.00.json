@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Rosenberg"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "11954",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"CGSCELECTIVE",
+		"NEURCORE"
 	],
-	"title": "Neurobiology"
+	"title": "Neurobiology",
+	"type": "Course"
 }

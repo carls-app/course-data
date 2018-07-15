@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sue Bales"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "10515",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"AMSTTOPICAL2"
 	],
-	"title": "Children & Religion in America"
+	"title": "Children & Religion in America",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Marion E Cass",
 		"Gretchen E Hofmeister"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "17418",
 	"tags": [],
-	"title": "Inorganic Chemistry"
+	"title": "Inorganic Chemistry",
+	"type": "Course"
 }

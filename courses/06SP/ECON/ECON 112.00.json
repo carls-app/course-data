@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 117"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 11,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "13209",
 	"tags": [],
-	"title": "Breakfast With the Times"
+	"title": "Breakfast With the Times",
+	"type": "Course"
 }

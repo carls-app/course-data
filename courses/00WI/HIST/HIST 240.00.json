@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"tags": [
 		"HISTEUR1451"
 	],
-	"title": "History of Russia to 1861"
+	"title": "History of Russia to 1861",
+	"type": "Course"
 }

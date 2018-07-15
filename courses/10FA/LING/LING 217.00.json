@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "217.00",
+	"number": "217",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: 100-level Linguistics course",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "Although no two utterances are ever exactly the same, we humans don't function like tape recorders; we overlook distinctions to which mechanical recording devices are sensitive, and we \"hear\" contrasts which are objectively not there. What we (think we) hear is determined by the sound system of the language we speak. This course examines the sound systems of human languages, focusing on how speech sounds are produced and perceived, and how these units come to be organized into a systematic network in the minds of speakers of languages.",
 	"synonym": "26202",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Phonetics and Phonology"
+	"title": "Phonetics and Phonology",
+	"type": "Course"
 }

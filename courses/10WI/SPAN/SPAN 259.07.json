@@ -8,11 +8,12 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "259.07",
+	"number": "259",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "23078",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"LTAMELECTIVE",
+		"LTAMLIT",
+		"LTAMPERT",
+		"ENGLLOE"
 	],
-	"title": "Mexico Program: Images of Mexico in Literature and Popular Culture"
+	"title": "Mexico Program: Images of Mexico in Literature and Popular Culture",
+	"type": "Course"
 }

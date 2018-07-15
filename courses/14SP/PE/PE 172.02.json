@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brooke M Plotz"
 	],
-	"number": "172.02",
+	"number": "172",
 	"offerings": {
 		"locations": [
 			"West Gym 101"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 24,
@@ -41,5 +39,6 @@
 	"summary": "Designed for the accomplished swimmer who desires a vigorous workout as a means of improving or maintaining cardiovascular fitness. Instruction covers stroke mechanics, drills, use of training equipment and general workout design. Students must have the ability to swim front crawl, backstroke, and breaststroke.",
 	"synonym": "34807",
 	"tags": [],
-	"title": "Swimming, Fitness"
+	"title": "Swimming, Fitness",
+	"type": "Course"
 }

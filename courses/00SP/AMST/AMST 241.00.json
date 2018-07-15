@@ -9,7 +9,7 @@
 	"instructors": [
 		"Joe Lucchesi"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"AMSTTOPICAL1"
 	],
-	"title": "Art Since 1945"
+	"title": "Art Since 1945",
+	"type": "Course"
 }

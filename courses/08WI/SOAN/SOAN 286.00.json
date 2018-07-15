@@ -6,7 +6,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "18223",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"POSI-AREAS",
+		"ASSTEAST"
 	],
-	"title": "Anthropology of East Asia"
+	"title": "Anthropology of East Asia",
+	"type": "Course"
 }

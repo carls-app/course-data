@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": "This course offers an introduction to the major themes in European metaphysics and epistemology during the seventeenth and eighteenth centuries. Key issues to be examined include the scope and nature of human knowledge, the relationship between the mind and the body, God, the physical world, causation, and the metaphysical categories of substance and attribute. We will place a special emphasis on understanding the philosophical thought of Rene Descartes, G. W. Leibniz, Anne Conway, and David Hume. Two particular themes will recur throughout the course: first, the evolving relationships between philosophy and the sciences of the period; second, the philosophical contributions of women in the early modern era.",
 	"synonym": "23718",
 	"tags": [
-		{
-			"code": "PHILCORE",
-			"name": "Philosophy Core Courses"
-		}
+		"PHILCORE"
 	],
-	"title": "Early Modern Philosophy"
+	"title": "Early Modern Philosophy",
+	"type": "Course"
 }

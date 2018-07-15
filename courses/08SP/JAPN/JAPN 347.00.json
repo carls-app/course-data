@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "347.00",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "19135",
 	"tags": [],
-	"title": "Adv Rdg Japn Prose:Newspapers"
+	"title": "Adv Rdg Japn Prose:Newspapers",
+	"type": "Course"
 }

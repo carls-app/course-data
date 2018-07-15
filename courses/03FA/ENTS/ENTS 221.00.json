@@ -9,7 +9,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -44,10 +45,8 @@
 	"summary": null,
 	"synonym": "6448",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Ecosystems Ecology"
+	"title": "Ecosystems Ecology",
+	"type": "Course"
 }

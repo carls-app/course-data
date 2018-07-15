@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4903",
 	"tags": [],
-	"title": "Visions of Reality: 20th C"
+	"title": "Visions of Reality: 20th C",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "126L.54",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 21,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "15237",
 	"tags": [],
-	"title": "Phys Instrumentation Lab"
+	"title": "Phys Instrumentation Lab",
+	"type": "Lab"
 }

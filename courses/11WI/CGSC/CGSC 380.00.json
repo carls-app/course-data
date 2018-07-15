@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "380.00",
+	"number": "380",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 250 or Educational Studies 234 or permission of the instructor.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -43,14 +41,9 @@
 	"summary": "We will consider the development of memory, perception, and attention, as well as concepts and categorization, problem-solving and thinking, during the years from two to six. We will focus particularly on how these developments are reflected in children's spontaneous behavior and play. Course requirements will include readings, class discussions, short papers, a final project, and regular observation of preschoolers or kindergarteners.",
 	"synonym": "25725",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
-	"title": "Seminar in Developmental Psychology: Cognitive Development During the Preschool Years"
+	"title": "Seminar in Developmental Psychology: Cognitive Development During the Preschool Years",
+	"type": "Course"
 }

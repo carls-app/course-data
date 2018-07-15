@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sue Bales"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "8438",
 	"tags": [],
-	"title": "New Religious Movements"
+	"title": "New Religious Movements",
+	"type": "Course"
 }

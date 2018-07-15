@@ -8,7 +8,7 @@
 	"instructors": [
 		"Myrna S Rezcallah"
 	],
-	"number": "385.00",
+	"number": "385",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15072",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Microbial Pathogenesis Sem"
+	"title": "Microbial Pathogenesis Sem",
+	"type": "Course"
 }

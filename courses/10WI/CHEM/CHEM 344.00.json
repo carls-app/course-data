@@ -6,7 +6,7 @@
 	"instructors": [
 		"Will Hollingsworth"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Chemistry 123 or 128, Mathematics 211 and one of the following: Physics 151, 152, 153, or 165",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "This course introduces quantum mechanics with an emphasis on chemical and spectroscopic applications. The focus will be on atomic and molecular quantum behavior involving electrons, rotations, and vibrations. The objective is to develop both a deeper understanding of bonding as well as an appreciation of how spectroscopy provides insight into the microscopic world of molecules.",
 	"synonym": "22957",
 	"tags": [],
-	"title": "Quantum Chemistry"
+	"title": "Quantum Chemistry",
+	"type": "Course"
 }

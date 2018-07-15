@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert B Packer"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -45,5 +46,6 @@
 		"HISTISLAM",
 		"CCSTBINARY"
 	],
-	"title": "The Arab-Israeli Conflict"
+	"title": "The Arab-Israeli Conflict",
+	"type": "Course"
 }

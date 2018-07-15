@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bryan R Daves"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "4254",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Pol-Global Economic Relations"
+	"title": "Pol-Global Economic Relations",
+	"type": "Course"
 }

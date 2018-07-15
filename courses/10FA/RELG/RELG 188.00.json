@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kristin C Bloomer"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 30,
@@ -46,26 +44,12 @@
 	"summary": null,
 	"synonym": "27836",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGHINDUTRAD",
-			"name": "RELG Hindu Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHSOCLPWR",
-			"name": "RELG Religion & Social Power"
-		}
+		"WGSTADDL",
+		"RELGCHRISTNTRAD",
+		"RELGHINDUTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHSOCLPWR"
 	],
-	"title": "Women and Religion: India and Abroad"
+	"title": "Women and Religion: India and Abroad",
+	"type": "Course"
 }

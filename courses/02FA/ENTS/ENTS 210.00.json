@@ -9,11 +9,12 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -23,14 +24,9 @@
 	"summary": null,
 	"synonym": "3844",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Geomorphology"
+	"title": "Geomorphology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "12841",
 	"tags": [],
-	"title": "Methods of Coaching Org Sports"
+	"title": "Methods of Coaching Org Sports",
+	"type": "Course"
 }

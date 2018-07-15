@@ -6,7 +6,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 10,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2335",
 	"tags": [],
-	"title": "Method Teaching Social Studies"
+	"title": "Method Teaching Social Studies",
+	"type": "Course"
 }

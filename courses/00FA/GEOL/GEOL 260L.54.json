@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "260L.54",
+	"number": "260L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 15,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "591",
 	"tags": [],
-	"title": "Sed - Strat Lab"
+	"title": "Sed - Strat Lab",
+	"type": "Lab"
 }

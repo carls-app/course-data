@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tina Garrett"
 	],
-	"number": "111.02",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 22,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9847",
 	"tags": [],
-	"title": "Calculus I"
+	"title": "Calculus I",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 18,
@@ -49,50 +41,18 @@
 	"summary": "This course will look at the contemporary debate in multiculturalism in the context of a variety of liberal philosophical traditions, including contractarians, libertarians, and Utilitarians. These views of the relationship of individual to community will be compared to those of the communitarian and egalitarian traditions. Research papers may use a number of feminist theory frameworks and methods.",
 	"synonym": "36245",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AMMUGROUP3",
+		"POSI-PLI2",
+		"AFAMPERT",
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"WGSTADDL",
+		"POSCADVSEM",
+		"POSI-DSS",
+		"POSIADVSEM",
+		"POSIELECTIVE"
 	],
-	"title": "Identity, Culture and Rights*"
+	"title": "Identity, Culture and Rights*",
+	"type": "Course"
 }

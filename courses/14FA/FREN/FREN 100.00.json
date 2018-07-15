@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephanie M Cox"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Weitz Center 231"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -56,5 +48,6 @@
 	"summary": "This class focuses on the French-American relationship not only through case studies like the \"freedom fries\" debacle of 2003 or the declaration by Time Magazine (2007) of the death of French culture but also by looking at the reciprocal fascination across the Atlantic. Using historical records, news articles, cultural studies, films and literature, we will seek to address such questions as: How does one conduct cultural analysis? How can we avoid cultural misunderstanding? Where do cultural assumptions come from, and what is their impact on transatlantic encounters?",
 	"synonym": "39991",
 	"tags": [],
-	"title": "I Love You. Me Neither: The Franco-American Courtship"
+	"title": "I Love You. Me Neither: The Franco-American Courtship",
+	"type": "Course"
 }

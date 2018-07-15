@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lauren E Feiler"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": "Prerequisite: Economics 330, 331, and concurrent or previous enrollment in Economics 329",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"SI",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -49,10 +41,8 @@
 	"summary": "Behavioral economics aims to increase the predictive power of economic models by incorporating insights from psychology. Experiments can be used to test hypotheses in this field, but they are a tool for studying a broad range of economic questions. This course will focus on the overlap between the two fields, but it can lead to behavioral projects that use pre-existing data or experimental projects that test predictions from non-psychological behavior. Topics are wide-ranging, but the seminar will focus on behavioral game theory, biases in individual decision making, and experimental design.",
 	"synonym": "39160",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Advanced Topics in Behavioral and Experimental Economics"
+	"title": "Advanced Topics in Behavioral and Experimental Economics",
+	"type": "Course"
 }

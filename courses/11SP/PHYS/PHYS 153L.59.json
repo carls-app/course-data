@@ -8,7 +8,7 @@
 	"instructors": [
 		"Liz McDowell"
 	],
-	"number": "153L.59",
+	"number": "153L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "26042",
 	"tags": [],
-	"title": "Fluid and Waves Lab"
+	"title": "Fluid and Waves Lab",
+	"type": "Lab"
 }

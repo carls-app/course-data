@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "263.00",
+	"number": "263",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"QRE",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 30,
@@ -54,18 +46,10 @@
 	"summary": "An introduction to the politics of the European region during the post-World War II period. Students will examine the political conditions that gave impetus to the creation, maintenance, crisis, and decline of Keynesian economic policies, social welfare states, social democratic partisan alliances, and cooperative patterns of industrial relations. The course will examine the rise and reform of the project of European integration. The course will also address the particular problems faced by the East European countries as they attempt to make a transition from authoritarian, command economies to democratic, market-based economies.",
 	"synonym": "27031",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"POSI-GDS"
 	],
-	"title": "European Political Economy"
+	"title": "European Political Economy",
+	"type": "Course"
 }

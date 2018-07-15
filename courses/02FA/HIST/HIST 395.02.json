@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diethelm Prowe"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "4426",
 	"tags": [
-		{
-			"code": "HISTEUR1451",
-			"name": "HIST Europe Since 1450"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"HISTEUR1451",
+		"CCSTGLOBAL"
 	],
-	"title": "Fascism"
+	"title": "Fascism",
+	"type": "Course"
 }

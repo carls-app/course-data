@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18769",
 	"tags": [],
-	"title": "Computer Networks"
+	"title": "Computer Networks",
+	"type": "Course"
 }

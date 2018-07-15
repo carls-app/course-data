@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ken Abrams"
 	],
-	"number": "365.00",
+	"number": "365",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "22048",
 	"tags": [
-		{
-			"code": "SPECINTPHILSCI",
-			"name": "Philosophy of Science"
-		}
+		"SPECINTPHILSCI"
 	],
-	"title": "Science and Pseudoscience"
+	"title": "Science and Pseudoscience",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Not open to students who have taken another Geology 100-level course.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 18,
@@ -43,10 +41,8 @@
 	"summary": "This course is designed to introduce the study of paleoclimatology broadly, and is based on investigating local deposits that span a broad range of geologic time. We will perform research projects on topics of local interest, which may include: analyzing fossils in 450 million year old rock, scrutinizing reported Cretaceous dinosaur gizzard-stones, researching post-Ice Age climate change using cave or lake deposits, and using dendrochronology (tree rings) and seismic surveys to study disruption of the prairie-big woods landscape by European settlers. Participants should be prepared for outdoor laboratories and one Saturday field trip.",
 	"synonym": "27586",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		}
+		"ENTSINTRO"
 	],
-	"title": "Climate Change in Geology"
+	"title": "Climate Change in Geology",
+	"type": "Course"
 }

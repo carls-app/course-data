@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kurt M Ramler"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -21,12 +21,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 5,
@@ -36,5 +34,6 @@
 	"summary": null,
 	"synonym": "17225",
 	"tags": [],
-	"title": "Canoeing"
+	"title": "Canoeing",
+	"type": "Course"
 }

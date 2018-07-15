@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "204.00",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 201 or consent of the instructor",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "28943",
 	"tags": [],
-	"title": "Software Design"
+	"title": "Software Design",
+	"type": "Course"
 }

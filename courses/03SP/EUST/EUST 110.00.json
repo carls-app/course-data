@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Strand"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "5539",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		}
+		"EUSTCORE"
 	],
-	"title": "European Studies"
+	"title": "European Studies",
+	"type": "Course"
 }

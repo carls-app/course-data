@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Wittgraf"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 7,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "11705",
 	"tags": [],
-	"title": "Adv Composition Seminar"
+	"title": "Adv Composition Seminar",
+	"type": "Course"
 }

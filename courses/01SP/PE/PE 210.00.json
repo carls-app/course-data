@@ -8,16 +8,14 @@
 	"instructors": [
 		"Bill Nelson"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "1031",
 	"tags": [],
-	"title": "Baseball Intercollegiate"
+	"title": "Baseball Intercollegiate",
+	"type": "Course"
 }

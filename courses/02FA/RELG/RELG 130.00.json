@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael D McNally"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "4100",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC"
 	],
-	"title": "Native American Religions"
+	"title": "Native American Religions",
+	"type": "Course"
 }

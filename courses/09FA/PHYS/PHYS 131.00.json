@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 111, not open to students who have completed Physics 132, 141, or 142 at Carleton; Concurrent registration in Physics 131L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": "An introduction to classical mechanics using the Newtonian worldview. The kinematics and dynamics of some simple systems including objects in free fall, simple harmonic motion, planetary motion, and the motion of charged particles in electromagnetic fields are investigated using Newton's laws, vector analysis, and the conservation laws of linear momentum, angular momentum, and energy. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory work.",
 	"synonym": "22781",
 	"tags": [],
-	"title": "Introduction to Physics: Newtonian Mechanics"
+	"title": "Introduction to Physics: Newtonian Mechanics",
+	"type": "Course"
 }

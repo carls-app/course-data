@@ -6,7 +6,7 @@
 	"instructors": [
 		"Maria Elena Doleman"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"tags": [
 		"SPAN205-209"
 	],
-	"title": "Conversation & Composition"
+	"title": "Conversation & Composition",
+	"type": "Course"
 }

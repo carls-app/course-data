@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 45,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "7798",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		}
+		"HISTEUR1450",
+		"HISTISLAM",
+		"HISTANCNT/MDVL"
 	],
-	"title": "Roman Hist,RepublicPrincipate"
+	"title": "Roman Hist,RepublicPrincipate",
+	"type": "Course"
 }

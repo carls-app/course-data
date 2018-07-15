@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steven E Schier"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -43,18 +41,10 @@
 	"summary": "Is direct citizen rule through participatory democracy or a reliance on policymaking by officeholders the best way to govern America? This seminar addresses the question by examining several topics--the levels of political knowledge and interest among the public, the impact of interest groups in national government, and the operation of popular rule through initiatives and referendums in American states.",
 	"synonym": "27057",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		},
-		{
-			"code": "POSI-DSS2",
-			"name": "Democracy, Society & State 2"
-		}
+		"AMSTTOPICAL3",
+		"POSI-DSS",
+		"POSI-DSS2"
 	],
-	"title": "Issues in American Democracy"
+	"title": "Issues in American Democracy",
+	"type": "Course"
 }

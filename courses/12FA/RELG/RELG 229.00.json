@@ -6,7 +6,7 @@
 	"instructors": [
 		"Philip S Francis"
 	],
-	"number": "229.00",
+	"number": "229",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -45,18 +40,10 @@
 	"summary": "This course explores Christianity's complex and shifting relationship to image-making, beauty and the arts across the centuries. We read Christian theologies and philosophies of art, analyze Christian works of art and visit churches to consider the role of art in worship. Topics include: the beauty of God and the ugliness of Christ, incarnation and the theology of matter, image vs. idol, iconoclasm, beauty as a path to God, Christianity and censorship, art as co-creation with God, the artist as prophet.",
 	"synonym": "33849",
 	"tags": [
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHLVDRELCLT",
-			"name": "RELG Lived Relg & Culture"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		}
+		"RELGCHRISTNTRAD",
+		"RELGTHLVDRELCLT",
+		"RELGTHTHGHTPHIL"
 	],
-	"title": "Images of God: Art and the Christian Tradition"
+	"title": "Images of God: Art and the Christian Tradition",
+	"type": "Course"
 }

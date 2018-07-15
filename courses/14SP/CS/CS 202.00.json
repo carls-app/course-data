@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Liben-Nowell"
 	],
-	"number": "202.00",
+	"number": "202",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Computer Science 111 and Mathematics 111 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 34,
@@ -46,10 +44,8 @@
 	"summary": "This course introduces some of the formal tools of computer science, using a variety of applications as a vehicle. You'll learn how to encode data so that when you scratch the back of a DVD, it still plays just fine; how to distribute \"shares\" of your floor's PIN so that any five of you can withdraw money from the floor bank account (but no four of you can); how to play chess; and more. Topics that we'll explore along the way include: logic and proofs, number theory, elementary complexity theory and recurrence relations, basic probability, counting techniques, and graphs.",
 	"synonym": "37579",
 	"tags": [
-		{
-			"code": "LINGPERT",
-			"name": "Linguistics Pertinent Course"
-		}
+		"LINGPERT"
 	],
-	"title": "Mathematics of Computer Science"
+	"title": "Mathematics of Computer Science",
+	"type": "Course"
 }

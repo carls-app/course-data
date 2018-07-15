@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen Mohring"
 	],
-	"number": "327.00",
+	"number": "327",
 	"offerings": {
 		"locations": [
 			"Boliou 025"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Studio Art 122, 222 or instructor permission",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 0,
@@ -43,5 +41,6 @@
 	"summary": "This class explores the wondrous joys and enlightening frustrations of an intensive material focus in wood. From the perspective of both functional and non-functional design, we will examine wood's physical, visual, philosophical, and expressive properties. Several short projects will culminate in an examination of the table as a conceptual construct, and six week design/build challenge.",
 	"synonym": "25551",
 	"tags": [],
-	"title": "Woodworking: The Table"
+	"title": "Woodworking: The Table",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7690",
 	"tags": [],
-	"title": "20th Century Prose and Poetry"
+	"title": "20th Century Prose and Poetry",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "5133",
 	"tags": [],
-	"title": "First Aid and CPR"
+	"title": "First Aid and CPR",
+	"type": "Course"
 }

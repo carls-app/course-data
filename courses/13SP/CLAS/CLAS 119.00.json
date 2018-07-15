@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jo Berry"
 	],
-	"number": "119.00",
+	"number": "119",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -45,5 +40,6 @@
 	"summary": "Pompeii and the other cities destroyed by Vesuvius are very different from other archaeological sites in terms of their destruction, excavation and preservation. This course aims to introduce students to the wealth of evidence from Pompeii that can be used to examine Roman urban life, but also to make them aware of the problems that affect our knowledge and interpretation of this evidence. Topics will include: the eruption of Vesuvius; history and urban development; architecture; domestic and public life; neighborhoods and villas; graffiti; entertainment; death and burial. We will also look at current conservation issues that affect the archaeological remains.",
 	"synonym": "33169",
 	"tags": [],
-	"title": "Pompeii and the Cities of Vesuvius"
+	"title": "Pompeii and the Cities of Vesuvius",
+	"type": "Course"
 }

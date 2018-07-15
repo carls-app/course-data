@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 7,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1856",
 	"tags": [],
-	"title": "German in Review"
+	"title": "German in Review",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Andrew B Fisher"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "7759",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE"
 	],
-	"title": "Modern Latin America"
+	"title": "Modern Latin America",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"William S Dinklage"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "848",
 	"tags": [],
-	"title": "Petrology"
+	"title": "Petrology",
+	"type": "Course"
 }

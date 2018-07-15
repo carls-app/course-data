@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa K Whitler"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": null,
 	"synonym": "22139",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS"
 	],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

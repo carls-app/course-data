@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "295.07",
+	"number": "295",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "17663",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMELECTIVE",
+		"LTAMPERT"
 	],
-	"title": "Field Methods & Resrch Project"
+	"title": "Field Methods & Resrch Project",
+	"type": "Course"
 }

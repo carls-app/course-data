@@ -8,7 +8,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "109.05",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15794",
 	"tags": [],
-	"title": "Writing Seminar"
+	"title": "Writing Seminar",
+	"type": "Course"
 }

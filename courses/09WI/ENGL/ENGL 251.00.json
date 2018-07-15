@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "21011",
 	"tags": [
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "SAST",
-			"name": "South Asia Studies"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		}
+		"ENGLT3",
+		"ENGL4",
+		"SAST",
+		"ENGLHE3"
 	],
-	"title": "Modern Indian Fiction II"
+	"title": "Modern Indian Fiction II",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "109.00",
+	"number": "109",
 	"offerings": {
 		"locations": [
 			"Olin 142"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "19722",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		}
+		"HISTAFRDIASPORA",
+		"HISTATLANTWRLD"
 	],
-	"title": "African Life Histories"
+	"title": "African Life Histories",
+	"type": "Course"
 }

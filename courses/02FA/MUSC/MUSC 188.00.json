@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tony Holt"
 	],
-	"number": "188.00",
+	"number": "188",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05",
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 50,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "4405",
 	"tags": [],
-	"title": "Carleton Pro Musica"
+	"title": "Carleton Pro Musica",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David F Appleyard"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3811",
 	"tags": [],
-	"title": "Theory of Computation"
+	"title": "Theory of Computation",
+	"type": "Course"
 }

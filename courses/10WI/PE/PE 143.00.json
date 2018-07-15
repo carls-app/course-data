@@ -7,7 +7,7 @@
 		"Tammy Metcalf-Filzen",
 		"Linda K Luedke"
 	],
-	"number": "143.00",
+	"number": "143",
 	"offerings": {
 		"locations": [
 			"West Gym 213"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 12,
@@ -42,5 +40,6 @@
 	"summary": "Basic introductory instruction in the use of kettlebells for strength development and aerobic conditioning. This course will have a general fitness focus.",
 	"synonym": "25122",
 	"tags": [],
-	"title": "Beginning Kettlebell Fitness"
+	"title": "Beginning Kettlebell Fitness",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen K Kelly"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL05"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "12623",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AMSTTOPICAL1",
+		"AFAMSURVEY"
 	],
-	"title": "History of Jazz"
+	"title": "History of Jazz",
+	"type": "Course"
 }

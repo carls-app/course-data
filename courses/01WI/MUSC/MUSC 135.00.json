@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sheila K Adams"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1288",
 	"tags": [],
-	"title": "Traditional Appalachian Music"
+	"title": "Traditional Appalachian Music",
+	"type": "Course"
 }

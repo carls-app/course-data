@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "162L.52",
+	"number": "162L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 19,
 		"total": 24,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "31086",
 	"tags": [],
-	"title": "Light and Optics Lab"
+	"title": "Light and Optics Lab",
+	"type": "Lab"
 }

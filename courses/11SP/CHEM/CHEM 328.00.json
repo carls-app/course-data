@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "328.00",
+	"number": "328",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 230 or 233 or consent of the instructor.",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -52,26 +47,12 @@
 	"summary": "In this course, we will study the chemistry of molecules in the air, water, and soil. Emphasis will be placed on understanding the chemistry in the natural (unpolluted) environment, and the changes which occur due to human activity and pollution. In addition, we will explore the methods which are used to measure pollutants in the environment and their applicability, as well as regulatory issues of relevance to the topics studies.",
 	"synonym": "25671",
 	"tags": [
-		{
-			"code": "ENTSTOPSEM",
-			"name": "ENTS Topical Seminar"
-		},
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSTOPICAL",
-			"name": "ENTS Topical"
-		}
+		"ENTSTOPSEM",
+		"ENTS2ENVSCI",
+		"ENTSWRES",
+		"CCSTGLOBAL",
+		"ENTSTOPICAL"
 	],
-	"title": "Environmental Analysis"
+	"title": "Environmental Analysis",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or permission of the instructor; GEOL 370L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"WR2",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -51,14 +43,9 @@
 	"summary": "The main goal of this course is to introduce and tie together the several diverse disciplines that must be brought to bear on hydrogeochemical problems today. This course will explore: principles of geochemistry, applications of chemical thermodynamics to geologic problems, mineral solubility, stability diagrams, chemical aspects of sedimentary rocks, geochemical tracers, radiogenic isotopes and principles of stable isotope fractionation. Laboratories included.",
 	"synonym": "35089",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSWRES",
-			"name": "ENTS Water Res Env Sci"
-		}
+		"ENTS2ENVSCI",
+		"ENTSWRES"
 	],
-	"title": "Geochemistry of Natural Waters"
+	"title": "Geochemistry of Natural Waters",
+	"type": "Course"
 }

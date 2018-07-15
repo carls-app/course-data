@@ -6,7 +6,7 @@
 	"instructors": [
 		"Garrett Graddy"
 	],
-	"number": "253.00",
+	"number": "253",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"SI",
+		"IS",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -49,22 +41,11 @@
 	"summary": null,
 	"synonym": "27647",
 	"tags": [
-		{
-			"code": "LTAMSOCSCI",
-			"name": "LTAM Social Science"
-		},
-		{
-			"code": "ENTSLPSCP",
-			"name": "ENTS LandPercp Soc,Cul,Pol"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		}
+		"LTAMSOCSCI",
+		"ENTSLPSCP",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS"
 	],
-	"title": "Social and Environmental Movements of Latin America"
+	"title": "Social and Environmental Movements of Latin America",
+	"type": "Course"
 }

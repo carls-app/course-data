@@ -8,7 +8,7 @@
 	"instructors": [
 		"David Hougen-Eitzman"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 43,
 		"total": 48,
@@ -46,5 +47,6 @@
 		"CCSTGLOBAL",
 		"ENTSSCI"
 	],
-	"title": "Biology of Conservation"
+	"title": "Biology of Conservation",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -34,6 +34,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2466",
 	"tags": [],
-	"title": "Intro to the Theory of Syntax"
+	"title": "Intro to the Theory of Syntax",
+	"type": "Course"
 }

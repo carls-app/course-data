@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "8115",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Environmental Ethics"
+	"title": "Environmental Ethics",
+	"type": "Course"
 }

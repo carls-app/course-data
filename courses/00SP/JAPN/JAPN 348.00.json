@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mariko Kaga"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Language Lab 110"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1960",
 	"tags": [],
-	"title": "Adv Conversation&Composition"
+	"title": "Adv Conversation&Composition",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"Aaron J Chaput"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "23914",
 	"tags": [],
-	"title": "Ice Hockey Club, Men"
+	"title": "Ice Hockey Club, Men",
+	"type": "Course"
 }

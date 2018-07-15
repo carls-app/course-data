@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melanie D Michailidis"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -36,22 +37,11 @@
 	"summary": null,
 	"synonym": "17434",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"EUSTCNTRY",
+		"MARSCAP",
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "Topics: 10th C Cordoba, Cairo"
+	"title": "Topics: 10th C Cordoba, Cairo",
+	"type": "Course"
 }

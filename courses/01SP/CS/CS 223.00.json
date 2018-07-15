@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 28,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "1261",
 	"tags": [],
-	"title": "Discrete Math for Computer Sci"
+	"title": "Discrete Math for Computer Sci",
+	"type": "Course"
 }

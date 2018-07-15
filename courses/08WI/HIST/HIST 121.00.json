@@ -7,7 +7,7 @@
 		"Kirk Jeffrey",
 		"George Vrtis"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 50,
@@ -37,22 +38,11 @@
 	"summary": null,
 	"synonym": "18096",
 	"tags": [
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"AFAMPERT"
 	],
-	"title": "Amer Soc Hist From 1865-1945"
+	"title": "Amer Soc Hist From 1865-1945",
+	"type": "Course"
 }

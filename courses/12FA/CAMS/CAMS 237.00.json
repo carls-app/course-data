@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -52,18 +47,10 @@
 	"summary": "The Russian school of filmmaking developed in a socio-political context that indelibly marked its production. Fortunately, the Russian school's achievements have exceeded the limitations of time, politics, and national boundaries, to this day influencing filmmakers around the world. This course examines major moments in Russian cinema history. Readings and brief lectures situate films in their historical and political contexts; discussion and close analysis explore technological innovation and the theories underlying them. The survey concludes with consideration of the Russian school's significance particularly for emerging cinemas in Cuba, China, Africa, and post-Soviet Central Asia.",
 	"synonym": "32202",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "RUSSIANPERT",
-			"name": "Russian Pertinent"
-		}
+		"CAMSELECTIVE",
+		"EUSTCNTRY",
+		"RUSSIANPERT"
 	],
-	"title": "Cinemas & Contexts: Russian Film"
+	"title": "Cinemas & Contexts: Russian Film",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jack Bryce"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "19799",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"MARSCORE",
+		"ENGLLOE",
+		"MARSSUPP"
 	],
-	"title": "Petronius"
+	"title": "Petronius",
+	"type": "Course"
 }

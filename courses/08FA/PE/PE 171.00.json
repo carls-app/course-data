@@ -6,7 +6,7 @@
 	"instructors": [
 		"Russ Petricka"
 	],
-	"number": "171.00",
+	"number": "171",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "20729",
 	"tags": [],
-	"title": "Step Aerobics"
+	"title": "Step Aerobics",
+	"type": "Course"
 }

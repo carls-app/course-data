@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": "How have feminist theologians attempted to understand and transform religious traditions they find both oppressive and liberating where justice for women is concerned? This course examines works by feminist scholars (from Christian and Jewish traditions) who have sought to re-think fundamental categories, symbols, questions, and methods related to the study of scripture, ethics, and theology. We explore the ways in which theologians from various cultural backgrounds have worked toward women's empowerment through critiques of sexism, racism, and colonialism, and through feminist models of community, identity, and justice. Topics include: gender and biblical interpretation, God-language, redemption, sexual ethics, and ecofeminism.",
 	"synonym": "24711",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Feminist Theologies"
+	"title": "Feminist Theologies",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sarah A Wadsworth"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "06",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2292",
 	"tags": [],
-	"title": "Lit Sem:Rdg&Wrtg About Lit"
+	"title": "Lit Sem:Rdg&Wrtg About Lit",
+	"type": "Course"
 }

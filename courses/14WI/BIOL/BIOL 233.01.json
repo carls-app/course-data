@@ -8,7 +8,7 @@
 	"instructors": [
 		"Amy H Moore"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Hulings 215"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "35232",
 	"tags": [],
-	"title": "Human Physiology Lab"
+	"title": "Human Physiology Lab",
+	"type": "Course"
 }

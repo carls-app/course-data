@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane T McDonnell"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "6276",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"AMSTTOPICAL1",
+		"LITFORLANG",
+		"WGSTADDL",
+		"WGSTCORE"
 	],
-	"title": "From Memory to Memoir"
+	"title": "From Memory to Memoir",
+	"type": "Course"
 }

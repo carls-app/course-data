@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sara M Gorchoff"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": "The social psychological analysis of human social behavior, interpersonal processes, and group influences. Concurrent registration in Psychology 257 is strongly recommended. A grade of C- or better must be earned in both Psychology 256 and 257 to satisfy the LS requirement.",
 	"synonym": "23664",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Social Behavior and Interpersonal Processes"
+	"title": "Social Behavior and Interpersonal Processes",
+	"type": "Course"
 }

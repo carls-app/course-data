@@ -6,7 +6,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Weitz Center 233"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -45,34 +40,14 @@
 	"summary": "Feminism has to do with changing the world. We will explore feminist debates about changing the world using a historical framework to situate feminist theories in the context of the philosophical and political thought of specific time periods and cultures. Thus, we will follow feminist theories as they challenged, critiqued, subverted and revised liberalism, Marxism, existentialism, socialism, anarchism, critical race theories, multiculturalism, postmodernism and post-colonialism. We will focus on how theory emerges from and informs matters of practice. We will ask: What counts as theory? Who does it? How is it institutionalized? Who gets to ask the questions and to provide the answers?",
 	"synonym": "33498",
 	"tags": [
-		{
-			"code": "WGSTMETH",
-			"name": "WGST Methods"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-PLI2",
-			"name": "Philosophic & Legal Inq 2"
-		}
+		"WGSTMETH",
+		"POSI-LPS",
+		"SPECINTSOCTHGHT",
+		"WGSTADDL",
+		"POSCELECTIVE",
+		"POSIELECTIVE",
+		"POSI-PLI2"
 	],
-	"title": "Feminist Theory"
+	"title": "Feminist Theory",
+	"type": "Course"
 }

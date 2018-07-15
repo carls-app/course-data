@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nidanie Henderson"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126; or Chemistry 123 or 128; or Physics 151",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 16,
@@ -41,14 +39,9 @@
 	"summary": null,
 	"synonym": "26121",
 	"tags": [
-		{
-			"code": "BIOCELEC",
-			"name": "Biochemistry Elective"
-		},
-		{
-			"code": "BIOLELECTIVE",
-			"name": "Biol Elective"
-		}
+		"BIOCELEC",
+		"BIOLELECTIVE"
 	],
-	"title": "Seminar in Biophysics"
+	"title": "Seminar in Biophysics",
+	"type": "Course"
 }

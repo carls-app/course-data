@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 30,
@@ -45,18 +40,10 @@
 	"summary": "An introduction to the major religious traditions of China, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining charactersistics of, and interactions among, various religious traditions, including Buddhism, Daoism, and the Confuciansim, as well as Christianity and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
 	"synonym": "24526",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "RELGBUDDHSTTRAD",
-			"name": "RELG Buddhist Traditions"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"RELGBUDDHSTTRAD"
 	],
-	"title": "Religions in Chinese Culture"
+	"title": "Religions in Chinese Culture",
+	"type": "Course"
 }

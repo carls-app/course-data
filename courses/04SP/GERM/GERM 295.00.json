@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nadja D Kramer"
 	],
-	"number": "295.00",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7697",
 	"tags": [],
-	"title": "Berlin: Metropolis & Culture"
+	"title": "Berlin: Metropolis & Culture",
+	"type": "Course"
 }

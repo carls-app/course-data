@@ -6,7 +6,7 @@
 	"instructors": [
 		"David G Tompkins"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -50,30 +45,13 @@
 	"summary": "This course traces the evolution of Europe from the French Revolution to the outbreak of World War I, and examines some of the political, social, economic, intellectual, and cultural forces that have shaped and reshaped European society. We will cover the growth of modern nation-states, the industrial revolution and its effects on society, changes in the family and gender roles, and the evolution of modern consciousness in the arts, literature, and philosophy. The course will strive to look at both Western and Eastern Europe, and will conclude with a close examination of the causes of the First World War.",
 	"synonym": "26251",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"EUSTTRANNATL",
+		"FRSTELEC",
+		"HISTERLYMODEUR",
+		"FRSTHIST",
+		"POSI-AREAS"
 	],
-	"title": "The Age of Revolutions: Modern Europe, 1789-1914"
+	"title": "The Age of Revolutions: Modern Europe, 1789-1914",
+	"type": "Course"
 }

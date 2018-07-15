@@ -8,7 +8,7 @@
 	"instructors": [
 		"Eric C Tretbar"
 	],
-	"number": "279.00",
+	"number": "279",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": "This course teaches students the fundamentals of screenwriting. Topics include understanding film structure, writing solid dialogue, creating dimensional characters, and establishing dramatic situations. Art, craft, theory, form, content, concept, genre, narrative strategies and storytelling tools are discussed. Students turn in weekly assignments, starting with short scenes and problems and then moving on to character work, synopses, outlines, pitches and more. The goal is for each student to write a 15 to 25 page script for a short film by the end of the term.",
 	"synonym": "22882",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Screenwriting"
+	"title": "Screenwriting",
+	"type": "Course"
 }

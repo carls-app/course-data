@@ -9,16 +9,14 @@
 		"Karen L Parker",
 		"Kari Maijla-Orness"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 60,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "8816",
 	"tags": [],
-	"title": "Soccer Intercollegiate"
+	"title": "Soccer Intercollegiate",
+	"type": "Course"
 }

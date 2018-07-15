@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "112.00",
+	"number": "112",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 42,
 		"total": 40,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "6402",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"CCSTGLOBAL",
+		"ENTSSCI"
 	],
-	"title": "Conservation Biology"
+	"title": "Conservation Biology",
+	"type": "Course"
 }

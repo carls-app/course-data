@@ -6,7 +6,7 @@
 	"instructors": [
 		"Julie J Neiworth"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Olin 102"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110; Concurrent registration in Psychology 201",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"QRE",
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": "The course considers the role of measurement and data analysis focused on behavioral sciences. Various forms of measurement and standards for the evaluation of measures are explored. Students learn how to summarize, organize, and evaluate data using a variety of techniques that are applicable to research in psychology and other disciplines. Among the analyses discussed and applied are tests of means, various forms of analysis of variance, correlation and regression, planned and post-hoc comparisons, as well as various non-parametric tests. Research design is also explored.",
 	"synonym": "38050",
 	"tags": [],
-	"title": "Measurement and Data Analysis in Psychology"
+	"title": "Measurement and Data Analysis in Psychology",
+	"type": "Course"
 }

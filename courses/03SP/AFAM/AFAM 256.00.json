@@ -9,7 +9,7 @@
 	"instructors": [
 		"Pamela Feldman-Savelsberg"
 	],
-	"number": "256.00",
+	"number": "256",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "4348",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		}
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"AFAMDISTROSS"
 	],
-	"title": "Ethnography of Africa"
+	"title": "Ethnography of Africa",
+	"type": "Course"
 }

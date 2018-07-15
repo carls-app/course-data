@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "11159",
 	"tags": [],
-	"title": "Modern Philosophy"
+	"title": "Modern Philosophy",
+	"type": "Course"
 }

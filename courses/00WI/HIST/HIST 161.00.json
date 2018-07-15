@@ -6,7 +6,7 @@
 	"instructors": [
 		"Manu B Bhagavan"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -43,5 +44,6 @@
 	"tags": [
 		"HISTSASIA"
 	],
-	"title": "Modern India-1525 to Present"
+	"title": "Modern India-1525 to Present",
+	"type": "Course"
 }

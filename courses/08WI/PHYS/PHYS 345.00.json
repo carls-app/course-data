@@ -6,7 +6,7 @@
 	"instructors": [
 		"Marty Baylor"
 	],
-	"number": "345.00",
+	"number": "345",
 	"offerings": {
 		"locations": [
 			"Olin 219A"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 8,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "19420",
 	"tags": [],
-	"title": "Optics Lab"
+	"title": "Optics Lab",
+	"type": "Course"
 }

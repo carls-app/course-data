@@ -6,7 +6,7 @@
 	"instructors": [
 		"Naran Bilik"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "10225",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Ethnicity and Race"
+	"title": "Ethnicity and Race",
+	"type": "Course"
 }

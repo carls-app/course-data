@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Theater 110 or 211.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 14,
@@ -38,5 +39,6 @@
 	"summary": "Problems in Acting will focus on text analysis and questions of method, style and (acting) theory in the performance of scenes selected from plays of different periods and genres. Students will collaborate in the presentation of scenes and monologues taken from a broad variety of works.",
 	"synonym": "24107",
 	"tags": [],
-	"title": "Problems in Acting"
+	"title": "Problems in Acting",
+	"type": "Course"
 }

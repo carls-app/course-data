@@ -8,7 +8,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 32"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1678",
 	"tags": [],
-	"title": "Adv Seminar: Printmaking"
+	"title": "Adv Seminar: Printmaking",
+	"type": "Course"
 }

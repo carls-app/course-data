@@ -9,7 +9,7 @@
 		"Julie Klassen",
 		"Gary E Wagenbach"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 50,
@@ -42,5 +43,6 @@
 		"ENTSINTRO",
 		"ENTSLAB"
 	],
-	"title": "Envisioning Landscapes"
+	"title": "Envisioning Landscapes",
+	"type": "Course"
 }

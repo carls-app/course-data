@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beret L Norman"
 	],
-	"number": "204.02",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "7680",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate German"
+	"title": "Intermediate German",
+	"type": "Course"
 }

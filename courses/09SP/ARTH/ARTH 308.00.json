@@ -8,7 +8,7 @@
 	"instructors": [
 		"Baird E Jarman"
 	],
-	"number": "308.00",
+	"number": "308",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "20524",
 	"tags": [],
-	"title": "Planning Utopia"
+	"title": "Planning Utopia",
+	"type": "Course"
 }

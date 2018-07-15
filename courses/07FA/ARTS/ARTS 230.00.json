@@ -8,7 +8,7 @@
 	"instructors": [
 		"Juliane B Shibata"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Boliou 046",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "17449",
 	"tags": [],
-	"title": "Ceramics, Throwing"
+	"title": "Ceramics, Throwing",
+	"type": "Course"
 }

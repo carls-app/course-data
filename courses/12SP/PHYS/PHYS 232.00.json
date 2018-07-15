@@ -9,7 +9,7 @@
 	"instructors": [
 		"Cindy Blaha"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,12 +34,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 18,
@@ -49,5 +47,6 @@
 	"summary": null,
 	"synonym": "30574",
 	"tags": [],
-	"title": "Astrophysics I"
+	"title": "Astrophysics I",
+	"type": "Course"
 }

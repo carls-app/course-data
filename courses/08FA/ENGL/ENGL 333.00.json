@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sun Hee T Lee"
 	],
-	"number": "333.00",
+	"number": "333",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "22024",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		}
+		"ENGLHE3",
+		"ENGL4"
 	],
-	"title": "Contemp Native American Lit"
+	"title": "Contemp Native American Lit",
+	"type": "Course"
 }

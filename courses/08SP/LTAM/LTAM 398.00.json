@@ -6,11 +6,12 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -20,10 +21,8 @@
 	"summary": null,
 	"synonym": "19042",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMELECTIVE"
 	],
-	"title": "Latin American Forum"
+	"title": "Latin American Forum",
+	"type": "Course"
 }

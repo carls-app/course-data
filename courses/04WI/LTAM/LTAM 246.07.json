@@ -9,11 +9,12 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -23,18 +24,10 @@
 	"summary": null,
 	"synonym": "7763",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"LTAMELECTIVE"
 	],
-	"title": "20thC Lit:Mexican Short Story"
+	"title": "20thC Lit:Mexican Short Story",
+	"type": "Course"
 }

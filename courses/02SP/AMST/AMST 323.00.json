@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sarah A Wadsworth"
 	],
-	"number": "323.00",
+	"number": "323",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "2799",
 	"tags": [
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGL3"
 	],
-	"title": "Writing in the 1850's"
+	"title": "Writing in the 1850's",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "102.00",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Latin 101 with a grade of at least C- or placement",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -51,5 +52,6 @@
 	"summary": "Continuation of essential forms and grammar.",
 	"synonym": "36114",
 	"tags": [],
-	"title": "Intermediate Latin"
+	"title": "Intermediate Latin",
+	"type": "Course"
 }

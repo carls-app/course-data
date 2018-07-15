@@ -7,7 +7,7 @@
 		"Éva S Pósfay",
 		"Petra E Crosby"
 	],
-	"number": "175.00",
+	"number": "175",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "5003",
 	"tags": [],
-	"title": "I'm a Stranger Here Myself"
+	"title": "I'm a Stranger Here Myself",
+	"type": "Course"
 }

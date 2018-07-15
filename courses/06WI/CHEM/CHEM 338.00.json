@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "338.00",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 6,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "13888",
 	"tags": [],
-	"title": "Int Comp&Elec Chemical Instr"
+	"title": "Int Comp&Elec Chemical Instr",
+	"type": "Course"
 }

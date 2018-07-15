@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"LA",
+		"CL"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 55,
 		"total": 40,
@@ -47,18 +42,10 @@
 	"summary": "We will study Taichi's theory, practice its movements, explore its invisible thoughts, and read texts concerning it. The course also includes other ways to health and longevity, such as traditional mind-breath meditation and other forms. This course stresses not only mental and physical well-being but also the philosophical roots of health and wisdom formulated in Chinese classics. All readings in English translation.",
 	"synonym": "24307",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"SPECINTHEALTH"
 	],
-	"title": "The Taoist Way of Health and Longevity:"
+	"title": "The Taoist Way of Health and Longevity:",
+	"type": "Course"
 }

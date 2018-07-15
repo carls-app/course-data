@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maurice Clark"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 32,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1440",
 	"tags": [],
-	"title": "Gravity and the Cosmos"
+	"title": "Gravity and the Cosmos",
+	"type": "Course"
 }

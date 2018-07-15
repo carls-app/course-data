@@ -6,7 +6,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "395.03",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "03",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "18143",
 	"tags": [
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"MARSCAP",
+		"EUSTTRANNATL"
 	],
-	"title": "Poverty & Social Welfare"
+	"title": "Poverty & Social Welfare",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Serena R Zabin"
 	],
-	"number": "396.00",
+	"number": "396",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20548",
 	"tags": [],
-	"title": "Res Sem: Amer Empire"
+	"title": "Res Sem: Amer Empire",
+	"type": "Course"
 }

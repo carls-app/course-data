@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kelly L Kollman"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "9195",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Comparative Social Movements"
+	"title": "Comparative Social Movements",
+	"type": "Course"
 }

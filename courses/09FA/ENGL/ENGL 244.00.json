@@ -9,7 +9,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "244.00",
+	"number": "244",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 54,
 		"total": 60,
@@ -39,34 +40,14 @@
 	"summary": "A chronological survey of the whole of Shakespeare's career, covering all genres and periods, this course explores the nature of Shakespeare's genius and the scope of his art. Particular attention is paid to the relationship between literature and stagecraft (\"page to stage\"). By tackling the complexities of prosody, of textual transmission, and of Shakespeare's highly figurative and metaphorical language, the course will help you further develop your ability to think critically about literature. Note: non-majors should register for English 144.",
 	"synonym": "23016",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		}
+		"ENGL1",
+		"MARSCORE",
+		"EUSTCNTRY",
+		"THEAPERT",
+		"MARSSUPP",
+		"ENGLT1",
+		"ENGLHE1"
 	],
-	"title": "Shakespeare I"
+	"title": "Shakespeare I",
+	"type": "Course"
 }

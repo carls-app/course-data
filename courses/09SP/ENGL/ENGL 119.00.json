@@ -8,7 +8,7 @@
 	"instructors": [
 		"Adriana Estill"
 	],
-	"number": "119.00",
+	"number": "119",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,22 +44,11 @@
 	"summary": null,
 	"synonym": "21031",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"AMSTTOPICAL1",
+		"CCSTETHNIC",
+		"LITFORLANG",
+		"ENGLF"
 	],
-	"title": "Intro to U.S. Latino/a Lit"
+	"title": "Intro to U.S. Latino/a Lit",
+	"type": "Course"
 }

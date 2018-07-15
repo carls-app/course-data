@@ -8,7 +8,7 @@
 	"instructors": [
 		"Peter J Balaam"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,18 +44,10 @@
 	"summary": null,
 	"synonym": "21009",
 	"tags": [
-		{
-			"code": "ENGLHE2",
-			"name": "ENGL Hist Era 2"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"ENGLHE2",
+		"AMSTTOPICAL1",
+		"ENGL3"
 	],
-	"title": "American Best Sellers"
+	"title": "American Best Sellers",
+	"type": "Course"
 }

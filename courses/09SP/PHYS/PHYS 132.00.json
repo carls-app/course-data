@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "132.00",
+	"number": "132",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20948",
 	"tags": [],
-	"title": "Gravity and the Earth"
+	"title": "Gravity and the Earth",
+	"type": "Course"
 }

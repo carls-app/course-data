@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2982",
 	"tags": [],
-	"title": "Intro Apprec Western Art Music"
+	"title": "Intro Apprec Western Art Music",
+	"type": "Course"
 }

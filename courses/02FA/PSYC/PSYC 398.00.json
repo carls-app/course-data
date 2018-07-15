@@ -6,7 +6,7 @@
 	"instructors": [
 		"Henriette Warren"
 	],
-	"number": "398.00",
+	"number": "398",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "3504",
 	"tags": [],
-	"title": "Senior Colloquium"
+	"title": "Senior Colloquium",
+	"type": "Course"
 }

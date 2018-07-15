@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "211.01",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 121 or placement via Calculus Placement Exam #3",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 23,
 		"total": 28,
@@ -46,5 +44,6 @@
 	"summary": "Vectors, curves, partial derivatives, gradient, multiple and iterated integrals, line integrals, Green's theorem.",
 	"synonym": "31770",
 	"tags": [],
-	"title": "Introduction to Multivariable Calculus"
+	"title": "Introduction to Multivariable Calculus",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Timothy Raylor",
 		"Alison M Kettering"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,16 +32,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -51,34 +46,14 @@
 	"summary": null,
 	"synonym": "25850",
 	"tags": [
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ARTHPERT",
-			"name": "Art History Pertinent"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGLHE1",
+		"ENGLT1",
+		"ARTHPERT",
+		"EUSTCNTRY",
+		"MARSCORE",
+		"ENGL1",
+		"MARSSUPP"
 	],
-	"title": "The Arts of Power: Poetry, Painting, and Propaganda at the English Court (1509-1685)"
+	"title": "The Arts of Power: Poetry, Painting, and Propaganda at the English Court (1509-1685)",
+	"type": "Course"
 }

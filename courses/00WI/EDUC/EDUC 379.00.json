@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "379.00",
+	"number": "379",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2177",
 	"tags": [],
-	"title": "Mthds-Secondary Literacy Instr"
+	"title": "Mthds-Secondary Literacy Instr",
+	"type": "Course"
 }

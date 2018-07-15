@@ -8,7 +8,7 @@
 	"instructors": [
 		"Seth N Greenberg"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 14,
@@ -33,10 +34,8 @@
 	"summary": null,
 	"synonym": "21291",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Lab in Cognitive Processes"
+	"title": "Lab in Cognitive Processes",
+	"type": "Course"
 }

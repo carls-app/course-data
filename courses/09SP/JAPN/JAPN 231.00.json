@@ -8,7 +8,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "231.00",
+	"number": "231",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -43,22 +41,11 @@
 	"summary": null,
 	"synonym": "21882",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Japanese Cinema"
+	"title": "Japanese Cinema",
+	"type": "Course"
 }

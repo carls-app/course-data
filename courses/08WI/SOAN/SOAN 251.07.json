@@ -8,11 +8,12 @@
 	"instructors": [
 		"Jay Levi"
 	],
-	"number": "251.07",
+	"number": "251",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "17660",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMELECTIVE",
+		"LTAMPERT"
 	],
-	"title": "Comm Devel, Cult Empowerment"
+	"title": "Comm Devel, Cult Empowerment",
+	"type": "Course"
 }

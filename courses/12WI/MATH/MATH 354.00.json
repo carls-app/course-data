@@ -6,7 +6,7 @@
 	"instructors": [
 		"Helen M Wong"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 321 or instructor permission",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -46,5 +44,6 @@
 	"summary": "An introduction to the study of topological spaces. We develop concepts from point-set and algebraic topology in order to distinguish between different topological spaces up to homeomorphism. Topics include methods of construction of topological spaces; continuity, connectedness, compactness, Hausdorff condition; fundamental group, homotopy of maps.",
 	"synonym": "29003",
 	"tags": [],
-	"title": "Topology"
+	"title": "Topology",
+	"type": "Course"
 }

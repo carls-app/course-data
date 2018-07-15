@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Greek 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -50,5 +45,6 @@
 	"summary": "Xenophon's",
 	"synonym": "33155",
 	"tags": [],
-	"title": "Xenophon's"
+	"title": "Xenophon's",
+	"type": "Course"
 }

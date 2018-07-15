@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "232.00",
+	"number": "232",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -39,5 +40,6 @@
 		"AMSTSURVEY1",
 		"AMSTTOPICAL3"
 	],
-	"title": "American Economic History"
+	"title": "American Economic History",
+	"type": "Course"
 }

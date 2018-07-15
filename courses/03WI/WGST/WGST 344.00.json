@@ -9,7 +9,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "4299",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLFORLIT",
+		"CCSTETHNIC",
+		"WGSTADDL"
 	],
-	"title": "Women Writers in LatAm:Challe"
+	"title": "Women Writers in LatAm:Challe",
+	"type": "Course"
 }

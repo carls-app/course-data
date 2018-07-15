@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard A Keiser"
 	],
-	"number": "306.00",
+	"number": "306",
 	"offerings": {
 		"locations": [
 			"Library 305"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -45,30 +40,13 @@
 	"summary": "How do the politics of race and ethnicity influence the modern development of American democracy? Problems of inequality and social marginalization. Racial attitudes and progress toward equality from the civil rights movement of the 1960s to the present. The relationship between protest and electoral politics in African American, Latino, and Asian American communities. Mechanisms for representation of racial-ethnic minorities at the national, state, and local levels of government. Controversies over racial-ethnic policy, such as affirmative action and bilingual education.",
 	"synonym": "31012",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"EDUCCLUSTER2",
+		"AFAMDISTROSS",
+		"AMSTTOPICAL3",
+		"POSCADVSEM",
+		"WGSTADDL",
+		"AFAMSOCINQ"
 	],
-	"title": "How Race Matters in American Politics*"
+	"title": "How Race Matters in American Politics*",
+	"type": "Course"
 }

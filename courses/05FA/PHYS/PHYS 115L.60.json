@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arjendu K Pattanayak"
 	],
-	"number": "115L.60",
+	"number": "115L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "60",
 	"size": {
 		"registered": 13,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "14065",
 	"tags": [],
-	"title": "Relativity and Particles Lab"
+	"title": "Relativity and Particles Lab",
+	"type": "Lab"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dwight R Luhman"
 	],
-	"number": "342L.52",
+	"number": "342L",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 8,
 		"total": 9,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "28825",
 	"tags": [],
-	"title": "Contemp Experimental Phys Lab"
+	"title": "Contemp Experimental Phys Lab",
+	"type": "Lab"
 }

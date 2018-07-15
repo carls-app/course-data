@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "5481",
 	"tags": [],
-	"title": "Linguistics & Literary Art"
+	"title": "Linguistics & Literary Art",
+	"type": "Course"
 }

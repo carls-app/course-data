@@ -10,7 +10,7 @@
 		"Roy Elveton",
 		"Mija M Van Der Wege"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,6 +31,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -40,10 +41,8 @@
 	"summary": null,
 	"synonym": "6711",
 	"tags": [
-		{
-			"code": "CGSTCORE",
-			"name": "CGST Core Course"
-		}
+		"CGSTCORE"
 	],
-	"title": "Intro to Cognitive Science"
+	"title": "Intro to Cognitive Science",
+	"type": "Course"
 }

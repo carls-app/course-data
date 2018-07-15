@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ping Fu"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -43,10 +41,8 @@
 	"summary": null,
 	"synonym": "7707",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTEAST"
 	],
-	"title": "Chinese Cinema"
+	"title": "Chinese Cinema",
+	"type": "Course"
 }

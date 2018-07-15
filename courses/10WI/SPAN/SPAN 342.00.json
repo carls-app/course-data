@@ -6,7 +6,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,26 +42,12 @@
 	"summary": "An examination of Latin American theater as both text and performance, this course studies selected works in the context of the social, political, and cultural issues of their time, from the aftermath of the Mexican Revolution to cross-dressing on the Argentine stage and new ways to perform gender. Dramatists may include Rodolfo Usigli, Vicente Leñero, Griselda Gambaro, Manuel Puig, Jorge Díaz, Ariel Dorfman, Sabina Berman, Susana Torres Molina, Flavio Gómez Mello, Lola Arias.",
 	"synonym": "24584",
 	"tags": [
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAM300LIT",
-			"name": "LTAM 300 Level Lit Courses"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		}
+		"LTAMELECTIVE",
+		"THEAPERT",
+		"LTAMLIT",
+		"LTAM300LIT",
+		"LTAMPERT"
 	],
-	"title": "Latin American Theater: Nation, Power, Gender"
+	"title": "Latin American Theater: Nation, Power, Gender",
+	"type": "Course"
 }

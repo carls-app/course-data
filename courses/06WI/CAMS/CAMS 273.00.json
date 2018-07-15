@@ -9,7 +9,7 @@
 		"John Schott",
 		"Paul Hager"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 18,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "13482",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD"
 	],
-	"title": "Digital Wkshp: We Media"
+	"title": "Digital Wkshp: We Media",
+	"type": "Course"
 }

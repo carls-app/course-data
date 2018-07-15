@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2646",
 	"tags": [],
-	"title": "Issues in Study of Religion"
+	"title": "Issues in Study of Religion",
+	"type": "Course"
 }

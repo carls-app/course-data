@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lina P Wilder"
 	],
-	"number": "312.00",
+	"number": "312",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "13916",
 	"tags": [
-		{
-			"code": "ENGL1",
-			"name": "ENGL Group I"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"ENGL1",
+		"MARSSUPP"
 	],
-	"title": "Pain&Tortr-Eliz&Jacobn Drama"
+	"title": "Pain&Tortr-Eliz&Jacobn Drama",
+	"type": "Course"
 }

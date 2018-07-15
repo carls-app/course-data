@@ -8,11 +8,12 @@
 	"instructors": [
 		"Tsegaye H Nega"
 	],
-	"number": "284.07",
+	"number": "284",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": "The course is intended to expose students to the cultural heritages of Tanzania and Ethiopia. Among the cultural activities involved in the course include visits to historical cultural sites and museums, guest lectures, and lessons in local cuisines.",
 	"synonym": "26716",
 	"tags": [
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "ENTSCDSCP",
-			"name": "ENTS Consv Dev Soc,Cul,Pol"
-		}
+		"AFAMSOCINQ",
+		"ENTSCDSCP"
 	],
-	"title": "Ethiopia and Tanzania Program: Cultural Studies"
+	"title": "Ethiopia and Tanzania Program: Cultural Studies",
+	"type": "Course"
 }

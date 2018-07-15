@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": "This course will survey the art and architecture of African peoples from prehistory to the present. Focusing on significant case studies in various mediums (including sculpture, painting, architecture, masquerades and body arts), this course will consider the social, cultural, aesthetic and political contexts in which artistic practices developed both on the African continent and beyond. Major themes will include the use of art for status production, the use of aesthetic objects in social rituals and how the history of African and African diaspora art has been written and institutionally framed.",
 	"synonym": "24797",
 	"tags": [
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"AFAMSURVEY"
 	],
-	"title": "African Art and Culture"
+	"title": "African Art and Culture",
+	"type": "Course"
 }

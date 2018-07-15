@@ -6,7 +6,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 14,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2463",
 	"tags": [],
-	"title": "Intermediate Acting"
+	"title": "Intermediate Acting",
+	"type": "Course"
 }

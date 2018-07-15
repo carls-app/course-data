@@ -9,7 +9,7 @@
 	"instructors": [
 		"Bruce R Thomas"
 	],
-	"number": "247L.52",
+	"number": "247L",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 7,
 		"total": 12,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "3642",
 	"tags": [],
-	"title": "Digital Electronics Lab"
+	"title": "Digital Electronics Lab",
+	"type": "Lab"
 }

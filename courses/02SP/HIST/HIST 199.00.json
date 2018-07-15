@@ -6,11 +6,12 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "199.00",
+	"number": "199",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 8,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "3294",
 	"tags": [],
-	"title": "Foreign Language Option"
+	"title": "Foreign Language Option",
+	"type": "Course"
 }

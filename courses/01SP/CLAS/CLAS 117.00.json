@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nancy C Wilkie"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 40,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "834",
 	"tags": [],
-	"title": "Archaeology of Greece"
+	"title": "Archaeology of Greece",
+	"type": "Course"
 }

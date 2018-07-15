@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 30,
@@ -50,34 +45,14 @@
 	"summary": "This survey begins with the pre-enslavement history of African Americans in West Africa. It proceeds to the transition of the slave from an African to an African American either directly or indirectly through the institution of slavery until 1865. Special attention will be given to black female activists, organizations, and philosophies proposing solutions to the African-American and Euro-American dilemma in the antebellum period.",
 	"synonym": "32684",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTATLANTWRLD",
-			"name": "History Atlantic World"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		}
+		"HISTUS",
+		"HISTATLANTWRLD",
+		"AFAMSURVEY",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2",
+		"AFAMDISTROHU",
+		"HISTAFRICA"
 	],
-	"title": "African American History I"
+	"title": "African American History I",
+	"type": "Course"
 }

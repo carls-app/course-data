@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "254.00",
+	"number": "254",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7536",
 	"tags": [],
-	"title": "Classical Pol Psyc: Aristotle"
+	"title": "Classical Pol Psyc: Aristotle",
+	"type": "Course"
 }

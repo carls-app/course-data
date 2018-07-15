@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -45,26 +40,12 @@
 	"summary": "Ethnic conflict is a persistent and troubling challenge for those interested in preserving international peace and stability. By one account, ethnic violence has claimed more than ten million lives since 1945, and in the 1990s, ethnic conflicts comprised nearly half of all ongoing conflicts around the world. In this course, we will attempt to understand the conditions that contribute to ethnic tensions, identify the triggers that lead to escalation, and evaluate alternative ideas for managing and solving such disputes. The course will draw on a number of cases, including Rwanda, Bosnia, and Northern Ireland.",
 	"synonym": "27029",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"CCSTREGIONAL",
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"POSI-LPS"
 	],
-	"title": "Ethnic Conflict"
+	"title": "Ethnic Conflict",
+	"type": "Course"
 }

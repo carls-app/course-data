@@ -9,7 +9,7 @@
 		"Clara S Hardy",
 		"Chico Zimmerman"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -37,6 +37,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 60,
@@ -46,5 +47,6 @@
 	"summary": null,
 	"synonym": "833",
 	"tags": [],
-	"title": "Intro to Classical Studies"
+	"title": "Intro to Classical Studies",
+	"type": "Course"
 }

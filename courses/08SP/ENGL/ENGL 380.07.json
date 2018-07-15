@@ -8,11 +8,12 @@
 	"instructors": [
 		"Gregory B Smith"
 	],
-	"number": "380.07",
+	"number": "380",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "17668",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "London Theater"
+	"title": "London Theater",
+	"type": "Course"
 }

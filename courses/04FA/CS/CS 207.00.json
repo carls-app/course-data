@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Csizmar Dalal"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9808",
 	"tags": [],
-	"title": "Computer Organzn&Architecture"
+	"title": "Computer Organzn&Architecture",
+	"type": "Course"
 }

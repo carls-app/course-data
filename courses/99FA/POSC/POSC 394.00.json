@@ -8,7 +8,7 @@
 		"Richard A Keiser",
 		"Alfred P Montero"
 	],
-	"number": "394.00",
+	"number": "394",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2893",
 	"tags": [],
-	"title": "Logic of Inquiry"
+	"title": "Logic of Inquiry",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "18933",
 	"tags": [],
-	"title": "Modern Dance III: Tech & Thry"
+	"title": "Modern Dance III: Tech & Thry",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Mudd 75"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "4736",
 	"tags": [
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		}
+		"ENTSINTL",
+		"ENTSSCI"
 	],
-	"title": "Oceans & Atmospheres"
+	"title": "Oceans & Atmospheres",
+	"type": "Course"
 }

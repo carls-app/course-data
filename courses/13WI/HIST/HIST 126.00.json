@@ -6,7 +6,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 30,
@@ -54,30 +46,13 @@
 	"summary": "The transition from slavery to freedom; the post-Reconstruction erosion of civil rights and the ascendancy of Booker T. Washington; protest organizations and mass migration before and during World War I; the postwar resurgence of black nationalism; African Americans in the Great Depression and World War II; roots of the modern Civil Rights movement, and black female activism.",
 	"synonym": "32698",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		},
-		{
-			"code": "AMSTSURVEY2",
-			"name": "AMST 2 Term Survey"
-		},
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		}
+		"SPECINTLEGAL",
+		"HISTUS",
+		"HISTAFRDIASPORA",
+		"AFAMSURVEY",
+		"AMSTSURVEY2",
+		"AMSTTOPICAL2"
 	],
-	"title": "African American History II"
+	"title": "African American History II",
+	"type": "Course"
 }

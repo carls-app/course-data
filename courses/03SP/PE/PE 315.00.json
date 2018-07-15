@@ -6,7 +6,7 @@
 	"instructors": [
 		"Monica Erickson"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "5744",
 	"tags": [],
-	"title": "Ath Trng II:Prvtn&Care Ath Inj"
+	"title": "Ath Trng II:Prvtn&Care Ath Inj",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 50,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1110",
 	"tags": [],
-	"title": "The Civil War Era"
+	"title": "The Civil War Era",
+	"type": "Course"
 }

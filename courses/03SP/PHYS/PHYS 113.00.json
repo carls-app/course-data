@@ -6,11 +6,12 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "8368",
 	"tags": [],
-	"title": "Newtonian Mech-Credit by Exam"
+	"title": "Newtonian Mech-Credit by Exam",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 26,
 		"total": 30,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "23706",
 	"tags": [
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"AFAMPERT"
 	],
-	"title": "Personal Identity"
+	"title": "Personal Identity",
+	"type": "Course"
 }

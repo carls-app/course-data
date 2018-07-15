@@ -6,7 +6,7 @@
 	"instructors": [
 		"Disa Gambera"
 	],
-	"number": "110.02",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"LITFORLANG"
 	],
-	"title": "English Literature I"
+	"title": "English Literature I",
+	"type": "Course"
 }

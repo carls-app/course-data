@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kris Wedding Crowell"
 	],
-	"number": "126L.57",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "57",
 	"size": {
 		"registered": 9,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "12168",
 	"tags": [],
-	"title": "Phys Instrumentation Lab"
+	"title": "Phys Instrumentation Lab",
+	"type": "Lab"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "5837",
 	"tags": [],
-	"title": "Animals: Minds and Morals"
+	"title": "Animals: Minds and Morals",
+	"type": "Course"
 }

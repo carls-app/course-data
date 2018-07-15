@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "147.00",
+	"number": "147",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 16,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "10030",
 	"tags": [],
-	"title": "Moving Anatomy"
+	"title": "Moving Anatomy",
+	"type": "Course"
 }

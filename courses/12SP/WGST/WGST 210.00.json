@@ -6,7 +6,7 @@
 	"instructors": [
 		"Shana L Sippy"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "From pulpits to political campaigns, notions of sexuality are deployed in religious discourse to develop definitions of morality, ethics, family, marriage, gender, citizenship, civil liberties, righteousness and sinfulness. Religious concepts have also been used as creative tools to repress, liberate, legislate, and re-vision various conceptions of sexuality. This course will examine the ways in which religious ideologies, theologies, motivations, and practices function in both public and private contexts in debates over a range of topics, including homosexuality, abortion, and public comportment. We will consider questions about how ideas of sexuality are established as normative through scriptural, ritual, and rhetorical devices.",
 	"synonym": "30860",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "RELGPERT",
-			"name": "RELG Pertinent Course"
-		}
+		"SPECINTLEGAL",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"RELGPERT"
 	],
-	"title": "Sexuality and Religious Controversies in the United States and Beyond"
+	"title": "Sexuality and Religious Controversies in the United States and Beyond",
+	"type": "Course"
 }

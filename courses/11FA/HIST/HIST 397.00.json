@@ -6,16 +6,14 @@
 	"instructors": [
 		"Annette Igra"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 45,
@@ -25,5 +23,6 @@
 	"summary": null,
 	"synonym": "30273",
 	"tags": [],
-	"title": "Senior Research Proposal"
+	"title": "Senior Research Proposal",
+	"type": "Course"
 }

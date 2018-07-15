@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -50,34 +45,14 @@
 	"summary": "This is a course on texts drawn from English-speaking Africa since the 1950's. Authors to be read include Chinua Achebe, Ama Ata Aidoo, Ayi Kwei Armah, Buchi Emecheta, Bessie Head, Benjamin Kwakye, and Wole Soyinka.",
 	"synonym": "30045",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "AFAMDISTROAL",
-			"name": "AFAM Distro Arts/Lit"
-		},
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "ENGLT3",
-			"name": "ENGL Tradition 3"
-		},
-		{
-			"code": "AFAMLITARTANLYS",
-			"name": "AFAM Literary & Artistic Anly"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"AFAMDISTROAL",
+		"ENGLHE3",
+		"ENGLT3",
+		"AFAMLITARTANLYS",
+		"AFAMSURVEY"
 	],
-	"title": "African Literature in English"
+	"title": "African Literature in English",
+	"type": "Course"
 }

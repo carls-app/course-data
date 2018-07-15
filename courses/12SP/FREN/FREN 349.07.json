@@ -8,20 +8,15 @@
 	"instructors": [
 		"Cathy Yandell"
 	],
-	"number": "349.07",
+	"number": "349",
 	"offerings": null,
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
-		{
-			"code": "IS",
-			"name": "International Studies"
-		},
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"IS",
+		"LA"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -31,38 +26,15 @@
 	"summary": null,
 	"synonym": "29989",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTCNTRY",
+		"FRSTCULT",
+		"FRSTELECAL",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"FRSTHIST",
+		"EUSTTRANNATL"
 	],
-	"title": "Paris Program: Identity Crossings: France-Morocco"
+	"title": "Paris Program: Identity Crossings: France-Morocco",
+	"type": "Course"
 }

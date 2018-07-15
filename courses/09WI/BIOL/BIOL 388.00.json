@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nidanie Henderson"
 	],
-	"number": "388.00",
+	"number": "388",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "21102",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Molecular Mech-Drug Action"
+	"title": "Molecular Mech-Drug Action",
+	"type": "Course"
 }

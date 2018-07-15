@@ -7,7 +7,7 @@
 		"Laura Goering",
 		"Anna M Dotlibova"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Language Lab 110"
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "2666",
 	"tags": [],
-	"title": "Elementary Russian"
+	"title": "Elementary Russian",
+	"type": "Course"
 }

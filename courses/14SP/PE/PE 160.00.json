@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "160.00",
+	"number": "160",
 	"offerings": {
 		"locations": [
 			"Recreation Center WALL"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: PE 158",
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -41,5 +39,6 @@
 	"summary": "This course will teach advanced techniques in rock climbing including sport leading, rappelling, multi-pitch climbing and anchor building. The course is designed for experienced indoor climbers who are interested in making the transition to outdoor climbing as well as outdoor climbers who are looking to improve their knowledge of climbing skills and safety. As an addition, traditional climbing can be added to the curriculum if there is interest.",
 	"synonym": "34749",
 	"tags": [],
-	"title": "Rock Climbing, Advanced"
+	"title": "Rock Climbing, Advanced",
+	"type": "Course"
 }

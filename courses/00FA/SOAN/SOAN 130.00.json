@@ -8,7 +8,7 @@
 	"instructors": [
 		"Beverly Y Nagel"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 36,
 		"total": 30,
@@ -47,5 +48,6 @@
 		"LTAMELECTIVE",
 		"ENTSSP"
 	],
-	"title": "Population&Food in Global Syst"
+	"title": "Population&Food in Global Syst",
+	"type": "Course"
 }

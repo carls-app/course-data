@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna M Dotlibova"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2674",
 	"tags": [],
-	"title": "Russian in Cultural Contexts"
+	"title": "Russian in Cultural Contexts",
+	"type": "Course"
 }

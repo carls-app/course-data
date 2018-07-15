@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annie Bosacker"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "19544",
 	"tags": [],
-	"title": "Animal Behavior"
+	"title": "Animal Behavior",
+	"type": "Course"
 }

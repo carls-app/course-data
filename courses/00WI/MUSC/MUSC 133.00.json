@@ -6,7 +6,7 @@
 	"instructors": [
 		"Phillip C Rhodes"
 	],
-	"number": "133.00",
+	"number": "133",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "3072",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Bluegrass & Ctry-Wstn Music"
+	"title": "Bluegrass & Ctry-Wstn Music",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "5621",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL",
+		"WGSTADDL",
+		"HISTAFRDIASPORA"
 	],
-	"title": "Women in African History"
+	"title": "Women in African History",
+	"type": "Course"
 }

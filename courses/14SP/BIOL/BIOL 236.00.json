@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jalean J Petricka"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 24,
@@ -46,18 +44,10 @@
 	"summary": "How do plants work? This course is framed in the context of advances in evolution and genomics, which offer insight into physiological, developmental, morphological, and anatomical adaptations to diverse environments. Emphasis is placed on experimental approaches to the study of plants. The biology behind current issues related to food and agriculture, including genetically modified organisms, will be investigated.",
 	"synonym": "35262",
 	"tags": [
-		{
-			"code": "ENTS2ENVSCI",
-			"name": "ENTS2 Environ Science"
-		},
-		{
-			"code": "ENTSFAES",
-			"name": "ENTS Food AG Env Sci"
-		},
-		{
-			"code": "SPECINTSUSTAIN",
-			"name": "Sustainability"
-		}
+		"ENTS2ENVSCI",
+		"ENTSFAES",
+		"SPECINTSUSTAIN"
 	],
-	"title": "Plant Biology"
+	"title": "Plant Biology",
+	"type": "Course"
 }

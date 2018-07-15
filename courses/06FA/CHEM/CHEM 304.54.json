@@ -7,7 +7,7 @@
 		"Trish Ferrett",
 		"Will Hollingsworth"
 	],
-	"number": "304.54",
+	"number": "304",
 	"offerings": {
 		"locations": [
 			"Olin 101",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 16,
 		"total": 12,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "14966",
 	"tags": [],
-	"title": "Quantum Spectroscopy Lab"
+	"title": "Quantum Spectroscopy Lab",
+	"type": "Course"
 }

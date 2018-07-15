@@ -9,7 +9,7 @@
 	"instructors": [
 		"Nancy J Cho"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"ENGL4",
 		"CCSTETHNIC"
 	],
-	"title": "Cntmp Amer Playwrghts of Color"
+	"title": "Cntmp Amer Playwrghts of Color",
+	"type": "Course"
 }

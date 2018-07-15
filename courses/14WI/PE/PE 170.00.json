@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jocelyn B Keller"
 	],
-	"number": "170.00",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Recreation Center 120"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 10,
@@ -41,5 +39,6 @@
 	"summary": "Students are introduced to this fast-paced racquet sport. Played on a court similar to racquetball, squash involves eye-hand coordination and quick reflexes. In general, the smaller squash ball and longer squash racquet create a game faster and more reactive than its relative, racquetball. This class will cover basic stroke production, rules and strategies of the game. Geared toward beginners, all equipment is furnished",
 	"synonym": "34780",
 	"tags": [],
-	"title": "Squash"
+	"title": "Squash",
+	"type": "Course"
 }

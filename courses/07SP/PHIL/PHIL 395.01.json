@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anna Moltchanova"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "16454",
 	"tags": [],
-	"title": "Freedom and the Self"
+	"title": "Freedom and the Self",
+	"type": "Course"
 }

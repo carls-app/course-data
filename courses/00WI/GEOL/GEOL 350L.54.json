@@ -6,7 +6,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "350L.54",
+	"number": "350L",
 	"offerings": {
 		"locations": [
 			"Mudd OPTC"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "1963",
 	"tags": [],
-	"title": "Advanced Sedimentology Lab"
+	"title": "Advanced Sedimentology Lab",
+	"type": "Lab"
 }

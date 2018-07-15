@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence E Burnett"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Ability to read music and active participation in a faculty conducted ensemble, or permission of instructor.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 8,
@@ -41,5 +39,6 @@
 	"summary": "The course covers the fundamentals of conducting such as beat patterns, baton technique, score reading, cueing, fermatas, and releases. The class will function as an ensemble, with each student conducting short assignments as frequently as possible.",
 	"synonym": "27092",
 	"tags": [],
-	"title": "Introduction to Conducting"
+	"title": "Introduction to Conducting",
+	"type": "Course"
 }

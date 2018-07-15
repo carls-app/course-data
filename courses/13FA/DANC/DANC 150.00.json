@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -43,10 +41,8 @@
 	"summary": "This is a course in techniques of spontaneous dancing shared by two or more people through a common point of physical contact. Basic skills such as support, counterbalance, rolling, falling and flying will be taught and developed in an environment of mutual creativity.",
 	"synonym": "35138",
 	"tags": [
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"THEAPERT"
 	],
-	"title": "Contact Improvisation"
+	"title": "Contact Improvisation",
+	"type": "Course"
 }

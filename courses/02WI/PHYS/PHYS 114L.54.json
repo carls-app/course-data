@@ -8,7 +8,7 @@
 	"instructors": [
 		"Maurice Clark"
 	],
-	"number": "114L.54",
+	"number": "114L",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 15,
 		"total": 16,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1442",
 	"tags": [],
-	"title": "Gravity and the Cosmos Lab"
+	"title": "Gravity and the Cosmos Lab",
+	"type": "Lab"
 }

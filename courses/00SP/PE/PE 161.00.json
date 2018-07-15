@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary Brandl"
 	],
-	"number": "161.00",
+	"number": "161",
 	"offerings": {
 		"locations": [
 			"West Gym WRES"
@@ -26,6 +26,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 24,
@@ -35,5 +36,6 @@
 	"summary": null,
 	"synonym": "3448",
 	"tags": [],
-	"title": "Self Defense for Women"
+	"title": "Self Defense for Women",
+	"type": "Course"
 }

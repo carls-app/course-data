@@ -8,7 +8,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 80,
@@ -46,5 +47,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "History of the American West"
+	"title": "History of the American West",
+	"type": "Course"
 }

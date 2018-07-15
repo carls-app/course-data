@@ -6,7 +6,7 @@
 	"instructors": [
 		"Amy Erickson"
 	],
-	"number": "156.01",
+	"number": "156",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 6,
 		"total": 6,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "4314",
 	"tags": [],
-	"title": "Racquetball, Advanced"
+	"title": "Racquetball, Advanced",
+	"type": "Course"
 }

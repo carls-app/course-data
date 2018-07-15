@@ -7,7 +7,7 @@
 		"Cindy Blaha",
 		"Liz McDowell"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -33,6 +33,7 @@
 	"prerequisites": "Prerequisite: Physics 229 and 235, and Mathematics 232",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 27,
@@ -42,5 +43,6 @@
 	"summary": "The analysis of wave phenomena, including normal mode expansions, the wave equation and boundary value problems, and interference, diffraction, and polarization. Applications are made to mechanical, sound, water and electromagnetic waves with particular emphasis on electromagnetism and optics.",
 	"synonym": "25999",
 	"tags": [],
-	"title": "Waves"
+	"title": "Waves",
+	"type": "Course"
 }

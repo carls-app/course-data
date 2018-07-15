@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kirk Jeffrey"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "8019",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"AMSTTOPICAL2",
+		"HISTUS",
+		"EUSTTRANNATL"
 	],
-	"title": "US in Depression&War 1929-45"
+	"title": "US in Depression&War 1929-45",
+	"type": "Course"
 }

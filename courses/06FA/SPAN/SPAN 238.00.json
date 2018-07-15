@@ -8,7 +8,7 @@
 	"instructors": [
 		"José Cerna-Bazán"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 242"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "16511",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		}
+		"LTAMLIT",
+		"LTAMELECTIVE"
 	],
-	"title": "Images of the Indian"
+	"title": "Images of the Indian",
+	"type": "Course"
 }

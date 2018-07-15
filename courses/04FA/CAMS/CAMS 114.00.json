@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kjel W Johnson"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "10862",
 	"tags": [
-		{
-			"code": "CAMS200HIST",
-			"name": "CAMS 200-Level History"
-		}
+		"CAMS200HIST"
 	],
-	"title": "Film History and Criticism"
+	"title": "Film History and Criticism",
+	"type": "Course"
 }

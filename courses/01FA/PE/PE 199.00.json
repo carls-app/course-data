@@ -6,7 +6,7 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "199.00",
+	"number": "199",
 	"offerings": {
 		"locations": [
 			"Cowling GYM"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2056",
 	"tags": [],
-	"title": "Power Yoga"
+	"title": "Power Yoga",
+	"type": "Course"
 }

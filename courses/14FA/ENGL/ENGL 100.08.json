@@ -8,7 +8,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "100.08",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "08",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -56,10 +48,8 @@
 	"summary": "With an emphasis on critical reading and writing in an academic context, this course will examine coming of age narratives from different global locations that have as their backdrop times of conflict and war. We will study the ways in which social conflict and individual identity are related.",
 	"synonym": "37895",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Childhood's End: Coming of Age in Times of Conflict"
+	"title": "Childhood's End: Coming of Age in Times of Conflict",
+	"type": "Course"
 }

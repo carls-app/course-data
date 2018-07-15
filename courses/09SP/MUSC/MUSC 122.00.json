@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lawrence Archbold"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "20208",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Symphonies From Mozart-Mahler"
+	"title": "Symphonies From Mozart-Mahler",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Colby N Ristow"
 	],
-	"number": "277.00",
+	"number": "277",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 30,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "16785",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		}
+		"HISTUS",
+		"HISTLTAM"
 	],
-	"title": "US & Central Amer 1945-1980's"
+	"title": "US & Central Amer 1945-1980's",
+	"type": "Course"
 }

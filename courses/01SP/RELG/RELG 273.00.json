@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joy E Laine"
 	],
-	"number": "273.00",
+	"number": "273",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2111",
 	"tags": [],
-	"title": "Indian Philosophy"
+	"title": "Indian Philosophy",
+	"type": "Course"
 }

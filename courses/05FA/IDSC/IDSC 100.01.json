@@ -8,7 +8,7 @@
 	"instructors": [
 		"Trish Ferrett"
 	],
-	"number": "100.01",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13003",
 	"tags": [],
-	"title": "Views on Abrupt Climate Change"
+	"title": "Views on Abrupt Climate Change",
+	"type": "Course"
 }

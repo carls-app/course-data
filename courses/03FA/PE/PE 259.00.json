@@ -8,16 +8,14 @@
 	"instructors": [
 		"Terry J Rivers"
 	],
-	"number": "259.00",
+	"number": "259",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 45,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "8896",
 	"tags": [],
-	"title": "Women's Rugby Club"
+	"title": "Women's Rugby Club",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Anne C Ulmer"
 	],
-	"number": "235.00",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -36,6 +36,7 @@
 		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -45,5 +46,6 @@
 	"summary": null,
 	"synonym": "2734",
 	"tags": [],
-	"title": "Drm&Reality:Vienna 1900/2000"
+	"title": "Drm&Reality:Vienna 1900/2000",
+	"type": "Course"
 }

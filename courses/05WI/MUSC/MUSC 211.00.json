@@ -6,7 +6,7 @@
 	"instructors": [
 		"Theo Cateforis"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 107"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "10306",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Baroque and Classical Music"
+	"title": "Baroque and Classical Music",
+	"type": "Course"
 }

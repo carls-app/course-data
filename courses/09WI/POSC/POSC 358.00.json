@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dev Gupta"
 	],
-	"number": "358.00",
+	"number": "358",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 15,
@@ -38,30 +39,13 @@
 	"summary": null,
 	"synonym": "20660",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSIADVSEM",
-			"name": "Polisci/Ir Adv Seminar"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"CCSTGLOBAL",
+		"EUSTTRANNATL",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSIADVSEM",
+		"POSI-DSS"
 	],
-	"title": "Comparative Social Movements"
+	"title": "Comparative Social Movements",
+	"type": "Course"
 }

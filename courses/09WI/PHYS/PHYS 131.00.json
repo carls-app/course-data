@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "131.00",
+	"number": "131",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20908",
 	"tags": [],
-	"title": "Newtonian Mechanics"
+	"title": "Newtonian Mechanics",
+	"type": "Course"
 }

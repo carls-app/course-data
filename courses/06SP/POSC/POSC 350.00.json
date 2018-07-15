@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "12511",
 	"tags": [],
-	"title": "Foundtn Black Poltcl Thought"
+	"title": "Foundtn Black Poltcl Thought",
+	"type": "Course"
 }

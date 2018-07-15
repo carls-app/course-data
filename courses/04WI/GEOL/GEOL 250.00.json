@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6934",
 	"tags": [],
-	"title": "Mineralogy"
+	"title": "Mineralogy",
+	"type": "Course"
 }

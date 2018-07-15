@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy Metcalf-Filzen"
 	],
-	"number": "195.00",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Stadium PE"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "3307",
 	"tags": [],
-	"title": "Weight Training, Advanced"
+	"title": "Weight Training, Advanced",
+	"type": "Course"
 }

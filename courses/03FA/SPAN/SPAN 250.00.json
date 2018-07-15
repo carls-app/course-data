@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "7940",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"PENINLIT"
 	],
-	"title": "Spanish Cinema"
+	"title": "Spanish Cinema",
+	"type": "Course"
 }

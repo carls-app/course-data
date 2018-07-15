@@ -8,7 +8,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "101.00",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL14"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1057",
 	"tags": [],
-	"title": "Music Fundamentals"
+	"title": "Music Fundamentals",
+	"type": "Course"
 }

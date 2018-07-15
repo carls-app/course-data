@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 40,
@@ -43,5 +44,6 @@
 	"tags": [
 		"HISTEASIA"
 	],
-	"title": "Modern China"
+	"title": "Modern China",
+	"type": "Course"
 }

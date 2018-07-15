@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura Goering"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -47,5 +48,6 @@
 		"CCSTGLOBAL",
 		"LITFORLANG"
 	],
-	"title": "Degeneration & Fin de Siecle"
+	"title": "Degeneration & Fin de Siecle",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thomas L Herron"
 	],
-	"number": "130.00",
+	"number": "130",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2030",
 	"tags": [],
-	"title": "Introduction to Shakespeare"
+	"title": "Introduction to Shakespeare",
+	"type": "Course"
 }

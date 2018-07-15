@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kofi Owusu"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "Each text selected for this course will be paired with its filmic adaptation for a series of discussions focused on narrative structures, points of view, frames of reference, and textual (in)fidelity. We will read the following texts and watch their film versions: Wright's",
 	"synonym": "30026",
 	"tags": [
-		{
-			"code": "ENGLHE3",
-			"name": "ENGL Hist Era 3"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "ENGLT2",
-			"name": "ENGL Tradition 2"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"ENGLHE3",
+		"CAMSXDEPT",
+		"ENGLT2",
+		"CAMSELECTIVE"
 	],
-	"title": "Text and Film"
+	"title": "Text and Film",
+	"type": "Course"
 }

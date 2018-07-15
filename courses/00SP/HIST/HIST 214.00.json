@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rachel F Seidman"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Science Annex 110"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -44,5 +45,6 @@
 		"HISTUS",
 		"AMSTTOPICAL2"
 	],
-	"title": "Civil War Era"
+	"title": "Civil War Era",
+	"type": "Course"
 }

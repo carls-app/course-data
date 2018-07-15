@@ -6,11 +6,12 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "244.07",
+	"number": "244",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -20,14 +21,9 @@
 	"summary": null,
 	"synonym": "17652",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"ENGLFORLIT",
+		"EUSTOFFCAMP"
 	],
-	"title": "Theater in Berlin"
+	"title": "Theater in Berlin",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nathan D Grawe"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 251"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "18147",
 	"tags": [],
-	"title": "Reasoning With Numbers"
+	"title": "Reasoning With Numbers",
+	"type": "Course"
 }

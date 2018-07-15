@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "149",
 	"tags": [],
-	"title": "Philosophcl Issue/Hist-Math"
+	"title": "Philosophcl Issue/Hist-Math",
+	"type": "Course"
 }

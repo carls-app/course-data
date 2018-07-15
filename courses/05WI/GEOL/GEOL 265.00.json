@@ -8,7 +8,7 @@
 	"instructors": [
 		"Qing Zhang"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Mudd 68"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "9554",
 	"tags": [],
-	"title": "Structural Geology"
+	"title": "Structural Geology",
+	"type": "Course"
 }

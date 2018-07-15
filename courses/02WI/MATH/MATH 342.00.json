@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark Krusemeyer"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "615",
 	"tags": [],
-	"title": "Abstract Algebra I"
+	"title": "Abstract Algebra I",
+	"type": "Course"
 }

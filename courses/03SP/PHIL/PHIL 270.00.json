@@ -6,7 +6,7 @@
 	"instructors": [
 		"Perry C Mason"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3751",
 	"tags": [],
-	"title": "Ancient Philosophy"
+	"title": "Ancient Philosophy",
+	"type": "Course"
 }

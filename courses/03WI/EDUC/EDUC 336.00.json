@@ -8,7 +8,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "336.00",
+	"number": "336",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "4943",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"AMSTTOPICAL3",
+		"HISTUS"
 	],
-	"title": "Hist of African American Educ"
+	"title": "Hist of African American Educ",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Sharon A Akimoto",
 		"Nancy J Cho"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -39,5 +40,6 @@
 	"tags": [
 		"CCSTETHNIC"
 	],
-	"title": "Intro to Asian American Stds"
+	"title": "Intro to Asian American Stds",
+	"type": "Course"
 }

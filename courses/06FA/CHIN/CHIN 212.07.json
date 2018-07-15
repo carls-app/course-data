@@ -8,11 +8,12 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "212.07",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "07",
 	"size": {
 		"registered": 26,
 		"total": 26,
@@ -22,22 +23,11 @@
 	"summary": null,
 	"synonym": "15439",
 	"tags": [
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Culture"
+	"title": "Chinese Culture",
+	"type": "Course"
 }

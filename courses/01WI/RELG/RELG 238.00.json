@@ -9,7 +9,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.00",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "2097",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL"
 	],
-	"title": "Papacy, Church & Empire"
+	"title": "Papacy, Church & Empire",
+	"type": "Course"
 }

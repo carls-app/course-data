@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephan G Zweifel"
 	],
-	"number": "240.00",
+	"number": "240",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 73,
 		"total": 65,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "6665",
 	"tags": [],
-	"title": "Genetics"
+	"title": "Genetics",
+	"type": "Course"
 }

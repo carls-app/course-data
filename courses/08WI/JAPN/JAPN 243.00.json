@@ -6,7 +6,7 @@
 	"instructors": [
 		"Noboru Tomonari"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "19129",
 	"tags": [],
-	"title": "The Other in Mdn Japn Lit"
+	"title": "The Other in Mdn Japn Lit",
+	"type": "Course"
 }

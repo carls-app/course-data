@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sam Patterson"
 	],
-	"number": "241.02",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: MATH 232 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 18,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": "An introduction to ordinary differential equations, including techniques for finding solutions, conditions under which solutions exist, and some qualitative analysis.",
 	"synonym": "25188",
 	"tags": [],
-	"title": "Ordinary Differential Equations"
+	"title": "Ordinary Differential Equations",
+	"type": "Course"
 }

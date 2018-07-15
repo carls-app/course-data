@@ -9,7 +9,7 @@
 		"Jim Fisher",
 		"Jay Levi"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "22049",
 	"tags": [],
-	"title": "Anthropology of Humor"
+	"title": "Anthropology of Humor",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"John Schott"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19043",
 	"tags": [],
-	"title": "Visual Cult of Amer in 50'S"
+	"title": "Visual Cult of Amer in 50'S",
+	"type": "Course"
 }

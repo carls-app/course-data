@@ -8,7 +8,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "4800",
 	"tags": [
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		}
+		"FRSTCORE",
+		"FRSTLANGLIT"
 	],
-	"title": "Beyond Words:Fine Art Writing"
+	"title": "Beyond Words:Fine Art Writing",
+	"type": "Course"
 }

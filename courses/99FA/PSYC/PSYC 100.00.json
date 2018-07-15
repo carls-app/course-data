@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lloyd K Komatsu"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2562",
 	"tags": [],
-	"title": "Nature & Nurture Intelligence"
+	"title": "Nature & Nurture Intelligence",
+	"type": "Course"
 }

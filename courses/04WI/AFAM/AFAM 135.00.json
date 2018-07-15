@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sue Bales"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 30,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "8529",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL2",
+		"CCSTETHNIC"
 	],
-	"title": "Intro to African Amer Relg"
+	"title": "Intro to African Amer Relg",
+	"type": "Course"
 }

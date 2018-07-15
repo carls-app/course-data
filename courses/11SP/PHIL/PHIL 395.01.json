@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel M Groll"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Two previous Philosophy courses.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -46,14 +44,9 @@
 	"summary": null,
 	"synonym": "26914",
 	"tags": [
-		{
-			"code": "PHILPRACVAL",
-			"name": "Philosophy Prac/Value Theory"
-		},
-		{
-			"code": "PHILADV",
-			"name": "Philosophy Advanced"
-		}
+		"PHILPRACVAL",
+		"PHILADV"
 	],
-	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness"
+	"title": "Ancient Greek Moral Psychology: Virtue, Character and Happiness",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"Paul Hager",
 		"John Schott"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Scoville 106"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -39,10 +40,8 @@
 	"summary": "This class introduces students to the full range of production tools and forms, building both the technical and conceptual skills needed to continue at more advanced levels. We will explore the aesthetics and mechanics of shooting digital video, the role of sound and how to record and mix it, field and studio production, lighting, and editing with Final Cut Pro. Course work will include individual and group production projects, readings, and writing. This is an essential foundation for anyone interested in moving-image production and learning the specifics of CAMS' studios, cameras, and lighting equipment.",
 	"synonym": "22875",
 	"tags": [
-		{
-			"code": "CAMSCORE07",
-			"name": "CAMS Core Courses"
-		}
+		"CAMSCORE07"
 	],
-	"title": "Digital Foundations"
+	"title": "Digital Foundations",
+	"type": "Course"
 }

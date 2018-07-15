@@ -8,7 +8,7 @@
 	"instructors": [
 		"Brian Horrigan"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -23,16 +23,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"HI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -42,10 +37,8 @@
 	"summary": "\"History\" is not just the name of a department at Carleton College; \"History-making\" is an activity engaged in by everybody, everyday. We watch historical movies, listen to political leaders invoking history in making policy, tour historic sites and museums, etc. We listen to our elders tell us stories about their lives, and we tell ourselves stories that place our experiences into the historical continuum. This course ranges widely over the varied and sometimes risky terrain of contemporary history-making in Minnesota and beyond to examine preservation organizations, museums, archives, oral history projects, documentary films, historic sites, schools, theater, TV, and cyberspace.",
 	"synonym": "33928",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		}
+		"HISTUS"
 	],
-	"title": "Museums, Monuments, and Memory"
+	"title": "Museums, Monuments, and Memory",
+	"type": "Course"
 }

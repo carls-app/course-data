@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "220.02",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"CMC 110"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "1186",
 	"tags": [],
-	"title": "Logic and Minds"
+	"title": "Logic and Minds",
+	"type": "Course"
 }

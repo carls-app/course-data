@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nelson L Christensen"
 	],
-	"number": "347.000",
+	"number": "347",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Physics 230 and 235",
 	"requirements": [],
 	"scnc": null,
+	"section": "000",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "Einstein's theory of general relativity is developed from basic physical principles. Also presented is the mathematics of curved space time. Astrophysical applications of general relativity, including spherically symmetric objects, black holes, cosmology and the creation and detection of gravitational waves are given.",
 	"synonym": "34882",
 	"tags": [],
-	"title": "General Relativity"
+	"title": "General Relativity",
+	"type": "Course"
 }

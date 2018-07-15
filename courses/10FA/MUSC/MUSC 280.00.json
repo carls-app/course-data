@@ -8,11 +8,12 @@
 	"instructors": [
 		"David S Whetstone"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 2,
 		"total": 50,
@@ -22,14 +23,9 @@
 	"summary": "Beginning, intermediate, and advanced students of voice, guitar, violin, flute, clarinet, etc., approach raga from their current level of musicianship. In all cases, traditional practical instruction is complemented by some theoretical and philosophical exploration of the underpinnings of the music.",
 	"synonym": "27406",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		}
+		"ASSTAL",
+		"ASSTSOUTH"
 	],
-	"title": "Raga: Vocal or Instrumental Study of Hindustani Music"
+	"title": "Raga: Vocal or Instrumental Study of Hindustani Music",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "117.00",
+	"number": "117",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "10117",
 	"tags": [],
-	"title": "Cote Fitness"
+	"title": "Cote Fitness",
+	"type": "Course"
 }

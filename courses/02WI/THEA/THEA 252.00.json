@@ -8,7 +8,7 @@
 	"instructors": [
 		"Nagle Jackson"
 	],
-	"number": "252.00",
+	"number": "252",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2199",
 	"tags": [],
-	"title": "Dramatic Action"
+	"title": "Dramatic Action",
+	"type": "Course"
 }

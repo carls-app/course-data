@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniel L Hernández"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Hulings 118"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "35193",
 	"tags": [],
-	"title": "Ecosystems Ecol Lab"
+	"title": "Ecosystems Ecol Lab",
+	"type": "Course"
 }

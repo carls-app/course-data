@@ -9,7 +9,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "243.00",
+	"number": "243",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2045",
 	"tags": [],
-	"title": "Animals:Minds, Morals & Nature"
+	"title": "Animals:Minds, Morals & Nature",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jeanne H Kilde"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "13920",
 	"tags": [],
-	"title": "Witches, Seers, Saints"
+	"title": "Witches, Seers, Saints",
+	"type": "Course"
 }

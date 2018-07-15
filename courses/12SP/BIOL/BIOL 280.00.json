@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sabrice Guerrier"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 281",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 34,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": "An examination of the structures and processes that underlie the life of cells, both prokaryotic and eukaryotic. Topics to be covered include methodologies used to study cells; organelles, membranes and other cellular components; protein targeting within the cell; and cellular communication and division.",
 	"synonym": "28734",
 	"tags": [],
-	"title": "Cell Biology"
+	"title": "Cell Biology",
+	"type": "Course"
 }

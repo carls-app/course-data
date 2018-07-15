@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "251.00",
+	"number": "251",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "3873",
 	"tags": [],
-	"title": "Chaotic Dynamics"
+	"title": "Chaotic Dynamics",
+	"type": "Course"
 }

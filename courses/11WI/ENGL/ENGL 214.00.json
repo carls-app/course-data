@@ -8,7 +8,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "214.00",
+	"number": "214",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -43,26 +41,12 @@
 	"summary": "Madness, murder, conspiracy, poison, incest, rape, ghosts, and lots of blood: the fashion for revenge tragedy in Elizabethan and Jacobean England led to the creation of some of the most brilliant, violent, funny, and deeply strange plays in the history of the language. Authors may include Cary, Chapman, Ford, Marston, Middleton, Kyd, Tourneur, and Webster.",
 	"synonym": "25797",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		}
+		"MARSSUPP",
+		"EUSTCNTRY",
+		"ENGLT1",
+		"ENGLHE1",
+		"THEAPERT"
 	],
-	"title": "Revenge Tragedy"
+	"title": "Revenge Tragedy",
+	"type": "Course"
 }

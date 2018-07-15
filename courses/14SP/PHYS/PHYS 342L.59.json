@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie E Coats"
 	],
-	"number": "342L.59",
+	"number": "342L",
 	"offerings": {
 		"locations": [
 			"Olin 211"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 8,
 		"total": 6,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "34908",
 	"tags": [],
-	"title": "Contemp Experimental Phys Lab"
+	"title": "Contemp Experimental Phys Lab",
+	"type": "Lab"
 }

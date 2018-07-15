@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mary M Easter"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Music & Drama Center LL54"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "16716",
 	"tags": [],
-	"title": "Dance Jamaica: African Thread"
+	"title": "Dance Jamaica: African Thread",
+	"type": "Course"
 }

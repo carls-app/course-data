@@ -8,11 +8,12 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "248.07",
+	"number": "248",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "1034",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		}
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMELECTIVE",
+		"LTAMLIT"
 	],
-	"title": "Drama & Performance in LatAm"
+	"title": "Drama & Performance in LatAm",
+	"type": "Course"
 }

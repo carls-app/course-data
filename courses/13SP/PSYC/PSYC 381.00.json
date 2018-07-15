@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kara D Sage"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -46,5 +44,6 @@
 	"summary": null,
 	"synonym": "34228",
 	"tags": [],
-	"title": "Seminar in Developmental Psychology: Media and Youth"
+	"title": "Seminar in Developmental Psychology: Media and Youth",
+	"type": "Course"
 }

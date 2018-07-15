@@ -6,7 +6,7 @@
 	"instructors": [
 		"Sharon A Akimoto"
 	],
-	"number": "384.00",
+	"number": "384",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Psychology 110 or instructor permission. Psychology 256 or 258 recommended",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 15,
@@ -45,26 +40,12 @@
 	"summary": "This seminar introduces students to major psychological theories and research on the development, perpetuation and reduction of prejudice. A social and historical approach to race, culture, ethnicity and race relations will provide a backdrop for examining psychological theory and research on prejudice formation and reduction. Major areas to be discussed are cognitive social learning, group conflict and contact hypothesis.",
 	"synonym": "28891",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"AFAMDISTROSS",
+		"AFAMSOCINQ"
 	],
-	"title": "Psychology of Prejudice"
+	"title": "Psychology of Prejudice",
+	"type": "Course"
 }

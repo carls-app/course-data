@@ -9,7 +9,7 @@
 		"Sarah J Titus",
 		"Mary E Savina"
 	],
-	"number": "110L.54",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 15,
 		"total": 18,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "31061",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

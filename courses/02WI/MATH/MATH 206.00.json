@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 28,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "604",
 	"tags": [],
-	"title": "Tour of Mathematics"
+	"title": "Tour of Mathematics",
+	"type": "Course"
 }

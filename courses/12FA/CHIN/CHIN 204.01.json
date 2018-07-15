@@ -6,7 +6,7 @@
 	"instructors": [
 		"Faye Merritt"
 	],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -42,6 +42,7 @@
 	"prerequisites": "Prerequisite: Chinese 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -51,10 +52,8 @@
 	"summary": "Expansion of vocabulary and learning of complex sentence forms, with equal emphasis on the development of the four skills: reading, writing, speaking, and listening comprehension.",
 	"synonym": "33189",
 	"tags": [
-		{
-			"code": "ASSTLANG",
-			"name": "Asian Studies Language"
-		}
+		"ASSTLANG"
 	],
-	"title": "Intermediate Chinese"
+	"title": "Intermediate Chinese",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 7,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2696",
 	"tags": [],
-	"title": "German in Review"
+	"title": "German in Review",
+	"type": "Course"
 }

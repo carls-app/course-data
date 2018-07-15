@@ -8,7 +8,7 @@
 	"instructors": [
 		"Myla T Vicenti Carpio"
 	],
-	"number": "124.00",
+	"number": "124",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 35,
@@ -45,5 +46,6 @@
 	"tags": [
 		"HISTUS"
 	],
-	"title": "Intro American Indian Studies"
+	"title": "Intro American Indian Studies",
+	"type": "Course"
 }

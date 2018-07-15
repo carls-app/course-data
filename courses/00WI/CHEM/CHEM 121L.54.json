@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deborah S Gross"
 	],
-	"number": "121L.54",
+	"number": "121L",
 	"offerings": {
 		"locations": [
 			"Mudd 260"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 14,
 		"total": 24,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2236",
 	"tags": [],
-	"title": "General Chemistry II Lab"
+	"title": "General Chemistry II Lab",
+	"type": "Lab"
 }

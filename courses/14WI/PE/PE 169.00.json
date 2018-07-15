@@ -8,7 +8,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "169.00",
+	"number": "169",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": "Course is completed in five weeks - just in time for mid-winter ball.",
 	"synonym": "34779",
 	"tags": [],
-	"title": "Social Dance, Winter Ball"
+	"title": "Social Dance, Winter Ball",
+	"type": "Course"
 }

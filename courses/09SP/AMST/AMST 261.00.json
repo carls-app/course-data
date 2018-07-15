@@ -8,7 +8,7 @@
 	"instructors": [
 		"Rachel A Raimist"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Scoville 102"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "21381",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Hip-Hop Media"
+	"title": "Hip-Hop Media",
+	"type": "Course"
 }

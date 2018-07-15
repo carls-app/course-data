@@ -8,7 +8,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17825",
 	"tags": [],
-	"title": "Intro to Educational Studies"
+	"title": "Intro to Educational Studies",
+	"type": "Course"
 }

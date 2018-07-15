@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa K Whitler"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -36,18 +37,10 @@
 	"summary": "Why do some people choose to work and others do not? Why are some people paid higher wages than others? What are the economic benefits of education for the individual and for society? How do government policies, such as subsidized child care, the Earned Income Tax Credit and the income tax influence whether people work and the number of hours they choose to work? These are some of the questions examined in labor economics. This course will focus on the labor supply and human capital decisions of individuals and households.",
 	"synonym": "24741",
 	"tags": [
-		{
-			"code": "POSINTLPOLECON",
-			"name": "Polisci/Ir Intl Political Econ"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-GDS",
-			"name": "Global Dev & Sustainability"
-		}
+		"POSINTLPOLECON",
+		"POSIELECTIVE",
+		"POSI-GDS"
 	],
-	"title": "Labor Economics"
+	"title": "Labor Economics",
+	"type": "Course"
 }

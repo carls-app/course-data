@@ -8,7 +8,7 @@
 	"instructors": [
 		"Judith A Howard"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -38,12 +38,10 @@
 	},
 	"prerequisites": "Prerequisite: Audition required",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -53,5 +51,6 @@
 	"summary": "Provides advanced dance students with an intensive opportunity to develop as performers in professional level dances. Skills to be honed are: the dancer as \"tool\" and contributor to the process of art-making; defining individual technical and expressive gifts; working in a variety of new technical and philosophical dance frameworks. In addition to regular training during the academic terms, participation in a \"preseason\" rehearsal period before fall term is required. A few pieces of student choreography will be accepted for repertory. The group produces an annual concert, performs in the Twin Cities and makes dance exchanges with other college groups.",
 	"synonym": "30197",
 	"tags": [],
-	"title": "Semaphore Repertory Dance Company"
+	"title": "Semaphore Repertory Dance Company",
+	"type": "Course"
 }

@@ -8,16 +8,14 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "307.07",
+	"number": "307",
 	"offerings": null,
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -27,14 +25,9 @@
 	"summary": "This course builds oral and written proficiency, emphasizing expressive ability, accuracy of grammar, and pronunciation. Students learn to read, write, and speak Chinese inside and outside of the classroom.",
 	"synonym": "31524",
 	"tags": [
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		}
+		"ASSTEAST",
+		"ASSTAL"
 	],
-	"title": "Chinese Studies Seminar in Tianjin: Advanced Chinese Language"
+	"title": "Chinese Studies Seminar in Tianjin: Advanced Chinese Language",
+	"type": "Course"
 }

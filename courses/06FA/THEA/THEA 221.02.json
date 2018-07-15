@@ -8,7 +8,7 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "221.02",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "16662",
 	"tags": [
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		}
+		"SPECINTLEGAL"
 	],
-	"title": "Rhetoric: Persuasion & Debate"
+	"title": "Rhetoric: Persuasion & Debate",
+	"type": "Course"
 }

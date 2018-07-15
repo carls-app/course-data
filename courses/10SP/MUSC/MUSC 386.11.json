@@ -8,16 +8,14 @@
 	"instructors": [
 		"Laura Caviani"
 	],
-	"number": "386.11",
+	"number": "386",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "11",
 	"size": {
 		"registered": 1,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "27699",
 	"tags": [],
-	"title": "Juried Lessons for the Major"
+	"title": "Juried Lessons for the Major",
+	"type": "Course"
 }

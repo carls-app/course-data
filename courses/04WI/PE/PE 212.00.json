@@ -9,16 +9,14 @@
 		"Tammy Metcalf-Filzen",
 		"Heidi L Jaynes"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 30,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "9002",
 	"tags": [],
-	"title": "Basketball Intercollegiate"
+	"title": "Basketball Intercollegiate",
+	"type": "Course"
 }

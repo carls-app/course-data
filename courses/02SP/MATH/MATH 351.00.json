@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "632",
 	"tags": [],
-	"title": "Functions of Complex Variable"
+	"title": "Functions of Complex Variable",
+	"type": "Course"
 }

@@ -9,11 +9,12 @@
 		"",
 		"Diane M Nemec Ignashev"
 	],
-	"number": "309.07",
+	"number": "309",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -23,10 +24,8 @@
 	"summary": null,
 	"synonym": "4977",
 	"tags": [
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTOFFCAMP"
 	],
-	"title": "Advanced Composition"
+	"title": "Advanced Composition",
+	"type": "Course"
 }

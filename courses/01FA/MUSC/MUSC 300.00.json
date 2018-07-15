@@ -6,7 +6,7 @@
 	"instructors": [
 		"Justin M London"
 	],
-	"number": "300.00",
+	"number": "300",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1572",
 	"tags": [],
-	"title": "Music Theory III"
+	"title": "Music Theory III",
+	"type": "Course"
 }

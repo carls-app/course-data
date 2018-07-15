@@ -8,7 +8,7 @@
 	"instructors": [
 		"Monica F Torres"
 	],
-	"number": "128.00",
+	"number": "128",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 35,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2118",
 	"tags": [],
-	"title": "Intro to Chicana/o Studies"
+	"title": "Intro to Chicana/o Studies",
+	"type": "Course"
 }

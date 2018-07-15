@@ -8,16 +8,14 @@
 	"instructors": [
 		"Fred Hagstrom"
 	],
-	"number": "136.02",
+	"number": "136",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "28356",
 	"tags": [],
-	"title": "Independent Activities"
+	"title": "Independent Activities",
+	"type": "Course"
 }

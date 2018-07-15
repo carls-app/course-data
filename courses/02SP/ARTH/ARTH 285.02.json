@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lauren Soth"
 	],
-	"number": "285.02",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"Boliou 142"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 4,
 		"total": 0,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "545",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "MARSCAP",
-			"name": "MARS Capstone"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"AMSTTOPICAL1",
+		"MARSSUPP",
+		"MARSCAP",
+		"EUSTCNTRY"
 	],
-	"title": "Topics: Gauguin"
+	"title": "Topics: Gauguin",
+	"type": "Course"
 }

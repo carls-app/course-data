@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Mudd 77"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "6952",
 	"tags": [
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSINTL",
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Geochemistry of Natural Waters"
+	"title": "Geochemistry of Natural Waters",
+	"type": "Course"
 }

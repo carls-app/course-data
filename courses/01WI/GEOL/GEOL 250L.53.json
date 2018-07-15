@@ -8,7 +8,7 @@
 	"instructors": [
 		"Shelby Boardman"
 	],
-	"number": "250L.53",
+	"number": "250L",
 	"offerings": {
 		"locations": [
 			"Mudd 77"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "53",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "631",
 	"tags": [],
-	"title": "Mineralogy Lab"
+	"title": "Mineralogy Lab",
+	"type": "Lab"
 }

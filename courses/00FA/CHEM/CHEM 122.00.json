@@ -8,7 +8,7 @@
 	"instructors": [
 		"Trish Ferrett"
 	],
-	"number": "122.00",
+	"number": "122",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 30,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "650",
 	"tags": [],
-	"title": "Introduction to Chemistry"
+	"title": "Introduction to Chemistry",
+	"type": "Course"
 }

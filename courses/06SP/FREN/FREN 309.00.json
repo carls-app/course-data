@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine Lac"
 	],
-	"number": "309.00",
+	"number": "309",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "13460",
 	"tags": [
-		{
-			"code": "FRSTCORE",
-			"name": "FRST Major Core"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		}
+		"FRSTCORE",
+		"FRSTLANGLIT"
 	],
-	"title": "Beyond Words:Fine Art Writing"
+	"title": "Beyond Words:Fine Art Writing",
+	"type": "Course"
 }

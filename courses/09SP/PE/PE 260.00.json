@@ -9,16 +9,14 @@
 		"Linda K Luedke",
 		"Aaron J Chaput"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 25,
@@ -28,5 +26,6 @@
 	"summary": null,
 	"synonym": "21201",
 	"tags": [],
-	"title": "Sailing Club"
+	"title": "Sailing Club",
+	"type": "Course"
 }

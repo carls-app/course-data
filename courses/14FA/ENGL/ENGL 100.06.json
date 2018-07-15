@@ -8,7 +8,7 @@
 	"instructors": [
 		"Constance Walker"
 	],
-	"number": "100.06",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		}
+		"WR1",
+		"AI"
 	],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -52,10 +47,8 @@
 	"summary": "We will explore the great nineteenth-century capital, the city of Austen, Dickens, and Sherlock Holmes, through the works of its writers and artists and through modern digital humanities resources such as online archives, databases, maps, 3-D models, and virtual exhibits. Students will have the opportunity to conduct original research on topics of their choice for their final projects.",
 	"synonym": "37894",
 	"tags": [
-		{
-			"code": "ENGLF",
-			"name": "ENGL Foundation"
-		}
+		"ENGLF"
 	],
-	"title": "Digital London"
+	"title": "Digital London",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 50,
@@ -42,5 +43,6 @@
 		"HISTAFRICA",
 		"CCSTREGIONAL"
 	],
-	"title": "Africa Before the Europeans"
+	"title": "Africa Before the Europeans",
+	"type": "Course"
 }

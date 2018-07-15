@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gavin Wright"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 18,
@@ -52,18 +47,10 @@
 	"summary": null,
 	"synonym": "30216",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"SPECINTSOCTHGHT",
+		"AFAMPERT",
+		"AFAMSOCINQ"
 	],
-	"title": "Economics of the Civil Rights Revolution"
+	"title": "Economics of the Civil Rights Revolution",
+	"type": "Course"
 }

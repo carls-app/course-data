@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jorge Brioso"
 	],
-	"number": "208.00",
+	"number": "208",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 205"
@@ -21,16 +21,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 10,
@@ -40,10 +35,8 @@
 	"summary": "An excellent opportunity to brush up your Spanish while learning about current issues in Spain and Latin America. The class meets only once a week for an hour. Class requirements include reading specific sections of Spain's leading newspaper, El País, everyday on the internet (El País), and then meeting once a week to exchange ideas over coffee with a small group of students like yourself.",
 	"synonym": "39373",
 	"tags": [
-		{
-			"code": "SPAN205-209",
-			"name": "Spanish 205-209 Sequence"
-		}
+		"SPAN205-209"
 	],
-	"title": "Coffee and News"
+	"title": "Coffee and News",
+	"type": "Course"
 }

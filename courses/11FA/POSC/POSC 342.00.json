@@ -6,7 +6,7 @@
 	"instructors": [
 		"Avraham Sela"
 	],
-	"number": "342.00",
+	"number": "342",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -45,10 +40,8 @@
 	"summary": null,
 	"synonym": "30342",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSI-LPS"
 	],
-	"title": "War, Diplomacy and Peacemaking"
+	"title": "War, Diplomacy and Peacemaking",
+	"type": "Course"
 }

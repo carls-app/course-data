@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3845",
 	"tags": [],
-	"title": "Probability"
+	"title": "Probability",
+	"type": "Course"
 }

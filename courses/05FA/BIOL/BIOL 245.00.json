@@ -8,7 +8,7 @@
 	"instructors": [
 		"Andy McCall"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "11944",
 	"tags": [],
-	"title": "Animal Behavior"
+	"title": "Animal Behavior",
+	"type": "Course"
 }

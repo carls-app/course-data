@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis A Fishman"
 	],
-	"number": "166.00",
+	"number": "166",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "14274",
 	"tags": [
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		}
+		"HISTASIA",
+		"HISTISLAM"
 	],
-	"title": "Modn Middle East 1939-present"
+	"title": "Modn Middle East 1939-present",
+	"type": "Course"
 }

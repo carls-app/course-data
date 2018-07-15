@@ -7,7 +7,7 @@
 		"Cindy Blaha",
 		"Staff"
 	],
-	"number": "112L.59",
+	"number": "112L",
 	"offerings": {
 		"locations": [
 			"Olin 301"
@@ -23,6 +23,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -32,5 +33,6 @@
 	"summary": null,
 	"synonym": "2439",
 	"tags": [],
-	"title": "Elementary Physics Lab"
+	"title": "Elementary Physics Lab",
+	"type": "Lab"
 }

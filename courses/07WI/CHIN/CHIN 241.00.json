@@ -8,7 +8,7 @@
 	"instructors": [
 		"Hong Zeng"
 	],
-	"number": "241.00",
+	"number": "241",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "16000",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLFORLIT"
 	],
-	"title": "20th C Literature & Film"
+	"title": "20th C Literature & Film",
+	"type": "Course"
 }

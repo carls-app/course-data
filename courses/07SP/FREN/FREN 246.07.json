@@ -9,11 +9,12 @@
 		"Dana Strand",
 		""
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -23,26 +24,12 @@
 	"summary": null,
 	"synonym": "15452",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		}
+		"FRSTELECAL",
+		"FRSTELEC",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY",
+		"FRSTSUPP"
 	],
-	"title": "City of Wonders:Paris in Arts"
+	"title": "City of Wonders:Paris in Arts",
+	"type": "Course"
 }

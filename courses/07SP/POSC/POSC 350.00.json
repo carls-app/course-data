@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "15669",
 	"tags": [],
-	"title": "Nietzsche & Political Philosop"
+	"title": "Nietzsche & Political Philosop",
+	"type": "Course"
 }

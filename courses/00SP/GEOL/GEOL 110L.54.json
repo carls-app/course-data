@@ -8,7 +8,7 @@
 	"instructors": [
 		"David M Bice"
 	],
-	"number": "110L.54",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "1971",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

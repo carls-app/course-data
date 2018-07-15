@@ -6,7 +6,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "15967",
 	"tags": [
-		{
-			"code": "WGSTMETH",
-			"name": "WGST Methods"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"WGSTMETH",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Feminist Theory"
+	"title": "Feminist Theory",
+	"type": "Course"
 }

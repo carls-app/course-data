@@ -8,7 +8,7 @@
 	"instructors": [
 		"Yeung Chan"
 	],
-	"number": "227.00",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Boliou 25"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3639",
 	"tags": [],
-	"title": "Introduction to Woodworking"
+	"title": "Introduction to Woodworking",
+	"type": "Course"
 }

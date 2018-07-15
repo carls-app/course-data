@@ -8,7 +8,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "261.00",
+	"number": "261",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -28,16 +28,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -47,14 +42,9 @@
 	"summary": "Rejected by every major publisher to which the author submitted it, first published in France in 1955 by a press known for pornographic trash, Vladimir Nabokov's scandalous novel of a middle-aged college professor obsessed with a twelve-year-old girl continues to feed controversy as well as to challenge and delight readers with its labyrinthian narrative, endless wordplay, innumerable meta-artistic allusions, and troublesome eroticism. Thus warned, you are invited to join the jury in deliberating the designs and delights of this twentieth-century literary classic. Conducted in English.",
 	"synonym": "33143",
 	"tags": [
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"ENGLLOE",
+		"EUSTCNTRY"
 	],
-	"title": "Lolita"
+	"title": "Lolita",
+	"type": "Course"
 }

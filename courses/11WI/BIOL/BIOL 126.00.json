@@ -9,7 +9,7 @@
 		"Raka M Mitra",
 		"John L Tymoczko"
 	],
-	"number": "126.00",
+	"number": "126",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,16 +34,11 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent enrollment in BIOL 126L; Chemistry 123 or 128; or AP Chemistry score of 4 or 5; or IB score of 5, 6, or 7",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 83,
 		"total": 80,
@@ -53,14 +48,9 @@
 	"summary": "Follow the pathways through which energy and matter are acquired, stored, and utilized within cells, organisms, and ecosystems. The focus moves among the different levels of organization from protein function to nutrient movement through ecosystems.",
 	"synonym": "26100",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"ENTSINTRO",
+		"BIOCCORE"
 	],
-	"title": "Energy Flow in Biological Systems"
+	"title": "Energy Flow in Biological Systems",
+	"type": "Course"
 }

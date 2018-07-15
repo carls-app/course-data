@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jim Fisher"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "15944",
 	"tags": [
-		{
-			"code": "CCSTSRSEM",
-			"name": "CCST Senior Seminar"
-		}
+		"CCSTSRSEM"
 	],
-	"title": "CCST Capstone Seminar"
+	"title": "CCST Capstone Seminar",
+	"type": "Course"
 }

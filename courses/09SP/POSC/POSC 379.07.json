@@ -8,11 +8,12 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "379.07",
+	"number": "379",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 36,
 		"total": 40,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "20366",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"POSICOMPRTV",
+		"POSIELECTIVE",
+		"POSI-DSS"
 	],
-	"title": "Chinese Decision Making"
+	"title": "Chinese Decision Making",
+	"type": "Course"
 }

@@ -7,7 +7,7 @@
 		"Pamela Feldman-Savelsberg",
 		"Kate Goldade"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -28,6 +28,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -37,18 +38,10 @@
 	"summary": null,
 	"synonym": "18238",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "AFAMPERT",
-			"name": "AFAM Pertinent Courses"
-		}
+		"CCSTGLOBAL",
+		"WGSTADDL",
+		"AFAMPERT"
 	],
-	"title": "Anthropology of Gender"
+	"title": "Anthropology of Gender",
+	"type": "Course"
 }

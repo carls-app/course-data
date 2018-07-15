@@ -8,7 +8,7 @@
 	"instructors": [
 		"Matt Whited"
 	],
-	"number": "123L.54",
+	"number": "123L",
 	"offerings": {
 		"locations": [
 			"Mudd 260"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "54",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "32416",
 	"tags": [],
-	"title": "Principles of Chemistry Lab"
+	"title": "Principles of Chemistry Lab",
+	"type": "Lab"
 }

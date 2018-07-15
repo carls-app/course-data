@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "166.00",
+	"number": "166",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "This course will survey art and architecture in China from its prehistoric beginnings to the end of the nineteenth century. It will examine various types of visual art forms within their social, political and cultural contexts. Major themes that will also be explored include: the role of ritual in the production and use of art, the relationship between the court and secular elite and art, and theories about creativity and expression.",
 	"synonym": "33984",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST"
 	],
-	"title": "Chinese Art and Culture"
+	"title": "Chinese Art and Culture",
+	"type": "Course"
 }

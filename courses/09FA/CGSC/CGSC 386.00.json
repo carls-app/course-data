@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "386.00",
+	"number": "386",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: Psychology 250, Educational Studies 234 or consent of the instructor.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 12,
@@ -38,14 +39,9 @@
 	"summary": "An examination of recent literature on how adolescents develop their value system, explore their goals, begin to make life-framing decision, establish new relationships, and discover answers to the question \"Who am I?\" Course readings will involve primary literature, and the course is discussion-based.",
 	"synonym": "24981",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PSYCPERT",
-			"name": "Psychology Pertinent"
-		}
+		"CGSCELECTIVE",
+		"PSYCPERT"
 	],
-	"title": "Adolescent Cognitive Development: Developing an Identity and Life Plans"
+	"title": "Adolescent Cognitive Development: Developing an Identity and Life Plans",
+	"type": "Course"
 }

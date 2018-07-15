@@ -6,7 +6,7 @@
 	"instructors": [
 		"Brian A Woodcock"
 	],
-	"number": "212.00",
+	"number": "212",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "18173",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		},
-		{
-			"code": "PHILTHEORY",
-			"name": "Philosophy Theoretical Area"
-		}
+		"CGSCELECTIVE",
+		"PHILTHEORY"
 	],
-	"title": "Epistemology"
+	"title": "Epistemology",
+	"type": "Course"
 }

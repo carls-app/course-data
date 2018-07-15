@@ -8,7 +8,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "311.02",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Hulings 218"
@@ -24,6 +24,7 @@
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Biology 240 or 280; Biology 310",
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "24205",
 	"tags": [],
-	"title": "Immunology Laboratory"
+	"title": "Immunology Laboratory",
+	"type": "Course"
 }

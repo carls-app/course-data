@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "20549",
 	"tags": [],
-	"title": "Introduction to Linguistics"
+	"title": "Introduction to Linguistics",
+	"type": "Course"
 }

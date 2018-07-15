@@ -9,7 +9,7 @@
 		"Sarah E Hurst",
 		""
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Recreation Center 225"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "3474",
 	"tags": [],
-	"title": "Trng Theory for Athletics"
+	"title": "Trng Theory for Athletics",
+	"type": "Course"
 }

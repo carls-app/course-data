@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel Williams"
 	],
-	"number": "115.00",
+	"number": "115",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -45,30 +40,13 @@
 	"summary": "This course examines the emergence and persistence of inequality in the contemporary United States. We will examine how institutions, ideas and interactions each contribute to the making of inequalities in education, employment, and other major social institutions of society. In doing so, we will pay particular attention to how class, race, gender and other social constructs matter to the making of inequality. We will consider how various theoretical traditions in sociology explain inequality. Finally, we will look at strategies for resistance and challenging inequalities.",
 	"synonym": "37063",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMDISTROSS",
-			"name": "AFAM Distro Social Sciences"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		},
-		{
-			"code": "EDUCCLUSTER3",
-			"name": "EDUC Cluster 3 Pub Pol&Reform"
-		},
-		{
-			"code": "AFSTSI",
-			"name": "Africana Stds Social Inquiry"
-		}
+		"SPECINTSOCTHGHT",
+		"AMSTTOPICAL3",
+		"AFAMDISTROSS",
+		"AFAMSOCINQ",
+		"EDUCCLUSTER3",
+		"AFSTSI"
 	],
-	"title": "Inequality in American Society"
+	"title": "Inequality in American Society",
+	"type": "Course"
 }

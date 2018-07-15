@@ -9,7 +9,7 @@
 	"instructors": [
 		"David McCandless"
 	],
-	"number": "343.00",
+	"number": "343",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"tags": [
 		"ENGL4"
 	],
-	"title": "Contemporary Euro&Amer Drama"
+	"title": "Contemporary Euro&Amer Drama",
+	"type": "Course"
 }

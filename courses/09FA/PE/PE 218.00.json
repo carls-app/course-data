@@ -8,7 +8,7 @@
 	"instructors": [
 		"Donna Ricks"
 	],
-	"number": "218.00",
+	"number": "218",
 	"offerings": {
 		"locations": [
 			"Recreation Center FIEL"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "23851",
 	"tags": [],
-	"title": "Cross Country Intercollegiate, Women"
+	"title": "Cross Country Intercollegiate, Women",
+	"type": "Course"
 }

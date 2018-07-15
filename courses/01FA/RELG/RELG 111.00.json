@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "111.00",
+	"number": "111",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "910",
 	"tags": [],
-	"title": "Religions of the West"
+	"title": "Religions of the West",
+	"type": "Course"
 }

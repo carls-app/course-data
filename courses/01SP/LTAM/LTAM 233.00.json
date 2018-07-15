@@ -9,7 +9,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 25,
@@ -42,5 +43,6 @@
 		"CCSTGLOBAL",
 		"LTAMELECTIVE"
 	],
-	"title": "Global Resurgence of Democracy"
+	"title": "Global Resurgence of Democracy",
+	"type": "Course"
 }

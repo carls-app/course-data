@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "356.00",
+	"number": "356",
 	"offerings": {
 		"locations": [
 			"Willis 102"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "15875",
 	"tags": [],
-	"title": "Student Teaching"
+	"title": "Student Teaching",
+	"type": "Course"
 }

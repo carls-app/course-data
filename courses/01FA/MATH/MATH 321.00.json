@@ -6,7 +6,7 @@
 	"instructors": [
 		"William Branson"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "595",
 	"tags": [],
-	"title": "Real Analysis I"
+	"title": "Real Analysis I",
+	"type": "Course"
 }

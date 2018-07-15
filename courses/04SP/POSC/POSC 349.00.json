@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marek D Steedman"
 	],
-	"number": "349.00",
+	"number": "349",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "7551",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL"
 	],
-	"title": "Race Theory: Contemp Approach"
+	"title": "Race Theory: Contemp Approach",
+	"type": "Course"
 }

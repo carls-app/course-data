@@ -8,16 +8,14 @@
 	"instructors": [
 		"Dave Ricks"
 	],
-	"number": "288.00",
+	"number": "288",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 45,
 		"total": 40,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "34827",
 	"tags": [],
-	"title": "Track and Field/Outdoor Intercollegiate, Men"
+	"title": "Track and Field/Outdoor Intercollegiate, Men",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Chico Zimmerman"
 	],
-	"number": "351.00",
+	"number": "351",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "7793",
 	"tags": [],
-	"title": "Aristophanes"
+	"title": "Aristophanes",
+	"type": "Course"
 }

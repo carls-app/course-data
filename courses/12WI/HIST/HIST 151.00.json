@@ -6,7 +6,7 @@
 	"instructors": [
 		"Seungjoo Yoon"
 	],
-	"number": "151.00",
+	"number": "151",
 	"offerings": {
 		"locations": [
 			"Weitz Center 230"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -45,22 +40,11 @@
 	"summary": "This course explores the modern transformation of Japanese society, politics, economy and culture from the Meiji Restoration of 1868 to the present. It is designed to provide students with an opportunity to explore basic issues and problems relating to modern Japanese history and international relations. Topics include the intellectual crisis of the late Tokugawa period, the Meiji Constitution, the development of an interior democracy, class and gender, the rise of Japanese fascism, the Pacific War, and postwar developments.",
 	"synonym": "31104",
 	"tags": [
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"ASSTHU",
+		"ASSTEAST",
+		"HISTASIA",
+		"POSI-AREAS"
 	],
-	"title": "History of Modern Japan"
+	"title": "History of Modern Japan",
+	"type": "Course"
 }

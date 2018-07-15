@@ -6,7 +6,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "311.00",
+	"number": "311",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Political Science 206, 270 or 271",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -46,18 +44,10 @@
 	"summary": null,
 	"synonym": "27034",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "SPECINTLEGAL",
-			"name": "Legal Studies"
-		},
-		{
-			"code": "POSCADVSEM",
-			"name": "Polisci Advanced Seminar"
-		}
+		"AMSTTOPICAL3",
+		"SPECINTLEGAL",
+		"POSCADVSEM"
 	],
-	"title": "Topics in Constitutional Law*"
+	"title": "Topics in Constitutional Law*",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Courtney L Amundson"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -33,14 +34,9 @@
 	"summary": null,
 	"synonym": "21120",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Population Ecology Laboratory"
+	"title": "Population Ecology Laboratory",
+	"type": "Course"
 }

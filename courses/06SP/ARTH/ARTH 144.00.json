@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine G O'Malley"
 	],
-	"number": "144.00",
+	"number": "144",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "14324",
 	"tags": [],
-	"title": "Architecture Across Cultures"
+	"title": "Architecture Across Cultures",
+	"type": "Course"
 }

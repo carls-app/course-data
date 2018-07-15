@@ -6,7 +6,7 @@
 	"instructors": [
 		"Gail S Nelson"
 	],
-	"number": "341.00",
+	"number": "341",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Mathematics 241",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -46,5 +44,6 @@
 	"summary": "Fourier series and their applications to boundary value problems in partial differential equations. Topics include separation of variables, orthogonal sets of functions, representations of functions in series of orthogonal functions, Sturm-Liouville theory, and Fourier transforms.",
 	"synonym": "29023",
 	"tags": [],
-	"title": "Fourier Series and Boundary Value Problems"
+	"title": "Fourier Series and Boundary Value Problems",
+	"type": "Course"
 }

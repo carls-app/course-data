@@ -6,7 +6,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 25,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "2277",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"AMSTTOPICAL3",
+		"CCSTETHNIC"
 	],
-	"title": "Schooling and Opportunity"
+	"title": "Schooling and Opportunity",
+	"type": "Course"
 }

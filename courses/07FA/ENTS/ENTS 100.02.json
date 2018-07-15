@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joel M Weisberg"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 9,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "19437",
 	"tags": [],
-	"title": "Science, Tech & Public Policy"
+	"title": "Science, Tech & Public Policy",
+	"type": "Course"
 }

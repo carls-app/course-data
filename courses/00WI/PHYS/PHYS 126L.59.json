@@ -6,7 +6,7 @@
 	"instructors": [
 		"Rich Noer"
 	],
-	"number": "126L.59",
+	"number": "126L",
 	"offerings": {
 		"locations": [
 			"Olin 210"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "59",
 	"size": {
 		"registered": 9,
 		"total": 16,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2428",
 	"tags": [],
-	"title": "Phys-Lab Instrumentation Lab"
+	"title": "Phys-Lab Instrumentation Lab",
+	"type": "Lab"
 }

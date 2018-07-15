@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nader Saiedi"
 	],
-	"number": "220.00",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 305"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: The department strongly recommends that 110 or 111 be taken prior to enrolling in courses numbered 200 or above.",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 30,
@@ -50,22 +45,11 @@
 	"summary": "The processes, structures, and functions of stratification in advanced capitalist societies. Marxist, neomarxist, Weberian, and functionalist models of class analysis; theories of status attainment and mobility; comparative welfare states; the relationship between class, gender, and ethnicity; the relation of education to status attainment; class and socialization; and models of justice and rationality.",
 	"synonym": "32788",
 	"tags": [
-		{
-			"code": "EDUCCLUSTER2",
-			"name": "EDUC Cluster 2 Soc & Culture"
-		},
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "POECMIDAPP",
-			"name": "POEC Amer Pub Pol Mid Div"
-		}
+		"EDUCCLUSTER2",
+		"AMMUGROUP3",
+		"AMSTTOPICAL3",
+		"POECMIDAPP"
 	],
-	"title": "Class, Power, and Inequality in America"
+	"title": "Class, Power, and Inequality in America",
+	"type": "Course"
 }

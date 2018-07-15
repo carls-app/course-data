@@ -8,7 +8,7 @@
 	"instructors": [
 		"Alfred P Montero"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "7493",
 	"tags": [
-		{
-			"code": "LTAMCOMPUS",
-			"name": "LTAM Comparative and/or US"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		}
+		"LTAMCOMPUS",
+		"CCSTGLOBAL",
+		"LTAMELECTIVE",
+		"POSCELECTIVE"
 	],
-	"title": "Global Resurgence of Democracy"
+	"title": "Global Resurgence of Democracy",
+	"type": "Course"
 }

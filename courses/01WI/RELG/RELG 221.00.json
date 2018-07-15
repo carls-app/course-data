@@ -6,7 +6,7 @@
 	"instructors": [
 		"Trish Beckman"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 25,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "2108",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"ENGLFORLIT"
 	],
-	"title": "Christian Origins (New Test)"
+	"title": "Christian Origins (New Test)",
+	"type": "Course"
 }

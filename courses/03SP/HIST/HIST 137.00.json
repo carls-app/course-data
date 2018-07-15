@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "137.00",
+	"number": "137",
 	"offerings": {
 		"locations": [
 			"Leighton 305",
@@ -40,6 +40,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 40,
@@ -49,34 +50,14 @@
 	"summary": null,
 	"synonym": "4574",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL",
+		"FRSTELEC",
+		"MARSCORE",
+		"MARSSUPP",
+		"HISTANCNT/MDVL",
+		"FRSTHIST"
 	],
-	"title": "Before Europe: 250-1050"
+	"title": "Before Europe: 250-1050",
+	"type": "Course"
 }

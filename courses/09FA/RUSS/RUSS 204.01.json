@@ -7,7 +7,7 @@
 		"Anna M Dotlibova",
 		"Laura Goering"
 	],
-	"number": "204.01",
+	"number": "204",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -43,6 +43,7 @@
 	"prerequisites": "Prerequisite: Russian 103 or equivalent",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -52,10 +53,8 @@
 	"summary": "Continued four-skill development using texts and resources from a variety of sources. Emphasis on communicative skills.",
 	"synonym": "24245",
 	"tags": [
-		{
-			"code": "EUSTLANG",
-			"name": "EUST European Language"
-		}
+		"EUSTLANG"
 	],
-	"title": "Intermediate Russian"
+	"title": "Intermediate Russian",
+	"type": "Course"
 }

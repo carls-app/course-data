@@ -9,7 +9,7 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 409"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "1660",
 	"tags": [],
-	"title": "The Mande of West Africa"
+	"title": "The Mande of West Africa",
+	"type": "Course"
 }

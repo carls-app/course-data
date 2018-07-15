@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
-	"number": "375.00",
+	"number": "375",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 15,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "6716",
 	"tags": [],
-	"title": "Language and Deception"
+	"title": "Language and Deception",
+	"type": "Course"
 }

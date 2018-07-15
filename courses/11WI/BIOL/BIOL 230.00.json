@@ -6,7 +6,7 @@
 	"instructors": [
 		"Nidanie Henderson"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125, 126, and Chemistry 233.",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 30,
@@ -46,10 +44,8 @@
 	"summary": null,
 	"synonym": "26105",
 	"tags": [
-		{
-			"code": "SPECINTHEALTH",
-			"name": "Health Issues"
-		}
+		"SPECINTHEALTH"
 	],
-	"title": "Introduction to Pharmacology"
+	"title": "Introduction to Pharmacology",
+	"type": "Course"
 }

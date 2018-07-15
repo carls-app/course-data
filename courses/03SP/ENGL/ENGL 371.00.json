@@ -8,7 +8,7 @@
 	"instructors": [
 		"Gregory G Hewett"
 	],
-	"number": "371.00",
+	"number": "371",
 	"offerings": {
 		"locations": [
 			"Laird 204",
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 0,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "4058",
 	"tags": [],
-	"title": "Adv Crafts of Writing: Poetry"
+	"title": "Adv Crafts of Writing: Poetry",
+	"type": "Course"
 }

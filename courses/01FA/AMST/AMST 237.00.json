@@ -9,7 +9,7 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -46,5 +47,6 @@
 	"tags": [
 		"ENGL4"
 	],
-	"title": "American Nature Writing"
+	"title": "American Nature Writing",
+	"type": "Course"
 }

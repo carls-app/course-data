@@ -6,7 +6,7 @@
 	"instructors": [
 		"Joe Chihade"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 37,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "9385",
 	"tags": [],
-	"title": "Biological Chemistry"
+	"title": "Biological Chemistry",
+	"type": "Course"
 }

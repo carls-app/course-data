@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kathleen M Galotti"
 	],
-	"number": "233.01",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 11"
@@ -23,12 +23,10 @@
 	},
 	"prerequisites": "Prerequisite: CGSC 232. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.; Psychology 110 or permission of the instructor. A grade of C- or better must be earned in both Psychology/Cognitive Science 232 and 233 to satisfy the LS requirement.",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 17,
 		"total": 12,
@@ -38,10 +36,8 @@
 	"summary": "Students will participate in the replication and planning of empirical studies, collecting and analyzing data relevant to major cognitive phenomena.",
 	"synonym": "29036",
 	"tags": [
-		{
-			"code": "CGSCCORE",
-			"name": "CGSC Core"
-		}
+		"CGSCCORE"
 	],
-	"title": "Laboratory Research Methods in Cognitive Science"
+	"title": "Laboratory Research Methods in Cognitive Science",
+	"type": "Course"
 }

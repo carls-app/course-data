@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laurence D Cooper"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "12484",
 	"tags": [],
-	"title": "Pol Phil & Book of Genesis"
+	"title": "Pol Phil & Book of Genesis",
+	"type": "Course"
 }

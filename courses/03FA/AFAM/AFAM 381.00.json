@@ -9,7 +9,7 @@
 	"instructors": [
 		"Harry M Williams"
 	],
-	"number": "381.00",
+	"number": "381",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -44,18 +45,10 @@
 	"summary": null,
 	"synonym": "8018",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL2",
-			"name": "AMST Group II Topical"
-		},
-		{
-			"code": "CCSTBINARY",
-			"name": "CCST Binary Comparison"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		}
+		"AMSTTOPICAL2",
+		"CCSTBINARY",
+		"AFAMDISTROHU"
 	],
-	"title": "Hist,Memory & Black Atlantic"
+	"title": "Hist,Memory & Black Atlantic",
+	"type": "Course"
 }

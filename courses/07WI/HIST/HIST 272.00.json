@@ -6,7 +6,7 @@
 	"instructors": [
 		"Colby N Ristow"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 50,
@@ -41,26 +42,12 @@
 	"summary": null,
 	"synonym": "16784",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSICOMPRTV",
-			"name": "Polisci/Ir Comparative Systems"
-		}
+		"HISTLTAM",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"POSIELECTIVE",
+		"POSICOMPRTV"
 	],
-	"title": "Mexico-Historical Perspective"
+	"title": "Mexico-Historical Perspective",
+	"type": "Course"
 }

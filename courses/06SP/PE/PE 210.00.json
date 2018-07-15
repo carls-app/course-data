@@ -8,16 +8,14 @@
 	"instructors": [
 		"Aaron D Rushing"
 	],
-	"number": "210.00",
+	"number": "210",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 35,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "14633",
 	"tags": [],
-	"title": "Baseball Intercollegiate"
+	"title": "Baseball Intercollegiate",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Palmar M Álvarez-Blanco"
 	],
-	"number": "320.00",
+	"number": "320",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 335"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "Since 1980, Spain has experienced a literary and artistic boom, with scores of young novelists and filmmakers whose works challenge traditional notions of the individual and society. This course will examine some of these works, paying attention to regions of Spain normally excluded from the curriculum--Galicia, the Basque Country, and Catalonia. Discussions topics include gender and sexuality, cultural and personal memory, exile and migration, and the relationship between voice and power.",
 	"synonym": "26631",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		}
+		"EUSTCNTRY",
+		"PENINLIT"
 	],
-	"title": "New Spanish Voices"
+	"title": "New Spanish Voices",
+	"type": "Course"
 }

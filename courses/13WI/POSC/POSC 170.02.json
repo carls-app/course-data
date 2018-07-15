@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alex Von Hagen-Jamar"
 	],
-	"number": "170.02",
+	"number": "170",
 	"offerings": {
 		"locations": [
 			"Weitz Center 132"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 20,
 		"total": 30,
@@ -50,26 +45,12 @@
 	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
 	"synonym": "33016",
 	"tags": [
-		{
-			"code": "ASSTSS",
-			"name": "Asian Studies Social Science"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "ASSTSOUTH",
-			"name": "Asian Studies South Asia"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "POECLOWER",
-			"name": "Political Economy Lower Level"
-		}
+		"ASSTSS",
+		"ASSTEAST",
+		"ASSTSOUTH",
+		"ASSTPERT",
+		"POECLOWER"
 	],
-	"title": "International Relations and World Politics"
+	"title": "International Relations and World Politics",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"George H Lamson"
 	],
-	"number": "395.01",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2841",
 	"tags": [],
-	"title": "Adv Topics in Macro Theory"
+	"title": "Adv Topics in Macro Theory",
+	"type": "Course"
 }

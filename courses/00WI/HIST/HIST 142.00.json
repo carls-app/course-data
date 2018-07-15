@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 35,
@@ -41,5 +42,6 @@
 		"HISTEUR1451",
 		"FRSTHIST"
 	],
-	"title": "Popular Culture Early Mod Eur"
+	"title": "Popular Culture Early Mod Eur",
+	"type": "Course"
 }

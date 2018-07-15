@@ -8,7 +8,7 @@
 	"instructors": [
 		"Parna Sengupta"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "18075",
 	"tags": [
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"POSI-AREAS",
+		"HISTASIA"
 	],
-	"title": "1947 Partition of India"
+	"title": "1947 Partition of India",
+	"type": "Course"
 }

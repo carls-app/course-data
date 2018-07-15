@@ -6,7 +6,7 @@
 	"instructors": [
 		"Liz Raleigh"
 	],
-	"number": "272.00",
+	"number": "272",
 	"offerings": {
 		"locations": [
 			"Leighton 236"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"SI",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "This course considers the construction of race and ethnicity from a sociological perspective. We examine the changing boundaries of racial and ethnic identities, with a particular emphasis on whiteness and post-racial politics, as well as how immigration and multiracial identities complicate and potentially challenge the black/white paradigm. In addition, we will incorporate intersectional perspectives that show the importance of gender, class, and other differences in the construction of race. We will specifically examine these processes and constructions by focusing on inequality, identity, and racial discourse and politics. Finally, we will briefly consider race and ethnicity in various non-U.S. contexts.",
 	"synonym": "35802",
 	"tags": [
-		{
-			"code": "AMMUGROUP3",
-			"name": "American Music Group 3"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AFAMSOCINQ",
-			"name": "AFAM Social Inquiry"
-		}
+		"AMMUGROUP3",
+		"SPECINTSOCTHGHT",
+		"AMSTTOPICAL3",
+		"AFAMSOCINQ"
 	],
-	"title": "Race and Ethnicity in the United States"
+	"title": "Race and Ethnicity in the United States",
+	"type": "Course"
 }

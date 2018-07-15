@@ -6,20 +6,15 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "252.01",
+	"number": "252",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 2,
 		"total": 25,
@@ -29,14 +24,9 @@
 	"summary": "This course will be devoted to close study of Herodotus'",
 	"synonym": "36843",
 	"tags": [
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		}
+		"POSI-LPS",
+		"SPECINTSOCTHGHT"
 	],
-	"title": "Herodotus and the Origin of Political Philosophy"
+	"title": "Herodotus and the Origin of Political Philosophy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: One Art History course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -52,18 +47,10 @@
 	"summary": "By definition, the artistic neo-avantgarde of the post-1945 era looked back to the historical avant-garde movements of the early twentieth century for inspiration and ideological support. This course will examine how one such historical movement, Dada, has continued to play a profound role in shaping how artists define art and use the art object as an active force to radically alter everyday life. In particular, we will investigate the ways in which Dadaists used chance, humor, irony, negation and the ready made to challenge the institution of art, and then trace the legacies of these practices in recent artistic practice.",
 	"synonym": "25496",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"EUSTTRANNATL",
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Legacies of the Avant-Garde: Dada Then and Now"
+	"title": "Legacies of the Avant-Garde: Dada Then and Now",
+	"type": "Course"
 }

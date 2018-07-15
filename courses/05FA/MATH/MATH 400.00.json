@@ -9,7 +9,7 @@
 		"Staff",
 		"Sam Patterson"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 30,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "12334",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

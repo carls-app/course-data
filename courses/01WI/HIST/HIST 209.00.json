@@ -8,7 +8,7 @@
 	"instructors": [
 		"Javier Morillo-Alicea"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": {
 		"locations": [
 			"Library 306"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 33,
 		"total": 35,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "2705",
 	"tags": [
-		{
-			"code": "HISTLTAM",
-			"name": "HIST Latin America"
-		}
+		"HISTLTAM"
 	],
-	"title": "Colonial Cultures-Modern World"
+	"title": "Colonial Cultures-Modern World",
+	"type": "Course"
 }

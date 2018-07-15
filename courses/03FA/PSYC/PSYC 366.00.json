@@ -7,7 +7,7 @@
 		"Gretchen H Gotthard",
 		"Julie J Neiworth"
 	],
-	"number": "366.00",
+	"number": "366",
 	"offerings": {
 		"locations": [
 			"Olin 102",
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6685",
 	"tags": [],
-	"title": "Cognitive Neuroscience"
+	"title": "Cognitive Neuroscience",
+	"type": "Course"
 }

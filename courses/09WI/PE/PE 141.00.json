@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Carlson"
 	],
-	"number": "141.00",
+	"number": "141",
 	"offerings": {
 		"locations": [
 			"Cowling 121"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 24,
@@ -41,5 +39,6 @@
 	"summary": null,
 	"synonym": "20772",
 	"tags": [],
-	"title": "Intramural Sports"
+	"title": "Intramural Sports",
+	"type": "Course"
 }

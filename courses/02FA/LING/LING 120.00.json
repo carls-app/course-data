@@ -6,7 +6,7 @@
 	"instructors": [
 		"Laurie A Zaring"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "4718",
 	"tags": [],
-	"title": "Words"
+	"title": "Words",
+	"type": "Course"
 }

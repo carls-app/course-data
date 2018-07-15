@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: 100-level Geology course or an introductory Biology course, or instructor permission; Concurrent registration in Geology 230L",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 36,
@@ -43,5 +44,6 @@
 	"summary": "Fossils: their anatomy and classification, evolution, and ecology. Special emphasis on the paleobiology of marine invertebrates. Field trips and laboratories included.",
 	"synonym": "23169",
 	"tags": [],
-	"title": "Paleobiology"
+	"title": "Paleobiology",
+	"type": "Course"
 }

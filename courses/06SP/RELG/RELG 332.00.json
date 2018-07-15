@@ -8,7 +8,7 @@
 	"instructors": [
 		"David B Hollenberg"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 15,
@@ -38,26 +39,12 @@
 	"summary": null,
 	"synonym": "13097",
 	"tags": [
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ASSTPERT",
-			"name": "Asian Studies Pertinent"
-		},
-		{
-			"code": "ASSTDISC",
-			"name": "Asian Studies Disciplinary"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		}
+		"MARSSUPP",
+		"ASSTPERT",
+		"ASSTDISC",
+		"ASSTHU",
+		"ASSTCENT"
 	],
-	"title": "Heresy and Deviancy in Islam"
+	"title": "Heresy and Deviancy in Islam",
+	"type": "Course"
 }

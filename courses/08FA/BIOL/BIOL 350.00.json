@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 40,
@@ -41,10 +42,8 @@
 	"summary": null,
 	"synonym": "21060",
 	"tags": [
-		{
-			"code": "ENTSCDES",
-			"name": "ENTS Consv Dev Env Sci"
-		}
+		"ENTSCDES"
 	],
-	"title": "Evolution"
+	"title": "Evolution",
+	"type": "Course"
 }

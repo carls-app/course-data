@@ -8,20 +8,15 @@
 	"instructors": [
 		"Qiguang Zhao"
 	],
-	"number": "282.07",
+	"number": "282",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -31,18 +26,10 @@
 	"summary": "This lecture course includes a general introduction to Chinese literature, history, geography, and society. It examines the social, ideological, and literary basis of Chinese civilization and society. The course will be conducted in English accompanied by some Chinese vocabulary with its English translation.",
 	"synonym": "31530",
 	"tags": [
-		{
-			"code": "ASSTAL",
-			"name": "Asian Studies Arts & Lit"
-		},
-		{
-			"code": "ASSTEAST",
-			"name": "Asian Studies East Asia"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		}
+		"ASSTAL",
+		"ASSTEAST",
+		"HISTASIA"
 	],
-	"title": "Chinese Studies Seminar in Tianjin: Chinese Civilization"
+	"title": "Chinese Studies Seminar in Tianjin: Chinese Civilization",
+	"type": "Course"
 }

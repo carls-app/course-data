@@ -8,7 +8,7 @@
 	"instructors": [
 		"Charles E Crutchfield"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"Hulings 120"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 0,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "9199",
 	"tags": [],
-	"title": "Sem in Human Cutaneous Biology"
+	"title": "Sem in Human Cutaneous Biology",
+	"type": "Course"
 }

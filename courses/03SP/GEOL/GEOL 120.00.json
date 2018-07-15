@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bereket Haileab"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "6155",
 	"tags": [
-		{
-			"code": "ENTSINTRO",
-			"name": "ENTS Introductory"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSINTRO",
+		"ENTSLAB"
 	],
-	"title": "Environmental Geology"
+	"title": "Environmental Geology",
+	"type": "Course"
 }

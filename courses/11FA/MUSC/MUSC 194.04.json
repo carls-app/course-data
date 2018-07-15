@@ -8,16 +8,14 @@
 	"instructors": [
 		"Jay L Johnson"
 	],
-	"number": "194.04",
+	"number": "194",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "04",
 	"size": {
 		"registered": 7,
 		"total": 100,
@@ -27,5 +25,6 @@
 	"summary": "Small groups, formed by at least three students, will participate in the study and performance of keyboard and instrumental chamber music, non-western, or small jazz ensemble repertory, coached weekly by music faculty. Students must be registered and may not audit or participate in more than one group.",
 	"synonym": "30834",
 	"tags": [],
-	"title": "Chamber Music"
+	"title": "Chamber Music",
+	"type": "Course"
 }

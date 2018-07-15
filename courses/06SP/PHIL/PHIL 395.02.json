@@ -8,7 +8,7 @@
 	"instructors": [
 		"Angela F Curran"
 	],
-	"number": "395.02",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -38,14 +39,9 @@
 	"summary": null,
 	"synonym": "13726",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Film and the Emotions"
+	"title": "Film and the Emotions",
+	"type": "Course"
 }

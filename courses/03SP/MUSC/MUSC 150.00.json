@@ -8,11 +8,12 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "150.00",
+	"number": "150",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 0,
 		"total": 100,
@@ -22,5 +23,6 @@
 	"summary": null,
 	"synonym": "4591",
 	"tags": [],
-	"title": "Piano"
+	"title": "Piano",
+	"type": "Course"
 }

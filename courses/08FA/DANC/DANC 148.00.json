@@ -9,7 +9,7 @@
 		"Judith A Howard",
 		"Jane Shockley"
 	],
-	"number": "148.00",
+	"number": "148",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "21351",
 	"tags": [],
-	"title": "Modern Dance I"
+	"title": "Modern Dance I",
+	"type": "Course"
 }

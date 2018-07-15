@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "355.00",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -40,5 +41,6 @@
 	"tags": [
 		"CCSTGLOBAL"
 	],
-	"title": "Buddhist Ethics"
+	"title": "Buddhist Ethics",
+	"type": "Course"
 }

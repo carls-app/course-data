@@ -9,7 +9,7 @@
 	"instructors": [
 		"Barbara Allen"
 	],
-	"number": "355.26",
+	"number": "355",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "26",
 	"size": {
 		"registered": 10,
 		"total": 15,
@@ -39,26 +40,12 @@
 	"summary": null,
 	"synonym": "7553",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"CCSTETHNIC",
+		"WGSTADDL",
+		"POSIELECTIVE"
 	],
-	"title": "Contemporary Feminist Thought"
+	"title": "Contemporary Feminist Thought",
+	"type": "Course"
 }

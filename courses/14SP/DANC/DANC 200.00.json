@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daphne L McCoy"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -43,5 +41,6 @@
 	"summary": "A continuation of Level I with more emphasis on the development of technique and expressive qualities.",
 	"synonym": "35161",
 	"tags": [],
-	"title": "Modern Dance II: Technique and Theory"
+	"title": "Modern Dance II: Technique and Theory",
+	"type": "Course"
 }

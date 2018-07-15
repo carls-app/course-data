@@ -6,7 +6,7 @@
 	"instructors": [
 		"LaToya S Beck"
 	],
-	"number": "100.02",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"AI",
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -49,5 +41,6 @@
 	"summary": null,
 	"synonym": "37028",
 	"tags": [],
-	"title": "9-5 and then Bye Bye: Working Across our Lives"
+	"title": "9-5 and then Bye Bye: Working Across our Lives",
+	"type": "Course"
 }

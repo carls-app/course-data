@@ -8,7 +8,7 @@
 	"instructors": [
 		"William S Dinklage"
 	],
-	"number": "110L.55",
+	"number": "110L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "55",
 	"size": {
 		"registered": 20,
 		"total": 20,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2746",
 	"tags": [],
-	"title": "Introduction to Geology Lab"
+	"title": "Introduction to Geology Lab",
+	"type": "Lab"
 }

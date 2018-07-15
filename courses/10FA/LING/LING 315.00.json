@@ -6,7 +6,7 @@
 	"instructors": [
 		"Cherlon L Ussery"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
-		{
-			"code": "FSR",
-			"name": "Formal or Statistical Reasoning"
-		}
+		"FSR"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -46,10 +44,8 @@
 	"summary": "More on syntax. Particular topics vary by year and student interest.",
 	"synonym": "26203",
 	"tags": [
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"CGSCELECTIVE"
 	],
-	"title": "Topics in Syntax"
+	"title": "Topics in Syntax",
+	"type": "Course"
 }

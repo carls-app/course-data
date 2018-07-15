@@ -8,7 +8,7 @@
 	"instructors": [
 		"Clint Cowan"
 	],
-	"number": "360L.52",
+	"number": "360L",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 11,
 		"total": 18,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "25922",
 	"tags": [],
-	"title": "Sedimentlgy&Stratigrphy Lab"
+	"title": "Sedimentlgy&Stratigrphy Lab",
+	"type": "Lab"
 }

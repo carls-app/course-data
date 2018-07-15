@@ -8,16 +8,14 @@
 		"Serena R Zabin",
 		"Thabiti Willis"
 	],
-	"number": "397.00",
+	"number": "397",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 45,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "32695",
 	"tags": [],
-	"title": "Senior Research Proposal"
+	"title": "Senior Research Proposal",
+	"type": "Course"
 }

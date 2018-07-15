@@ -6,7 +6,7 @@
 	"instructors": [
 		"Melissa Eblen-Zayas"
 	],
-	"number": "260.00",
+	"number": "260",
 	"offerings": {
 		"locations": [
 			"Olin 204"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Physics 151, 152, 153, or 165 or Chemistry 123 or 128",
 	"requirements": [
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 24,
@@ -46,5 +44,6 @@
 	"summary": "From a simple \"Post-It\" note to a complex computer microprocessor, modern products derive much of their utility from the structures and properties of their constituent materials. This course will provide a survey of the science of materials including structure (bonding, crystal structure, defects), classes of materials (polymers, ceramics, metals, composites), physical properties (mechanical, electromagnetic, thermal, optical) and techniques for materials characterization. In addition, the technological and societal impacts of materials development will be explored.",
 	"synonym": "26021",
 	"tags": [],
-	"title": "Materials Science"
+	"title": "Materials Science",
+	"type": "Course"
 }

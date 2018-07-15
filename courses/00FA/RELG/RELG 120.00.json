@@ -6,7 +6,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 20,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2087",
 	"tags": [],
-	"title": "Introduction to Judaism"
+	"title": "Introduction to Judaism",
+	"type": "Course"
 }

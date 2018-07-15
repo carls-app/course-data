@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jennifer M Wolff"
 	],
-	"number": "368.00",
+	"number": "368",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -31,12 +31,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 240 or Biology 280",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -46,14 +44,9 @@
 	"summary": "An examination of the cellular and molecular mechanisms underlying development of the nervous system. We will survey recent studies of a variety of model organisms to explore key steps in neuronal development including neural induction, patterning, specification of neuronal identity, axonal guidance, synapse formation, cell death and regeneration. The laboratory will focus on current techniques used to study neuronal development in invertebrate and vertebrate model systems.",
 	"synonym": "35245",
 	"tags": [
-		{
-			"code": "NEURELEC",
-			"name": "NEUR Elective"
-		},
-		{
-			"code": "CGSCELECTIVE",
-			"name": "CGSC Elective"
-		}
+		"NEURELEC",
+		"CGSCELECTIVE"
 	],
-	"title": "Seminar: Developmental Neurobiology"
+	"title": "Seminar: Developmental Neurobiology",
+	"type": "Course"
 }

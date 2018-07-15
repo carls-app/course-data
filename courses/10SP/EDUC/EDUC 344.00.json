@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": "Is adolescence real or invented? How does the American high school affect the nature of American adolescence? How does adolescence affect the characteristics of middle and high schools? In addition to treating the concept historically, this interdisciplinary course focuses on psychological, sociological, and literary views of adolescence in and out of the classroom. We will also analyze how adolescence is represented in popular culture, including television, film, and music.",
 	"synonym": "24674",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Teenage Wasteland: Adolescence and the American High School"
+	"title": "Teenage Wasteland: Adolescence and the American High School",
+	"type": "Course"
 }

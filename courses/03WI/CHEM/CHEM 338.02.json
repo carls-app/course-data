@@ -6,7 +6,7 @@
 	"instructors": [
 		"Steven M Drew"
 	],
-	"number": "338.02",
+	"number": "338",
 	"offerings": {
 		"locations": [
 			"Mudd 268"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 3,
 		"total": 5,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "5955",
 	"tags": [],
-	"title": "Intro-Computers & Electronics"
+	"title": "Intro-Computers & Electronics",
+	"type": "Course"
 }

@@ -7,16 +7,14 @@
 		"Staff",
 		"Linda K Luedke"
 	],
-	"number": "221.00",
+	"number": "221",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -26,5 +24,6 @@
 	"summary": null,
 	"synonym": "22609",
 	"tags": [],
-	"title": "Fencing Club"
+	"title": "Fencing Club",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susannah R Ottaway"
 	],
-	"number": "100.05",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Library 344"
@@ -33,20 +33,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "05",
 	"size": {
 		"registered": 14,
 		"total": 15,
@@ -56,22 +48,11 @@
 	"summary": "The novels of Jane Austen conjure up a world of luxury and leisure, but the social history of her time reveals stark contrasts and rising conflicts among rich and poor. In this age of industrialization, England built a new system of social welfare as it experienced transformations in political, demographic and economic history. We will dwell especially on the ethical implications of social inequality and the intellectual underpinnings of various attempts to combat poverty. This course uses a wide range of sources (novels, diaries, political treatises, etc.) and a plethora of digital tools to explore the lived experience of people at this important juncture of history.",
 	"synonym": "38714",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "SPECINTETHICS",
-			"name": "Studies in Ethics"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCNTRY",
+		"SPECINTSOCTHGHT",
+		"SPECINTETHICS",
+		"HISTERLYMODEUR"
 	],
-	"title": "Poverty and Riches in the Age of Austen"
+	"title": "Poverty and Riches in the Age of Austen",
+	"type": "Course"
 }

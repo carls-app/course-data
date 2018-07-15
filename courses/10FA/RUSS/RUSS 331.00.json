@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane M Nemec Ignashev"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Russian 205 or permission of the instructor",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 15,
@@ -45,14 +40,9 @@
 	"summary": "A survey of Russia's literature of the fantastic, including: saints' lives, fairy tales, and works by writers such as Pushkin, Gogol, Dostoevsky, Leskov, Remizov, Grin, Platonov, A.N. Tolstoy, Kharms, Kataev, Sinyavsky, Pelevin, Petrushevskaia. This course is conducted in Russian.",
 	"synonym": "26472",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		}
+		"EUSTCNTRY",
+		"ENGLFORLIT"
 	],
-	"title": "Russia's Literature of the Uncanny"
+	"title": "Russia's Literature of the Uncanny",
+	"type": "Course"
 }

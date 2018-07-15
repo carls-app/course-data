@@ -8,7 +8,7 @@
 	"instructors": [
 		"Sigi Leonhard"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -28,20 +28,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -51,5 +43,6 @@
 	"summary": "First-year students interested in this program should enroll in this seminar. The course is recommended but not required for the concentration and it will count as one of the electives. From cradle to grave, cultural assumptions shape our own sense of who we are. This course is designed to enable American and international students to compare how their own and other societies view birth, infancy, adolescence, marriage, adulthood, and old age. Using children's books, child-rearing manuals, movies, and ethnographies, we will explore some of the assumptions in different parts of the globe about what it means to \"grow up.\"",
 	"synonym": "40286",
 	"tags": [],
-	"title": "Growing Up Cross-Culturally"
+	"title": "Growing Up Cross-Culturally",
+	"type": "Course"
 }

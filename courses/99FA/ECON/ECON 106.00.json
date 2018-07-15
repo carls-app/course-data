@@ -6,7 +6,7 @@
 	"instructors": [
 		"Martha W Paas"
 	],
-	"number": "106.00",
+	"number": "106",
 	"offerings": {
 		"locations": [
 			"Severance CTR"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "2832",
 	"tags": [],
-	"title": "Breakfast with the Times"
+	"title": "Breakfast with the Times",
+	"type": "Course"
 }

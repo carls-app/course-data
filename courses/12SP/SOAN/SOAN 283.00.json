@@ -6,7 +6,7 @@
 	"instructors": [
 		"Daniel Williams"
 	],
-	"number": "283.00",
+	"number": "283",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"SI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 25,
@@ -50,18 +45,10 @@
 	"summary": "Immigration has always been a defining feature of American society, yet in European countries it has also been raising a number of questions about national identity, citizenship, belonging and rights. Who are contemporary immigrants in the United States and Europe? How are they received in host societies? How do they participate in and become incorporated into the host society? What ties do they maintain to their countries of origin? How do policies respond to and shape immigrants and immigration? In this course, we will consider these questions and more from the perspectives of immigrants as well as host societies.",
 	"synonym": "31382",
 	"tags": [
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		},
-		{
-			"code": "POSI-DSS",
-			"name": "Democracy, Society & State"
-		}
+		"SPECINTSOCTHGHT",
+		"EUSTTRANNATL",
+		"POSI-DSS"
 	],
-	"title": "Immigration and Immigrants in Europe and the United States"
+	"title": "Immigration and Immigrants in Europe and the United States",
+	"type": "Course"
 }

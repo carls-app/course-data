@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "157.00",
+	"number": "157",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -29,6 +29,7 @@
 		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 20,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "2309",
 	"tags": [],
-	"title": "Int/Adv Modern Dance Technique"
+	"title": "Int/Adv Modern Dance Technique",
+	"type": "Course"
 }

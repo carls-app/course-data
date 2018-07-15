@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Geology 250; Concurrent registration in Geology 255L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"LS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 24,
@@ -48,5 +46,6 @@
 	"summary": "An introduction to the fundamental physical, chemical and tectonic principles that are relevant to the formation of igneous and metamorphic rocks. Labs emphasize description and interpretation of the origin of rocks based on hand specimen and thin section study. Field trips and laboratories are included.",
 	"synonym": "32548",
 	"tags": [],
-	"title": "Petrology"
+	"title": "Petrology",
+	"type": "Course"
 }

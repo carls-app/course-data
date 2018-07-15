@@ -6,11 +6,12 @@
 	"instructors": [
 		"Cherif Keïta"
 	],
-	"number": "352.07",
+	"number": "352",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 1,
 		"total": 1,
@@ -20,34 +21,14 @@
 	"summary": null,
 	"synonym": "19825",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"ENGLFORLIT",
+		"LITFORLANG",
+		"FRSTLANGLIT",
+		"EUSTCNTRY",
+		"FRSTELECAL",
+		"FRSTSUPP",
+		"ENGLLOE"
 	],
-	"title": "Literature and Society in Mali"
+	"title": "Literature and Society in Mali",
+	"type": "Course"
 }

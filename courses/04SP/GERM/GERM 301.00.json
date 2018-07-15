@@ -6,7 +6,7 @@
 	"instructors": [
 		"Beret L Norman"
 	],
-	"number": "301.00",
+	"number": "301",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -31,5 +32,6 @@
 	"summary": null,
 	"synonym": "7696",
 	"tags": [],
-	"title": "Coffee and the News"
+	"title": "Coffee and the News",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Robert E Bonner"
 	],
-	"number": "400.00",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 17,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2205",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kimberly K Smith"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "775",
 	"tags": [],
-	"title": "American Constitutional Law II"
+	"title": "American Constitutional Law II",
+	"type": "Course"
 }

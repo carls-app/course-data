@@ -8,7 +8,7 @@
 	"instructors": [
 		"Steve Parker"
 	],
-	"number": "142.00",
+	"number": "142",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 24,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "17722",
 	"tags": [],
-	"title": "Matter and Interactions"
+	"title": "Matter and Interactions",
+	"type": "Course"
 }

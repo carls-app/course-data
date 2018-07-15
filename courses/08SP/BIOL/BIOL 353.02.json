@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "353.02",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Hulings 115"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 13,
 		"total": 10,
@@ -33,14 +34,9 @@
 	"summary": null,
 	"synonym": "19997",
 	"tags": [
-		{
-			"code": "ENTSSCI",
-			"name": "ENTS Environ Sci"
-		},
-		{
-			"code": "ENTSLAB",
-			"name": "ENTS Lab Course"
-		}
+		"ENTSSCI",
+		"ENTSLAB"
 	],
-	"title": "Population Ecology Laboratory"
+	"title": "Population Ecology Laboratory",
+	"type": "Course"
 }

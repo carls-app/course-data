@@ -8,16 +8,14 @@
 	"instructors": [
 		"Dave Ricks"
 	],
-	"number": "286.00",
+	"number": "286",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 44,
 		"total": 60,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "28470",
 	"tags": [],
-	"title": "Track and Field/Indoor Intercollegiate, Men"
+	"title": "Track and Field/Indoor Intercollegiate, Men",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Cameron Davidson"
 	],
-	"number": "250.00",
+	"number": "250",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: One introductory (100-level) Geology course, or Chemistry 123 or 128.; GEOL 250L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 24,
@@ -52,5 +47,6 @@
 	"summary": "The study of the chemical and physical properties of minerals, their geologic occurrence and associations. Topics include crystallography, crystal chemistry, x-ray analysis, phase equilibria, classification, optical mineralogy, and environments of formation. Laboratories are included.",
 	"synonym": "28651",
 	"tags": [],
-	"title": "Mineralogy"
+	"title": "Mineralogy",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Meera Sehgal"
 	],
-	"number": "205.00",
+	"number": "205",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "15965",
 	"tags": [
-		{
-			"code": "WGSTCORE",
-			"name": "WGST Core Course"
-		}
+		"WGSTCORE"
 	],
-	"title": "Politics of Women's Health"
+	"title": "Politics of Women's Health",
+	"type": "Course"
 }

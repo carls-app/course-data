@@ -6,7 +6,7 @@
 	"instructors": [
 		"Linda K Luedke"
 	],
-	"number": "125.00",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -41,5 +39,6 @@
 	"summary": "Folk dance includes a variety of dances of varying intricacy from around the world. No experience necessary.",
 	"synonym": "28426",
 	"tags": [],
-	"title": "Folk Dance"
+	"title": "Folk Dance",
+	"type": "Course"
 }

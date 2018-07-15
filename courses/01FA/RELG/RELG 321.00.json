@@ -6,7 +6,7 @@
 	"instructors": [
 		"Richard E Crouter"
 	],
-	"number": "321.00",
+	"number": "321",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 15,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "919",
 	"tags": [],
-	"title": "Kierkegaard"
+	"title": "Kierkegaard",
+	"type": "Course"
 }

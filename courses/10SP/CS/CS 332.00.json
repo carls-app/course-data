@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "332.00",
+	"number": "332",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Computer Science 208 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": "The thing that we call a computer is actually a complex collection of interacting devices. To ensure that these devices work together effectively without excessive human intervention, people have developed operating systems software that coordinates the behavior of the devices and gives programmers ways to control those devices. This course will address the fundamental problems that operating systems need to solve, including those concerned with process management, file organization, memory management, and input/output control. We will also study the structure of the Linux operating system.",
 	"synonym": "22921",
 	"tags": [],
-	"title": "Operating Systems"
+	"title": "Operating Systems",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "162.00",
+	"number": "162",
 	"offerings": {
 		"locations": [
 			"Willis 203"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 27,
 		"total": 30,
@@ -41,10 +42,8 @@
 	"summary": "This course introduces students to the diverse literature and theologies of the New Testament and to the origins and social worlds of early Christian movements. Possible topics include: Jesus and his message; Paul and women's spiritual authority; non-canonical gospels (Mary, Thomas, Judas, etc.); relations between Christians and Jews in the first century; and more. Attention is given to the interpretation of New Testament texts in their historical settings, and to the various ways contemporary scholars and groups interpret the New Testament as a source for theological reflection.",
 	"synonym": "24875",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		}
+		"MARSCORE"
 	],
-	"title": "Jesus, Paul, and Christian Origins (New Testament)"
+	"title": "Jesus, Paul, and Christian Origins (New Testament)",
+	"type": "Course"
 }

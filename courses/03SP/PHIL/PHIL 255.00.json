@@ -8,7 +8,7 @@
 	"instructors": [
 		"Stephen F Kennedy"
 	],
-	"number": "255.00",
+	"number": "255",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "3758",
 	"tags": [],
-	"title": "Philosophy of Mathematics"
+	"title": "Philosophy of Mathematics",
+	"type": "Course"
 }

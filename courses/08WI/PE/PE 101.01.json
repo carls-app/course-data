@@ -7,7 +7,7 @@
 		"Michelle Levi",
 		"Linda K Luedke"
 	],
-	"number": "101.01",
+	"number": "101",
 	"offerings": {
 		"locations": [
 			"Recreation Center 116"
@@ -27,12 +27,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 20,
@@ -42,5 +40,6 @@
 	"summary": null,
 	"synonym": "18845",
 	"tags": [],
-	"title": "Aerobics"
+	"title": "Aerobics",
+	"type": "Course"
 }

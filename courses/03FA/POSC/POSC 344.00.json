@@ -8,7 +8,7 @@
 	"instructors": [
 		"Roy Grow"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 15,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "7449",
 	"tags": [
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSCELECTIVE",
-			"name": "Polisci Elective"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		}
+		"POSISECFRGNPOL",
+		"POSCELECTIVE",
+		"POSIELECTIVE"
 	],
-	"title": "America's War-Int'l Terrorism"
+	"title": "America's War-Int'l Terrorism",
+	"type": "Course"
 }

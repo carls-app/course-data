@@ -8,7 +8,7 @@
 	"instructors": [
 		"Bridget Carpenter"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 15,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2482",
 	"tags": [],
-	"title": "Playwriting"
+	"title": "Playwriting",
+	"type": "Course"
 }

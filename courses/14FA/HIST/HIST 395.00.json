@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -49,5 +41,6 @@
 	"summary": "This research seminar will investigate the phenomenon of nationhood through history. In the first half of the course, students will be introduced to the recent literature on nationhood and nationalism. They will read both theoretical and historical works. In the second half, they will prepare and present research papers using primary sources.",
 	"synonym": "38726",
 	"tags": [],
-	"title": "Nations and Nationhood"
+	"title": "Nations and Nationhood",
+	"type": "Course"
 }

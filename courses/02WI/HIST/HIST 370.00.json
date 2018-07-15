@@ -9,7 +9,7 @@
 	"instructors": [
 		"John G Ramsay"
 	],
-	"number": "370.00",
+	"number": "370",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 104"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 20,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "2635",
 	"tags": [
-		{
-			"code": "HISTUS",
-			"name": "HIST US History"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"HISTUS",
+		"AMSTTOPICAL3"
 	],
-	"title": "Hist of African American Educ"
+	"title": "Hist of African American Educ",
+	"type": "Course"
 }

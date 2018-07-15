@@ -6,7 +6,7 @@
 	"instructors": [
 		"Pierre Hecker"
 	],
-	"number": "310.00",
+	"number": "310",
 	"offerings": {
 		"locations": [
 			"Laird 206"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: One English Foundations course and English 144 or 244",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 20,
@@ -45,38 +40,15 @@
 	"summary": "Continuing the work begun in",
 	"synonym": "32635",
 	"tags": [
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "THEAPERT",
-			"name": "THEA Pertinent Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		},
-		{
-			"code": "ENGLHE1",
-			"name": "ENGL Hist Era 1"
-		},
-		{
-			"code": "ENGLT1",
-			"name": "ENGL Tradition 1"
-		},
-		{
-			"code": "SPECINTBOOKSTD",
-			"name": "Book Studies"
-		}
+		"LITFORLANG",
+		"MARSCORE",
+		"EUSTCNTRY",
+		"THEAPERT",
+		"MARSSUPP",
+		"ENGLHE1",
+		"ENGLT1",
+		"SPECINTBOOKSTD"
 	],
-	"title": "Shakespeare II"
+	"title": "Shakespeare II",
+	"type": "Course"
 }

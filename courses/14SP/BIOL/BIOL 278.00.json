@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Biology 125 and 126, Chemistry 123 or 128.",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 41,
 		"total": 40,
@@ -48,5 +46,6 @@
 	"summary": null,
 	"synonym": "35270",
 	"tags": [],
-	"title": "Introduction to Biochemistry"
+	"title": "Introduction to Biochemistry",
+	"type": "Course"
 }

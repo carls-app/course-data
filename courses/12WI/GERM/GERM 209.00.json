@@ -6,11 +6,12 @@
 	"instructors": [
 		"Roger Paas"
 	],
-	"number": "209.00",
+	"number": "209",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 1,
 		"total": 10,
@@ -20,5 +21,6 @@
 	"summary": null,
 	"synonym": "29960",
 	"tags": [],
-	"title": "Reading German"
+	"title": "Reading German",
+	"type": "Course"
 }

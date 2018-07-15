@@ -8,7 +8,7 @@
 	"instructors": [
 		"Joe Lucchesi"
 	],
-	"number": "246.00",
+	"number": "246",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "2106",
 	"tags": [],
-	"title": "Dada and Surrealism"
+	"title": "Dada and Surrealism",
+	"type": "Course"
 }

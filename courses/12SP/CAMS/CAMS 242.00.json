@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ronald Rodman"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Weitz Center 133"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Music reading and/or knowledge of musical recording software helpful but not required.",
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 25,
@@ -41,18 +39,10 @@
 	"summary": "This course covers the theory and production of sound and music in radio, electronic soundscapes, electroacoustic music, and film and video. The course will focus on the aesthetics, theory and practice of sound in these media. Students will create sound artworks in a laboratory component, using Protools and other sound engineering software. Students will produce several audio projects, including a podcast of a radio show, an electronic musique concrete or sound art piece, and a musical accompaniment to a short film or video using pre-existing music. Music reading and/or knowledge of musical recording software helpful but not required.",
 	"synonym": "29679",
 	"tags": [
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		},
-		{
-			"code": "CAMSELECPROD",
-			"name": "CAMS Elective Production"
-		},
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		}
+		"CAMSELECTIVE",
+		"CAMSELECPROD",
+		"AMMUGROUP2"
 	],
-	"title": "Sound and Music in New Media"
+	"title": "Sound and Music in New Media",
+	"type": "Course"
 }

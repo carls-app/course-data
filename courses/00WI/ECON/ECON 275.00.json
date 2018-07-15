@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jenny Bourne"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"tags": [
 		"AMSTTOPICAL3"
 	],
-	"title": "Law and Economics"
+	"title": "Law and Economics",
+	"type": "Course"
 }

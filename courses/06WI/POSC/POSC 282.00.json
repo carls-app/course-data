@@ -6,7 +6,7 @@
 	"instructors": [
 		"Karen M Wright"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "14240",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Sex, Society and Justice"
+	"title": "Sex, Society and Justice",
+	"type": "Course"
 }

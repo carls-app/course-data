@@ -6,7 +6,7 @@
 	"instructors": [
 		"Alison M Kettering"
 	],
-	"number": "223.00",
+	"number": "223",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Any one term of art history",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"LA",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "The study of art about and produced by women in the west from the Renaissance to the present. Attention to the ways gender identity is constructed in the arts, the conditions under which women have worked, the ideologies and institutions that have shaped their relationships to the arts, the feminist critique of the discipline of art history.",
 	"synonym": "25502",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"WGSTADDL",
+		"EUSTTRANNATL"
 	],
-	"title": "Women in Art"
+	"title": "Women in Art",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "169.00",
+	"number": "169",
 	"offerings": {
 		"locations": [
 			"Location To Be Announced TBA"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 40,
@@ -43,5 +41,6 @@
 	"summary": null,
 	"synonym": "3385",
 	"tags": [],
-	"title": "Social Dance - Winter Ball"
+	"title": "Social Dance - Winter Ball",
+	"type": "Course"
 }

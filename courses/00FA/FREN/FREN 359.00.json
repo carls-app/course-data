@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dana Strand"
 	],
-	"number": "359.00",
+	"number": "359",
 	"offerings": {
 		"locations": [
 			"Laird 204"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 20,
@@ -47,5 +48,6 @@
 		"LITFORLANG",
 		"FRSTLANGLIT"
 	],
-	"title": "20thC Lit:The Novel & Memory"
+	"title": "20thC Lit:The Novel & Memory",
+	"type": "Course"
 }

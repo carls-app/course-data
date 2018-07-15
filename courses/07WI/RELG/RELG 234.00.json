@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "15753",
 	"tags": [],
-	"title": "Job and Ecclesiastes"
+	"title": "Job and Ecclesiastes",
+	"type": "Course"
 }

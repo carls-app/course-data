@@ -8,7 +8,7 @@
 	"instructors": [
 		"Elizabeth A Perez"
 	],
-	"number": "285.00",
+	"number": "285",
 	"offerings": {
 		"locations": [
 			"CMC 210"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 17,
 		"total": 25,
@@ -38,10 +39,8 @@
 	"summary": null,
 	"synonym": "24969",
 	"tags": [
-		{
-			"code": "LTAMCOMPUS",
-			"name": "LTAM Comparative and/or US"
-		}
+		"LTAMCOMPUS"
 	],
-	"title": "Goddesses"
+	"title": "Goddesses",
+	"type": "Course"
 }

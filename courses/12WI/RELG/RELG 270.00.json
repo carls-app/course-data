@@ -6,7 +6,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "270.00",
+	"number": "270",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"HI",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -50,22 +45,11 @@
 	"summary": "A study of classic issues in the philosophy of religion and philosophical theology. Possible topics include: the existence and nature of God; the status and nature of religious experience; the problem of evil; the meaning of faith, belief, and truth; definitions of the self and salvation; and the significance of religious pluralism for claims about truth and God. Readings are drawn from the work of modern and contemporary philosophers and theologians. Prerequisites: Previous work in religion or philosophy will be helpful but is not required.",
 	"synonym": "30456",
 	"tags": [
-		{
-			"code": "PHILPERT",
-			"name": "Philosophy Pertinent Courses"
-		},
-		{
-			"code": "RELGJEWISHTRAD",
-			"name": "RELG Jewish Traditions"
-		},
-		{
-			"code": "RELGCHRISTNTRAD",
-			"name": "RELG Christian Traditions"
-		},
-		{
-			"code": "RELGTHTHGHTPHIL",
-			"name": "RELG Theme Thght & Phil"
-		}
+		"PHILPERT",
+		"RELGJEWISHTRAD",
+		"RELGCHRISTNTRAD",
+		"RELGTHTHGHTPHIL"
 	],
-	"title": "Philosophy of Religion"
+	"title": "Philosophy of Religion",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Louis E Newman"
 	],
-	"number": "271.00",
+	"number": "271",
 	"offerings": {
 		"locations": [
 			"Leighton 303"
@@ -28,12 +28,10 @@
 	},
 	"prerequisites": "Prerequisite: Permission of the instructor required.",
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		}
+		"HI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 0,
@@ -43,14 +41,9 @@
 	"summary": "This course explores the profound theological and moral issues raised by the Nazi policy of systematic genocide. Attention will be given to a wide range of issues, including Jewish and Christian responses to these events, collaboration with the perpetrators, spiritual resistance, whether there are \"unforgivable\" crimes, and the use of scientific data from experiments on concentration camp inmates.",
 	"synonym": "27581",
 	"tags": [
-		{
-			"code": "JDSTPERT",
-			"name": "Judiac Studies Pertinent"
-		},
-		{
-			"code": "CCSTETHNIC",
-			"name": "CCST Ethnic Diversity/Diaspora"
-		}
+		"JDSTPERT",
+		"CCSTETHNIC"
 	],
-	"title": "Religious and Moral Issues of the Holocaust"
+	"title": "Religious and Moral Issues of the Holocaust",
+	"type": "Course"
 }

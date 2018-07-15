@@ -6,7 +6,7 @@
 	"instructors": [
 		"Tammy R Feldman"
 	],
-	"number": "278.00",
+	"number": "278",
 	"offerings": {
 		"locations": [
 			"Willis 204"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 25,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "2954",
 	"tags": [],
-	"title": "Industrial Org&Pricing Policy"
+	"title": "Industrial Org&Pricing Policy",
+	"type": "Course"
 }

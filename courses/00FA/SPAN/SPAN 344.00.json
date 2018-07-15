@@ -8,7 +8,7 @@
 	"instructors": [
 		"Becky Boling"
 	],
-	"number": "344.00",
+	"number": "344",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 20,
@@ -49,5 +50,6 @@
 		"LTAMLIT",
 		"WGSTADDL"
 	],
-	"title": "Women Writers in Latin Amer"
+	"title": "Women Writers in Latin Amer",
+	"type": "Course"
 }

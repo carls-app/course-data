@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jennifer Bader"
 	],
-	"number": "107.00",
+	"number": "107",
 	"offerings": {
 		"locations": [
 			"Recreation Center STU"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "18852",
 	"tags": [],
-	"title": "Ballet I"
+	"title": "Ballet I",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Michael T Hemesath"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "9706",
 	"tags": [],
-	"title": "Intermediate Macro Theory"
+	"title": "Intermediate Macro Theory",
+	"type": "Course"
 }

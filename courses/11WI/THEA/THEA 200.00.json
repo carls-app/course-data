@@ -8,16 +8,14 @@
 	"instructors": [
 		"David E Wiles"
 	],
-	"number": "200.00",
+	"number": "200",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		}
+		"ARP"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 5,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "28054",
 	"tags": [],
-	"title": "Kabuki"
+	"title": "Kabuki",
+	"type": "Course"
 }

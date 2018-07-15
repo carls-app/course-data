@@ -9,7 +9,7 @@
 	"instructors": [
 		"Clara S Hardy"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 32,
 		"total": 30,
@@ -39,14 +40,9 @@
 	"summary": null,
 	"synonym": "1800",
 	"tags": [
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"ENGLFORLIT",
+		"WGSTADDL"
 	],
-	"title": "Gender & Sexuality Antiquity"
+	"title": "Gender & Sexuality Antiquity",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dale W Jamieson"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Science Annex 112"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -38,22 +39,11 @@
 	"summary": null,
 	"synonym": "1280",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		},
-		{
-			"code": "ENTSINTL",
-			"name": "ENTS International Perspective"
-		},
-		{
-			"code": "ENTSSP",
-			"name": "ENTS Society and Policy"
-		}
+		"AMSTTOPICAL3",
+		"CCSTGLOBAL",
+		"ENTSINTL",
+		"ENTSSP"
 	],
-	"title": "Environmental Justice"
+	"title": "Environmental Justice",
+	"type": "Course"
 }

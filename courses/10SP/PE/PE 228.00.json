@@ -8,16 +8,14 @@
 	"instructors": [
 		"Aaron J Chaput"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEC"
-		}
+		"PEC"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 24,
 		"total": 30,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "23979",
 	"tags": [],
-	"title": "Ultimate Frisbee Club, Syzygy and Eclipse"
+	"title": "Ultimate Frisbee Club, Syzygy and Eclipse",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Akira V Yatsuhashi"
 	],
-	"number": "140.00",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 345",
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -44,14 +45,9 @@
 	"summary": null,
 	"synonym": "24290",
 	"tags": [
-		{
-			"code": "CAMSXDEPT",
-			"name": "CAMS Extra Departmental"
-		},
-		{
-			"code": "CAMSELECTIVE",
-			"name": "CAMS Elective"
-		}
+		"CAMSXDEPT",
+		"CAMSELECTIVE"
 	],
-	"title": "Ancient Text & Modn Cinema"
+	"title": "Ancient Text & Modn Cinema",
+	"type": "Course"
 }

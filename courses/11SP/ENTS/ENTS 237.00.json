@@ -8,7 +8,7 @@
 	"instructors": [
 		"Dan O'Brien"
 	],
-	"number": "237.00",
+	"number": "237",
 	"offerings": {
 		"locations": [
 			"Goodsell 03"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 15,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "28200",
 	"tags": [],
-	"title": "Writing the Great Plains"
+	"title": "Writing the Great Plains",
+	"type": "Course"
 }

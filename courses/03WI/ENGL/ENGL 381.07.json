@@ -8,11 +8,12 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "381.07",
+	"number": "381",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "4026",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"ENGL4",
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "Contemporary British Drama"
+	"title": "Contemporary British Drama",
+	"type": "Course"
 }

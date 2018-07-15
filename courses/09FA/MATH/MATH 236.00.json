@@ -6,7 +6,7 @@
 	"instructors": [
 		"Deanna Haunsperger"
 	],
-	"number": "236.00",
+	"number": "236",
 	"offerings": {
 		"locations": [
 			"CMC 209"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Mathematics 232 or instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": "Basic concepts and techniques used throughout mathematics. Topics include logic, mathematical induction and other methods of proof, problem solving, sets, cardinality, equivalence relations, functions and relations, and the axiom of choice. Other topics may include: algebraic structures, graph theory, and basic combinatorics.",
 	"synonym": "23226",
 	"tags": [],
-	"title": "Mathematical Structures"
+	"title": "Mathematical Structures",
+	"type": "Course"
 }

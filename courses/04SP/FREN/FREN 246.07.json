@@ -9,11 +9,12 @@
 		"",
 		"Cathy Yandell"
 	],
-	"number": "246.07",
+	"number": "246",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -23,22 +24,11 @@
 	"summary": null,
 	"synonym": "7652",
 	"tags": [
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		},
-		{
-			"code": "FRSTELEC",
-			"name": "FRST Elective"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"FRSTELECAL",
+		"FRSTELEC",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY"
 	],
-	"title": "City of Wonders: Paris in Arts"
+	"title": "City of Wonders: Paris in Arts",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie G Landsman"
 	],
-	"number": "225.00",
+	"number": "225",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "11345",
 	"tags": [],
-	"title": "Issues in Urban Education"
+	"title": "Issues in Urban Education",
+	"type": "Course"
 }

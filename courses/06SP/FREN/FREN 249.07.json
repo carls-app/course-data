@@ -8,11 +8,12 @@
 	"instructors": [
 		"Éva S Pósfay"
 	],
-	"number": "249.07",
+	"number": "249",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 7,
 		"total": 25,
@@ -22,26 +23,12 @@
 	"summary": null,
 	"synonym": "13471",
 	"tags": [
-		{
-			"code": "FRSTCULT",
-			"name": "FRST Cultural St major"
-		},
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"FRSTCULT",
+		"FRSTLANGLIT",
+		"FRSTSUPP",
+		"EUSTOFFCAMP",
+		"EUSTTRANNATL"
 	],
-	"title": "Topics: Visions of Paris"
+	"title": "Topics: Visions of Paris",
+	"type": "Course"
 }

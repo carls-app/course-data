@@ -8,7 +8,7 @@
 	"instructors": [
 		"Kassie Martin-Wells"
 	],
-	"number": "153.00",
+	"number": "153",
 	"offerings": {
 		"locations": [
 			"Olin 141"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 131, 132, 141 or 142 and Mathematics 111; Concurrent registration in Physics 153L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 35,
 		"total": 36,
@@ -52,5 +47,6 @@
 	"summary": "A study of the properties of fluids (both static and dynamic) and the principles of waves and wave motion (including both sound and light). Topics include simple harmonic motion, buoyancy and Archimedes' principle, Bernoulli's equation, viscosity, Poiseuille's equation, standing waves, musical instruments, and the Doppler effect. One laboratory per week.",
 	"synonym": "33573",
 	"tags": [],
-	"title": "Fluid and Waves"
+	"title": "Fluid and Waves",
+	"type": "Course"
 }

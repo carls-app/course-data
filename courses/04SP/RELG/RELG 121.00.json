@@ -8,7 +8,7 @@
 	"instructors": [
 		"Lori K Pearson"
 	],
-	"number": "121.00",
+	"number": "121",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 31,
 		"total": 30,
@@ -43,10 +44,8 @@
 	"summary": null,
 	"synonym": "7592",
 	"tags": [
-		{
-			"code": "CCSTGLOBAL",
-			"name": "CCST Global"
-		}
+		"CCSTGLOBAL"
 	],
-	"title": "Introduction to Christianity"
+	"title": "Introduction to Christianity",
+	"type": "Course"
 }

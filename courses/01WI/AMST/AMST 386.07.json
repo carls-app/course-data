@@ -9,11 +9,12 @@
 	"instructors": [
 		"Michael J Kowalewski"
 	],
-	"number": "386.07",
+	"number": "386",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 23,
 		"total": 25,
@@ -23,14 +24,9 @@
 	"summary": null,
 	"synonym": "1657",
 	"tags": [
-		{
-			"code": "ENGL4",
-			"name": "ENGL Group IV"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"ENGL4",
+		"AMSTTOPICAL1"
 	],
-	"title": "Literature of California"
+	"title": "Literature of California",
+	"type": "Course"
 }

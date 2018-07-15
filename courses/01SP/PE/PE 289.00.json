@@ -8,16 +8,14 @@
 	"instructors": [
 		"Staff"
 	],
-	"number": "289.00",
+	"number": "289",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PEI"
-		}
+		"PEI"
 	],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 40,
@@ -27,5 +25,6 @@
 	"summary": null,
 	"synonym": "1036",
 	"tags": [],
-	"title": "Outdoor Track Intercollegiate"
+	"title": "Outdoor Track Intercollegiate",
+	"type": "Course"
 }

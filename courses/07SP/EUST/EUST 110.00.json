@@ -6,7 +6,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 253"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 20,
@@ -36,26 +37,12 @@
 	"summary": null,
 	"synonym": "15974",
 	"tags": [
-		{
-			"code": "EUSTCORE",
-			"name": "EUST Core Course"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		},
-		{
-			"code": "SPECINTSOCTHGHT",
-			"name": "Social Thought"
-		},
-		{
-			"code": "HISTANCNT/MDVL",
-			"name": "HIST Ancient & Medvl"
-		},
-		{
-			"code": "HISTERLYMODEUR",
-			"name": "HIST Early Mdrn Europe"
-		}
+		"EUSTCORE",
+		"POSI-AREAS",
+		"SPECINTSOCTHGHT",
+		"HISTANCNT/MDVL",
+		"HISTERLYMODEUR"
 	],
-	"title": "Intro to European Studies"
+	"title": "Intro to European Studies",
+	"type": "Course"
 }

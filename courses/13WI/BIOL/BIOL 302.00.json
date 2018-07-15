@@ -6,7 +6,7 @@
 	"instructors": [
 		"Debby R Walser-Kuntz"
 	],
-	"number": "302.00",
+	"number": "302",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Instructor Permission",
 	"requirements": [
-		{
-			"code": "SI",
-			"name": "Social Inquiry"
-		}
+		"SI"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 10,
 		"total": 20,
@@ -41,10 +39,8 @@
 	"summary": "This course will explore teaching methods for the life and physical sciences in grades 5-12. Curricular materials and active learning labs will be discussed and developed. In addition, time outside of class will be spent observing and teaching in local science classrooms. Will not count toward a biology major.",
 	"synonym": "32900",
 	"tags": [
-		{
-			"code": "EDUCPERT",
-			"name": "Educational Studies Pertinent"
-		}
+		"EDUCPERT"
 	],
-	"title": "Methods of Teaching Science"
+	"title": "Methods of Teaching Science",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Aisha E Sloan"
 	],
-	"number": "276.00",
+	"number": "276",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "ARP",
-			"name": "Arts Practice"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		}
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 15,
@@ -50,5 +45,6 @@
 	"summary": "In this creative writing class, we will look at the work of essayists like Maggie Nelson (",
 	"synonym": "37911",
 	"tags": [],
-	"title": "The Art of Research: Weaving the Personal Essay"
+	"title": "The Art of Research: Weaving the Personal Essay",
+	"type": "Course"
 }

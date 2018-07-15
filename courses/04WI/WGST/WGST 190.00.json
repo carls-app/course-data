@@ -9,7 +9,7 @@
 	"instructors": [
 		"Tiffany L Kershner"
 	],
-	"number": "190.00",
+	"number": "190",
 	"offerings": {
 		"locations": [
 			"Goodsell 3"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "8905",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Language and Gender"
+	"title": "Language and Gender",
+	"type": "Course"
 }

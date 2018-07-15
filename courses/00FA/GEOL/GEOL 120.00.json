@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "120.00",
+	"number": "120",
 	"offerings": {
 		"locations": [
 			"Mudd 66"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 28,
 		"total": 30,
@@ -41,5 +42,6 @@
 		"ENTSINTRO",
 		"ENTSLAB"
 	],
-	"title": "Environmental Geology"
+	"title": "Environmental Geology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine A Reinke"
 	],
-	"number": "125L.52",
+	"number": "125L",
 	"offerings": {
 		"locations": [
 			"Hulings 203"
@@ -22,6 +22,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "52",
 	"size": {
 		"registered": 21,
 		"total": 22,
@@ -31,10 +32,8 @@
 	"summary": null,
 	"synonym": "9344",
 	"tags": [
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"NEURCORE"
 	],
-	"title": "Genes, Evol & Devlp Lab"
+	"title": "Genes, Evol & Devlp Lab",
+	"type": "Lab"
 }

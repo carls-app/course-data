@@ -8,7 +8,7 @@
 	"instructors": [
 		"Julie Klassen"
 	],
-	"number": "102.02",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Leighton 410"
@@ -44,6 +44,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -53,5 +54,6 @@
 	"summary": null,
 	"synonym": "2693",
 	"tags": [],
-	"title": "Elementary German"
+	"title": "Elementary German",
+	"type": "Course"
 }

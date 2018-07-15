@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric Wolf"
 	],
-	"number": "110.01",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Leighton 330"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 19,
 		"total": 30,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "16446",
 	"tags": [],
-	"title": "Global Problems"
+	"title": "Global Problems",
+	"type": "Course"
 }

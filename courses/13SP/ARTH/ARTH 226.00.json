@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine E Walden"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": "Prerequisite: Any art history course",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 14,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "This course focuses on a selection of high-profile French and English churches built in the Gothic period: the Sainte-Chapelle, Reims Cathedral, and Westminster Abbey. Each commission brought together the finest artists working in a variety of media. We will examine architectural developments of the period, and related arts such as stained glass, sculpture, tombs, shrines, and illuminated manuscripts. More broadly, these works provide a lens through which to consider social, religious, and political issues, especially the cult of saints, the Crusades, and the growing powers of the French and English monarchies.",
 	"synonym": "33932",
 	"tags": [
-		{
-			"code": "MARSCORE",
-			"name": "MARS Core Course"
-		},
-		{
-			"code": "MARSSUPP",
-			"name": "MARS Supporting"
-		}
+		"MARSCORE",
+		"MARSSUPP"
 	],
-	"title": "The Gothic Cathedral"
+	"title": "The Gothic Cathedral",
+	"type": "Course"
 }

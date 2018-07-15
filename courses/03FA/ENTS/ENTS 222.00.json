@@ -9,7 +9,7 @@
 	"instructors": [
 		"Philip Camill"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Hulings 106"
@@ -25,6 +25,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 24,
@@ -34,5 +35,6 @@
 	"summary": null,
 	"synonym": "6470",
 	"tags": [],
-	"title": "Ecosystems Lab"
+	"title": "Ecosystems Lab",
+	"type": "Course"
 }

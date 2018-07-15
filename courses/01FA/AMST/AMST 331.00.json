@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sarah A Wadsworth"
 	],
-	"number": "331.00",
+	"number": "331",
 	"offerings": {
 		"locations": [
 			"Laird 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 18,
 		"total": 24,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "2804",
 	"tags": [],
-	"title": "Banned&Burned Controvsl Texts"
+	"title": "Banned&Burned Controvsl Texts",
+	"type": "Course"
 }

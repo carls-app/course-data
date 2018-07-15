@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bill Titus"
 	],
-	"number": "234.00",
+	"number": "234",
 	"offerings": {
 		"locations": [
 			"Olin 302"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": "Prerequisite: Physics 131, 132, 141, or 142, or instructor permission",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -45,5 +40,6 @@
 	"summary": "The development of techniques to study complex physical systems from a probabilistic and numerical standpoint using",
 	"synonym": "28766",
 	"tags": [],
-	"title": "Computer Simulations in Complex Physical Systems"
+	"title": "Computer Simulations in Complex Physical Systems",
+	"type": "Course"
 }

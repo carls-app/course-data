@@ -9,7 +9,7 @@
 	"instructors": [
 		"Sharon A Navarro"
 	],
-	"number": "222.00",
+	"number": "222",
 	"offerings": {
 		"locations": [
 			"Willis 211"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 22,
 		"total": 25,
@@ -39,10 +40,8 @@
 	"summary": null,
 	"synonym": "2179",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		}
+		"AMSTTOPICAL3"
 	],
-	"title": "Intro to Latino/a Politics"
+	"title": "Intro to Latino/a Politics",
+	"type": "Course"
 }

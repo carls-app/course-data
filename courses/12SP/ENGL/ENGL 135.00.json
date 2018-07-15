@@ -6,7 +6,7 @@
 	"instructors": [
 		"Arnab Chakladar"
 	],
-	"number": "135.00",
+	"number": "135",
 	"offerings": {
 		"locations": [
 			"Laird 212"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"WR2",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 25,
@@ -54,10 +46,8 @@
 	"summary": "Indiana Jones has a pedigree. In this class we will encounter some of his ancestors in stories, novels and comic books from the early decades of the twentieth century. The wilds of Afghanistan, the African forest, a prehistoric world in Patagonia, the opium dens of mysterious exotic London--these will be but some of our stops as we examine the structure and ideology and lasting legacy of the imperial adventure tale. Authors we will read include Arthur Conan Doyle, Edgar Rice Burroughs, Rudyard Kipling and H. Rider Haggard.",
 	"synonym": "30060",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Imperial Adventures"
+	"title": "Imperial Adventures",
+	"type": "Course"
 }

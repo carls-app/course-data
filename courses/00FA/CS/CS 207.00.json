@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jeffrey R Ondich"
 	],
-	"number": "207.00",
+	"number": "207",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 19,
 		"total": 28,
@@ -41,5 +42,6 @@
 	"summary": null,
 	"synonym": "1246",
 	"tags": [],
-	"title": "Computer Organztn & Architect"
+	"title": "Computer Organztn & Architect",
+	"type": "Course"
 }

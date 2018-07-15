@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ruth Weiner"
 	],
-	"number": "211.00",
+	"number": "211",
 	"offerings": {
 		"locations": [
 			"Nourse Theater THEA"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Theater Arts 110 or consent of the instructor.",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 14,
@@ -36,5 +37,6 @@
 	"summary": "Continuation of Theater Arts 110. Focus is on specific problems encountered by all actors in performance, especially in stage movements, vocal range and flexibility, and details of characterization.",
 	"synonym": "24100",
 	"tags": [],
-	"title": "Intermediate Acting"
+	"title": "Intermediate Acting",
+	"type": "Course"
 }

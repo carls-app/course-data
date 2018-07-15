@@ -8,11 +8,12 @@
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "247.07",
+	"number": "247",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 19,
 		"total": 25,
@@ -22,18 +23,10 @@
 	"summary": null,
 	"synonym": "17655",
 	"tags": [
-		{
-			"code": "PENINLIT",
-			"name": "Peninsular Literature"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		},
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		}
+		"PENINLIT",
+		"EUSTOFFCAMP",
+		"EUSTCNTRY"
 	],
-	"title": "Span Art-El Greco to Picasso"
+	"title": "Span Art-El Greco to Picasso",
+	"type": "Course"
 }

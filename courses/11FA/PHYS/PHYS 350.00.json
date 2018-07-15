@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jay D Tasson"
 	],
-	"number": "350.00",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 16,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "28770",
 	"tags": [],
-	"title": "Advanced Classical Mechanics"
+	"title": "Advanced Classical Mechanics",
+	"type": "Course"
 }

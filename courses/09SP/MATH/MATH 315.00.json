@@ -8,7 +8,7 @@
 	"instructors": [
 		"Laura M Chihara"
 	],
-	"number": "315.00",
+	"number": "315",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 3,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "22172",
 	"tags": [],
-	"title": "Probability and Statistics"
+	"title": "Probability and Statistics",
+	"type": "Course"
 }

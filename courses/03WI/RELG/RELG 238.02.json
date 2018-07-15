@@ -8,7 +8,7 @@
 	"instructors": [
 		"William L North"
 	],
-	"number": "238.02",
+	"number": "238",
 	"offerings": {
 		"locations": [
 			"Laird 205"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 20,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "6227",
 	"tags": [
-		{
-			"code": "HISTEUR1450",
-			"name": "HIST Europe to 1450"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		}
+		"HISTEUR1450",
+		"CCSTREGIONAL"
 	],
-	"title": "Papacy, Church and Empire"
+	"title": "Papacy, Church and Empire",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"David Lefkowitz"
 	],
-	"number": "360.00",
+	"number": "360",
 	"offerings": {
 		"locations": [
 			"Boliou 162"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 8,
 		"total": 0,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22146",
 	"tags": [],
-	"title": "Advanced Painting & Drawing"
+	"title": "Advanced Painting & Drawing",
+	"type": "Course"
 }

@@ -8,7 +8,7 @@
 	"instructors": [
 		"David G Alberg"
 	],
-	"number": "233.00",
+	"number": "233",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 233L; CHEM 233L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 39,
 		"total": 44,
@@ -52,10 +47,8 @@
 	"summary": "Theoretical aspects of carbon chemistry are examined with reference to structure-reactivity relationships, functional groups, stereochemistry, reaction mechanisms and spectroscopy. Laboratory work concentrates on modern techniques of organic chemistry, inquiry-based projects, and spectroscopic analysis. One laboratory per week.",
 	"synonym": "25620",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		}
+		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I"
+	"title": "Organic Chemistry I",
+	"type": "Course"
 }

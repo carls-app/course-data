@@ -9,7 +9,7 @@
 	"instructors": [
 		"Roger R Jackson"
 	],
-	"number": "275.00",
+	"number": "275",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 25,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "3760",
 	"tags": [],
-	"title": "Indian Philosophy"
+	"title": "Indian Philosophy",
+	"type": "Course"
 }

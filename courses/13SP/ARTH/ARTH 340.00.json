@@ -6,7 +6,7 @@
 	"instructors": [
 		"Ross K Elfline"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": "Prerequisite: Two Art History courses",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		}
+		"LA"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 15,
@@ -41,10 +39,8 @@
 	"summary": "In this discussion-based seminar, students will look closely at a series of key texts that have come to epitomize the historical rupture between modernism and postmodernism in visual culture. As \"postmodernism\" refers neither to a cohesive movement, nor to a specific style, we will investigate the web of various theories and political positions that represent a fundamental re-thinking of modernism's aims. Specifically, we will consider the following themes as they relate to cultural practices from the 1960s to the present day: deconstruction, the death of authorship, post-feminism, simulation, post-colonialism and globalization.",
 	"synonym": "31914",
 	"tags": [
-		{
-			"code": "EUSTTRANNATL",
-			"name": "EUST transnatl supporting crs"
-		}
+		"EUSTTRANNATL"
 	],
-	"title": "Theories of Postmodernism"
+	"title": "Theories of Postmodernism",
+	"type": "Course"
 }

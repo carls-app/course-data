@@ -8,7 +8,7 @@
 	"instructors": [
 		"Silvia López"
 	],
-	"number": "242.00",
+	"number": "242",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Spanish 204 or proficiency",
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"LA",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 15,
 		"total": 20,
@@ -52,34 +47,14 @@
 	"summary": "An introductory course to reading major texts in Spanish provides an historical survey of the literary movements within Latin American literature from the pre-Hispanic to the contemporary period. Recommended as a foundation course for further study. Not open to seniors.",
 	"synonym": "26644",
 	"tags": [
-		{
-			"code": "LTAMLIT",
-			"name": "Latin Americal Literature"
-		},
-		{
-			"code": "ENGLFORLIT",
-			"name": "ENGL Foreign Literature"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "LITFORLANG",
-			"name": "Literature for Languages"
-		},
-		{
-			"code": "LTAMELECTIVE",
-			"name": "LTAM Electives"
-		},
-		{
-			"code": "LTAMPERT",
-			"name": "LTAM Pertinent Courses"
-		},
-		{
-			"code": "ENGLLOE",
-			"name": "ENGL Lit other than Eng"
-		}
+		"LTAMLIT",
+		"ENGLFORLIT",
+		"CCSTREGIONAL",
+		"LITFORLANG",
+		"LTAMELECTIVE",
+		"LTAMPERT",
+		"ENGLLOE"
 	],
-	"title": "Introduction to Latin American Literature"
+	"title": "Introduction to Latin American Literature",
+	"type": "Course"
 }

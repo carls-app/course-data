@@ -8,7 +8,7 @@
 	"instructors": [
 		"Tim Lloyd"
 	],
-	"number": "350.02",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Boliou 44"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 10,
 		"total": 0,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "3701",
 	"tags": [],
-	"title": "Advanced Metals"
+	"title": "Advanced Metals",
+	"type": "Course"
 }

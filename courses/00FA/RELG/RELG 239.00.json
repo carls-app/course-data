@@ -6,7 +6,7 @@
 	"instructors": [
 		"Stephen T Campagna-Pinto"
 	],
-	"number": "239.00",
+	"number": "239",
 	"offerings": {
 		"locations": [
 			"Leighton 304"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"tags": [
 		"AMSTTOPICAL2"
 	],
-	"title": "Religion & American Landscape"
+	"title": "Religion & American Landscape",
+	"type": "Course"
 }

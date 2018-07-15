@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "280.00",
+	"number": "280",
 	"offerings": {
 		"locations": [
 			"Leighton 202"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 9,
 		"total": 15,
@@ -45,18 +40,10 @@
 	"summary": "This course examines African people's existence as religious, political, and military leaders, and as slaves and poets in Arab societies from ancient to modern times. It also interrogates the experiences of men as eunuchs, and of women as concubines and wives. Beginning with the pre-Islamic era, it highlights the movement of Africans from the Sahara Desert to the Nile valley, from the Red Sea to the Indian Ocean. It traces the experiences of peoples whose dark skin became equated with slave status (and the legacy of slavery) even as they became loyal followers of Islam in the Arab world.",
 	"synonym": "26240",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMDISTROHU",
-			"name": "AFAM Distro Humanities"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"HISTAFRDIASPORA",
+		"AFAMDISTROHU",
+		"AFAMHUMANINQ"
 	],
-	"title": "African in the Arab World"
+	"title": "African in the Arab World",
+	"type": "Course"
 }

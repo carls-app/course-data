@@ -6,7 +6,7 @@
 	"instructors": [
 		"Leon Lunder"
 	],
-	"number": "195.02",
+	"number": "195",
 	"offerings": {
 		"locations": [
 			"Recreation Center 113"
@@ -26,12 +26,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "PE"
-		}
+		"PE"
 	],
 	"scnc": true,
+	"section": "02",
 	"size": {
 		"registered": 14,
 		"total": 16,
@@ -41,5 +39,6 @@
 	"summary": "The focus of this course is to assist students with developing a complete conditioning program, including resistance training, running (speed and endurance), agility, stretching (dynamic and static), proper nutrition and appropriate rest intervals. The instructor will assist students in the proper application of specific exercises and drills to maximize effectiveness of their conditioning program.",
 	"synonym": "28455",
 	"tags": [],
-	"title": "Weight Training and Conditioning"
+	"title": "Weight Training and Conditioning",
+	"type": "Course"
 }

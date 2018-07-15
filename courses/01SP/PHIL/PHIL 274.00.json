@@ -6,7 +6,7 @@
 	"instructors": [
 		"Roy Elveton"
 	],
-	"number": "274.00",
+	"number": "274",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "1189",
 	"tags": [],
-	"title": "Continental Philosophy"
+	"title": "Continental Philosophy",
+	"type": "Course"
 }

@@ -9,7 +9,7 @@
 		"David Lefkowitz",
 		"Stephen Mohring"
 	],
-	"number": "298.00",
+	"number": "298",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "00",
 	"size": {
 		"registered": 25,
 		"total": 20,
@@ -39,5 +40,6 @@
 	"summary": null,
 	"synonym": "1472",
 	"tags": [],
-	"title": "Critical Issues in the Arts"
+	"title": "Critical Issues in the Arts",
+	"type": "Course"
 }

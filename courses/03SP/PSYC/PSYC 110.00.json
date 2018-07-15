@@ -7,7 +7,7 @@
 		"Gretchen H Gotthard",
 		"Mija M Van Der Wege"
 	],
-	"number": "110.00",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Boliou 104"
@@ -33,6 +33,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 67,
 		"total": 60,
@@ -42,5 +43,6 @@
 	"summary": null,
 	"synonym": "3528",
 	"tags": [],
-	"title": "Principles of Psychology"
+	"title": "Principles of Psychology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Dan Blim"
 	],
-	"number": "114.00",
+	"number": "114",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -26,20 +26,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "LA",
-			"name": "Literary/Artistic Analysis"
-		},
-		{
-			"code": "WR2",
-			"name": "Writing Rich 2"
-		},
-		{
-			"code": "IDS",
-			"name": "Intercultural Domestic Studies"
-		}
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -49,18 +41,10 @@
 	"summary": "This course will examine how social issues have been dramatized on the Broadway Stage, focusing on works by three authors: Richard Rodgers and Oscar Hammerstein; Leonard Bernstein; and Stephen Sondheim. Weekly activities will include the studying of one show, short written analyses, and discussion of primary source material and scholarly works. A final paper on a musical of your choice will be assigned.",
 	"synonym": "40153",
 	"tags": [
-		{
-			"code": "AMMUGROUP2",
-			"name": "Amer Music Soundtracks of Amer"
-		},
-		{
-			"code": "AMSTTOPICAL3",
-			"name": "AMST Group III Topical"
-		},
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMMUGROUP2",
+		"AMSTTOPICAL3",
+		"AMSTTOPICAL1"
 	],
-	"title": "Broadway Musicals and Social Politics"
+	"title": "Broadway Musicals and Social Politics",
+	"type": "Course"
 }

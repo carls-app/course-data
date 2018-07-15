@@ -8,7 +8,7 @@
 	"instructors": [
 		"Deborah Appleman"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"Willis 114"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 15,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "7878",
 	"tags": [],
-	"title": "Sr Seminar: Educational Equity"
+	"title": "Sr Seminar: Educational Equity",
+	"type": "Course"
 }

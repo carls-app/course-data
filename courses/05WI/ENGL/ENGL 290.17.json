@@ -9,11 +9,12 @@
 		"Constance Walker",
 		"Neil S Lutsky"
 	],
-	"number": "290.17",
+	"number": "290",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
+	"section": "17",
 	"size": {
 		"registered": 34,
 		"total": 35,
@@ -23,14 +24,9 @@
 	"summary": null,
 	"synonym": "11359",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "Reading in London"
+	"title": "Reading in London",
+	"type": "Course"
 }

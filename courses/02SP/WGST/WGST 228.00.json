@@ -9,7 +9,7 @@
 	"instructors": [
 		"Kathleen M Ryor"
 	],
-	"number": "228.00",
+	"number": "228",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -29,12 +29,10 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": null,
-			"name": "CL"
-		}
+		"CL"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -44,10 +42,8 @@
 	"summary": null,
 	"synonym": "1808",
 	"tags": [
-		{
-			"code": "WGSTADDL",
-			"name": "WGST Additional Credits"
-		}
+		"WGSTADDL"
 	],
-	"title": "Gender&Genre:Japanese Prints"
+	"title": "Gender&Genre:Japanese Prints",
+	"type": "Course"
 }

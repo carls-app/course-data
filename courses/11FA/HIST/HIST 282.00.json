@@ -6,7 +6,7 @@
 	"instructors": [
 		"Thabiti Willis"
 	],
-	"number": "282.00",
+	"number": "282",
 	"offerings": {
 		"locations": [
 			"Weitz Center 138"
@@ -31,16 +31,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 25,
@@ -50,14 +45,9 @@
 	"summary": "This course explores the relevance of masks, animated in masquerade performances, to the practice of reconstructing the African past. Students learn (1) how the peoples of Africa have performed masquerades to both record and reenact the past; (2) how nineteenth- and twentieth-century explorers and ethnographers have described masks and masquerades; (3) how various elements of these performances offer evidence from which scholars can reconstruct the past; and (4) how to identify and interpret the paradigms and politics that inform the production of both the masks themselves and the ethnographic accounts of their significance in African culture.",
 	"synonym": "30270",
 	"tags": [
-		{
-			"code": "HISTAFRDIASPORA",
-			"name": "HIST Africa & Diaspora"
-		},
-		{
-			"code": "AFAMHUMANINQ",
-			"name": "AFAM Humanistic Inquiry"
-		}
+		"HISTAFRDIASPORA",
+		"AFAMHUMANINQ"
 	],
-	"title": "Masquerades in Africa"
+	"title": "Masquerades in Africa",
+	"type": "Course"
 }

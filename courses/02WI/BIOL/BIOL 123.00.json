@@ -8,7 +8,7 @@
 	"instructors": [
 		"John L Tymoczko"
 	],
-	"number": "123.00",
+	"number": "123",
 	"offerings": {
 		"locations": [
 			"Olin 149"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 70,
 		"total": 80,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "306",
 	"tags": [],
-	"title": "Intro I:Energetics&Genetics"
+	"title": "Intro I:Energetics&Genetics",
+	"type": "Course"
 }

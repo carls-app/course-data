@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marion E Cass"
 	],
-	"number": "113.00",
+	"number": "113",
 	"offerings": {
 		"locations": [
 			"Olin 02"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent registration in Chemistry 113L",
 	"requirements": [
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		},
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -52,5 +47,6 @@
 	"summary": "A one-term chemistry course designed for non-science majors. In this course we examine what gives rise to three-dimensional shapes of molecules and we explore how the structure and composition of molecules gives rise to chemical reactivity. Our goal is to understand readily observable phenomena (e.g. removal of grease by soap, storage of toxins in fat tissues, cancer, viruses, etc.). Topics include those of current global interest such as anthropogenic forces on the environment and energy producing technologies. The course includes one four-hour lab per week.",
 	"synonym": "25613",
 	"tags": [],
-	"title": "Concepts of Chemistry"
+	"title": "Concepts of Chemistry",
+	"type": "Course"
 }

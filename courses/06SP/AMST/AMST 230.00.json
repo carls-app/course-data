@@ -6,7 +6,7 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "230.00",
+	"number": "230",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 25,
@@ -36,14 +37,9 @@
 	"summary": null,
 	"synonym": "13884",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		},
-		{
-			"code": "ENGL3",
-			"name": "ENGL Group III"
-		}
+		"AMSTTOPICAL1",
+		"ENGL3"
 	],
-	"title": "American Sublime"
+	"title": "American Sublime",
+	"type": "Course"
 }

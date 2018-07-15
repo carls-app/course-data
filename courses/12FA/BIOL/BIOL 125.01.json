@@ -8,7 +8,7 @@
 	"instructors": [
 		"Susan R Singer"
 	],
-	"number": "125.01",
+	"number": "125",
 	"offerings": {
 		"locations": [
 			"Weitz Center 235"
@@ -33,16 +33,11 @@
 	},
 	"prerequisites": "Prerequisite: Concurrent enrollment in Biology125L",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		},
-		{
-			"code": "LS",
-			"name": "Science with Lab Component"
-		}
+		"QRE",
+		"LS"
 	],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 38,
 		"total": 38,
@@ -52,14 +47,9 @@
 	"summary": "Emphasizes the role of genetic information in biological systems. Under this theme, we cover subjects from the molecular to the population levels of organization. Topics include the nature of inheritance and life cycles, structure/function of DNA, gene expression and regulation, the changing genetic makeup of species as they evolve, and the development of individual organisms from zygotes.",
 	"synonym": "32847",
 	"tags": [
-		{
-			"code": "BIOCCORE",
-			"name": "Biochemistry Core"
-		},
-		{
-			"code": "NEURCORE",
-			"name": "NEUR Core"
-		}
+		"BIOCCORE",
+		"NEURCORE"
 	],
-	"title": "Genes, Evolution, and Development"
+	"title": "Genes, Evolution, and Development",
+	"type": "Course"
 }

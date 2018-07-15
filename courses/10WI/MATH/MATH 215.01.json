@@ -6,7 +6,7 @@
 	"instructors": [
 		"Bob Dobrow"
 	],
-	"number": "215.01",
+	"number": "215",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -32,6 +32,7 @@
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Math 115, Psychology 200/201 or Math 275. Students who have received credit for Math 115 may petition the department to seek approval to register for MATH 215. Students who have taken Math 211 are",
 	"requirements": [],
 	"scnc": null,
+	"section": "01",
 	"size": {
 		"registered": 24,
 		"total": 28,
@@ -41,10 +42,8 @@
 	"summary": "Introduction to statistics and data analysis. Practical aspects of statistics, including extensive use of statistical software, interpretation and communication of results, will be emphasized. Topics include: exploratory data analysis, correlation and linear regression, design of experiments, basic probability, the normal distribution, randomization approach to inference, sampling distributions, estimation, hypothesis testing, and two-way tables.",
 	"synonym": "23247",
 	"tags": [
-		{
-			"code": "ENTSQUANTV",
-			"name": "ENTS Quantitative Methods"
-		}
+		"ENTSQUANTV"
 	],
-	"title": "Introduction to Statistics"
+	"title": "Introduction to Statistics",
+	"type": "Course"
 }

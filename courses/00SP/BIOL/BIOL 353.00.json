@@ -8,7 +8,7 @@
 	"instructors": [
 		"Mark McKone"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Hulings 103"
@@ -24,6 +24,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 30,
 		"total": 24,
@@ -33,5 +34,6 @@
 	"summary": null,
 	"synonym": "2555",
 	"tags": [],
-	"title": "Ecology Laboratory"
+	"title": "Ecology Laboratory",
+	"type": "Course"
 }

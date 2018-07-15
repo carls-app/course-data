@@ -8,7 +8,7 @@
 	"instructors": [
 		"Marshall C Olds"
 	],
-	"number": "245.00",
+	"number": "245",
 	"offerings": {
 		"locations": [
 			"Sayles-Hill 252"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 25,
@@ -43,14 +44,9 @@
 	"summary": null,
 	"synonym": "2049",
 	"tags": [
-		{
-			"code": "FRSTSUPP",
-			"name": "FRST Supporting Major"
-		},
-		{
-			"code": "FRSTHIST",
-			"name": "FRST History Major"
-		}
+		"FRSTSUPP",
+		"FRSTHIST"
 	],
-	"title": "Structure, Gender, Culture"
+	"title": "Structure, Gender, Culture",
+	"type": "Course"
 }

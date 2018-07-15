@@ -6,7 +6,7 @@
 	"instructors": [
 		"Eric S Egge"
 	],
-	"number": "400.01",
+	"number": "400",
 	"offerings": {
 		"locations": [
 			"CMC 328"
@@ -27,6 +27,7 @@
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254",
 	"requirements": [],
 	"scnc": true,
+	"section": "01",
 	"size": {
 		"registered": 10,
 		"total": 12,
@@ -36,5 +37,6 @@
 	"summary": "Either a supervised small-group research project or an individual, independent reading. Required of all senior majors.",
 	"synonym": "26584",
 	"tags": [],
-	"title": "Integrative Exercise"
+	"title": "Integrative Exercise",
+	"type": "Course"
 }

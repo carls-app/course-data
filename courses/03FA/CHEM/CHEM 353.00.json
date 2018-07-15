@@ -8,7 +8,7 @@
 	"instructors": [
 		"Charles Carlin"
 	],
-	"number": "353.00",
+	"number": "353",
 	"offerings": {
 		"locations": [
 			"Olin 101"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 13,
 		"total": 18,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "6593",
 	"tags": [],
-	"title": "Organic Chemistry III"
+	"title": "Organic Chemistry III",
+	"type": "Course"
 }

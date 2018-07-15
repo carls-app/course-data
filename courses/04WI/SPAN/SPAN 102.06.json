@@ -6,7 +6,7 @@
 	"instructors": [
 		"Diane Pearsall"
 	],
-	"number": "102.06",
+	"number": "102",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 244",
@@ -43,6 +43,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "06",
 	"size": {
 		"registered": 16,
 		"total": 20,
@@ -52,5 +53,6 @@
 	"summary": null,
 	"synonym": "8898",
 	"tags": [],
-	"title": "Elementary Spanish"
+	"title": "Elementary Spanish",
+	"type": "Course"
 }

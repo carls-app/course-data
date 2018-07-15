@@ -8,11 +8,12 @@
 	"instructors": [
 		"Elizabeth McKinsey"
 	],
-	"number": "380.07",
+	"number": "380",
 	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "07",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -22,14 +23,9 @@
 	"summary": null,
 	"synonym": "15449",
 	"tags": [
-		{
-			"code": "EUSTCNTRY",
-			"name": "EUST Country Specific Course"
-		},
-		{
-			"code": "EUSTOFFCAMP",
-			"name": "EUST Off-Campus Study"
-		}
+		"EUSTCNTRY",
+		"EUSTOFFCAMP"
 	],
-	"title": "London Theater"
+	"title": "London Theater",
+	"type": "Course"
 }

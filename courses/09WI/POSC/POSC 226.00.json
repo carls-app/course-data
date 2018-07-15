@@ -8,7 +8,7 @@
 	"instructors": [
 		"Greg Marfleet"
 	],
-	"number": "226.00",
+	"number": "226",
 	"offerings": {
 		"locations": [
 			"Willis 205"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 29,
 		"total": 25,
@@ -38,18 +39,10 @@
 	"summary": null,
 	"synonym": "20652",
 	"tags": [
-		{
-			"code": "POSISECFRGNPOL",
-			"name": "Polisci/Ir Security/Foreign PO"
-		},
-		{
-			"code": "POSIELECTIVE",
-			"name": "Polisci/Ir Elective"
-		},
-		{
-			"code": "POSI-LPS",
-			"name": "Leadership, Peace, Security"
-		}
+		"POSISECFRGNPOL",
+		"POSIELECTIVE",
+		"POSI-LPS"
 	],
-	"title": "Political Psychology"
+	"title": "Political Psychology",
+	"type": "Course"
 }

@@ -6,7 +6,7 @@
 	"instructors": [
 		"Adeeb Khalid"
 	],
-	"number": "265.00",
+	"number": "265",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -26,16 +26,11 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "HI",
-			"name": "Humanistic Inquiry"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"HI",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 30,
@@ -45,30 +40,13 @@
 	"summary": "Central Asia--the region encompassing the post-Soviet states of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan, and the Xinjiang region of the People's Republic of China--is often considered one of the most exotic in the world, but it has experienced all the excesses of the modern age. After a basic introduction to the long-term history of the steppe, this course will concentrate on exploring the history of the region since its conquest by the Russian and Chinese empires. We will discuss the interaction of external and local forces as we explore transformations in the realms of politics, society, culture, and religion.",
 	"synonym": "30316",
 	"tags": [
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "HISTISLAM",
-			"name": "HIST Islamic History"
-		},
-		{
-			"code": "HISTASIA",
-			"name": "HIST Asia"
-		},
-		{
-			"code": "ASSTCENT",
-			"name": "Asian Studies Central Asia"
-		},
-		{
-			"code": "ASSTHU",
-			"name": "Asian Studies Humanities"
-		},
-		{
-			"code": "POSI-AREAS",
-			"name": "POSI Area Studies"
-		}
+		"CCSTREGIONAL",
+		"HISTISLAM",
+		"HISTASIA",
+		"ASSTCENT",
+		"ASSTHU",
+		"POSI-AREAS"
 	],
-	"title": "Central Asia in the Modern Age"
+	"title": "Central Asia in the Modern Age",
+	"type": "Course"
 }

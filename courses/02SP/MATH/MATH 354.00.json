@@ -8,7 +8,7 @@
 	"instructors": [
 		"David S Romano"
 	],
-	"number": "354.00",
+	"number": "354",
 	"offerings": {
 		"locations": [
 			"CMC 206"
@@ -34,6 +34,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 28,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "634",
 	"tags": [],
-	"title": "Topology"
+	"title": "Topology",
+	"type": "Course"
 }

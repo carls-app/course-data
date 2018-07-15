@@ -6,7 +6,7 @@
 	"instructors": [
 		"Mike Flynn"
 	],
-	"number": "340.00",
+	"number": "340",
 	"offerings": {
 		"locations": [
 			"Olin 04"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 5,
 		"total": 30,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "2469",
 	"tags": [],
-	"title": "Topics in Semantics"
+	"title": "Topics in Semantics",
+	"type": "Course"
 }

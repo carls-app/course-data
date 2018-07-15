@@ -6,7 +6,7 @@
 	"instructors": [
 		"Christine G O'Malley"
 	],
-	"number": "247.00",
+	"number": "247",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 20,
 		"total": 25,
@@ -36,10 +37,8 @@
 	"summary": null,
 	"synonym": "14089",
 	"tags": [
-		{
-			"code": "AMSTTOPICAL1",
-			"name": "AMST Group I Topical"
-		}
+		"AMSTTOPICAL1"
 	],
-	"title": "Architecture Since 1950"
+	"title": "Architecture Since 1950",
+	"type": "Course"
 }

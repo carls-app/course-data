@@ -8,7 +8,7 @@
 	"instructors": [
 		"Jon Armel"
 	],
-	"number": "395.00",
+	"number": "395",
 	"offerings": {
 		"locations": [
 			"CMC 319"
@@ -34,6 +34,7 @@
 	"prerequisites": "Prerequisite: Mathematics 342 and instructor permission",
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 4,
 		"total": 25,
@@ -43,5 +44,6 @@
 	"summary": null,
 	"synonym": "23258",
 	"tags": [],
-	"title": "Topics in Algebraic Number Theory"
+	"title": "Topics in Algebraic Number Theory",
+	"type": "Course"
 }

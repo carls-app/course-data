@@ -6,7 +6,7 @@
 	"instructors": [
 		"Catherine E Walden"
 	],
-	"number": "100.00",
+	"number": "100",
 	"offerings": {
 		"locations": [
 			"Boliou 161"
@@ -31,20 +31,12 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		{
-			"code": "AI",
-			"name": "Argument & Inquiry Seminar"
-		},
-		{
-			"code": "WR1",
-			"name": "Writing Rich 1"
-		},
-		{
-			"code": "IS",
-			"name": "International Studies"
-		}
+		"AI",
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 16,
 		"total": 16,
@@ -54,5 +46,6 @@
 	"summary": null,
 	"synonym": "37035",
 	"tags": [],
-	"title": "Art, Death and the Middle Ages"
+	"title": "Art, Death and the Middle Ages",
+	"type": "Course"
 }

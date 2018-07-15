@@ -6,7 +6,7 @@
 	"instructors": [
 		"Jason A Decker"
 	],
-	"number": "220.02",
+	"number": "220",
 	"offerings": {
 		"locations": [
 			"Leighton 402"
@@ -27,6 +27,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "02",
 	"size": {
 		"registered": 21,
 		"total": 25,
@@ -36,5 +37,6 @@
 	"summary": null,
 	"synonym": "22521",
 	"tags": [],
-	"title": "Tpcs: Logic, Lang & Metaphysic"
+	"title": "Tpcs: Logic, Lang & Metaphysic",
+	"type": "Course"
 }

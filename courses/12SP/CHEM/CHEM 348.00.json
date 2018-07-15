@@ -8,7 +8,7 @@
 	"instructors": [
 		"Daniela L Kohen"
 	],
-	"number": "348.00",
+	"number": "348",
 	"offerings": {
 		"locations": [
 			"Olin 103"
@@ -33,12 +33,10 @@
 	},
 	"prerequisites": "Prerequisite: Chemistry 343 and 344 or consent of the instructor; Concurrent registration in Chemistry 349",
 	"requirements": [
-		{
-			"code": "QRE",
-			"name": "Quantitative Reasoning"
-		}
+		"QRE"
 	],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 11,
 		"total": 12,
@@ -48,5 +46,6 @@
 	"summary": "This class will introduce students to computational chemistry with a focus on simulations in chemistry and biology. This course will include hands-on experience in running classical molecular dynamics and quantum chemistry programs, an introduction to methods to simulate large systems, and demonstrations of the use of more sophisticated software to simulate chemical and biological processes. It will also include a survey of the current literature in this area, as well as lecture time in which the background necessary to appreciate this growing area of chemistry will be provided. Corequisite: Chemistry 349",
 	"synonym": "28612",
 	"tags": [],
-	"title": "Introduction to Computational Chemistry"
+	"title": "Introduction to Computational Chemistry",
+	"type": "Course"
 }

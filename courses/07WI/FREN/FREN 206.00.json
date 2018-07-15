@@ -6,7 +6,7 @@
 	"instructors": [
 		"Annick M Fritz-Smead"
 	],
-	"number": "206.00",
+	"number": "206",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 302"
@@ -32,6 +32,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 6,
 		"total": 20,
@@ -41,14 +42,9 @@
 	"summary": null,
 	"synonym": "16175",
 	"tags": [
-		{
-			"code": "FRSTLANGLIT",
-			"name": "FRST Lang & Lit Major"
-		},
-		{
-			"code": "FRSTELECAL",
-			"name": "FRST Elec AL Track"
-		}
+		"FRSTLANGLIT",
+		"FRSTELECAL"
 	],
-	"title": "Fr Media: Multifaceted Apprch"
+	"title": "Fr Media: Multifaceted Apprch",
+	"type": "Course"
 }

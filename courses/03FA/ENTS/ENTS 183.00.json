@@ -9,7 +9,7 @@
 	"instructors": [
 		"Jamie Monson"
 	],
-	"number": "183.00",
+	"number": "183",
 	"offerings": {
 		"locations": [
 			"Leighton 301"
@@ -30,6 +30,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 12,
 		"total": 50,
@@ -39,18 +40,10 @@
 	"summary": null,
 	"synonym": "7881",
 	"tags": [
-		{
-			"code": "HISTAFRICA",
-			"name": "HIST Africa"
-		},
-		{
-			"code": "CCSTREGIONAL",
-			"name": "CCST Regional"
-		},
-		{
-			"code": "AFAMSURVEY",
-			"name": "AFAM Survey Course"
-		}
+		"HISTAFRICA",
+		"CCSTREGIONAL",
+		"AFAMSURVEY"
 	],
-	"title": "Farm & Forest in African Hist"
+	"title": "Farm & Forest in African Hist",
+	"type": "Course"
 }

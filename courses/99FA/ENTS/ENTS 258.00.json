@@ -9,7 +9,7 @@
 	"instructors": [
 		"Mary E Savina"
 	],
-	"number": "258.00",
+	"number": "258",
 	"offerings": {
 		"locations": [
 			"Mudd 73"
@@ -35,6 +35,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 26,
 		"total": 40,
@@ -44,5 +45,6 @@
 	"summary": null,
 	"synonym": "1896",
 	"tags": [],
-	"title": "Geology of Soils"
+	"title": "Geology of Soils",
+	"type": "Course"
 }

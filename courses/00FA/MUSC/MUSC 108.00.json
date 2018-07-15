@@ -8,7 +8,7 @@
 	"instructors": [
 		"John Ellinger"
 	],
-	"number": "108.00",
+	"number": "108",
 	"offerings": {
 		"locations": [
 			"Old Music Hall 103"
@@ -29,6 +29,7 @@
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
+	"section": "00",
 	"size": {
 		"registered": 7,
 		"total": 10,
@@ -38,5 +39,6 @@
 	"summary": null,
 	"synonym": "1059",
 	"tags": [],
-	"title": "Intro to Music Technology"
+	"title": "Intro to Music Technology",
+	"type": "Course"
 }
