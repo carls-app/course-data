@@ -3,7 +3,6 @@
 		"Sophomore Priority"
 	],
 	"credits": 6.0,
-	"department": "CS",
 	"id": "2013FA CS 108.00",
 	"instructors": [
 		"David Liben-Nowell"
@@ -40,6 +39,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "CS",
 	"summary": "This course investigates how the social, technological, and natural worlds are connected, and how the study of networks sheds light on these connections. A network is a collection of entities linked by some relationship: people connected by friendships (e.g., Facebook); web pages connected by hyperlinks; species connected by the who-preys-on-whom relationship. We will explore mathematical properties of networks while emphasizing the efficient processing and analysis of network data drawn from a variety of fields. Topics include: how Google works; \"six degrees of separation\"; the spread of fads through society. No background in computer science or programming is required or expected.",
 	"synonym": "35007",
 	"tags": [],

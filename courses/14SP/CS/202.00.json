@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "CS",
 	"id": "2014SP CS 202.00",
 	"instructors": [
 		"David Liben-Nowell"
@@ -42,6 +41,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "CS",
 	"summary": "This course introduces some of the formal tools of computer science, using a variety of applications as a vehicle. You'll learn how to encode data so that when you scratch the back of a DVD, it still plays just fine; how to distribute \"shares\" of your floor's PIN so that any five of you can withdraw money from the floor bank account (but no four of you can); how to play chess; and more. Topics that we'll explore along the way include: logic and proofs, number theory, elementary complexity theory and recurrence relations, basic probability, counting techniques, and graphs.",
 	"synonym": "37579",
 	"tags": [

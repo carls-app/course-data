@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "MATH",
 	"id": "2017SP MATH 275.00",
 	"instructors": [
 		"Andy Poppick"
@@ -43,6 +42,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "MATH",
 	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
 	"synonym": "45869",
 	"tags": [

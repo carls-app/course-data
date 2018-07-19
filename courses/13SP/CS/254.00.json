@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "CS",
 	"id": "2013SP CS 254.00",
 	"instructors": [
 		"Josh Davis"
@@ -42,6 +41,7 @@
 		"waitlist": 0
 	},
 	"status": "Closed",
+	"subject": "CS",
 	"summary": "An introduction to the theory of computation. What problems can and cannot be solved efficiently by computers? What problems cannot be solved by computers, period? Topics include formal models of computation, including finite-state automata, pushdown automata, and Turing machines; formal languages, including regular expressions and context-free grammars; computability and uncomputability; and computational complexity, particularly NP-completeness.",
 	"synonym": "31857",
 	"tags": [

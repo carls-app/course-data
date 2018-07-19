@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "CS",
 	"id": "2016WI CS 312.00",
 	"instructors": [
 		"John Ellinger"
@@ -42,6 +41,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "CS",
 	"summary": "Students will learn the basics of MIDI and Digital Audio programming using C++. In the MIDI portion of the course, you'll learn to record, play, and transform MIDI data. You'll learn to read, write, and play standard MIDI files. During the Digital Audio portion of the course, you'll learn the basics of audio synthesis: oscillators, envelopes, filters, amplifiers, and FFT analyses. Weekly homework assignments and two major group projects.",
 	"synonym": "43416",
 	"tags": [

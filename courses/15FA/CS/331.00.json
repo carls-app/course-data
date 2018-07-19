@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "CS",
 	"id": "2015FA CS 331.00",
 	"instructors": [
 		"Amy Csizmar Dalal"
@@ -42,6 +41,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "CS",
 	"summary": "The Internet is composed of a large number of heterogeneous, independently-operating computer networks that work together to transport all sorts of data to points all over the world. The fact that it does this so well given its complexity is a minor miracle. In this class, we'll study the structure of these individual networks and of the Internet, and figure out how this \"magic\" takes place. Topics include TCP/IP, protocols and their implementations, routing, security, network architecture, DNS, peer-to-peer networking, and Wi-Fi along with ethical and privacy issues.",
 	"synonym": "42058",
 	"tags": [],

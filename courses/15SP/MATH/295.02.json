@@ -1,7 +1,6 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"department": "MATH",
 	"id": "2015SP MATH 295.02",
 	"instructors": [
 		"Tommy Occhipinti"
@@ -35,6 +34,7 @@
 		"waitlist": 0
 	},
 	"status": "Closed",
+	"subject": "MATH",
 	"summary": "This course will cover cryptosystems, error correcting codes, and compression methods, including RSA, Diffie-Hellman, Hamming codes, and Huffman coding. The course will also cover methods of breaking codes, including the quadratic sieve. The mathematics behind these methods will be emphasized, including linear algebra, number theory, and probability. The course will include light programming in the freely available software package SAGE, but no knowledge of programming is required.",
 	"synonym": "39969",
 	"tags": [

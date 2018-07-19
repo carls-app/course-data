@@ -3,7 +3,6 @@
 		"CHEM 349 required"
 	],
 	"credits": 6.0,
-	"department": "CHEM",
 	"id": "2014SP CHEM 348.00",
 	"instructors": [
 		"Daniela L Kohen"
@@ -44,6 +43,7 @@
 		"waitlist": 0
 	},
 	"status": "Open",
+	"subject": "CHEM",
 	"summary": "This class will introduce students to computational chemistry with a focus on simulations in chemistry and biology. This course will include hands-on experience in running classical molecular dynamics and quantum chemistry programs, an introduction to methods to simulate large systems, and demonstrations of the use of more sophisticated software to simulate chemical and biological processes. It will also include a survey of the current literature in this area, as well as lecture time in which the background necessary to appreciate this growing area of chemistry will be provided. Corequisite: Chemistry 349",
 	"synonym": "34619",
 	"tags": [],
