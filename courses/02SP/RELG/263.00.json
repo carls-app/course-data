@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"New Course Description"
+	],
+	"credits": 6.0,
+	"id": "2002SP RELG 263.00",
+	"instructors": [
+		"Shahzad Bashir"
+	],
+	"number": "263",
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 11,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "RELG",
+	"summary": null,
+	"synonym": "3080",
+	"tags": [
+		"CCSTGLOBAL"
+	],
+	"title": "Sufism",
+	"type": "Course",
+	"year": 2002
+}

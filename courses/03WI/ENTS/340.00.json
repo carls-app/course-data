@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"ENTS 340L required X-List GEOL 340",
+		"Cross-listed with GEOL 340.00"
+	],
+	"credits": 6.0,
+	"id": "2003WI ENTS 340.00",
+	"instructors": [
+		"Mary E Savina"
+	],
+	"number": "340",
+	"offerings": {
+		"locations": [
+			"Mudd 75"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 9,
+		"total": 10,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "ENTS",
+	"summary": null,
+	"synonym": "3920",
+	"tags": [
+		"ENTSSCI",
+		"ENTSLAB"
+	],
+	"title": "Hydrology",
+	"type": "Course",
+	"year": 2003
+}

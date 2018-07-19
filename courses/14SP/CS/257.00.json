@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2014SP CS 257.00",
+	"instructors": [
+		"Amy Csizmar Dalal"
+	],
+	"number": "257",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 40,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "It's easy to write a mediocre computer program, and lots of people do it. Good programs are quite a bit harder to write, and are correspondingly less common. In this course, we will study techniques, tools, and habits that will improve your chances of writing good software. While working on several medium-sized programming projects, we will investigate code construction techniques, debugging and profiling tools, testing methodologies, UML, principles of object-oriented design, design patterns, and user interface design.",
+	"synonym": "35047",
+	"tags": [],
+	"title": "Software Design",
+	"type": "Course",
+	"year": 2014
+}

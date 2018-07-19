@@ -1,0 +1,49 @@
+{
+	"comments": [
+		"Required $5 book fee will be automatically charged on tuition  bill."
+	],
+	"credits": 0.0,
+	"id": "2018FA PE 197.00",
+	"instructors": [
+		"Kris Layman",
+		"Linda K Luedke"
+	],
+	"number": "197",
+	"offerings": {
+		"locations": [
+			"Cowling DANC"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:35am",
+				"start": "9:30am"
+			},
+			{
+				"day": "Th",
+				"end": "10:35am",
+				"start": "9:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"PE"
+	],
+	"scnc": true,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 29,
+		"total": 30,
+		"waitlist": 16
+	},
+	"status": "Closed",
+	"subject": "PE",
+	"summary": null,
+	"synonym": "50818",
+	"tags": [],
+	"title": "Yoga, Beginning",
+	"type": "Course",
+	"year": 2018
+}

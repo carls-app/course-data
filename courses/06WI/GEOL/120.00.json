@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"Geol 120L required Soph prio"
+	],
+	"credits": 6.0,
+	"id": "2006WI GEOL 120.00",
+	"instructors": [
+		"Bereket Haileab"
+	],
+	"number": "120",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 32,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "GEOL",
+	"summary": null,
+	"synonym": "12218",
+	"tags": [
+		"ENTSLAB",
+		"ENTSINTRO"
+	],
+	"title": "Intro Environmental Geology",
+	"type": "Course",
+	"year": 2006
+}

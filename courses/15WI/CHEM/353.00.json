@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"CHEM 301 or 343 or 344 required"
+	],
+	"credits": 6.0,
+	"id": "2015WI CHEM 353.00",
+	"instructors": [
+		"Gretchen E Hofmeister"
+	],
+	"number": "353",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 234; Concurrent registration in Chemistry 301, 343 or 344",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "The correlation of structure and reactivity in organic molecular systems is studied through the analysis of reaction mechanisms. Topics will include linear free energy relationships, isotope effects, and molecular orbital theory. We will use these theories to analyze reactions, such as pericyclic, enantioselective, and organometallic transformations.",
+	"synonym": "38411",
+	"tags": [],
+	"title": "Organic Chemistry III",
+	"type": "Course",
+	"year": 2015
+}

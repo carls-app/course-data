@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2014FA CS 202.00",
+	"instructors": [
+		"Jadrian J Miles"
+	],
+	"number": "202",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 111 and Mathematics 111 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 24,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "This course introduces some of the formal tools of computer science, using a variety of applications as a vehicle. You'll learn how to encode data so that when you scratch the back of a DVD, it still plays just fine; how to distribute \"shares\" of your floor's PIN so that any five of you can withdraw money from the floor bank account (but no four of you can); how to play chess; and more. Topics that we'll explore along the way include: logic and proofs, number theory, elementary complexity theory and recurrence relations, basic probability, counting techniques, and graphs.",
+	"synonym": "38251",
+	"tags": [
+		"LINGPERT"
+	],
+	"title": "Mathematics of Computer Science",
+	"type": "Course",
+	"year": 2014
+}

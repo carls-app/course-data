@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Replaces Chemistry 230"
+	],
+	"credits": 6.0,
+	"id": "2018FA CHEM 224.57",
+	"instructors": [
+		"Steven M Drew"
+	],
+	"number": "224",
+	"offerings": {
+		"locations": [
+			"Olin 141",
+			"Hulings 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or Chemistry 128",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "57",
+	"semester": "FA",
+	"size": {
+		"registered": 22,
+		"total": 24,
+		"waitlist": 1
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "51102",
+	"tags": [],
+	"title": "Principles of Chemistry II and Lab",
+	"type": "Course",
+	"year": 2018
+}

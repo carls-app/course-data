@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2015FA CS 252.00",
+	"instructors": [
+		"Jeffrey R Ondich"
+	],
+	"number": "252",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 and either Computer Science 202 or Mathematics 236",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 20,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "A course on techniques used in the design and analysis of efficient algorithms. We will cover several major algorithmic design paradigms (greedy algorithms, dynamic programming, divide and conquer, and network flow). Along the way, we will explore the application of these techniques to a variety of domains (natural language processing, economics, computational biology, and data mining, for example). As time permits, we will include supplementary topics like randomized algorithms, advanced data structures, and amortized analysis.",
+	"synonym": "42052",
+	"tags": [],
+	"title": "Algorithms",
+	"type": "Course",
+	"year": 2015
+}

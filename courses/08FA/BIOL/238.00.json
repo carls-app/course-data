@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"BIOL 239 required"
+	],
+	"credits": 6.0,
+	"id": "2008FA BIOL 238.00",
+	"instructors": [
+		"David Hougen-Eitzman"
+	],
+	"number": "238",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 6,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "21051",
+	"tags": [
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSFAES"
+	],
+	"title": "Entomology",
+	"type": "Course",
+	"year": 2008
+}

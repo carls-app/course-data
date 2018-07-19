@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"CHEM 233L-57 required"
+	],
+	"credits": 6.0,
+	"id": "2006SP CHEM 233.00",
+	"instructors": [
+		"David G Alberg"
+	],
+	"number": "233",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 21,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "12070",
+	"tags": [],
+	"title": "Organic Chemistry I",
+	"type": "Course",
+	"year": 2006
+}

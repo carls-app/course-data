@@ -1,0 +1,48 @@
+{
+	"comments": [
+		"New Course Description"
+	],
+	"credits": 6.0,
+	"id": "2002SP CHIN 240.00",
+	"instructors": [
+		"Ping Fu"
+	],
+	"number": "240",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"CL"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 20,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHIN",
+	"summary": null,
+	"synonym": "3075",
+	"tags": [],
+	"title": "Chinese Cinema",
+	"type": "Course",
+	"year": 2002
+}

@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2015SP CS 251.00",
+	"instructors": [
+		"David R Musicant"
+	],
+	"number": "251",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 40,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "What makes a programming language like \"Python\" or like \"Java?\" This course will look past superficial properties (like indentation) and into the soul of programming languages. We will explore a variety of topics in programming language construction and design: syntax and semantics, mechanisms for parameter passing, typing, scoping, and control structures. Students will expand their programming experience to include other programming paradigms, including functional languages like Scheme and ML.",
+	"synonym": "38341",
+	"tags": [],
+	"title": "Programming Languages: Design and Implementation",
+	"type": "Course",
+	"year": 2015
+}

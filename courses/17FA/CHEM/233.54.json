@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2017FA CHEM 233.54",
+	"instructors": [
+		"Alexei V Novikov"
+	],
+	"number": "233",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 118"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or 128",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "54",
+	"semester": "FA",
+	"size": {
+		"registered": 15,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "49031",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Organic Chemistry I & Lab",
+	"type": "Course",
+	"year": 2017
+}

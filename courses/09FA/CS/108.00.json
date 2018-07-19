@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"id": "2009FA CS 108.00",
+	"instructors": [
+		"David Liben-Nowell"
+	],
+	"number": "108",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Students may not simultaneously enroll in Computer Science 108 and Computer Science 111 in the same term, and students who have received credit for Computer Science 111 or above are not eligible to enroll in Computer Science 108",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 53,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "This course investigates how the social, technological, and natural worlds are connected, and how the study of networks sheds light on these connections. A network is a collection of entities linked by some relationship: people connected by friendships (e.g., Facebook); web pages connected by hyperlinks; species connected by the who-preys-on-whom relationship. We will explore mathematical properties of networks while emphasizing the efficient processing and analysis of network data drawn from a variety of fields. Topics include: how Google works; \"six degrees of separation\"; the spread of fads through society. No background in computer science or programming is required or expected.",
+	"synonym": "22896",
+	"tags": [],
+	"title": "Life in the Age of Networks",
+	"type": "Course",
+	"year": 2009
+}

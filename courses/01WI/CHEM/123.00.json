@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Lab registration required See description"
+	],
+	"credits": 6.0,
+	"id": "2001WI CHEM 123.00",
+	"instructors": [
+		"Jim Finholt"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 19,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "669",
+	"tags": [],
+	"title": "Principles of Chemistry",
+	"type": "Course",
+	"year": 2001
+}

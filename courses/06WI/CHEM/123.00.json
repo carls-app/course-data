@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"CHEM 123L required"
+	],
+	"credits": 6.0,
+	"id": "2006WI CHEM 123.00",
+	"instructors": [
+		"Daniela L Kohen"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 35,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "12037",
+	"tags": [],
+	"title": "Principles of Chemistry",
+	"type": "Course",
+	"year": 2006
+}

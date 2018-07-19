@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2015SP MATH 341.00",
+	"instructors": [
+		"Allison J Tanguay"
+	],
+	"number": "341",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 241",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 16,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Fourier series and their applications to boundary value problems in partial differential equations. Topics include separation of variables, orthogonal sets of functions, representations of functions in series of orthogonal functions, Sturm-Liouville theory, and Fourier transforms.",
+	"synonym": "38686",
+	"tags": [
+		"STATSUPPER"
+	],
+	"title": "Fourier Series and Boundary Value Problems",
+	"type": "Course",
+	"year": 2015
+}

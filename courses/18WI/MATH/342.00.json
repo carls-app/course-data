@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2018WI MATH 342.00",
+	"instructors": [
+		"Rafe Jones"
+	],
+	"number": "342",
+	"offerings": {
+		"locations": [
+			"Willis 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 41,
+		"total": 45,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "Introduction to algebraic structures, including groups, rings, and fields. Homomorphisms and quotient structures, polynomials, unique factorization. Other topics may include applications such as Burnside's counting theorem, symmetry groups, polynomial equations, or geometric constructions.",
+	"synonym": "48847",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Abstract Algebra I",
+	"type": "Course",
+	"year": 2018
+}

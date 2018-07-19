@@ -1,0 +1,41 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"id": "2014FA CHEM 345.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "345",
+	"offerings": {
+		"locations": [
+			"Olin 142"
+		],
+		"times": [
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 343 and 344.",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": true,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 9,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "Statistical mechanics is the field which bridges the gap between the modern microscopic world of quantum mechanics and the classical macroscopic world of thermodynamics. Starting with the allowed quantized energy levels for the different forms of molecular motion and then statistically averaging for a large collection of molecules, partition functions are developed which accurately predict thermodynamic properties such as free energy and entropy.",
+	"synonym": "40156",
+	"tags": [],
+	"title": "Statistical Thermodynamics",
+	"type": "Course",
+	"year": 2014
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"ENTS 120L required"
+	],
+	"credits": 6.0,
+	"id": "2012FA ENTS 120.00",
+	"instructors": [
+		"Tsegaye H Nega"
+	],
+	"number": "120",
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Concurrent registration in ENTS 120L",
+	"requirements": [
+		"QRE",
+		"SI"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 23,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "ENTS",
+	"summary": "Spatial data analysis using Geographic Information Systems (GIS), remote sensing, global positioning, and related technologies are increasingly important for understanding and analyzing a wide range of biophysical, social, and economic phenomena. This course serves as an overview and introduction to the concepts, algorithms, issues, and methods in describing, analyzing, and modeling geospatial data over a range of application areas.",
+	"synonym": "33068",
+	"tags": [
+		"ENTSQUANTV"
+	],
+	"title": "Introduction to Geospatial Analysis",
+	"type": "Course",
+	"year": 2012
+}

@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"First 5-week PHYS 132L required"
+	],
+	"credits": 3.0,
+	"id": "2011SP PHYS 132.00",
+	"instructors": [
+		"Liz McDowell"
+	],
+	"number": "132",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 111, not open to students who have completed Physics 131, 132, 141, or 142 at Carleton; Concurrent registration in Physics 132L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 30,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PHYS",
+	"summary": "An introduction to the basic principles of Newtonian mechanics and conservation laws using the earth and the gravitational force law as a conceptual framework. The many influences of gravity on the structure of the earth from its shape to the tides, and techniques for measuring gravity will be discussed. Comfort with algebra and the integration and differentiation of elementary functions is assumed. Weekly laboratory.",
+	"synonym": "26034",
+	"tags": [],
+	"title": "Introduction to Physics: Gravity and the Earth",
+	"type": "Course",
+	"year": 2011
+}

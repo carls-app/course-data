@@ -1,0 +1,55 @@
+{
+	"comments": [
+		"CHEM 128L required"
+	],
+	"credits": 6.0,
+	"id": "2008SP CHEM 128.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "128",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 27,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "17403",
+	"tags": [
+		"ENTSSCI",
+		"ENTSLAB",
+		"ENTSINTRO"
+	],
+	"title": "Principles-Environmental Chem",
+	"type": "Course",
+	"year": 2008
+}

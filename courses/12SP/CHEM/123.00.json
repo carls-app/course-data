@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"CHEM 123L required"
+	],
+	"credits": 6.0,
+	"id": "2012SP CHEM 123.00",
+	"instructors": [
+		"Michael W Burand"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Evaluation (Chemistry Home Page) or Chemistry 122.; CHEM 123L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 39,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "An introduction to chemistry for students who have taken high school chemistry or Chemistry 122. Topics include the electronic structure of atoms, periodicity, molecular geometry, thermodynamics, bonding, equilibrium, reaction kinetics, and acids and bases. Substantial independent project work is included in the lab. Each offering will also focus on a special topic(s) selected by the instructor. Students cannot receive credit for both Chemistry 123 and 128.",
+	"synonym": "28588",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Principles of Chemistry",
+	"type": "Course",
+	"year": 2012
+}

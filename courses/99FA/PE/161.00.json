@@ -1,0 +1,43 @@
+{
+	"comments": [
+		"$10 book fee automatically charged to tuition bill."
+	],
+	"credits": 0.0,
+	"id": "1999FA PE 161.00",
+	"instructors": [
+		"Mary Brandl"
+	],
+	"number": "161",
+	"offerings": {
+		"locations": [
+			"West Gym WRES"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "9:30pm",
+				"start": "7:45pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"PE"
+	],
+	"scnc": true,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 18,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PE",
+	"summary": null,
+	"synonym": "3294",
+	"tags": [],
+	"title": "Self Defense for Women",
+	"type": "Course",
+	"year": 1999
+}

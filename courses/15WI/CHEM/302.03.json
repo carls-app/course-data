@@ -1,0 +1,48 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"id": "2015WI CHEM 302.03",
+	"instructors": [
+		"Will Hollingsworth",
+		"Trish Ferrett"
+	],
+	"number": "302",
+	"offerings": {
+		"locations": [
+			"Olin 04",
+			"Mudd 271"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 344",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "03",
+	"semester": "WI",
+	"size": {
+		"registered": 7,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "This lab course emphasizes spectroscopic studies relevant to quantum chemistry, including experiments utilizing UV-VIS, infrared absorption spectroscopy, and visible emission spectroscopy. Corequisite: Chemistry 344.",
+	"synonym": "38405",
+	"tags": [],
+	"title": "Quantum Spectroscopy Laboratory",
+	"type": "Course",
+	"year": 2015
+}

@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"CHEM 234L required"
+	],
+	"credits": 6.0,
+	"id": "2009WI CHEM 234.00",
+	"instructors": [
+		"Peter J Gittins"
+	],
+	"number": "234",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 51,
+		"total": 66,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "20453",
+	"tags": [],
+	"title": "Organic Chemistry II",
+	"type": "Course",
+	"year": 2009
+}

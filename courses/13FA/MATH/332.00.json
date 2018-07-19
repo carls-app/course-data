@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2013FA MATH 332.00",
+	"instructors": [
+		"Mark Krusemeyer"
+	],
+	"number": "332",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 22,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Selected topics beyond the material of Mathematics 232. Topics may include the Cayley-Hamilton theorem, the spectral theorem, factorizations, canonical forms, determinant functions, estimation of eigenvalues, inner product spaces, dual vector spaces, unitary and Hermitian matrices, operators, infinite-dimensional spaces, and various applications.",
+	"synonym": "34949",
+	"tags": [
+		"STATSUPPER"
+	],
+	"title": "Advanced Linear Algebra",
+	"type": "Course",
+	"year": 2013
+}

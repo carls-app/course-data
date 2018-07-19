@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2013SP MATH 232.00",
+	"instructors": [
+		"Andrew R Gainer-Dewar"
+	],
+	"number": "232",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 211",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 12,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
+	"synonym": "31796",
+	"tags": [],
+	"title": "Linear Algebra",
+	"type": "Course",
+	"year": 2013
+}

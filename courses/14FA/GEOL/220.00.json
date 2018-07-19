@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"Sophomore priority, GEOL 220L required"
+	],
+	"credits": 6.0,
+	"id": "2014FA GEOL 220.00",
+	"instructors": [
+		"Alice C Newman"
+	],
+	"number": "220",
+	"offerings": {
+		"locations": [
+			"Mudd 73"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: One introductory (100-level) Geology course.; GEOL 220L",
+	"requirements": [
+		"LS",
+		"WR2"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 22,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "GEOL",
+	"summary": "This course focuses on understanding the plate tectonics paradigm and its application to all types of plate boundaries. We will explore the historical development of the paradigm, geophysical tools used for imaging the structure of the Earth and determining plate motions, and possible driving mechanisms of this global system. Students will independently explore a particular tectonic plate in detail throughout the term. Laboratories included.",
+	"synonym": "38183",
+	"tags": [],
+	"title": "Tectonics",
+	"type": "Course",
+	"year": 2014
+}

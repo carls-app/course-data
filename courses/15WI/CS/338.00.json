@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"CS.338L required"
+	],
+	"credits": 6.0,
+	"id": "2015WI CS 338.00",
+	"instructors": [
+		"Andy Exley"
+	],
+	"number": "338",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 208; Concurrent registration in Computer Science 338L",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 17,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "Fun fact: Computers can be built up entirely from a collection of transistors. This course will begin the process of doing just that. From transistors we'll build logic gates. From logic gates, we'll build RAM and adders. With adders, we'll build arithmetic logic units, and so on, up to microprocessors.",
+	"synonym": "39993",
+	"tags": [],
+	"title": "Digital Electronics",
+	"type": "Course",
+	"year": 2015
+}

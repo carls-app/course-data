@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2011SP MATH 232.01",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "232",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 211",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "SP",
+	"size": {
+		"registered": 20,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
+	"synonym": "26576",
+	"tags": [],
+	"title": "Linear Algebra",
+	"type": "Course",
+	"year": 2011
+}

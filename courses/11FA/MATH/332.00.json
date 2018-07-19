@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2011FA MATH 332.00",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "332",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 14,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Selected topics beyond the material of Mathematics 232. Topics may include the Cayley-Hamilton theorem, the spectral theorem, factorizations, canonical forms, determinant functions, estimation of eigenvalues, inner product spaces, dual vector spaces, unitary and Hermitian matrices, operators, infinite-dimensional spaces, and various applications.",
+	"synonym": "28982",
+	"tags": [],
+	"title": "Advanced Linear Algebra",
+	"type": "Course",
+	"year": 2011
+}

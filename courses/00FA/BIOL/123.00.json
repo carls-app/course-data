@@ -1,0 +1,52 @@
+{
+	"comments": [
+		"Lab registration required"
+	],
+	"credits": 6.0,
+	"id": "2000FA BIOL 123.00",
+	"instructors": [
+		"Debby R Walser-Kuntz",
+		"Susan R Singer"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 59,
+		"total": 80,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "434",
+	"tags": [],
+	"title": "Intro I:Energetics&Genetics",
+	"type": "Course",
+	"year": 2000
+}

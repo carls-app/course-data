@@ -1,0 +1,59 @@
+{
+	"comments": [
+		"BIOL 126L required"
+	],
+	"credits": 6.0,
+	"id": "2012SP BIOL 126.00",
+	"instructors": [
+		"Matt Rand",
+		"Daniel L Hernández"
+	],
+	"number": "126",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Concurrent enrollment in BIOL 126L; Chemistry 123 or 128; or AP Chemistry score of 4 or 5; or IB score of 5, 6, or 7",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 116,
+		"total": 120,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": "Follow the pathways through which energy and matter are acquired, stored, and utilized within cells, organisms, and ecosystems. The focus moves among the different levels of organization from protein function to nutrient movement through ecosystems.",
+	"synonym": "28722",
+	"tags": [
+		"NEURCORE",
+		"ENTSINTRO",
+		"BIOCCORE"
+	],
+	"title": "Energy Flow in Biological Systems",
+	"type": "Course",
+	"year": 2012
+}

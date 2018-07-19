@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2018FA MATH 232.01",
+	"instructors": [
+		"Eric S Egge"
+	],
+	"number": "232",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 120 or 211",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "FA",
+	"size": {
+		"registered": 21,
+		"total": 23,
+		"waitlist": 4
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
+	"synonym": "51361",
+	"tags": [],
+	"title": "Linear Algebra",
+	"type": "Course",
+	"year": 2018
+}

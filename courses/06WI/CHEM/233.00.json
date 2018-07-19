@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"CHEM 233L required Soph prio"
+	],
+	"credits": 6.0,
+	"id": "2006WI CHEM 233.00",
+	"instructors": [
+		"Joe Chihade"
+	],
+	"number": "233",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 46,
+		"total": 39,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "12040",
+	"tags": [],
+	"title": "Organic Chemistry I",
+	"type": "Course",
+	"year": 2006
+}

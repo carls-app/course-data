@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2018WI CS 362.00",
+	"instructors": [
+		"Layla K Oesper"
+	],
+	"number": "362",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 and Computer Science 202 (Mathematics 236 will be accepted in leiu of Computer Science 202)",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 20,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "Recent advances in high-throughput experimental techniques have revolutionized how biologists measure DNA, RNA and protein. The size and complexity of the resulting datasets have led to a new era where computational methods are essential to answering important biological questions. This course focuses on the process of transforming biological problems into well formed computational questions and the algorithms to solve them. Topics include approaches to sequence comparison and alignment; molecular evolution and phylogenetics; DNA/RNA sequencing and assembly; and specific disease applications including cancer genomics.",
+	"synonym": "48930",
+	"tags": [],
+	"title": "Computational Biology",
+	"type": "Course",
+	"year": 2018
+}

@@ -1,0 +1,58 @@
+{
+	"comments": [
+		"GEOL.205L required"
+	],
+	"credits": 6.0,
+	"id": "2015WI GEOL 205.00",
+	"instructors": [
+		"Cameron Davidson"
+	],
+	"number": "205",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: One lab science course or instructor permission",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 13,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "GEOL",
+	"summary": "This course provides a broad overview of the geology of Earth’s finite, non-renewable energy and mineral resources. The main focus of the course will be on the processes of formation, concentration, and geologic and geographic distribution of these resources. In addition we will examine how resource and reserve estimates are made, model future trends in resource production and consumption, and study the environmental impacts of resource exploitation and use. Field trips and laboratories included.",
+	"synonym": "39951",
+	"tags": [
+		"ENTS2ENVSCI",
+		"SPECINTSUSTAIN",
+		"ENTSCDES"
+	],
+	"title": "Geology of Energy and Mineral Resources",
+	"type": "Course",
+	"year": 2015
+}

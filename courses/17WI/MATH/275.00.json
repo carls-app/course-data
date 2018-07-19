@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2017WI MATH 275.00",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "275",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 265",
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 16,
+		"total": 28,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Introduction to modern mathematical statistics. The mathematics underlying fundamental statistical concepts will be covered as well as applications of these ideas to real-life data. Topics include: resampling methods (permutation tests, bootstrap intervals), classical methods (parametric hypothesis tests and confidence intervals), parameter estimation, goodness-of-fit tests, regression, and Bayesian methods. The statistical package R will be used to analyze data sets.",
+	"synonym": "45800",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Introduction to Statistical Inference",
+	"type": "Course",
+	"year": 2017
+}

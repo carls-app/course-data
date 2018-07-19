@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"CHEM 230L required."
+	],
+	"credits": 6.0,
+	"id": "2016FA CHEM 230.00",
+	"instructors": [
+		"Steven M Drew"
+	],
+	"number": "230",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 230L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 35,
+		"total": 42,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "This course builds on topics from introductory chemistry and deals with quantitative aspects of acid-base and electron-transfer equilibria. Numerical and graphical methods are developed for the examination of these chemical systems. Several modern analytical methods of analysis are introduced including UV spectrophotometry, simultaneous spectrophotometric determinations of mixtures, potentiometry, and flow injection analysis. One laboratory per week.",
+	"synonym": "45072",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Equilibrium and Analysis",
+	"type": "Course",
+	"year": 2016
+}

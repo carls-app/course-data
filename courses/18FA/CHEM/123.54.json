@@ -1,0 +1,72 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2018FA CHEM 123.54",
+	"instructors": [
+		"Matt Whited"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103",
+			"Olin 141",
+			"Hulings 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Tu",
+				"end": "11:10am",
+				"start": "10:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:10am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Adequate secondary school preparation as indicated by the self-administered Chemistry Placement Evaluation (Chemistry Home Page) or Chemistry 122",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "54",
+	"semester": "FA",
+	"size": {
+		"registered": 8,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "52585",
+	"tags": [
+		"BIOCCORE",
+		"STEMCHEM"
+	],
+	"title": "Principles of Chemistry I With Problem Solving & Lab",
+	"type": "Course",
+	"year": 2018
+}

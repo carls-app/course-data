@@ -1,0 +1,53 @@
+{
+	"comments": [
+		"Held for new first year students"
+	],
+	"credits": 6.0,
+	"id": "1999FA CLAS 100.00",
+	"instructors": [
+		"Chico Zimmerman"
+	],
+	"number": "100",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"CL"
+	],
+	"scnc": true,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 17,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CLAS",
+	"summary": null,
+	"synonym": "4162",
+	"tags": [],
+	"title": "Homer to Hobbits",
+	"type": "Course",
+	"year": 1999
+}

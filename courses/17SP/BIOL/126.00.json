@@ -1,0 +1,59 @@
+{
+	"comments": [
+		"Sophomore Priority."
+	],
+	"credits": 6.0,
+	"id": "2017SP BIOL 126.00",
+	"instructors": [
+		"Matt Rand",
+		"Rika E Anderson"
+	],
+	"number": "126",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or 128",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 85,
+		"total": 80,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "45007",
+	"tags": [
+		"ENTSINTRO",
+		"BIOCCORE",
+		"NEURCORE"
+	],
+	"title": "Energy Flow in Biological Systems",
+	"type": "Course",
+	"year": 2017
+}

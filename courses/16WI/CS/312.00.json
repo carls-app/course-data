@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2016WI CS 312.00",
+	"instructors": [
+		"John Ellinger"
+	],
+	"number": "312",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 18,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "Students will learn the basics of MIDI and Digital Audio programming using C++. In the MIDI portion of the course, you'll learn to record, play, and transform MIDI data. You'll learn to read, write, and play standard MIDI files. During the Digital Audio portion of the course, you'll learn the basics of audio synthesis: oscillators, envelopes, filters, amplifiers, and FFT analyses. Weekly homework assignments and two major group projects.",
+	"synonym": "43416",
+	"tags": [
+		"CSELECT",
+		"CAMSELECTIVE"
+	],
+	"title": "Audio Programming",
+	"type": "Course",
+	"year": 2016
+}

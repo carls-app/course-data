@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Second 5-week"
+	],
+	"credits": 3.0,
+	"id": "2010WI PHYS 230.00",
+	"instructors": [
+		"Bill Titus"
+	],
+	"number": "230",
+	"offerings": {
+		"locations": [
+			"Olin 04"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Physics 229",
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 33,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PHYS",
+	"summary": "A numerical treatment of classical mechanics concentrating on examples which are difficult, if not impossible, to solve analytically. Topics may include examples from astrophysics and chaotic dynamics.",
+	"synonym": "22814",
+	"tags": [],
+	"title": "Computational Mechanics",
+	"type": "Course",
+	"year": 2010
+}

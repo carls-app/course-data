@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"PHYS 343L required"
+	],
+	"credits": 6.0,
+	"id": "2012WI PHYS 343.00",
+	"instructors": [
+		"Melissa Eblen-Zayas"
+	],
+	"number": "343",
+	"offerings": {
+		"locations": [
+			"Olin 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Physics 235; Concurrent registration in Physics 343L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 15,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PHYS",
+	"summary": "A study of the electrical circuits and electronics underlying modern physics instrumentation. Includes an introduction to microprocessor and microcomputer design. Approximately equal emphasis on analog and digital electronics. One laboratory per week.",
+	"synonym": "30647",
+	"tags": [
+		"CSELECT"
+	],
+	"title": "Electronics",
+	"type": "Course",
+	"year": 2012
+}

@@ -1,0 +1,65 @@
+{
+	"comments": [
+		"Extra Time Required, Students admitted by application, waitlist only"
+	],
+	"credits": 6.0,
+	"id": "2017FA CHEM 300.02",
+	"instructors": [
+		"Matt Whited"
+	],
+	"number": "300",
+	"offerings": {
+		"locations": [
+			"Old Music Hall 107",
+			"Olin 14"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 234. Admission based on submitted application and interview. All students will waitlist",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "02",
+	"semester": "FA",
+	"size": {
+		"registered": 4,
+		"total": 0,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "49034",
+	"tags": [],
+	"title": "Chemistry Research",
+	"type": "Course",
+	"year": 2017
+}

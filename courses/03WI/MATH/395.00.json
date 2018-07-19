@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"New desc"
+	],
+	"credits": 6.0,
+	"id": "2003WI MATH 395.00",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "395",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 12,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": null,
+	"synonym": "3878",
+	"tags": [],
+	"title": "Graph Theory",
+	"type": "Course",
+	"year": 2003
+}

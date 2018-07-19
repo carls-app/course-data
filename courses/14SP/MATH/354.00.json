@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2014SP MATH 354.00",
+	"instructors": [
+		"Helen M Wong"
+	],
+	"number": "354",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 321 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 23,
+		"total": 25,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "An introduction to the study of topological spaces. We develop concepts from point-set and algebraic topology in order to distinguish between different topological spaces up to homeomorphism. Topics include methods of construction of topological spaces; continuity, connectedness, compactness, Hausdorff condition; fundamental group, homotopy of maps.",
+	"synonym": "34999",
+	"tags": [
+		"STATSUPPER"
+	],
+	"title": "Topology",
+	"type": "Course",
+	"year": 2014
+}

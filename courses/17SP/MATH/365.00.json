@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2017SP MATH 365.00",
+	"instructors": [
+		"Bob Dobrow"
+	],
+	"number": "365",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 232 and 265",
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 29,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Introduction to the main discrete and continuous time stochastic processes. Topics include Markov chains, Poisson process, continuous time Markov chains, Brownian motion. Use of R and/or Mathematica.",
+	"synonym": "45885",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Stochastic Processes",
+	"type": "Course",
+	"year": 2017
+}

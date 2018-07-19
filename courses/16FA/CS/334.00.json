@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2016FA CS 334.00",
+	"instructors": [
+		"David R Musicant"
+	],
+	"number": "334",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or consent of the instructor.",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 35,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "Database systems are used in almost every aspect of computing, from storing data for websites to maintaining financial information for large corporations. Intrinsically, what is a database system and how does it work? This course takes a two-pronged approach to studying database systems. From a systems perspective, we will look at the low-level details of how a database system works internally, studying such topics as file organization, indexing, sorting techniques, and query optimization. From a theory perspective, we will examine the fundamental ideas behind database systems, such as normal forms and relational algebra.",
+	"synonym": "45184",
+	"tags": [],
+	"title": "Database Systems",
+	"type": "Course",
+	"year": 2016
+}

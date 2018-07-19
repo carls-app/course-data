@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Must reg for CHEM 123L 54 or CHEM 123L 59"
+	],
+	"credits": 6.0,
+	"id": "2003SP CHEM 123.02",
+	"instructors": [
+		"Daniela L Kohen"
+	],
+	"number": "123",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "02",
+	"semester": "SP",
+	"size": {
+		"registered": 22,
+		"total": 36,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "3553",
+	"tags": [],
+	"title": "Principles of Chemistry",
+	"type": "Course",
+	"year": 2003
+}

@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"1st 5 Week. PHYS 142L required."
+	],
+	"credits": 3.0,
+	"id": "2015FA PHYS 142.00",
+	"instructors": [
+		"Arjendu K Pattanayak"
+	],
+	"number": "142",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 121 (completion or concurrent registration) and strong preparation in physics. Not open to students who have completed Physics 131, 132, or 141 at Carleton; Concurrent registration in Physics 142L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 17,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PHYS",
+	"summary": "An introduction to Newtonian mechanics using calculus. The kinematics and dynamics of objects in motion are investigated using Newton's laws and related conservation laws. Examples of systems studied include table-top objects, simple astronomical systems, or objects in harmonic motion. This section emphasizes a bottom-up atomic perspective and introduces a computational approach to allow the consideration of atoms and molecules inside solids as well. Weekly laboratory or computational work.",
+	"synonym": "42331",
+	"tags": [
+		"STEMPHYS"
+	],
+	"title": "Introductory Mechanics: Matter and Interactions",
+	"type": "Course",
+	"year": 2015
+}

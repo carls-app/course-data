@@ -1,0 +1,41 @@
+{
+	"comments": [],
+	"credits": 2.0,
+	"id": "2012SP CHEM 345.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "345",
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 343 and 344.",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": true,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 14,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": "Statistical mechanics is the field which bridges the gap between the modern microscopic world of quantum mechanics and the classical macroscopic world of thermodynamics. Starting with the allowed quantized energy levels for the different forms of molecular motion and then statistically averaging for a large collection of molecules, partition functions are developed which accurately predict thermodynamic properties such as free energy and entropy.",
+	"synonym": "31965",
+	"tags": [],
+	"title": "Statistical Thermodynamics",
+	"type": "Course",
+	"year": 2012
+}

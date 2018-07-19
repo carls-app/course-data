@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Lab registration required"
+	],
+	"credits": 6.0,
+	"id": "2001WI GEOL 110.00",
+	"instructors": [
+		"Clint Cowan"
+	],
+	"number": "110",
+	"offerings": {
+		"locations": [
+			"Mudd 66"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 17,
+		"total": 18,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "GEOL",
+	"summary": null,
+	"synonym": "606",
+	"tags": [],
+	"title": "Introduction to Geology",
+	"type": "Course",
+	"year": 2001
+}

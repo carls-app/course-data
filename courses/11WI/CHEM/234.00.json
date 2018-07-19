@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"CHEM 234L required"
+	],
+	"credits": 6.0,
+	"id": "2011WI CHEM 234.00",
+	"instructors": [
+		"Gretchen E Hofmeister"
+	],
+	"number": "234",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 233 and concurrent registration in Chemistry 234L; CHEM.234L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 58,
+		"total": 66,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "The chemistry of functional groups is continued from Chemistry 233, and is extended to the multifunctional compounds found in nature, in particular carbohydrates and proteins. The laboratory focuses upon inquiry-based projects and spectroscopic analysis. One laboratory per week.",
+	"synonym": "25625",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Organic Chemistry II",
+	"type": "Course",
+	"year": 2011
+}

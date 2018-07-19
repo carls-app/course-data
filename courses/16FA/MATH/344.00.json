@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2016FA MATH 344.00",
+	"instructors": [
+		"Rob Thompson"
+	],
+	"number": "344",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or permission of the instructor.",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 15,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Local and global theory of curves, Frenet formulas. Local theory of surfaces, normal curvature, geodesics, Gaussian and mean curvatures, Theorema Egregium.",
+	"synonym": "45753",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Differential Geometry",
+	"type": "Course",
+	"year": 2016
+}

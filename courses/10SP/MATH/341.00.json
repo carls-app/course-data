@@ -1,0 +1,49 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2010SP MATH 341.00",
+	"instructors": [
+		"Sam Patterson"
+	],
+	"number": "341",
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 241",
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 25,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Fourier series and their applications to boundary value problems in partial differential equations. Topics include separation of variables, orthogonal sets of functions, representations of functions in series of orthogonal functions, Sturm-Liouville theory, and Fourier transforms.",
+	"synonym": "23283",
+	"tags": [],
+	"title": "Fourier Series and Boundary Value Problems",
+	"type": "Course",
+	"year": 2010
+}

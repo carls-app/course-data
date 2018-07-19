@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"CHEM 349 required"
+	],
+	"credits": 6.0,
+	"id": "2008SP CHEM 348.00",
+	"instructors": [
+		"Daniela L Kohen"
+	],
+	"number": "348",
+	"offerings": {
+		"locations": [
+			"Olin 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 10,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "17415",
+	"tags": [],
+	"title": "Intro to Computational Chem",
+	"type": "Course",
+	"year": 2008
+}

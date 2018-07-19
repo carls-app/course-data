@@ -1,0 +1,46 @@
+{
+	"comments": [
+		"Lab registration required"
+	],
+	"credits": 6.0,
+	"id": "2000FA PHYS 128.00",
+	"instructors": [
+		"Nelson L Christensen"
+	],
+	"number": "128",
+	"offerings": {
+		"locations": [
+			"Olin 02"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 30,
+		"total": 33,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PHYS",
+	"summary": null,
+	"synonym": "365",
+	"tags": [],
+	"title": "Atomic and Nuclear Physics",
+	"type": "Course",
+	"year": 2000
+}

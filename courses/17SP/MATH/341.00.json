@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2017SP MATH 341.00",
+	"instructors": [
+		"Rob Thompson"
+	],
+	"number": "341",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 241",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 14,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Fourier series and their applications to boundary value problems in partial differential equations. Topics include separation of variables, orthogonal sets of functions, representations of functions in series of orthogonal functions, Sturm-Liouville theory, and Fourier transforms.",
+	"synonym": "45882",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Fourier Series and Boundary Value Problems",
+	"type": "Course",
+	"year": 2017
+}

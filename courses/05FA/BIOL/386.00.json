@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"BIOL 387 required"
+	],
+	"credits": 6.0,
+	"id": "2005FA BIOL 386.00",
+	"instructors": [
+		"Bob Rosenberg"
+	],
+	"number": "386",
+	"offerings": {
+		"locations": [
+			"Olin 101"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 10,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "11954",
+	"tags": [
+		"CGSCELECTIVE",
+		"NEURCORE"
+	],
+	"title": "Neurobiology",
+	"type": "Course",
+	"year": 2005
+}

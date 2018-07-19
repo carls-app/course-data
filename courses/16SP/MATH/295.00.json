@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2016SP MATH 295.00",
+	"instructors": [
+		"Gail S Nelson"
+	],
+	"number": "295",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 16,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Introduction to set-theoretic foundations of mathematics. The axiom system of Zermelo-Fraenkel, cardinal and ordinal numbers, and the Axiom of Choice. As time permits, additional topics may include construction of the real number, transfinite induction, or consistency/independence proofs.",
+	"synonym": "41529",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Seminar in Set Theory",
+	"type": "Course",
+	"year": 2016
+}

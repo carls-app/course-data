@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2017FA CS 111.03",
+	"instructors": [
+		"Sherri L Goings"
+	],
+	"number": "111",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "03",
+	"semester": "FA",
+	"size": {
+		"registered": 30,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "This course will introduce you to computer programming and the design of algorithms. By writing programs to solve problems in areas such as image processing, text processing, and simple games, you will learn about recursive and iterative algorithms, complexity analysis, graphics, data representation, software engineering, and object-oriented design. No previous programming experience is necessary. Students who have received credit for Computer Science 201 or above are not eligible to enroll in Computer Science 111. Students may not simultaneously enroll for CS 108 and CS 111 in the same term.",
+	"synonym": "48881",
+	"tags": [
+		"CGSCCORE"
+	],
+	"title": "Introduction to Computer Science",
+	"type": "Course",
+	"year": 2017
+}

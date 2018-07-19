@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"Lab registration required X-List ENTS 128 Soph Prio"
+	],
+	"credits": 6.0,
+	"id": "2001SP CHEM 128.00",
+	"instructors": [
+		"Will Hollingsworth"
+	],
+	"number": "128",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 34,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "696",
+	"tags": [
+		"ENTSSCI",
+		"ENTSLAB"
+	],
+	"title": "Principles-Environmental Chem",
+	"type": "Course",
+	"year": 2001
+}

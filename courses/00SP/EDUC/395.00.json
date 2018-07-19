@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"Ed Studies Concentrators only"
+	],
+	"credits": 6.0,
+	"id": "2000SP EDUC 395.00",
+	"instructors": [
+		"John G Ramsay"
+	],
+	"number": "395",
+	"offerings": {
+		"locations": [
+			"Laird 204"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 7,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "EDUC",
+	"summary": null,
+	"synonym": "2295",
+	"tags": [],
+	"title": "Senior Seminar",
+	"type": "Course",
+	"year": 2000
+}

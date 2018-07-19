@@ -1,0 +1,60 @@
+{
+	"comments": [
+		"Replaces Chemistry 230"
+	],
+	"credits": 6.0,
+	"id": "2018SP CHEM 224.53",
+	"instructors": [
+		"Joe Chihade"
+	],
+	"number": "224",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			},
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or Chemistry 128",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "53",
+	"semester": "SP",
+	"size": {
+		"registered": 17,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "49059",
+	"tags": [],
+	"title": "Principles of Chemistry II and Lab",
+	"type": "Course",
+	"year": 2018
+}

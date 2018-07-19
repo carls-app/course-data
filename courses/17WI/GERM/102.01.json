@@ -1,0 +1,61 @@
+{
+	"comments": [
+		"Students with course conflicts and a 5 day German language course, it is possible to register for MWF section 01 and TTh secton 02 German language courses. Contact jschicker@carleton.edu"
+	],
+	"credits": 6.0,
+	"id": "2017WI GERM 102.01",
+	"instructors": [
+		"Sigi Leonhard"
+	],
+	"number": "102",
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: German 101 or equivalent",
+	"requirements": [],
+	"scnc": null,
+	"section": "01",
+	"semester": "WI",
+	"size": {
+		"registered": 9,
+		"total": 16,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "GERM",
+	"summary": "Further study of the basic structural patterns of the German language.",
+	"synonym": "45671",
+	"tags": [],
+	"title": "Elementary German",
+	"type": "Course",
+	"year": 2017
+}

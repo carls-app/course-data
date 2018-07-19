@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2015FA CS 202.00",
+	"instructors": [
+		"Layla K Oesper"
+	],
+	"number": "202",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 111 and Mathematics 111 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "FA",
+	"size": {
+		"registered": 12,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "This course introduces some of the formal tools of computer science, using a variety of applications as a vehicle. You'll learn how to encode data so that when you scratch the back of a DVD, it still plays just fine; how to distribute \"shares\" of your floor's PIN so that any five of you can withdraw money from the floor bank account (but no four of you can); how to play chess; and more. Topics that we'll explore along the way include: logic and proofs, number theory, elementary complexity theory and recurrence relations, basic probability, counting techniques, and graphs.",
+	"synonym": "42039",
+	"tags": [
+		"LINGPERT"
+	],
+	"title": "Mathematics of Computer Science",
+	"type": "Course",
+	"year": 2015
+}

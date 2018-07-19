@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2016SP MATH 395.00",
+	"instructors": [
+		"Eric S Egge"
+	],
+	"number": "395",
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: MATH 333, an equivalent Budapest Semesters in MATH course, or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Selected topics beyond the material of Math 333. Topics may include Stirling numbers, perfect graphs, exponential generating functions, advanced generating functionology, hypergeometric series, enumeration of plane partitions, combinatorial q-analogues, the hook length formula, and the transfer-matrix method.",
+	"synonym": "41534",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Topics in Combinatorics",
+	"type": "Course",
+	"year": 2016
+}

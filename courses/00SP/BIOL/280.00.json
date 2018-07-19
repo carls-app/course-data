@@ -1,0 +1,51 @@
+{
+	"comments": [
+		"BIOL 281 required."
+	],
+	"credits": 6.0,
+	"id": "2000SP BIOL 280.00",
+	"instructors": [
+		"Fernán Jaramillo"
+	],
+	"number": "280",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 40,
+		"total": 48,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "2547",
+	"tags": [],
+	"title": "Cell Biology",
+	"type": "Course",
+	"year": 2000
+}

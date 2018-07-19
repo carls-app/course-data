@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"CHEM 233L 54 or 59 required."
+	],
+	"credits": 6.0,
+	"id": "2016FA CHEM 233.02",
+	"instructors": [
+		"Buck L Taylor"
+	],
+	"number": "233",
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or 128 and concurrent registration in Chemistry 233L",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "02",
+	"semester": "FA",
+	"size": {
+		"registered": 40,
+		"total": 45,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "Theoretical aspects of carbon chemistry are examined with reference to structure-reactivity relationships, functional groups, stereochemistry, reaction mechanisms and spectroscopy. Laboratory work concentrates on modern techniques of organic chemistry, inquiry-based projects, and spectroscopic analysis. One laboratory per week.",
+	"synonym": "45074",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Organic Chemistry I",
+	"type": "Course",
+	"year": 2016
+}

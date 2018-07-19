@@ -1,0 +1,45 @@
+{
+	"comments": [
+		"CHEM 320 required."
+	],
+	"credits": 2.0,
+	"id": "2018SP CHEM 321.01",
+	"instructors": [
+		"Chris Calderone"
+	],
+	"number": "321",
+	"offerings": {
+		"locations": [
+			"Hulings 103"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 234 and either Chemistry 224 (230) or Biology 380",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "SP",
+	"size": {
+		"registered": 11,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": "Purification and characterization of proteins and nucleic acids, with a focus on enzyme kinetics and mechanism, macromolecular interactions with small molecules and the basis of specificity in biological systems. One laboratory per week. Corequisite: Chemistry 320.",
+	"synonym": "49067",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Biological Chemistry Laboratory",
+	"type": "Course",
+	"year": 2018
+}

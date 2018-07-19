@@ -1,0 +1,45 @@
+{
+	"comments": [
+		"CHEM 320 required."
+	],
+	"credits": 2.0,
+	"id": "2015SP CHEM 321.02",
+	"instructors": [
+		"Chris Calderone"
+	],
+	"number": "321",
+	"offerings": {
+		"locations": [
+			"Mudd 266"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Concurrent registraiton in Chemistry 320; CHEM 234 and either CHEM 230 or BIOL 380",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "02",
+	"semester": "SP",
+	"size": {
+		"registered": 8,
+		"total": 8,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": "Purification and characterization of proteins and nucleic acids, with a focus on enzyme kinetics and mechanism, macromolecular interactions with small molecules and the basis of specificity in biological systems. One laboratory per week. Corequisite: Chemistry 320.",
+	"synonym": "38481",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Biological Chemistry Laboratory",
+	"type": "Course",
+	"year": 2015
+}

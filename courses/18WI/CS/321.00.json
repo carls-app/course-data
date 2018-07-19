@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2018WI CS 321.00",
+	"instructors": [
+		"Blake S Howald"
+	],
+	"number": "321",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201. Additionally Computer Science 202 is strongly recommended.",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 34,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "How can we design computer systems with behavior that seems \"intelligent?\" This course will examine a number of different approaches to this question, including intelligent search computer game playing, automated logic, machine learning (including neural networks), and reasoning with uncertainty. The coursework is a mix of problem solving and computer programming based on the ideas that we discuss.",
+	"synonym": "48917",
+	"tags": [
+		"CGSCELECTIVE",
+		"NEURELEC"
+	],
+	"title": "Artificial Intelligence",
+	"type": "Course",
+	"year": 2018
+}
