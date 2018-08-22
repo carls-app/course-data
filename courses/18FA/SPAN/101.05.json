@@ -1,15 +1,16 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2018FA CHEM 233.57",
+	"id": "2018FA SPAN 101.05",
 	"instructors": [
-		"David G Alberg"
+		"Vera R Coleman"
 	],
-	"number": "233",
+	"number": "101",
 	"offerings": {
 		"locations": [
-			"Olin 149",
-			"Hulings 118"
+			"Language & Dining Center 202",
+			"Language & Dining Center 244",
+			"Language & Dining Center 335"
 		],
 		"times": [
 			{
@@ -19,13 +20,18 @@
 			},
 			{
 				"day": "Tu",
-				"end": "12:00pm",
-				"start": "8:00am"
+				"end": "2:20pm",
+				"start": "1:15pm"
 			},
 			{
 				"day": "We",
 				"end": "1:40pm",
 				"start": "12:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
 			},
 			{
 				"day": "Fr",
@@ -34,27 +40,22 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Chemistry 123 or 128",
-	"requirements": [
-		"LS",
-		"QRE"
-	],
+	"prerequisites": null,
+	"requirements": [],
 	"scnc": null,
-	"section": "57",
+	"section": "05",
 	"semester": "FA",
 	"size": {
-		"registered": 12,
-		"total": 20,
+		"registered": 0,
+		"total": 16,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "CHEM",
+	"subject": "SPAN",
 	"summary": null,
-	"synonym": "51106",
-	"tags": [
-		"BIOCCORE"
-	],
-	"title": "Organic Chemistry I & Lab",
+	"synonym": "52340",
+	"tags": [],
+	"title": "Elementary Spanish",
 	"type": "Course",
 	"year": 2018
 }
