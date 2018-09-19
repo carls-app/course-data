@@ -8,43 +8,7 @@
 		"Donna Ricks"
 	],
 	"number": "218",
-	"offerings": {
-		"locations": [
-			"Recreation Center FIEL"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			},
-			{
-				"day": "Tu",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			},
-			{
-				"day": "We",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			},
-			{
-				"day": "Th",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			},
-			{
-				"day": "Fr",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			},
-			{
-				"day": "Sa",
-				"end": "9:00pm",
-				"start": "6:30pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
@@ -53,7 +17,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 40,
 		"waitlist": 0
 	},

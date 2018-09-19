@@ -6,7 +6,18 @@
 		"Annette M Nierobisz"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "9:00am",
+				"start": "8:00am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
