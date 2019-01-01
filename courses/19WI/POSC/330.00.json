@@ -1,0 +1,52 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019WI POSC 330.00",
+	"instructors": [
+		"Greg Marfleet"
+	],
+	"number": "330",
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"SI",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 6,
+		"total": 15,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "POSC",
+	"summary": "Theories of complexity and emergence relate to how large-scale collective properties and characteristics of a system can arise from the behavior and attributes of component parts. This course explores the relevance of these concepts, studied mainly in physics and biology, for the social sciences. Students will explore agent-based modeling to discover emergent properties of social systems through computer simulations they create using NetLogo software. Reading and seminar discussion topics include conflict and cooperation, electoral competition, transmission of culture and social networks. Completion of the stats/methods sequence is highly recommended.",
+	"synonym": "51916",
+	"tags": [
+		"POSIADVSEM",
+		"POSCADVSEM",
+		"POSIELECTIVE",
+		"POSI-LPS2"
+	],
+	"title": "The Complexity of Politics*",
+	"type": "Course",
+	"year": 2019
+}

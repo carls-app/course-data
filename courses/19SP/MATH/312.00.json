@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019SP MATH 312.00",
+	"instructors": [
+		"Caroline L Turnage-Butterbaugh"
+	],
+	"number": "312",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or consent of the instructor.",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 0,
+		"total": 30,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "MATH",
+	"summary": "Properties of the integers. Topics include the Euclidean algorithm, classical unsolved problems in number theory, prime factorization, Diophantine equations, congruences, divisibility, Euler's phi function and other multiplicative functions, primitive roots, and quadratic reciprocity. Other topics may include integers as sums of squares, continued fractions, distribution of primes, integers in extension fields, p-adic numbers.",
+	"synonym": "51440",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Elementary Theory of Numbers",
+	"type": "Course",
+	"year": 2019
+}

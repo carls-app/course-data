@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"id": "2019WI CS 111.02",
+	"instructors": [
+		"Eric C Alexander"
+	],
+	"number": "111",
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "02",
+	"semester": "WI",
+	"size": {
+		"registered": 33,
+		"total": 34,
+		"waitlist": 8
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": "This course will introduce you to computer programming and the design of algorithms. By writing programs to solve problems in areas such as image processing, text processing, and simple games, you will learn about recursive and iterative algorithms, complexity analysis, graphics, data representation, software engineering, and object-oriented design. No previous programming experience is necessary. Students who have received credit for Computer Science 201 or above are not eligible to enroll in Computer Science 111. Students may not simultaneously enroll for CS 108 and CS 111 in the same term.",
+	"synonym": "51310",
+	"tags": [
+		"CGSCCORE"
+	],
+	"title": "Introduction to Computer Science",
+	"type": "Course",
+	"year": 2019
+}

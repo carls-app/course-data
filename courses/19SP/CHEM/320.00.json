@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019SP CHEM 320.00",
+	"instructors": [
+		"Chris Calderone"
+	],
+	"number": "320",
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 234 and either Chemistry 224 (230) or Biology 380",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 0,
+		"total": 40,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": "This course involves the natural extension of the principles of chemistry to biological systems. The topics to be examined center around the biochemical formation and cleavage of chemical bonds, with an emphasis on the structure and function of the proteins that mediate these processes.",
+	"synonym": "51140",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Biological Chemistry",
+	"type": "Course",
+	"year": 2019
+}

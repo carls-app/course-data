@@ -1,0 +1,50 @@
+{
+	"comments": [
+		"PSYC 200 required."
+	],
+	"credits": 2.0,
+	"id": "2019WI PSYC 201.01",
+	"instructors": [
+		"Julie J Neiworth"
+	],
+	"number": "201",
+	"offerings": {
+		"locations": [
+			"Olin 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Psychology 110. Requires concurrent registration in Psychology 200",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "WI",
+	"size": {
+		"registered": 15,
+		"total": 12,
+		"waitlist": 3
+	},
+	"status": "Closed",
+	"subject": "PSYC",
+	"summary": "This lab course accompanies the lecture course, Psychology 200, and must be taken during the same term. The lab will provide an opportunity to explore lecture topics more deeply, and in particular emphasize data collection and computational skills.",
+	"synonym": "51246",
+	"tags": [
+		"PSYCMETHODS"
+	],
+	"title": "Measurement and Data Analysis Lab",
+	"type": "Course",
+	"year": 2019
+}

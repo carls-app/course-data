@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019SP CS 208.00",
+	"instructors": [
+		"Jeffrey R Ondich"
+	],
+	"number": "208",
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 0,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": "Computer processors are extraordinarily complex systems. The fact that they work at all, let alone as reliably as they do, is a monumental achievement of human collaboration. In this course, we will study the structure of computer processors, with attention to digital logic, assembly language, performance evaluation, computer arithmetic, data paths and control, pipelining, and memory hierarchies.",
+	"synonym": "51343",
+	"tags": [],
+	"title": "Computer Organization and Architecture",
+	"type": "Course",
+	"year": 2019
+}

@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019WI CHEM 233.52",
+	"instructors": [
+		"David G Alberg"
+	],
+	"number": "233",
+	"offerings": {
+		"locations": [
+			"Olin 149",
+			"Hulings 118"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 123 or 128",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "52",
+	"semester": "WI",
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 2
+	},
+	"status": "Closed",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "51117",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Organic Chemistry I & Lab",
+	"type": "Course",
+	"year": 2019
+}

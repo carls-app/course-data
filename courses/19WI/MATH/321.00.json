@@ -1,0 +1,54 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019WI MATH 321.00",
+	"instructors": [
+		"Owen D Biesel"
+	],
+	"number": "321",
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or permission of the instructor",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 20,
+		"total": 20,
+		"waitlist": 9
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "A systematic study of concepts basic to calculus, such as topology of the real numbers, limits, differentiation, integration, convergence of sequences, and series of functions.",
+	"synonym": "51404",
+	"tags": [
+		"ELECSTAT",
+		"STATSUPPER"
+	],
+	"title": "Real Analysis I",
+	"type": "Course",
+	"year": 2019
+}

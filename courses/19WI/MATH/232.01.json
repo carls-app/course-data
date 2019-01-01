@@ -1,0 +1,51 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019WI MATH 232.01",
+	"instructors": [
+		"Owen D Biesel"
+	],
+	"number": "232",
+	"offerings": {
+		"locations": [
+			"Leighton 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 120 or 211",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "WI",
+	"size": {
+		"registered": 33,
+		"total": 25,
+		"waitlist": 5
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
+	"synonym": "51392",
+	"tags": [],
+	"title": "Linear Algebra",
+	"type": "Course",
+	"year": 2019
+}
