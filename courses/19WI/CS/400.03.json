@@ -8,13 +8,19 @@
 	"number": "400",
 	"offerings": {
 		"locations": [
-			"CMC 328"
+			"CMC 328",
+			"CMC 319"
 		],
 		"times": [
 			{
 				"day": "Th",
 				"end": "4:00pm",
 				"start": "3:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "2:00pm"
 			}
 		]
 	},
