@@ -10,7 +10,6 @@
 	"offerings": {
 		"locations": [
 			"Leighton 305",
-			"Leighton 304",
 			"Leighton 402"
 		],
 		"times": [
@@ -28,21 +27,6 @@
 				"day": "Fr",
 				"end": "3:20pm",
 				"start": "2:20pm"
-			},
-			{
-				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
-			},
-			{
-				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
-			},
-			{
-				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
 			}
 		]
 	},
