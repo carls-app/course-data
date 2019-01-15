@@ -6,7 +6,28 @@
 		"Brielle M Bjorke"
 	],
 	"number": "238",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Neuroscience 127 or Psychology 216 and Biology 125",
 	"requirements": [
 		"QRE"
