@@ -8,7 +8,23 @@
 		"Marynel Ryan Van Zee"
 	],
 	"number": "202",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Library 344"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Participation in the Mellon Program/MMUF or MGSEF Program.",
 	"requirements": [],
 	"scnc": true,
