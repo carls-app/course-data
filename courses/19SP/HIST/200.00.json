@@ -21,7 +21,10 @@
 		]
 	},
 	"prerequisites": null,
-	"requirements": [],
+	"requirements": [
+		"HI",
+		"IDS"
+	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",

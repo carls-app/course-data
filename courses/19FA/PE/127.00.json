@@ -1,14 +1,15 @@
 {
 	"comments": [],
-	"credits": 6.0,
-	"id": "2019SP RELG 357.00",
+	"credits": 0.0,
+	"id": "2019FA PE 127.00",
 	"instructors": [
-		"Noah Salomon"
+		"Staff",
+		"Linda K Luedke"
 	],
-	"number": "357",
+	"number": "127",
 	"offerings": {
 		"locations": [
-			"Boliou 140"
+			"Recreation Center FIEL"
 		],
 		"times": [
 			{
@@ -25,26 +26,22 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		"SI",
-		"WR2",
-		"IS"
+		"PE"
 	],
-	"scnc": null,
+	"scnc": true,
 	"section": "00",
-	"semester": "SP",
+	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 15,
+		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "RELG",
+	"subject": "PE",
 	"summary": null,
-	"synonym": "52134",
-	"tags": [
-		"CAMSXDEPT"
-	],
-	"title": "Televangelists and Cyber-Shaykhs: Explorations in Religion and Media",
+	"synonym": "54213",
+	"tags": [],
+	"title": "Frisbee, Beginning Ultimate",
 	"type": "Course",
 	"year": 2019
 }
