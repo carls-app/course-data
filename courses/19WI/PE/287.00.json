@@ -32,6 +32,11 @@
 				"day": "Th",
 				"end": "5:30pm",
 				"start": "3:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "5:30pm",
+				"start": "3:30pm"
 			}
 		]
 	},
@@ -43,7 +48,7 @@
 	"section": "00",
 	"semester": "WI",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 40,
 		"waitlist": 0
 	},
