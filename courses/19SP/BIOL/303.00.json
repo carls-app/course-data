@@ -6,7 +6,18 @@
 		"Debby R Walser-Kuntz"
 	],
 	"number": "303",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Junior or Senior Biology Major",
 	"requirements": [],
 	"scnc": true,
