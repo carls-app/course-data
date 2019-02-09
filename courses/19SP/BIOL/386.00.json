@@ -8,18 +8,23 @@
 	"number": "386",
 	"offerings": {
 		"locations": [
-			"Olin 141"
+			"Leighton 305"
 		],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
-				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
 			}
 		]
 	},
