@@ -6,7 +6,18 @@
 		"Yaron Klein"
 	],
 	"number": "315",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Arabic 206",
 	"requirements": [
 		"LA",
