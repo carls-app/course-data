@@ -15,7 +15,12 @@
 		"times": [
 			{
 				"day": "Tu",
-				"end": "10:35am",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
 				"start": "8:15am"
 			}
 		]
@@ -28,7 +33,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 24,
 		"waitlist": 0
 	},
