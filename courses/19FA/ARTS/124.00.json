@@ -1,12 +1,28 @@
 {
 	"comments": [
-		"Class fees apply"
+		"Sophomore Priority, Materials fee applies"
 	],
 	"credits": 6.0,
 	"id": "2019FA ARTS 124.00",
 	"instructors": [],
 	"number": "124",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 020"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:45pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:45pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -21,10 +37,10 @@
 	},
 	"status": "Open",
 	"subject": "ARTS",
-	"summary": "Class fees apply",
+	"summary": "In this course students will combine the fundamentals of 3D design and thinking with conceptual frameworks that incorporate model-making and architectural forms. The course will be composed of different sections of study, each relating to various ways of thinking in 3D, and each grounded in the praxis of informed action within a cultural context.  Students will simultaneously develop an understanding of the history, context and generative possibilities of creative 3D work, while also developing a personal voice.\n    \n\n     Sophomore Priority, Materials fee applies\n    \n\n\n      Waitlist for Juniors and Seniors:\n     \n     ARTS 124.WL0 (Synonym 54502)",
 	"synonym": "54488",
 	"tags": [],
-	"title": "Praxis and Poetics in 3D",
+	"title": "Praxis and Poetics in 3D Art and Design",
 	"type": "Course",
 	"year": 2019
 }

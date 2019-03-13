@@ -8,7 +8,28 @@
 		"Baird E Jarman"
 	],
 	"number": "100",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 140"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
@@ -27,7 +48,7 @@
 	"summary": null,
 	"synonym": "54470",
 	"tags": [],
-	"title": "Political Caricature History",
+	"title": "Laughing Matters: The History of Political Caricature",
 	"type": "Course",
 	"year": 2019
 }

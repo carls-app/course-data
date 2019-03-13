@@ -8,7 +8,28 @@
 		"Kathleen M Ryor"
 	],
 	"number": "100",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
@@ -27,7 +48,7 @@
 	"summary": null,
 	"synonym": "54498",
 	"tags": [],
-	"title": "Cultural Life Plants in China",
+	"title": "The Cultural Life of Plants in China",
 	"type": "Course",
 	"year": 2019
 }

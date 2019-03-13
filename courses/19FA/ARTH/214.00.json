@@ -8,7 +8,23 @@
 		"Ross K Elfline"
 	],
 	"number": "214",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Any one art history course",
 	"requirements": [
 		"LA",

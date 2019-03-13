@@ -8,7 +8,28 @@
 		"Charisse E Burden-Stelly"
 	],
 	"number": "100",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 301"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
@@ -28,7 +49,7 @@
 	"summary": null,
 	"synonym": "54452",
 	"tags": [],
-	"title": "Black Liberation",
+	"title": "To Make the World Anew: Black Liberation in the 20th Century",
 	"type": "Course",
 	"year": 2019
 }
