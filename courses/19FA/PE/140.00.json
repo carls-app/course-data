@@ -1,28 +1,25 @@
 {
-	"comments": [
-		"Required $5 book fee will be automatically charged on tuition  bill."
-	],
+	"comments": [],
 	"credits": 0.0,
-	"id": "2019FA PE 198.02",
+	"id": "2019FA PE 140.00",
 	"instructors": [
-		"Staff",
-		"Linda K Luedke"
+		"Ray Hayward"
 	],
-	"number": "198",
+	"number": "140",
 	"offerings": {
 		"locations": [
 			"Cowling DANC"
 		],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "4:10pm",
-				"start": "3:00pm"
+				"day": "Tu",
+				"end": "2:20pm",
+				"start": "1:15pm"
 			},
 			{
-				"day": "We",
-				"end": "4:10pm",
-				"start": "3:00pm"
+				"day": "Th",
+				"end": "2:20pm",
+				"start": "1:15pm"
 			}
 		]
 	},
@@ -31,19 +28,19 @@
 		"PE"
 	],
 	"scnc": true,
-	"section": "02",
+	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 30,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "PE",
 	"summary": null,
-	"synonym": "54236",
+	"synonym": "54578",
 	"tags": [],
-	"title": "Yoga, Continuing",
+	"title": "Intro to Art & Science Tai-Chi",
 	"type": "Course",
 	"year": 2019
 }
