@@ -1,36 +1,38 @@
 {
-	"comments": [
-		"Cross-listed with DANC 158",
-		"Cross-listed with DANC 158.00"
-	],
-	"credits": 0.0,
-	"id": "2019FA PE 115.00",
+	"comments": [],
+	"credits": 6.0,
+	"id": "2019FA DANC 295.00",
 	"instructors": [
-		"Jane Shockley"
+		"Judith A Howard"
 	],
-	"number": "115",
+	"number": "295",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
 		],
 		"times": [
 			{
-				"day": "Mo",
+				"day": "Tu",
 				"end": "3:00pm",
-				"start": "1:50pm"
+				"start": "1:15pm"
 			},
 			{
-				"day": "We",
+				"day": "Th",
 				"end": "3:00pm",
-				"start": "1:50pm"
+				"start": "1:15pm"
+			},
+			{
+				"day": "Fr",
+				"end": "6:00pm",
+				"start": "4:00pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"PE"
+		"ARP"
 	],
-	"scnc": true,
+	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
@@ -39,11 +41,11 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PE",
+	"subject": "DANC",
 	"summary": null,
-	"synonym": "54210",
+	"synonym": "53230",
 	"tags": [],
-	"title": "Contemporary Dance Forms I",
+	"title": "Dance Lab",
 	"type": "Course",
 	"year": 2019
 }

@@ -1,49 +1,48 @@
 {
 	"comments": [
-		"Cross-listed with DANC 158",
-		"Cross-listed with DANC 158.00"
+		"Cross-listed with PE 108"
 	],
-	"credits": 0.0,
-	"id": "2019FA PE 115.00",
+	"credits": 1.0,
+	"id": "2019FA DANC 208.00",
 	"instructors": [
-		"Jane Shockley"
+		"Jennifer Bader"
 	],
-	"number": "115",
+	"number": "208",
 	"offerings": {
 		"locations": [
-			"Weitz Center 165"
+			"Weitz Center 168"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:20pm",
+				"start": "11:10am"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"PE"
+		"ARP"
 	],
 	"scnc": true,
 	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PE",
+	"subject": "DANC",
 	"summary": null,
-	"synonym": "54210",
+	"synonym": "53228",
 	"tags": [],
-	"title": "Contemporary Dance Forms I",
+	"title": "Ballet II",
 	"type": "Course",
 	"year": 2019
 }

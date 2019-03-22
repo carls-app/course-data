@@ -1,14 +1,14 @@
 {
 	"comments": [
-		"Cross-listed with DANC 158",
-		"Cross-listed with DANC 158.00"
+		"Audition required."
 	],
-	"credits": 0.0,
-	"id": "2019FA PE 115.00",
+	"credits": 1.0,
+	"id": "2019FA DANC 350.00",
 	"instructors": [
+		"Judith A Howard",
 		"Jane Shockley"
 	],
-	"number": "115",
+	"number": "350",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -16,34 +16,44 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "5:30pm",
+				"start": "3:30pm"
 			},
 			{
 				"day": "We",
+				"end": "5:30pm",
+				"start": "3:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "9:00pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Sa",
 				"end": "3:00pm",
-				"start": "1:50pm"
+				"start": "12:00pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"PE"
+		"ARP"
 	],
 	"scnc": true,
 	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PE",
+	"subject": "DANC",
 	"summary": null,
-	"synonym": "54210",
+	"synonym": "53233",
 	"tags": [],
-	"title": "Contemporary Dance Forms I",
+	"title": "Semaphore Repertory Dance Comp",
 	"type": "Course",
 	"year": 2019
 }

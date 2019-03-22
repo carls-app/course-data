@@ -1,14 +1,13 @@
 {
 	"comments": [
-		"Cross-listed with DANC 158",
-		"Cross-listed with DANC 158.00"
+		"Cross-listed with PE 150"
 	],
-	"credits": 0.0,
-	"id": "2019FA PE 115.00",
+	"credits": 1.0,
+	"id": "2019FA DANC 150.00",
 	"instructors": [
 		"Jane Shockley"
 	],
-	"number": "115",
+	"number": "150",
 	"offerings": {
 		"locations": [
 			"Weitz Center 165"
@@ -16,34 +15,36 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "1:40pm",
+				"start": "12:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "1:40pm",
+				"start": "12:30pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"PE"
+		"ARP"
 	],
 	"scnc": true,
 	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PE",
+	"subject": "DANC",
 	"summary": null,
-	"synonym": "54210",
-	"tags": [],
-	"title": "Contemporary Dance Forms I",
+	"synonym": "53225",
+	"tags": [
+		"THEAPERT"
+	],
+	"title": "Contact Improvisation",
 	"type": "Course",
 	"year": 2019
 }
