@@ -8,7 +8,23 @@
 		"Matt Rand"
 	],
 	"number": "100",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 230"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Requires concurrent registration in IDSC 198",
 	"requirements": [
 		"AI",
