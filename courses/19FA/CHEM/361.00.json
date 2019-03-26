@@ -6,7 +6,28 @@
 		"Steven M Drew"
 	],
 	"number": "361",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 223"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Chemistry 224 and Chemistry 234 or instructor permission",
 	"requirements": [],
 	"scnc": null,
