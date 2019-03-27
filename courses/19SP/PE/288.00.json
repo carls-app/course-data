@@ -8,38 +8,7 @@
 		"Dave Ricks"
 	],
 	"number": "288",
-	"offerings": {
-		"locations": [
-			"Stadium 101"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "Tu",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "We",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "Th",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "Fr",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
@@ -48,7 +17,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 48,
 		"total": 60,
 		"waitlist": 0
 	},

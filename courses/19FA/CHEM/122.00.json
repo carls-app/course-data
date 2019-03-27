@@ -23,7 +23,7 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Students with high school chemistry should probably take Chemistry 123 or 128. (Determined by the self-administered Chemistry Placement Evaluation, Chemistry Home Page).",
 	"requirements": [
 		"QRE"
 	],
@@ -37,10 +37,10 @@
 	},
 	"status": "Open",
 	"subject": "CHEM",
-	"summary": null,
+	"summary": "An introduction to the fundamentals of chemistry to prepare students to enter subsequent chemistry courses (Chemistry 123 or 128). Atoms and molecules, stoichiometry, and gases will be covered in the course. Although learning through discovery-based processes, small groups, and short laboratory experimentation will occur, this is not a lab course and doesn't fulfill the requirements for medical school. This course assumes competence with simple algebra, but no prior chemistry experience.",
 	"synonym": "53158",
 	"tags": [],
-	"title": "Introduction to Chemistry",
+	"title": "An Introduction to Chemistry",
 	"type": "Course",
 	"year": 2019
 }
