@@ -1,20 +1,26 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2019SP RELG 120.00",
+	"id": "2019SP CHEM 123.57",
 	"instructors": [
-		"Daniel M Picus"
+		"Daniela L Kohen"
 	],
-	"number": "120",
+	"number": "123",
 	"offerings": {
 		"locations": [
-			"Weitz Center 132"
+			"Olin 141",
+			"Hulings 106"
 		],
 		"times": [
 			{
 				"day": "Mo",
 				"end": "11:00am",
 				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "8:00am"
 			},
 			{
 				"day": "We",
@@ -30,27 +36,26 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		"HI",
-		"WR2",
-		"IS"
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
-	"section": "00",
+	"section": "57",
 	"semester": "SP",
 	"size": {
-		"registered": 23,
-		"total": 25,
+		"registered": 12,
+		"total": 24,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "RELG",
+	"subject": "CHEM",
 	"summary": null,
-	"synonym": "52547",
+	"synonym": "54785",
 	"tags": [
-		"JDSTPERT",
-		"RELGJEWISHTRAD"
+		"BIOCCORE",
+		"STEMCHEM"
 	],
-	"title": "Introduction to Judaism",
+	"title": "Principles Chemistry I & Lab",
 	"type": "Course",
 	"year": 2019
 }
