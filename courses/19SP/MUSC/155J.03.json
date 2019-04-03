@@ -1,10 +1,12 @@
 {
 	"comments": [
-		"2018-19 $324 fee, Only for students previously with Susan M Crawford"
+		"2018-19 $324 fee"
 	],
 	"credits": 1.0,
-	"id": "2019SP MUSC 155J.04",
-	"instructors": [],
+	"id": "2019SP MUSC 155J.03",
+	"instructors": [
+		"Susan M Crawford"
+	],
 	"number": "155J",
 	"offerings": null,
 	"prerequisites": null,
@@ -12,17 +14,17 @@
 		"ARP"
 	],
 	"scnc": null,
-	"section": "04",
+	"section": "03",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 2,
 		"total": 50,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "MUSC",
-	"summary": "2018-19 $324 fee, Only for students previously with Susan M Crawford",
-	"synonym": "50488",
+	"summary": null,
+	"synonym": "54799",
 	"tags": [],
 	"title": "Violin (Juried)",
 	"type": "Juried",
