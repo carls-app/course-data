@@ -6,7 +6,24 @@
 		"Eric S Egge"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 328",
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:15pm",
+				"start": "2:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254",
 	"requirements": [],
 	"scnc": true,
