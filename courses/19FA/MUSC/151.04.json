@@ -1,28 +1,32 @@
 {
-	"comments": [],
-	"credits": 1.0,
-	"id": "2019FA MUSC 400.00",
-	"instructors": [
-		"Ronald Rodman"
+	"comments": [
+		"2018-19 $324 fee, Only for students previously with Victoria A Vargas"
 	],
-	"number": "400",
+	"credits": 1.0,
+	"id": "2019FA MUSC 151.04",
+	"instructors": [
+		"Victoria A Vargas"
+	],
+	"number": "151",
 	"offerings": null,
 	"prerequisites": null,
-	"requirements": [],
+	"requirements": [
+		"ARP"
+	],
 	"scnc": true,
-	"section": "00",
+	"section": "04",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 15,
+		"total": 50,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "MUSC",
 	"summary": null,
-	"synonym": "53754",
+	"synonym": "53436",
 	"tags": [],
-	"title": "Integrative Exercise",
+	"title": "Voice",
 	"type": "Course",
 	"year": 2019
 }

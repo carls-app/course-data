@@ -1,39 +1,31 @@
 {
-	"comments": [
-		"Sophomore Priority"
-	],
+	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA AMST 115.00",
+	"id": "2019FA AMST 230.00",
 	"instructors": [
-		"Nancy J Cho"
+		"Elizabeth McKinsey"
 	],
-	"number": "115",
+	"number": "230",
 	"offerings": {
 		"locations": [
-			"Laird 211"
+			"Boliou 161"
 		],
 		"times": [
 			{
-				"day": "Mo",
+				"day": "Tu",
 				"end": "3:00pm",
-				"start": "1:50pm"
+				"start": "1:15pm"
 			},
 			{
-				"day": "We",
+				"day": "Th",
 				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"start": "1:15pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"HI",
-		"IDS",
+		"LA",
 		"WR2"
 	],
 	"scnc": null,
@@ -47,14 +39,19 @@
 	"status": "Open",
 	"subject": "AMST",
 	"summary": null,
-	"synonym": "53034",
+	"synonym": "54844",
 	"tags": [
-		"EDUCCLUSTER2",
-		"CCSTETHNIC",
-		"AMMUGROUP1",
-		"CCSTSEEING"
+		"ENTS2SCP",
+		"POSI-AREAS2",
+		"ENGLT2",
+		"ENGLHE2",
+		"ENTSLPSCP",
+		"AMSTTOPICAL1",
+		"SPECINTSUSTAIN",
+		"AMSTPCC",
+		"AMSTSAP"
 	],
-	"title": "Introduction to American Studies",
+	"title": "American Sublime",
 	"type": "Course",
 	"year": 2019
 }

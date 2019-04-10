@@ -1,16 +1,14 @@
 {
-	"comments": [
-		"Sophomore Priority."
-	],
+	"comments": [],
 	"credits": 6.0,
-	"id": "2018SP AMST 115.00",
+	"id": "2019FA MUSC 136.00",
 	"instructors": [
-		"Nancy J Cho"
+		"Andy Flory"
 	],
-	"number": "115",
+	"number": "136",
 	"offerings": {
 		"locations": [
-			"Laird 212"
+			"Weitz Center M215"
 		],
 		"times": [
 			{
@@ -32,30 +30,30 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		"HI",
-		"IDS",
-		"WR2"
+		"LA",
+		"WR2",
+		"IDS"
 	],
 	"scnc": null,
 	"section": "00",
-	"semester": "SP",
+	"semester": "FA",
 	"size": {
-		"registered": 21,
+		"registered": 0,
 		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Closed",
-	"subject": "AMST",
+	"status": "Open",
+	"subject": "MUSC",
 	"summary": null,
-	"synonym": "47800",
+	"synonym": "54850",
 	"tags": [
-		"EDUCCLUSTER2",
-		"CCSTETHNIC",
-		"AMMUGROUP1",
-		"HISTUS",
-		"HISTPERT"
+		"AMMUGROUP2",
+		"AMSTTOPICAL1",
+		"AFSTPERT",
+		"AMSTPCC",
+		"AMSTREI"
 	],
-	"title": "Introduction to American Studies: Immigration and American Culture",
+	"title": "History of Rock",
 	"type": "Course",
-	"year": 2018
+	"year": 2019
 }

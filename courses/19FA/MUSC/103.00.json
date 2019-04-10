@@ -4,7 +4,23 @@
 	"id": "2019FA MUSC 103.00",
 	"instructors": [],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 230"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The ability to read music as assessed by a diagnostic exam adminstered at the start of the term",
 	"requirements": [
 		"ARP"
