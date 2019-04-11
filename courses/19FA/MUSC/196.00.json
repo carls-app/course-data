@@ -1,27 +1,24 @@
 {
 	"comments": [],
 	"credits": 1.0,
-	"id": "2019FA MUSC 185.00",
-	"instructors": [],
-	"number": "185",
+	"id": "2019FA MUSC 196.00",
+	"instructors": [
+		"Laura S Caviani"
+	],
+	"number": "196",
 	"offerings": {
 		"locations": [
-			"Weitz Center M215"
+			"Weitz Center M027"
 		],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "6:30pm",
-				"start": "5:00pm"
-			},
-			{
-				"day": "We",
-				"end": "6:30pm",
-				"start": "5:00pm"
+				"day": "Tu",
+				"end": "4:40pm",
+				"start": "3:00pm"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Audition",
+	"prerequisites": null,
 	"requirements": [
 		"ARP"
 	],
@@ -30,15 +27,15 @@
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 70,
+		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "MUSC",
 	"summary": null,
-	"synonym": "53650",
+	"synonym": "54867",
 	"tags": [],
-	"title": "Carleton Choir",
+	"title": "Jazz Workshop",
 	"type": "Course",
 	"year": 2019
 }
