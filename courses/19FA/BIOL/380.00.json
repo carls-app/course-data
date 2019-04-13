@@ -2,9 +2,32 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2019FA BIOL 380.00",
-	"instructors": [],
+	"instructors": [
+		"Rou-Jia Sung"
+	],
 	"number": "380",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and Chemistry 233 and 234 and concurrent registration in BIOL 381 for 18/FA. 19/WI offering does not require concurrent BIOL 381 registration",
 	"requirements": [],
 	"scnc": null,

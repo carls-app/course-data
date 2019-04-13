@@ -3,37 +3,38 @@
 		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2019FA ARTH 100.00",
+	"id": "2019FA EUST 100.00",
 	"instructors": [
-		"Baird E Jarman"
+		"Paul Petzschmann"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Boliou 140"
+			"Laird 204"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"WR1"
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
 	"section": "00",
@@ -44,11 +45,16 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "ARTH",
+	"subject": "EUST",
 	"summary": null,
-	"synonym": "54470",
-	"tags": [],
-	"title": "Laughing Matters: The History of Political Caricature",
+	"synonym": "53290",
+	"tags": [
+		"EUSTTRANNATL",
+		"POSI-AREAS2",
+		"HISTERLYMODEUR",
+		"HISTPERT"
+	],
+	"title": "Alllies Or Enemies",
 	"type": "Course",
 	"year": 2019
 }

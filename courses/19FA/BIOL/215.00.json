@@ -6,7 +6,28 @@
 		"David Hougen-Eitzman"
 	],
 	"number": "215",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Old Music Hall 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: One introductory science lab course (Biology 125, 126, Chemistry 123, 128, Geology 110, 115 or 120)",
 	"requirements": [
 		"QRE"

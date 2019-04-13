@@ -2,9 +2,32 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2019FA BIOL 350.00",
-	"instructors": [],
+	"instructors": [
+		"Mark McKone"
+	],
 	"number": "350",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 329"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
 		"QRE"

@@ -4,9 +4,22 @@
 	],
 	"credits": 2.0,
 	"id": "2019FA BIOL 381.02",
-	"instructors": [],
+	"instructors": [
+		"Rou-Jia Sung"
+	],
 	"number": "381",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 206"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 380; Biology 125 and 126 and Chemistry 233 and 234",
 	"requirements": [],
 	"scnc": null,

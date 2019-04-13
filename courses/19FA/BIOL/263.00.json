@@ -4,9 +4,22 @@
 	],
 	"credits": 2.0,
 	"id": "2019FA BIOL 263.00",
-	"instructors": [],
+	"instructors": [
+		"Mike Nishizaki"
+	],
 	"number": "263",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 115"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126. Requires concurrent registration in Biology 262",
 	"requirements": [
 		"LS"

@@ -4,9 +4,32 @@
 	],
 	"credits": 6.0,
 	"id": "2019FA BIOL 262.00",
-	"instructors": [],
+	"instructors": [
+		"Mike Nishizaki"
+	],
 	"number": "262",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and concurrent registration in Biology 263 required",
 	"requirements": [
 		"LS"

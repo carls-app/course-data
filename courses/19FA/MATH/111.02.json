@@ -2,27 +2,29 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2019FA MATH 111.02",
-	"instructors": [],
+	"instructors": [
+		"Owen D Biesel"
+	],
 	"number": "111",
 	"offerings": {
 		"locations": [
-			"Leighton 426"
+			"Weitz Center 133"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "1:40pm",
+				"start": "12:30pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "1:40pm",
+				"start": "12:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "2:10pm",
+				"start": "1:10pm"
 			}
 		]
 	},

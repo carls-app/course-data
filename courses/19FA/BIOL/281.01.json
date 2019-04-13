@@ -4,9 +4,22 @@
 	],
 	"credits": 2.0,
 	"id": "2019FA BIOL 281.01",
-	"instructors": [],
+	"instructors": [
+		"Raka M Mitra"
+	],
 	"number": "281",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 218"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [],
 	"scnc": null,

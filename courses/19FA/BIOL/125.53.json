@@ -4,9 +4,40 @@
 	],
 	"credits": 6.0,
 	"id": "2019FA BIOL 125.53",
-	"instructors": [],
+	"instructors": [
+		"Jennifer M Wolff",
+		"Debby R Walser-Kuntz",
+		"Sarah Deel"
+	],
 	"number": "125",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 104",
+			"Hulings 103"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			},
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"QRE",
@@ -22,7 +53,7 @@
 	},
 	"status": "Open",
 	"subject": "BIOL",
-	"summary": "This offering of Biology 125 offers a problem solving approach and covers the same concepts as the winter version of Biology 125. The course format allows time in class to apply new concepts by working through case study type problems with faculty present. Students enter Carleton from a wide variety of academic experiences, and this offering of Biology 125 is designed to provide a level playing field for students regardless of previous science background. In addition, the active learning component of the course is beneficial for students who like to learn by doing. Students who complete this course are well-prepared to continue on to Biology 126.\n    \n\n     Sophomore Priority\n    \n\n\n      Waitlist for Juniors and Seniors:\n     \n     BIOL 125.WL3 (Synonym 53086)",
+	"summary": null,
 	"synonym": "53083",
 	"tags": [
 		"BIOCCORE",

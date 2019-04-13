@@ -6,7 +6,28 @@
 	"id": "2019FA BIOL 321.00",
 	"instructors": [],
 	"number": "321",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 120"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 126 and one 200 level course in Biology or Geology 230, 258, 285 or Environmental Studies 244, 254, 260, 265, 288",
 	"requirements": [
 		"WR2",
