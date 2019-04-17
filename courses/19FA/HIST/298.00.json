@@ -2,9 +2,32 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2019FA HIST 298.00",
-	"instructors": [],
+	"instructors": [
+		"Amna Khalid"
+	],
 	"number": "298",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 202"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: At least two six credit courses in History (excluding HIST 100 and Independents) at Carleton.",
 	"requirements": [
 		"HI"
