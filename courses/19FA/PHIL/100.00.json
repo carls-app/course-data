@@ -1,14 +1,16 @@
 {
-	"comments": [],
+	"comments": [
+		"Held for new first year students"
+	],
 	"credits": 6.0,
-	"id": "2019FA HIST 100.01",
+	"id": "2019FA PHIL 100.00",
 	"instructors": [
-		"Thabiti Willis"
+		"Jason A Decker"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Leighton 202"
+			"Leighton 301"
 		],
 		"times": [
 			{
@@ -31,11 +33,10 @@
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"IS",
 		"WR1"
 	],
 	"scnc": null,
-	"section": "01",
+	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -43,15 +44,13 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "HIST",
+	"subject": "PHIL",
 	"summary": null,
-	"synonym": "54987",
+	"synonym": "55069",
 	"tags": [
-		"AFAMDISTROHU",
-		"AFAMHUMANINQ",
-		"AFSTHI"
+		"CGSCELECTIVE"
 	],
-	"title": "History and Memory in Africa, Nineteenth through Twenty-first Centuries",
+	"title": "Science, Faith & Rationality",
 	"type": "Course",
 	"year": 2019
 }

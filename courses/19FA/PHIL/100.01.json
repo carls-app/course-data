@@ -1,37 +1,38 @@
 {
-	"comments": [],
+	"comments": [
+		"Held for new first year students"
+	],
 	"credits": 6.0,
-	"id": "2019FA HIST 100.01",
+	"id": "2019FA PHIL 100.01",
 	"instructors": [
-		"Thabiti Willis"
+		"Daniel M Groll"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Leighton 202"
+			"AND 323"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "10:40am",
+				"start": "9:40am"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"IS",
 		"WR1"
 	],
 	"scnc": null,
@@ -43,15 +44,11 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "HIST",
+	"subject": "PHIL",
 	"summary": null,
-	"synonym": "54987",
-	"tags": [
-		"AFAMDISTROHU",
-		"AFAMHUMANINQ",
-		"AFSTHI"
-	],
-	"title": "History and Memory in Africa, Nineteenth through Twenty-first Centuries",
+	"synonym": "55063",
+	"tags": [],
+	"title": "The Ethics of Being a Family",
 	"type": "Course",
 	"year": 2019
 }

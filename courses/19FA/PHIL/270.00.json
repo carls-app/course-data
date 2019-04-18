@@ -1,14 +1,14 @@
 {
-	"comments": [
-		"Sophomore Priority"
-	],
+	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA CS 201.02",
-	"instructors": [],
-	"number": "201",
+	"id": "2019FA PHIL 270.00",
+	"instructors": [
+		"Allison E Murphy"
+	],
+	"number": "270",
 	"offerings": {
 		"locations": [
-			"CMC 206"
+			"Leighton 402"
 		],
 		"times": [
 			{
@@ -28,25 +28,28 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
+	"prerequisites": null,
 	"requirements": [
-		"FSR",
-		"QRE"
+		"HI",
+		"IS"
 	],
 	"scnc": null,
-	"section": "02",
+	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 34,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "CS",
+	"subject": "PHIL",
 	"summary": null,
-	"synonym": "53200",
-	"tags": [],
-	"title": "Data Structures",
+	"synonym": "55066",
+	"tags": [
+		"PHILCORE",
+		"MARSSUPP"
+	],
+	"title": "Ancient Phil: the Good Life",
 	"type": "Course",
 	"year": 2019
 }
