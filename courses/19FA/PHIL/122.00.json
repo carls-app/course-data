@@ -4,7 +4,28 @@
 	"id": "2019FA PHIL 122.00",
 	"instructors": [],
 	"number": "122",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Laird 205"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",

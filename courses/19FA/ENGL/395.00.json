@@ -6,7 +6,28 @@
 		"Peter J Balaam"
 	],
 	"number": "395",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Laird 212"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: English 295 and one 300-level English course",
 	"requirements": [
 		"LA"
