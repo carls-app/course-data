@@ -6,7 +6,28 @@
 		"Éva S Pósfay"
 	],
 	"number": "238",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 243"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
 		"LA",
