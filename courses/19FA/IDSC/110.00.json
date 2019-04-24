@@ -8,7 +8,18 @@
 		"Melissa Eblen-Zayas"
 	],
 	"number": "110",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 036"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 099, Undergraduate Bridge Experience",
 	"requirements": [
 		"QRE"

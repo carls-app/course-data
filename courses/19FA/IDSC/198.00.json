@@ -5,10 +5,21 @@
 	"credits": 2.0,
 	"id": "2019FA IDSC 198.00",
 	"instructors": [
-		"Deborah S Gross"
+		"Will Hollingsworth"
 	],
 	"number": "198",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 323"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Section 01 open only to participants in IDSC 198 fall term.",
 	"requirements": [],
 	"scnc": true,

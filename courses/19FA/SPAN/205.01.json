@@ -3,7 +3,6 @@
 	"credits": 6.0,
 	"id": "2019FA SPAN 205.01",
 	"instructors": [
-		"José Cerna-Bazán",
 		"Jorge Brioso"
 	],
 	"number": "205",
@@ -13,23 +12,18 @@
 		],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "9:40am",
-				"start": "8:30am"
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
 			},
 			{
-				"day": "We",
-				"end": "9:40am",
-				"start": "8:30am"
-			},
-			{
-				"day": "Fr",
-				"end": "9:30am",
-				"start": "8:30am"
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
 		"LA",
 		"IS"
@@ -44,13 +38,13 @@
 	},
 	"status": "Open",
 	"subject": "SPAN",
-	"summary": null,
+	"summary": "A course designed to develop the student's oral and written mastery of Spanish. Advanced study of grammar. Compositions and conversations based on cultural and literary topics. There is also an audio-video component focused on current affairs.",
 	"synonym": "55301",
 	"tags": [
 		"SPAN204-219",
 		"SPAN205-209"
 	],
-	"title": "Conversation & Composition",
+	"title": "Conversation and Composition",
 	"type": "Course",
 	"year": 2019
 }

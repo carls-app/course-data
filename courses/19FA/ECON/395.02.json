@@ -6,7 +6,23 @@
 		"Yaniv Ben-Ami"
 	],
 	"number": "395",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 121"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Economics 329, 330 or 331 or instructor permission",
 	"requirements": [
 		"SI",

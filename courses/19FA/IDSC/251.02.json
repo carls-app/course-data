@@ -7,7 +7,18 @@
 		"Alan Rubenstein"
 	],
 	"number": "251",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI"

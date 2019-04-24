@@ -4,9 +4,22 @@
 	],
 	"credits": 1.0,
 	"id": "2019FA IDSC 298.00",
-	"instructors": [],
+	"instructors": [
+		"Deborah S Gross"
+	],
 	"number": "298",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 323"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 198 as first year student",
 	"requirements": [],
 	"scnc": true,

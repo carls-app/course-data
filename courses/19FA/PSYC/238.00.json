@@ -8,7 +8,28 @@
 		"Mija M Van Der Wege"
 	],
 	"number": "238",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Music & Drama Center LL35"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
 		"SI"
