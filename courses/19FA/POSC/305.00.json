@@ -8,7 +8,23 @@
 		"Barbara Allen"
 	],
 	"number": "305",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",

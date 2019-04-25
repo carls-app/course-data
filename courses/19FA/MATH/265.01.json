@@ -6,7 +6,28 @@
 		"Katie St. Clair"
 	],
 	"number": "265",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 206"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 120 or 211",
 	"requirements": [
 		"FSR"

@@ -8,7 +8,18 @@
 		"Deanna Haunsperger"
 	],
 	"number": "207",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Math 236 or 265 or instructor permission",
 	"requirements": [],
 	"scnc": true,

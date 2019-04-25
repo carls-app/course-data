@@ -1,7 +1,6 @@
 {
 	"comments": [
-		"Cross-listed with POSC 305",
-		"Cross-listed with POSC 305.00"
+		"Cross-listed with POSC 305"
 	],
 	"credits": 6.0,
 	"id": "2019FA POSC 205.00",
@@ -9,7 +8,23 @@
 		"Barbara Allen"
 	],
 	"number": "205",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -27,12 +42,12 @@
 	"status": "Open",
 	"subject": "POSC",
 	"summary": null,
-	"synonym": "54479",
+	"synonym": "55517",
 	"tags": [
 		"POSI-DSS2",
 		"POSCELECTIVE"
 	],
-	"title": "News Media and Democratic Electoral Processes",
+	"title": "News Media & Democr Elect Proc",
 	"type": "Course",
 	"year": 2019
 }

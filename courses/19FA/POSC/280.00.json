@@ -6,7 +6,28 @@
 		"Summer N Forester"
 	],
 	"number": "280",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Willis 211"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",

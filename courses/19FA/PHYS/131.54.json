@@ -34,7 +34,7 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Mathematics 101 or 111, not open to students who have completed Physics 142, 143, 144 or 145 at Carleton",
 	"requirements": [
 		"LS",
 		"QRE"
@@ -49,12 +49,12 @@
 	},
 	"status": "Open",
 	"subject": "PHYS",
-	"summary": "1st 5 weeks",
+	"summary": null,
 	"synonym": "55402",
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Newtonian Mechanics & Lab",
+	"title": "Introduction to Physics: Newtonian Mechanics & Lab",
 	"type": "Course",
 	"year": 2019
 }

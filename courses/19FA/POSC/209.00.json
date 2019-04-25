@@ -6,7 +6,23 @@
 		"Melanie Freeze"
 	],
 	"number": "209",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 301"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -24,7 +40,7 @@
 	"status": "Open",
 	"subject": "POSC",
 	"summary": null,
-	"synonym": "54458",
+	"synonym": "55518",
 	"tags": [
 		"POSI-DSS2",
 		"POSCELECTIVE",

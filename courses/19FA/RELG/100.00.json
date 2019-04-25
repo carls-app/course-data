@@ -5,15 +5,36 @@
 	"credits": 6.0,
 	"id": "2019FA RELG 100.00",
 	"instructors": [
-		"Michael D McNally"
+		"Sonja G Anderson"
 	],
 	"number": "100",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 303"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
 		"WR1",
-		"IDS"
+		"IS"
 	],
 	"scnc": null,
 	"section": "00",
@@ -26,13 +47,12 @@
 	"status": "Open",
 	"subject": "RELG",
 	"summary": null,
-	"synonym": "54434",
+	"synonym": "55614",
 	"tags": [
-		"RELGPERT",
-		"AMSTREI",
-		"AMSTSAP"
+		"MARSSUPP",
+		"RELGCHRISTNTRAD"
 	],
-	"title": "American Pilgrimages",
+	"title": "Illness, Medicine & Magic",
 	"type": "Course",
 	"year": 2019
 }
