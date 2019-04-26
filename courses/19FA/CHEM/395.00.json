@@ -8,7 +8,23 @@
 		"Sarah Deel"
 	],
 	"number": "395",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"AND 121"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"QRE"

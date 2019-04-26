@@ -3,30 +3,30 @@
 		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2019FA RELG 100.00",
+	"id": "2019FA CCST 100.00",
 	"instructors": [
-		"Sonja G Anderson"
+		"Stephanie M Cox"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Leighton 303"
+			"Weitz Center 136"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "3:00pm",
+				"start": "1:50pm"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "3:00pm",
+				"start": "1:50pm"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "3:20pm",
+				"start": "2:20pm"
 			}
 		]
 	},
@@ -45,14 +45,15 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "RELG",
+	"subject": "CCST",
 	"summary": null,
-	"synonym": "55614",
+	"synonym": "53150",
 	"tags": [
-		"MARSSUPP",
-		"RELGCHRISTNTRAD"
+		"EDUCCLUSTER1",
+		"CCSTSEEING",
+		"MESTGRP2"
 	],
-	"title": "Illness, Medicine & Magic",
+	"title": "Growing up Cross-Culturally",
 	"type": "Course",
 	"year": 2019
 }

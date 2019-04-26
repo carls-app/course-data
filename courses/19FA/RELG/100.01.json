@@ -1,17 +1,16 @@
 {
 	"comments": [
-		"Held for new first year students, Extra Time Required"
+		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2019FA IDSC 100.00",
+	"id": "2019FA RELG 100.01",
 	"instructors": [
-		"Chico Zimmerman"
+		"Michael D McNally"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"MYER 120",
-			"AND 036"
+			"Library 305"
 		],
 		"times": [
 			{
@@ -29,10 +28,11 @@
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"WR2"
+		"WR1",
+		"IDS"
 	],
 	"scnc": null,
-	"section": "00",
+	"section": "01",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -40,11 +40,15 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "IDSC",
+	"subject": "RELG",
 	"summary": null,
-	"synonym": "54566",
-	"tags": [],
-	"title": "Civil Discourse in a Troubled Age",
+	"synonym": "54434",
+	"tags": [
+		"RELGPERT",
+		"AMSTREI",
+		"AMSTSAP"
+	],
+	"title": "American Pilgrimages",
 	"type": "Course",
 	"year": 2019
 }

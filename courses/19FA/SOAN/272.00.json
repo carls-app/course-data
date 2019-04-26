@@ -6,7 +6,28 @@
 		"Liz Raleigh"
 	],
 	"number": "272",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
 		"SI",
@@ -24,13 +45,11 @@
 	"status": "Open",
 	"subject": "SOAN",
 	"summary": null,
-	"synonym": "55466",
+	"synonym": "54490",
 	"tags": [
 		"EDUCCLUSTER2",
 		"AMMUGROUP3",
-		"SPECINTSOCTHGHT",
 		"AMSTTOPICAL3",
-		"AFAMSOCINQ",
 		"AFSTSI",
 		"PPOLSP",
 		"AMSTSAP",

@@ -3,30 +3,25 @@
 		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2019FA CCST 100.01",
+	"id": "2019FA HIST 100.00",
 	"instructors": [
-		"Stephanie M Cox"
+		"Elena C McGrath"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Weitz Center 136"
+			"Library 344"
 		],
 		"times": [
 			{
-				"day": "Mo",
+				"day": "Tu",
 				"end": "3:00pm",
-				"start": "1:50pm"
+				"start": "1:15pm"
 			},
 			{
-				"day": "We",
+				"day": "Th",
 				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"start": "1:15pm"
 			}
 		]
 	},
@@ -37,7 +32,7 @@
 		"IS"
 	],
 	"scnc": null,
-	"section": "01",
+	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -45,15 +40,13 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "CCST",
+	"subject": "HIST",
 	"summary": null,
-	"synonym": "53150",
+	"synonym": "55644",
 	"tags": [
-		"EDUCCLUSTER1",
-		"CCSTSEEING",
-		"MESTGRP2"
+		"HISTLTAM"
 	],
-	"title": "Growing up Cross-Culturally",
+	"title": "Indians, Spaniards and Empire",
 	"type": "Course",
 	"year": 2019
 }
