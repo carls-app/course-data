@@ -3,41 +3,41 @@
 		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2019FA HIST 100.01",
+	"id": "2019FA ARBC 100.00",
 	"instructors": [
-		"Thabiti Willis"
+		"Zaki A Haidar"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Leighton 202"
+			"Language & Dining Center 202"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "3:00pm",
+				"start": "1:50pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "3:00pm",
+				"start": "1:50pm"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "3:20pm",
+				"start": "2:20pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
+		"WR1",
 		"AI",
-		"IS",
-		"WR1"
+		"IS"
 	],
 	"scnc": null,
-	"section": "01",
+	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -45,13 +45,14 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "HIST",
+	"subject": "ARBC",
 	"summary": null,
-	"synonym": "54987",
+	"synonym": "55178",
 	"tags": [
-		"AFSTHI"
+		"MESTGRP2",
+		"MESTCORE"
 	],
-	"title": "History and Memory in Africa, Nineteenth through Twenty-first Centuries",
+	"title": "Arabs Encountering the West",
 	"type": "Course",
 	"year": 2019
 }
