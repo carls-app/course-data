@@ -10,13 +10,19 @@
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Weitz Center 230"
+			"Weitz Center 230",
+			"Weitz Center 235"
 		],
 		"times": [
 			{
 				"day": "Tu",
 				"end": "3:00pm",
 				"start": "1:15pm"
+			},
+			{
+				"day": "We",
+				"end": "8:30pm",
+				"start": "6:00pm"
 			},
 			{
 				"day": "Th",

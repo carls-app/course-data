@@ -1,56 +1,59 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA PHIL 270.00",
+	"id": "2019FA ENTS 225.00",
 	"instructors": [
-		"Allison E Murphy"
+		"Dan Maxbauer"
 	],
-	"number": "270",
+	"number": "225",
 	"offerings": {
 		"locations": [
-			"Leighton 402"
+			"New Science Building 123"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "1:00pm",
+				"start": "12:00pm"
+			},
+			{
+				"day": "Mo",
+				"end": "6:00pm",
+				"start": "2:00pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"HI",
-		"IS",
-		"WR2"
+		"LS",
+		"QRE"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 18,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PHIL",
+	"subject": "ENTS",
 	"summary": null,
-	"synonym": "55066",
+	"synonym": "55670",
 	"tags": [
-		"PHILCORE",
-		"MARSSUPP"
+		"ENTS2ENVSCI"
 	],
-	"title": "Ancient Philosophy",
+	"title": "Carbon and Climate & Lab",
 	"type": "Course",
 	"year": 2019
 }
