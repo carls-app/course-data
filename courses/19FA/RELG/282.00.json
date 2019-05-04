@@ -1,5 +1,7 @@
 {
-	"comments": [],
+	"comments": [
+		"Extra Time Required"
+	],
 	"credits": 6.0,
 	"id": "2019FA RELG 282.00",
 	"instructors": [
@@ -8,7 +10,8 @@
 	"number": "282",
 	"offerings": {
 		"locations": [
-			"Leighton 426"
+			"Leighton 426",
+			"Location To Be Announced TBA"
 		],
 		"times": [
 			{
@@ -25,6 +28,11 @@
 				"day": "Fr",
 				"end": "10:40am",
 				"start": "9:40am"
+			},
+			{
+				"day": "We",
+				"end": "9:00pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -39,7 +47,7 @@
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 15,
 		"waitlist": 0
 	},
 	"status": "Open",
