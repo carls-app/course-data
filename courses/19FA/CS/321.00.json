@@ -1,52 +1,54 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA ENGL 218.00",
+	"id": "2019FA CS 321.00",
 	"instructors": [
-		"Jessica L Leiman"
+		"David R Musicant"
 	],
-	"number": "218",
+	"number": "321",
 	"offerings": {
 		"locations": [
-			"Laird 212"
+			"CMC 301"
 		],
 		"times": [
 			{
-				"day": "Tu",
+				"day": "Mo",
 				"end": "3:00pm",
-				"start": "1:15pm"
+				"start": "1:50pm"
 			},
 			{
-				"day": "Th",
+				"day": "We",
 				"end": "3:00pm",
-				"start": "1:15pm"
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"LA",
-		"WR2"
+		"FSR"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 25,
+		"total": 34,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "ENGL",
+	"subject": "CS",
 	"summary": null,
-	"synonym": "55089",
+	"synonym": "55057",
 	"tags": [
-		"ENGLHE2",
-		"ENGLT1",
-		"EUSTCNTRY",
-		"WGSTADDL"
+		"CGSCELECTIVE",
+		"NEURELEC"
 	],
-	"title": "The Gothic Spirit",
+	"title": "Artificial Intelligence",
 	"type": "Course",
 	"year": 2019
 }
