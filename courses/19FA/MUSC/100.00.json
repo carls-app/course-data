@@ -5,7 +5,7 @@
 	"credits": 6.0,
 	"id": "2019FA MUSC 100.00",
 	"instructors": [
-		"Andrea Mazzariello"
+		"Justin M London"
 	],
 	"number": "100",
 	"offerings": {
@@ -14,26 +14,22 @@
 		],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
 			},
 			{
-				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
-			},
-			{
-				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"WR1"
+		"WR1",
+		"QRE"
 	],
 	"scnc": null,
 	"section": "00",
@@ -46,9 +42,9 @@
 	"status": "Open",
 	"subject": "MUSC",
 	"summary": null,
-	"synonym": "54450",
+	"synonym": "55693",
 	"tags": [],
-	"title": "The Music That Isn't There",
+	"title": "I Got Rhythm: The Science of Musical Time",
 	"type": "Course",
 	"year": 2019
 }

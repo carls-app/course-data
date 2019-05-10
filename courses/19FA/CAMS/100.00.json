@@ -10,7 +10,7 @@
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Weitz Center 233"
+			"Weitz Center 231"
 		],
 		"times": [
 			{
@@ -48,7 +48,9 @@
 	"subject": "CAMS",
 	"summary": null,
 	"synonym": "55667",
-	"tags": [],
+	"tags": [
+		"CAMSELECTIVE"
+	],
 	"title": "American Film Genres",
 	"type": "Course",
 	"year": 2019

@@ -4,7 +4,23 @@
 	"id": "2019FA PE 154.00",
 	"instructors": [],
 	"number": "154",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Recreation Center FIEL"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "We",
+				"end": "4:20pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"PE"
