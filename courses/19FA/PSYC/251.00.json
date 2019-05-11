@@ -1,14 +1,12 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2019SP ECON 283.00",
-	"instructors": [
-		"Ben Keefer"
-	],
-	"number": "283",
+	"id": "2019FA PSYC 251.00",
+	"instructors": [],
+	"number": "251",
 	"offerings": {
 		"locations": [
-			"Willis 211"
+			"New Science Building 036"
 		],
 		"times": [
 			{
@@ -28,25 +26,28 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Economics 110 and 111",
+	"prerequisites": null,
 	"requirements": [
-		"SI",
-		"QRE"
+		"SI"
 	],
 	"scnc": null,
 	"section": "00",
-	"semester": "SP",
+	"semester": "FA",
 	"size": {
-		"registered": 14,
+		"registered": 0,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "ECON",
+	"subject": "PSYC",
 	"summary": null,
-	"synonym": "52027",
-	"tags": [],
-	"title": "Corporate Organization and Finance",
+	"synonym": "55711",
+	"tags": [
+		"PSYCCORE",
+		"PSYCSDPCH",
+		"EDUCCLUSTER1"
+	],
+	"title": "Lifespan Development",
 	"type": "Course",
 	"year": 2019
 }
