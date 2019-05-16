@@ -6,7 +6,18 @@
 		"David Hougen-Eitzman"
 	],
 	"number": "216",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Location To Be Announced TBA"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Concurrent registration in Biology 215 is required",
 	"requirements": [],
 	"scnc": null,
