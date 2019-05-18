@@ -6,7 +6,23 @@
 		"Katie St. Clair"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "2:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "9:00am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254",
 	"requirements": [],
 	"scnc": true,
@@ -14,7 +30,7 @@
 	"semester": "FA",
 	"size": {
 		"registered": 0,
-		"total": 4,
+		"total": 6,
 		"waitlist": 0
 	},
 	"status": "Open",

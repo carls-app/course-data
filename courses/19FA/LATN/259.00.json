@@ -8,18 +8,23 @@
 	"number": "259",
 	"offerings": {
 		"locations": [
-			"Goodsell 03"
+			"Cowling 106"
 		],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
-				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
