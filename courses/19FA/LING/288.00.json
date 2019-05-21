@@ -1,54 +1,48 @@
 {
-	"comments": [
-		"In translation"
-	],
+	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA CHIN 250.00",
+	"id": "2019FA LING 288.00",
 	"instructors": [
-		"Shaohua Guo"
+		"Mike Flynn"
 	],
-	"number": "250",
+	"number": "288",
 	"offerings": {
 		"locations": [
-			"Library 305"
+			"Goodsell 03"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "11:55am",
+				"start": "10:10am"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "11:55am",
+				"start": "10:10am"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"LA",
-		"IS"
+		"IDS"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 2,
+		"registered": 1,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "CHIN",
+	"subject": "LING",
 	"summary": null,
-	"synonym": "55160",
+	"synonym": "55262",
 	"tags": [
-		"ASSTHU",
-		"ASSTEAST",
-		"ASSTPERT",
-		"CAMSXDEPT"
+		"AMSTREI"
 	],
-	"title": "Chinese Popular Culture in Translation",
+	"title": "The Structure of Dakota",
 	"type": "Course",
 	"year": 2019
 }

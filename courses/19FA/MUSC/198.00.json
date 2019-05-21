@@ -1,14 +1,28 @@
 {
-	"comments": [
-		"2019-20 fee $93"
-	],
+	"comments": [],
 	"credits": 1.0,
 	"id": "2019FA MUSC 198.00",
 	"instructors": [
 		"Matthew J Olson"
 	],
 	"number": "198",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center M215"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
