@@ -23,7 +23,7 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Linguistics 216 and 217",
 	"requirements": [
 		"IDS"
 	],
@@ -31,7 +31,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 1,
+		"registered": 3,
 		"total": 25,
 		"waitlist": 0
 	},
@@ -40,7 +40,8 @@
 	"summary": null,
 	"synonym": "55262",
 	"tags": [
-		"AMSTREI"
+		"AMSTREI",
+		"CGSCELECTIVE"
 	],
 	"title": "The Structure of Dakota",
 	"type": "Course",
