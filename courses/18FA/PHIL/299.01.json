@@ -3,14 +3,14 @@
 		"Waitlist only, instructor permission req'd. Send instructor short statement of interest."
 	],
 	"credits": 2.0,
-	"id": "2019FA PHIL 299.00",
+	"id": "2018FA PHIL 299.01",
 	"instructors": [
 		"Daniel M Groll"
 	],
 	"number": "299",
 	"offerings": {
 		"locations": [
-			"Leighton 303"
+			"Leighton 202"
 		],
 		"times": [
 			{
@@ -20,22 +20,22 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Instructor consent",
+	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
-	"section": "00",
+	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 3,
 		"total": 0,
 		"waitlist": 0
 	},
 	"status": "Closed",
 	"subject": "PHIL",
 	"summary": null,
-	"synonym": "55067",
+	"synonym": "55846",
 	"tags": [],
 	"title": "Ethics Bowl",
 	"type": "Course",
-	"year": 2019
+	"year": 2018
 }
