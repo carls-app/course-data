@@ -1,16 +1,14 @@
 {
-	"comments": [
-		"Application required. Waitlist Only."
-	],
+	"comments": [],
 	"credits": 6.0,
-	"id": "2019FA IDSC 203.00",
+	"id": "2019FA WGST 140.00",
 	"instructors": [
-		"Sharon A Akimoto"
+		"Meera Sehgal"
 	],
-	"number": "203",
+	"number": "140",
 	"offerings": {
 		"locations": [
-			"Leighton 330"
+			"Leighton 426"
 		],
 		"times": [
 			{
@@ -26,28 +24,24 @@
 		]
 	},
 	"prerequisites": null,
-	"requirements": [
-		"IDS"
-	],
-	"scnc": true,
+	"requirements": [],
+	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 10,
-		"total": 0,
-		"waitlist": 2
+		"registered": 0,
+		"total": 25,
+		"waitlist": 0
 	},
-	"status": "Closed",
-	"subject": "IDSC",
+	"status": "Open",
+	"subject": "WGST",
 	"summary": null,
-	"synonym": "53359",
+	"synonym": "55853",
 	"tags": [
-		"SPECINTETHICS",
 		"WGSTADDL",
-		"EDUCCLUSTER2",
-		"CCSTREFLECT"
+		"SOANPERT"
 	],
-	"title": "Talking about Diversity",
+	"title": "Politics of Women's Health",
 	"type": "Course",
 	"year": 2019
 }
