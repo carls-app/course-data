@@ -6,7 +6,23 @@
 		"Michael P Cohen"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "5:00pm",
+				"start": "3:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "5:00pm",
+				"start": "3:30pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254, Computer Science 352",
 	"requirements": [],
 	"scnc": true,
