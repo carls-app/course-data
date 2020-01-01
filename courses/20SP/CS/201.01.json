@@ -1,0 +1,54 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"id": "2020SP CS 201.01",
+	"instructors": [
+		"Anna N Rafferty"
+	],
+	"number": "201",
+	"offerings": {
+		"locations": [
+			"CMC 210"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "SP",
+	"size": {
+		"registered": 0,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": null,
+	"synonym": "55050",
+	"tags": [],
+	"title": "Data Structures",
+	"type": "Course",
+	"year": 2020
+}

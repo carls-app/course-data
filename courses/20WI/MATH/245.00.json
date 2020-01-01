@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2020WI MATH 245.00",
+	"instructors": [
+		"Laura M Chihara"
+	],
+	"number": "245",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 215 (or equivalent) or 275",
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 27,
+		"total": 24,
+		"waitlist": 1
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "A second course in statistics covering simple linear regression, multiple regression and ANOVA, and logistic regression. Exploratory graphical methods, model building and model checking techniques will be emphasized with extensive use of statistical software to analyze real-life data.",
+	"synonym": "54657",
+	"tags": [
+		"ELECSTAT",
+		"ENTSQUANTV"
+	],
+	"title": "Applied Regression Analysis",
+	"type": "Course",
+	"year": 2020
+}

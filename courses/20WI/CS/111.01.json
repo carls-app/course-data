@@ -1,0 +1,56 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"id": "2020WI CS 111.01",
+	"instructors": [
+		"Aaron W Bauer"
+	],
+	"number": "111",
+	"offerings": {
+		"locations": [
+			"Anderson Hall 121"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "01",
+	"semester": "WI",
+	"size": {
+		"registered": 33,
+		"total": 34,
+		"waitlist": 5
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": null,
+	"synonym": "55022",
+	"tags": [
+		"DGAHSKILLBLDG"
+	],
+	"title": "Introduction to Computer Science",
+	"type": "Course",
+	"year": 2020
+}

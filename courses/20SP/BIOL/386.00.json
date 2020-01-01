@@ -1,0 +1,58 @@
+{
+	"comments": [
+		"BIOL 387 required"
+	],
+	"credits": 6.0,
+	"id": "2020SP BIOL 386.00",
+	"instructors": [
+		"Fernan Jaramillo"
+	],
+	"number": "386",
+	"offerings": {
+		"locations": [
+			"Anderson Hall 323"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "SP",
+	"size": {
+		"registered": 0,
+		"total": 20,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "54938",
+	"tags": [
+		"CGSCELECTIVE",
+		"NEURELEC",
+		"BIOLORGANISMIC",
+		"BIOLELECTIVE"
+	],
+	"title": "Neurobiology",
+	"type": "Course",
+	"year": 2020
+}

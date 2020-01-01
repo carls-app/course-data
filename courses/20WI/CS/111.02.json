@@ -1,0 +1,57 @@
+{
+	"comments": [
+		"Sophomore Priority"
+	],
+	"credits": 6.0,
+	"id": "2020WI CS 111.02",
+	"instructors": [
+		"Layla K Oesper"
+	],
+	"number": "111",
+	"offerings": {
+		"locations": [
+			"CMC 102"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "1:40pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:10pm",
+				"start": "1:10pm"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"FSR",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "02",
+	"semester": "WI",
+	"size": {
+		"registered": 30,
+		"total": 34,
+		"waitlist": 6
+	},
+	"status": "Closed",
+	"subject": "CS",
+	"summary": null,
+	"synonym": "55023",
+	"tags": [
+		"CGSCCORE",
+		"DGAHSKILLBLDG"
+	],
+	"title": "Introduction to Computer Science",
+	"type": "Course",
+	"year": 2020
+}

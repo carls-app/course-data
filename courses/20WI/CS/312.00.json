@@ -1,0 +1,55 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2020WI CS 312.00",
+	"instructors": [
+		"John Ellinger"
+	],
+	"number": "312",
+	"offerings": {
+		"locations": [
+			"Weitz Center 138",
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 28,
+		"total": 34,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CS",
+	"summary": null,
+	"synonym": "55894",
+	"tags": [
+		"CSELECT",
+		"CAMSELECTIVE"
+	],
+	"title": "Audio Programming",
+	"type": "Course",
+	"year": 2020
+}

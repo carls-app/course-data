@@ -1,0 +1,53 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2020WI MATH 342.00",
+	"instructors": [
+		"Eric S Egge"
+	],
+	"number": "342",
+	"offerings": {
+		"locations": [
+			"CMC 209"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
+	"requirements": [
+		"FSR"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 27,
+		"total": 25,
+		"waitlist": 6
+	},
+	"status": "Closed",
+	"subject": "MATH",
+	"summary": "Introduction to algebraic structures, including groups, rings, and fields. Homomorphisms and quotient structures, polynomials, unique factorization. Other topics may include applications such as Burnside's counting theorem, symmetry groups, polynomial equations, or geometric constructions.",
+	"synonym": "53414",
+	"tags": [
+		"ELECSTAT"
+	],
+	"title": "Abstract Algebra I",
+	"type": "Course",
+	"year": 2020
+}

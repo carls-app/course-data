@@ -1,0 +1,60 @@
+{
+	"comments": [],
+	"credits": 6.0,
+	"id": "2020WI CHEM 234.52",
+	"instructors": [
+		"Joe Chihade"
+	],
+	"number": "234",
+	"offerings": {
+		"locations": [
+			"Leighton 305",
+			"Anderson Hall 321"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:00pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Chemistry 233",
+	"requirements": [
+		"LS",
+		"QRE"
+	],
+	"scnc": null,
+	"section": "52",
+	"semester": "WI",
+	"size": {
+		"registered": 21,
+		"total": 24,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "CHEM",
+	"summary": null,
+	"synonym": "54741",
+	"tags": [
+		"BIOCCORE"
+	],
+	"title": "Organic Chemistry II & Lab",
+	"type": "Course",
+	"year": 2020
+}

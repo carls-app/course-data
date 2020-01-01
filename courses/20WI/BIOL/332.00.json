@@ -1,0 +1,58 @@
+{
+	"comments": [
+		"BIOL 333 required. Students should waitlist for BOTH 333 (lab) and 332 (lecture) to be considered for enrollment from either waitlist."
+	],
+	"credits": 6.0,
+	"id": "2020WI BIOL 332.00",
+	"instructors": [
+		"Fernan Jaramillo"
+	],
+	"number": "332",
+	"offerings": {
+		"locations": [
+			"Weitz Center 235"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Concurrent registration in Biology 333; Biology 125 and 126",
+	"requirements": [
+		"QRE"
+	],
+	"scnc": null,
+	"section": "00",
+	"semester": "WI",
+	"size": {
+		"registered": 49,
+		"total": 48,
+		"waitlist": 7
+	},
+	"status": "Closed",
+	"subject": "BIOL",
+	"summary": null,
+	"synonym": "54908",
+	"tags": [
+		"NEURELEC",
+		"BIOCELEC",
+		"BIOLORGANISMIC",
+		"BIOLELECTIVE"
+	],
+	"title": "Human Physiology",
+	"type": "Course",
+	"year": 2020
+}
