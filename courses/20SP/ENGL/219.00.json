@@ -1,14 +1,16 @@
 {
-	"comments": [],
-	"credits": 6.0,
-	"id": "2020WI POSC 345.00",
-	"instructors": [
-		"Kent Freeze"
+	"comments": [
+		"Second 5 weeks"
 	],
-	"number": "345",
+	"credits": 3.0,
+	"id": "2020SP ENGL 219.00",
+	"instructors": [
+		"Pierre Hecker"
+	],
+	"number": "219",
 	"offerings": {
 		"locations": [
-			"Weitz Center 230"
+			"Laird 212"
 		],
 		"times": [
 			{
@@ -25,28 +27,30 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		"SI",
+		"LA",
+		"WR2",
 		"IS"
 	],
 	"scnc": null,
 	"section": "00",
-	"semester": "WI",
+	"semester": "SP",
 	"size": {
-		"registered": 8,
-		"total": 15,
+		"registered": 0,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "POSC",
+	"subject": "ENGL",
 	"summary": null,
-	"synonym": "54455",
+	"synonym": "56139",
 	"tags": [
-		"POSI-DSS2",
-		"POSIELECTIVE",
-		"POSIADVSEM",
-		"POSCADVSEM"
+		"EUSTTRANNATL",
+		"MARSSUPP",
+		"ENGLHE1",
+		"ENGLT1",
+		"THEALITCRITHIST"
 	],
-	"title": "Politics of Dictatorship*",
+	"title": "Global Shakespeare",
 	"type": "Course",
 	"year": 2020
 }
