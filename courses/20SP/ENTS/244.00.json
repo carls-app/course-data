@@ -2,9 +2,27 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020SP ENTS 244.00",
-	"instructors": [],
+	"instructors": [
+		"Tsegaye H Nega"
+	],
 	"number": "244",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",

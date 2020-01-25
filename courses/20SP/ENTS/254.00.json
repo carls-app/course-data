@@ -2,9 +2,27 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020SP ENTS 254.00",
-	"instructors": [],
+	"instructors": [
+		"Tsegaye H Nega"
+	],
 	"number": "254",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Goodsell 03"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126",
 	"requirements": [
 		"QRE",
