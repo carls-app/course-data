@@ -1,13 +1,13 @@
 {
 	"comments": [
-		"Extra Time Required, Sophomore Priority"
+		"Sophomore Priority.  Extra time for weekend field trips. Note: Movement between sections is not possible, if sections fill during registration, seats that open are filled from that waitlist first."
 	],
 	"credits": 6.0,
-	"id": "2020SP GEOL 135.53",
+	"id": "2020SP GEOL 110.53",
 	"instructors": [
-		"Dan Maxbauer"
+		"Nina M Whitney"
 	],
-	"number": "135",
+	"number": "110",
 	"offerings": {
 		"locations": [
 			"Anderson Hall 129"
@@ -37,8 +37,7 @@
 	},
 	"prerequisites": null,
 	"requirements": [
-		"LS",
-		"QRE"
+		"LS"
 	],
 	"scnc": null,
 	"section": "53",
@@ -51,9 +50,12 @@
 	"status": "Open",
 	"subject": "GEOL",
 	"summary": null,
-	"synonym": "54812",
-	"tags": [],
-	"title": "Introduction to Climate Science",
+	"synonym": "56180",
+	"tags": [
+		"ENTSINTRO",
+		"ARCNPERT"
+	],
+	"title": "Introduction to Geology & Lab",
 	"type": "Course",
 	"year": 2020
 }
