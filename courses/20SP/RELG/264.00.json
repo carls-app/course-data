@@ -1,30 +1,25 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020SP RELG 241.00",
+	"id": "2020SP RELG 264.00",
 	"instructors": [
 		"Tanzeen R Doha"
 	],
-	"number": "241",
+	"number": "264",
 	"offerings": {
 		"locations": [
-			"Leighton 426"
+			"Leighton 330"
 		],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
 			},
 			{
-				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
 			}
 		]
 	},
@@ -45,14 +40,17 @@
 	"status": "Open",
 	"subject": "RELG",
 	"summary": null,
-	"synonym": "55706",
+	"synonym": "55688",
 	"tags": [
+		"POSI-DSS2",
+		"POSI-AREAS2",
+		"SPECINTSOCTHGHT",
 		"RELGISLAMICTRAD",
-		"ASSTCENT",
-		"ASSTEAST",
-		"ASSTSOUTH"
+		"ASSTHU",
+		"MESTGRP1",
+		"PPOLFP"
 	],
-	"title": "Islam in Asia: Lived Traditions and Meaning-Making",
+	"title": "Islam, Politics, Secular",
 	"type": "Course",
 	"year": 2020
 }
