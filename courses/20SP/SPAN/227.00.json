@@ -1,11 +1,11 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020SP SPAN 225.00",
+	"id": "2020SP SPAN 227.00",
 	"instructors": [
 		"Humberto R Huergo"
 	],
-	"number": "225",
+	"number": "227",
 	"offerings": {
 		"locations": [
 			"Language & Dining Center 243"
@@ -28,9 +28,9 @@
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
+	"prerequisites": null,
 	"requirements": [
-		"WR2",
+		"HI",
 		"IS"
 	],
 	"scnc": null,
@@ -38,15 +38,19 @@
 	"semester": "SP",
 	"size": {
 		"registered": 0,
-		"total": 20,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "SPAN",
 	"summary": null,
-	"synonym": "55335",
-	"tags": [],
-	"title": "Exile in Literature and History",
+	"synonym": "56189",
+	"tags": [
+		"EUSTCNTRY",
+		"MARSCORE",
+		"MARSSUPP"
+	],
+	"title": "Mslms,Chrstns&Jews ErlyMdn Sp",
 	"type": "Course",
 	"year": 2020
 }
