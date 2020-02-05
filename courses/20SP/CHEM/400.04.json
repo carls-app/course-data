@@ -4,30 +4,11 @@
 	],
 	"credits": 1.0,
 	"id": "2020SP CHEM 400.04",
-	"instructors": [],
+	"instructors": [
+		"Chris Calderone"
+	],
 	"number": "400",
-	"offerings": {
-		"locations": [
-			"Old Music Hall 107"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
@@ -40,7 +21,7 @@
 	},
 	"status": "Open",
 	"subject": "CHEM",
-	"summary": "Three alternatives exist for the department comprehensive exercise. Most students elect to join a discussion group that studies the research of a distinguished chemist or particular research problem in depth. Other students elect to write a long paper based on research in the primary literature, or write a paper expanding on their own research investigations. Most of the work for Chemistry 400 is expected to be accomplished during winter term. Students should enroll for five credits of Chemistry 400 during the winter, receive a \"CI\" at the end of that term, and then enroll for one credit during the spring, with the final evaluation and grade being awarded during spring term.\n    \n\n     Group Option.",
+	"summary": null,
 	"synonym": "55387",
 	"tags": [],
 	"title": "Integrative Exercise",
