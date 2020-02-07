@@ -8,33 +8,7 @@
 		"Dave Ricks"
 	],
 	"number": "286",
-	"offerings": {
-		"locations": [
-			"Recreation Center FIEL"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "Tu",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "We",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			},
-			{
-				"day": "Th",
-				"end": "5:30pm",
-				"start": "3:30pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PEI"
@@ -43,7 +17,7 @@
 	"section": "00",
 	"semester": "WI",
 	"size": {
-		"registered": 0,
+		"registered": 42,
 		"total": 60,
 		"waitlist": 0
 	},
