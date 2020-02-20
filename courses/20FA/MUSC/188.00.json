@@ -1,44 +1,42 @@
 {
-	"comments": [
-		"2019-20 fee $93"
-	],
+	"comments": [],
 	"credits": 1.0,
-	"id": "2020WI MUSC 197.00",
+	"id": "2020FA MUSC 188.00",
 	"instructors": [
-		"Mark Kreitzer"
+		"Gao Hong"
 	],
-	"number": "197",
+	"number": "188",
 	"offerings": {
 		"locations": [
-			"Weitz Center M027",
-			"Weitz Center M107"
+			"Weitz Center M032"
 		],
 		"times": [
 			{
-				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"day": "We",
+				"end": "6:00pm",
+				"start": "4:30pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"ARP"
+		"ARP",
+		"IS"
 	],
 	"scnc": true,
 	"section": "00",
-	"semester": "WI",
+	"semester": "FA",
 	"size": {
-		"registered": 10,
+		"registered": 0,
 		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "MUSC",
 	"summary": null,
-	"synonym": "53872",
+	"synonym": "57676",
 	"tags": [],
-	"title": "Class Guitar",
+	"title": "Chinese Music Ensemble",
 	"type": "Course",
 	"year": 2020
 }
