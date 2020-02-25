@@ -1,52 +1,49 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020SP PHIL 272.00",
+	"id": "2020SP ECON 282.00",
 	"instructors": [
-		"Douglas B Marshall"
+		"Yaniv Ben-Ami"
 	],
-	"number": "272",
+	"number": "282",
 	"offerings": {
 		"locations": [
-			"Leighton 304"
+			"Anderson Hall 329"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "3:00pm",
+				"start": "1:15pm"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "3:00pm",
+				"start": "1:15pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
-		"HI",
-		"WR2",
-		"IS"
+		"SI",
+		"QRE"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 5,
+		"registered": 1,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "PHIL",
+	"subject": "ECON",
 	"summary": null,
-	"synonym": "55083",
+	"synonym": "57733",
 	"tags": [
-		"PHILCORE",
-		"SPECINTPHILSCI",
-		"EUSTTRANNATL"
+		"POECUPAPP"
 	],
-	"title": "Early Modern Philosophy",
+	"title": "Theory of Investment Finance",
 	"type": "Course",
 	"year": 2020
 }
