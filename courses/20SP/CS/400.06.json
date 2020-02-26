@@ -8,7 +8,8 @@
 	"number": "400",
 	"offerings": {
 		"locations": [
-			"CMC 328"
+			"CMC 328",
+			"CMC 319"
 		],
 		"times": [
 			{
@@ -20,6 +21,16 @@
 				"day": "Th",
 				"end": "12:00pm",
 				"start": "9:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "4:30pm",
+				"start": "3:30pm"
+			},
+			{
+				"day": "Tu",
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -29,7 +40,7 @@
 	"section": "06",
 	"semester": "SP",
 	"size": {
-		"registered": 12,
+		"registered": 10,
 		"total": 20,
 		"waitlist": 0
 	},
