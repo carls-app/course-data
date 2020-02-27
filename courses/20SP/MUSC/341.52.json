@@ -8,19 +8,13 @@
 	"number": "341",
 	"offerings": {
 		"locations": [
-			"Weitz Center 231",
-			"Weitz Center M038"
+			"Weitz Center 231"
 		],
 		"times": [
 			{
 				"day": "Mo",
 				"end": "1:40pm",
 				"start": "12:30pm"
-			},
-			{
-				"day": "Tu",
-				"end": "5:00pm",
-				"start": "2:00pm"
 			},
 			{
 				"day": "We",
@@ -43,7 +37,7 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 1,
+		"registered": 2,
 		"total": 8,
 		"waitlist": 0
 	},
