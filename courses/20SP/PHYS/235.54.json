@@ -1,27 +1,27 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020SP PHYS 342.59",
+	"id": "2020SP PHYS 235.54",
 	"instructors": [
-		"Ryan C Terrien",
+		"Helen K Minsky",
 		"Marty Baylor"
 	],
-	"number": "342",
+	"number": "235",
 	"offerings": {
 		"locations": [
 			"Anderson Hall 036",
-			"Anderson Hall 035"
+			"Anderson Hall 037"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "Th",
@@ -30,30 +30,30 @@
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Physics 228 and 235 and (Physics 335 or Physic 346) or instructor permission",
+	"prerequisites": null,
 	"requirements": [
 		"LS",
 		"QRE"
 	],
 	"scnc": null,
-	"section": "59",
+	"section": "54",
 	"semester": "SP",
 	"size": {
 		"registered": 0,
-		"total": 12,
-		"waitlist": 0
+		"total": 0,
+		"waitlist": 4
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHYS",
 	"summary": null,
-	"synonym": "55646",
+	"synonym": "55437",
 	"tags": [],
-	"title": "Contemporary Experimental Physics & Lab",
+	"title": "Electricity & Magnetism & Lab",
 	"type": "Course",
 	"year": 2020
 }
