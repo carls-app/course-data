@@ -34,7 +34,7 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Chemistry 122 or placement via Chemistry Placement Exam (see Chemistry Department webpage)",
 	"requirements": [
 		"LS",
 		"QRE"
@@ -43,7 +43,7 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 15,
+		"registered": 20,
 		"total": 24,
 		"waitlist": 0
 	},
@@ -55,7 +55,7 @@
 		"BIOCCORE",
 		"STEMCHEM"
 	],
-	"title": "Principles Chemistry I & Lab",
+	"title": "Principles of Chemistry I and Lab",
 	"type": "Course",
 	"year": 2020
 }
