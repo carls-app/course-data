@@ -6,7 +6,23 @@
 		"Tom Madsen"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 328"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:45am",
+				"start": "8:45am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:45am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 and successful completion of three courses from among: Mathematics courses numbered above 236, Computer Science 252, Computer Science 254, Computer Science 352, Statistics 250, Statistics 320, Statistics 340",
 	"requirements": [],
 	"scnc": true,
