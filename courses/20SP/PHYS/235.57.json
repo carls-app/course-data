@@ -10,13 +10,29 @@
 	"number": "235",
 	"offerings": {
 		"locations": [
-			"Location To Be Announced TBA"
+			"Anderson Hall 036",
+			"Anderson Hall 027"
 		],
 		"times": [
+			{
+				"day": "Mo",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
 			{
 				"day": "Tu",
 				"end": "12:00pm",
 				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "12:20pm",
+				"start": "11:10am"
+			},
+			{
+				"day": "Fr",
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
@@ -29,7 +45,7 @@
 	"section": "57",
 	"semester": "SP",
 	"size": {
-		"registered": 4,
+		"registered": 6,
 		"total": 12,
 		"waitlist": 0
 	},
