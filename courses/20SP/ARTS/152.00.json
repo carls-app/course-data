@@ -1,28 +1,27 @@
 {
 	"comments": [
-		"Sophomore priority"
+		"Fees apply"
 	],
 	"credits": 6.0,
-	"id": "2020WI ARTS 180.00",
+	"id": "2020SP ARTS 152.00",
 	"instructors": [
-		"Jana L Pullman",
-		"Ann M May"
+		"Danny Saathoff"
 	],
-	"number": "180",
+	"number": "152",
 	"offerings": {
 		"locations": [
-			"Boliou 032"
+			"Boliou 044"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:45pm",
-				"start": "1:15pm"
+				"end": "11:30am",
+				"start": "9:00am"
 			},
 			{
 				"day": "Th",
-				"end": "3:45pm",
-				"start": "1:15pm"
+				"end": "11:30am",
+				"start": "9:00am"
 			}
 		]
 	},
@@ -32,18 +31,18 @@
 	],
 	"scnc": null,
 	"section": "00",
-	"semester": "WI",
+	"semester": "SP",
 	"size": {
-		"registered": 15,
-		"total": 11,
+		"registered": 5,
+		"total": 12,
 		"waitlist": 0
 	},
-	"status": "Closed",
+	"status": "Open",
 	"subject": "ARTS",
 	"summary": null,
-	"synonym": "56012",
+	"synonym": "57952",
 	"tags": [],
-	"title": "Bookbinding",
+	"title": "Adornment: Finding Value in Ev",
 	"type": "Course",
 	"year": 2020
 }
