@@ -6,7 +6,23 @@
 	"id": "2020FA ARTH 230.00",
 	"instructors": [],
 	"number": "230",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Any one art history course",
 	"requirements": [
 		"LA",
