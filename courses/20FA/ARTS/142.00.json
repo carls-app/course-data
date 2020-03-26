@@ -6,7 +6,23 @@
 	"id": "2020FA ARTS 142.00",
 	"instructors": [],
 	"number": "142",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 130"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:30am",
+				"start": "9:00am"
+			},
+			{
+				"day": "Th",
+				"end": "11:30am",
+				"start": "9:00am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"

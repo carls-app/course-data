@@ -8,7 +8,23 @@
 		"Ronald Rodman"
 	],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 230"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "9:25am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "9:25am",
+				"start": "8:15am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The ability to read music as assessed by a diagnostic exam administered at the start of the term",
 	"requirements": [
 		"ARP"
