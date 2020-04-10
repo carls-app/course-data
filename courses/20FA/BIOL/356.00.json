@@ -6,7 +6,23 @@
 		"Emily K Ho"
 	],
 	"number": "356",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 102"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "11:55am",
+				"start": "10:10am"
+			},
+			{
+				"day": "Th",
+				"end": "11:55am",
+				"start": "10:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 240, Biology 280 or Biology 342",
 	"requirements": [
 		"QRE"
