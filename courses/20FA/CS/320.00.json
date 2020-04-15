@@ -6,7 +6,28 @@
 		"Anna N Rafferty"
 	],
 	"number": "320",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 329"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 201 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
 		"FSR"
