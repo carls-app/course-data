@@ -1,16 +1,16 @@
 {
 	"comments": [
-		"In Translation"
+		"Formerly Mathematics 245"
 	],
 	"credits": 6.0,
-	"id": "2020SP GERM 247.00",
+	"id": "2020FA STAT 230.00",
 	"instructors": [
-		"Kiley Kost"
+		"Tom Madsen"
 	],
-	"number": "247",
+	"number": "230",
 	"offerings": {
 		"locations": [
-			"Leighton 303"
+			"CMC 102"
 		],
 		"times": [
 			{
@@ -30,28 +30,27 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Statistics 120 (or equivalent) or Statistics 250 (formerly Mathematics 215 or 275).",
 	"requirements": [
-		"LA",
-		"IS"
+		"FSR",
+		"QRE"
 	],
-	"scnc": true,
+	"scnc": null,
 	"section": "00",
-	"semester": "SP",
+	"semester": "FA",
 	"size": {
-		"registered": 34,
-		"total": 35,
+		"registered": 0,
+		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Closed",
-	"subject": "GERM",
+	"status": "Open",
+	"subject": "STAT",
 	"summary": null,
-	"synonym": "54622",
+	"synonym": "58595",
 	"tags": [
-		"ENGLFORLIT",
-		"EUSTCNTRY"
+		"ENTSQUANTV"
 	],
-	"title": "Mirror, Mirror: Reflecting on Fairy Tales and Folklore",
+	"title": "Applied Regression Analysis",
 	"type": "Course",
 	"year": 2020
 }
