@@ -6,7 +6,28 @@
 		"Susannah R Ottaway"
 	],
 	"number": "239",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "11:00am",
+				"start": "9:50am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:40am",
+				"start": "9:40am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",

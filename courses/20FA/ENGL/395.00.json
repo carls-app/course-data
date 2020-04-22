@@ -6,7 +6,23 @@
 		"Susan Jaret McKinstry"
 	],
 	"number": "395",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 319"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:15pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: English 295 and one 300 level English course",
 	"requirements": [
 		"LA",
