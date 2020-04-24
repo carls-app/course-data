@@ -1,34 +1,40 @@
 {
 	"comments": [
-		"Held for new first year students, Extra Time Required"
+		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2020FA IDSC 100.00",
+	"id": "2020FA ARBC 100.00",
 	"instructors": [
-		"Chico Zimmerman"
+		"Zaki A Haidar"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Language & Dining Center 243"
+			"Language & Dining Center 242"
 		],
 		"times": [
 			{
-				"day": "Tu",
+				"day": "Mo",
 				"end": "3:00pm",
-				"start": "1:15pm"
+				"start": "1:50pm"
 			},
 			{
-				"day": "Th",
+				"day": "We",
 				"end": "3:00pm",
-				"start": "1:15pm"
+				"start": "1:50pm"
+			},
+			{
+				"day": "Fr",
+				"end": "3:20pm",
+				"start": "2:20pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
+		"WR1",
 		"AI",
-		"WR1"
+		"IS"
 	],
 	"scnc": null,
 	"section": "00",
@@ -39,11 +45,14 @@
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "IDSC",
+	"subject": "ARBC",
 	"summary": null,
-	"synonym": "59185",
-	"tags": [],
-	"title": "Civil Discourse-Troubled Age",
+	"synonym": "59191",
+	"tags": [
+		"MESTGRP2",
+		"MESTCORE"
+	],
+	"title": "Arabs Encountering the West",
 	"type": "Course",
 	"year": 2020
 }

@@ -1,7 +1,7 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020FA NEUR 127.00",
+	"id": "2020FA NEUR 127.53",
 	"instructors": [
 		"Sarah H Meerts",
 		"Eric D Hoopfer"
@@ -9,13 +9,19 @@
 	"number": "127",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 121"
+			"Anderson Hall 121",
+			"Hulings B04"
 		],
 		"times": [
 			{
 				"day": "Tu",
 				"end": "11:55am",
 				"start": "10:10am"
+			},
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Th",
@@ -29,7 +35,7 @@
 		"QRE"
 	],
 	"scnc": null,
-	"section": "00",
+	"section": "53",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -39,7 +45,7 @@
 	"status": "Open",
 	"subject": "NEUR",
 	"summary": null,
-	"synonym": "58517",
+	"synonym": "59230",
 	"tags": [
 		"NEURCORE"
 	],

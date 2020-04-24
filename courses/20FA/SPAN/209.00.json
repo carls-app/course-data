@@ -6,7 +6,18 @@
 		"Palmar M Álvarez-Blanco"
 	],
 	"number": "209",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 106"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:00am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
 		"HI",
