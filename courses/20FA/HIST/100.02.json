@@ -3,40 +3,41 @@
 		"Held for new first year students"
 	],
 	"credits": 6.0,
-	"id": "2020FA HIST 100.05",
+	"id": "2020FA HIST 100.02",
 	"instructors": [
-		"Serena R Zabin"
+		"David G Tompkins"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Leighton 303"
+			"Leighton 301"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "12:20pm",
+				"start": "11:10am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "1:00pm",
+				"start": "12:00pm"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
 		"AI",
-		"WR1"
+		"WR1",
+		"IS"
 	],
 	"scnc": null,
-	"section": "05",
+	"section": "02",
 	"semester": "FA",
 	"size": {
 		"registered": 0,
@@ -46,9 +47,11 @@
 	"status": "Open",
 	"subject": "HIST",
 	"summary": null,
-	"synonym": "58946",
-	"tags": [],
-	"title": "Trials in Early America",
+	"synonym": "58944",
+	"tags": [
+		"HISTMODERN"
+	],
+	"title": "Music and Politics in Europe since Wagner",
 	"type": "Course",
 	"year": 2020
 }
