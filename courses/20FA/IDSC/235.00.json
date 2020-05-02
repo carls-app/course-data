@@ -10,13 +10,23 @@
 	"number": "235",
 	"offerings": {
 		"locations": [
-			"Olin 102"
+			"Anderson Hall 121"
 		],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "10:00am",
-				"start": "8:15am"
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
