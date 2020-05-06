@@ -2,7 +2,9 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA ECON 110.01",
-	"instructors": [],
+	"instructors": [
+		"Michael T Hemesath"
+	],
 	"number": "110",
 	"offerings": {
 		"locations": [
@@ -11,18 +13,18 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "11:00am",
+				"start": "9:50am"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "10:40am",
+				"start": "9:40am"
 			}
 		]
 	},
