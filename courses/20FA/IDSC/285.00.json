@@ -1,10 +1,30 @@
 {
-	"comments": [],
+	"comments": [
+		"First 5 weeks"
+	],
 	"credits": 3.0,
 	"id": "2020FA IDSC 285.00",
-	"instructors": [],
+	"instructors": [
+		"Emily Oliver"
+	],
 	"number": "285",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Willis 203"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI"
