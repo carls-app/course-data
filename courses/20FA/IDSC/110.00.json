@@ -4,9 +4,22 @@
 	],
 	"credits": 1.0,
 	"id": "2020FA IDSC 110.00",
-	"instructors": [],
+	"instructors": [
+		"Lin S Winton"
+	],
 	"number": "110",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Library 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:55pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Interdisciplinary Studies 099, Undergraduate Bridge Experience",
 	"requirements": [
 		"QRE"

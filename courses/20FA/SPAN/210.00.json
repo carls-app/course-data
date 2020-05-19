@@ -1,16 +1,14 @@
 {
 	"comments": [],
 	"credits": 6.0,
-	"id": "2020SP ENGL 285.00",
+	"id": "2020FA SPAN 210.00",
 	"instructors": [
-		"Timothy Raylor",
-		"Austin P Mason",
-		"George G Shuffelton"
+		"Humberto R Huergo"
 	],
-	"number": "285",
+	"number": "210",
 	"offerings": {
 		"locations": [
-			"Laird 212"
+			"Language & Dining Center 302"
 		],
 		"times": [
 			{
@@ -30,28 +28,27 @@
 			}
 		]
 	},
-	"prerequisites": null,
+	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
-		"HI",
-		"WR2"
+		"LA",
+		"IS"
 	],
-	"scnc": true,
+	"scnc": null,
 	"section": "00",
-	"semester": "SP",
+	"semester": "FA",
 	"size": {
-		"registered": 24,
+		"registered": 0,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
-	"subject": "ENGL",
+	"subject": "SPAN",
 	"summary": null,
-	"synonym": "55669",
+	"synonym": "59395",
 	"tags": [
-		"MARSCORE",
-		"DGAHCORE"
+		"PENINLIT"
 	],
-	"title": "Textual Technologies from Parchment to Pixel",
+	"title": "Spanish Literature and Art through Graphic Novels",
 	"type": "Course",
 	"year": 2020
 }
