@@ -7,19 +7,17 @@
 	],
 	"number": "205",
 	"offerings": {
-		"locations": [
-			"Boliou 140"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -32,11 +30,11 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 20,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": "A course designed to develop the student's oral and written mastery of Spanish. Advanced study of grammar. Compositions and conversations based on cultural and literary topics. There is also an audio-video component focused on current affairs.",
 	"synonym": "59300",

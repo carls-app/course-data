@@ -9,24 +9,22 @@
 	],
 	"number": "100",
 	"offerings": {
-		"locations": [
-			"Weitz Center 136"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "8:10pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "8:10pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "8:00pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -39,8 +37,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 10,
+		"total": 14,
 		"waitlist": 0
 	},
 	"status": "Open",

@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA SPAN 204.10",
 	"instructors": [
-		"Beatriz Pariente-Beltrán"
+		"Beatriz Pariente-Beltran"
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 335"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -34,11 +32,11 @@
 	"section": "10",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 16,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": null,
 	"synonym": "59299",

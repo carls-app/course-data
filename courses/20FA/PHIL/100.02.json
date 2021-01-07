@@ -10,23 +10,24 @@
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Olin 104"
+			"Leighton 402",
+			"Boliou TENT"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -39,11 +40,11 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHIL",
 	"summary": null,
 	"synonym": "59040",

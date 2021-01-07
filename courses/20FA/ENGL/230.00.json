@@ -7,24 +7,17 @@
 	],
 	"number": "230",
 	"offerings": {
-		"locations": [
-			"Boliou 161"
-		],
+		"locations": [],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
-				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
-			},
-			{
-				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -37,7 +30,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 25,
 		"waitlist": 0
 	},
@@ -48,7 +41,10 @@
 	"tags": [
 		"ENGLHE3",
 		"ENGLT2",
-		"AFSTLA"
+		"AFSTLA",
+		"AMSTREI",
+		"AMSTDAC",
+		"AMSTPCC"
 	],
 	"title": "Studies in African American Literature: From the 1950s to the Present",
 	"type": "Course",

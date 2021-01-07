@@ -7,24 +7,22 @@
 	],
 	"number": "170",
 	"offerings": {
-		"locations": [
-			"Weitz Center 133"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -38,11 +36,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 26,
 		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "POSC",
 	"summary": "What are the foundational theories and practices of international relations and world politics? This course addresses topics of a geopolitical, commercial and ideological character as they relate to global systems including: great power politics, polycentricity, and international organizations. It also explores the dynamic intersection of world politics with war, terrorism, nuclear weapons, national security, human security, human rights, and the globalization of economic and social development.",
 	"synonym": "58807",

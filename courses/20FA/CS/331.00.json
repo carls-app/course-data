@@ -7,24 +7,22 @@
 	],
 	"number": "331",
 	"offerings": {
-		"locations": [
-			"Weitz Center 235"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -36,7 +34,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 34,
 		"waitlist": 0
 	},

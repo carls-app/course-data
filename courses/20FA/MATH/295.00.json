@@ -3,28 +3,23 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 295.00",
 	"instructors": [
-		"Rob Thompson"
+		"Rob C Thompson"
 	],
 	"number": "295",
 	"offerings": {
 		"locations": [
-			"CMC 210"
+			"Olin 149"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "9:30pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
-			},
-			{
-				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "9:30pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -36,18 +31,18 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 20,
+		"registered": 26,
+		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
 	"summary": null,
 	"synonym": "58639",
 	"tags": [
 		"CSELECT"
 	],
-	"title": "Combinatorial Games",
+	"title": "Numerical Analysis",
 	"type": "Course",
 	"year": 2020
 }

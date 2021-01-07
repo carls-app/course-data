@@ -10,19 +10,19 @@
 	"number": "151",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 036",
+			"Boliou 104",
 			"Anderson Hall 021"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Th",
@@ -31,8 +31,8 @@
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -45,7 +45,7 @@
 	"section": "59",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 24,
 		"waitlist": 0
 	},
@@ -56,7 +56,7 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Relativity and Particles & Lab",
+	"title": "Introduction to Physics: Relativity and Particles and Lab",
 	"type": "Course",
 	"year": 2020
 }

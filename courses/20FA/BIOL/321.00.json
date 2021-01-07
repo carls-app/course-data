@@ -3,28 +3,28 @@
 	"credits": 6.0,
 	"id": "2020FA BIOL 321.00",
 	"instructors": [
-		"Daniel L Hernández"
+		"Daniel L Hernandez"
 	],
 	"number": "321",
 	"offerings": {
 		"locations": [
-			"Hulings 120"
+			"Anderson Hall AMPHTR"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -37,8 +37,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 16,
+		"total": 24,
 		"waitlist": 0
 	},
 	"status": "Open",

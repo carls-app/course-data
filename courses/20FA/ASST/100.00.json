@@ -15,18 +15,18 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -40,11 +40,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ASST",
 	"summary": null,
 	"synonym": "58771",

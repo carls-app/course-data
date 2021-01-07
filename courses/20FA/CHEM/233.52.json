@@ -14,23 +14,23 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -43,18 +43,18 @@
 	"section": "52",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 22,
+		"registered": 12,
+		"total": 12,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CHEM",
 	"summary": null,
 	"synonym": "58148",
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I & Lab",
+	"title": "Organic Chemistry I and Lab",
 	"type": "Course",
 	"year": 2020
 }

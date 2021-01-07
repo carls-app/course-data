@@ -9,24 +9,22 @@
 	],
 	"number": "100",
 	"offerings": {
-		"locations": [
-			"Library 305"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -39,11 +37,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 14,
+		"total": 14,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CLAS",
 	"summary": null,
 	"synonym": "59184",

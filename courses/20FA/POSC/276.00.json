@@ -7,19 +7,17 @@
 	],
 	"number": "276",
 	"offerings": {
-		"locations": [
-			"Weitz Center 233"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -32,13 +30,13 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "POSC",
-	"summary": "The course explores the bipolarity of imagination, the fact that imagination can be both a source of freedom and domination in contemporary politics. The main focus of the course is the capacity literature and film have to either increase the autonomous capacity of individuals to engage culture and language in a creative and interactive manner in the construction of their identities, or in a direction that increases their fascination with images and myths and, consequently, the escapist desire to pull these out of the living dialogue with others.",
+	"summary": null,
 	"synonym": "58825",
 	"tags": [
 		"EUSTTRANNATL",
@@ -47,7 +45,7 @@
 		"POSI-PLI2",
 		"GWSSELECTIVE"
 	],
-	"title": "Imagination in Politics",
+	"title": "Imagination in Politics: Resisting Totalitarianism",
 	"type": "Course",
 	"year": 2020
 }

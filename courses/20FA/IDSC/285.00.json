@@ -10,18 +10,14 @@
 	"number": "285",
 	"offerings": {
 		"locations": [
-			"Willis 203"
+			"Anderson Hall 329",
+			"Music & Drama Center TENT"
 		],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "4:55pm",
-				"start": "3:10pm"
-			},
-			{
 				"day": "Th",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -33,7 +29,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 25,
 		"waitlist": 0
 	},

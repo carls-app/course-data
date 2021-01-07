@@ -7,19 +7,17 @@
 	],
 	"number": "212",
 	"offerings": {
-		"locations": [
-			"Leighton 236"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "Th",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -32,7 +30,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 25,
 		"waitlist": 0
 	},
@@ -40,7 +38,9 @@
 	"subject": "GWSS",
 	"summary": null,
 	"synonym": "57917",
-	"tags": [],
+	"tags": [
+		"WGSTADDL"
+	],
 	"title": "Foundations of LGBTQ Studies",
 	"type": "Course",
 	"year": 2020

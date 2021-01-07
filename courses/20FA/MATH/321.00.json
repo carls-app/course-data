@@ -7,28 +7,26 @@
 	],
 	"number": "321",
 	"offerings": {
-		"locations": [
-			"CMC 206"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Mathematics 236 or permission of the instructor",
+	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
 	"requirements": [
 		"FSR"
 	],
@@ -36,7 +34,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 19,
 		"total": 28,
 		"waitlist": 0
 	},

@@ -7,24 +7,22 @@
 	],
 	"number": "236",
 	"offerings": {
-		"locations": [
-			"CMC 206"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -36,11 +34,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 27,
+		"total": 26,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
 	"summary": "Basic concepts and techniques used throughout mathematics. Topics include logic, mathematical induction and other methods of proof, problem solving, sets, cardinality, equivalence relations, functions and relations, and the axiom of choice. Other topics may include: algebraic structures, graph theory, and basic combinatorics.",
 	"synonym": "58638",

@@ -7,24 +7,22 @@
 	],
 	"number": "212",
 	"offerings": {
-		"locations": [
-			"CMC 306"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -37,20 +35,23 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "ENGL",
-	"summary": "A survey of the major forms and voices of nineteenth-century American literature during the Romantic and Realist periods, with attention to the historical and intellectual contexts of that work. Topics covered will include the literary writings of Transcendentalism, abolition, and the rise of literary \"realism\" after the Civil War as an artistic response to urbanization and industrialism. Writers to be read include Irving, Hawthorne, Melville, Emerson, Douglass, Dickinson, Whitman, Twain, James, and Wharton.",
+	"summary": null,
 	"synonym": "58897",
 	"tags": [
 		"ENGLHE2",
 		"ENGLT2",
 		"AMSTSURVEY1",
 		"LITFORLANG",
-		"AMSTSURV1"
+		"AMSTSURV1",
+		"AMSTREI",
+		"AMSTSAP",
+		"AMSTPCC"
 	],
 	"title": "Nineteenth-Century American Literature",
 	"type": "Course",

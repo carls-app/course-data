@@ -3,23 +3,21 @@
 	"credits": 6.0,
 	"id": "2020FA HIST 229.00",
 	"instructors": [
-		"Annette Igra"
+		"Annette R Igra"
 	],
 	"number": "229",
 	"offerings": {
-		"locations": [
-			"Leighton 236"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -32,8 +30,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 19,
+		"total": 27,
 		"waitlist": 0
 	},
 	"status": "Open",

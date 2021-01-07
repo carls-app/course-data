@@ -8,14 +8,12 @@
 	],
 	"number": "251",
 	"offerings": {
-		"locations": [
-			"Willis 203"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "9:45pm",
-				"start": "8:00pm"
+				"end": "9:30pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -27,8 +25,8 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 18,
+		"registered": 20,
+		"total": 22,
 		"waitlist": 0
 	},
 	"status": "Open",

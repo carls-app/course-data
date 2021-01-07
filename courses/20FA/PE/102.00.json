@@ -5,7 +5,9 @@
 	"credits": 0.0,
 	"id": "2020FA PE 102.00",
 	"instructors": [
-		"Aaron J Chaput"
+		"Eric C Schlichting",
+		"Aaron J Chaput",
+		"Annie M Larson"
 	],
 	"number": "102",
 	"offerings": {
@@ -15,13 +17,13 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "8:50pm",
-				"start": "7:40pm"
+				"end": "9:35pm",
+				"start": "8:45pm"
 			},
 			{
 				"day": "We",
-				"end": "8:50pm",
-				"start": "7:40pm"
+				"end": "9:35pm",
+				"start": "8:45pm"
 			}
 		]
 	},
@@ -33,8 +35,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 40,
+		"registered": 5,
+		"total": 10,
 		"waitlist": 0
 	},
 	"status": "Open",

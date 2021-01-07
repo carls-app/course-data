@@ -2,27 +2,29 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA GEOL 210.53",
-	"instructors": [],
+	"instructors": [
+		"Jabari Jones"
+	],
 	"number": "210",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 129"
+			"Location To Be Announced"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			},
 			{
 				"day": "We",
@@ -41,11 +43,11 @@
 	"section": "53",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 40,
+		"registered": 14,
+		"total": 18,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "GEOL",
 	"summary": null,
 	"synonym": "58269",
@@ -54,7 +56,7 @@
 		"ENTSLPES",
 		"ARCNPERT"
 	],
-	"title": "Geomorphology & Lab",
+	"title": "Geomorphology and Lab",
 	"type": "Course",
 	"year": 2020
 }

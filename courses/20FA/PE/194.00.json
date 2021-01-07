@@ -3,26 +3,11 @@
 	"credits": 0.0,
 	"id": "2020FA PE 194.00",
 	"instructors": [
-		"Robert Barrett"
+		"Aaron D Rushing",
+		"Annie M Larson"
 	],
 	"number": "194",
-	"offerings": {
-		"locations": [
-			"Recreation Center 113"
-		],
-		"times": [
-			{
-				"day": "Tu",
-				"end": "11:50am",
-				"start": "10:45am"
-			},
-			{
-				"day": "Th",
-				"end": "11:50am",
-				"start": "10:45am"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PE"
@@ -31,11 +16,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 29,
+		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PE",
 	"summary": null,
 	"synonym": "57591",

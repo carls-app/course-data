@@ -10,18 +10,20 @@
 	"number": "190",
 	"offerings": {
 		"locations": [
-			"Weitz Center M126"
+			"Weitz Center TENT-E",
+			"Weitz Center M126",
+			"Weitz Center M104"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "8:00pm",
-				"start": "6:30pm"
+				"end": "9:00pm",
+				"start": "6:00pm"
 			},
 			{
 				"day": "We",
-				"end": "8:00pm",
-				"start": "6:30pm"
+				"end": "9:00pm",
+				"start": "6:00pm"
 			}
 		]
 	},
@@ -33,7 +35,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 23,
 		"total": 50,
 		"waitlist": 0
 	},

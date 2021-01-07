@@ -7,19 +7,17 @@
 	],
 	"number": "315",
 	"offerings": {
-		"locations": [
-			"Goodsell 03"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -31,8 +29,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 4,
+		"total": 18,
 		"waitlist": 0
 	},
 	"status": "Open",

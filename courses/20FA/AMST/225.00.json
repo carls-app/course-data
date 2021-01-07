@@ -7,19 +7,17 @@
 	],
 	"number": "225",
 	"offerings": {
-		"locations": [
-			"CMC 304"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -33,7 +31,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 25,
 		"waitlist": 0
 	},

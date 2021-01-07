@@ -2,33 +2,35 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA CHEM 123.59",
-	"instructors": [],
+	"instructors": [
+		"Julia G Bakker-Arkema"
+	],
 	"number": "123",
 	"offerings": {
 		"locations": [
-			"Olin 141",
+			"Location To Be Announced",
 			"Anderson Hall 223"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
-				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
-			},
-			{
-				"day": "Th",
+				"day": "Tu",
 				"end": "12:00pm",
 				"start": "8:00am"
 			},
 			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -41,7 +43,7 @@
 	"section": "59",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 24,
 		"waitlist": 0
 	},

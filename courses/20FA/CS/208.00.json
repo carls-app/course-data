@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA CS 208.00",
 	"instructors": [
-		"Jeffrey R Ondich"
+		"Aaron W Bauer"
 	],
 	"number": "208",
 	"offerings": {
-		"locations": [
-			"Olin 310"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "9:30am",
-				"start": "8:30am"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -36,11 +34,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 33,
 		"total": 34,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "58536",

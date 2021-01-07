@@ -9,19 +9,22 @@
 	],
 	"number": "210",
 	"offerings": {
-		"locations": [
-			"Weitz Center 132"
-		],
+		"locations": [],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
-				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -34,8 +37,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 17,
+		"total": 28,
 		"waitlist": 0
 	},
 	"status": "Open",

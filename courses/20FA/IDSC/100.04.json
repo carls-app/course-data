@@ -10,18 +10,24 @@
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Weitz Center 136"
+			"Weitz Center 233",
+			"Hulings 310"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "We",
+				"end": "8:30pm",
+				"start": "6:15pm"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -34,11 +40,11 @@
 	"section": "04",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "IDSC",
 	"summary": null,
 	"synonym": "59232",

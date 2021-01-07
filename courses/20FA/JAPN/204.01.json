@@ -7,34 +7,32 @@
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 202"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Tu",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "10:45am",
+				"start": "9:40am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Th",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "10:45am",
+				"start": "9:40am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -44,7 +42,7 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 16,
 		"waitlist": 0
 	},

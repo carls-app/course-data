@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA LTAM 300.00",
 	"instructors": [
-		"Silvia López"
+		"Silvia Lopez"
 	],
 	"number": "300",
 	"offerings": {
-		"locations": [
-			"Willis 204"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -37,7 +35,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 15,
 		"waitlist": 0
 	},

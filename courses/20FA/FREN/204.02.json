@@ -7,24 +7,22 @@
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 345"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -34,11 +32,11 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 16,
+		"registered": 18,
+		"total": 18,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "FREN",
 	"summary": null,
 	"synonym": "59258",

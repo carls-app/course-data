@@ -9,14 +9,12 @@
 	],
 	"number": "110",
 	"offerings": {
-		"locations": [
-			"Library 305"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -28,11 +26,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 20,
+		"registered": 21,
+		"total": 21,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "IDSC",
 	"summary": null,
 	"synonym": "59383",

@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA CS 111.01",
 	"instructors": [
-		"Anya E Vostinar"
+		"Sneha Narayan"
 	],
 	"number": "111",
 	"offerings": {
-		"locations": [
-			"Olin 310"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -37,7 +35,7 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 34,
 		"waitlist": 0
 	},

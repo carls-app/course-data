@@ -5,7 +5,9 @@
 	"credits": 0.0,
 	"id": "2020FA PE 103.00",
 	"instructors": [
-		"Aaron J Chaput"
+		"Eric C Schlichting",
+		"Aaron J Chaput",
+		"Annie M Larson"
 	],
 	"number": "103",
 	"offerings": {
@@ -15,12 +17,12 @@
 		"times": [
 			{
 				"day": "Mo",
-				"end": "7:30pm",
+				"end": "7:20pm",
 				"start": "6:30pm"
 			},
 			{
 				"day": "We",
-				"end": "7:30pm",
+				"end": "7:20pm",
 				"start": "6:30pm"
 			}
 		]
@@ -33,11 +35,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 40,
+		"registered": 9,
+		"total": 10,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PE",
 	"summary": null,
 	"synonym": "57561",

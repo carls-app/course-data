@@ -4,17 +4,17 @@
 	],
 	"credits": 2.0,
 	"id": "2020FA HIST 200.00",
-	"instructors": [],
+	"instructors": [
+		"Antony E Adler"
+	],
 	"number": "200",
 	"offerings": {
-		"locations": [
-			"Leighton 202"
-		],
+		"locations": [],
 		"times": [
 			{
-				"day": "We",
-				"end": "9:40am",
-				"start": "8:30am"
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
 			}
 		]
 	},
@@ -27,13 +27,13 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 5,
+		"total": 15,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "HIST",
-	"summary": "A two-credit course in which students work with faculty oversight to complete a variety of public history projects with community partners. Students will work on a research project requiring them to identify and analyze primary sources, draw conclusions from the primary source research, and share their research with the appropriate audience in an appropriate form. We meet once a week at Carleton to ensure students maintain professional standards and strong relationships in their work. Potential projects include educational programming, historical society archival work, and a variety of local history opportunities.\n    \n\n     Extra Time Required",
+	"summary": null,
 	"synonym": "58949",
 	"tags": [
 		"DGAHSKILLBLDG",

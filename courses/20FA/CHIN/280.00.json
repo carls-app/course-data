@@ -3,23 +3,21 @@
 	"credits": 6.0,
 	"id": "2020FA CHIN 280.00",
 	"instructors": [
-		"Lei Yang"
+		"Shaohua Guo"
 	],
 	"number": "280",
 	"offerings": {
-		"locations": [
-			"CMC 328"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -29,7 +27,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 4,
 		"total": 16,
 		"waitlist": 0
 	},

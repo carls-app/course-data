@@ -7,19 +7,17 @@
 	],
 	"number": "116",
 	"offerings": {
-		"locations": [
-			"Leighton 236"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -32,11 +30,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": null,
 	"synonym": "58947",

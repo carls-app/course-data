@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA HIST 281.00",
 	"instructors": [
-		"Thabiti Willis"
+		"Thabiti C Willis"
 	],
 	"number": "281",
 	"offerings": {
-		"locations": [
-			"Leighton 236"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -37,11 +35,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 25,
+		"total": 27,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": null,
 	"synonym": "58954",

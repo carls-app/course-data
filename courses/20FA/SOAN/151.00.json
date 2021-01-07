@@ -9,24 +9,22 @@
 	],
 	"number": "151",
 	"offerings": {
-		"locations": [
-			"Leighton 402"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -40,7 +38,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 30,
 		"waitlist": 0
 	},
@@ -53,7 +51,6 @@
 		"AFSTSI",
 		"AMSTAMERWRLD",
 		"AMSTREI",
-		"AMSTDAC",
 		"AMSTSAP"
 	],
 	"title": "Global Minnesota: An Anthropology of Our State",

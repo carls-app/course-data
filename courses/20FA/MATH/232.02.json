@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 232.02",
 	"instructors": [
-		"Rafe Jones"
+		"Rafe F Jones"
 	],
 	"number": "232",
 	"offerings": {
-		"locations": [
-			"Anderson Hall 329"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -36,8 +34,8 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 22,
+		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",

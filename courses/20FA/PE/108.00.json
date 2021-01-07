@@ -10,19 +10,17 @@
 	],
 	"number": "108",
 	"offerings": {
-		"locations": [
-			"Weitz Center 168"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			}
 		]
 	},
@@ -34,8 +32,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 20,
+		"registered": 9,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",

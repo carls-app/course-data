@@ -7,28 +7,26 @@
 	],
 	"number": "110",
 	"offerings": {
-		"locations": [
-			"Weitz Center 230"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
 				"end": "11:00am",
-				"start": "9:50am"
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
 				"end": "11:00am",
-				"start": "9:50am"
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Music 103 (may be concurrently enrolled), or permission of the instructor as assessed by a diagnostic exam adminstered at the start of term",
+	"prerequisites": "Prerequisite: Music 103 (may be concurrently enrolled), or permission of the instructor as assessed by a diagnostic exam administered at the start of term",
 	"requirements": [
 		"LA"
 	],
@@ -36,8 +34,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 14,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",

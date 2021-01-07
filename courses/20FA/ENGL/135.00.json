@@ -7,24 +7,22 @@
 	],
 	"number": "135",
 	"offerings": {
-		"locations": [
-			"Library 344"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -38,7 +36,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 25,
 		"waitlist": 0
 	},

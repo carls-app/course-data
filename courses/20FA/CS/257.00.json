@@ -2,27 +2,27 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA CS 257.00",
-	"instructors": [],
+	"instructors": [
+		"Jeffrey R Ondich"
+	],
 	"number": "257",
 	"offerings": {
-		"locations": [
-			"Hulings 310"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -34,11 +34,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 34,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": "It's easy to write a mediocre computer program, and lots of people do it. Good programs are quite a bit harder to write, and are correspondingly less common. In this course, we will study techniques, tools, and habits that will improve your chances of writing good software. While working on several medium-sized programming projects, we will investigate code construction techniques, debugging and profiling tools, testing methodologies, UML, principles of object-oriented design, design patterns, and user interface design.",
 	"synonym": "58529",

@@ -9,19 +9,17 @@
 	],
 	"number": "100",
 	"offerings": {
-		"locations": [
-			"Library 305"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -35,8 +33,8 @@
 	"section": "05",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 12,
+		"total": 14,
 		"waitlist": 0
 	},
 	"status": "Open",

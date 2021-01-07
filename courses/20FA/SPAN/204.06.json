@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA SPAN 204.06",
 	"instructors": [
-		"Silvia López"
+		"Silvia Lopez"
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 330"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -34,7 +32,7 @@
 	"section": "06",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 16,
 		"waitlist": 0
 	},

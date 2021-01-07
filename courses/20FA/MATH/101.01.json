@@ -1,5 +1,7 @@
 {
-	"comments": [],
+	"comments": [
+		"Extra Time Required, TA sessions required"
+	],
 	"credits": 6.0,
 	"id": "2020FA MATH 101.01",
 	"instructors": [
@@ -8,33 +10,46 @@
 	"number": "101",
 	"offerings": {
 		"locations": [
-			"CMC 209"
+			"Location To Be Announced",
+			"CMC 209",
+			"CMC 306",
+			"CMC 206"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Tu",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Th",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:15am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "9:15am",
+				"start": "8:15am"
 			}
 		]
 	},
@@ -46,13 +61,13 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
-	"summary": "An introduction to the central ideas of calculus with review and practice of those skills needed for the continued study of calculus. Problem solving strategies will be emphasized. (Meets Monday through Friday).",
+	"summary": null,
 	"synonym": "58624",
 	"tags": [
 		"MATHCALC"

@@ -7,24 +7,22 @@
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 330"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -34,11 +32,11 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 16,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": null,
 	"synonym": "59292",

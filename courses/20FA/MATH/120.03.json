@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 120.03",
 	"instructors": [
-		"Caroline L Turnage-Butterbaugh"
+		"MurphyKate Montee"
 	],
 	"number": "120",
 	"offerings": {
-		"locations": [
-			"CMC 209"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "9:40am",
+				"start": "8:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -36,7 +34,7 @@
 	"section": "03",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 30,
 		"waitlist": 0
 	},

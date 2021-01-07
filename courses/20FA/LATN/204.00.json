@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA LATN 204.00",
 	"instructors": [
-		"Chico Zimmerman"
+		"Chico L Zimmerman"
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 104"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -34,11 +32,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 28,
+		"registered": 26,
+		"total": 26,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "LATN",
 	"summary": null,
 	"synonym": "59179",

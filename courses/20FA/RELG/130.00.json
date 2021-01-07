@@ -8,18 +8,20 @@
 	"number": "130",
 	"offerings": {
 		"locations": [
-			"Leighton 303"
+			"Leighton 305",
+			"Boliou 104",
+			"Leighton 304"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -33,11 +35,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "RELG",
 	"summary": "This course explores the history and contemporary practice of Native American religious traditions, especially as they have developed amid colonization and resistance. While surveying a broad variety of ways that Native American traditions imagine land, community, and the sacred, the course focuses on the local traditions of the Ojibwe and Lakota communities. Materials include traditional beliefs and practices, the history of missions, intertribal new religious movements, and contemporary issues of treaty rights, religious freedom, and the revitalization of language and culture.",
 	"synonym": "58982",

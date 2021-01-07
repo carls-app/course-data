@@ -5,23 +5,24 @@
 	"credits": 6.0,
 	"id": "2020FA MUSC 100.00",
 	"instructors": [
-		"Andy Flory"
+		"Andy A Flory"
 	],
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Weitz Center 231"
+			"Weitz Center 132",
+			"Weitz Center TENT-E"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -34,7 +35,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 15,
 		"waitlist": 0
 	},

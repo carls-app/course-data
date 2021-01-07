@@ -14,6 +14,56 @@
    Jump to courses in other departments related to AMST
   </a>
  </p>
+ <p class="searchDescription">
+  <a class="standardButton" href="#search">
+   Revise Your Search
+  </a>
+  <a class="standardButton color4" href="#search" onclick="document.getElementById('disco_form').reset();">
+   New Search
+  </a>
+ </p>
+ <div class="instructionalModeKey" id="instructionModeKey">
+  <h4>
+   Instructional Modes
+  </h4>
+  <p>
+   Course instruction will be delivered in one of four modes:
+  </p>
+  <ul>
+   <li>
+    <span class="courseModeLabel">
+     Face-to-Face
+    </span>
+    <span class="courseModeDescription">
+     in-person, classroom-based instruction — (only students physically on campus can enroll)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Hybrid
+    </span>
+    <span class="courseModeDescription">
+     combines both required face-to-face and online instruction — (only students physically on campus can enroll)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Mixed Mode
+    </span>
+    <span class="courseModeDescription">
+     some students participate online and others participate in-person — (can enroll students both on-campus and remote)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Online
+    </span>
+    <span class="courseModeDescription">
+     a web-based course that meets virtually — courses meet either synchronously, meaning the course meets primarily at specifically-scheduled times, or asynchronously, meaning the course may have occasional scheduled meeting times but is primarily offered without real-time, scheduled interaction — assignments are generally due with specific deadlines and exams may be conducted at specific times — (can enroll students both on-campus and remote)
+    </span>
+   </li>
+  </ul>
+ </div>
  <div class="courses">
   <div class="course">
    <h3 class="title">
@@ -91,6 +141,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -240,7 +305,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1112825">
-      Cathy Kowalewski
+      Cathy A Kowalewski
      </a>
      ,
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0677786">
@@ -375,6 +440,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -412,7 +492,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1845517">
-      Adriana  Estill
+      Adriana Estill
      </a>
     </p>
     Introduction to some of the animating debates within American Studies from the 1930s to the present. We will study select themes, theories, and methodologies in the writings of a number of scholars and try to understand 1) the often highly contested nature of debates about how best to study American culture; and 2) how various theories and forms of analysis in American Studies have evolved and transformed themselves over the last seventy years. Not designed to be a fine-grained institutional history of American Studies, but a vigorous exploration of some of the central questions of interpretation in the field. Normally taken by majors in their junior year.
@@ -445,6 +525,21 @@
      </span>
      Size: 15, Registered: 7, Waitlist: 0
     </p>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
     <div class="textbooks">
      Synonym: 44791
      <form action="https://securex.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8133-_-1-_-A" method="post" name="bnform" target="_blank">
@@ -501,6 +596,21 @@
      </span>
      Size: 15, Registered: 0, Waitlist: 0
     </p>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
     <div class="textbooks">
      Synonym: 44792
      <form action="https://securex.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8133-_-1-_-A" method="post" name="bnform" target="_blank">
@@ -546,11 +656,70 @@
   (courses in other departments that may fulfill AMST requirements or are otherwise related to AMST)
  </p>
  <p class="searchDescription">
-  Your search for courses for 17/WI and AMST found 26 courses.
-  <a href="#search">
+  Your search for courses for
+  <span class="searchCriterion">
+   17/WI
+  </span>
+  and
+  <span class="searchCriterion">
+   AMST
+  </span>
+  found
+  <span class="searchCriterion">
+   26
+  </span>
+  courses.
+ </p>
+ <p class="searchDescription">
+  <a class="standardButton" href="#search">
+   Revise Your Search
+  </a>
+  <a class="standardButton color4" href="#search" onclick="document.getElementById('disco_form').reset();">
    New Search
   </a>
  </p>
+ <div class="instructionalModeKey" id="instructionModeKey">
+  <h4>
+   Instructional Modes
+  </h4>
+  <p>
+   Course instruction will be delivered in one of four modes:
+  </p>
+  <ul>
+   <li>
+    <span class="courseModeLabel">
+     Face-to-Face
+    </span>
+    <span class="courseModeDescription">
+     in-person, classroom-based instruction — (only students physically on campus can enroll)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Hybrid
+    </span>
+    <span class="courseModeDescription">
+     combines both required face-to-face and online instruction — (only students physically on campus can enroll)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Mixed Mode
+    </span>
+    <span class="courseModeDescription">
+     some students participate online and others participate in-person — (can enroll students both on-campus and remote)
+    </span>
+   </li>
+   <li>
+    <span class="courseModeLabel">
+     Online
+    </span>
+    <span class="courseModeDescription">
+     a web-based course that meets virtually — courses meet either synchronously, meaning the course meets primarily at specifically-scheduled times, or asynchronously, meaning the course may have occasional scheduled meeting times but is primarily offered without real-time, scheduled interaction — assignments are generally due with specific deadlines and exams may be conducted at specific times — (can enroll students both on-campus and remote)
+    </span>
+   </li>
+  </ul>
+ </div>
  <div class="courses">
   <div class="course">
    <h3 class="title">
@@ -628,6 +797,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -809,6 +993,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -866,7 +1065,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1912346">
-      Faress Bhuiyan
+      Faress F Bhuiyan
      </a>
     </p>
     Why do some people choose to work and others do not? Why are some people paid higher wages than others? What are the economic benefits of education for the individual and for society? How do government policies, such as subsidized child care, the Earned Income Tax Credit and the income tax influence whether people work and the number of hours they choose to work? These are some of the questions examined in labor economics. This course will focus on the labor supply and human capital decisions of individuals and households.
@@ -954,6 +1153,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -1101,6 +1315,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -1244,6 +1473,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -1517,6 +1761,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -1680,6 +1939,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -1826,6 +2100,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -1878,7 +2167,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1833861">
-      Tony Adler
+      Antony E Adler
      </a>
     </p>
     <p>
@@ -1962,6 +2251,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -2108,6 +2412,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -2241,6 +2560,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -2313,7 +2647,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0677726">
-      Annette Igra
+      Annette R Igra
      </a>
     </p>
     Historically work has been a central location for the constitution of gender identities for both men and women; at the same time, cultural notions of gender have shaped the labor market. We will investigate the roles of race, class, and ethnicity in shaping multiple sexual divisions of labor and the ways in which terms such as skill, bread-winning and work itself were gendered. Topics will include domestic labor, slavery, industrialization, labor market segmentation, protective legislation, and the labor movement.
@@ -2389,6 +2723,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -2535,6 +2884,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -2587,7 +2951,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0677920">
-      Ronald  Rodman
+      Ronald Rodman
      </a>
     </p>
     This course explores the history and development of film music along with theories of how music contributes to the meaning of moving images and narrative scenes. The primary focus of the course will be on film music in the U.S., but notable film scores from Europe and Asia will also be discussed. The film music history covers historical periods from the pre-cinematic Vaudeville era through the postmodern films of the early twenty-first century. Cross-cutting this chronological history will be discussion of film musicals as a separate genre. Ability to read music not required.
@@ -2669,6 +3033,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -2736,7 +3115,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1921192">
-      Andy Flory
+      Andy A Flory
      </a>
     </p>
     <p>
@@ -2831,6 +3210,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -2883,7 +3277,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0681581">
-      Melinda  Russell
+      Melinda Russell
      </a>
     </p>
     <p>
@@ -2988,6 +3382,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -3040,7 +3449,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0681581">
-      Melinda  Russell
+      Melinda Russell
      </a>
     </p>
     <p>
@@ -3137,6 +3546,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -3214,7 +3638,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1975882">
-      Melanie  Freeze
+      Melanie Freeze
      </a>
     </p>
     An introduction to American government and politics. Focus on the Congress, Presidency, political parties and interest groups, the courts and the Constitution. Particular attention will be given to the public policy debates that divide liberals and conservatives and how these divisions are rooted in American political culture.
@@ -3296,6 +3720,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -3458,6 +3897,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -3633,6 +4087,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -3695,7 +4164,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1835019">
-      Greg Marfleet
+      Greg G Marfleet
      </a>
     </p>
     An introduction to the actors and processes of American foreign policymaking and to the substance of American foreign policy. The course aims to provide students with an understanding of how knowledge of the past, the global policy environment, the processes of foreign policymaking, and the specifics of a foreign policy issue come together to help determine modern American foreign policy. The course will review the structure of the international system of states, state power and interests, the historical context of American foreign policy, actors in American foreign affairs, models of foreign policy decision making, and the instruments of foreign policy.
@@ -3777,6 +4246,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -3867,7 +4351,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0677501">
-      Barbara  Allen
+      Barbara Allen
      </a>
     </p>
     This course will be devoted to close study of Tocqueville's
@@ -3947,6 +4431,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -4052,7 +4551,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=0677501">
-      Barbara  Allen
+      Barbara Allen
      </a>
     </p>
     This course will look at the contemporary debate in multiculturalism in the context of a variety of liberal philosophical traditions, including contractarians, libertarians, and Utilitarians. These views of the relationship of individual to community will be compared to those of the communitarian and egalitarian traditions. Research papers may use a number of feminist theory frameworks and methods.
@@ -4128,6 +4627,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -4299,6 +4813,21 @@
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
       Requirements Met:
      </h4>
      <ul class="codes overlays">
@@ -4351,7 +4880,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1931768">
-      Liz Raleigh
+      Liz Y Raleigh
      </a>
     </p>
     What makes a family? How has the conception of kinship and the 'normal' family changed over the generations? In this introductory class, we examine these questions, drawing on a variety of course materials ranging from classic works in sociology to contemporary blogs on family life. The class focuses on diversity in family life, paying particular attention to the intersection between the family, race and ethnicity, and social class. We'll examine these issues at the micro and macro level, incorporating texts that focus on individuals' stories as well as demographics of the family.
@@ -4433,6 +4962,21 @@
        </tr>
       </tbody>
      </table>
+    </div>
+    <div class="codeList">
+     <h4 class="codeLabel">
+      Instructional Mode:
+     </h4>
+     <p class="search_result_instructional_mode">
+      <span class="courseModeLabel">
+       <a href="#instructionModeKey">
+        Face-to-Face
+       </a>
+      </span>
+      <span class="courseModeDescription">
+       in-person, classroom-based instruction
+      </span>
+     </p>
     </div>
     <div class="codeList">
      <h4 class="codeLabel">
@@ -4528,7 +5072,7 @@
    <div class="description">
     <p class="faculty">
      <a href="https://apps.carleton.edu/campus/registrar/schedule/enroll/?term=17WI&amp;faculty_last_name=1931768">
-      Liz Raleigh
+      Liz Y Raleigh
      </a>
     </p>
     <p>
@@ -4543,6 +5087,47 @@
    </div>
   </div>
  </div>
+ <style>
+  html {
+	scroll-behavior: smooth;
+}
+.instructionalModeKey {
+	padding: 1em;
+	border: 1px solid #ccc;
+	margin-top: 2em;
+}
+.instructionalModeKey h4 {
+	margin-top: 0;
+}
+.instructionalModeKey ul {
+	list-style: none;
+	padding-left: 0.4em;
+}
+.instructionalModeKey ul li {
+	margin: 0.3em 0;
+}
+span.courseModeLabel {
+	font-style: italic;
+	font-size: 0.9em;
+	text-transform: lowercase;
+	color: #555;
+	background-color: #eee;
+	padding: 3px 5px;
+	border-radius: 5px;
+	margin: 0 0.6em;
+}
+span.courseModeLabel a,
+span.courseModeLabel a:link,
+span.courseModeLabel a:active,
+span.courseModeLabel a:visited,
+span.courseModeLabel a:hover {
+	text-decoration: none;
+	color: #555 !important;
+}
+span.courseModeDescription {
+	font-size: 0.9em;
+}
+ </style>
  <a name="search">
  </a>
  <h3>

@@ -10,23 +10,23 @@
 	"number": "100",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 121"
+			"Anderson Hall 329"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -39,18 +39,18 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CGSC",
 	"summary": null,
 	"synonym": "59418",
 	"tags": [
-		"CGSCCORE"
+		"CGSCELECTIVE"
 	],
-	"title": "How We Make Important Decision",
+	"title": "How We Make Important Decisions",
 	"type": "Course",
 	"year": 2020
 }

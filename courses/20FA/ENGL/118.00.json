@@ -8,23 +8,24 @@
 	"number": "118",
 	"offerings": {
 		"locations": [
-			"CMC 306"
+			"Leighton 305",
+			"Music & Drama Center TENT"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -37,7 +38,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 25,
 		"waitlist": 0
 	},

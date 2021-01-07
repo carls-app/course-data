@@ -3,28 +3,29 @@
 	"credits": 6.0,
 	"id": "2020FA ENTS 225.51",
 	"instructors": [
-		"Dan Maxbauer"
+		"Dan P Maxbauer"
 	],
 	"number": "225",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 123"
+			"Anderson Hall 121",
+			"Location To Be Announced"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "10:50am",
+				"start": "9:50am"
 			},
 			{
 				"day": "Mo",
@@ -42,11 +43,11 @@
 	"section": "51",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 19,
 		"total": 18,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENTS",
 	"summary": null,
 	"synonym": "58272",

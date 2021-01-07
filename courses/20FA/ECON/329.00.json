@@ -7,23 +7,21 @@
 	],
 	"number": "329",
 	"offerings": {
-		"locations": [
-			"Leighton 330"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: Mathematics 111 and either Statistics 120 (formerly Mathematics 215) or Statistics 250 (formerly Mathematics 275, and Economics 110 and 111",
+	"prerequisites": "Prerequisite: Mathematics 111 and either Statistics 120 (formerly Mathematics 215) or Statistics 250 (formerly Mathematics 275), and Economics 110 and 111 or instructor consent",
 	"requirements": [
 		"SI",
 		"QRE"
@@ -32,13 +30,13 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ECON",
-	"summary": "This course is an introduction to the statistical methods used by economists to test hypotheses and to study and quantify economic relationships. The course emphasizes both statistical theory and practical application through analysis of economic data sets using statistical software. Topics include two-variable and multiple regression, interval estimation and hypothesis testing, discrete and continuous structural change, parameter restrictions, model construction, heteroscedasticity, autocorrelation, and multicollinearity.",
+	"summary": null,
 	"synonym": "59107",
 	"tags": [],
 	"title": "Econometrics",

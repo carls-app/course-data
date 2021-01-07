@@ -6,18 +6,7 @@
 		"Guy A Kalland"
 	],
 	"number": "130",
-	"offerings": {
-		"locations": [
-			"West Gym 209"
-		],
-		"times": [
-			{
-				"day": "Th",
-				"end": "3:30pm",
-				"start": "1:15pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [
 		"PE"
@@ -26,7 +15,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 4,
 		"total": 12,
 		"waitlist": 0
 	},

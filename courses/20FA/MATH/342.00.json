@@ -8,23 +8,23 @@
 	"number": "342",
 	"offerings": {
 		"locations": [
-			"CMC 304"
+			"Weitz Center M104"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -36,7 +36,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 26,
 		"total": 28,
 		"waitlist": 0
 	},
@@ -44,9 +44,7 @@
 	"subject": "MATH",
 	"summary": "Introduction to algebraic structures, including groups, rings, and fields. Homomorphisms and quotient structures, polynomials, unique factorization. Other topics may include applications such as Burnside's counting theorem, symmetry groups, polynomial equations, or geometric constructions.",
 	"synonym": "58649",
-	"tags": [
-		"ELECSTAT"
-	],
+	"tags": [],
 	"title": "Abstract Algebra I",
 	"type": "Course",
 	"year": 2020

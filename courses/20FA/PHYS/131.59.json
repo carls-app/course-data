@@ -5,24 +5,25 @@
 	"credits": 3.0,
 	"id": "2020FA PHYS 131.59",
 	"instructors": [
+		"Chris J West",
 		"Jay D Tasson"
 	],
 	"number": "131",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 036",
+			"Weitz Center 236",
 			"Anderson Hall 021"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Th",
@@ -31,8 +32,8 @@
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -45,7 +46,7 @@
 	"section": "59",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 24,
 		"waitlist": 0
 	},
@@ -56,7 +57,7 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Newtonian Mechanics & Lab",
+	"title": "Introduction to Physics: Newtonian Mechanics and Lab",
 	"type": "Course",
 	"year": 2020
 }

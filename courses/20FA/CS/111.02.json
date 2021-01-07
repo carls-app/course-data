@@ -4,27 +4,27 @@
 	],
 	"credits": 6.0,
 	"id": "2020FA CS 111.02",
-	"instructors": [],
+	"instructors": [
+		"Eric C Alexander"
+	],
 	"number": "111",
 	"offerings": {
-		"locations": [
-			"Olin 310"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -37,13 +37,13 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 29,
 		"total": 34,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "CS",
-	"summary": "This course will introduce you to computer programming and the design of algorithms. By writing programs to solve problems in areas such as image processing, text processing, and simple games, you will learn about recursive and iterative algorithms, complexity analysis, graphics, data representation, software engineering, and object-oriented design. No previous programming experience is necessary. Students who have received credit for Computer Science 201 or above are not eligible to enroll in Computer Science 111.\n    \n\n     Sophomore priority\n    \n\n\n      Waitlist for Juniors and Seniors:\n     \n     CS 111.WL2 (Synonym 58522)",
+	"summary": null,
 	"synonym": "58520",
 	"tags": [
 		"CGSCCORE",

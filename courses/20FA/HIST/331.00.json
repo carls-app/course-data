@@ -8,23 +8,24 @@
 	"number": "331",
 	"offerings": {
 		"locations": [
-			"Library 344"
+			"Weitz Center 136",
+			"Boliou TENT"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -38,11 +39,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": null,
 	"synonym": "57753",
@@ -51,7 +52,7 @@
 		"HISTERLYMODEUR",
 		"MARSCORE"
 	],
-	"title": "Regional States: Boundaries and Horizons in 14th-century Italy",
+	"title": "Regional States: Boundaries and Horizons in Fourteenth-century Italy",
 	"type": "Course",
 	"year": 2020
 }

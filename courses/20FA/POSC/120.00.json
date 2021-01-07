@@ -9,24 +9,22 @@
 	],
 	"number": "120",
 	"offerings": {
-		"locations": [
-			"Willis 204"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -40,11 +38,11 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 35,
 		"total": 35,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "POSC",
 	"summary": "An introduction to the array of different democratic and authoritarian political institutions in both developing and developed countries. We will also explore key issues in contemporary politics in countries around the world, such as nationalism and independence movements, revolution, regime change, state-making, and social movements.",
 	"synonym": "58803",

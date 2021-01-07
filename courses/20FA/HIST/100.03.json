@@ -5,28 +5,26 @@
 	"credits": 6.0,
 	"id": "2020FA HIST 100.03",
 	"instructors": [
-		"Tony Adler"
+		"Antony E Adler"
 	],
 	"number": "100",
 	"offerings": {
-		"locations": [
-			"Leighton 202"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -40,8 +38,8 @@
 	"section": "03",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 13,
+		"total": 14,
 		"waitlist": 0
 	},
 	"status": "Open",

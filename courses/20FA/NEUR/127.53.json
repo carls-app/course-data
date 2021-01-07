@@ -9,14 +9,14 @@
 	"number": "127",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 121",
-			"Hulings B04"
+			"Location To Be Announced",
+			"Anderson Hall AMPHTR"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "We",
@@ -25,31 +25,32 @@
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
 	"prerequisites": null,
 	"requirements": [
+		"LS",
 		"QRE"
 	],
 	"scnc": null,
 	"section": "53",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 10,
+		"total": 9,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "NEUR",
 	"summary": null,
 	"synonym": "59230",
 	"tags": [
 		"NEURCORE"
 	],
-	"title": "Foundations in Neuroscience & Lab",
+	"title": "Foundations in Neuroscience and Lab",
 	"type": "Course",
 	"year": 2020
 }

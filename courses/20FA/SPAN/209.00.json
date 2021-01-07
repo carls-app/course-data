@@ -1,20 +1,18 @@
 {
 	"comments": [],
-	"credits": 6.0,
+	"credits": 2.0,
 	"id": "2020FA SPAN 209.00",
 	"instructors": [
-		"Palmar M Álvarez-Blanco"
+		"Palmar M Alvarez-Blanco"
 	],
 	"number": "209",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 203"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			}
 		]
 	},
@@ -23,15 +21,15 @@
 		"HI",
 		"IS"
 	],
-	"scnc": null,
+	"scnc": true,
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 7,
 		"total": 10,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": null,
 	"synonym": "56200",

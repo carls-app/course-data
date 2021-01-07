@@ -3,38 +3,37 @@
 	"credits": 6.0,
 	"id": "2020FA CHIN 204.02",
 	"instructors": [
-		"Shaohua Guo"
+		"Shaohua Guo",
+		"Lin Deng"
 	],
 	"number": "204",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 335"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Tu",
-				"end": "2:20pm",
-				"start": "1:15pm"
+				"end": "2:50pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Th",
-				"end": "2:20pm",
-				"start": "1:15pm"
+				"end": "2:50pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -44,7 +43,7 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 16,
 		"waitlist": 0
 	},

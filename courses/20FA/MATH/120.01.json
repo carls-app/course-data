@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 120.01",
 	"instructors": [
-		"MurphyKate Montee"
+		"Steve T Scheirer"
 	],
 	"number": "120",
 	"offerings": {
-		"locations": [
-			"CMC 206"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "9:40am",
-				"start": "8:30am"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "9:30am",
-				"start": "8:30am"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -36,7 +34,7 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 30,
 		"waitlist": 0
 	},

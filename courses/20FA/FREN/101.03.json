@@ -7,35 +7,32 @@
 	],
 	"number": "101",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 345",
-			"Language & Dining Center 330"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Tu",
-				"end": "2:20pm",
-				"start": "1:15pm"
+				"end": "2:50pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Th",
-				"end": "2:20pm",
-				"start": "1:15pm"
+				"end": "2:50pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Fr",
-				"end": "2:10pm",
-				"start": "1:10pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -45,8 +42,8 @@
 	"section": "03",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 16,
+		"registered": 9,
+		"total": 18,
 		"waitlist": 0
 	},
 	"status": "Open",

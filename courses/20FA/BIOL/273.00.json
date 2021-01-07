@@ -5,18 +5,19 @@
 	"credits": 2.0,
 	"id": "2020FA BIOL 273.00",
 	"instructors": [
-		"Matt Rand"
+		"Matt S Rand"
 	],
 	"number": "273",
 	"offerings": {
 		"locations": [
+			"Hulings 103",
 			"Hulings 106"
 		],
 		"times": [
 			{
 				"day": "Th",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -26,8 +27,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 17,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",

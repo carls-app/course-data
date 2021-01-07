@@ -3,28 +3,21 @@
 	"credits": 6.0,
 	"id": "2020FA CHEM 122.00",
 	"instructors": [
-		"Chris Calderone"
+		"Trish A Ferrett"
 	],
 	"number": "122",
 	"offerings": {
-		"locations": [
-			"Anderson Hall 323"
-		],
+		"locations": [],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
-				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
-			},
-			{
-				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -36,8 +29,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 24,
+		"registered": 24,
+		"total": 26,
 		"waitlist": 0
 	},
 	"status": "Open",

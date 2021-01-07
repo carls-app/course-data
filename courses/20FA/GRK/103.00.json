@@ -2,27 +2,29 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA GRK 103.00",
-	"instructors": [],
+	"instructors": [
+		"Rob B Hardy"
+	],
 	"number": "103",
 	"offerings": {
 		"locations": [
-			"Language & Dining Center 202"
+			"Language & Dining Center 244"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -32,15 +34,17 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 20,
+		"registered": 7,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "GRK",
 	"summary": "Selected prose readings. The course will emphasize review of grammar and include Greek composition.",
 	"synonym": "59173",
-	"tags": [],
+	"tags": [
+		"CLASCORE"
+	],
 	"title": "Greek Prose",
 	"type": "Course",
 	"year": 2020

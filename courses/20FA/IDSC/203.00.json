@@ -10,18 +10,19 @@
 	"number": "203",
 	"offerings": {
 		"locations": [
-			"Leighton 330"
+			"Weitz Center 132",
+			"Weitz Center 136"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Th",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -33,7 +34,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 0,
 		"waitlist": 0
 	},

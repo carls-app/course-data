@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Sophomore Priority. Extra Time required."
+		"Sophomore Priority, Extra Time Redquired. This section (4/5c) is for students who will be living on campus, as you will need to pick-up required class equipment in person. If you will be learning remotely, please enroll in 111.02 (5/6c) which is open to both on campus and remote students."
 	],
 	"credits": 6.0,
 	"id": "2020FA CAMS 111.01",
@@ -9,20 +9,17 @@
 	],
 	"number": "111",
 	"offerings": {
-		"locations": [
-			"Weitz Center 138",
-			"Weitz Center 133"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "Th",
-				"end": "3:00pm",
-				"start": "1:15pm"
+				"end": "3:30pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -34,11 +31,11 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 14,
+		"total": 16,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CAMS",
 	"summary": null,
 	"synonym": "58108",

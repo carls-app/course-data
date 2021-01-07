@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA CS 201.01",
 	"instructors": [
-		"Sneha Narayan"
+		"Anya E Vostinar"
 	],
 	"number": "201",
 	"offerings": {
-		"locations": [
-			"Olin 310"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -37,7 +35,7 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 34,
 		"waitlist": 0
 	},

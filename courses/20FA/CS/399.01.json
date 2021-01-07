@@ -6,14 +6,25 @@
 		"Amy Csizmar Dalal"
 	],
 	"number": "399",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"CMC 304"
+		],
+		"times": [
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "9:00am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Senior standing. Students are strongly encouraged to complete Computer Science 252 and Computer Science 257 before starting Computer Science 399.",
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 5,
 		"total": 6,
 		"waitlist": 0
 	},

@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Sophomore Priority. Extra Time required."
+		"Sophomore Priority. Extra Time required. This section (5/6c) is open to both in-person and remote students. If you will be learning remotely, you will need Adobe Premiere Pro for your computer. Please double check that your computer can run this software, contact instructor with any questions."
 	],
 	"credits": 6.0,
 	"id": "2020FA CAMS 111.02",
@@ -9,20 +9,17 @@
 	],
 	"number": "111",
 	"offerings": {
-		"locations": [
-			"Weitz Center 138",
-			"Weitz Center 133"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			},
 			{
 				"day": "Th",
-				"end": "4:55pm",
-				"start": "3:10pm"
+				"end": "8:45pm",
+				"start": "7:00pm"
 			}
 		]
 	},
@@ -34,11 +31,11 @@
 	"section": "02",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 10,
+		"total": 10,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CAMS",
 	"summary": null,
 	"synonym": "58117",

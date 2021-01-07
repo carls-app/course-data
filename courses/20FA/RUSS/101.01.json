@@ -8,34 +8,32 @@
 	],
 	"number": "101",
 	"offerings": {
-		"locations": [
-			"Language & Dining Center 242"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Tu",
-				"end": "10:35am",
-				"start": "9:30am"
+				"end": "10:45am",
+				"start": "9:40am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Th",
-				"end": "10:35am",
-				"start": "9:30am"
+				"end": "10:45am",
+				"start": "9:40am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -45,8 +43,8 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 10,
+		"registered": 6,
+		"total": 12,
 		"waitlist": 0
 	},
 	"status": "Open",

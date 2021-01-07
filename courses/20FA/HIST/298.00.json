@@ -5,28 +5,21 @@
 	"credits": 6.0,
 	"id": "2020FA HIST 298.00",
 	"instructors": [
-		"Amna Khalid"
+		"Adeeb Khalid"
 	],
 	"number": "298",
 	"offerings": {
-		"locations": [
-			"Leighton 301"
-		],
+		"locations": [],
 		"times": [
 			{
-				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
-				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
-			},
-			{
-				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -38,7 +31,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 18,
 		"waitlist": 0
 	},

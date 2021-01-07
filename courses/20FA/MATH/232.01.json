@@ -3,28 +3,26 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 232.01",
 	"instructors": [
-		"Rafe Jones"
+		"Rafe F Jones"
 	],
 	"number": "232",
 	"offerings": {
-		"locations": [
-			"CMC 210"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "11:00am",
-				"start": "9:50am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "10:40am",
-				"start": "9:40am"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -36,8 +34,8 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 19,
+		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",

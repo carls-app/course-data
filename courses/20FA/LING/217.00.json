@@ -7,19 +7,17 @@
 	],
 	"number": "217",
 	"offerings": {
-		"locations": [
-			"CMC 210"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -31,8 +29,8 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 16,
+		"total": 30,
 		"waitlist": 0
 	},
 	"status": "Open",

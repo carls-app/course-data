@@ -7,23 +7,21 @@
 	],
 	"number": "398",
 	"offerings": {
-		"locations": [
-			"Leighton 301"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
-	"prerequisites": "Prerequisite: GWSS 110, GWSS 212, Cinema and Media Studies 110 or instructor consent",
+	"prerequisites": "Prerequisite: Gender, Women's & Sexuality Studies 110 or 212 or Cinema and Media Studies 110 or Women's and Gender Studies 110 or 112 or instructor consent",
 	"requirements": [
 		"HI",
 		"WR2",
@@ -33,7 +31,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 15,
 		"waitlist": 0
 	},
@@ -41,7 +39,10 @@
 	"subject": "GWSS",
 	"summary": null,
 	"synonym": "57922",
-	"tags": [],
+	"tags": [
+		"WGSTADDL",
+		"CAMSELECTIVE"
+	],
 	"title": "Capstone: Race, Gender, and Sexuality in Popular Culture",
 	"type": "Course",
 	"year": 2020

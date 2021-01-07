@@ -8,23 +8,24 @@
 	"number": "370",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 123"
+			"Anderson Hall 329",
+			"Location To Be Announced"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "11:55am",
-				"start": "10:10am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -38,11 +39,11 @@
 	"section": "52",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 18,
+		"registered": 12,
+		"total": 12,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "GEOL",
 	"summary": null,
 	"synonym": "58275",

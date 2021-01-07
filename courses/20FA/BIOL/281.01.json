@@ -9,14 +9,12 @@
 	],
 	"number": "281",
 	"offerings": {
-		"locations": [
-			"Hulings 218"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "12:00pm",
+				"start": "8:00am"
 			}
 		]
 	},
@@ -26,13 +24,13 @@
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 16,
+		"registered": 16,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "BIOL",
-	"summary": "The focus of the laboratory will be on current techniques used to study cellular structure and function. Concurrent registration in Biology 280 required.",
+	"summary": null,
 	"synonym": "58385",
 	"tags": [
 		"NEURELEC"

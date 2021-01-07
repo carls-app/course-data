@@ -2,27 +2,30 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2020FA THEA 225.00",
-	"instructors": [],
+	"instructors": [
+		"Andrew I Carlson"
+	],
 	"number": "225",
 	"offerings": {
 		"locations": [
-			"Weitz Center 231"
+			"Anderson Hall AMPHTR",
+			"Weitz Center 172"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:20pm",
+				"start": "11:20am"
 			}
 		]
 	},
@@ -35,13 +38,13 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 6,
+		"total": 24,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "THEA",
-	"summary": "The theater has often had a vexed and volatile relationship with its cultural moment, and its history is as much one of revolution as of evolution. This course will look across the broad contours of theater history to examine the questions and challenges that consistently recur, including the relationship between representation and the real, between politics and aesthetics, and between the text and the body. Historical eras covered will include ancient Greece, medieval Japan, early modern Europe, and twentieth and twenty-first century Europe and America. Some class time will be spent doing performative explorations of historical texts.",
+	"summary": null,
 	"synonym": "58784",
 	"tags": [
 		"THEAPERT",

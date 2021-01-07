@@ -7,19 +7,17 @@
 	],
 	"number": "330",
 	"offerings": {
-		"locations": [
-			"Willis 114"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "10:50am",
-				"start": "9:00am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			},
 			{
 				"day": "Th",
-				"end": "10:50am",
-				"start": "9:00am"
+				"end": "12:05pm",
+				"start": "10:20am"
 			}
 		]
 	},
@@ -32,16 +30,19 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 10,
+		"registered": 20,
+		"total": 20,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "EDUC",
 	"summary": null,
 	"synonym": "58818",
 	"tags": [
-		"EDUCCLUSTER3"
+		"EDUCCLUSTER3",
+		"AMSTREI",
+		"AMSTDAC",
+		"AMSTAMERWRLD"
 	],
 	"title": "Refugee and Immigrant Experiences in Faribault, MN",
 	"type": "Course",

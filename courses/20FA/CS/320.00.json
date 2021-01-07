@@ -7,9 +7,7 @@
 	],
 	"number": "320",
 	"offerings": {
-		"locations": [
-			"Anderson Hall 329"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
@@ -36,15 +34,17 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 33,
 		"total": 34,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "57850",
-	"tags": [],
+	"tags": [
+		"STATSELEC"
+	],
 	"title": "Machine Learning",
 	"type": "Course",
 	"year": 2020

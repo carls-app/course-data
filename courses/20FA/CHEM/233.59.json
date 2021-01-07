@@ -3,24 +3,24 @@
 	"credits": 6.0,
 	"id": "2020FA CHEM 233.59",
 	"instructors": [
-		"Matt Whited"
+		"Joe Chihade"
 	],
 	"number": "233",
 	"offerings": {
 		"locations": [
-			"Olin 149",
+			"Boliou 104",
 			"Anderson Hall 323"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Th",
@@ -29,8 +29,8 @@
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -43,8 +43,8 @@
 	"section": "59",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 22,
+		"registered": 10,
+		"total": 12,
 		"waitlist": 0
 	},
 	"status": "Open",
@@ -54,7 +54,7 @@
 	"tags": [
 		"BIOCCORE"
 	],
-	"title": "Organic Chemistry I & Lab",
+	"title": "Organic Chemistry I and Lab",
 	"type": "Course",
 	"year": 2020
 }

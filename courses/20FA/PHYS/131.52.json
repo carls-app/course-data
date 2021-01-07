@@ -4,33 +4,35 @@
 	],
 	"credits": 3.0,
 	"id": "2020FA PHYS 131.52",
-	"instructors": [],
+	"instructors": [
+		"Chris J West"
+	],
 	"number": "131",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 036",
+			"Weitz Center 236",
 			"Anderson Hall 021"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -43,7 +45,7 @@
 	"section": "52",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 19,
 		"total": 24,
 		"waitlist": 0
 	},
@@ -54,7 +56,7 @@
 	"tags": [
 		"STEMPHYS"
 	],
-	"title": "Introduction to Physics: Newtonian Mechanics & Lab",
+	"title": "Introduction to Physics: Newtonian Mechanics and Lab",
 	"type": "Course",
 	"year": 2020
 }

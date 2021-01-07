@@ -3,28 +3,28 @@
 	"credits": 6.0,
 	"id": "2020FA MATH 344.00",
 	"instructors": [
-		"Josh Davis"
+		"Josh R Davis"
 	],
 	"number": "344",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 329"
+			"Location To Be Announced"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "2:50pm",
+				"start": "1:50pm"
 			}
 		]
 	},
@@ -36,7 +36,7 @@
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 26,
 		"total": 28,
 		"waitlist": 0
 	},
@@ -44,9 +44,7 @@
 	"subject": "MATH",
 	"summary": "Local and global theory of curves, Frenet formulas. Local theory of surfaces, normal curvature, geodesics, Gaussian and mean curvatures, Theorema Egregium.",
 	"synonym": "58650",
-	"tags": [
-		"ELECSTAT"
-	],
+	"tags": [],
 	"title": "Differential Geometry",
 	"type": "Course",
 	"year": 2020

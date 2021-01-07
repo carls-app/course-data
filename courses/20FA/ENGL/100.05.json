@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Held for new first year students"
+		"Held for new first year students, Extra Time Required"
 	],
 	"credits": 6.0,
 	"id": "2020FA ENGL 100.05",
@@ -9,24 +9,22 @@
 	],
 	"number": "100",
 	"offerings": {
-		"locations": [
-			"Library 344"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -39,8 +37,8 @@
 	"section": "05",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 10,
+		"total": 14,
 		"waitlist": 0
 	},
 	"status": "Open",

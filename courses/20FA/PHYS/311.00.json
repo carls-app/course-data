@@ -6,23 +6,39 @@
 		"Rajarshi Roy"
 	],
 	"number": "311",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 036"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:00pm",
+				"start": "9:00am"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "9:00am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Physics 228 and 235",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
-		"total": 15,
+		"registered": 8,
+		"total": 9,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHYS",
 	"summary": null,
 	"synonym": "59421",
 	"tags": [],
-	"title": "Nonlinear Optoelectronic Dynam",
+	"title": "Nonlinear Optoelectronic Dynamics",
 	"type": "Course",
 	"year": 2020
 }

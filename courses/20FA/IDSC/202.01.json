@@ -8,14 +8,23 @@
 		"Cathy Yandell"
 	],
 	"number": "202",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "6:00pm",
+				"start": "5:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Participation in the Mellon Program/MMUF or MGSEF Program.",
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "FA",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 15,
 		"waitlist": 0
 	},
