@@ -1,8 +1,398 @@
 [
 	{
 		"comments": [],
+		"credits": 6.0,
+		"id": "1999SP SPAN 204.02",
+		"instructors": [
+			"Mar D Garcia-Valdecantos"
+		],
+		"number": "204",
+		"offerings": {
+			"locations": [
+				"Laird 204"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "3:00pm",
+					"start": "1:50pm"
+				},
+				{
+					"day": "We",
+					"end": "3:00pm",
+					"start": "1:50pm"
+				},
+				{
+					"day": "Fr",
+					"end": "3:20pm",
+					"start": "2:20pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "02",
+		"semester": "SP",
+		"size": {
+			"registered": 11,
+			"total": 20,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "SPAN",
+		"summary": null,
+		"synonym": "1989",
+		"tags": [],
+		"title": "Intermediate Spanish",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"PHYS 235 required."
+		],
+		"credits": 0.0,
+		"id": "1999SP PHYS 235L.54",
+		"instructors": [
+			"Rich J Noer"
+		],
+		"number": "235L",
+		"offerings": {
+			"locations": [
+				"Olin 210"
+			],
+			"times": [
+				{
+					"day": "Th",
+					"end": "5:00pm",
+					"start": "1:00pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "54",
+		"semester": "SP",
+		"size": {
+			"registered": 9,
+			"total": 12,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PHYS",
+		"summary": null,
+		"synonym": "1419",
+		"tags": [],
+		"title": "Electricity & Magnetism Lab",
+		"type": "Lab",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 251.11",
+		"instructors": [
+			"Ben Allen"
+		],
+		"number": "251",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "11",
+		"semester": "SP",
+		"size": {
+			"registered": 7,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3999",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 250.13",
+		"instructors": [
+			"Anne B Mayer"
+		],
+		"number": "250",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "13",
+		"semester": "SP",
+		"size": {
+			"registered": 1,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3986",
+		"tags": [],
+		"title": "Piano",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 150.13",
+		"instructors": [
+			"Anne B Mayer"
+		],
+		"number": "150",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "13",
+		"semester": "SP",
+		"size": {
+			"registered": 13,
+			"total": 150,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3983",
+		"tags": [],
+		"title": "Piano",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 156.14",
+		"instructors": [
+			"Hector L Valdivia"
+		],
+		"number": "156",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3992",
+		"tags": [],
+		"title": "Viola",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 155.14",
+		"instructors": [
+			"Hector L Valdivia"
+		],
+		"number": "155",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3990",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 251.14",
+		"instructors": [
+			"Rick A Penning"
+		],
+		"number": "251",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 10,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "4002",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 151.14",
+		"instructors": [
+			"Rick A Penning"
+		],
+		"number": "151",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 9,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3998",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 250.12",
+		"instructors": [
+			"Ken Huber"
+		],
+		"number": "250",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 6,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3985",
+		"tags": [],
+		"title": "Piano",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 155.11",
+		"instructors": [
+			"Liz M Ericksen"
+		],
+		"number": "155",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "11",
+		"semester": "SP",
+		"size": {
+			"registered": 6,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3987",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 150.11",
+		"instructors": [
+			"Catherine Christian"
+		],
+		"number": "150",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "11",
+		"semester": "SP",
+		"size": {
+			"registered": 22,
+			"total": 150,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3981",
+		"tags": [],
+		"title": "Piano",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
 		"credits": 1.0,
-		"id": "1999SP AFAM 400.00",
+		"id": "1999SP MUSC 400.00",
 		"instructors": [
 			"Staff"
 		],
@@ -10,18 +400,18 @@
 		"offerings": null,
 		"prerequisites": null,
 		"requirements": [],
-		"scnc": true,
+		"scnc": null,
 		"section": "00",
 		"semester": "SP",
 		"size": {
-			"registered": 0,
-			"total": 10,
+			"registered": 5,
+			"total": 15,
 			"waitlist": 0
 		},
 		"status": "Open",
-		"subject": "AFAM",
+		"subject": "MUSC",
 		"summary": null,
-		"synonym": "1429",
+		"synonym": "1607",
 		"tags": [],
 		"title": "Integrative Exercise",
 		"type": "Course",
@@ -29,48 +419,415 @@
 	},
 	{
 		"comments": [
-			"X-List MUSC.115.00 X-List MEDA.115.00",
-			"Cross-listed with MUSC 115.00"
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 151.13",
+		"instructors": [
+			"Mary B Martz"
+		],
+		"number": "151",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "13",
+		"semester": "SP",
+		"size": {
+			"registered": 17,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3997",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 155.13",
+		"instructors": [
+			"Harry W Nordstrom"
+		],
+		"number": "155",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "13",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3989",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 151.11",
+		"instructors": [
+			"Ben Allen"
+		],
+		"number": "151",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "11",
+		"semester": "SP",
+		"size": {
+			"registered": 21,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3995",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 251.12",
+		"instructors": [
+			"Margaret Brand"
+		],
+		"number": "251",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 5,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "4000",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 150.14",
+		"instructors": [
+			"Marcia Widman"
+		],
+		"number": "150",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 29,
+			"total": 150,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3984",
+		"tags": [],
+		"title": "Piano",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 255.12",
+		"instructors": [
+			"Mary B Horozaniecki"
+		],
+		"number": "255",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 1,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3993",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 255.14",
+		"instructors": [
+			"Hector L Valdivia"
+		],
+		"number": "255",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "14",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3994",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"X-List LTAM 143",
+			"Cross-listed with MUSC 143.00"
 		],
 		"credits": 6.0,
-		"id": "1999SP AMST 116.00",
+		"id": "1999SP MUSC 143.02",
 		"instructors": [
-			""
+			"Melinda Russell"
 		],
-		"number": "116",
+		"number": "143",
 		"offerings": {
 			"locations": [
 				"Old Music Hall 103"
 			],
 			"times": [
 				{
-					"day": "Tu",
-					"end": "4:15pm",
-					"start": "2:30pm"
+					"day": "Mo",
+					"end": "12:20pm",
+					"start": "11:10am"
 				},
 				{
-					"day": "Th",
-					"end": "4:15pm",
-					"start": "2:30pm"
+					"day": "We",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "Fr",
+					"end": "1:00pm",
+					"start": "12:00pm"
 				}
 			]
 		},
 		"prerequisites": null,
-		"requirements": [],
+		"requirements": [
+			"CL"
+		],
 		"scnc": null,
-		"section": "00",
+		"section": "02",
 		"semester": "SP",
 		"size": {
-			"registered": 14,
-			"total": 30,
+			"registered": 10,
+			"total": 0,
 			"waitlist": 0
 		},
 		"status": "Open",
-		"subject": "AMST",
+		"subject": "MUSC",
 		"summary": null,
-		"synonym": "1417",
+		"synonym": "1418",
 		"tags": [],
-		"title": "Music and the Media",
+		"title": "Music of the Caribbean",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 155.12",
+		"instructors": [
+			"Mary B Horozaniecki"
+		],
+		"number": "155",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 8,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3988",
+		"tags": [],
+		"title": "Violin",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 156.11",
+		"instructors": [
+			"Liz M Ericksen"
+		],
+		"number": "156",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "11",
+		"semester": "SP",
+		"size": {
+			"registered": 6,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3991",
+		"tags": [],
+		"title": "Viola",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $690 fee. Instructor permission"
+		],
+		"credits": 4.0,
+		"id": "1999SP MUSC 251.13",
+		"instructors": [
+			"Mary B Martz"
+		],
+		"number": "251",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "13",
+		"semester": "SP",
+		"size": {
+			"registered": 4,
+			"total": 50,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "4001",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 151.12",
+		"instructors": [
+			"Margaret Brand"
+		],
+		"number": "151",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 8,
+			"total": 100,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3996",
+		"tags": [],
+		"title": "Voice",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"2020-21 $345 fee"
+		],
+		"credits": 2.0,
+		"id": "1999SP MUSC 150.12",
+		"instructors": [
+			"Ken Huber"
+		],
+		"number": "150",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "12",
+		"semester": "SP",
+		"size": {
+			"registered": 14,
+			"total": 150,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MUSC",
+		"summary": null,
+		"synonym": "3982",
+		"tags": [],
+		"title": "Piano",
 		"type": "Course",
 		"year": 1999
 	},
@@ -80,9 +837,7 @@
 		],
 		"credits": 6.0,
 		"id": "1999SP AMST 310.00",
-		"instructors": [
-			""
-		],
+		"instructors": [],
 		"number": "310",
 		"offerings": {
 			"locations": [
@@ -149,6 +904,338 @@
 		"year": 1999
 	},
 	{
+		"comments": [
+			"X-List MUSC.115.00 X-List MEDA.115.00",
+			"Cross-listed with MUSC 115.00"
+		],
+		"credits": 6.0,
+		"id": "1999SP AMST 116.00",
+		"instructors": [],
+		"number": "116",
+		"offerings": {
+			"locations": [
+				"Old Music Hall 103"
+			],
+			"times": [
+				{
+					"day": "Tu",
+					"end": "4:15pm",
+					"start": "2:30pm"
+				},
+				{
+					"day": "Th",
+					"end": "4:15pm",
+					"start": "2:30pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 0,
+			"total": 0,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "AMST",
+		"summary": null,
+		"synonym": "1417",
+		"tags": [],
+		"title": "Music and the Media",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 1.0,
+		"id": "1999SP HIST 400.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "400",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 12,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "HIST",
+		"summary": null,
+		"synonym": "1869",
+		"tags": [],
+		"title": "Integrative Exercise",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"New-See Descriptions X-list WMST.251"
+		],
+		"credits": 6.0,
+		"id": "1999SP GERM 250.00",
+		"instructors": [
+			"Sigi D Leonhard"
+		],
+		"number": "250",
+		"offerings": {
+			"locations": [
+				"Olin 142"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "11:00am",
+					"start": "9:50am"
+				},
+				{
+					"day": "We",
+					"end": "11:00am",
+					"start": "9:50am"
+				},
+				{
+					"day": "Fr",
+					"end": "10:40am",
+					"start": "9:40am"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 9,
+			"total": 0,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "GERM",
+		"summary": null,
+		"synonym": "1426",
+		"tags": [],
+		"title": "Holocaust",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 2.0,
+		"id": "1999SP GERM 301.02",
+		"instructors": [
+			"Julie Klassen"
+		],
+		"number": "301",
+		"offerings": {
+			"locations": [
+				"Leighton 301"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "4:20pm",
+					"start": "3:10pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "02",
+		"semester": "SP",
+		"size": {
+			"registered": 4,
+			"total": 7,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "GERM",
+		"summary": null,
+		"synonym": "3523",
+		"tags": [],
+		"title": "German Conversation",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 3.0,
+		"id": "1999SP GERM 249.00",
+		"instructors": [
+			"Julie Klassen"
+		],
+		"number": "249",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 3,
+			"total": 0,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "GERM",
+		"summary": null,
+		"synonym": "3652",
+		"tags": [],
+		"title": "Minority Voices in German Lit",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 2.0,
+		"id": "1999SP GERM 301.01",
+		"instructors": [
+			"Roger R Paas"
+		],
+		"number": "301",
+		"offerings": {
+			"locations": [
+				"Leighton 301"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "3:00pm",
+					"start": "1:50pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "01",
+		"semester": "SP",
+		"size": {
+			"registered": 5,
+			"total": 6,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "GERM",
+		"summary": null,
+		"synonym": "3587",
+		"tags": [],
+		"title": "German Conversation",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 3.0,
+		"id": "1999SP FREN 399.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "399",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 20,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "FREN",
+		"summary": null,
+		"synonym": "1870",
+		"tags": [],
+		"title": "Senior Essay",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"New-See Descriptions"
+		],
+		"credits": 6.0,
+		"id": "1999SP POSC 256.00",
+		"instructors": [],
+		"number": "256",
+		"offerings": {
+			"locations": [
+				"CMC 209"
+			],
+			"times": [
+				{
+					"day": "Tu",
+					"end": "12:15pm",
+					"start": "10:30am"
+				},
+				{
+					"day": "Th",
+					"end": "12:15pm",
+					"start": "10:30am"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 13,
+			"total": 30,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "POSC",
+		"summary": null,
+		"synonym": "1425",
+		"tags": [],
+		"title": "Family in Political Thought",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"Instructor Permission Required"
+		],
+		"credits": 1.0,
+		"id": "1999SP THEA 190.00",
+		"instructors": [
+			"David McCandless"
+		],
+		"number": "190",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 30,
+			"total": 20,
+			"waitlist": 0
+		},
+		"status": "Closed",
+		"subject": "THEA",
+		"summary": null,
+		"synonym": "4110",
+		"tags": [],
+		"title": "Carleton Players Productions",
+		"type": "Course",
+		"year": 1999
+	},
+	{
 		"comments": [],
 		"credits": 2.0,
 		"id": "1999SP CHEM 345.00",
@@ -178,14 +1265,556 @@
 	},
 	{
 		"comments": [
-			"Held for Frosh"
+			"Extra Time."
 		],
 		"credits": 6.0,
-		"id": "1999SP ENGL 109.01",
-		"instructors": [
-			"Owen Jenkins"
+		"id": "1999SP GEOL 340.00",
+		"instructors": [],
+		"number": "340",
+		"offerings": {
+			"locations": [
+				"Mudd 75"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "We",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "Fr",
+					"end": "1:00pm",
+					"start": "12:00pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 12,
+			"total": 11,
+			"waitlist": 0
+		},
+		"status": "Closed",
+		"subject": "GEOL",
+		"summary": null,
+		"synonym": "1414",
+		"tags": [
+			"ENTSSCI",
+			"ENTSLAB"
 		],
-		"number": "109",
+		"title": "Hydrology",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP GEOL 340L.54",
+		"instructors": [],
+		"number": "340L",
+		"offerings": {
+			"locations": [
+				"Mudd 75"
+			],
+			"times": [
+				{
+					"day": "Th",
+					"end": "5:00pm",
+					"start": "1:00pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "54",
+		"semester": "SP",
+		"size": {
+			"registered": 12,
+			"total": 12,
+			"waitlist": 0
+		},
+		"status": "Closed",
+		"subject": "GEOL",
+		"summary": null,
+		"synonym": "1415",
+		"tags": [],
+		"title": "Hydrology Laboratory",
+		"type": "Lab",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 194.00",
+		"instructors": [
+			"Donna Ricks"
+		],
+		"number": "194",
+		"offerings": {
+			"locations": [
+				"Stadium PE"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "We",
+					"end": "12:20pm",
+					"start": "11:10am"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [
+			"PE"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 20,
+			"total": 26,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "1421",
+		"tags": [],
+		"title": "Weight Training - Beginning",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 245.00",
+		"instructors": [
+			"Terry J Rivers"
+		],
+		"number": "245",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 25,
+			"total": 20,
+			"waitlist": 0
+		},
+		"status": "Closed",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "4023",
+		"tags": [],
+		"title": "Lacrosse",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"West Fields."
+		],
+		"credits": 0.0,
+		"id": "1999SP PE 227.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "227",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 15,
+			"total": 30,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "3778",
+		"tags": [],
+		"title": "Frisbee",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 293.00",
+		"instructors": [
+			"Terry J Rivers"
+		],
+		"number": "293",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 11,
+			"total": 40,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "3777",
+		"tags": [],
+		"title": "Water Polo",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 219.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "219",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 2,
+			"total": 25,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "3779",
+		"tags": [],
+		"title": "Cycling Club",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"West Fields."
+		],
+		"credits": 0.0,
+		"id": "1999SP PE 228.00",
+		"instructors": [
+			"Terry J Rivers"
+		],
+		"number": "228",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 1,
+			"total": 30,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "6214",
+		"tags": [],
+		"title": "Ultimate Frisbee",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 3.0,
+		"id": "1999SP PE 315.00",
+		"instructors": [],
+		"number": "315",
+		"offerings": {
+			"locations": [
+				"Stadium PE"
+			],
+			"times": [
+				{
+					"day": "Tu",
+					"end": "12:15pm",
+					"start": "10:30am"
+				},
+				{
+					"day": "Th",
+					"end": "12:15pm",
+					"start": "10:30am"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 6,
+			"total": 18,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "1427",
+		"tags": [],
+		"title": "Ath Trng II:Prvtn&Care Ath Inj",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [
+			"Instructor Permission Required"
+		],
+		"credits": 0.0,
+		"id": "1999SP PE 230.00",
+		"instructors": [
+			"Betsy A Larey"
+		],
+		"number": "230",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEI"
+		],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 4,
+			"total": 20,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "3594",
+		"tags": [],
+		"title": "Golf, Intercollegiate",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 258.00",
+		"instructors": [
+			"Terry J Rivers"
+		],
+		"number": "258",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [
+			"PEC"
+		],
+		"scnc": null,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 20,
+			"total": 25,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "3645",
+		"tags": [],
+		"title": "Men's Rugby",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 0.0,
+		"id": "1999SP PE 146.02",
+		"instructors": [
+			"Andy M Clark"
+		],
+		"number": "146",
+		"offerings": {
+			"locations": [
+				"West Gym POOL"
+			],
+			"times": [
+				{
+					"day": "Tu",
+					"end": "2:15pm",
+					"start": "12:30pm"
+				},
+				{
+					"day": "Th",
+					"end": "2:15pm",
+					"start": "12:30pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [
+			"PE"
+		],
+		"scnc": true,
+		"section": "02",
+		"semester": "SP",
+		"size": {
+			"registered": 10,
+			"total": 12,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "PE",
+		"summary": null,
+		"synonym": "1420",
+		"tags": [],
+		"title": "Life Guard Training",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 6.0,
+		"id": "1999SP MATH 232.02",
+		"instructors": [
+			"Gail S Nelson"
+		],
+		"number": "232",
+		"offerings": {
+			"locations": [
+				"CMC 206"
+			],
+			"times": [
+				{
+					"day": "Mo",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "We",
+					"end": "12:20pm",
+					"start": "11:10am"
+				},
+				{
+					"day": "Fr",
+					"end": "1:00pm",
+					"start": "12:00pm"
+				}
+			]
+		},
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": null,
+		"section": "02",
+		"semester": "SP",
+		"size": {
+			"registered": 20,
+			"total": 28,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "MATH",
+		"summary": null,
+		"synonym": "2643",
+		"tags": [],
+		"title": "Linear Algebra",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 1.0,
+		"id": "1999SP AFAM 400.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "400",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 0,
+			"total": 10,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "AFAM",
+		"summary": null,
+		"synonym": "1429",
+		"tags": [],
+		"title": "Integrative Exercise",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 3.0,
+		"id": "1999SP LTAM 400.00",
+		"instructors": [
+			"Staff"
+		],
+		"number": "400",
+		"offerings": null,
+		"prerequisites": null,
+		"requirements": [],
+		"scnc": true,
+		"section": "00",
+		"semester": "SP",
+		"size": {
+			"registered": 1,
+			"total": 10,
+			"waitlist": 0
+		},
+		"status": "Open",
+		"subject": "LTAM",
+		"summary": null,
+		"synonym": "1624",
+		"tags": [],
+		"title": "Integrative Exercise",
+		"type": "Course",
+		"year": 1999
+	},
+	{
+		"comments": [],
+		"credits": 6.0,
+		"id": "1999SP GRK 351.00",
+		"instructors": [
+			"Clara S Hardy"
+		],
+		"number": "351",
 		"offerings": {
 			"locations": [
 				"Laird 204"
@@ -193,37 +1822,37 @@
 			"times": [
 				{
 					"day": "Mo",
-					"end": "11:00am",
-					"start": "9:50am"
+					"end": "9:40am",
+					"start": "8:30am"
 				},
 				{
 					"day": "We",
-					"end": "11:00am",
-					"start": "9:50am"
+					"end": "9:40am",
+					"start": "8:30am"
 				},
 				{
 					"day": "Fr",
-					"end": "10:40am",
-					"start": "9:40am"
+					"end": "9:30am",
+					"start": "8:30am"
 				}
 			]
 		},
 		"prerequisites": null,
 		"requirements": [],
-		"scnc": true,
-		"section": "01",
+		"scnc": null,
+		"section": "00",
 		"semester": "SP",
 		"size": {
-			"registered": 14,
-			"total": 15,
+			"registered": 3,
+			"total": 20,
 			"waitlist": 0
 		},
 		"status": "Open",
-		"subject": "ENGL",
+		"subject": "GRK",
 		"summary": null,
-		"synonym": "1422",
+		"synonym": "1413",
 		"tags": [],
-		"title": "Writing Seminar I",
+		"title": "Aristophanes",
 		"type": "Course",
 		"year": 1999
 	},
@@ -279,167 +1908,18 @@
 		"year": 1999
 	},
 	{
-		"comments": [],
-		"credits": 3.0,
-		"id": "1999SP FREN 399.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "399",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "FREN",
-		"summary": null,
-		"synonym": "1870",
-		"tags": [],
-		"title": "Senior Essay",
-		"type": "Course",
-		"year": 1999
-	},
-	{
 		"comments": [
-			"Extra Time."
+			"Held for Frosh"
 		],
 		"credits": 6.0,
-		"id": "1999SP GEOL 340.00",
+		"id": "1999SP ENGL 109.01",
 		"instructors": [
-			""
+			"Owen Jenkins"
 		],
-		"number": "340",
+		"number": "109",
 		"offerings": {
 			"locations": [
-				"Mudd 75"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "We",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "Fr",
-					"end": "1:00pm",
-					"start": "12:00pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 12,
-			"total": 11,
-			"waitlist": 0
-		},
-		"status": "Closed",
-		"subject": "GEOL",
-		"summary": null,
-		"synonym": "1414",
-		"tags": [
-			"ENTSSCI",
-			"ENTSLAB"
-		],
-		"title": "Hydrology",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP GEOL 340L.54",
-		"instructors": [
-			""
-		],
-		"number": "340L",
-		"offerings": {
-			"locations": [
-				"Mudd 75"
-			],
-			"times": [
-				{
-					"day": "Th",
-					"end": "5:00pm",
-					"start": "1:00pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "54",
-		"semester": "SP",
-		"size": {
-			"registered": 12,
-			"total": 12,
-			"waitlist": 0
-		},
-		"status": "Closed",
-		"subject": "GEOL",
-		"summary": null,
-		"synonym": "1415",
-		"tags": [],
-		"title": "Hydrology Laboratory",
-		"type": "Lab",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 3.0,
-		"id": "1999SP GERM 249.00",
-		"instructors": [
-			"Julie Klassen"
-		],
-		"number": "249",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 3,
-			"total": 0,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "GERM",
-		"summary": null,
-		"synonym": "3652",
-		"tags": [],
-		"title": "Minority Voices in German Lit",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"New-See Descriptions X-list WMST.251"
-		],
-		"credits": 6.0,
-		"id": "1999SP GERM 250.00",
-		"instructors": [
-			"Sigi Leonhard"
-		],
-		"number": "250",
-		"offerings": {
-			"locations": [
-				"Olin 142"
+				"Laird 204"
 			],
 			"times": [
 				{
@@ -461,1512 +1941,20 @@
 		},
 		"prerequisites": null,
 		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 9,
-			"total": 15,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "GERM",
-		"summary": null,
-		"synonym": "1426",
-		"tags": [],
-		"title": "Holocaust",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 2.0,
-		"id": "1999SP GERM 301.01",
-		"instructors": [
-			"Roger Paas"
-		],
-		"number": "301",
-		"offerings": {
-			"locations": [
-				"Leighton 301"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "3:00pm",
-					"start": "1:50pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
 		"scnc": true,
 		"section": "01",
 		"semester": "SP",
 		"size": {
-			"registered": 5,
-			"total": 6,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "GERM",
-		"summary": null,
-		"synonym": "3587",
-		"tags": [],
-		"title": "German Conversation",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 2.0,
-		"id": "1999SP GERM 301.02",
-		"instructors": [
-			"Julie Klassen"
-		],
-		"number": "301",
-		"offerings": {
-			"locations": [
-				"Leighton 301"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "4:20pm",
-					"start": "3:10pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": true,
-		"section": "02",
-		"semester": "SP",
-		"size": {
-			"registered": 4,
-			"total": 7,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "GERM",
-		"summary": null,
-		"synonym": "3523",
-		"tags": [],
-		"title": "German Conversation",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 6.0,
-		"id": "1999SP GRK 351.00",
-		"instructors": [
-			"Clara S Hardy"
-		],
-		"number": "351",
-		"offerings": {
-			"locations": [
-				"Laird 204"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "9:40am",
-					"start": "8:30am"
-				},
-				{
-					"day": "We",
-					"end": "9:40am",
-					"start": "8:30am"
-				},
-				{
-					"day": "Fr",
-					"end": "9:30am",
-					"start": "8:30am"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 3,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "GRK",
-		"summary": null,
-		"synonym": "1413",
-		"tags": [],
-		"title": "Aristophanes",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 1.0,
-		"id": "1999SP HIST 400.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "400",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 12,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "HIST",
-		"summary": null,
-		"synonym": "1869",
-		"tags": [],
-		"title": "Integrative Exercise",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 3.0,
-		"id": "1999SP LTAM 400.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "400",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 1,
-			"total": 10,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "LTAM",
-		"summary": null,
-		"synonym": "1624",
-		"tags": [],
-		"title": "Integrative Exercise",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 6.0,
-		"id": "1999SP MATH 232.02",
-		"instructors": [
-			"Gail S Nelson"
-		],
-		"number": "232",
-		"offerings": {
-			"locations": [
-				"CMC 206"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "We",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "Fr",
-					"end": "1:00pm",
-					"start": "12:00pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "02",
-		"semester": "SP",
-		"size": {
-			"registered": 20,
-			"total": 28,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MATH",
-		"summary": null,
-		"synonym": "2643",
-		"tags": [],
-		"title": "Linear Algebra",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"X-List LTAM 143",
-			"Cross-listed with MUSC 143.00"
-		],
-		"credits": 6.0,
-		"id": "1999SP MUSC 143.02",
-		"instructors": [
-			"Melinda Russell"
-		],
-		"number": "143",
-		"offerings": {
-			"locations": [
-				"Old Music Hall 103"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "We",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "Fr",
-					"end": "1:00pm",
-					"start": "12:00pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [
-			"CL"
-		],
-		"scnc": null,
-		"section": "02",
-		"semester": "SP",
-		"size": {
-			"registered": 10,
-			"total": 30,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "1418",
-		"tags": [],
-		"title": "Music of the Caribbean",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 150.11",
-		"instructors": [
-			"Catherine Christian"
-		],
-		"number": "150",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "11",
-		"semester": "SP",
-		"size": {
-			"registered": 22,
-			"total": 150,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3981",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 150.12",
-		"instructors": [
-			"Ken Huber"
-		],
-		"number": "150",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
 			"registered": 14,
-			"total": 150,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3982",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 150.13",
-		"instructors": [
-			"Anne B Mayer"
-		],
-		"number": "150",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "13",
-		"semester": "SP",
-		"size": {
-			"registered": 13,
-			"total": 150,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3983",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 150.14",
-		"instructors": [
-			"Marcia Widman"
-		],
-		"number": "150",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 29,
-			"total": 150,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3984",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 151.11",
-		"instructors": [
-			"Ben Allen"
-		],
-		"number": "151",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "11",
-		"semester": "SP",
-		"size": {
-			"registered": 21,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3995",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 151.12",
-		"instructors": [
-			"Margaret Brand"
-		],
-		"number": "151",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
-			"registered": 8,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3996",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 151.13",
-		"instructors": [
-			"Mary B Martz"
-		],
-		"number": "151",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "13",
-		"semester": "SP",
-		"size": {
-			"registered": 17,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3997",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 151.14",
-		"instructors": [
-			"Rick A Penning"
-		],
-		"number": "151",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 9,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3998",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 155.11",
-		"instructors": [
-			"Liz Ericksen"
-		],
-		"number": "155",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "11",
-		"semester": "SP",
-		"size": {
-			"registered": 6,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3987",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 155.12",
-		"instructors": [
-			"Mary B Horozaniecki"
-		],
-		"number": "155",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
-			"registered": 8,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3988",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 155.13",
-		"instructors": [
-			"Harry W Nordstrom"
-		],
-		"number": "155",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "13",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3989",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 155.14",
-		"instructors": [
-			"Hector L Valdivia"
-		],
-		"number": "155",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3990",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 156.11",
-		"instructors": [
-			"Liz Ericksen"
-		],
-		"number": "156",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "11",
-		"semester": "SP",
-		"size": {
-			"registered": 6,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3991",
-		"tags": [],
-		"title": "Viola",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $324 fee"
-		],
-		"credits": 2.0,
-		"id": "1999SP MUSC 156.14",
-		"instructors": [
-			"Hector L Valdivia"
-		],
-		"number": "156",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3992",
-		"tags": [],
-		"title": "Viola",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 250.12",
-		"instructors": [
-			"Ken Huber"
-		],
-		"number": "250",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
-			"registered": 6,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3985",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 250.13",
-		"instructors": [
-			"Anne B Mayer"
-		],
-		"number": "250",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "13",
-		"semester": "SP",
-		"size": {
-			"registered": 1,
-			"total": 100,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3986",
-		"tags": [],
-		"title": "Piano",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 251.11",
-		"instructors": [
-			"Ben Allen"
-		],
-		"number": "251",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "11",
-		"semester": "SP",
-		"size": {
-			"registered": 7,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3999",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 251.12",
-		"instructors": [
-			"Margaret Brand"
-		],
-		"number": "251",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
-			"registered": 5,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "4000",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 251.13",
-		"instructors": [
-			"Mary B Martz"
-		],
-		"number": "251",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "13",
-		"semester": "SP",
-		"size": {
-			"registered": 4,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "4001",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 251.14",
-		"instructors": [
-			"Rick A Penning"
-		],
-		"number": "251",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 10,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "4002",
-		"tags": [],
-		"title": "Voice",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 255.12",
-		"instructors": [
-			"Mary B Horozaniecki"
-		],
-		"number": "255",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "12",
-		"semester": "SP",
-		"size": {
-			"registered": 1,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3993",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"2018-19 $648 fee. Instructor permission"
-		],
-		"credits": 4.0,
-		"id": "1999SP MUSC 255.14",
-		"instructors": [
-			"Hector L Valdivia"
-		],
-		"number": "255",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "14",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 50,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "MUSC",
-		"summary": null,
-		"synonym": "3994",
-		"tags": [],
-		"title": "Violin",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 1.0,
-		"id": "1999SP MUSC 400.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "400",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 5,
 			"total": 15,
 			"waitlist": 0
 		},
 		"status": "Open",
-		"subject": "MUSC",
+		"subject": "ENGL",
 		"summary": null,
-		"synonym": "1607",
+		"synonym": "1422",
 		"tags": [],
-		"title": "Integrative Exercise",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 146.02",
-		"instructors": [
-			"Andy Clark"
-		],
-		"number": "146",
-		"offerings": {
-			"locations": [
-				"West Gym POOL"
-			],
-			"times": [
-				{
-					"day": "Tu",
-					"end": "2:15pm",
-					"start": "12:30pm"
-				},
-				{
-					"day": "Th",
-					"end": "2:15pm",
-					"start": "12:30pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [
-			"PE"
-		],
-		"scnc": true,
-		"section": "02",
-		"semester": "SP",
-		"size": {
-			"registered": 10,
-			"total": 12,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "1420",
-		"tags": [],
-		"title": "Life Guard Training",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 194.00",
-		"instructors": [
-			"Donna Ricks"
-		],
-		"number": "194",
-		"offerings": {
-			"locations": [
-				"Stadium PE"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "12:20pm",
-					"start": "11:10am"
-				},
-				{
-					"day": "We",
-					"end": "12:20pm",
-					"start": "11:10am"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [
-			"PE"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 20,
-			"total": 26,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "1421",
-		"tags": [],
-		"title": "Weight Training - Beginning",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 219.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "219",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 2,
-			"total": 25,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "3779",
-		"tags": [],
-		"title": "Cycling Club",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"West Fields."
-		],
-		"credits": 0.0,
-		"id": "1999SP PE 227.00",
-		"instructors": [
-			"Staff"
-		],
-		"number": "227",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 15,
-			"total": 30,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "3778",
-		"tags": [],
-		"title": "Frisbee",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"West Fields."
-		],
-		"credits": 0.0,
-		"id": "1999SP PE 228.00",
-		"instructors": [
-			"Terry J Rivers"
-		],
-		"number": "228",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 1,
-			"total": 30,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "6214",
-		"tags": [],
-		"title": "Ultimate Frisbee",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"Instructor Permission Required"
-		],
-		"credits": 0.0,
-		"id": "1999SP PE 230.00",
-		"instructors": [
-			"Betsy Larey"
-		],
-		"number": "230",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEI"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 4,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "3594",
-		"tags": [],
-		"title": "Golf, Intercollegiate",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 245.00",
-		"instructors": [
-			"Terry J Rivers"
-		],
-		"number": "245",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 25,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Closed",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "4023",
-		"tags": [],
-		"title": "Lacrosse",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 258.00",
-		"instructors": [
-			"Terry J Rivers"
-		],
-		"number": "258",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 20,
-			"total": 25,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "3645",
-		"tags": [],
-		"title": "Men's Rugby",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 0.0,
-		"id": "1999SP PE 293.00",
-		"instructors": [
-			"Terry J Rivers"
-		],
-		"number": "293",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [
-			"PEC"
-		],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 11,
-			"total": 40,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "3777",
-		"tags": [],
-		"title": "Water Polo",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 3.0,
-		"id": "1999SP PE 315.00",
-		"instructors": [
-			""
-		],
-		"number": "315",
-		"offerings": {
-			"locations": [
-				"Stadium PE"
-			],
-			"times": [
-				{
-					"day": "Tu",
-					"end": "12:15pm",
-					"start": "10:30am"
-				},
-				{
-					"day": "Th",
-					"end": "12:15pm",
-					"start": "10:30am"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 6,
-			"total": 18,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PE",
-		"summary": null,
-		"synonym": "1427",
-		"tags": [],
-		"title": "Ath Trng II:Prvtn&Care Ath Inj",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"PHYS 235 required."
-		],
-		"credits": 0.0,
-		"id": "1999SP PHYS 235L.54",
-		"instructors": [
-			"Rich Noer"
-		],
-		"number": "235L",
-		"offerings": {
-			"locations": [
-				"Olin 210"
-			],
-			"times": [
-				{
-					"day": "Th",
-					"end": "5:00pm",
-					"start": "1:00pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "54",
-		"semester": "SP",
-		"size": {
-			"registered": 9,
-			"total": 12,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "PHYS",
-		"summary": null,
-		"synonym": "1419",
-		"tags": [],
-		"title": "Electricity & Magnetism Lab",
-		"type": "Lab",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"New-See Descriptions"
-		],
-		"credits": 6.0,
-		"id": "1999SP POSC 256.00",
-		"instructors": [
-			""
-		],
-		"number": "256",
-		"offerings": {
-			"locations": [
-				"CMC 209"
-			],
-			"times": [
-				{
-					"day": "Tu",
-					"end": "12:15pm",
-					"start": "10:30am"
-				},
-				{
-					"day": "Th",
-					"end": "12:15pm",
-					"start": "10:30am"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 13,
-			"total": 30,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "POSC",
-		"summary": null,
-		"synonym": "1425",
-		"tags": [],
-		"title": "Family in Political Thought",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [],
-		"credits": 6.0,
-		"id": "1999SP SPAN 204.02",
-		"instructors": [
-			"Mar Valdecantos"
-		],
-		"number": "204",
-		"offerings": {
-			"locations": [
-				"Laird 204"
-			],
-			"times": [
-				{
-					"day": "Mo",
-					"end": "3:00pm",
-					"start": "1:50pm"
-				},
-				{
-					"day": "We",
-					"end": "3:00pm",
-					"start": "1:50pm"
-				},
-				{
-					"day": "Fr",
-					"end": "3:20pm",
-					"start": "2:20pm"
-				}
-			]
-		},
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": null,
-		"section": "02",
-		"semester": "SP",
-		"size": {
-			"registered": 11,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Open",
-		"subject": "SPAN",
-		"summary": null,
-		"synonym": "1989",
-		"tags": [],
-		"title": "Intermediate Spanish",
-		"type": "Course",
-		"year": 1999
-	},
-	{
-		"comments": [
-			"Instructor Permission Required"
-		],
-		"credits": 1.0,
-		"id": "1999SP THEA 190.00",
-		"instructors": [
-			"David McCandless"
-		],
-		"number": "190",
-		"offerings": null,
-		"prerequisites": null,
-		"requirements": [],
-		"scnc": true,
-		"section": "00",
-		"semester": "SP",
-		"size": {
-			"registered": 30,
-			"total": 20,
-			"waitlist": 0
-		},
-		"status": "Closed",
-		"subject": "THEA",
-		"summary": null,
-		"synonym": "4110",
-		"tags": [],
-		"title": "Carleton Players Productions",
+		"title": "Writing Seminar I",
 		"type": "Course",
 		"year": 1999
 	}
