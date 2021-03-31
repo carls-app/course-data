@@ -6,7 +6,28 @@
 		"Nancy J Cho"
 	],
 	"number": "329",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: One English foundations course and one other 6 credit English course, or instructor permission",
 	"requirements": [
 		"LA",
@@ -16,11 +37,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 20,
-		"waitlist": 0
+		"registered": 15,
+		"total": 15,
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENGL",
 	"summary": null,
 	"synonym": "58941",

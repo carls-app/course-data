@@ -8,7 +8,34 @@
 		"Jake N Morton"
 	],
 	"number": "222",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 121",
+			"Anderson Hall 122"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Th",
+				"end": "5:00pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: One previous Archaeology pertinent course",
 	"requirements": [
 		"LS"
@@ -17,11 +44,11 @@
 	"section": "54",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 24,
 		"total": 24,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ARCN",
 	"summary": null,
 	"synonym": "59094",

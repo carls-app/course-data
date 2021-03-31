@@ -8,13 +8,29 @@
 	"number": "306",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 325"
+			"Anderson Hall 325",
+			"Anderson Hall 329"
 		],
 		"times": [
 			{
-				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -26,7 +42,7 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 7,
 		"total": 8,
 		"waitlist": 0
 	},

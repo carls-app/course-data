@@ -6,7 +6,26 @@
 		"Jeffrey R Ondich"
 	],
 	"number": "231",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 201 or 202 or 208",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 35,
+		"total": 34,
+		"waitlist": 12
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": "Hackers, phishers, and spammers--at best they annoy us, at worst they disrupt communication systems, steal identities, bring down corporations, and compromise sensitive systems. In this course, we'll study various aspects of computer and network security, focusing mainly on the technical aspects as well as the social and cultural costs of providing (or not providing) security. Topics include cryptography, authentication and identification schemes, intrusion detection, viruses and worms, spam prevention, firewalls, denial of service, electronic commerce, privacy, and usability.",
 	"synonym": "58589",

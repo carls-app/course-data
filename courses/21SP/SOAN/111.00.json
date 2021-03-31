@@ -8,7 +8,26 @@
 		"Annette M Nierobisz"
 	],
 	"number": "111",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "We",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "8:00pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI"
@@ -17,11 +36,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 24,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 9
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SOAN",
 	"summary": null,
 	"synonym": "59023",

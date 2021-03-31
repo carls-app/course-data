@@ -6,7 +6,28 @@
 		"Anna Moltchanova"
 	],
 	"number": "274",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 236"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,11 +38,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHIL",
 	"summary": "We will consider the emergence and development of major themes of existentialism in the works of Kierkegaard and Nietzsche, as well as \"classical\" existentialists such as Heidegger, Sartre and De Beauvoir. We will discuss key issues put forward by the existentialist movement, such as \"the question of being\" and human historicity, freedom and responsibility and look at how different authors analyzed the nature and ambitions of the Self and diverse aspects of subjectivity.",
 	"synonym": "59058",

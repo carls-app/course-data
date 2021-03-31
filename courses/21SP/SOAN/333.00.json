@@ -6,7 +6,21 @@
 		"Constanza C Ocampo-Raeder"
 	],
 	"number": "333",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
 		"SI",
@@ -17,11 +31,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 17,
 		"total": 15,
-		"waitlist": 0
+		"waitlist": 10
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SOAN",
 	"summary": "Can we learn to use resources sustainably? Are there people in the world that know how to manage their environment appropriately? What are the causes behind environmental degradation? These questions are commonly asked in public and academic forums but what discussions often overlook is the fact that these are fundamentally social questions and thus social analysis is needed to understand them fully. This course aims at exploring key issues of human/nature interactions by using anthropological critiques and frameworks of analysis to show how culture is a critical variable to understanding these interactions in all their complexity.",
 	"synonym": "59038",

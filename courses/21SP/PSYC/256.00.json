@@ -6,7 +6,21 @@
 		"Sharon A Akimoto"
 	],
 	"number": "256",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
 		"LS"
@@ -15,13 +29,13 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 9
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PSYC",
-	"summary": "The social psychological analysis of human social behavior, interpersonal processes, and group influences. Concurrent registration in Psychology 257 is strongly recommended. A grade of C- or better must be earned in both Psychology 256 and 257 to satisfy the LS requirement.",
+	"summary": null,
 	"synonym": "58371",
 	"tags": [
 		"PSYCSDPCH",

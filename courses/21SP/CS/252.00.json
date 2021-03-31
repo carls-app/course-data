@@ -6,7 +6,26 @@
 		"Layla K Oesper"
 	],
 	"number": "252",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 201 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 31,
 		"total": 34,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "58591",

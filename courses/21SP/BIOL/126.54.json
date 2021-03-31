@@ -7,18 +7,31 @@
 	"instructors": [
 		"Daniel L Hernandez",
 		"Matt S Rand",
-		"David Hougen-Eitzman"
+		"Annie L Bosacker"
 	],
 	"number": "126",
 	"offerings": {
-		"locations": [
-			"Hulings 115"
-		],
+		"locations": [],
 		"times": [
 			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
 				"day": "Th",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -31,11 +44,11 @@
 	"section": "54",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 20,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "BIOL",
 	"summary": null,
 	"synonym": "58493",

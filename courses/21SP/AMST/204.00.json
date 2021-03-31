@@ -6,7 +6,23 @@
 		"Richard A Keiser"
 	],
 	"number": "204",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,7 +32,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 25,
 		"waitlist": 0
 	},

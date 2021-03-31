@@ -6,8 +6,35 @@
 		"Melissa Eblen-Zayas"
 	],
 	"number": "342",
-	"offerings": null,
-	"prerequisites": "Prerequisite: (Physics 226 or 228) and 235 and (Physics 335 or Physic 346) or instructor permission",
+	"offerings": {
+		"locations": [
+			"Location To Be Announced",
+			"Anderson Hall 035"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Tu",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: (Physics 227 or 228) and 235 and (Physics 335 or Physic 346) or instructor permission",
 	"requirements": [
 		"LS",
 		"QRE"
@@ -16,14 +43,14 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 12,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "PHYS",
 	"summary": null,
-	"synonym": "58246",
+	"synonym": "58247",
 	"tags": [],
 	"title": "Contemporary Experimental Physics and Lab",
 	"type": "Course",

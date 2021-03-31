@@ -6,7 +6,26 @@
 		"Aaron W Bauer"
 	],
 	"number": "208",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 111 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 33,
 		"total": 34,
-		"waitlist": 0
+		"waitlist": 18
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "58588",

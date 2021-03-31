@@ -6,8 +6,27 @@
 		"Eric D Hoopfer"
 	],
 	"number": "238",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Neuroscience 127 or both Psychology 216 and Biology 125. Requires concurrent registration in Neuroscience 239. A grade of C- or better must be earned in both Neuroscience 238 and 239 to satisfy the LS requirement.",
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Neuroscience 127 or Biology 125.; Concurrent registration in Neuroscience 239.",
 	"requirements": [
 		"LS",
 		"QRE"
@@ -16,8 +35,8 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 15,
+		"total": 16,
 		"waitlist": 0
 	},
 	"status": "Open",
@@ -25,7 +44,8 @@
 	"summary": null,
 	"synonym": "58515",
 	"tags": [
-		"NEURCORE"
+		"NEURCORE",
+		"BIOLELECTIVE"
 	],
 	"title": "Neurons, Circuits and Behavior",
 	"type": "Course",

@@ -8,7 +8,23 @@
 		"Pierre Hecker"
 	],
 	"number": "187",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LA",
@@ -18,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 19,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENGL",
 	"summary": null,
 	"synonym": "58922",

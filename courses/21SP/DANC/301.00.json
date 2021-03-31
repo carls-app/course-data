@@ -6,7 +6,16 @@
 		"Whitney McClusky"
 	],
 	"number": "301",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Sa",
+				"end": "12:00pm",
+				"start": "10:00am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -15,7 +24,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 17,
 		"total": 20,
 		"waitlist": 0
 	},

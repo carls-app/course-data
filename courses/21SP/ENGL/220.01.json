@@ -8,18 +8,37 @@
 		"Michael J Kowalewski"
 	],
 	"number": "220",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 14,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENGL",
 	"summary": "Instruction and practice in being a speaker and an audience in formal and informal settings.",
 	"synonym": "58923",

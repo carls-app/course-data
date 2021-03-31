@@ -6,14 +6,30 @@
 		"David G Tompkins"
 	],
 	"number": "398",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:45pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:45pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 3,
 		"total": 25,
 		"waitlist": 0
 	},

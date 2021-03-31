@@ -6,25 +6,14 @@
 		"Helen K Minsky"
 	],
 	"number": "400",
-	"offerings": {
-		"locations": [
-			"Location To Be Announced"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "9:40am",
-				"start": "8:30am"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 1,
 		"total": 4,
 		"waitlist": 0
 	},

@@ -6,7 +6,26 @@
 		"Rafe F Jones"
 	],
 	"number": "331",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 321 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,7 +34,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 20,
 		"waitlist": 0
 	},
@@ -23,9 +42,7 @@
 	"subject": "MATH",
 	"summary": "Further topics in analysis such as measure theory, Lebesgue integration or Banach and Hilbert spaces.",
 	"synonym": "58705",
-	"tags": [
-		"ELECSTAT"
-	],
+	"tags": [],
 	"title": "Real Analysis II",
 	"type": "Course",
 	"year": 2021

@@ -6,7 +6,26 @@
 		"Yaniv Ben-Ami"
 	],
 	"number": "110",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,7 +35,7 @@
 	"section": "03",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 4,
 		"total": 30,
 		"waitlist": 0
 	},

@@ -8,7 +8,16 @@
 		"Cathy Yandell"
 	],
 	"number": "210",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: French 204 or instructor approval",
 	"requirements": [
 		"HI",
@@ -18,7 +27,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 15,
 		"waitlist": 0
 	},

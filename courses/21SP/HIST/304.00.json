@@ -6,7 +6,21 @@
 		"Mike E Jirik"
 	],
 	"number": "304",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -16,7 +30,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 15,
 		"waitlist": 0
 	},

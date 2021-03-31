@@ -6,7 +6,21 @@
 		"Jane Shockley"
 	],
 	"number": "310",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -15,7 +29,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 25,
 		"waitlist": 0
 	},

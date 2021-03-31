@@ -6,21 +6,47 @@
 		"Clint A Cowan"
 	],
 	"number": "230",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 130",
+			"Location To Be Announced"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Th",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: 100-level Geology course or an introductory Biology course, or instructor permission",
 	"requirements": [
-		"LS",
-		"WR2"
+		"LS"
 	],
 	"scnc": null,
 	"section": "54",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 18,
-		"waitlist": 0
+		"registered": 12,
+		"total": 12,
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "GEOL",
 	"summary": null,
 	"synonym": "58296",

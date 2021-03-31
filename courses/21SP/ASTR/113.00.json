@@ -4,9 +4,22 @@
 	],
 	"credits": 3.0,
 	"id": "2021SP ASTR 113.00",
-	"instructors": [],
+	"instructors": [
+		"Valerie K Fox"
+	],
 	"number": "113",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 141"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "11:59pm",
+				"start": "9:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Astronomy 100, 110, 127, 232, 233, Physics 226, 228, 232, 233 or instructor permission",
 	"requirements": [
 		"LS",
@@ -16,7 +29,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 12,
 		"waitlist": 0
 	},

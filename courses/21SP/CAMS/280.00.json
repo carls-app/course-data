@@ -2,29 +2,47 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP CAMS 280.00",
-	"instructors": [],
+	"instructors": [
+		"Tawnya M Bhattacharya"
+	],
 	"number": "280",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Cinema and Media Studies 264, 278 or 279, or instructor consent",
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Cinema and Media Studies 170, 264, 278 or 279, or instructor consent",
 	"requirements": [
-		"ARP"
+		"ARP",
+		"WR2"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 12,
+		"total": 12,
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CAMS",
 	"summary": null,
-	"synonym": "59491",
+	"synonym": "59892",
 	"tags": [
 		"CAMSELECTIVE",
 		"CAMSSTUPROD",
-		"ENGLCREATVWRTG"
+		"ENGLCREATVWRTG",
+		"CAMSELECPROD"
 	],
 	"title": "Advanced Screenwriting",
 	"type": "Course",

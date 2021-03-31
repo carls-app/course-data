@@ -1,19 +1,30 @@
 {
 	"comments": [
-		"1st 5 Week."
+		"1st 5 weeks"
 	],
 	"credits": 1.0,
 	"id": "2021SP PHYS 123.00",
-	"instructors": [],
+	"instructors": [
+		"Jay D Tasson"
+	],
 	"number": "123",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "8:00pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Physics 131, 143, 144, 145, 151, 152, or 165.",
 	"requirements": [],
 	"scnc": true,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 36,
 		"waitlist": 0
 	},

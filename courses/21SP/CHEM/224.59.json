@@ -8,13 +8,30 @@
 	"number": "224",
 	"offerings": {
 		"locations": [
+			"Location To Be Announced",
+			"Anderson Hall 221",
 			"Anderson Hall 229"
 		],
 		"times": [
 			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
 				"day": "Th",
 				"end": "12:00pm",
 				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -27,7 +44,7 @@
 	"section": "59",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 24,
 		"waitlist": 0
 	},

@@ -6,17 +6,31 @@
 		"Juliane Schicker"
 	],
 	"number": "320",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: German 204 or equivalent",
 	"requirements": [
 		"HI",
-		"IDS"
+		"IS"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 15,
 		"waitlist": 0
 	},
@@ -25,7 +39,8 @@
 	"summary": null,
 	"synonym": "57884",
 	"tags": [
-		"EUSTCNTRY"
+		"EUSTCNTRY",
+		"GWSSELECTIVE"
 	],
 	"title": "Life under Socialism: Culture and Society in East Germany",
 	"type": "Course",

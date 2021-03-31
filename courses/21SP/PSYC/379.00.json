@@ -7,18 +7,34 @@
 		"Steven F Kozberg"
 	],
 	"number": "379",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center M104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 33,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 12
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PSYC",
 	"summary": "This seminar will focus on the biological and psychological components of psychiatric disorders in children and adolescents. We will also address the possible causes of these disorders, and examine some current controversies surrounding diagnosis and treatment.",
 	"synonym": "58369",

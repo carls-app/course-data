@@ -6,7 +6,23 @@
 		"Jessica F Keating"
 	],
 	"number": "236",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 161"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LA",
@@ -16,11 +32,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 4
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ARTH",
 	"summary": null,
 	"synonym": "57980",

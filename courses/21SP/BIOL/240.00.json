@@ -8,7 +8,26 @@
 		"Emily K Ho"
 	],
 	"number": "240",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 or instructor permission",
 	"requirements": [
 		"QRE"
@@ -17,11 +36,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 43,
 		"total": 40,
-		"waitlist": 0
+		"waitlist": 6
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "BIOL",
 	"summary": null,
 	"synonym": "58499",

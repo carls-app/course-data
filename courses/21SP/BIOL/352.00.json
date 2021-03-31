@@ -8,8 +8,29 @@
 		"Mark McKone"
 	],
 	"number": "352",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Statistics 120 (formerly Mathematics 215) or equivalent exposure to statistical analysis. Concurrent registration in Biology 353",
+	"offerings": {
+		"locations": [
+			"Anderson Hall 329"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Biology 125 and 126, and Mathematics 111 or other previous calculus course. Recommended course: Statistics 120 (formerly Mathematics 215) or equivalent exposure to statistical analysis; concurrent registration in Biology 353",
 	"requirements": [
 		"QRE"
 	],
@@ -17,7 +38,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 20,
 		"waitlist": 0
 	},

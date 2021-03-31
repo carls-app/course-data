@@ -6,7 +6,28 @@
 		"Paul Petzschmann"
 	],
 	"number": "249",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 305"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,7 +37,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 25,
 		"waitlist": 0
 	},

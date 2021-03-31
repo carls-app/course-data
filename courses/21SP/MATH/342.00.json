@@ -6,7 +6,26 @@
 		"MurphyKate Montee"
 	],
 	"number": "342",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,17 +34,15 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 28,
+		"registered": 23,
+		"total": 25,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "MATH",
 	"summary": "Introduction to algebraic structures, including groups, rings, and fields. Homomorphisms and quotient structures, polynomials, unique factorization. Other topics may include applications such as Burnside's counting theorem, symmetry groups, polynomial equations, or geometric constructions.",
 	"synonym": "58707",
-	"tags": [
-		"ELECSTAT"
-	],
+	"tags": [],
 	"title": "Abstract Algebra I",
 	"type": "Course",
 	"year": 2021

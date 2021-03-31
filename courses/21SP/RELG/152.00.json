@@ -6,7 +6,24 @@
 		"Asuka Sango"
 	],
 	"number": "152",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 244",
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 30,
-		"waitlist": 0
+		"registered": 24,
+		"total": 25,
+		"waitlist": 13
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "RELG",
 	"summary": "An introduction to the major religious traditions of Japan, from earliest times to the present. Combining thematic and historical approaches, this course will scrutinize both defining characteristics of, and interactions among, various religious traditions, including worship of the kami (local deities), Buddhism, shamanistic practices, Christianity, and new religious movements. We also will discuss issues crucial in the study of religion, such as the relation between religion and violence, gender, modernity, nationalism and war.",
 	"synonym": "59738",

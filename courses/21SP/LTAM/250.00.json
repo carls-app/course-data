@@ -6,7 +6,26 @@
 		"Walther Maradiegue"
 	],
 	"number": "250",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -16,7 +35,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 20,
 		"waitlist": 0
 	},
@@ -25,7 +44,8 @@
 	"summary": null,
 	"synonym": "59377",
 	"tags": [
-		"LTAMELECTIVE"
+		"LTAMELECTIVE",
+		"GWSSELECTIVE"
 	],
 	"title": "Indigeneity and Power in the Andes: Land, Labor, Knowledge",
 	"type": "Course",

@@ -6,7 +6,21 @@
 		"Jorge Brioso"
 	],
 	"number": "366",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Spanish 205 or above",
 	"requirements": [
 		"LA",
@@ -16,7 +30,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 25,
 		"waitlist": 0
 	},

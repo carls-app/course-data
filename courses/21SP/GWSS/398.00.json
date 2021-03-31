@@ -6,8 +6,24 @@
 		"Meera Sehgal"
 	],
 	"number": "398",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Gender, Women's & Sexuality Studies 110 or 200, Women's & Gender Studies 110 or Instructor Consent",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
+	"prerequisites": null,
 	"requirements": [
 		"SI",
 		"WR2",
@@ -17,7 +33,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 15,
 		"waitlist": 0
 	},
@@ -25,7 +41,15 @@
 	"subject": "GWSS",
 	"summary": null,
 	"synonym": "59724",
-	"tags": [],
+	"tags": [
+		"GWSSCAPSTONE",
+		"GWSSELECTIVE",
+		"WGSTADDL",
+		"AMSTAMERWRLD",
+		"AMSTDAC",
+		"SOANPERT",
+		"CCSTANALYSIS"
+	],
 	"title": "Transnational Feminist Activism",
 	"type": "Course",
 	"year": 2021

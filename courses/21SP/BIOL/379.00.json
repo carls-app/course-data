@@ -9,7 +9,23 @@
 		"Stephan G Zweifel"
 	],
 	"number": "379",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 036"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 240",
 	"requirements": [
 		"QRE"
@@ -18,9 +34,9 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 0,
-		"waitlist": 0
+		"waitlist": 9
 	},
 	"status": "Closed",
 	"subject": "BIOL",

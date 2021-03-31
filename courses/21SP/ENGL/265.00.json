@@ -6,7 +6,26 @@
 		"Susan Jaret McKinstry"
 	],
 	"number": "265",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP",
@@ -16,17 +35,18 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 14,
+		"total": 15,
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENGL",
 	"summary": null,
 	"synonym": "58939",
 	"tags": [
 		"ENGLCREATVWRTG",
-		"ENGLCWWTGWKSHP"
+		"ENGLCWWTGWKSHP",
+		"DGAHCOLLLAB"
 	],
 	"title": "News Stories",
 	"type": "Course",

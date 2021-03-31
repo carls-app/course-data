@@ -2,26 +2,49 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP RELG 246.00",
-	"instructors": [],
+	"instructors": [
+		"Elizabeth F Dolfi"
+	],
 	"number": "246",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 104",
+			"Location To Be Announced"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
-		"WR2",
-		"IS"
+		"WR2"
 	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "RELG",
-	"summary": "The Bible says that “the love of money is the root of all evil,” but the history of Christianity and mammon contains multitudes – voluntary poverty and acquisitive empires, radical utopian communities and the blessings of business, peace movement feasts and prosperity gospels, colonialism and humanitarian neo-liberalism, and commodity fetishism for Christ. This course will use a breadth of historical case studies alongside critical theories of modernity and capitalism to explore Christianity’s relationship with wealth, from pre-modern economic theologies, to faith in modern industrial capitalism and Christianity’s vexed entanglements with late capitalist ideologies and practices.",
+	"summary": null,
 	"synonym": "59517",
 	"tags": [
 		"RELGCHRISTNTRAD"

@@ -6,7 +6,16 @@
 		"Yaron Klein"
 	],
 	"number": "371",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Arabic 206 or equivalent",
 	"requirements": [
 		"LA",
@@ -16,7 +25,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 5,
 		"total": 15,
 		"waitlist": 0
 	},

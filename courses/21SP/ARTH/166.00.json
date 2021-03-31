@@ -6,7 +6,26 @@
 		"Kathleen M Ryor"
 	],
 	"number": "166",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LA",
@@ -16,11 +35,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 26,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 7
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ARTH",
 	"summary": null,
 	"synonym": "57979",

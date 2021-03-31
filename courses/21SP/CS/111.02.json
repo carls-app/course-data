@@ -8,7 +8,26 @@
 		"James O Ryan"
 	],
 	"number": "111",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"FSR",
@@ -18,7 +37,7 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 34,
 		"waitlist": 0
 	},

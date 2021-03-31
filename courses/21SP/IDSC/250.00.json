@@ -8,18 +8,32 @@
 		"Jason A Decker"
 	],
 	"number": "250",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Any introductory PHIL or PSYC course higher than 110 or any term of introductory PHYS course higher than 130 (PHYS 131 and 151 or 152 or a 10 week introductory course)",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 36,
-		"waitlist": 0
+		"waitlist": 18
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "IDSC",
 	"summary": null,
 	"synonym": "56186",

@@ -6,7 +6,26 @@
 		"Scott D Carpenter"
 	],
 	"number": "241",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: French 204 or equivalent",
 	"requirements": [
 		"LA",
@@ -16,7 +35,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 20,
 		"waitlist": 0
 	},
@@ -30,7 +49,6 @@
 		"FRSTELEC",
 		"ENGLFORLIT",
 		"FFSTLIT",
-		"WGSTCORE",
 		"WGSTADDL",
 		"GWSSELECTIVE"
 	],

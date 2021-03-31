@@ -8,7 +8,21 @@
 		"Ross K Elfline"
 	],
 	"number": "241",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:00pm",
+				"start": "12:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:00pm",
+				"start": "12:30pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Any two studio art courses or permission from the instructor. Not open to students who have previously taken Art History 240",
 	"requirements": [
 		"LA"
@@ -17,7 +31,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 25,
 		"waitlist": 0
 	},

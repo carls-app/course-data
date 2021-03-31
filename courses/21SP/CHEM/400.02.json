@@ -6,35 +6,14 @@
 	"id": "2021SP CHEM 400.02",
 	"instructors": [],
 	"number": "400",
-	"offerings": {
-		"locations": [
-			"Location To Be Announced"
-		],
-		"times": [
-			{
-				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
-			},
-			{
-				"day": "Fr",
-				"end": "3:20pm",
-				"start": "2:20pm"
-			}
-		]
-	},
+	"offerings": null,
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 5,
 		"total": 8,
 		"waitlist": 0
 	},

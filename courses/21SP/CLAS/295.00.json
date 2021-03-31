@@ -2,22 +2,35 @@
 	"comments": [],
 	"credits": 3.0,
 	"id": "2021SP CLAS 295.00",
-	"instructors": [],
+	"instructors": [
+		"Chico L Zimmerman"
+	],
 	"number": "295",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 3,
 		"total": 10,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "CLAS",
-	"summary": "The Colloquium is designed to introduce and consolidate the research and interpretive skills required in the highly interdisciplinary study of Classical antiquity. Meeting weekly, three two-week modules will be organized around the main areas identified in the Classics major requirements—historical analysis, literary analysis, archaeological analysis—in order to solidify skills in finding, reading/interpreting, and citing evidence and sources from, and about, the Classical world. Additionally, students will choose a Symposium theme for the following year and generate a common bibliography pertaining to the topic of the Symposium. Students will also draft a Call for Papers and identify potential Symposium respondents.",
+	"summary": null,
 	"synonym": "59190",
 	"tags": [],
 	"title": "Junior Colloquium",

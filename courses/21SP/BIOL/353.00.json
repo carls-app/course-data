@@ -10,13 +10,14 @@
 	"number": "353",
 	"offerings": {
 		"locations": [
-			"Hulings 103"
+			"Hulings 103",
+			"Anderson Hall 329"
 		],
 		"times": [
 			{
 				"day": "Th",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -26,7 +27,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 20,
 		"waitlist": 0
 	},

@@ -6,7 +6,21 @@
 		"Summer N Forester"
 	],
 	"number": "324",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:30pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "We",
+				"end": "9:30pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,11 +30,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 17,
 		"total": 15,
-		"waitlist": 0
+		"waitlist": 6
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "POSC",
 	"summary": null,
 	"synonym": "58873",
@@ -31,7 +45,8 @@
 		"POSCADVSEM",
 		"POSI-AREAS2",
 		"WGSTADDL",
-		"MESTGRP1"
+		"MESTGRP1",
+		"GWSSELECTIVE"
 	],
 	"title": "Rebels and Risk Takers: Women and War in the Middle East*",
 	"type": "Course",

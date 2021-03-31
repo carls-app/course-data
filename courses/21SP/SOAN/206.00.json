@@ -6,7 +6,26 @@
 		"Annette M Nierobisz"
 	],
 	"number": "206",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses numbered 200 or above",
 	"requirements": [
 		"SI",
@@ -17,7 +36,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 25,
 		"waitlist": 0
 	},

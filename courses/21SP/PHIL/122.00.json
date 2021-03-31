@@ -6,7 +6,26 @@
 		"Eddie E O'Byrn"
 	],
 	"number": "122",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,15 +36,17 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHIL",
 	"summary": null,
 	"synonym": "59055",
-	"tags": [],
+	"tags": [
+		"GWSSELECTIVE"
+	],
 	"title": "Identity and Leadership",
 	"type": "Course",
 	"year": 2021

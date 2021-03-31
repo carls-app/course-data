@@ -6,7 +6,26 @@
 		"David R Musicant"
 	],
 	"number": "251",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 201 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 34,
 		"total": 34,
-		"waitlist": 0
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "58590",

@@ -6,7 +6,23 @@
 		"Matthew J Olson"
 	],
 	"number": "128",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center M215"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			},
+			{
+				"day": "Th",
+				"end": "4:15pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Ability to read music and active participation in a faculty conducted ensemble, or permission of instructor.",
 	"requirements": [
 		"ARP"
@@ -15,7 +31,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 30,
 		"waitlist": 0
 	},

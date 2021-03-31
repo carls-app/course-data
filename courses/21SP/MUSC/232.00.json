@@ -8,7 +8,28 @@
 		"Andy A Flory"
 	],
 	"number": "232",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LA",
@@ -19,11 +40,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MUSC",
 	"summary": null,
 	"synonym": "58090",

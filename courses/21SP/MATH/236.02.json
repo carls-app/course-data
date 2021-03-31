@@ -6,7 +6,26 @@
 		"Alex J Barrios"
 	],
 	"number": "236",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 232 and either Mathematics 210 or Mathematics 211",
 	"requirements": [
 		"FSR"
@@ -15,7 +34,7 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 25,
 		"waitlist": 0
 	},

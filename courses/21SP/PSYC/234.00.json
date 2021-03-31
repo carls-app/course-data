@@ -1,14 +1,31 @@
 {
-	"comments": [
-		"Requires concurrent registration in Psychology 235"
-	],
+	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP PSYC 234.00",
 	"instructors": [
 		"Mija M Van Der Wege"
 	],
 	"number": "234",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
 		"LS"
@@ -17,13 +34,13 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 34,
+		"total": 30,
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PSYC",
-	"summary": "This course will cover a range of aspects of language use. We will spend time discussing language production and comprehension, discourse processing, the relationship between language and thought, and language acquisition. Additionally, we will touch on issues of memory, perception, concepts, mental representation, and neuroscience. Throughout the course, we will emphasize both the individual and social aspects of language as well as the dynamic and fluid nature of language use. Requires concurrent registration in Psychology 235. A grade of C- or better must be earned in both Psychology 234 and 235 to satisfy the LS requirement.",
+	"summary": null,
 	"synonym": "58366",
 	"tags": [
 		"CGSCELECTIVE",

@@ -8,7 +8,21 @@
 		"Cecilia M Cornejo"
 	],
 	"number": "111",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -17,11 +31,11 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 18,
-		"waitlist": 0
+		"registered": 13,
+		"total": 12,
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CAMS",
 	"summary": null,
 	"synonym": "58140",

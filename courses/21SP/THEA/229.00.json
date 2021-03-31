@@ -1,12 +1,28 @@
 {
-	"comments": [],
+	"comments": [
+		"Supplies Fee $45"
+	],
 	"credits": 3.0,
 	"id": "2021SP THEA 229.00",
 	"instructors": [
 		"Mary Ann A Kelling"
 	],
 	"number": "229",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -15,11 +31,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 23,
+		"total": 22,
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "THEA",
 	"summary": "Theory and practice of two and three dimensional makeup design for the performer. This course explores corrective, character and specialized makeup techniques as well as rendering techniques.",
 	"synonym": "58800",

@@ -6,7 +6,26 @@
 		"Rafe F Jones"
 	],
 	"number": "232",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 120 or Mathematics 211",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
 	"summary": "Vector spaces, linear transformations, determinants, inner products and orthogonality, eigenvectors and eigenvalues.",
 	"synonym": "58690",

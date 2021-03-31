@@ -6,23 +6,35 @@
 		"Eric D Hoopfer"
 	],
 	"number": "239",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings B04"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Concurrent registration in Neuroscience 238 required",
 	"requirements": [],
 	"scnc": null,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 7,
+		"total": 8,
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "NEUR",
 	"summary": null,
 	"synonym": "58516",
 	"tags": [
-		"NEURCORE"
+		"NEURCORE",
+		"BIOLELECTIVE"
 	],
 	"title": "Neurons, Circuits and Behavior Lab",
 	"type": "Course",

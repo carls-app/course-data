@@ -10,19 +10,17 @@
 	],
 	"number": "109",
 	"offerings": {
-		"locations": [
-			"Weitz Center 168"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			},
 			{
 				"day": "We",
-				"end": "1:40pm",
-				"start": "12:30pm"
+				"end": "2:10pm",
+				"start": "1:00pm"
 			}
 		]
 	},
@@ -34,11 +32,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 20,
+		"registered": 8,
+		"total": 25,
 		"waitlist": 0
 	},
-	"status": "Closed",
+	"status": "Open",
 	"subject": "PE",
 	"summary": "This is an advanced class for students who have some capabilities and proficiency in ballet technique. Content is sophisticated and demanding in its use of ballet vocabulary and musical phrasing.",
 	"synonym": "57439",

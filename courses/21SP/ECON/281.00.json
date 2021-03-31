@@ -6,7 +6,23 @@
 		"Michael T Hemesath"
 	],
 	"number": "281",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Boliou 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Economics 110",
 	"requirements": [
 		"SI",
@@ -16,11 +32,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 23,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ECON",
 	"summary": "This course studies theories of the multi-faceted interaction between the balance of international payments and foreign exchange market and the general levels of domestic prices, employment and economic activity. Topics include the balance of payments, foreign exchange markets, adjustment mechanisms in international payments, macroeconomic policies for internal and external balance, and international monetary systems.",
 	"synonym": "59138",

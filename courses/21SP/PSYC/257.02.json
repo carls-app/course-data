@@ -8,7 +8,19 @@
 		"Sharon A Akimoto"
 	],
 	"number": "257",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 06",
+			"Olin 08"
+		],
+		"times": [
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Psychology 110",
 	"requirements": [
 		"LS",
@@ -18,7 +30,7 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 4,
 		"total": 9,
 		"waitlist": 0
 	},

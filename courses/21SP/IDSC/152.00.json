@@ -7,7 +7,16 @@
 		"Clara S Hardy"
 	],
 	"number": "152",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "8:10pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"IS"
@@ -16,7 +25,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 24,
 		"total": 30,
 		"waitlist": 0
 	},

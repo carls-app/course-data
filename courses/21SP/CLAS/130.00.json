@@ -6,22 +6,44 @@
 		"Chico L Zimmerman"
 	],
 	"number": "130",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CLAS",
 	"summary": null,
 	"synonym": "57886",
-	"tags": [],
+	"tags": [
+		"LINGPERT",
+		"CLASADDITIONAL"
+	],
 	"title": "The Greek and Latin Roots of English",
 	"type": "Course",
 	"year": 2021

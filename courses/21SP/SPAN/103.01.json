@@ -3,21 +3,50 @@
 	"credits": 6.0,
 	"id": "2021SP SPAN 103.01",
 	"instructors": [
-		"Vera R Coleman"
+		"Walther Maradiegue"
 	],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Spanish 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 16,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": "This course continues the study of complex sentence patterns and reviews basic patterns in greater depth, partly through the discussion of authentic short stories. Students practice all four skills (reading, writing, listening and speaking) in Spanish. Taught five days a week in Spanish.",
 	"synonym": "59315",

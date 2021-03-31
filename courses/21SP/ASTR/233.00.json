@@ -9,8 +9,29 @@
 		"Cindy A Blaha"
 	],
 	"number": "233",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Physics 226, 228, 231 or instructor permission",
+	"offerings": {
+		"locations": [
+			"Anderson Hall 036"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Physics 228 or 231 or instructor permission",
 	"requirements": [
 		"QRE"
 	],
@@ -18,7 +39,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 18,
 		"waitlist": 0
 	},

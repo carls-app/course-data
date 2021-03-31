@@ -6,7 +6,26 @@
 		"Rob C Thompson"
 	],
 	"number": "341",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 241",
 	"requirements": [
 		"FSR"
@@ -15,7 +34,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 30,
 		"waitlist": 0
 	},

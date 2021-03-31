@@ -10,13 +10,14 @@
 	"number": "241",
 	"offerings": {
 		"locations": [
-			"Hulings 203"
+			"Hulings 206",
+			"Hulings 218"
 		],
 		"times": [
 			{
 				"day": "Tu",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
 			}
 		]
 	},
@@ -26,11 +27,11 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 20,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "BIOL",
 	"summary": null,
 	"synonym": "59351",

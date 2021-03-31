@@ -6,7 +6,26 @@
 		"Prathi Seneviratne"
 	],
 	"number": "111",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,7 +35,7 @@
 	"section": "03",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 30,
 		"waitlist": 0
 	},

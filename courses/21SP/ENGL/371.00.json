@@ -6,7 +6,18 @@
 		"Gregory G Hewett"
 	],
 	"number": "371",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 136"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "5:30pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: English 160, 161, 263, 265, 270, 271, 273, Cinema and Media Studies 271, 278, 279, Cross Cultural Studies 270 or Theater 246",
 	"requirements": [
 		"ARP",
@@ -16,7 +27,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 7,
 		"total": 15,
 		"waitlist": 0
 	},

@@ -8,7 +8,23 @@
 		"Peter J Balaam"
 	],
 	"number": "116",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LA",
@@ -18,7 +34,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 25,
 		"waitlist": 0
 	},
@@ -32,7 +48,7 @@
 		"THEAPERT",
 		"THEALITCRITHIST"
 	],
-	"title": "Introduction to Drama",
+	"title": "The Art of Drama",
 	"type": "Course",
 	"year": 2021
 }

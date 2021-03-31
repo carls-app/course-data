@@ -6,7 +6,28 @@
 		"Eric S Egge"
 	],
 	"number": "333",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 310"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 236 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,17 +36,15 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 28,
+		"registered": 22,
+		"total": 24,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
 	"summary": "The study of structures involving finite sets. Counting techniques, including generating functions, recurrence relations, and the inclusion-exclusion principle; existence criteria, including Ramsey's theorem and the pigeonhole principle. Some combinatorial identities and bijective proofs. Other topics may include graph and/or network theory, Hall's (\"marriage\") theorem, partitions, and hypergeometric series.",
 	"synonym": "58706",
-	"tags": [
-		"ELECSTAT"
-	],
+	"tags": [],
 	"title": "Combinatorial Theory",
 	"type": "Course",
 	"year": 2021

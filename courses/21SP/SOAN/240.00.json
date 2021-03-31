@@ -6,8 +6,29 @@
 		"Liz Y Raleigh"
 	],
 	"number": "240",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Sociology/Anthropology 110 or 111; Sociology/Anthropology 239 or Mathematics 215",
+	"offerings": {
+		"locations": [
+			"Weitz Center 133"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Sociology/Anthropology 110 or 111; Sociology/Anthropology 239, Mathematics 215 or Statistics 120",
 	"requirements": [
 		"SI",
 		"QRE",
@@ -17,7 +38,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 30,
 		"waitlist": 0
 	},

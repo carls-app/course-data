@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"2nd 5 Week. Waitlist Only. Registration by application to BIOL Dept. Instructor Permission required."
+		"2nd 5 weeks, meeting dates: 5-5, 5-12, 5-19, 5-26, 6-2"
 	],
 	"credits": 3.0,
 	"id": "2021SP BIOL 354.00",
@@ -8,16 +8,25 @@
 		"Charles E Crutchfield"
 	],
 	"number": "354",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "6:00pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Chemistry 233 and two upper division Biology courses (200 or 300-level) and instructor's permission required",
 	"requirements": [],
 	"scnc": true,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 0,
-		"waitlist": 0
+		"waitlist": 9
 	},
 	"status": "Closed",
 	"subject": "BIOL",

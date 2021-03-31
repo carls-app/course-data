@@ -6,19 +6,8 @@
 		"Guy A Kalland"
 	],
 	"number": "130",
-	"offerings": {
-		"locations": [
-			"West Gym 209"
-		],
-		"times": [
-			{
-				"day": "Th",
-				"end": "3:30pm",
-				"start": "1:15pm"
-			}
-		]
-	},
-	"prerequisites": null,
+	"offerings": null,
+	"prerequisites": "Prerequisite: Must be competent player, no beginners. Must have experience playing regulation course and be able to complete 9 holes in under 2 hours",
 	"requirements": [
 		"PE"
 	],
@@ -26,13 +15,13 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 12,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PE",
-	"summary": "For students who have experience with the fundamentals of the swing and the game and have also played (several times) on regulation golf courses. Each student must have (or have access to) their own set of clubs.",
+	"summary": null,
 	"synonym": "57450",
 	"tags": [],
 	"title": "Advanced Golf",

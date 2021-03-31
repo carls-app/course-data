@@ -8,33 +8,33 @@
 	"number": "102",
 	"offerings": {
 		"locations": [
-			"Language & Dining Center 202"
+			"Language & Dining Center 244"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Tu",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "12:10pm",
+				"start": "11:05am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "12:40pm",
+				"start": "11:30am"
 			},
 			{
 				"day": "Th",
-				"end": "11:50am",
-				"start": "10:45am"
+				"end": "12:10pm",
+				"start": "11:05am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "12:10pm",
+				"start": "11:10am"
 			}
 		]
 	},
@@ -44,7 +44,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 20,
 		"waitlist": 0
 	},
@@ -52,7 +52,9 @@
 	"subject": "GRK",
 	"summary": "Study of essential forms and grammar, with reading of original, unadapted passages.",
 	"synonym": "59177",
-	"tags": [],
+	"tags": [
+		"CLASCORE"
+	],
 	"title": "Intermediate Greek",
 	"type": "Course",
 	"year": 2021

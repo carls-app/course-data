@@ -6,7 +6,26 @@
 		"Meredith L McCoy"
 	],
 	"number": "301",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"WR2",
@@ -16,18 +35,18 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 16,
+		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": null,
 	"synonym": "57819",
 	"tags": [
 		"HISTUS"
 	],
-	"title": "Indigenous Histories of Carleton",
+	"title": "Indigenous Histories at Carleton",
 	"type": "Course",
 	"year": 2021
 }

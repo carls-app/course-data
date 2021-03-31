@@ -6,7 +6,24 @@
 		"Susannah R Ottaway"
 	],
 	"number": "139",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 236",
+			"Leighton 304"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 27,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 5
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": "A narrative and survey of the early modern period (fifteenth through eighteenth centuries). The course examines the Renaissance, Reformation, Contact with the Americas, the Scientific Revolution and Enlightenment. We compare the development of states and societies across Western Europe, with particularly close examination of the history of Spain.",
 	"synonym": "59759",

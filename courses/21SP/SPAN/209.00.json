@@ -6,7 +6,16 @@
 		"Palmar M Alvarez-Blanco"
 	],
 	"number": "209",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Spanish 204 or equivalent",
 	"requirements": [
 		"HI",
@@ -16,11 +25,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 10,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "SPAN",
 	"summary": null,
 	"synonym": "59325",

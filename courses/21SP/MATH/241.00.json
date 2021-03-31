@@ -6,7 +6,26 @@
 		"Kate J Meyer"
 	],
 	"number": "241",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 232 or instructor permission",
 	"requirements": [
 		"FSR"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 29,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 2
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MATH",
 	"summary": "An introduction to ordinary differential equations, including techniques for finding solutions, conditions under which solutions exist, and some qualitative analysis.",
 	"synonym": "58694",

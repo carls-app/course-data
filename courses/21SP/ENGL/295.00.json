@@ -8,7 +8,21 @@
 		"Susan Jaret McKinstry"
 	],
 	"number": "295",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: One English Foundations course and one prior 6 credit English course",
 	"requirements": [
 		"LA",
@@ -18,8 +32,8 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 13,
+		"total": 20,
 		"waitlist": 0
 	},
 	"status": "Open",

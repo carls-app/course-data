@@ -6,7 +6,21 @@
 		"Thabiti C Willis"
 	],
 	"number": "383",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:45pm",
+				"start": "7:00pm"
+			},
+			{
+				"day": "Th",
+				"end": "8:45pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,7 +31,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 15,
 		"waitlist": 0
 	},

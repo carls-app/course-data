@@ -1,6 +1,6 @@
 {
 	"comments": [
-		"Held for first year students, Extra Time Required, weekend field trip"
+		"Held for first year students"
 	],
 	"credits": 6.0,
 	"id": "2021SP GEOL 135.52",
@@ -8,7 +8,34 @@
 		"Dan P Maxbauer"
 	],
 	"number": "135",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 129",
+			"Location To Be Announced"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LS",
@@ -18,11 +45,11 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 18,
 		"total": 18,
-		"waitlist": 0
+		"waitlist": 5
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "GEOL",
 	"summary": null,
 	"synonym": "58292",

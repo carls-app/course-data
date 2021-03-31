@@ -8,7 +8,26 @@
 		"Andy N Poppick"
 	],
 	"number": "320",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Statistics 230 and 250 (formerly Mathematics 245 and 275). Exposure to matrix algebra may be helpful but is not required",
 	"requirements": [
 		"FSR",
@@ -18,15 +37,17 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 15,
-		"waitlist": 0
+		"registered": 20,
+		"total": 20,
+		"waitlist": 6
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "STAT",
 	"summary": null,
 	"synonym": "58623",
-	"tags": [],
+	"tags": [
+		"ELECSTAT"
+	],
 	"title": "Time Series Analysis",
 	"type": "Course",
 	"year": 2021

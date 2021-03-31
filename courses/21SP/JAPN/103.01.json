@@ -2,16 +2,47 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP JAPN 103.01",
-	"instructors": [],
+	"instructors": [
+		"Kevin P Mulholland"
+	],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Th",
+				"end": "9:20am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Japanese 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 16,
 		"waitlist": 0
 	},

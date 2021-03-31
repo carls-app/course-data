@@ -6,7 +6,24 @@
 		"Andrew I Carlson"
 	],
 	"number": "245",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 182",
+			"Weitz Center 172"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -15,7 +32,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 12,
 		"waitlist": 0
 	},

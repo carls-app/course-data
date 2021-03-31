@@ -6,7 +6,28 @@
 		"Adeeb Khalid"
 	],
 	"number": "240",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 132"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -16,11 +37,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 30,
-		"waitlist": 0
+		"registered": 18,
+		"total": 25,
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": "Nicholas II, the last Tsar-Emperor of Russia, ruled over an empire that stretched from the Baltic to the Pacific. Territorial expansion over three-and-a-half centuries had brought under Russian rule a vast empire of immense diversity. The empire's subjects spoke a myriad languages, belonged to numerous religious communities, and related to the state in a wide variety of ways. Its artists produced some of the greatest literature and music of the nineteenth century and it offered fertile ground for ideologies of both conservative imperialism and radical revolution. This course surveys the panorama of this empire from its inception in the sixteenth century to its demise in the flames of World War I. Among the key analytical questions addressed are the following: How did the Russian Empire manage its diversity? How does Russia compare with other colonial empires? What understandings of political order legitimized it and how were they challenged?",
 	"synonym": "58974",

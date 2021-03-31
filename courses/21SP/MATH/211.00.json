@@ -6,7 +6,26 @@
 		"Alexander Garver"
 	],
 	"number": "211",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 121, score of 4 or 5 on the AP Calculus BC exam, or placement via Calculus Placement Exam #3",
 	"requirements": [
 		"FSR"
@@ -15,7 +34,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 30,
 		"waitlist": 0
 	},

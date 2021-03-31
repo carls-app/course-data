@@ -6,14 +6,35 @@
 		"Shaohua Guo"
 	],
 	"number": "364",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Chinese 206 or equivalent (students who have taken one 300-level course at Carleton are qualified to register)",
-	"requirements": [],
+	"requirements": [
+		"LA"
+	],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 15,
 		"waitlist": 0
 	},
@@ -21,7 +42,13 @@
 	"subject": "CHIN",
 	"summary": null,
 	"synonym": "57837",
-	"tags": [],
+	"tags": [
+		"ASSTLANG",
+		"EASTSUPP",
+		"ASSTAL",
+		"ASSTEAST",
+		"ENGLFORLIT"
+	],
 	"title": "Chinese Classic Tales and Modern Adaptation",
 	"type": "Course",
 	"year": 2021

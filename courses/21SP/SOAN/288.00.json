@@ -8,7 +8,26 @@
 		"Wes D Markofski"
 	],
 	"number": "288",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: The department strongly recommends that Sociology/Anthropology 110 or 111 be taken prior to enrolling in courses number 200 or above",
 	"requirements": [
 		"SI",
@@ -18,7 +37,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 23,
 		"total": 25,
 		"waitlist": 0
 	},
@@ -29,7 +48,9 @@
 	"tags": [
 		"POSI-DSS2",
 		"EDUCCLUSTER2",
-		"PPOLSP"
+		"PPOLSP",
+		"AMSTREI",
+		"AMSTDAC"
 	],
 	"title": "Diversity, Democracy, Inequality in America",
 	"type": "Course",

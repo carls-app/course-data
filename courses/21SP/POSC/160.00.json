@@ -6,7 +6,23 @@
 		"Laurence D Cooper"
 	],
 	"number": "160",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Olin 149"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:00pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -16,7 +32,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 30,
 		"waitlist": 0
 	},

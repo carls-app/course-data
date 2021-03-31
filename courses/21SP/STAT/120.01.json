@@ -4,9 +4,30 @@
 	],
 	"credits": 6.0,
 	"id": "2021SP STAT 120.01",
-	"instructors": [],
+	"instructors": [
+		"Owen D Biesel"
+	],
 	"number": "120",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Psychology 200/201, Sociology/Anthropology 239 or Statistics 250 (formerly Mathematics 275).",
 	"requirements": [
 		"FSR",
@@ -16,11 +37,11 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 31,
 		"total": 32,
-		"waitlist": 0
+		"waitlist": 10
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "STAT",
 	"summary": null,
 	"synonym": "57880",

@@ -6,18 +6,32 @@
 	"id": "2021SP BIOL 126.53",
 	"instructors": [
 		"Daniel L Hernandez",
-		"Matt S Rand"
+		"Matt S Rand",
+		"Annie L Bosacker"
 	],
 	"number": "126",
 	"offerings": {
-		"locations": [
-			"Hulings 115"
-		],
+		"locations": [],
 		"times": [
 			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
 				"day": "We",
-				"end": "6:00pm",
-				"start": "2:00pm"
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			},
+			{
+				"day": "We",
+				"end": "6:30pm",
+				"start": "2:30pm"
 			}
 		]
 	},
@@ -30,7 +44,7 @@
 	"section": "53",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 20,
 		"waitlist": 0
 	},

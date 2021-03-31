@@ -6,7 +6,26 @@
 		"Anita P Chikkatur"
 	],
 	"number": "338",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: 100 or 200-level Educational Studies course or instructor permission",
 	"requirements": [
 		"SI",
@@ -16,7 +35,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 20,
 		"waitlist": 0
 	},

@@ -6,14 +6,43 @@
 		"Fernando I Contreras Flamand"
 	],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "12:10pm",
+				"start": "11:05am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Th",
+				"end": "12:10pm",
+				"start": "11:05am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Spanish 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
 	"section": "04",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 16,
 		"waitlist": 0
 	},

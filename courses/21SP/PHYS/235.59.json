@@ -6,7 +6,34 @@
 		"Helen K Minsky"
 	],
 	"number": "235",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Location To Be Announced",
+			"Anderson Hall 027"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Th",
+				"end": "12:00pm",
+				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Physics 165, 226, 228 or Physics 231; Mathematics 210 or Mathematics 211; or instructor permission",
 	"requirements": [
 		"LS",
@@ -16,8 +43,8 @@
 	"section": "59",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 12,
+		"registered": 9,
+		"total": 10,
 		"waitlist": 0
 	},
 	"status": "Open",

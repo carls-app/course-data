@@ -6,7 +6,24 @@
 		"Judith A Howard"
 	],
 	"number": "190",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 165",
+			"Weitz Center 168"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -15,11 +32,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 20,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "DANC",
 	"summary": "This introductory course in choreography explores games, structures, systems and sports as sources and locations of movement composition and performance. Readings, viewings and discussion of postmodernist structures and choreographers as well as attendance and analysis of dance performances and sports events will be jumping off point for creative process and will pave the way for small individual compositions and one larger project. In an atmosphere of play, spontaneity and research participants will discover new ways of defining dance, pushing limits and bending the rules. Guest choreographers and coaches will be invited as part of the class. Open to all movers. No previous experience necessary.",
 	"synonym": "58763",

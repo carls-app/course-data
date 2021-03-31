@@ -8,7 +8,26 @@
 		"Nancy J Cho"
 	],
 	"number": "115",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -19,11 +38,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 4
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "AMST",
 	"summary": null,
 	"synonym": "59072",

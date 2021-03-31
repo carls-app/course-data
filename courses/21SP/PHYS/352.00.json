@@ -6,14 +6,35 @@
 		"Chris J West"
 	],
 	"number": "352",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 223"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Physics 235, Mathematics 341 strongly recommended",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 12,
 		"waitlist": 0
 	},

@@ -6,7 +6,34 @@
 		"Bereket Haileab"
 	],
 	"number": "255",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 123",
+			"Location To Be Announced"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Geology 250",
 	"requirements": [
 		"LS"
@@ -15,7 +42,7 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 12,
 		"waitlist": 0
 	},

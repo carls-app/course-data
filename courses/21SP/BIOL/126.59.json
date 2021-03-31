@@ -7,18 +7,31 @@
 	"instructors": [
 		"Daniel L Hernandez",
 		"Matt S Rand",
-		"Sarah Deel"
+		"Mike T Nishizaki"
 	],
 	"number": "126",
 	"offerings": {
-		"locations": [
-			"Hulings 115"
-		],
+		"locations": [],
 		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
 			{
 				"day": "Th",
 				"end": "12:00pm",
 				"start": "8:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -31,7 +44,7 @@
 	"section": "59",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 19,
 		"total": 20,
 		"waitlist": 0
 	},

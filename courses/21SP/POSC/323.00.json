@@ -2,9 +2,30 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP POSC 323.00",
-	"instructors": [],
+	"instructors": [
+		"Eric S Mosinger"
+	],
 	"number": "323",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -15,7 +36,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 15,
 		"waitlist": 0
 	},

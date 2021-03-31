@@ -6,14 +6,43 @@
 		"Zaki A Haidar"
 	],
 	"number": "103",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Tu",
+				"end": "10:45am",
+				"start": "9:40am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Th",
+				"end": "10:45am",
+				"start": "9:40am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Arabic 102 or equivalent",
 	"requirements": [],
 	"scnc": null,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 7,
 		"total": 20,
 		"waitlist": 0
 	},

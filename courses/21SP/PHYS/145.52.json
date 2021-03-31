@@ -9,7 +9,33 @@
 		"Cindy A Blaha"
 	],
 	"number": "145",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Location To Be Announced"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Tu",
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 101 or 111. Not open to students who have completed Physics 131, 143, or 144 at Carleton.",
 	"requirements": [
 		"LS",
@@ -19,11 +45,11 @@
 	"section": "52",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 24,
 		"total": 24,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHYS",
 	"summary": null,
 	"synonym": "58240",

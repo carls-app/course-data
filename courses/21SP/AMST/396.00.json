@@ -6,7 +6,21 @@
 		"Adriana Estill"
 	],
 	"number": "396",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: American Studies 115 or instructor consent",
 	"requirements": [
 		"HI",
@@ -17,7 +31,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 11,
 		"total": 15,
 		"waitlist": 0
 	},
@@ -25,8 +39,11 @@
 	"subject": "AMST",
 	"summary": null,
 	"synonym": "57831",
-	"tags": [],
-	"title": "Producing Latindad",
+	"tags": [
+		"LTAMELECTIVE",
+		"GWSSELECTIVE"
+	],
+	"title": "Producing Latinidad",
 	"type": "Course",
 	"year": 2021
 }

@@ -6,7 +6,26 @@
 		"Rob C Thompson"
 	],
 	"number": "210",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 120. This course cannot be substituted for Mathematics 211",
 	"requirements": [
 		"FSR"
@@ -15,7 +34,7 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 16,
 		"total": 30,
 		"waitlist": 0
 	},

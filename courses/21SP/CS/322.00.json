@@ -6,7 +6,26 @@
 		"James O Ryan"
 	],
 	"number": "322",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 201 and Computer Science 202 (Mathematics 236 will be accepted in lieu of Computer Science 202)",
 	"requirements": [
 		"FSR",
@@ -16,11 +35,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 28,
-		"waitlist": 0
+		"registered": 32,
+		"total": 34,
+		"waitlist": 6
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": null,
 	"synonym": "58593",

@@ -10,19 +10,17 @@
 	],
 	"number": "117",
 	"offerings": {
-		"locations": [
-			"Weitz Center 165"
-		],
+		"locations": [],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			}
 		]
 	},
@@ -34,7 +32,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 25,
 		"waitlist": 0
 	},

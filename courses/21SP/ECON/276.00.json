@@ -6,7 +6,26 @@
 		"Yaniv Ben-Ami"
 	],
 	"number": "276",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Economics 110 and 111",
 	"requirements": [
 		"SI",
@@ -16,7 +35,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 8,
 		"total": 25,
 		"waitlist": 0
 	},

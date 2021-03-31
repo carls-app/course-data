@@ -4,9 +4,30 @@
 	],
 	"credits": 6.0,
 	"id": "2021SP CS 111.01",
-	"instructors": [],
+	"instructors": [
+		"David R Musicant"
+	],
 	"number": "111",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"FSR",
@@ -16,13 +37,13 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 34,
 		"waitlist": 0
 	},
 	"status": "Open",
 	"subject": "CS",
-	"summary": "This course will introduce you to computer programming and the design of algorithms. By writing programs to solve problems in areas such as image processing, text processing, and simple games, you will learn about recursive and iterative algorithms, complexity analysis, graphics, data representation, software engineering, and object-oriented design. No previous programming experience is necessary. Students who have received credit for Computer Science 201 or above are not eligible to enroll in Computer Science 111.\n    \n\n     Sophomore Priority\n    \n\n\n      Waitlist for Juniors and Seniors:\n     \n     CS 111.WL1 (Synonym 58571)",
+	"summary": null,
 	"synonym": "58568",
 	"tags": [
 		"CGSCCORE",

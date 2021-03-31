@@ -8,7 +8,29 @@
 		"Alex R Knodell"
 	],
 	"number": "246",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 121",
+			"Anderson Hall 122"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "We",
+				"end": "5:00pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"LS",
@@ -18,11 +40,11 @@
 	"section": "53",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 12,
+		"registered": 10,
+		"total": 11,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ARCN",
 	"summary": null,
 	"synonym": "59096",

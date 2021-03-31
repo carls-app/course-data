@@ -8,24 +8,23 @@
 	"number": "220",
 	"offerings": {
 		"locations": [
-			"Olin 104",
-			"Olin 04"
+			"Language & Dining Center 244"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "We",
-				"end": "12:20pm",
-				"start": "11:10am"
+				"end": "11:10am",
+				"start": "10:00am"
 			},
 			{
 				"day": "Fr",
-				"end": "1:00pm",
-				"start": "12:00pm"
+				"end": "10:50am",
+				"start": "9:50am"
 			}
 		]
 	},
@@ -38,7 +37,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 25,
 		"waitlist": 0
 	},

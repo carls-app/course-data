@@ -6,7 +6,23 @@
 		"Jason A Decker"
 	],
 	"number": "287",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 104"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "10:00am",
+				"start": "8:15am"
+			},
+			{
+				"day": "Th",
+				"end": "10:00am",
+				"start": "8:15am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,11 +33,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 24,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 11
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PHIL",
 	"summary": null,
 	"synonym": "57814",

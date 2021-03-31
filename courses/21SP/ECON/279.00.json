@@ -6,7 +6,21 @@
 		"Eduard Storm"
 	],
 	"number": "279",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Economics 110 and Economics 111",
 	"requirements": [
 		"SI",
@@ -16,7 +30,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 25,
 		"waitlist": 0
 	},

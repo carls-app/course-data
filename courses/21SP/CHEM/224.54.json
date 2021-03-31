@@ -8,13 +8,30 @@
 	"number": "224",
 	"offerings": {
 		"locations": [
+			"Location To Be Announced",
+			"Anderson Hall 221",
 			"Anderson Hall 229"
 		],
 		"times": [
 			{
+				"day": "Mo",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
+				"day": "We",
+				"end": "9:40am",
+				"start": "8:30am"
+			},
+			{
 				"day": "Th",
-				"end": "5:00pm",
-				"start": "1:00pm"
+				"end": "5:45pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Fr",
+				"end": "9:30am",
+				"start": "8:30am"
 			}
 		]
 	},
@@ -27,11 +44,11 @@
 	"section": "54",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 23,
 		"total": 24,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CHEM",
 	"summary": null,
 	"synonym": "58179",

@@ -6,7 +6,28 @@
 		"Joe Chihade"
 	],
 	"number": "320",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Hulings 310"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Chemistry 234 and either Chemistry 224 or Biology 380",
 	"requirements": [
 		"QRE"
@@ -15,11 +36,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 53,
 		"total": 40,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CHEM",
 	"summary": "This course involves the natural extension of the principles of chemistry to biological systems. The topics to be examined center around the biochemical formation and cleavage of chemical bonds, with an emphasis on the structure and function of the proteins that mediate these processes.",
 	"synonym": "58183",

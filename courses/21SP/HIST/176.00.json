@@ -6,7 +6,28 @@
 		"Jennifer L Schaefer"
 	],
 	"number": "176",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 161"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,11 +38,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 30,
-		"waitlist": 0
+		"waitlist": 5
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "HIST",
 	"summary": null,
 	"synonym": "59431",

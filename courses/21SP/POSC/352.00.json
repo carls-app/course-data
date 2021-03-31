@@ -6,7 +6,23 @@
 		"Laurence D Cooper"
 	],
 	"number": "352",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center 233"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -17,7 +33,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 9,
 		"total": 15,
 		"waitlist": 0
 	},

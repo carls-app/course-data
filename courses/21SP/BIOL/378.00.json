@@ -6,7 +6,26 @@
 		"Rika E Anderson"
 	],
 	"number": "378",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126 and one additional 200- or 300-level Biology course, or permission of the instructor",
 	"requirements": [
 		"QRE"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
-		"waitlist": 0
+		"waitlist": 4
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "BIOL",
 	"summary": null,
 	"synonym": "58512",

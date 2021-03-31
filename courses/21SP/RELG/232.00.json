@@ -2,9 +2,32 @@
 	"comments": [],
 	"credits": 6.0,
 	"id": "2021SP RELG 232.00",
-	"instructors": [],
+	"instructors": [
+		"Elizabeth F Dolfi"
+	],
 	"number": "232",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Leighton 402"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"HI",
@@ -15,13 +38,13 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 25,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 9
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "RELG",
-	"summary": "Passions, pleasures, ecstasies, and desires bear on religion and sexuality alike, but intersections and tensions between these two domains are complicated. This course wagers that bringing the hotly contested categories “queer” and “religion” together will illuminate the diverse range of bodies, activities, and identities that inhabit both. The course explores religion and sexuality in Modern Western thought, erotic elements in religious texts and art, and novels and narratives of religious belief and practice in queer lives. The course combines concrete cases with theoretical tools that queer and feminist scholars have used to analyze religious and sexual communities, bodies, and identities.",
+	"summary": null,
 	"synonym": "59508",
 	"tags": [
 		"RELGCHRISTNTRAD",
@@ -29,7 +52,7 @@
 		"AMSTPCC",
 		"GWSSELECTIVE"
 	],
-	"title": "Queer Religion",
+	"title": "Queer Religions",
 	"type": "Course",
 	"year": 2021
 }

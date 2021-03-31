@@ -6,7 +6,26 @@
 		"Matt T Whited"
 	],
 	"number": "351",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "Fr",
+				"end": "2:50pm",
+				"start": "1:50pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Chemistry 234 and 344",
 	"requirements": [
 		"QRE"
@@ -15,7 +34,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 12,
 		"total": 25,
 		"waitlist": 0
 	},

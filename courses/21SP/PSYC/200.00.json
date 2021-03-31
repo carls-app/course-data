@@ -8,8 +8,27 @@
 		"Ken B Abrams"
 	],
 	"number": "200",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Psychology 110 or instructor consent; Requires concurrent registration in Psychology 201",
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Psychology 110 or instructor consent; Concurrent registration in Psychology 201",
 	"requirements": [
 		"FSR",
 		"QRE"
@@ -18,11 +37,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
-		"waitlist": 0
+		"registered": 24,
+		"total": 24,
+		"waitlist": 13
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PSYC",
 	"summary": "The course considers the role of measurement and data analysis focused on behavioral sciences. Various forms of measurement and standards for the evaluation of measures are explored. Students learn how to summarize, organize, and evaluate data using a variety of techniques that are applicable to research in psychology and other disciplines. Among the analyses discussed and applied are tests of means, various forms of analysis of variance, correlation and regression, planned and post-hoc comparisons, as well as various non-parametric tests. Research design is also explored.",
 	"synonym": "58363",

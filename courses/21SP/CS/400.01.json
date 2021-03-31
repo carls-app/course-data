@@ -6,18 +6,27 @@
 		"Sneha Narayan"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Th",
+				"end": "10:30am",
+				"start": "9:30am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 399",
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 5,
 		"total": 5,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CS",
 	"summary": "Beginning with the prototypes developed in the Senior Seminar, project teams will complete their project and present it to the department. Required of all senior majors.",
 	"synonym": "58573",

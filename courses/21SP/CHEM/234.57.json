@@ -8,13 +8,29 @@
 	"number": "234",
 	"offerings": {
 		"locations": [
-			"Anderson Hall 323"
+			"Olin 149",
+			"Anderson Hall 321"
 		],
 		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
 			{
 				"day": "Tu",
 				"end": "12:00pm",
 				"start": "8:00am"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
 			}
 		]
 	},
@@ -27,14 +43,14 @@
 	"section": "57",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 20,
-		"waitlist": 0
+		"registered": 13,
+		"total": 12,
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "CHEM",
 	"summary": null,
-	"synonym": "58182",
+	"synonym": "60017",
 	"tags": [
 		"BIOCCORE"
 	],

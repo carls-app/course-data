@@ -8,8 +8,17 @@
 		"Mija M Van Der Wege"
 	],
 	"number": "235",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Psychology 110",
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "4:45pm",
+				"start": "1:45pm"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Psychology 110 ; Concurrent registration in Psychology 234",
 	"requirements": [
 		"LS",
 		"QRE"
@@ -18,7 +27,7 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 10,
 		"total": 12,
 		"waitlist": 0
 	},

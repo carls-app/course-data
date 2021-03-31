@@ -1,0 +1,47 @@
+{
+	"comments": [
+		"$20 fee automatically charged to tuition bill."
+	],
+	"credits": 0.0,
+	"id": "2021SP PE 142.02",
+	"instructors": [
+		"Aaron J Chaput",
+		"Annie M Larson"
+	],
+	"number": "142",
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "8:00pm",
+				"start": "6:30pm"
+			},
+			{
+				"day": "Sa",
+				"end": "12:00pm",
+				"start": "10:00am"
+			}
+		]
+	},
+	"prerequisites": null,
+	"requirements": [
+		"PE"
+	],
+	"scnc": true,
+	"section": "02",
+	"semester": "SP",
+	"size": {
+		"registered": 2,
+		"total": 12,
+		"waitlist": 0
+	},
+	"status": "Open",
+	"subject": "PE",
+	"summary": null,
+	"synonym": "60084",
+	"tags": [],
+	"title": "Karate",
+	"type": "Course",
+	"year": 2021
+}

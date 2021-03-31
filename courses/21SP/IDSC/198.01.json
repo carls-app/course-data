@@ -8,18 +8,27 @@
 		"Fernan F Jaramillo"
 	],
 	"number": "198",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [],
 	"scnc": true,
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 15,
 		"total": 15,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "IDSC",
 	"summary": null,
 	"synonym": "59246",

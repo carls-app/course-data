@@ -6,14 +6,25 @@
 		"Zaki A Haidar"
 	],
 	"number": "395",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Language & Dining Center 335"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "8:45pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Middle East Studies minor",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 5,
 		"total": 15,
 		"waitlist": 0
 	},

@@ -6,7 +6,21 @@
 		"Catherine R Fortin"
 	],
 	"number": "325",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Linguistics 216",
 	"requirements": [
 		"LS"
@@ -15,7 +29,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 20,
 		"total": 25,
 		"waitlist": 0
 	},

@@ -8,7 +8,26 @@
 		"Steve T Scheirer"
 	],
 	"number": "120",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Not open to students who have already received credit for Psychology 200/201, Sociology/Anthropology 239 or Statistics 250 (formerly Mathematics 275).",
 	"requirements": [
 		"FSR",
@@ -18,11 +37,11 @@
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 32,
 		"total": 32,
-		"waitlist": 0
+		"waitlist": 9
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "STAT",
 	"summary": null,
 	"synonym": "57882",

@@ -8,19 +8,18 @@
 	"number": "188",
 	"offerings": {
 		"locations": [
-			"West Gym 101",
-			"West Gym 209"
+			"West Gym 101"
 		],
 		"times": [
 			{
 				"day": "Mo",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			},
 			{
 				"day": "We",
-				"end": "3:00pm",
-				"start": "1:50pm"
+				"end": "3:40pm",
+				"start": "2:30pm"
 			}
 		]
 	},
@@ -32,11 +31,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 24,
-		"waitlist": 0
+		"registered": 10,
+		"total": 12,
+		"waitlist": 8
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PE",
 	"summary": "An excellent preparation for the \"Carleton Triathlon\" held at the end of May. Students will learn how to effectively train in each of the three traditional sports of triathlon (swim, bike, run). Instruction covers basic training principles, technique development, competitive preparation. This course is open to all levels of experience from novice to advanced. Students must possess a minimal amount of skill and conditioning in the three sports prior to enrollment.",
 	"synonym": "57475",

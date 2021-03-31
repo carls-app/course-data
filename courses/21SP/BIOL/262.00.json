@@ -8,7 +8,28 @@
 		"Mike T Nishizaki"
 	],
 	"number": "262",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Anderson Hall 329"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			},
+			{
+				"day": "Fr",
+				"end": "4:10pm",
+				"start": "3:10pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Biology 125 and 126; Concurrent registration in Biology 263 required",
 	"requirements": [
 		"LS"
@@ -17,11 +38,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 22,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "BIOL",
 	"summary": null,
 	"synonym": "58510",

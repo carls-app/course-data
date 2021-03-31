@@ -3,10 +3,29 @@
 	"credits": 6.0,
 	"id": "2021SP ENGL 109.00",
 	"instructors": [
-		"George G Shuffelton"
+		"Timothy Raylor"
 	],
 	"number": "109",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "We",
+				"end": "12:40pm",
+				"start": "11:30am"
+			},
+			{
+				"day": "Fr",
+				"end": "12:10pm",
+				"start": "11:10am"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"WR2"
@@ -15,11 +34,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 14,
 		"total": 15,
-		"waitlist": 0
+		"waitlist": 5
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ENGL",
 	"summary": null,
 	"synonym": "58930",

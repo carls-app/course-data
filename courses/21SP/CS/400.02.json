@@ -6,14 +6,23 @@
 		"Sneha Narayan"
 	],
 	"number": "400",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Th",
+				"end": "3:00pm",
+				"start": "2:00pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Computer Science 399",
 	"requirements": [],
 	"scnc": true,
 	"section": "02",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 6,
 		"total": 8,
 		"waitlist": 0
 	},

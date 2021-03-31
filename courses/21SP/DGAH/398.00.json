@@ -6,14 +6,23 @@
 		"Austin P Mason"
 	],
 	"number": "398",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "We",
+				"end": "3:40pm",
+				"start": "2:30pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Prior digital arts and humanities course work, including but not limited to core DGAH courses",
 	"requirements": [],
 	"scnc": null,
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 4,
 		"total": 15,
 		"waitlist": 0
 	},

@@ -6,7 +6,21 @@
 		"Candace I Moore"
 	],
 	"number": "340",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			},
+			{
+				"day": "Th",
+				"end": "3:30pm",
+				"start": "1:45pm"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Cinema and Media Studies 110 or instructor permission",
 	"requirements": [
 		"LA"
@@ -15,7 +29,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 13,
 		"total": 15,
 		"waitlist": 0
 	},

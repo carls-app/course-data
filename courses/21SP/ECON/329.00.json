@@ -6,7 +6,21 @@
 		"Mark T Kanazawa"
 	],
 	"number": "329",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: Mathematics 111 and either Statistics 120 (formerly Mathematics 215) or Statistics 250 (formerly Mathematics 275), and Economics 110 and 111 or instructor consent",
 	"requirements": [
 		"SI",
@@ -16,11 +30,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 30,
 		"total": 25,
-		"waitlist": 0
+		"waitlist": 3
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "ECON",
 	"summary": null,
 	"synonym": "59139",

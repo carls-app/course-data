@@ -8,7 +8,28 @@
 		"Justin M London"
 	],
 	"number": "227",
-	"offerings": null,
+	"offerings": {
+		"locations": [
+			"Weitz Center M104"
+		],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "We",
+				"end": "11:10am",
+				"start": "10:00am"
+			},
+			{
+				"day": "Fr",
+				"end": "10:50am",
+				"start": "9:50am"
+			}
+		]
+	},
 	"prerequisites": "Prerequisite: A previous course in Music or Psychology, or instructor permission; Concurrent registration in Music 228",
 	"requirements": [
 		"QRE",
@@ -18,11 +39,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 25,
+		"registered": 30,
+		"total": 30,
 		"waitlist": 0
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "MUSC",
 	"summary": "Covers basic issues in auditory perception and cognition with an emphasis on the perception of musical pitch, including sensory discrimination, categorical perception, roughness and dissonance, absolute pitch, and auditory streaming. Other topics to be covered include the processing of language and music, and emotional responses to music. A grade of C- or better must be earned in both Music 227 and 228 to satisfy the LS requirement.",
 	"synonym": "58085",

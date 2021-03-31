@@ -8,8 +8,24 @@
 		"Ken B Abrams"
 	],
 	"number": "201",
-	"offerings": null,
-	"prerequisites": "Prerequisite: Psychology 110. Requires concurrent registration in Psychology 200",
+	"offerings": {
+		"locations": [
+			"Olin 310"
+		],
+		"times": [
+			{
+				"day": "Tu",
+				"end": "12:05pm",
+				"start": "10:20am"
+			},
+			{
+				"day": "Th",
+				"end": "12:05pm",
+				"start": "10:20am"
+			}
+		]
+	},
+	"prerequisites": "Prerequisite: Psychology 110 and concurrent registration in Psychology 200",
 	"requirements": [
 		"QRE"
 	],
@@ -17,11 +33,11 @@
 	"section": "01",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 15,
-		"waitlist": 0
+		"registered": 12,
+		"total": 12,
+		"waitlist": 4
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "PSYC",
 	"summary": "This lab course accompanies the lecture course, Psychology 200, and must be taken during the same term. The lab will provide an opportunity to explore lecture topics more deeply, and in particular emphasize data collection and computational skills.",
 	"synonym": "58364",

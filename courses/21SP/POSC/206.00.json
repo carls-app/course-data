@@ -1,12 +1,23 @@
 {
-	"comments": [],
+	"comments": [
+		"2nd 5 weeks"
+	],
 	"credits": 3.0,
 	"id": "2021SP POSC 206.00",
 	"instructors": [
 		"Ross Wilson"
 	],
 	"number": "206",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "9:30pm",
+				"start": "7:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"SI",
@@ -16,7 +27,7 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
+		"registered": 21,
 		"total": 25,
 		"waitlist": 0
 	},

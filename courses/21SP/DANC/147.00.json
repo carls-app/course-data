@@ -8,7 +8,21 @@
 		"Jane Shockley"
 	],
 	"number": "147",
-	"offerings": null,
+	"offerings": {
+		"locations": [],
+		"times": [
+			{
+				"day": "Mo",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			},
+			{
+				"day": "We",
+				"end": "2:10pm",
+				"start": "1:00pm"
+			}
+		]
+	},
 	"prerequisites": null,
 	"requirements": [
 		"ARP"
@@ -17,11 +31,11 @@
 	"section": "00",
 	"semester": "SP",
 	"size": {
-		"registered": 0,
-		"total": 20,
-		"waitlist": 0
+		"registered": 21,
+		"total": 25,
+		"waitlist": 1
 	},
-	"status": "Open",
+	"status": "Closed",
 	"subject": "DANC",
 	"summary": "This course seeks to provide an underlying awareness of body structure and function. Using movement to expand knowledge of our anatomy will encourage participants to integrate information with experience. Heightened body awareness and class studies are designed to activate the general learning process.",
 	"synonym": "58754",
